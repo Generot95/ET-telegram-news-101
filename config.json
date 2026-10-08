@@ -32,14 +32,16 @@
         "defense spending",
         "defence spending",
         "bombing"
-      ]
+      ],
+      "paused": false
     },
     "Iran": {
       "topic_id": 6,
       "feeds": {
         "Iran International": "https://www.iranintl.com/en/feed"
       },
-      "keywords": []
+      "keywords": [],
+      "paused": false
     },
     "AI": {
       "topic_id": 7,
@@ -70,7 +72,8 @@
         "AMD",
         "Advanced Micro Devices",
         "energy"
-      ]
+      ],
+      "paused": false
     },
     "Crypto": {
       "topic_id": 8,
@@ -88,7 +91,8 @@
         "ETH",
         "Bitmine",
         "BMNR"
-      ]
+      ],
+      "paused": false
     },
     "Cybersecurity": {
       "topic_id": 9,
@@ -123,7 +127,8 @@
         "Fortinet",
         "SentinelOne",
         "Okta"
-      ]
+      ],
+      "paused": false
     },
     "SG Banks": {
       "topic_id": 10,
@@ -145,7 +150,64 @@
         "D05",
         "O39",
         "U11"
-      ]
+      ],
+      "paused": false
+    },
+    "Watchlist": {
+      "topic_id": 88,
+      "feeds": {
+        "Yahoo Finance (AMD, NVDA, CRWD, MSFT, INTU, BRK-B)": "https://feeds.finance.yahoo.com/rss/2.0/headline?s=AMD,NVDA,CRWD,MSFT,INTU,BRK-B&region=US&lang=en-US",
+        "Yahoo Finance (AMZN, GOOG, ZTS, LIN, VLO, D05.SI)": "https://feeds.finance.yahoo.com/rss/2.0/headline?s=AMZN,GOOG,ZTS,LIN,VLO,D05.SI&region=US&lang=en-US",
+        "Yahoo Finance (O39.SI, U11.SI, A17U.SI, HMN.SI, JYEU.SI)": "https://feeds.finance.yahoo.com/rss/2.0/headline?s=O39.SI,U11.SI,A17U.SI,HMN.SI,JYEU.SI&region=US&lang=en-US",
+        "Business Times Companies": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "MarketWatch Real-time": "https://feeds.content.dowjones.io/public/rss/mw_realtimeheadlines",
+        "Investing.com All News": "https://www.investing.com/rss/news.rss"
+      },
+      "keywords": [
+        "Advanced Micro Devices",
+        "Alphabet",
+        "Amazon",
+        "AMD",
+        "AMZN",
+        "Ascendas REIT",
+        "Ascott REIT",
+        "Ascott Trust",
+        "AWS",
+        "Berkshire",
+        "Berkshire Hathaway",
+        "Buffett",
+        "CapitaLand Ascendas REIT",
+        "CapitaLand Ascott Trust",
+        "CLAR",
+        "CLAS",
+        "CrowdStrike",
+        "CRWD",
+        "DBS",
+        "GOOG",
+        "GOOGL",
+        "Google",
+        "INTU",
+        "Intuit",
+        "Lendlease Global Commercial",
+        "Lendlease REIT",
+        "Linde",
+        "LREIT",
+        "Microsoft",
+        "MSFT",
+        "NVDA",
+        "Nvidia",
+        "OCBC",
+        "Oversea-Chinese Banking",
+        "QuickBooks",
+        "TurboTax",
+        "United Overseas Bank",
+        "UOB",
+        "Valero",
+        "VLO",
+        "Zoetis",
+        "ZTS"
+      ],
+      "paused": false
     }
   },
   "watchlist": {
@@ -227,7 +289,7 @@
     ]
   },
   "brief": {
-    "topic_id": null,
+    "topic_id": 89,
     "hour_sgt": 8,
     "earnings_alert_days": 2
   }
