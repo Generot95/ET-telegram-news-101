@@ -1,7 +1,7 @@
 {
   "categories": {
     "War": {
-      "topic_id": null,
+      "topic_id": 5,
       "feeds": {
         "Yahoo Finance (defense/oil)": "https://feeds.finance.yahoo.com/rss/2.0/headline?s=LMT,RTX,NOC,GD,LHX,CL=F&region=US&lang=en-US",
         "Investing.com World": "https://www.investing.com/rss/news_287.rss",
@@ -35,14 +35,14 @@
       ]
     },
     "Iran": {
-      "topic_id": null,
+      "topic_id": 6,
       "feeds": {
         "Iran International": "https://www.iranintl.com/en/feed"
       },
       "keywords": []
     },
     "AI": {
-      "topic_id": null,
+      "topic_id": 7,
       "feeds": {
         "Yahoo Finance (AI stocks)": "https://feeds.finance.yahoo.com/rss/2.0/headline?s=NVDA,MSFT,GOOGL,META,AMD,AVGO,PLTR&region=US&lang=en-US",
         "Investing.com All News": "https://www.investing.com/rss/news.rss",
@@ -73,7 +73,7 @@
       ]
     },
     "Crypto": {
-      "topic_id": null,
+      "topic_id": 8,
       "feeds": {
         "Yahoo Finance (crypto)": "https://feeds.finance.yahoo.com/rss/2.0/headline?s=BTC-USD,ETH-USD,BMNR&region=US&lang=en-US",
         "Investing.com Crypto": "https://www.investing.com/rss/news_301.rss",
@@ -91,7 +91,7 @@
       ]
     },
     "Cybersecurity": {
-      "topic_id": null,
+      "topic_id": 9,
       "feeds": {
         "Yahoo Finance (cyber stocks)": "https://feeds.finance.yahoo.com/rss/2.0/headline?s=CRWD,PANW,NTSK,ZS,FTNT,S,OKTA,NET&region=US&lang=en-US",
         "Investing.com All News": "https://www.investing.com/rss/news.rss",
@@ -126,7 +126,7 @@
       ]
     },
     "SG Banks": {
-      "topic_id": null,
+      "topic_id": 10,
       "feeds": {
         "Yahoo Finance (DBS/OCBC/UOB)": "https://feeds.finance.yahoo.com/rss/2.0/headline?s=D05.SI,O39.SI,U11.SI&region=SG&lang=en-SG",
         "Business Times Banking": "https://www.businesstimes.com.sg/rss/banking-finance",
