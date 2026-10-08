@@ -1947,7 +1947,17 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/american-express-fined-350-million-over-moneylaundering-compliance-failures-4939840",
     "Watchlist|https://www.investing.com/news/stock-market-news/rtxs-raytheon-wins-up-to-63-billion-us-missile-contract-4939842",
     "Watchlist|https://www.investing.com/news/analyst-ratings/yorkville-ives-adds-dell-stock-and-spacex-to-ai-30-list-on-infrastructure-shift-93CH-4939843",
-    "Watchlist|https://www.investing.com/news/forex-news/french-yields-edge-higher-in-6th-straight-weekly-loss-as-regional-contagion-widens-4938034"
+    "Watchlist|https://www.investing.com/news/forex-news/french-yields-edge-higher-in-6th-straight-weekly-loss-as-regional-contagion-widens-4938034",
+    "SG Banks|https://www.channelnewsasia.com/business/openais-annualized-revenue-20-billion-less-previously-signaled-ft-reports-6444566",
+    "AI|17eaad6a-1565-3220-9fc7-0ff68b357f15",
+    "Watchlist|17eaad6a-1565-3220-9fc7-0ff68b357f15",
+    "AI|d7159632-7d7c-30e9-8b1d-1f8a9f9ef31a",
+    "AI|ce7ea421-16e2-37cd-8172-5b6450151fb4",
+    "Watchlist|ce7ea421-16e2-37cd-8172-5b6450151fb4",
+    "AI|d0e7e632-04c0-32b8-b4ef-1bc5f0de5534",
+    "Watchlist|d0e7e632-04c0-32b8-b4ef-1bc5f0de5534",
+    "War|b38b5e56-4901-377b-b2c4-08b6a2ca0ae0",
+    "War|68606ad1-6d11-3188-bb74-9c2a5d9ae1b1"
   ],
   "topic_error": "",
   "last_digest": "2026-10-08",
@@ -2022,5 +2032,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791494272.5609028
+  "last_check": 1791495198.4390624
 }
