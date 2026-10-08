@@ -9,7 +9,6 @@ Env:
     TELEGRAM_BOT_TOKEN  - from @BotFather
     TELEGRAM_CHAT_ID    - the group's chat ID (starts with -100); the group must have Topics enabled
                           and the bot must be an admin with "Manage Topics"
-    ANTHROPIC_API_KEY   - optional; enables the AI-written summary in the daily brief
 """
 
 import argparse
@@ -76,7 +75,6 @@ def load_config():
     brief = cfg.setdefault("brief", {})
     brief.setdefault("topic_id", None)
     brief.setdefault("hour_sgt", 8)
-    brief.setdefault("model", "claude-opus-5-5")
     brief.setdefault("earnings_alert_days", 2)
     sync_watchlist(cfg)
     for cat in cfg["categories"].values():
@@ -470,61 +468,6 @@ def check_feeds(cfg, state):
 
 # ---------- Daily brief ----------
 
-BRIEF_SYSTEM = """You write a short morning news brief for one investor's private Telegram group.
-The input is the past 24 hours of headlines grouped by topic, plus the investor's stock watchlist.
-
-Write plain text only - no markdown, no HTML, no asterisks.
-For each topic that has news: one line with the topic name in capitals, then 2-4 lines starting
-with "- " covering the most important developments. Merge duplicate stories across sources.
-Finish with a WATCHLIST MENTIONS section: one "- " line per watchlist company that appeared in the
-news, saying what happened. Leave it out if none appeared.
-
-Report what the news says. Do not recommend buying or selling, and do not predict prices.
-Keep the whole brief under 350 words."""
-
-
-def ai_summary(cfg, grouped):
-    """AI-written summary of the grouped headlines, or None when unavailable."""
-    if not os.getenv("ANTHROPIC_API_KEY"):
-        return None
-    import anthropic
-
-    lines = []
-    for name, found in grouped.items():
-        if found:
-            lines.append(f"## {name}")
-            lines += [f"- {i['title']} ({i['source']}): {i['summary'][:300]}" for i, _ in found[-40:]]
-    watchlist = ", ".join(f"{t} ({a[0]})" for t, a in cfg["watchlist"].items())
-    client = anthropic.Anthropic()
-    try:
-        response = client.beta.messages.create(
-            model=cfg["brief"]["model"],
-            max_tokens=8000,
-            betas=["server-side-fallback-2026-07-01"],
-            fallbacks="default",
-            output_config={"effort": "low"},
-            system=BRIEF_SYSTEM,
-            messages=[{"role": "user", "content": f"Watchlist: {watchlist}\n\n" + "\n".join(lines)}],
-        )
-    except anthropic.APIStatusError as e:
-        print(f"[brief] Claude API error {e.status_code}: {e.message}", file=sys.stderr)
-        return None
-    except anthropic.APIConnectionError as e:
-        print(f"[brief] Claude API connection error: {e}", file=sys.stderr)
-        return None
-    if response.stop_reason == "refusal":
-        return None
-    text = "".join(b.text for b in response.content if b.type == "text").strip()
-    if not text:
-        return None
-    out = []
-    for line in html.escape(text).split("\n"):
-        stripped = line.strip()
-        is_heading = stripped and not stripped.startswith("-") and stripped == stripped.upper()
-        out.append(f"<b>{stripped}</b>" if is_heading else line)
-    return "\n".join(out)
-
-
 def send_brief(cfg, state):
     now = sgt_now()
     parts = [f"<b>Daily Brief | {now.strftime('%a %d %b %Y')}</b>"]
@@ -539,20 +482,15 @@ def send_brief(cfg, state):
                      ("\n".join(earnings_line(cfg, t, ts) for ts, t in rows) or "None scheduled"))
     post_to_topic(cfg, BRIEF_TOPIC, "\n\n".join(parts))
 
-    grouped = collect_recent(cfg, 24)
-    summary = ai_summary(cfg, grouped)
-    if summary:
-        post_to_topic(cfg, BRIEF_TOPIC, "<b>News summary (AI)</b>\n\n" + summary)
-    else:
-        sections = []
-        for name, found in grouped.items():
-            if found:
-                top = found[-5:][::-1]
-                sections.append(f"<b>{html.escape(name)}</b> ({len(found)} articles)\n" + "\n".join(
-                    f"- <a href=\"{html.escape(i['link'], quote=True)}\">{html.escape(i['title'])}</a>"
-                    for i, _ in top))
-        post_to_topic(cfg, BRIEF_TOPIC, "<b>Top headlines, past 24 hours</b>\n\n" +
-                      ("\n\n".join(sections) or "No matching news."))
+    sections = []
+    for name, found in collect_recent(cfg, 24).items():
+        if found:
+            top = found[-5:][::-1]
+            sections.append(f"<b>{html.escape(name)}</b> ({len(found)} articles)\n" + "\n".join(
+                f"- <a href=\"{html.escape(i['link'], quote=True)}\">{html.escape(i['title'])}</a>"
+                for i, _ in top))
+    post_to_topic(cfg, BRIEF_TOPIC, "<b>Top headlines, past 24 hours</b>\n\n" +
+                  ("\n\n".join(sections) or "No matching news."))
 
 
 def maybe_send_brief(cfg, state):
@@ -610,8 +548,7 @@ def resolve_category(cfg, thread_id, arg):
 def status_report(cfg, state):
     lines = ["<b>Bot status</b>",
              f"Last feed check: {fmt_sgt(state.get('last_check'))} SGT",
-             f"Daily brief: {cfg['brief']['hour_sgt']:02d}:00 SGT, last sent {state['last_digest'] or 'never'}",
-             f"AI summary: {'on (' + html.escape(cfg['brief']['model']) + ')' if os.getenv('ANTHROPIC_API_KEY') else 'off (no ANTHROPIC_API_KEY secret)'}"]
+             f"Daily brief: {cfg['brief']['hour_sgt']:02d}:00 SGT, last sent {state['last_digest'] or 'never'}"]
     paused = [n for n, c in cfg["categories"].items() if c["paused"]]
     lines.append("Paused topics: " + (", ".join(html.escape(p) for p in paused) or "none"))
     missing = [n for n, h in topic_holders(cfg) if not h["topic_id"]]

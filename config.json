@@ -229,7 +229,6 @@
   "brief": {
     "topic_id": null,
     "hour_sgt": 8,
-    "model": "claude-opus-5-5",
     "earnings_alert_days": 2
   }
 }
