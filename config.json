@@ -147,5 +147,89 @@
         "U11"
       ]
     }
+  },
+  "watchlist": {
+    "AMD": [
+      "AMD",
+      "Advanced Micro Devices"
+    ],
+    "NVDA": [
+      "Nvidia",
+      "NVDA"
+    ],
+    "CRWD": [
+      "CrowdStrike",
+      "CRWD"
+    ],
+    "MSFT": [
+      "Microsoft",
+      "MSFT"
+    ],
+    "INTU": [
+      "Intuit",
+      "INTU",
+      "TurboTax",
+      "QuickBooks"
+    ],
+    "BRK-B": [
+      "Berkshire Hathaway",
+      "Berkshire",
+      "Buffett"
+    ],
+    "AMZN": [
+      "Amazon",
+      "AMZN",
+      "AWS"
+    ],
+    "GOOG": [
+      "Alphabet",
+      "Google",
+      "GOOG",
+      "GOOGL"
+    ],
+    "ZTS": [
+      "Zoetis",
+      "ZTS"
+    ],
+    "LIN": [
+      "Linde"
+    ],
+    "VLO": [
+      "Valero",
+      "VLO"
+    ],
+    "D05.SI": [
+      "DBS"
+    ],
+    "O39.SI": [
+      "OCBC",
+      "Oversea-Chinese Banking"
+    ],
+    "U11.SI": [
+      "UOB",
+      "United Overseas Bank"
+    ],
+    "A17U.SI": [
+      "CapitaLand Ascendas REIT",
+      "Ascendas REIT",
+      "CLAR"
+    ],
+    "HMN.SI": [
+      "CapitaLand Ascott Trust",
+      "Ascott REIT",
+      "Ascott Trust",
+      "CLAS"
+    ],
+    "JYEU.SI": [
+      "Lendlease REIT",
+      "Lendlease Global Commercial",
+      "LREIT"
+    ]
+  },
+  "brief": {
+    "topic_id": null,
+    "hour_sgt": 8,
+    "model": "claude-opus-5-5",
+    "earnings_alert_days": 2
   }
 }
