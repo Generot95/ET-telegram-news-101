@@ -1354,7 +1354,33 @@
     "AI|dcca6a38-2346-31c1-95ec-891cab9d6e0c",
     "AI|74a84bae-b1dd-4fe8-b1db-f55941cc1a8e",
     "Watchlist|dcca6a38-2346-31c1-95ec-891cab9d6e0c",
-    "Watchlist|74a84bae-b1dd-4fe8-b1db-f55941cc1a8e"
+    "Watchlist|74a84bae-b1dd-4fe8-b1db-f55941cc1a8e",
+    "War|b361f1db-c32b-3b1d-8f3f-7d6523484abf",
+    "War|f116cff5-a19d-31bd-a8d3-8156a6ade7cd",
+    "War|a799493f-6153-31a6-9f09-61e4ef888b69",
+    "AI|8d20648e-d704-3278-a5ac-d8a61c98598f",
+    "AI|dee4c0f3-0067-36bd-b32b-e5e034a45d61",
+    "Crypto|f116cff5-a19d-31bd-a8d3-8156a6ade7cd",
+    "Watchlist|8d20648e-d704-3278-a5ac-d8a61c98598f",
+    "Watchlist|dee4c0f3-0067-36bd-b32b-e5e034a45d61",
+    "Watchlist|25e53944-0689-3367-af36-015477970d0a",
+    "Watchlist|94cbecbd-f907-393f-a28c-298eb18f2ca3",
+    "AI|7516a690-7f06-4d1c-8647-b769fcc60f1e",
+    "AI|1213f2d7-bc4a-490e-ae31-582c1673eed2",
+    "AI|da73fa61-15a9-387f-9d75-908abf08afa2",
+    "Crypto|db28bde8-a93f-3f7f-a0f9-e403c3e247fc",
+    "Watchlist|1213f2d7-bc4a-490e-ae31-582c1673eed2",
+    "Watchlist|da73fa61-15a9-387f-9d75-908abf08afa2",
+    "Watchlist|96783e2b-bf37-405c-83e8-f553bf2235e8",
+    "Watchlist|1a48b7e9-231a-3fbb-bba5-34e3f5a4903f",
+    "Watchlist|aa953c04-efd3-4891-b4a4-ab8a2b9ce63c",
+    "War|WP-MKTW-0005276935",
+    "AI|WP-MKTW-0005276935",
+    "Cybersecurity|WP-MKTW-0005276935",
+    "AI|fb56ca65-2df5-39b8-8681-04d60751feb3",
+    "AI|fbed1a0e-46d4-3837-9dff-93c8be0e3262",
+    "Watchlist|fb56ca65-2df5-39b8-8681-04d60751feb3",
+    "Watchlist|fbed1a0e-46d4-3837-9dff-93c8be0e3262"
   ],
   "topic_error": "",
   "last_digest": "2026-10-08",
@@ -1429,5 +1455,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791482328.4412947
+  "last_check": 1791483237.3304336
 }
