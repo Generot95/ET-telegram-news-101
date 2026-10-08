@@ -1,0 +1,86 @@
+{
+  "categories": {
+    "War": {
+      "topic_id": null,
+      "feeds": {
+        "Yahoo Finance (defense/oil)": "https://feeds.finance.yahoo.com/rss/2.0/headline?s=LMT,RTX,NOC,GD,LHX,CL=F&region=US&lang=en-US",
+        "Investing.com World": "https://www.investing.com/rss/news_287.rss",
+        "Investing.com Commodities": "https://www.investing.com/rss/news_11.rss",
+        "MarketWatch Top Stories": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "MarketWatch Real-time": "https://feeds.content.dowjones.io/public/rss/mw_realtimeheadlines",
+        "MarketWatch Bulletins": "https://feeds.content.dowjones.io/public/rss/mw_bulletins"
+      },
+      "keywords": [
+        "war", "warfare", "military", "missile*", "airstrike*", "air strike*", "drone strike*",
+        "invasion", "invade*", "ceasefire", "troops", "Pentagon", "NATO", "Ukraine", "Gaza",
+        "Hezbollah", "Houthi*", "armed conflict", "defense spending", "defence spending", "bombing"
+      ]
+    },
+    "Iran": {
+      "topic_id": null,
+      "feeds": {
+        "Iran International": "https://www.iranintl.com/en/feed"
+      },
+      "keywords": []
+    },
+    "AI": {
+      "topic_id": null,
+      "feeds": {
+        "Yahoo Finance (AI stocks)": "https://feeds.finance.yahoo.com/rss/2.0/headline?s=NVDA,MSFT,GOOGL,META,AMD,AVGO,PLTR&region=US&lang=en-US",
+        "Investing.com All News": "https://www.investing.com/rss/news.rss",
+        "Investing.com Stock Market": "https://www.investing.com/rss/news_25.rss",
+        "Investing.com Company News": "https://www.investing.com/rss/news_356.rss",
+        "MarketWatch Top Stories": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "MarketWatch Real-time": "https://feeds.content.dowjones.io/public/rss/mw_realtimeheadlines",
+        "MarketWatch MarketPulse": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse"
+      },
+      "keywords": [
+        "AI", "artificial intelligence", "OpenAI", "Anthropic", "ChatGPT", "Claude", "Gemini",
+        "LLM*", "generative", "machine learning", "AI chip*", "data center*", "superintelligence",
+        "Nvidia", "AMD", "Advanced Micro Devices", "energy"
+      ]
+    },
+    "Crypto": {
+      "topic_id": null,
+      "feeds": {
+        "Yahoo Finance (crypto)": "https://feeds.finance.yahoo.com/rss/2.0/headline?s=BTC-USD,ETH-USD,BMNR&region=US&lang=en-US",
+        "Investing.com Crypto": "https://www.investing.com/rss/news_301.rss",
+        "MarketWatch Real-time": "https://feeds.content.dowjones.io/public/rss/mw_realtimeheadlines",
+        "MarketWatch MarketPulse": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse"
+      },
+      "keywords": [
+        "bitcoin", "BTC", "ethereum", "ether", "ETH", "Bitmine", "BMNR"
+      ]
+    },
+    "Cybersecurity": {
+      "topic_id": null,
+      "feeds": {
+        "Yahoo Finance (cyber stocks)": "https://feeds.finance.yahoo.com/rss/2.0/headline?s=CRWD,PANW,NTSK,ZS,FTNT,S,OKTA,NET&region=US&lang=en-US",
+        "Investing.com All News": "https://www.investing.com/rss/news.rss",
+        "Investing.com Company News": "https://www.investing.com/rss/news_356.rss",
+        "MarketWatch Top Stories": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "MarketWatch Real-time": "https://feeds.content.dowjones.io/public/rss/mw_realtimeheadlines"
+      },
+      "keywords": [
+        "cyber*", "hack*", "breach*", "ransomware", "malware", "vulnerabilit*", "zero-day",
+        "phishing", "data leak*", "CISA", "exploit*", "spyware", "DDoS", "CrowdStrike", "CRWD",
+        "Palo Alto", "PANW", "Netskope", "NTSK", "Zscaler", "Fortinet", "SentinelOne", "Okta"
+      ]
+    },
+    "SG Banks": {
+      "topic_id": null,
+      "feeds": {
+        "Yahoo Finance (DBS/OCBC/UOB)": "https://feeds.finance.yahoo.com/rss/2.0/headline?s=D05.SI,O39.SI,U11.SI&region=SG&lang=en-SG",
+        "Business Times Banking": "https://www.businesstimes.com.sg/rss/banking-finance",
+        "Business Times Companies": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "Straits Times Business": "https://www.straitstimes.com/news/business/rss.xml",
+        "CNA Business": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936",
+        "Investing.com All News": "https://www.investing.com/rss/news.rss",
+        "MarketWatch Real-time": "https://feeds.content.dowjones.io/public/rss/mw_realtimeheadlines"
+      },
+      "keywords": [
+        "DBS", "OCBC", "UOB", "Oversea-Chinese Banking", "United Overseas Bank", "D05", "O39", "U11"
+      ]
+    }
+  }
+}
