@@ -104,13 +104,34 @@ def ensure_topic(name, cat, index):
     if res.get("ok"):
         cat["topic_id"] = res["result"]["message_thread_id"]
         print(f"[topic] created '{name}' -> {cat['topic_id']}")
+    else:
+        TOPIC_ERRORS[name] = res.get("description", "no response from Telegram")
     return cat["topic_id"]
+
+
+TOPIC_ERRORS = {}
+
+
+def ensure_all_topics(cfg, state):
+    """Create missing topics; tell the group (once per distinct error) if Telegram refuses."""
+    TOPIC_ERRORS.clear()
+    for i, (name, cat) in enumerate(cfg["categories"].items()):
+        ensure_topic(name, cat, i)
+    error = "; ".join(sorted(set(TOPIC_ERRORS.values())))
+    if error and error != state.get("topic_error"):
+        send(GROUP_ID, "<b>Couldn't create category topics</b>, so alerts will be posted here for now.\n"
+                       f"Telegram said: <code>{html.escape(error)}</code>\n\n"
+                       "Fix: make sure Topics is on, and the bot is an admin with the "
+                       "<b>Manage Topics</b> permission. Then send /setup.")
+    state["topic_error"] = error
 
 
 def post_to_category(cfg, name, text):
     cat = cfg["categories"][name]
     index = list(cfg["categories"]).index(name)
     thread = ensure_topic(name, cat, index)
+    if not thread:
+        text = f"[{html.escape(name)}]\n{text}"
     res = send(GROUP_ID, text, thread)
     if not res.get("ok") and "thread not found" in str(res.get("description", "")).lower():
         cat["topic_id"] = None
@@ -286,11 +307,14 @@ def handle_command(chat_id, thread_id, text, cfg, state):
         for item, hits in results[:n]:
             reply(format_item(item, hits))
     elif cmd == "/setup":
+        TOPIC_ERRORS.clear()
         for i, (n, c) in enumerate(cfg["categories"].items()):
             ensure_topic(n, c, i)
         missing = [n for n, c in cfg["categories"].items() if not c["topic_id"]]
+        state["topic_error"] = "; ".join(sorted(set(TOPIC_ERRORS.values())))
         reply("All topics ready." if not missing else
-              "Couldn't create: " + ", ".join(missing) + ". Make sure Topics is on and the bot is an admin with Manage Topics.")
+              "Couldn't create: " + ", ".join(missing) + f".\nTelegram said: <code>{html.escape(state['topic_error'])}</code>\n"
+              "Make sure Topics is on and the bot is an admin with Manage Topics.")
     else:
         reply(HELP)
 
@@ -333,8 +357,7 @@ def main():
 
     cfg, state = load_config(), load_state()
     if GROUP_ID:
-        for i, (name, cat) in enumerate(cfg["categories"].items()):
-            ensure_topic(name, cat, i)
+        ensure_all_topics(cfg, state)
     deadline = time.time() + args.minutes * 60
     next_check = 0
     try:
