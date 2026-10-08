@@ -2002,7 +2002,31 @@
     "Crypto|fee4f5e3-fb27-3fc3-874e-435ea40be131",
     "War|WP-MKTW-0005277777",
     "AI|WP-MKTW-0005277777",
-    "Cybersecurity|WP-MKTW-0005277777"
+    "Cybersecurity|WP-MKTW-0005277777",
+    "War|ebb04422-456d-3544-b8aa-6f48e6047f19",
+    "War|b4c919c7-cb2b-3e75-b294-d2d7b131cd2a",
+    "AI|https://www.investing.com/news/company-news/maverick-gold-and-silver-announces-private-placement-of-up-to-c11m-93CH-4939871",
+    "AI|https://www.investing.com/news/analyst-ratings/raymond-james-initiates-kymera-therapeutics-stock-coverage-with-outperform-rating-93CH-4939873",
+    "AI|https://www.investing.com/news/company-news/aritzia-q2-2027-slides-record-margins-fuel-raised-outlook-93CH-4939874",
+    "AI|https://www.investing.com/news/company-news/copa-holdings-reports-171-rise-in-september-passenger-traffic-93CH-4939877",
+    "Cybersecurity|https://www.investing.com/news/company-news/maverick-gold-and-silver-announces-private-placement-of-up-to-c11m-93CH-4939871",
+    "Cybersecurity|https://www.investing.com/news/analyst-ratings/raymond-james-initiates-kymera-therapeutics-stock-coverage-with-outperform-rating-93CH-4939873",
+    "Cybersecurity|https://www.investing.com/news/company-news/aritzia-q2-2027-slides-record-margins-fuel-raised-outlook-93CH-4939874",
+    "Cybersecurity|https://www.investing.com/news/company-news/copa-holdings-reports-171-rise-in-september-passenger-traffic-93CH-4939877",
+    "SG Banks|https://www.investing.com/news/company-news/maverick-gold-and-silver-announces-private-placement-of-up-to-c11m-93CH-4939871",
+    "SG Banks|https://www.investing.com/news/analyst-ratings/raymond-james-initiates-kymera-therapeutics-stock-coverage-with-outperform-rating-93CH-4939873",
+    "SG Banks|https://www.investing.com/news/company-news/aritzia-q2-2027-slides-record-margins-fuel-raised-outlook-93CH-4939874",
+    "SG Banks|https://www.investing.com/news/company-news/copa-holdings-reports-171-rise-in-september-passenger-traffic-93CH-4939877",
+    "Watchlist|https://www.investing.com/news/company-news/maverick-gold-and-silver-announces-private-placement-of-up-to-c11m-93CH-4939871",
+    "Watchlist|https://www.investing.com/news/analyst-ratings/raymond-james-initiates-kymera-therapeutics-stock-coverage-with-outperform-rating-93CH-4939873",
+    "Watchlist|https://www.investing.com/news/company-news/aritzia-q2-2027-slides-record-margins-fuel-raised-outlook-93CH-4939874",
+    "Watchlist|https://www.investing.com/news/company-news/copa-holdings-reports-171-rise-in-september-passenger-traffic-93CH-4939877",
+    "AI|61f0862b-984c-305c-ac9d-cfc651e64ea6",
+    "Watchlist|61f0862b-984c-305c-ac9d-cfc651e64ea6",
+    "War|7bbe9413-6c79-45af-8a46-f77bd86e2465",
+    "AI|6ac9eb16-2926-3e61-9a7c-a216ce81f879",
+    "War|91a05a35-7009-3f6b-9fa1-3d129a178592",
+    "Cybersecurity|438f6fff-2444-333d-8a54-e0ff9970dd32"
   ],
   "topic_error": "",
   "last_digest": "2026-10-08",
@@ -2077,5 +2101,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791496116.9998822
+  "last_check": 1791497032.9376621
 }
