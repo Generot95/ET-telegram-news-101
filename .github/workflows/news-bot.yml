@@ -1,12 +1,22 @@
 name: news-bot
 
+# Each run starts the next one when it finishes, so the bot runs back to back without relying on
+# GitHub's cron (which can be delayed or skipped). The cron entry only revives the chain if it breaks.
+# To stop the bot: cancel the running workflow, or disable the workflow in the Actions tab.
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - bot.py
+      - requirements.txt
+      - .github/workflows/news-bot.yml
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: news-bot
@@ -15,7 +25,7 @@ concurrency:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
 
@@ -30,7 +40,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python bot.py --minutes 4.5 --interval 60
+        run: python bot.py --minutes 15 --interval 60
 
       - name: Save state
         if: always()
@@ -42,3 +52,9 @@ jobs:
           git commit -m "Update bot state [skip ci]"
           git pull --rebase -X theirs
           git push
+
+      - name: Start next run
+        if: ${{ !cancelled() }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run news-bot.yml --ref main
