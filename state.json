@@ -2182,7 +2182,22 @@
     "Watchlist|99a191ea-321f-3a05-a9a8-ba07b8730b49",
     "Watchlist|2ca735fc-dfa3-3000-8106-2f492cd571ed",
     "War|74d44878-bc45-4120-87b2-0b33d594f5e2",
-    "Crypto|d4d326b4-ec6b-3103-a477-622d74eb1e21"
+    "Crypto|d4d326b4-ec6b-3103-a477-622d74eb1e21",
+    "AI|19b6f0d3-022e-328a-badb-265cc0b57e6f",
+    "AI|https://www.investing.com/news/company-news/josh-gottheimer-sells-stocks-in-applied-materials-and-mcdonalds-93CH-4939965",
+    "AI|https://www.investing.com/news/company-news/maria-elvira-salazar-makes-multiple-stock-trades-in-september-including-cisco-systems-and-snowflake-93CH-4939966",
+    "Cybersecurity|https://www.investing.com/news/company-news/josh-gottheimer-sells-stocks-in-applied-materials-and-mcdonalds-93CH-4939965",
+    "Cybersecurity|https://www.investing.com/news/company-news/maria-elvira-salazar-makes-multiple-stock-trades-in-september-including-cisco-systems-and-snowflake-93CH-4939966",
+    "SG Banks|https://www.investing.com/news/company-news/josh-gottheimer-sells-stocks-in-applied-materials-and-mcdonalds-93CH-4939965",
+    "SG Banks|https://www.investing.com/news/company-news/maria-elvira-salazar-makes-multiple-stock-trades-in-september-including-cisco-systems-and-snowflake-93CH-4939966",
+    "Watchlist|https://www.investing.com/news/company-news/josh-gottheimer-sells-stocks-in-applied-materials-and-mcdonalds-93CH-4939965",
+    "Watchlist|https://www.investing.com/news/company-news/maria-elvira-salazar-makes-multiple-stock-trades-in-september-including-cisco-systems-and-snowflake-93CH-4939966",
+    "AI|50b3a18a-c94e-3147-a0c3-7354ef874132",
+    "Watchlist|50b3a18a-c94e-3147-a0c3-7354ef874132",
+    "AI|e89d1274-7384-3173-b213-eef06a5ceea9",
+    "Watchlist|e89d1274-7384-3173-b213-eef06a5ceea9",
+    "SG Banks|https://www.channelnewsasia.com/business/characterai-chatbots-encouraged-users-cut-and-starve-themselves-kentucky-alleges-6444701",
+    "AI|4227ca99-1004-3ba5-86fc-7cd7e0cdf1b6"
   ],
   "topic_error": "",
   "last_digest": "2026-10-08",
@@ -2257,5 +2272,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791500684.6554775
+  "last_check": 1791501607.3833404
 }
