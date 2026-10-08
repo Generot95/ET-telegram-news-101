@@ -1523,7 +1523,20 @@
     "AI|f238b758-5e38-3823-bc5e-989f808ffa55",
     "Crypto|5d58aa1b-312d-3f4d-a5b1-36a3d952a4bd",
     "Watchlist|5d58aa1b-312d-3f4d-a5b1-36a3d952a4bd",
-    "Watchlist|f238b758-5e38-3823-bc5e-989f808ffa55"
+    "Watchlist|f238b758-5e38-3823-bc5e-989f808ffa55",
+    "Iran|https://www.iranintl.com/en/202610082345",
+    "Crypto|4b60d822-09d9-35b0-a53e-8caa7d73f5b5",
+    "SG Banks|https://www.channelnewsasia.com/business/anthropic-launches-dashboard-animation-tools-claude-6444391",
+    "AI|6fb39a40-ca3c-3a0b-8630-750ce5295f25",
+    "Watchlist|6fb39a40-ca3c-3a0b-8630-750ce5295f25",
+    "War|95bd3cf6-c8d9-4075-89ba-54c7f997290b",
+    "Watchlist|e97392ab-9fa7-3841-896f-df450f641706",
+    "War|a9ced20f-b048-337d-bc88-462463746fc4",
+    "AI|72c39208-0029-3b60-991f-3b875921a083",
+    "Watchlist|72c39208-0029-3b60-991f-3b875921a083",
+    "AI|55c70972-38fa-325a-9ce3-9d00e5011ab1",
+    "Watchlist|55c70972-38fa-325a-9ce3-9d00e5011ab1",
+    "Watchlist|3ed1da53-22cb-39b7-b40a-2ffea24787c5"
   ],
   "topic_error": "",
   "last_digest": "2026-10-08",
@@ -1598,5 +1611,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791486035.3725154
+  "last_check": 1791486952.3515484
 }
