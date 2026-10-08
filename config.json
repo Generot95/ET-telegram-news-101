@@ -11,9 +11,27 @@
         "MarketWatch Bulletins": "https://feeds.content.dowjones.io/public/rss/mw_bulletins"
       },
       "keywords": [
-        "war", "warfare", "military", "missile*", "airstrike*", "air strike*", "drone strike*",
-        "invasion", "invade*", "ceasefire", "troops", "Pentagon", "NATO", "Ukraine", "Gaza",
-        "Hezbollah", "Houthi*", "armed conflict", "defense spending", "defence spending", "bombing"
+        "war",
+        "warfare",
+        "military",
+        "missile*",
+        "airstrike*",
+        "air strike*",
+        "drone strike*",
+        "invasion",
+        "invade*",
+        "ceasefire",
+        "troops",
+        "Pentagon",
+        "NATO",
+        "Ukraine",
+        "Gaza",
+        "Hezbollah",
+        "Houthi*",
+        "armed conflict",
+        "defense spending",
+        "defence spending",
+        "bombing"
       ]
     },
     "Iran": {
@@ -35,9 +53,23 @@
         "MarketWatch MarketPulse": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse"
       },
       "keywords": [
-        "AI", "artificial intelligence", "OpenAI", "Anthropic", "ChatGPT", "Claude", "Gemini",
-        "LLM*", "generative", "machine learning", "AI chip*", "data center*", "superintelligence",
-        "Nvidia", "AMD", "Advanced Micro Devices", "energy"
+        "AI",
+        "artificial intelligence",
+        "OpenAI",
+        "Anthropic",
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "LLM*",
+        "generative",
+        "machine learning",
+        "AI chip*",
+        "data center*",
+        "superintelligence",
+        "Nvidia",
+        "AMD",
+        "Advanced Micro Devices",
+        "energy"
       ]
     },
     "Crypto": {
@@ -49,7 +81,13 @@
         "MarketWatch MarketPulse": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse"
       },
       "keywords": [
-        "bitcoin", "BTC", "ethereum", "ether", "ETH", "Bitmine", "BMNR"
+        "bitcoin",
+        "BTC",
+        "ethereum",
+        "ether",
+        "ETH",
+        "Bitmine",
+        "BMNR"
       ]
     },
     "Cybersecurity": {
@@ -62,9 +100,29 @@
         "MarketWatch Real-time": "https://feeds.content.dowjones.io/public/rss/mw_realtimeheadlines"
       },
       "keywords": [
-        "cyber*", "hack*", "breach*", "ransomware", "malware", "vulnerabilit*", "zero-day",
-        "phishing", "data leak*", "CISA", "exploit*", "spyware", "DDoS", "CrowdStrike", "CRWD",
-        "Palo Alto", "PANW", "Netskope", "NTSK", "Zscaler", "Fortinet", "SentinelOne", "Okta"
+        "cyber*",
+        "hack*",
+        "breach*",
+        "ransomware",
+        "malware",
+        "vulnerabilit*",
+        "zero-day",
+        "phishing",
+        "data leak*",
+        "CISA",
+        "exploit*",
+        "spyware",
+        "DDoS",
+        "CrowdStrike",
+        "CRWD",
+        "Palo Alto",
+        "PANW",
+        "Netskope",
+        "NTSK",
+        "Zscaler",
+        "Fortinet",
+        "SentinelOne",
+        "Okta"
       ]
     },
     "SG Banks": {
@@ -79,7 +137,14 @@
         "MarketWatch Real-time": "https://feeds.content.dowjones.io/public/rss/mw_realtimeheadlines"
       },
       "keywords": [
-        "DBS", "OCBC", "UOB", "Oversea-Chinese Banking", "United Overseas Bank", "D05", "O39", "U11"
+        "DBS",
+        "OCBC",
+        "UOB",
+        "Oversea-Chinese Banking",
+        "United Overseas Bank",
+        "D05",
+        "O39",
+        "U11"
       ]
     }
   }
