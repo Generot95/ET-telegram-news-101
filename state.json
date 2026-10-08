@@ -2197,7 +2197,12 @@
     "AI|e89d1274-7384-3173-b213-eef06a5ceea9",
     "Watchlist|e89d1274-7384-3173-b213-eef06a5ceea9",
     "SG Banks|https://www.channelnewsasia.com/business/characterai-chatbots-encouraged-users-cut-and-starve-themselves-kentucky-alleges-6444701",
-    "AI|4227ca99-1004-3ba5-86fc-7cd7e0cdf1b6"
+    "AI|4227ca99-1004-3ba5-86fc-7cd7e0cdf1b6",
+    "Watchlist|4227ca99-1004-3ba5-86fc-7cd7e0cdf1b6",
+    "Watchlist|d7401433-5a36-3b8b-8706-d404387ba2d3",
+    "SG Banks|https://www.channelnewsasia.com/business/us-trump-green-card-freeze-microsoft-it-firms-universities-6443266",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/amex-fined-us350-million-for-anti-money-laundering-lapses",
+    "War|68f3f2ab-303b-312f-aef3-5c53af2cdec2"
   ],
   "topic_error": "",
   "last_digest": "2026-10-08",
@@ -2272,5 +2277,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791501607.3833404
+  "last_check": 1791502520.0984328
 }
