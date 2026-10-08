@@ -2128,7 +2128,17 @@
     "AI|https://www.investing.com/news/insider-trading-news/coreweave-cfo-nitin-agrawal-sells-265-in-company-stock-93CH-4939932",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/coreweave-cfo-nitin-agrawal-sells-265-in-company-stock-93CH-4939932",
     "SG Banks|https://www.investing.com/news/insider-trading-news/coreweave-cfo-nitin-agrawal-sells-265-in-company-stock-93CH-4939932",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/coreweave-cfo-nitin-agrawal-sells-265-in-company-stock-93CH-4939932"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/coreweave-cfo-nitin-agrawal-sells-265-in-company-stock-93CH-4939932",
+    "AI|4a9fdc80-d0cd-3e4c-83f5-9eea33823ddf",
+    "Watchlist|4a9fdc80-d0cd-3e4c-83f5-9eea33823ddf",
+    "War|1f925963-fe89-44c0-9daf-668c04ee493a",
+    "AI|019653ae-0630-3181-b554-e8b587fb4019",
+    "Watchlist|019653ae-0630-3181-b554-e8b587fb4019",
+    "SG Banks|/companies-markets/energy-commodities/oil-jumps-5-then-pares-gains-after-trump-says-no-attack-iran-october",
+    "Watchlist|/companies-markets/energy-commodities/oil-jumps-5-then-pares-gains-after-trump-says-no-attack-iran-october",
+    "AI|a84dde81-6b4d-395a-8b47-1061c2e96cc9",
+    "Crypto|a84dde81-6b4d-395a-8b47-1061c2e96cc9",
+    "Watchlist|a84dde81-6b4d-395a-8b47-1061c2e96cc9"
   ],
   "topic_error": "",
   "last_digest": "2026-10-08",
@@ -2203,5 +2213,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791498855.4551563
+  "last_check": 1791499785.130071
 }
