@@ -11,6 +11,7 @@ Env:
 """
 
 import argparse
+import calendar
 import html
 import json
 import os
@@ -152,7 +153,9 @@ def fetch_items(source, url):
     items = []
     for e in feedparser.parse(resp.content).entries:
         summary = re.sub(r"<[^>]+>", "", e.get("summary", "")).strip()
+        parsed_time = e.get("published_parsed") or e.get("updated_parsed")
         items.append({
+            "ts": calendar.timegm(parsed_time) if parsed_time else None,
             "id": e.get("id") or e.get("link"),
             "source": source,
             "title": html.unescape(e.get("title", "")).strip(),
@@ -189,6 +192,39 @@ def format_item(item, hits):
         f"{html.escape(item['source'])} | {html.escape(item['published'])}{matched}\n"
         f"<a href=\"{html.escape(item['link'], quote=True)}\">Read more</a>"
     )
+
+
+def backfill(cfg, state, hours, only=None, cap=20):
+    """Post matching items published in the last `hours` (newest `cap` per category). Returns summary lines."""
+    cutoff = time.time() - hours * 3600
+    seen_set = set(state["seen"])
+    cache = {}
+    summary = []
+    for name, cat in cfg["categories"].items():
+        if only and name != only:
+            continue
+        found = {}
+        for source, url in cat["feeds"].items():
+            if url not in cache:
+                cache[url] = fetch_items(source, url)
+            for item in cache[url]:
+                if item["id"] and item["ts"] and item["ts"] >= cutoff and item["id"] not in found:
+                    hits = matched_keywords(item, cat["keywords"])
+                    if hits:
+                        found[item["id"]] = (item, hits)
+        picked = sorted(found.values(), key=lambda x: x[0]["ts"])[-cap:]
+        for item, hits in picked:
+            post_to_category(cfg, name, format_item(item, hits))
+        for item_id in found:
+            key = f"{name}|{item_id}"
+            if key not in seen_set:
+                state["seen"].append(key)
+                seen_set.add(key)
+        line = f"{name}: {len(picked)}"
+        if len(found) > cap:
+            line += f" (newest {cap} of {len(found)})"
+        summary.append(line)
+    return summary
 
 
 def check_feeds(cfg, state):
@@ -233,6 +269,7 @@ HELP = (
     "/addsource [category] &lt;name&gt; &lt;rss url&gt;\n"
     "/removesource [category] &lt;name&gt;\n"
     "/latest [category] [n] - latest n matching items (default 5)\n"
+    "/backfill [category] [hours] - post matching news from the past hours (default 24) into the topics\n"
     "/setup - create any missing category topics\n"
     "/id - show chat and topic IDs\n\n"
     "<i>Runs on GitHub Actions: replies can take a few minutes between runs.</i>"
@@ -241,10 +278,9 @@ HELP = (
 
 def resolve_category(cfg, thread_id, arg):
     """Return (category, remaining_arg). Explicit category name in arg wins over the current topic."""
-    first, _, rest = arg.partition(" ")
-    for name in cfg["categories"]:
-        if first.lower() == name.lower():
-            return name, rest.strip()
+    for name in sorted(cfg["categories"], key=len, reverse=True):
+        if arg.lower() == name.lower() or arg.lower().startswith(name.lower() + " "):
+            return name, arg[len(name):].strip()
     for name, cat in cfg["categories"].items():
         if thread_id and cat["topic_id"] == thread_id:
             return name, arg
@@ -306,6 +342,12 @@ def handle_command(chat_id, thread_id, text, cfg, state):
             reply("No matching items in the current feeds.")
         for item, hits in results[:n]:
             reply(format_item(item, hits))
+    elif cmd == "/backfill":
+        hours = float(arg) if re.fullmatch(r"\d+(\.\d+)?", arg) else 24
+        reply(f"Posting matching news from the past {hours:g} hours into "
+              f"{html.escape(name) if name else 'all topics'}...")
+        lines = backfill(cfg, state, hours, only=name)
+        reply("Backfill done:\n" + "\n".join(html.escape(l) for l in lines))
     elif cmd == "/setup":
         TOPIC_ERRORS.clear()
         for i, (n, c) in enumerate(cfg["categories"].items()):
