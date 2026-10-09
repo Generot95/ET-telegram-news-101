@@ -38,8 +38,7 @@
     "Iran": {
       "topic_id": 6,
       "feeds": {
-        "Iran International": "https://www.iranintl.com/en/feed",
-        "Google News (Reuters, AP, BBC, CNN, Al Jazeera, FT, Bloomberg)": "https://news.google.com/rss/search?q=intitle%3AIran%20%28site%3Areuters.com%20OR%20site%3Aapnews.com%20OR%20site%3Aaljazeera.com%20OR%20site%3Abbc.com%20OR%20site%3Abbc.co.uk%20OR%20site%3Atimesofisrael.com%20OR%20site%3Acnn.com%20OR%20site%3Aft.com%20OR%20site%3Abloomberg.com%29%20when%3A1d&hl=en-SG&gl=SG&ceid=SG:en"
+        "Iran International": "https://www.iranintl.com/en/feed"
       },
       "keywords": [],
       "paused": false
