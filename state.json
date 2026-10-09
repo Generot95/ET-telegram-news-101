@@ -2300,7 +2300,17 @@
     "Watchlist|https://www.investing.com/news/company-news/cathie-woods-ark-sells-shopify-stock-buys-kratos-defense-93CH-4940030",
     "Watchlist|https://www.investing.com/news/economy-news/exclusiveai-surveillance-startup-flock-safety-to-cut-several-hundred-jobs-amid-backlash-sources-say-4940031",
     "Watchlist|https://www.investing.com/news/earnings/park-aerospace-earnings-beat-by-012-revenue-topped-estimates-4940032",
-    "Watchlist|https://www.investing.com/news/stock-market-news/nvidia-plans-to-invest-in-ai-chip-rival-dmatrix-the-information-93CH-4940033"
+    "Watchlist|https://www.investing.com/news/stock-market-news/nvidia-plans-to-invest-in-ai-chip-rival-dmatrix-the-information-93CH-4940033",
+    "SG Banks|https://www.straitstimes.com/business/nvidia-backed-firmus-drops-australian-ipo-plans-move-sends-ai-funding-warning",
+    "War|5727c55b-7a66-3397-bb4e-bda7903467b9",
+    "War|7a394249-e069-3cf4-9df7-b84201bc3d3a",
+    "AI|c69cdc36-b607-3893-bc06-eea8278ae6f7",
+    "SG Banks|https://www.channelnewsasia.com/business/exclusive-ai-surveillance-startup-flock-safety-cut-several-hundred-jobs-amid-backlash-sources-say-6444791",
+    "Cybersecurity|542c33d6-4548-3afd-a55c-5ddfd944a2c8",
+    "AI|https://www.investing.com/news/insider-trading-news/vistra-evp-and-cfo-kristopher-moldovan-sells-33m-in-stock-93CH-4940043",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/vistra-evp-and-cfo-kristopher-moldovan-sells-33m-in-stock-93CH-4940043",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/vistra-evp-and-cfo-kristopher-moldovan-sells-33m-in-stock-93CH-4940043",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/vistra-evp-and-cfo-kristopher-moldovan-sells-33m-in-stock-93CH-4940043"
   ],
   "topic_error": "",
   "last_digest": "2026-10-09",
@@ -2375,5 +2385,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791505268.8664534
+  "last_check": 1791506174.9596004
 }
