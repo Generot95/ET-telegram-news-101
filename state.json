@@ -2345,7 +2345,31 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-slides-on-openai-revenue-concerns-4940052",
     "Watchlist|https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-549m-in-stock-on-oct-67-93CH-4940062",
     "Watchlist|https://www.investing.com/news/economy-news/japan-reboots-dogestyle-spending-review-in-hunt-for-funds-for-takaichi-pledges-4940050",
-    "Watchlist|https://www.investing.com/news/stock-market-news/hitachi-joins-anthropic-cybersecurity-program-4940063"
+    "Watchlist|https://www.investing.com/news/stock-market-news/hitachi-joins-anthropic-cybersecurity-program-4940063",
+    "SG Banks|/opinion-features/search-elusive-unicorn-sgxs-global-listing-board",
+    "Watchlist|/opinion-features/search-elusive-unicorn-sgxs-global-listing-board",
+    "SG Banks|https://www.straitstimes.com/business/nvidia-backed-firmus-shelves-ipo-eyes-private-funding",
+    "AI|7e123c61-fe8a-35d3-8814-0679bd6f7c78",
+    "Watchlist|7e123c61-fe8a-35d3-8814-0679bd6f7c78",
+    "AI|https://www.investing.com/news/insider-trading-news/japan-post-holdings-a-10-owner-sells-148m-in-aflac-shares-93CH-4940074",
+    "AI|https://www.investing.com/news/stock-market-news/nikkei-225-hits-70037-overbought-high-pullback-risk-live-93CH-4930979",
+    "AI|https://www.investing.com/news/stock-market-news/softbank-shares-slide-as-openai-revenue-report-dents-ai-optimism-4940076",
+    "AI|https://www.investing.com/news/economy-news/euro-skids-toward-fifth-weekly-fall-but-selling-pressure-slows-4940078",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/japan-post-holdings-a-10-owner-sells-148m-in-aflac-shares-93CH-4940074",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/nikkei-225-hits-70037-overbought-high-pullback-risk-live-93CH-4930979",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/softbank-shares-slide-as-openai-revenue-report-dents-ai-optimism-4940076",
+    "Cybersecurity|https://www.investing.com/news/economy-news/euro-skids-toward-fifth-weekly-fall-but-selling-pressure-slows-4940078",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/japan-post-holdings-a-10-owner-sells-148m-in-aflac-shares-93CH-4940074",
+    "SG Banks|https://www.investing.com/news/stock-market-news/nikkei-225-hits-70037-overbought-high-pullback-risk-live-93CH-4930979",
+    "SG Banks|https://www.investing.com/news/stock-market-news/softbank-shares-slide-as-openai-revenue-report-dents-ai-optimism-4940076",
+    "SG Banks|https://www.investing.com/news/economy-news/euro-skids-toward-fifth-weekly-fall-but-selling-pressure-slows-4940078",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/japan-post-holdings-a-10-owner-sells-148m-in-aflac-shares-93CH-4940074",
+    "Watchlist|https://www.investing.com/news/stock-market-news/nikkei-225-hits-70037-overbought-high-pullback-risk-live-93CH-4930979",
+    "Watchlist|https://www.investing.com/news/stock-market-news/softbank-shares-slide-as-openai-revenue-report-dents-ai-optimism-4940076",
+    "Watchlist|https://www.investing.com/news/economy-news/euro-skids-toward-fifth-weekly-fall-but-selling-pressure-slows-4940078",
+    "AI|7f6beeed-7c13-3902-ac29-38afce9c0e99",
+    "Watchlist|7f6beeed-7c13-3902-ac29-38afce9c0e99",
+    "War|61469822-08dd-3d33-ac47-a0f3dbb062fe"
   ],
   "topic_error": "",
   "last_digest": "2026-10-09",
@@ -2420,5 +2444,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791508016.473575
+  "last_check": 1791508930.7890701
 }
