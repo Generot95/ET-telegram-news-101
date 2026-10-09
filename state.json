@@ -3917,7 +3917,28 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-sirius-xm-stock-climbing-2-today-93CH-4941162",
     "Watchlist|https://www.investing.com/news/company-news/poonawalla-fincorp-q2fy27-slides-405-pat-growth-roa-hits-218-93CH-4941163",
     "Watchlist|https://www.investing.com/news/company-news/evolution-metals--technologies-corp-raises-fiscal-2026-revenue-guidance-62-at-midpoint-to-1011-million-and-reaffirms-400460-million-fiscal-2027-outlook-4941164",
-    "Watchlist|15bb6633-6fae-3801-88e6-676623ee411d"
+    "Watchlist|15bb6633-6fae-3801-88e6-676623ee411d",
+    "AI|15bb6633-6fae-3801-88e6-676623ee411d",
+    "War|96da0a4e-3049-34d2-89e4-ff50f2dcd7c0",
+    "War|fdafdedd-9b80-3ca6-b5dc-bc31417773c8",
+    "AI|5b1b0d95-fc06-3130-815e-05ab50b8e9eb",
+    "Crypto|fdafdedd-9b80-3ca6-b5dc-bc31417773c8",
+    "Watchlist|5b1b0d95-fc06-3130-815e-05ab50b8e9eb",
+    "AI|2e3dba74-b084-3424-9c2c-18ddc423bf65",
+    "AI|7f979711-0145-356d-9393-248747cb6063",
+    "AI|d19ba8f6-5b05-3e58-bc48-7a0c732adbbd",
+    "Watchlist|2e3dba74-b084-3424-9c2c-18ddc423bf65",
+    "Watchlist|7f979711-0145-356d-9393-248747cb6063",
+    "War|88a65d01-5ade-4dd4-bd1b-af3d2ac3b276",
+    "War|bf3e0a95-b86b-35ea-a91b-50123b549245",
+    "SG Banks|/international/global/china-vows-curb-tech-bubbles-keep-ai-risks-check",
+    "Watchlist|/international/global/china-vows-curb-tech-bubbles-keep-ai-risks-check",
+    "Cybersecurity|3ccf23ff-6858-3382-b8d4-0da4301963cb",
+    "War|f2297af8-814f-3d7a-9ed3-50926baa16d2",
+    "AI|e1375664-097a-3bd5-8350-78c1a4ada46c",
+    "Watchlist|e1375664-097a-3bd5-8350-78c1a4ada46c",
+    "SG Banks|https://www.channelnewsasia.com/business/geely-enters-canadian-market-plans-first-vehicle-sales-in-2027-6446476",
+    "Watchlist|bde5c817-7a7c-3f96-96c3-f90136582002"
   ],
   "topic_error": "",
   "last_digest": "2026-10-09",
@@ -3992,5 +4013,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791551135.997106
+  "last_check": 1791552054.0462062
 }
