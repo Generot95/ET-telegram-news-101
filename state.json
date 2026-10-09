@@ -2547,7 +2547,26 @@
     "Watchlist|e061df49-5dc7-338a-b25b-38721121aebf",
     "SG Banks|/companies-markets/capital-markets-currencies/tech-stocks-asia-struggle-ai-spending-worries-elevated-yields",
     "Watchlist|/companies-markets/capital-markets-currencies/tech-stocks-asia-struggle-ai-spending-worries-elevated-yields",
-    "Watchlist|fea6d4a1-399a-3c67-aa1d-8350816e6c48"
+    "Watchlist|fea6d4a1-399a-3c67-aa1d-8350816e6c48",
+    "SG Banks|https://www.channelnewsasia.com/business/meta-bans-bytedance-tiktok-ads-us-japan-thailand-indonesia-6444721",
+    "AI|https://www.investing.com/news/insider-trading-news/edwards-lifesciences-cvp-daniel-lippis-sells-53k-in-stock-93CH-4940146",
+    "AI|https://www.investing.com/news/insider-trading-news/united-therapeutics-chairperson--ceo-martine-rothblatt-sells-52m-in-stock-93CH-4940147",
+    "AI|https://www.investing.com/news/stock-market-news/gift-nifty-50-downtrend-intact-near-key-resistance-live-levels-93CH-4930996",
+    "AI|https://www.investing.com/news/stock-market-news/asia-stocks-mixed-chipmakers-slide-on-openai-revenue-concerns-4940150",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/edwards-lifesciences-cvp-daniel-lippis-sells-53k-in-stock-93CH-4940146",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/united-therapeutics-chairperson--ceo-martine-rothblatt-sells-52m-in-stock-93CH-4940147",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/gift-nifty-50-downtrend-intact-near-key-resistance-live-levels-93CH-4930996",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/asia-stocks-mixed-chipmakers-slide-on-openai-revenue-concerns-4940150",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/edwards-lifesciences-cvp-daniel-lippis-sells-53k-in-stock-93CH-4940146",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/united-therapeutics-chairperson--ceo-martine-rothblatt-sells-52m-in-stock-93CH-4940147",
+    "SG Banks|https://www.investing.com/news/stock-market-news/gift-nifty-50-downtrend-intact-near-key-resistance-live-levels-93CH-4930996",
+    "SG Banks|https://www.investing.com/news/stock-market-news/asia-stocks-mixed-chipmakers-slide-on-openai-revenue-concerns-4940150",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/edwards-lifesciences-cvp-daniel-lippis-sells-53k-in-stock-93CH-4940146",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/united-therapeutics-chairperson--ceo-martine-rothblatt-sells-52m-in-stock-93CH-4940147",
+    "Watchlist|https://www.investing.com/news/stock-market-news/gift-nifty-50-downtrend-intact-near-key-resistance-live-levels-93CH-4930996",
+    "Watchlist|https://www.investing.com/news/stock-market-news/asia-stocks-mixed-chipmakers-slide-on-openai-revenue-concerns-4940150",
+    "War|d8516af1-37ca-3f3b-ae47-2042c0b24ec2",
+    "AI|7bf89008-c82a-31d9-9bff-db1ab1e5a05e"
   ],
   "topic_error": "",
   "last_digest": "2026-10-09",
@@ -2622,5 +2641,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791519063.9757378
+  "last_check": 1791519985.829698
 }
