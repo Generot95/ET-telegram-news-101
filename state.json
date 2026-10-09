@@ -2498,7 +2498,16 @@
     "SG Banks|https://www.investing.com/news/stock-market-news/markets-wobble-on-dollar-jitters-one-energy-pick-is-up-71-4940128",
     "SG Banks|https://www.investing.com/news/stock-market-news/modi-wants-india-to-power-the-ai-age-residents-are-pushing-back-4940134",
     "Watchlist|https://www.investing.com/news/stock-market-news/markets-wobble-on-dollar-jitters-one-energy-pick-is-up-71-4940128",
-    "Watchlist|https://www.investing.com/news/stock-market-news/modi-wants-india-to-power-the-ai-age-residents-are-pushing-back-4940134"
+    "Watchlist|https://www.investing.com/news/stock-market-news/modi-wants-india-to-power-the-ai-age-residents-are-pushing-back-4940134",
+    "AI|4c43730f-eef1-3f89-bc00-aaf2f840c129",
+    "Watchlist|4c43730f-eef1-3f89-bc00-aaf2f840c129",
+    "AI|b9b3a670-1a35-3351-8ada-fa325f4f0fed",
+    "Watchlist|b9b3a670-1a35-3351-8ada-fa325f4f0fed",
+    "War|https://www.investing.com/news/commodities-news/gold-rises-on-softer-dollar-easing-yields-fed-outlook-in-focus-4940135",
+    "AI|https://www.investing.com/news/commodities-news/gold-rises-on-softer-dollar-easing-yields-fed-outlook-in-focus-4940135",
+    "Cybersecurity|https://www.investing.com/news/commodities-news/gold-rises-on-softer-dollar-easing-yields-fed-outlook-in-focus-4940135",
+    "SG Banks|https://www.investing.com/news/commodities-news/gold-rises-on-softer-dollar-easing-yields-fed-outlook-in-focus-4940135",
+    "Watchlist|https://www.investing.com/news/commodities-news/gold-rises-on-softer-dollar-easing-yields-fed-outlook-in-focus-4940135"
   ],
   "topic_error": "",
   "last_digest": "2026-10-09",
@@ -2573,5 +2582,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791515379.5184798
+  "last_check": 1791516296.9708738
 }
