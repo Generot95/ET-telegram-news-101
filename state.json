@@ -2369,7 +2369,11 @@
     "Watchlist|https://www.investing.com/news/economy-news/euro-skids-toward-fifth-weekly-fall-but-selling-pressure-slows-4940078",
     "AI|7f6beeed-7c13-3902-ac29-38afce9c0e99",
     "Watchlist|7f6beeed-7c13-3902-ac29-38afce9c0e99",
-    "War|61469822-08dd-3d33-ac47-a0f3dbb062fe"
+    "War|61469822-08dd-3d33-ac47-a0f3dbb062fe",
+    "SG Banks|https://www.channelnewsasia.com/asia/world-trade-organization-wto-global-outlook-resilient-robert-staiger-interview-6444356",
+    "SG Banks|/companies-markets/frasers-hospitality-ceo-step-down-coo-lead-company-and-report-frasers-property",
+    "Watchlist|/companies-markets/frasers-hospitality-ceo-step-down-coo-lead-company-and-report-frasers-property",
+    "War|6b312350-d8e5-3de8-99b7-1f59bf71fcd2"
   ],
   "topic_error": "",
   "last_digest": "2026-10-09",
@@ -2444,5 +2448,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791508930.7890701
+  "last_check": 1791509839.3067737
 }
