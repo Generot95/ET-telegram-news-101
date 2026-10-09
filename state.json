@@ -2969,7 +2969,13 @@
     "Watchlist|https://www.investing.com/news/economy-news/openai-revenue-reports-delta-air-lines-to-report--whats-moving-markets-4940355",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-telefonica-stock-sliding-today-93CH-4940358",
     "Watchlist|https://www.investing.com/news/company-news/ming-yang-controlling-shareholder-completes-bond-delisting-93CH-4940360",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/william-blair-downgrades-alignment-healthcare-stock-rating-on-cost-pressures-93CH-4940361"
+    "Watchlist|https://www.investing.com/news/analyst-ratings/william-blair-downgrades-alignment-healthcare-stock-rating-on-cost-pressures-93CH-4940361",
+    "War|2306d81b-c3eb-4b94-9296-91f6cd23b2cd",
+    "AI|404ef4c2-08af-3efe-a6ec-f7f6784cd9f2",
+    "Watchlist|404ef4c2-08af-3efe-a6ec-f7f6784cd9f2",
+    "SG Banks|https://www.channelnewsasia.com/business/russias-yandex-says-second-data-centre-hit-drone-attack-6445596",
+    "Iran|https://www.iranintl.com/en/202610094229",
+    "Watchlist|909eb8e9-69ea-3fe9-98a1-e8df0c601388"
   ],
   "topic_error": "",
   "last_digest": "2026-10-09",
@@ -3044,5 +3050,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791532830.5556142
+  "last_check": 1791533751.2775486
 }
