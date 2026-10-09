@@ -2841,7 +2841,14 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/sailpoint-general-counsel-sells-888955-in-stock-93CH-4940290",
     "SG Banks|https://www.channelnewsasia.com/business/firmus-5-billion-float-failure-deals-blow-australias-shrinking-share-market-6445406",
     "AI|2fe465e0-5d46-31a4-aa22-9632980ca9cd",
-    "Watchlist|2fe465e0-5d46-31a4-aa22-9632980ca9cd"
+    "Watchlist|2fe465e0-5d46-31a4-aa22-9632980ca9cd",
+    "SG Banks|/international/global/chinas-tax-crackdown-piles-pressure-luxury-brands-us-spending-falters",
+    "Watchlist|/international/global/chinas-tax-crackdown-piles-pressure-luxury-brands-us-spending-falters",
+    "SG Banks|https://www.channelnewsasia.com/business/norse-atlantic-lands-lease-deal-pakistans-pia-6445431",
+    "AI|0480887c-5f18-32ec-bbfe-d0fa8f63b6de",
+    "Watchlist|0480887c-5f18-32ec-bbfe-d0fa8f63b6de",
+    "AI|f0cfe3c7-ed57-3101-9372-5f6f9139c17c",
+    "Watchlist|f0cfe3c7-ed57-3101-9372-5f6f9139c17c"
   ],
   "topic_error": "",
   "last_digest": "2026-10-09",
@@ -2916,5 +2923,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791529155.2648406
+  "last_check": 1791530069.1093311
 }
