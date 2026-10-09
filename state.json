@@ -2277,7 +2277,30 @@
     "AI|18f925f6-0ed8-337c-a5a5-3fc75a966567",
     "SG Banks|bef8f6f8-3827-3538-bedc-00f712f590ce",
     "AI|e9d10d13-72fe-3324-bf17-92f566a7c62b",
-    "Watchlist|e9d10d13-72fe-3324-bf17-92f566a7c62b"
+    "Watchlist|e9d10d13-72fe-3324-bf17-92f566a7c62b",
+    "SG Banks|/companies-markets/stocks-watch-frasers-property-starhub-ntt-dc-reit",
+    "Watchlist|/companies-markets/stocks-watch-frasers-property-starhub-ntt-dc-reit",
+    "Iran|https://www.iranintl.com/en/202610080543",
+    "AI|https://www.investing.com/news/economic-indicators/japan-household-spending-drops-slightly-less-than-expected-in-august-4940019",
+    "AI|https://www.investing.com/news/company-news/cathie-woods-ark-sells-shopify-stock-buys-kratos-defense-93CH-4940030",
+    "AI|https://www.investing.com/news/economy-news/exclusiveai-surveillance-startup-flock-safety-to-cut-several-hundred-jobs-amid-backlash-sources-say-4940031",
+    "AI|https://www.investing.com/news/earnings/park-aerospace-earnings-beat-by-012-revenue-topped-estimates-4940032",
+    "AI|https://www.investing.com/news/stock-market-news/nvidia-plans-to-invest-in-ai-chip-rival-dmatrix-the-information-93CH-4940033",
+    "Cybersecurity|https://www.investing.com/news/economic-indicators/japan-household-spending-drops-slightly-less-than-expected-in-august-4940019",
+    "Cybersecurity|https://www.investing.com/news/company-news/cathie-woods-ark-sells-shopify-stock-buys-kratos-defense-93CH-4940030",
+    "Cybersecurity|https://www.investing.com/news/economy-news/exclusiveai-surveillance-startup-flock-safety-to-cut-several-hundred-jobs-amid-backlash-sources-say-4940031",
+    "Cybersecurity|https://www.investing.com/news/earnings/park-aerospace-earnings-beat-by-012-revenue-topped-estimates-4940032",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/nvidia-plans-to-invest-in-ai-chip-rival-dmatrix-the-information-93CH-4940033",
+    "SG Banks|https://www.investing.com/news/economic-indicators/japan-household-spending-drops-slightly-less-than-expected-in-august-4940019",
+    "SG Banks|https://www.investing.com/news/company-news/cathie-woods-ark-sells-shopify-stock-buys-kratos-defense-93CH-4940030",
+    "SG Banks|https://www.investing.com/news/economy-news/exclusiveai-surveillance-startup-flock-safety-to-cut-several-hundred-jobs-amid-backlash-sources-say-4940031",
+    "SG Banks|https://www.investing.com/news/earnings/park-aerospace-earnings-beat-by-012-revenue-topped-estimates-4940032",
+    "SG Banks|https://www.investing.com/news/stock-market-news/nvidia-plans-to-invest-in-ai-chip-rival-dmatrix-the-information-93CH-4940033",
+    "Watchlist|https://www.investing.com/news/economic-indicators/japan-household-spending-drops-slightly-less-than-expected-in-august-4940019",
+    "Watchlist|https://www.investing.com/news/company-news/cathie-woods-ark-sells-shopify-stock-buys-kratos-defense-93CH-4940030",
+    "Watchlist|https://www.investing.com/news/economy-news/exclusiveai-surveillance-startup-flock-safety-to-cut-several-hundred-jobs-amid-backlash-sources-say-4940031",
+    "Watchlist|https://www.investing.com/news/earnings/park-aerospace-earnings-beat-by-012-revenue-topped-estimates-4940032",
+    "Watchlist|https://www.investing.com/news/stock-market-news/nvidia-plans-to-invest-in-ai-chip-rival-dmatrix-the-information-93CH-4940033"
   ],
   "topic_error": "",
   "last_digest": "2026-10-09",
@@ -2352,5 +2375,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791504354.0284603
+  "last_check": 1791505268.8664534
 }
