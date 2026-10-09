@@ -2249,10 +2249,38 @@
     "SG Banks|https://www.channelnewsasia.com/business/imf-invites-boj-chief-ueda-speak-november-6-6444741",
     "SG Banks|https://www.straitstimes.com/business/openais-annualised-revenue-us20-billion-less-than-previously-signalled-report",
     "AI|bbe88c25-7469-3971-ba66-cec1d46e0c61",
-    "Watchlist|bbe88c25-7469-3971-ba66-cec1d46e0c61"
+    "Watchlist|bbe88c25-7469-3971-ba66-cec1d46e0c61",
+    "SG Banks|https://www.channelnewsasia.com/business/japanese-annual-household-spending-drops-9-straight-months-6444751",
+    "War|https://www.investing.com/news/commodities-news/oil-falls-slightly-after-trump-says-no-iran-attack-before-midterms-4940011",
+    "AI|https://www.investing.com/news/insider-trading-news/arista-networks-cfo-breithaupt-sells-263160-in-stock-93CH-4940008",
+    "AI|https://www.investing.com/news/insider-trading-news/arista-networks-ceo-jayshree-ullal-sells-976-million-in-stock-93CH-4940009",
+    "AI|https://www.investing.com/news/insider-trading-news/snowflake-director-benoit-dageville-sells-1667m-in-stock-93CH-4940010",
+    "AI|https://www.investing.com/news/commodities-news/oil-falls-slightly-after-trump-says-no-iran-attack-before-midterms-4940011",
+    "AI|https://www.investing.com/news/economy-news/japanese-annual-household-spending-drops-for-9-straight-months-4940012",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/arista-networks-cfo-breithaupt-sells-263160-in-stock-93CH-4940008",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/arista-networks-ceo-jayshree-ullal-sells-976-million-in-stock-93CH-4940009",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/snowflake-director-benoit-dageville-sells-1667m-in-stock-93CH-4940010",
+    "Cybersecurity|https://www.investing.com/news/commodities-news/oil-falls-slightly-after-trump-says-no-iran-attack-before-midterms-4940011",
+    "Cybersecurity|https://www.investing.com/news/economy-news/japanese-annual-household-spending-drops-for-9-straight-months-4940012",
+    "SG Banks|https://www.investing.com/news/company-news/mosaic-minerals-closes-second-tranche-of-private-placement-93CH-4940000",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/arista-networks-cfo-breithaupt-sells-263160-in-stock-93CH-4940008",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/arista-networks-ceo-jayshree-ullal-sells-976-million-in-stock-93CH-4940009",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/snowflake-director-benoit-dageville-sells-1667m-in-stock-93CH-4940010",
+    "SG Banks|https://www.investing.com/news/commodities-news/oil-falls-slightly-after-trump-says-no-iran-attack-before-midterms-4940011",
+    "SG Banks|https://www.investing.com/news/economy-news/japanese-annual-household-spending-drops-for-9-straight-months-4940012",
+    "Watchlist|https://www.investing.com/news/company-news/mosaic-minerals-closes-second-tranche-of-private-placement-93CH-4940000",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/arista-networks-cfo-breithaupt-sells-263160-in-stock-93CH-4940008",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/arista-networks-ceo-jayshree-ullal-sells-976-million-in-stock-93CH-4940009",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/snowflake-director-benoit-dageville-sells-1667m-in-stock-93CH-4940010",
+    "Watchlist|https://www.investing.com/news/commodities-news/oil-falls-slightly-after-trump-says-no-iran-attack-before-midterms-4940011",
+    "Watchlist|https://www.investing.com/news/economy-news/japanese-annual-household-spending-drops-for-9-straight-months-4940012",
+    "AI|18f925f6-0ed8-337c-a5a5-3fc75a966567",
+    "SG Banks|bef8f6f8-3827-3538-bedc-00f712f590ce",
+    "AI|e9d10d13-72fe-3324-bf17-92f566a7c62b",
+    "Watchlist|e9d10d13-72fe-3324-bf17-92f566a7c62b"
   ],
   "topic_error": "",
-  "last_digest": "2026-10-08",
+  "last_digest": "2026-10-09",
   "earnings": {
     "AMD": {
       "ts": 1793736000,
@@ -2324,5 +2352,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791503445.133776
+  "last_check": 1791504354.0284603
 }
