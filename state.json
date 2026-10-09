@@ -1,17 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|WP-MKTW-0005276151",
-    "Cybersecurity|WP-MKTW-0005276151",
-    "War|286ba954-0225-3020-aa33-d1df0121c9c4",
-    "AI|cae85038-5faf-3463-be20-25ffa51ebfc0",
-    "AI|619a05a8-0891-3a92-8c95-90ac39a26ea4",
-    "AI|4f50e67a-fb23-32cb-b2a3-ff6d4c9a7168",
-    "AI|9f6c6b3d-e408-317c-8a82-125a38d3a7d3",
-    "AI|47c3d90f-e604-3205-9633-a033a8da1007",
-    "AI|7cbfbfb7-051c-3272-bda4-cb70b52aeb9e",
-    "AI|a0a8aad8-8eba-3cea-8400-d503acfce3c7",
-    "War|5a67a1e3-918b-355c-a56b-b47a2be98b16",
     "War|991febd8-23f3-38b1-b008-6fcfd1c08de2",
     "War|df2bf333-5a55-394d-b6bd-a7ec9e3484c9",
     "War|41cb54e2-1f58-3048-999a-1efa8ab1e3a1",
@@ -5000,7 +4989,18 @@
     "Watchlist|88fcdae4-b275-3da2-9ae5-d1c2cfc95dd0",
     "War|36224939-7586-3193-8fcf-2562625059fe",
     "AI|88fcdae4-b275-3da2-9ae5-d1c2cfc95dd0",
-    "Watchlist|fc007ac7-4175-332e-9b0f-59f32c503fed"
+    "Watchlist|fc007ac7-4175-332e-9b0f-59f32c503fed",
+    "War|ea230803-4ffa-3f45-8bf0-8c106625d54a",
+    "Watchlist|ea230803-4ffa-3f45-8bf0-8c106625d54a",
+    "AI|https://www.investing.com/news/company-news/clean-air-metals-closes-c150000-private-placement-93CH-4941785",
+    "AI|https://www.investing.com/news/stock-market-news/super-micro-contractor-pleads-guilty-in-scheme-to-divert-ai-servers-with-nvidia-chips-to-china-4941793",
+    "Cybersecurity|https://www.investing.com/news/company-news/clean-air-metals-closes-c150000-private-placement-93CH-4941785",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/super-micro-contractor-pleads-guilty-in-scheme-to-divert-ai-servers-with-nvidia-chips-to-china-4941793",
+    "SG Banks|https://www.investing.com/news/company-news/clean-air-metals-closes-c150000-private-placement-93CH-4941785",
+    "SG Banks|https://www.investing.com/news/stock-market-news/super-micro-contractor-pleads-guilty-in-scheme-to-divert-ai-servers-with-nvidia-chips-to-china-4941793",
+    "Watchlist|https://www.investing.com/news/company-news/clean-air-metals-closes-c150000-private-placement-93CH-4941785",
+    "Watchlist|https://www.investing.com/news/stock-market-news/super-micro-contractor-pleads-guilty-in-scheme-to-divert-ai-servers-with-nvidia-chips-to-china-4941793",
+    "Cybersecurity|bf9b7ff1-5a7e-36e0-b9e5-483f4bd3697d"
   ],
   "topic_error": "",
   "last_digest": "2026-10-09",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791585091.352414
+  "last_check": 1791586002.842223
 }
