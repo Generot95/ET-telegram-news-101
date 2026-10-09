@@ -2310,7 +2310,15 @@
     "AI|https://www.investing.com/news/insider-trading-news/vistra-evp-and-cfo-kristopher-moldovan-sells-33m-in-stock-93CH-4940043",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/vistra-evp-and-cfo-kristopher-moldovan-sells-33m-in-stock-93CH-4940043",
     "SG Banks|https://www.investing.com/news/insider-trading-news/vistra-evp-and-cfo-kristopher-moldovan-sells-33m-in-stock-93CH-4940043",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/vistra-evp-and-cfo-kristopher-moldovan-sells-33m-in-stock-93CH-4940043"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/vistra-evp-and-cfo-kristopher-moldovan-sells-33m-in-stock-93CH-4940043",
+    "War|48d27a80-5b64-31e8-a827-0ecb92b28ae6",
+    "War|https://www.investing.com/news/commodities-news/us-sued-over-plan-to-blast-utah-canyon-inscribedby-19th-century-buffalo-soldiers-europeanpioneers-4940046",
+    "AI|https://www.investing.com/news/commodities-news/us-sued-over-plan-to-blast-utah-canyon-inscribedby-19th-century-buffalo-soldiers-europeanpioneers-4940046",
+    "Cybersecurity|https://www.investing.com/news/commodities-news/us-sued-over-plan-to-blast-utah-canyon-inscribedby-19th-century-buffalo-soldiers-europeanpioneers-4940046",
+    "SG Banks|/companies-markets/banking-finance/amex-fined-us350-million-anti-money-laundering-lapses",
+    "SG Banks|https://www.investing.com/news/commodities-news/us-sued-over-plan-to-blast-utah-canyon-inscribedby-19th-century-buffalo-soldiers-europeanpioneers-4940046",
+    "Watchlist|https://www.investing.com/news/commodities-news/us-sued-over-plan-to-blast-utah-canyon-inscribedby-19th-century-buffalo-soldiers-europeanpioneers-4940046",
+    "Watchlist|/companies-markets/banking-finance/amex-fined-us350-million-anti-money-laundering-lapses"
   ],
   "topic_error": "",
   "last_digest": "2026-10-09",
@@ -2385,5 +2393,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791506174.9596004
+  "last_check": 1791507095.6836839
 }
