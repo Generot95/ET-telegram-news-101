@@ -3473,7 +3473,21 @@
     "Watchlist|https://www.investing.com/news/analyst-ratings/bofa-cuts-smithfield-foods-stock-rating-on-weaker-pork-values-93CH-4940739",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-semtech-stock-slipping-today-93CH-4940743",
     "Watchlist|https://www.investing.com/news/stock-market-news/bmo-cuts-chemical-sector-outlook-on-strait-of-hormuz-disruptions-93CH-4940745",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/bofa-initiates-penguin-solutions-stock-at-buy-on-ai-growth-93CH-4940747"
+    "Watchlist|https://www.investing.com/news/analyst-ratings/bofa-initiates-penguin-solutions-stock-at-buy-on-ai-growth-93CH-4940747",
+    "War|WP-MKTW-0005269280",
+    "AI|WP-MKTW-0005269280",
+    "Cybersecurity|WP-MKTW-0005269280",
+    "War|c0210992-755f-30e4-9ce0-16b070e9603a",
+    "Watchlist|c0210992-755f-30e4-9ce0-16b070e9603a",
+    "War|e51fa9a3-0b3b-3bf7-863d-d1fa7f1ba5d0",
+    "Watchlist|960f9f90-2a56-37e0-b307-54bb0587ed42",
+    "AI|09f993bc-58e9-3692-8b00-047b8b09f73e",
+    "Crypto|0020f1f6-530f-3cac-8e2e-77cdcd76d1be",
+    "Watchlist|09f993bc-58e9-3692-8b00-047b8b09f73e",
+    "AI|753cdc65-58af-3feb-834f-aadc2808435f",
+    "Watchlist|753cdc65-58af-3feb-834f-aadc2808435f",
+    "AI|2ed1c877-f138-3b92-a55b-d65fdee6763d",
+    "Watchlist|2ed1c877-f138-3b92-a55b-d65fdee6763d"
   ],
   "topic_error": "",
   "last_digest": "2026-10-09",
@@ -3548,5 +3562,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791543830.7514226
+  "last_check": 1791544729.1143408
 }
