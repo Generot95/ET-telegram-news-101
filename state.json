@@ -2486,7 +2486,11 @@
     "Watchlist|b8b314de-d4af-3c90-8340-04958f838fdf",
     "Watchlist|https://www.investing.com/news/stock-market-news/flock-safety-to-cut-18-of-roles-amid-privacy-concerns-reuters-93CH-4940116",
     "Watchlist|https://www.investing.com/news/company-news/innovative-industrial-properties-prices-50m-preferred-stock-offering-93CH-4940118",
-    "Watchlist|https://www.investing.com/news/commodities-news/oil-falls-as-trump-comments-on-iran-talks-ease-supply-concerns-4940126"
+    "Watchlist|https://www.investing.com/news/commodities-news/oil-falls-as-trump-comments-on-iran-talks-ease-supply-concerns-4940126",
+    "AI|0bb93f85-e861-3412-ab81-1decdff60b73",
+    "AI|f16184f5-9131-308e-b381-44ac345caa54",
+    "Watchlist|0bb93f85-e861-3412-ab81-1decdff60b73",
+    "War|96017965-e1ac-3556-8b3c-03d5ada5158c"
   ],
   "topic_error": "",
   "last_digest": "2026-10-09",
@@ -2561,5 +2565,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791513548.884459
+  "last_check": 1791514469.7572188
 }
