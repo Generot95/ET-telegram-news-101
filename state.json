@@ -2490,7 +2490,15 @@
     "AI|0bb93f85-e861-3412-ab81-1decdff60b73",
     "AI|f16184f5-9131-308e-b381-44ac345caa54",
     "Watchlist|0bb93f85-e861-3412-ab81-1decdff60b73",
-    "War|96017965-e1ac-3556-8b3c-03d5ada5158c"
+    "War|96017965-e1ac-3556-8b3c-03d5ada5158c",
+    "AI|https://www.investing.com/news/stock-market-news/markets-wobble-on-dollar-jitters-one-energy-pick-is-up-71-4940128",
+    "AI|https://www.investing.com/news/stock-market-news/modi-wants-india-to-power-the-ai-age-residents-are-pushing-back-4940134",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/markets-wobble-on-dollar-jitters-one-energy-pick-is-up-71-4940128",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/modi-wants-india-to-power-the-ai-age-residents-are-pushing-back-4940134",
+    "SG Banks|https://www.investing.com/news/stock-market-news/markets-wobble-on-dollar-jitters-one-energy-pick-is-up-71-4940128",
+    "SG Banks|https://www.investing.com/news/stock-market-news/modi-wants-india-to-power-the-ai-age-residents-are-pushing-back-4940134",
+    "Watchlist|https://www.investing.com/news/stock-market-news/markets-wobble-on-dollar-jitters-one-energy-pick-is-up-71-4940128",
+    "Watchlist|https://www.investing.com/news/stock-market-news/modi-wants-india-to-power-the-ai-age-residents-are-pushing-back-4940134"
   ],
   "topic_error": "",
   "last_digest": "2026-10-09",
@@ -2565,5 +2573,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791514469.7572188
+  "last_check": 1791515379.5184798
 }
