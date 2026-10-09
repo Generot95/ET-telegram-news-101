@@ -3184,7 +3184,26 @@
     "Watchlist|https://www.investing.com/news/commodities-news/houthi-strikes-on-riyadh-airport-killed-three-saudis-as-war-escalates-4940497",
     "Watchlist|https://www.investing.com/news/stock-market-news/soitec-climbs-7-as-bofa-turns-bullish-on-silicon-photonics-demand-4940498",
     "SG Banks|/companies-markets/frasers-hospitality-ceo-step-down-coo-lead-business-and-report-frasers-property",
-    "Watchlist|/companies-markets/frasers-hospitality-ceo-step-down-coo-lead-business-and-report-frasers-property"
+    "Watchlist|/companies-markets/frasers-hospitality-ceo-step-down-coo-lead-business-and-report-frasers-property",
+    "War|fe7b77d2-f453-349d-bca4-5a28a20f0de0",
+    "AI|3ba3a159-31db-3177-bee3-5bef9ee78f3b",
+    "AI|e6839d9b-a2e8-394e-99a6-f11923ddc51e",
+    "AI|76547e7a-6e19-396f-a3b8-ab2fe644baa6",
+    "Crypto|11b474b7-70ca-3d97-915c-2b690e6ecb68",
+    "Watchlist|76547e7a-6e19-396f-a3b8-ab2fe644baa6",
+    "Watchlist|e6839d9b-a2e8-394e-99a6-f11923ddc51e",
+    "Watchlist|3ba3a159-31db-3177-bee3-5bef9ee78f3b",
+    "War|4bbf37fb-4703-3449-85d4-c7f1fbae86e2",
+    "War|12c3e78f-742a-30c8-8dc1-6f3d99483a20",
+    "War|7a7abfdc-d47b-3782-a060-fb25e577e0c4",
+    "War|54dbac49-064d-3a1b-943c-e357ac8073c8",
+    "Crypto|12c3e78f-742a-30c8-8dc1-6f3d99483a20",
+    "SG Banks|/companies-markets/st-engineering-opens-tech-focused-aircraft-maintenance-facility-changi-create-over-500-jobs",
+    "Watchlist|/companies-markets/st-engineering-opens-tech-focused-aircraft-maintenance-facility-changi-create-over-500-jobs",
+    "War|cf30c6c5-fcf5-3090-9572-267e3ef95082",
+    "AI|e5da4dda-4a6d-3277-8258-8f01ee61f21e",
+    "Watchlist|e5da4dda-4a6d-3277-8258-8f01ee61f21e",
+    "War|d62beb36-6d0a-3810-b48e-30853ca3ec92"
   ],
   "topic_error": "",
   "last_digest": "2026-10-09",
@@ -3259,5 +3278,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791538312.2581909
+  "last_check": 1791539224.895427
 }
