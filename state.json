@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/fannie-mae-announces-sale-of-nonperforming-loans-93CH-4939300",
-    "AI|https://www.investing.com/news/company-news/helen-of-troy-q2-fy27-slides-margins-surge-earnings-beat-expectations-93CH-4939304",
-    "AI|https://www.investing.com/news/company-news/mitsui-osk-lines-q1-fy2026-slides-profit-forecast-raised-55-93CH-4939305",
-    "AI|https://www.investing.com/news/company-news/pimco-etfs-plc-announces-dividend-distributions-across-funds-93CH-4939306",
-    "AI|WP-MKTW-0005275607",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/alphabet-coiling-in-335353-chop-zone-live-breakout-levels-93CH-4932446",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/nvidia-hits-alltime-high-at-23788-amid-fading-volume-live-93CH-4932449",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/dax-presses-resistance-at-25367-in-bear-flag-live-levels-93CH-4931189",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/amazon-targets-apple-with-highend-alexa-tablets-featuring-google-play-apps-4939312",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/sp-500-trapped-near-ath-in-lowmomentum-chop-zone-live-levels-93CH-4932454",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/dollar-index-overbought-at-10212-with-rsi-at-71-live-levels-93CH-4932451",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/alphabet-c-consolidates-332350-breakout-levels-live-93CH-4932453",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/tesla-reclaims-200ma-eyes-386-resistance-hourly-levels-93CH-4932452",
@@ -5000,7 +4990,17 @@
     "War|WP-MKTW-0005275607",
     "SG Banks|/companies-markets/temasek-related-azalea-seatown-seviora-capital-merge-2027",
     "SG Banks|https://www.channelnewsasia.com/business/qualcomm-and-arm-jury-return-next-week-after-deliberations-in-contract-dispute-case-6446211",
-    "SG Banks|https://www.channelnewsasia.com/business/amazon-shuffles-alexa-leadership-following-high-end-tablet-release-6447996"
+    "SG Banks|https://www.channelnewsasia.com/business/amazon-shuffles-alexa-leadership-following-high-end-tablet-release-6447996",
+    "AI|0b6e9792-e968-3def-bf45-93435904f565",
+    "Watchlist|0b6e9792-e968-3def-bf45-93435904f565",
+    "AI|c06b1d24-2b3a-3ef2-b75f-aaee733d2768",
+    "Watchlist|c06b1d24-2b3a-3ef2-b75f-aaee733d2768",
+    "War|48485c78-68d2-4a7b-aefc-a131707902a0",
+    "AI|https://www.investing.com/news/insider-trading-news/hershey-trust-co-sells-325-million-in-hershey-co-shares-93CH-4941761",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/hershey-trust-co-sells-325-million-in-hershey-co-shares-93CH-4941761",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/hershey-trust-co-sells-325-million-in-hershey-co-shares-93CH-4941761",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/hershey-trust-co-sells-325-million-in-hershey-co-shares-93CH-4941761",
+    "AI|WP-MKTW-0005275607"
   ],
   "topic_error": "",
   "last_digest": "2026-10-09",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791582340.8349576
+  "last_check": 1791583253.5149388
 }
