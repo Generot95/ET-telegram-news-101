@@ -2780,7 +2780,24 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/apple-cuts-iphone18-pro-component-orders-amid-sluggish-demand-nikkei-4940267",
     "Watchlist|https://www.investing.com/news/company-news/greenx-metals-schedules-agm-reports-performance-rights-lapse-93CH-4940268",
     "Watchlist|https://www.investing.com/news/economy-news/nearly-30-years-afterimf-rescue-thailand-faces-new-economic-test-4940269",
-    "Watchlist|https://www.investing.com/news/company-news/vault-ventures-signs-codesign-partnerships-for-quantum-platform-93CH-4940271"
+    "Watchlist|https://www.investing.com/news/company-news/vault-ventures-signs-codesign-partnerships-for-quantum-platform-93CH-4940271",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/competition-authority-seeks-public-views-on-eneos-apacs-proposed-acquisition-of-chevron-singapore",
+    "AI|cbfbad4f-2482-3748-818c-43dce1d14c8c",
+    "Watchlist|cbfbad4f-2482-3748-818c-43dce1d14c8c",
+    "SG Banks|/companies-markets/energy-commodities/soaring-freight-rates-threaten-asias-appetite-us-crude",
+    "Watchlist|/companies-markets/energy-commodities/soaring-freight-rates-threaten-asias-appetite-us-crude",
+    "SG Banks|/companies-markets/telcos-media-tech/openais-singapore-based-asia-pacific-policy-head-leave-after-6-months",
+    "Watchlist|/companies-markets/telcos-media-tech/openais-singapore-based-asia-pacific-policy-head-leave-after-6-months",
+    "Crypto|21c28f3f-4b76-38b4-bbb3-94ba914f0dd3",
+    "Watchlist|13b2b860-890a-3f9c-982b-a6e41281e7fd",
+    "Watchlist|5c294f8b-d991-340f-84a4-665acfffe175",
+    "War|c6168424-cd74-3961-985b-9c6bb49b9786",
+    "War|f911bcd1-1b91-3002-be9e-a6ce066a4328",
+    "SG Banks|5c294f8b-d991-340f-84a4-665acfffe175",
+    "SG Banks|https://www.channelnewsasia.com/business/openai-says-it-has-fired-three-researchers-violating-sensitive-information-policy-6445381",
+    "Crypto|4ec7c77f-5cca-3ebf-9ffb-33c1661ba6bc",
+    "SG Banks|f549e02a-d7f6-3471-b4ef-b0110a4fec79",
+    "SG Banks|https://www.straitstimes.com/business/frasers-hospitality-ceo-to-step-down-coo-to-lead-company-and-report-to-frasers-property"
   ],
   "topic_error": "",
   "last_digest": "2026-10-09",
@@ -2855,5 +2872,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791527320.9775503
+  "last_check": 1791528229.0505397
 }
