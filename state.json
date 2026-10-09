@@ -2538,7 +2538,16 @@
     "Watchlist|55cefd1f-642b-3fb0-8540-95c774d5dae7",
     "SG Banks|https://www.straitstimes.com/business/tech-stocks-struggle-on-ai-spending-worries-elevated-yields",
     "War|671454e9-fb29-382e-b256-f14389027659",
-    "Iran|https://www.iranintl.com/en/202610085516"
+    "Iran|https://www.iranintl.com/en/202610085516",
+    "AI|https://www.investing.com/news/forex-news/asia-fx-muted-dollar-heads-for-fourth-straight-week-of-gains-4940141",
+    "Cybersecurity|https://www.investing.com/news/forex-news/asia-fx-muted-dollar-heads-for-fourth-straight-week-of-gains-4940141",
+    "SG Banks|https://www.investing.com/news/forex-news/asia-fx-muted-dollar-heads-for-fourth-straight-week-of-gains-4940141",
+    "Watchlist|https://www.investing.com/news/forex-news/asia-fx-muted-dollar-heads-for-fourth-straight-week-of-gains-4940141",
+    "AI|e061df49-5dc7-338a-b25b-38721121aebf",
+    "Watchlist|e061df49-5dc7-338a-b25b-38721121aebf",
+    "SG Banks|/companies-markets/capital-markets-currencies/tech-stocks-asia-struggle-ai-spending-worries-elevated-yields",
+    "Watchlist|/companies-markets/capital-markets-currencies/tech-stocks-asia-struggle-ai-spending-worries-elevated-yields",
+    "Watchlist|fea6d4a1-399a-3c67-aa1d-8350816e6c48"
   ],
   "topic_error": "",
   "last_digest": "2026-10-09",
@@ -2613,5 +2622,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791518148.5979345
+  "last_check": 1791519063.9757378
 }
