@@ -3025,7 +3025,18 @@
     "Watchlist|https://www.investing.com/news/analyst-ratings/baird-upgrades-humana-stock-rating-on-margin-recovery-outlook-93CH-4940399",
     "Watchlist|https://www.investing.com/news/analyst-ratings/rbc-capital-cuts-knife-river-stock-rating-on-cost-inflation-concerns-93CH-4940400",
     "Watchlist|https://www.investing.com/news/stock-market-news/paramount-to-develop-cyberpunk-2077-film-lifting-cd-projekt-reds-shares-4940347",
-    "Watchlist|https://www.investing.com/news/economic-indicators/italy-industrial-output-dives-unexpectedly-in-august-4940401"
+    "Watchlist|https://www.investing.com/news/economic-indicators/italy-industrial-output-dives-unexpectedly-in-august-4940401",
+    "War|f606108f-bfc8-3fb1-872c-15078385e8e7",
+    "AI|57928c7e-2ca7-3cf2-913a-ecd5f4bfa4c8",
+    "Crypto|c122c06d-d91d-3c39-aaff-2300ce31beea",
+    "Watchlist|57928c7e-2ca7-3cf2-913a-ecd5f4bfa4c8",
+    "SG Banks|https://www.channelnewsasia.com/business/oil-eases-bringing-some-respite-stocks-and-battered-bonds-6444881",
+    "AI|3959b5b4-23b8-3661-94ac-62e66e99f5fb",
+    "AI|aa0fe60a-d017-394f-8c28-df5767c80363",
+    "Cybersecurity|aa0fe60a-d017-394f-8c28-df5767c80363",
+    "Watchlist|3959b5b4-23b8-3661-94ac-62e66e99f5fb",
+    "Watchlist|aa0fe60a-d017-394f-8c28-df5767c80363",
+    "Watchlist|e10da5ef-ab34-3c21-bbc9-bf5cb00f3641"
   ],
   "topic_error": "",
   "last_digest": "2026-10-09",
@@ -3100,5 +3111,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791534656.6805108
+  "last_check": 1791535568.7643225
 }
