@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/dollar-index-overbought-at-10212-with-rsi-at-71-live-levels-93CH-4932451",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/alphabet-c-consolidates-332350-breakout-levels-live-93CH-4932453",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/tesla-reclaims-200ma-eyes-386-resistance-hourly-levels-93CH-4932452",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/dow-jones-squeezed-at-51328-with-bears-in-control-live-levels-93CH-4932455",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/nasdaq-100-tests-31281-resistance-near-double-top-live-levels-93CH-4932456",
-    "Cybersecurity|https://www.investing.com/news/company-news/pony-ai-stock-hits-52week-low-at-582-usd-93CH-4939270",
     "Cybersecurity|https://www.investing.com/news/company-news/atmus-filtration-technologies-stock-hits-52week-low-at-4255-93CH-4939273",
     "Cybersecurity|https://www.investing.com/news/company-news/sempra-energy-stock-hits-52week-low-at-1843-usd-93CH-4939274",
     "Cybersecurity|https://www.investing.com/news/company-news/nahl-group-completes-sale-of-searches-uk-for-12-million-93CH-4939278",
@@ -5000,7 +4994,13 @@
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/hershey-trust-co-sells-325-million-in-hershey-co-shares-93CH-4941761",
     "SG Banks|https://www.investing.com/news/insider-trading-news/hershey-trust-co-sells-325-million-in-hershey-co-shares-93CH-4941761",
     "Watchlist|https://www.investing.com/news/insider-trading-news/hershey-trust-co-sells-325-million-in-hershey-co-shares-93CH-4941761",
-    "AI|WP-MKTW-0005275607"
+    "AI|WP-MKTW-0005275607",
+    "SG Banks|https://www.channelnewsasia.com/business/kalshi-probes-suspicious-trades-tied-trump-press-secretary-pick-wsj-reports-6448026",
+    "Crypto|304b8ec6-7635-3af5-995e-106eeefbc0a0",
+    "Cybersecurity|7085ae62-3b51-3927-8710-1e7c122f9eea",
+    "Cybersecurity|06867264-1d30-34f8-9789-707e6cc3f3f9",
+    "AI|52842405-4ff4-3e1c-a072-76318e3c4a83",
+    "Watchlist|52842405-4ff4-3e1c-a072-76318e3c4a83"
   ],
   "topic_error": "",
   "last_digest": "2026-10-09",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791583253.5149388
+  "last_check": 1791584165.0713708
 }
