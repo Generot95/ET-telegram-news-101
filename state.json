@@ -4912,7 +4912,24 @@
     "Watchlist|https://www.investing.com/news/economy-news/magnitude-76-earthquake-hits-panamas-southern-coast-93CH-4941583",
     "Watchlist|https://www.investing.com/news/economy-news/katie-zacharia-reportedly-named-new-white-house-press-secretary-4941585",
     "AI|dbee570d-c47b-3387-b125-a5e32b38bcb4",
-    "Watchlist|dbee570d-c47b-3387-b125-a5e32b38bcb4"
+    "Watchlist|dbee570d-c47b-3387-b125-a5e32b38bcb4",
+    "AI|88b4bb20-c804-3358-a98f-14f75b380ea7",
+    "Watchlist|88b4bb20-c804-3358-a98f-14f75b380ea7",
+    "Crypto|4ec31157-ba7b-3d68-9124-2ab0d60cf006",
+    "AI|2310ed36-c8a5-3933-ae80-fe333798e199",
+    "Watchlist|2310ed36-c8a5-3933-ae80-fe333798e199",
+    "AI|https://www.investing.com/news/company-news/eldorado-golds-skouries-mine-designated-eu-strategic-project-93CH-4941587",
+    "AI|https://www.investing.com/news/company-news/emat-stock-hits-52week-low-at-167-usd-93CH-4941588",
+    "AI|https://www.investing.com/news/company-news/ringkjbing-landbobank-launches-dkk-400m-share-buyback-93CH-4941589",
+    "Cybersecurity|https://www.investing.com/news/company-news/eldorado-golds-skouries-mine-designated-eu-strategic-project-93CH-4941587",
+    "Cybersecurity|https://www.investing.com/news/company-news/emat-stock-hits-52week-low-at-167-usd-93CH-4941588",
+    "Cybersecurity|https://www.investing.com/news/company-news/ringkjbing-landbobank-launches-dkk-400m-share-buyback-93CH-4941589",
+    "SG Banks|https://www.investing.com/news/company-news/eldorado-golds-skouries-mine-designated-eu-strategic-project-93CH-4941587",
+    "SG Banks|https://www.investing.com/news/company-news/emat-stock-hits-52week-low-at-167-usd-93CH-4941588",
+    "SG Banks|https://www.investing.com/news/company-news/ringkjbing-landbobank-launches-dkk-400m-share-buyback-93CH-4941589",
+    "Watchlist|https://www.investing.com/news/company-news/eldorado-golds-skouries-mine-designated-eu-strategic-project-93CH-4941587",
+    "Watchlist|https://www.investing.com/news/company-news/emat-stock-hits-52week-low-at-167-usd-93CH-4941588",
+    "Watchlist|https://www.investing.com/news/company-news/ringkjbing-landbobank-launches-dkk-400m-share-buyback-93CH-4941589"
   ],
   "topic_error": "",
   "last_digest": "2026-10-09",
@@ -4987,5 +5004,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791571331.325314
+  "last_check": 1791572249.5242567
 }
