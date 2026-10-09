@@ -1,22 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|991febd8-23f3-38b1-b008-6fcfd1c08de2",
-    "War|df2bf333-5a55-394d-b6bd-a7ec9e3484c9",
-    "War|41cb54e2-1f58-3048-999a-1efa8ab1e3a1",
-    "War|b84a4f4b-c3cb-3739-9db2-9d7f9efb3be7",
-    "War|c2a8bcdf-bc80-4d01-a592-7c6fdc64be1b",
-    "Iran|https://www.iranintl.com/en/202610082874",
-    "AI|5ee0ebda-d364-3d72-b64f-3a74564ac6d1",
-    "AI|3524337f-f6fe-3618-85eb-571e339efa68",
-    "AI|404c45df-cba2-38c6-ae1c-d43cb99338bd",
-    "AI|a7857669-c45f-3460-897e-001f0429f473",
-    "AI|453ea52e-bcf7-3605-b7ac-07359691464e",
-    "AI|0230d133-e64a-3205-bab7-ed057ea9a084",
-    "AI|f885bb2a-3964-301a-b857-173f85008827",
-    "AI|0216a2e1-59b5-34c5-a910-83d65a9e0b1f",
-    "AI|2522ad75-5a0d-33ec-949c-e6bcc7bb625b",
-    "AI|8ee893f1-d2e0-30a6-85a2-83b1f4a56a10",
     "AI|83157d87-164f-33ee-a7ae-33e25948b364",
     "AI|2230ee29-f2d9-38dc-ad54-05d9ea399946",
     "AI|4d11c62a-8faa-3037-bf55-1af5991b193e",
@@ -5000,7 +4984,23 @@
     "SG Banks|https://www.investing.com/news/stock-market-news/super-micro-contractor-pleads-guilty-in-scheme-to-divert-ai-servers-with-nvidia-chips-to-china-4941793",
     "Watchlist|https://www.investing.com/news/company-news/clean-air-metals-closes-c150000-private-placement-93CH-4941785",
     "Watchlist|https://www.investing.com/news/stock-market-news/super-micro-contractor-pleads-guilty-in-scheme-to-divert-ai-servers-with-nvidia-chips-to-china-4941793",
-    "Cybersecurity|bf9b7ff1-5a7e-36e0-b9e5-483f4bd3697d"
+    "Cybersecurity|bf9b7ff1-5a7e-36e0-b9e5-483f4bd3697d",
+    "SG Banks|0e285828-4015-3c9a-b7fb-98d9b32a16aa",
+    "SG Banks|https://www.channelnewsasia.com/business/exclusive-sequoia-backed-chip-startup-nuvacore-raising-funds-about-25-billion-valuation-sources-say-6448066",
+    "AI|https://www.investing.com/news/stock-market-news/exclusivesequoiabacked-chip-startup-nuvacore-raising-funds-at-about-a-25-billion-valuation-sources-say-4941795",
+    "AI|https://www.investing.com/news/company-news/fda-approves-hovilpri-for-refractory-hsv-in-immunocompromised-adults-93CH-4941796",
+    "AI|https://www.investing.com/news/insider-trading-news/sentinelone-cfo-sonalee-parekh-sells-413291-in-stock-93CH-4941803",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/exclusivesequoiabacked-chip-startup-nuvacore-raising-funds-at-about-a-25-billion-valuation-sources-say-4941795",
+    "Cybersecurity|https://www.investing.com/news/company-news/fda-approves-hovilpri-for-refractory-hsv-in-immunocompromised-adults-93CH-4941796",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/sentinelone-cfo-sonalee-parekh-sells-413291-in-stock-93CH-4941803",
+    "SG Banks|https://www.investing.com/news/stock-market-news/exclusivesequoiabacked-chip-startup-nuvacore-raising-funds-at-about-a-25-billion-valuation-sources-say-4941795",
+    "SG Banks|https://www.investing.com/news/company-news/fda-approves-hovilpri-for-refractory-hsv-in-immunocompromised-adults-93CH-4941796",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/sentinelone-cfo-sonalee-parekh-sells-413291-in-stock-93CH-4941803",
+    "Watchlist|https://www.investing.com/news/stock-market-news/exclusivesequoiabacked-chip-startup-nuvacore-raising-funds-at-about-a-25-billion-valuation-sources-say-4941795",
+    "Watchlist|https://www.investing.com/news/company-news/fda-approves-hovilpri-for-refractory-hsv-in-immunocompromised-adults-93CH-4941796",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/sentinelone-cfo-sonalee-parekh-sells-413291-in-stock-93CH-4941803",
+    "Iran|https://www.iranintl.com/en/202610082874",
+    "War|e4ca7f75-8f1f-4176-a703-452f4a922f9a"
   ],
   "topic_error": "",
   "last_digest": "2026-10-09",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791586002.842223
+  "last_check": 1791586939.0070136
 }
