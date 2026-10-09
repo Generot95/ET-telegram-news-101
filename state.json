@@ -4768,7 +4768,32 @@
     "Watchlist|https://www.investing.com/news/company-news/vir-biotechnology-stock-hits-52week-high-at-1196-usd-93CH-4941537",
     "Watchlist|https://www.investing.com/news/company-news/vertex-reports-pancreatic-function-recovery-in-young-cf-patients-93CH-4941538",
     "Watchlist|https://www.investing.com/news/company-news/greenpower-signs-letter-of-intent-with-charging-firm-iuc-93CH-4941540",
-    "War|37cfafce-ca0a-34f4-97f9-dc486f003207"
+    "War|37cfafce-ca0a-34f4-97f9-dc486f003207",
+    "AI|86595ce0-1ccd-3c91-a9ed-ae2a4012831d",
+    "Crypto|18d68555-16ce-3af1-b02a-42cf44c79d38",
+    "Crypto|865d5c2c-80df-3bf8-b440-b047749f060e",
+    "Watchlist|1168b81c-ac4a-4603-86fe-9acc90294c6c",
+    "Watchlist|96a2f11e-91cb-4ffd-a9a0-28edd9fcee59",
+    "AI|96a2f11e-91cb-4ffd-a9a0-28edd9fcee59",
+    "AI|5f188f7c-f3e9-38e0-8c91-bb8f2f5ec9df",
+    "AI|fc09e8e2-ea7b-3d7c-b8e3-c6c95589e320",
+    "AI|f2157386-0ac6-34c4-9b11-d78fd02672de",
+    "Cybersecurity|f2157386-0ac6-34c4-9b11-d78fd02672de",
+    "Watchlist|5f188f7c-f3e9-38e0-8c91-bb8f2f5ec9df",
+    "Watchlist|fc09e8e2-ea7b-3d7c-b8e3-c6c95589e320",
+    "Watchlist|f2157386-0ac6-34c4-9b11-d78fd02672de",
+    "AI|0a817454-46d9-3d19-93c2-7993b367b8ce",
+    "AI|ecb6183c-1220-3552-93b1-d543d65fdc17",
+    "AI|https://www.investing.com/news/stock-market-news/moderna-options-activity-surges-as-nasdaq100-inclusion-and-melanoma-data-drive-call-buying-93CH-4941547",
+    "AI|https://www.investing.com/news/stock-market-news/fcc-chief-defers-to-pentagon-on-airing-us-execution-on-tv-networks-4941549",
+    "Watchlist|ecb6183c-1220-3552-93b1-d543d65fdc17",
+    "War|cdf6b04c-1460-3d25-be4c-6d8f67729638",
+    "Watchlist|c3bc5b9c-c3b0-39ae-b12f-6bf352486f90",
+    "War|c3bc5b9c-c3b0-39ae-b12f-6bf352486f90",
+    "War|e226edd9-1f16-3982-a481-2c47b8a3f622",
+    "War|WP-MKTW-0005279841",
+    "AI|WP-MKTW-0005279841",
+    "Cybersecurity|WP-MKTW-0005279841"
   ],
   "topic_error": "",
   "last_digest": "2026-10-09",
@@ -4843,5 +4868,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791567662.0649118
+  "last_check": 1791568580.1509545
 }
