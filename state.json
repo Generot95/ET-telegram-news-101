@@ -4524,7 +4524,30 @@
     "Watchlist|https://www.investing.com/news/commodities-news/trump-big-announcement-coming-up-on-diesel-4941467",
     "Watchlist|https://www.investing.com/news/stock-market-news/sweden-stocks-higher-at-close-of-trade-omx-stockholm-30-up-174-4941472",
     "Watchlist|https://www.investing.com/news/stock-market-news/cobank-sues-to-block-cable-ones-480-million-mega-broadband-buyout-4941473",
-    "Watchlist|https://www.investing.com/news/stock-market-news/belgium-stocks-higher-at-close-of-trade-bel-20-up-102-4941474"
+    "Watchlist|https://www.investing.com/news/stock-market-news/belgium-stocks-higher-at-close-of-trade-bel-20-up-102-4941474",
+    "AI|56fa39c6-74da-3980-8122-4b8008641423",
+    "AI|6ef0b483-6885-3412-94ba-6437ba90812b",
+    "AI|aca4ee46-6262-341d-9d7f-52097830ca24",
+    "Crypto|224c7c55-b2e0-3a92-9924-bf5090697a48",
+    "Watchlist|56fa39c6-74da-3980-8122-4b8008641423",
+    "Watchlist|aca4ee46-6262-341d-9d7f-52097830ca24",
+    "AI|60e1b82b-bb5b-3e42-aa20-d192de56bd38",
+    "Watchlist|60e1b82b-bb5b-3e42-aa20-d192de56bd38",
+    "Watchlist|a21f6225-2d0e-3767-9b44-a07f55d3c12a",
+    "War|WP-MKTW-0005279202",
+    "AI|WP-MKTW-0005279202",
+    "Cybersecurity|WP-MKTW-0005279202",
+    "AI|660c67ed-eaf7-3473-bbda-118457bbfe14",
+    "Watchlist|660c67ed-eaf7-3473-bbda-118457bbfe14",
+    "AI|8c44ffad-1432-3915-80ad-73f9d28640b8",
+    "AI|c3c01200-d404-327c-afc3-a0bae7f4de03",
+    "Crypto|e5f67f32-1a9f-3601-99e8-48414d198993",
+    "Watchlist|8c44ffad-1432-3915-80ad-73f9d28640b8",
+    "Watchlist|c3c01200-d404-327c-afc3-a0bae7f4de03",
+    "War|WP-MKTW-0005276410",
+    "AI|WP-MKTW-0005276410",
+    "Cybersecurity|WP-MKTW-0005276410",
+    "SG Banks|https://www.channelnewsasia.com/business/us-treasurys-bessent-skip-imf-world-bank-meetings-in-bangkok-6446996"
   ],
   "topic_error": "",
   "last_digest": "2026-10-09",
@@ -4599,5 +4622,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791562155.0995204
+  "last_check": 1791563068.5704095
 }
