@@ -2665,7 +2665,29 @@
     "War|c13374d4-21fe-381f-9269-ee89dd026280",
     "AI|d4188183-3ff0-3487-b960-9a801d48b9f4",
     "Watchlist|d4188183-3ff0-3487-b960-9a801d48b9f4",
-    "Watchlist|c13374d4-21fe-381f-9269-ee89dd026280"
+    "Watchlist|c13374d4-21fe-381f-9269-ee89dd026280",
+    "War|https://www.investing.com/news/commodities-news/soaring-freight-rates-threaten-asias-appetite-for-us-crude-4940191",
+    "AI|https://www.investing.com/news/economy-news/us-10year-treasury-yield-risks-hitting-6-for-first-time-since-2000-pimcos-ivascyn-tells-ft-4940190",
+    "AI|https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-064-4940194",
+    "AI|https://www.investing.com/news/commodities-news/soaring-freight-rates-threaten-asias-appetite-for-us-crude-4940191",
+    "AI|https://www.investing.com/news/stock-market-news/xiaomi-shares-surge-as-skynomad-ev-lineup-clocks-strong-orders-4940198",
+    "Cybersecurity|https://www.investing.com/news/economy-news/us-10year-treasury-yield-risks-hitting-6-for-first-time-since-2000-pimcos-ivascyn-tells-ft-4940190",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-064-4940194",
+    "Cybersecurity|https://www.investing.com/news/commodities-news/soaring-freight-rates-threaten-asias-appetite-for-us-crude-4940191",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/xiaomi-shares-surge-as-skynomad-ev-lineup-clocks-strong-orders-4940198",
+    "SG Banks|https://www.investing.com/news/economy-news/us-10year-treasury-yield-risks-hitting-6-for-first-time-since-2000-pimcos-ivascyn-tells-ft-4940190",
+    "SG Banks|https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-064-4940194",
+    "SG Banks|https://www.investing.com/news/commodities-news/soaring-freight-rates-threaten-asias-appetite-for-us-crude-4940191",
+    "SG Banks|https://www.investing.com/news/stock-market-news/xiaomi-shares-surge-as-skynomad-ev-lineup-clocks-strong-orders-4940198",
+    "Watchlist|https://www.investing.com/news/economy-news/us-10year-treasury-yield-risks-hitting-6-for-first-time-since-2000-pimcos-ivascyn-tells-ft-4940190",
+    "Watchlist|https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-064-4940194",
+    "Watchlist|https://www.investing.com/news/commodities-news/soaring-freight-rates-threaten-asias-appetite-for-us-crude-4940191",
+    "Watchlist|https://www.investing.com/news/stock-market-news/xiaomi-shares-surge-as-skynomad-ev-lineup-clocks-strong-orders-4940198",
+    "SG Banks|/companies-markets/interactive-why-asean-power-grids-future-lies-subsea-cables",
+    "Watchlist|/companies-markets/interactive-why-asean-power-grids-future-lies-subsea-cables",
+    "Crypto|a073a26d-d1e4-3ccc-a0ae-5ba418ba6862",
+    "War|54c2e6c7-1884-3d35-8bac-b19ac53c9dc6",
+    "SG Banks|/companies-markets/banking-finance/us-10-year-treasury-yield-risks-hitting-6-first-time-2000-pimco"
   ],
   "topic_error": "",
   "last_digest": "2026-10-09",
@@ -2740,5 +2762,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791524580.3516376
+  "last_check": 1791525488.3615084
 }
