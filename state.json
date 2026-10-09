@@ -4929,7 +4929,17 @@
     "SG Banks|https://www.investing.com/news/company-news/ringkjbing-landbobank-launches-dkk-400m-share-buyback-93CH-4941589",
     "Watchlist|https://www.investing.com/news/company-news/eldorado-golds-skouries-mine-designated-eu-strategic-project-93CH-4941587",
     "Watchlist|https://www.investing.com/news/company-news/emat-stock-hits-52week-low-at-167-usd-93CH-4941588",
-    "Watchlist|https://www.investing.com/news/company-news/ringkjbing-landbobank-launches-dkk-400m-share-buyback-93CH-4941589"
+    "Watchlist|https://www.investing.com/news/company-news/ringkjbing-landbobank-launches-dkk-400m-share-buyback-93CH-4941589",
+    "SG Banks|https://www.channelnewsasia.com/business/euro-falls-set-fifth-straight-weekly-drop-oil-prices-rise-6444831",
+    "AI|b3b02d4c-2ca0-3b31-a5f1-d2838b5088b5",
+    "Watchlist|b3b02d4c-2ca0-3b31-a5f1-d2838b5088b5",
+    "AI|cd2b764f-9e1d-3df7-a949-b4c701153fd0",
+    "War|f990db4a-0353-3d7a-b9b4-59b4e7cef4ce",
+    "Watchlist|cd2b764f-9e1d-3df7-a949-b4c701153fd0",
+    "Iran|https://www.iranintl.com/en/202610091479",
+    "Crypto|2dc0c4b5-fac4-39c8-9b71-acdc2f474a9e",
+    "Crypto|d4658969-213e-3d68-96f9-1e30f1b94481",
+    "War|08cc1d41-5242-4f14-9d53-450c4e6adbf8"
   ],
   "topic_error": "",
   "last_digest": "2026-10-09",
@@ -5004,5 +5014,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791572249.5242567
+  "last_check": 1791573153.4887972
 }
