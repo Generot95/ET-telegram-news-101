@@ -4147,7 +4147,23 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-viasat-stock-rallying-today-93CH-4941336",
     "Watchlist|https://www.investing.com/news/economic-indicators/michigan-consumer-sentiment-dips-below-forecast-signals-caution-93CH-4941337",
     "War|90279811-fc89-35b6-836d-96f410251ee1",
-    "War|68c72b9c-abf9-37fd-b9b1-3c3f6bb91d46"
+    "War|68c72b9c-abf9-37fd-b9b1-3c3f6bb91d46",
+    "AI|380bc7b0-78db-3c34-9c19-fb63856e5d49",
+    "AI|d5c43fc4-208d-3e8f-a0f8-6875045d7796",
+    "Watchlist|380bc7b0-78db-3c34-9c19-fb63856e5d49",
+    "War|a745a232-7190-35f3-9252-8a3013aac227",
+    "Watchlist|4eb793ea-ff69-3f70-974d-7608c5a1cbf3",
+    "AI|781b2cb9-f678-33cf-8c5e-1f7fbb432095",
+    "Watchlist|781b2cb9-f678-33cf-8c5e-1f7fbb432095",
+    "War|ae1ad897-7b83-3377-b655-88f9634c06a1",
+    "War|3d17bbb0-f74b-472e-9883-38948532fa41",
+    "AI|cd9d77b2-0da3-3357-b3ab-b6d6bbee8e99",
+    "Watchlist|cd9d77b2-0da3-3357-b3ab-b6d6bbee8e99",
+    "AI|8d0bb47a-71eb-3a1d-a6dd-4c1567630c73",
+    "Watchlist|a116c322-99e3-3fa0-aaea-638d3082b905",
+    "Watchlist|237a4104-b57f-3a04-ab34-db31488f1968",
+    "Watchlist|18d18b43-2970-330d-aa9c-0ace4a36d918",
+    "Watchlist|8d0bb47a-71eb-3a1d-a6dd-4c1567630c73"
   ],
   "topic_error": "",
   "last_digest": "2026-10-09",
@@ -4222,5 +4238,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791554815.0673575
+  "last_check": 1791555729.5259376
 }
