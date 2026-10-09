@@ -2318,7 +2318,34 @@
     "SG Banks|/companies-markets/banking-finance/amex-fined-us350-million-anti-money-laundering-lapses",
     "SG Banks|https://www.investing.com/news/commodities-news/us-sued-over-plan-to-blast-utah-canyon-inscribedby-19th-century-buffalo-soldiers-europeanpioneers-4940046",
     "Watchlist|https://www.investing.com/news/commodities-news/us-sued-over-plan-to-blast-utah-canyon-inscribedby-19th-century-buffalo-soldiers-europeanpioneers-4940046",
-    "Watchlist|/companies-markets/banking-finance/amex-fined-us350-million-anti-money-laundering-lapses"
+    "Watchlist|/companies-markets/banking-finance/amex-fined-us350-million-anti-money-laundering-lapses",
+    "War|WP-MKTW-0005278057",
+    "AI|WP-MKTW-0005278057",
+    "Cybersecurity|WP-MKTW-0005278057",
+    "AI|https://www.investing.com/news/company-news/rubrik-expands-project-hourglass-with-three-new-partners-93CH-4940051",
+    "AI|https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-slides-on-openai-revenue-concerns-4940052",
+    "AI|https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-549m-in-stock-on-oct-67-93CH-4940062",
+    "AI|https://www.investing.com/news/economy-news/japan-reboots-dogestyle-spending-review-in-hunt-for-funds-for-takaichi-pledges-4940050",
+    "AI|https://www.investing.com/news/stock-market-news/hitachi-joins-anthropic-cybersecurity-program-4940063",
+    "Cybersecurity|https://www.investing.com/news/company-news/rubrik-expands-project-hourglass-with-three-new-partners-93CH-4940051",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-slides-on-openai-revenue-concerns-4940052",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-549m-in-stock-on-oct-67-93CH-4940062",
+    "Cybersecurity|https://www.investing.com/news/economy-news/japan-reboots-dogestyle-spending-review-in-hunt-for-funds-for-takaichi-pledges-4940050",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/hitachi-joins-anthropic-cybersecurity-program-4940063",
+    "SG Banks|/companies-markets/why-asean-power-grids-future-lies-subsea-cables",
+    "SG Banks|/companies-markets/energy-commodities/gold-steadies-traders-assess-us-iran-tensions-fed-rate-path",
+    "SG Banks|https://www.investing.com/news/company-news/rubrik-expands-project-hourglass-with-three-new-partners-93CH-4940051",
+    "SG Banks|https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-slides-on-openai-revenue-concerns-4940052",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-549m-in-stock-on-oct-67-93CH-4940062",
+    "SG Banks|https://www.investing.com/news/economy-news/japan-reboots-dogestyle-spending-review-in-hunt-for-funds-for-takaichi-pledges-4940050",
+    "SG Banks|https://www.investing.com/news/stock-market-news/hitachi-joins-anthropic-cybersecurity-program-4940063",
+    "Watchlist|/companies-markets/why-asean-power-grids-future-lies-subsea-cables",
+    "Watchlist|/companies-markets/energy-commodities/gold-steadies-traders-assess-us-iran-tensions-fed-rate-path",
+    "Watchlist|https://www.investing.com/news/company-news/rubrik-expands-project-hourglass-with-three-new-partners-93CH-4940051",
+    "Watchlist|https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-slides-on-openai-revenue-concerns-4940052",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-549m-in-stock-on-oct-67-93CH-4940062",
+    "Watchlist|https://www.investing.com/news/economy-news/japan-reboots-dogestyle-spending-review-in-hunt-for-funds-for-takaichi-pledges-4940050",
+    "Watchlist|https://www.investing.com/news/stock-market-news/hitachi-joins-anthropic-cybersecurity-program-4940063"
   ],
   "topic_error": "",
   "last_digest": "2026-10-09",
@@ -2393,5 +2420,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791507095.6836839
+  "last_check": 1791508016.473575
 }
