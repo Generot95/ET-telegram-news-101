@@ -2611,7 +2611,18 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/fuelcell-energy-evp-sells-46250-in-common-stock-93CH-4940168",
     "Watchlist|https://www.investing.com/news/insider-trading-news/sailpoint-ceo-mark-mcclain-sells-439m-in-company-stock-93CH-4940169",
     "SG Banks|https://www.channelnewsasia.com/business/softbank-seeks-100-billion-gulf-investors-ft-reports-6445186",
-    "War|5ded7f3f-5acc-35d2-b65e-f4116b0d72c8"
+    "War|5ded7f3f-5acc-35d2-b65e-f4116b0d72c8",
+    "SG Banks|https://www.straitstimes.com/business/openais-singapore-based-apac-policy-head-leaving-job-after-6-months-source-says",
+    "AI|ec645041-cb40-343b-bf84-c96b6a82203d",
+    "AI|https://www.investing.com/news/stock-market-news/tcs-shares-rise-as-ai-revenue-offsets-sluggish-growth-lifts-indian-it-stocks-4940173",
+    "AI|https://www.investing.com/news/stock-market-news/openai-expects-to-reach-70-bln-revenue-by-end2026-bloomberg-reports-4940179",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/tcs-shares-rise-as-ai-revenue-offsets-sluggish-growth-lifts-indian-it-stocks-4940173",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/openai-expects-to-reach-70-bln-revenue-by-end2026-bloomberg-reports-4940179",
+    "SG Banks|https://www.investing.com/news/stock-market-news/tcs-shares-rise-as-ai-revenue-offsets-sluggish-growth-lifts-indian-it-stocks-4940173",
+    "SG Banks|https://www.investing.com/news/stock-market-news/openai-expects-to-reach-70-bln-revenue-by-end2026-bloomberg-reports-4940179",
+    "Watchlist|ec645041-cb40-343b-bf84-c96b6a82203d",
+    "Watchlist|https://www.investing.com/news/stock-market-news/tcs-shares-rise-as-ai-revenue-offsets-sluggish-growth-lifts-indian-it-stocks-4940173",
+    "Watchlist|https://www.investing.com/news/stock-market-news/openai-expects-to-reach-70-bln-revenue-by-end2026-bloomberg-reports-4940179"
   ],
   "topic_error": "",
   "last_digest": "2026-10-09",
@@ -2686,5 +2697,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791521828.0113716
+  "last_check": 1791522724.891302
 }
