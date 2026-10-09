@@ -4286,80 +4286,144 @@
     "AI|WP-MKTW-0005277699",
     "Cybersecurity|WP-MKTW-0005277699",
     "AI|9178200d-f90e-3a5e-b607-321586b4353a",
-    "AI|cf49ca99-7288-3086-a1f9-ce906793bd6a"
+    "AI|cf49ca99-7288-3086-a1f9-ce906793bd6a",
+    "War|WP-MKTW-0005278978",
+    "AI|WP-MKTW-0005278978",
+    "Cybersecurity|917ddeff-e649-3df6-9987-1f2c96085cb4",
+    "Cybersecurity|WP-MKTW-0005278978",
+    "SG Banks|https://www.channelnewsasia.com/business/revolut-aims-become-global-tech-company-beyond-banking-ceo-says-6446771",
+    "SG Banks|https://www.channelnewsasia.com/world/openai-denies-firing-researchers-over-ai-safety-warnings-6446751",
+    "Watchlist|9178200d-f90e-3a5e-b607-321586b4353a",
+    "AI|d38e7f92-3ff5-3c64-a661-3d327200a405",
+    "AI|cc05e5ad-49cb-3a65-927d-f93483aa9c25",
+    "Watchlist|0006125d-518b-31ff-983a-7c4e3847fbda",
+    "Watchlist|d38e7f92-3ff5-3c64-a661-3d327200a405",
+    "Watchlist|cc05e5ad-49cb-3a65-927d-f93483aa9c25",
+    "Watchlist|0c191b1e-c3f4-3565-b0cc-c67a252bd194",
+    "AI|c619907c-15d3-32d1-a342-d5b0f9519e0b",
+    "AI|96eb276b-3fc4-32dc-a95e-821de6ceb096",
+    "AI|eb64bfef-87fd-3ec2-9dd4-a4e0a20d8131",
+    "Watchlist|c619907c-15d3-32d1-a342-d5b0f9519e0b",
+    "Watchlist|96eb276b-3fc4-32dc-a95e-821de6ceb096",
+    "Watchlist|eb64bfef-87fd-3ec2-9dd4-a4e0a20d8131",
+    "AI|https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-zeta-global-stock-buy-rating-on-agency-growth-93CH-4941412",
+    "AI|https://www.investing.com/news/economy-news/canada-loses-jobs-in-september-wiping-out-employment-gains-for-2026-4941414",
+    "AI|https://www.investing.com/news/stock-market-news/canadian-dollar-slides-after-surprise-job-losses-rate-hike-bets-retreat-4941415",
+    "AI|https://www.investing.com/news/economic-indicators/china-eu-strike-deal-to-cut-chinese-hybrid-vehicle-exports-by-over-half-4941416",
+    "AI|https://www.investing.com/news/stock-market-news/greece-stocks-lower-at-close-of-trade-athens-general-composite-down-028-4941419",
+    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-camil-posts-mixed-q2-2026-results-as-rice-prices-recover-93CH-4941418",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-hp-stock-sliding-today-93CH-4941420",
+    "AI|https://www.investing.com/news/company-news/ingredion-stock-hits-52week-low-at-9397-usd-93CH-4941421",
+    "Cybersecurity|https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-zeta-global-stock-buy-rating-on-agency-growth-93CH-4941412",
+    "Cybersecurity|https://www.investing.com/news/economy-news/canada-loses-jobs-in-september-wiping-out-employment-gains-for-2026-4941414",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/canadian-dollar-slides-after-surprise-job-losses-rate-hike-bets-retreat-4941415",
+    "Cybersecurity|https://www.investing.com/news/economic-indicators/china-eu-strike-deal-to-cut-chinese-hybrid-vehicle-exports-by-over-half-4941416",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/greece-stocks-lower-at-close-of-trade-athens-general-composite-down-028-4941419",
+    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-camil-posts-mixed-q2-2026-results-as-rice-prices-recover-93CH-4941418",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-hp-stock-sliding-today-93CH-4941420",
+    "Cybersecurity|https://www.investing.com/news/company-news/ingredion-stock-hits-52week-low-at-9397-usd-93CH-4941421",
+    "SG Banks|https://www.channelnewsasia.com/business/tesla-renames-full-self-driving-assisted-driving-in-europe-it-chases-clearance-software-6446806",
+    "SG Banks|https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-zeta-global-stock-buy-rating-on-agency-growth-93CH-4941412",
+    "SG Banks|https://www.investing.com/news/economy-news/canada-loses-jobs-in-september-wiping-out-employment-gains-for-2026-4941414",
+    "SG Banks|https://www.investing.com/news/stock-market-news/canadian-dollar-slides-after-surprise-job-losses-rate-hike-bets-retreat-4941415",
+    "SG Banks|https://www.investing.com/news/economic-indicators/china-eu-strike-deal-to-cut-chinese-hybrid-vehicle-exports-by-over-half-4941416",
+    "SG Banks|https://www.investing.com/news/stock-market-news/greece-stocks-lower-at-close-of-trade-athens-general-composite-down-028-4941419",
+    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-camil-posts-mixed-q2-2026-results-as-rice-prices-recover-93CH-4941418",
+    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-hp-stock-sliding-today-93CH-4941420",
+    "SG Banks|https://www.investing.com/news/company-news/ingredion-stock-hits-52week-low-at-9397-usd-93CH-4941421",
+    "Watchlist|https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-zeta-global-stock-buy-rating-on-agency-growth-93CH-4941412",
+    "Watchlist|https://www.investing.com/news/economy-news/canada-loses-jobs-in-september-wiping-out-employment-gains-for-2026-4941414",
+    "Watchlist|https://www.investing.com/news/stock-market-news/canadian-dollar-slides-after-surprise-job-losses-rate-hike-bets-retreat-4941415",
+    "Watchlist|https://www.investing.com/news/economic-indicators/china-eu-strike-deal-to-cut-chinese-hybrid-vehicle-exports-by-over-half-4941416",
+    "Watchlist|https://www.investing.com/news/stock-market-news/greece-stocks-lower-at-close-of-trade-athens-general-composite-down-028-4941419",
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-camil-posts-mixed-q2-2026-results-as-rice-prices-recover-93CH-4941418",
+    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-hp-stock-sliding-today-93CH-4941420",
+    "Watchlist|https://www.investing.com/news/company-news/ingredion-stock-hits-52week-low-at-9397-usd-93CH-4941421",
+    "AI|e0916dfe-63fa-31f1-91ff-766dc1801570",
+    "AI|eeaea0e3-51ea-3317-a07a-dda5f4498051",
+    "AI|3f45600a-0b57-33f2-81c3-67e54ed92f6e",
+    "Watchlist|3f45600a-0b57-33f2-81c3-67e54ed92f6e",
+    "War|c60c546a-e932-36a0-a3e9-33abf486e139",
+    "AI|5dddd221-cd41-36f0-b1ae-dcd1d815f5dc",
+    "Watchlist|5dddd221-cd41-36f0-b1ae-dcd1d815f5dc",
+    "AI|8b1e24f0-6f0e-3688-a937-b86449f03d56",
+    "AI|ca039978-a4ea-3be4-b00f-5992cae34d79",
+    "Watchlist|8b1e24f0-6f0e-3688-a937-b86449f03d56",
+    "Watchlist|ca039978-a4ea-3be4-b00f-5992cae34d79",
+    "Watchlist|e56a8641-c3ec-3289-8c99-5c9226b2a611"
   ],
   "topic_error": "",
   "last_digest": "2026-10-09",
   "earnings": {
     "AMD": {
       "ts": 1793736000,
-      "fetched": 1791471820.436773
+      "fetched": 1791558236.5885274
     },
     "NVDA": {
       "ts": 1794945600,
-      "fetched": 1791471820.436773
+      "fetched": 1791558236.5885274
     },
     "CRWD": {
       "ts": 1796155200,
-      "fetched": 1791471820.436773
+      "fetched": 1791558236.5885274
     },
     "MSFT": {
       "ts": 1793217600,
-      "fetched": 1791471820.436773
+      "fetched": 1791558236.5885274
     },
     "INTU": {
       "ts": 1795118400,
-      "fetched": 1791471820.436773
+      "fetched": 1791558236.5885274
     },
     "BRK-B": {
       "ts": 1794081600,
-      "fetched": 1791471820.436773
+      "fetched": 1791558236.5885274
     },
     "AMZN": {
       "ts": 1793304000,
-      "fetched": 1791471820.436773
+      "fetched": 1791558236.5885274
     },
     "GOOG": {
       "ts": 1793217600,
-      "fetched": 1791471820.436773
+      "fetched": 1791558236.5885274
     },
     "ZTS": {
       "ts": 1793881800,
-      "fetched": 1791471820.436773
+      "fetched": 1791558236.5885274
     },
     "LIN": {
       "ts": 1793277000,
-      "fetched": 1791471820.436773
+      "fetched": 1791558236.5885274
     },
     "VLO": {
       "ts": 1792672200,
-      "fetched": 1791471820.436773
+      "fetched": 1791558236.5885274
     },
     "D05.SI": {
       "ts": 1793869200,
-      "fetched": 1791471820.436773
+      "fetched": 1791558236.5885274
     },
     "O39.SI": {
       "ts": 1793955600,
-      "fetched": 1791471820.436773
+      "fetched": 1791558236.5885274
     },
     "U11.SI": {
       "ts": 1793782800,
-      "fetched": 1791471820.436773
+      "fetched": 1791558236.5885274
     },
     "A17U.SI": {
       "ts": 1785920400,
-      "fetched": 1791471820.436773
+      "fetched": 1791558236.5885274
     },
     "HMN.SI": {
       "ts": 1785229200,
-      "fetched": 1791471820.436773
+      "fetched": 1791558236.5885274
     },
     "JYEU.SI": {
       "ts": null,
-      "fetched": 1791471820.436773
+      "fetched": 1791558236.5885274
     }
   },
   "earnings_notified": [],
-  "last_check": 1791557558.1367593
+  "last_check": 1791558477.2502556
 }
