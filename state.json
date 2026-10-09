@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/eli-lilly-glaukos-among-market-cap-stock-movers-on-thursday-93CH-4939344",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/starbucks-explored-chipotle-takeover-ft-reports-4939307",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-dpm-metals-stock-rallying-today-93CH-4939345",
-    "Cybersecurity|https://www.investing.com/news/economic-indicators/us-august-wholesale-inventories-revised-lower-4939334",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/us-bancorp-stock-may-move-3-on-oct-15-earnings-release-93CH-4939346",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-richelieu-hardware-tops-q3-2026-estimates-as-stock-jumps-12-93CH-4939348",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/pnc-financial-may-see-31-move-on-oct-15-earnings-release-93CH-4939350",
-    "Cybersecurity|https://www.investing.com/news/company-news/jpel-private-equity-releases-annual-report-appoints-new-chair-93CH-4939323",
     "Cybersecurity|https://www.investing.com/news/company-news/elastic-launches-alertzero-ai-agents-for-security-operations-93CH-4939327",
     "SG Banks|https://www.channelnewsasia.com/business/asia-races-stockpile-oil-speed-up-renewables-in-response-iran-war-6443281",
     "SG Banks|https://www.channelnewsasia.com/business/spanish-government-press-tighter-data-centre-rules-election-6443271",
@@ -5000,7 +4992,15 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/immunovant-coo-melanie-gloria-sells-shares-worth-71846-93CH-4941810",
     "Watchlist|https://www.investing.com/news/insider-trading-news/cerence-evp-nils-schanz-disposes-of-419512-in-crnc-shares-93CH-4941809",
     "Watchlist|https://www.investing.com/news/insider-trading-news/astera-labs-director-stefan-dyckerhoff-sells-47m-in-shares-93CH-4941811",
-    "Watchlist|https://www.investing.com/news/company-news/kalshi-probes-suspicious-bets-on-trump-press-secretary-pick-wsj-reports-4941817"
+    "Watchlist|https://www.investing.com/news/company-news/kalshi-probes-suspicious-bets-on-trump-press-secretary-pick-wsj-reports-4941817",
+    "Watchlist|320b85d8-ea11-380c-8a8c-789f9eab1a90",
+    "Watchlist|f068f66d-ff8a-3c84-b232-9a5cb34b7a75",
+    "AI|7ba98083-2706-312f-ad19-b8d3e3bb974d",
+    "Cybersecurity|7ba98083-2706-312f-ad19-b8d3e3bb974d",
+    "Watchlist|7ba98083-2706-312f-ad19-b8d3e3bb974d",
+    "AI|d256e6fa-ba2b-3045-bb01-b0c5a17e7a4b",
+    "Crypto|deb764db-9b0c-36ab-a588-a0e25bbe755f",
+    "Watchlist|d256e6fa-ba2b-3045-bb01-b0c5a17e7a4b"
   ],
   "topic_error": "",
   "last_digest": "2026-10-09",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791587844.86164
+  "last_check": 1791588755.4444127
 }
