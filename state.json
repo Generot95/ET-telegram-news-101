@@ -2566,7 +2566,13 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/gift-nifty-50-downtrend-intact-near-key-resistance-live-levels-93CH-4930996",
     "Watchlist|https://www.investing.com/news/stock-market-news/asia-stocks-mixed-chipmakers-slide-on-openai-revenue-concerns-4940150",
     "War|d8516af1-37ca-3f3b-ae47-2042c0b24ec2",
-    "AI|7bf89008-c82a-31d9-9bff-db1ab1e5a05e"
+    "AI|7bf89008-c82a-31d9-9bff-db1ab1e5a05e",
+    "AI|09d685a3-f1da-393a-96eb-156a9c25c47a",
+    "Watchlist|09d685a3-f1da-393a-96eb-156a9c25c47a",
+    "SG Banks|/companies-markets/energy-commodities/oil-falls-trump-comments-iran-talks-ease-supply-concerns",
+    "Watchlist|/companies-markets/energy-commodities/oil-falls-trump-comments-iran-talks-ease-supply-concerns",
+    "SG Banks|/companies-markets/competition-authority-seeks-public-views-eneos-apacs-proposed-acquisition-chevron-singapore",
+    "Watchlist|/companies-markets/competition-authority-seeks-public-views-eneos-apacs-proposed-acquisition-chevron-singapore"
   ],
   "topic_error": "",
   "last_digest": "2026-10-09",
@@ -2641,5 +2647,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791519985.829698
+  "last_check": 1791520897.3406584
 }
