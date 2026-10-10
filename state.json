@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/economy-news/us-suspends-microsoft-adobe-others-from-green-card-program-cites-abuse-4939382",
-    "AI|https://www.investing.com/news/stock-market-news/levi-strauss-earnings-analysis-questions-answered-and-next-catalysts-93CH-4939556",
-    "AI|https://www.investing.com/news/stock-market-news/applied-digital-earnings-analysis-questions-answered-and-next-catalysts-93CH-4939557",
-    "AI|https://www.investing.com/news/stock-market-news/palantir-stock-goldman-upgrades-to-buy-with-230-target-as-growth-accelerates-93CH-4939558",
-    "AI|https://www.investing.com/news/stock-market-news/nvidiabacked-data-center-firm-firmus-grid-to-postpone-australia-ipo--report-4939561",
-    "AI|https://www.investing.com/news/stock-market-news/globalfoundries-stock-analysis-tsmc-deal-fundamentals-and-what-comes-next-93CH-4939562",
-    "AI|https://www.investing.com/news/stock-market-news/starlink-financial-outlook-revenue-subscribers-and-valuation-scenarios-to-2030-93CH-4939563",
-    "AI|https://www.investing.com/news/stock-market-news/samsung-analysis-record-q3-profit-but-growth-pace-slows-93CH-4939564",
-    "AI|https://www.investing.com/news/company-news/everquote-publishes-white-paper-on-ai-agents-in-insurance-93CH-4939560",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/east-asian-tech-stocks-where-the-discounts-are-in-japan-korea-taiwan-and-china-93CH-4939565",
     "Cybersecurity|https://www.investing.com/news/economy-news/hurricane-isaias-forces-gulf-oil-and-gas-production-shutdowns-93CH-4939566",
     "Cybersecurity|https://www.investing.com/news/company-news/rga-stock-hits-alltime-high-at-25831-usd-93CH-4939569",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/hurricane-isaias-strengthens-as-us-gulf-coast-prepares-for-landfall-4939570",
@@ -5000,7 +4990,17 @@
     "Watchlist|74e23fa4-a9af-348d-86e1-608d34601696",
     "Watchlist|9409bd2b-ef17-33b9-aba3-b850de6cb280",
     "AI|8c0593b7-9064-3766-a47a-43e652024baf",
-    "Watchlist|8c0593b7-9064-3766-a47a-43e652024baf"
+    "Watchlist|8c0593b7-9064-3766-a47a-43e652024baf",
+    "Crypto|fd76ce70-5696-33af-8786-c0a4042fca25",
+    "Iran|https://www.iranintl.com/en/202610105397",
+    "AI|16395994-c83c-3d4f-9e95-6aa4660d0673",
+    "AI|https://www.investing.com/news/insider-trading-news/saba-capital-management-sells-355376-in-blackrock-esg-trust-93CH-4942119",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/saba-capital-management-sells-355376-in-blackrock-esg-trust-93CH-4942119",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/saba-capital-management-sells-355376-in-blackrock-esg-trust-93CH-4942119",
+    "Watchlist|16395994-c83c-3d4f-9e95-6aa4660d0673",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/saba-capital-management-sells-355376-in-blackrock-esg-trust-93CH-4942119",
+    "AI|fccfe04d-28df-3a04-95a3-2e906b05b920",
+    "Watchlist|fccfe04d-28df-3a04-95a3-2e906b05b920"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791642794.78821
+  "last_check": 1791643693.7812464
 }
