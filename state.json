@@ -1,23 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|95728e16-1094-390b-bf44-835fc12c0b53",
-    "Cybersecurity|8f59b56c-43a9-3636-89b0-cdf59c7a6a26",
-    "Watchlist|8f59b56c-43a9-3636-89b0-cdf59c7a6a26",
-    "AI|57c5eff1-b776-3fed-b084-50cb8143bf3b",
-    "Watchlist|57c5eff1-b776-3fed-b084-50cb8143bf3b",
-    "Crypto|ee314455-2584-37b5-a5e4-c32a0c46b8ba",
-    "AI|c35d784b-3e4c-3b64-9b9a-f72bbcbbf92e",
-    "AI|a866c7e4-c935-3bdb-bbf8-fe0af77d8b2d",
-    "AI|bac71800-1b09-3789-b597-72950ba51cbb",
-    "Watchlist|c35d784b-3e4c-3b64-9b9a-f72bbcbbf92e",
-    "Watchlist|a866c7e4-c935-3bdb-bbf8-fe0af77d8b2d",
-    "Watchlist|bac71800-1b09-3789-b597-72950ba51cbb",
-    "War|https://www.investing.com/news/commodities-news/european-diesel-margins-climb-on-middle-east-supply-worries-93CH-4939602",
-    "AI|https://www.investing.com/news/stock-market-news/nvidiabacked-iambic-therapeutics-launches-ipo-as-biotechs-buck-market-gloom-4939603",
-    "AI|https://www.investing.com/news/stock-market-news/starbucks-options-flow-after-chipotle-takeover-report-93CH-4939605",
-    "AI|https://www.investing.com/news/stock-market-news/potential-starbuckschipotle-merger-major-opportunity-or-expensive-distraction-4939606",
-    "AI|https://www.investing.com/news/stock-market-news/palantir-options-analysis-22x-callput-ratio-signals-bullish-positioning-93CH-4939607",
     "AI|https://www.investing.com/news/stock-market-news/nebius-group-bull-and-bear-case-ahead-of-october-earnings-93CH-4939610",
     "AI|https://www.investing.com/news/stock-market-news/why-is-vistra-stock-sliding-today-93CH-4939614",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/nvidiabacked-iambic-therapeutics-launches-ipo-as-biotechs-buck-market-gloom-4939603",
@@ -5000,7 +4983,24 @@
     "AI|6e069df5-4c82-3d2d-b56c-2985fd9ade46",
     "Watchlist|6e069df5-4c82-3d2d-b56c-2985fd9ade46",
     "Crypto|e88a6ba2-ce46-3769-a025-48657b829da1",
-    "Watchlist|b62558ea-c779-3a7f-8fd7-6d1a27232a61"
+    "Watchlist|b62558ea-c779-3a7f-8fd7-6d1a27232a61",
+    "AI|https://www.investing.com/news/insider-trading-news/pacific-biosciences-cfo-reports-205m-stock-sale-93CH-4942177",
+    "AI|https://www.investing.com/news/insider-trading-news/rapport-therapeutics-ceo-abraham-ceesay-sells-143272-in-stock-93CH-4942178",
+    "AI|https://www.investing.com/news/insider-trading-news/everpure-director-mallun-yen-sells-175m-in-shares-93CH-4942179",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/pacific-biosciences-cfo-reports-205m-stock-sale-93CH-4942177",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/rapport-therapeutics-ceo-abraham-ceesay-sells-143272-in-stock-93CH-4942178",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/everpure-director-mallun-yen-sells-175m-in-shares-93CH-4942179",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/pacific-biosciences-cfo-reports-205m-stock-sale-93CH-4942177",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/rapport-therapeutics-ceo-abraham-ceesay-sells-143272-in-stock-93CH-4942178",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/everpure-director-mallun-yen-sells-175m-in-shares-93CH-4942179",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/pacific-biosciences-cfo-reports-205m-stock-sale-93CH-4942177",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/rapport-therapeutics-ceo-abraham-ceesay-sells-143272-in-stock-93CH-4942178",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/everpure-director-mallun-yen-sells-175m-in-shares-93CH-4942179",
+    "AI|9773ecd3-0448-3705-b658-dbbd1e736de3",
+    "Watchlist|9773ecd3-0448-3705-b658-dbbd1e736de3",
+    "AI|2230ee29-f2d9-38dc-ad54-05d9ea399946",
+    "Crypto|7642c3ff-1906-314c-b438-3b7ec3dce206",
+    "Watchlist|d5c62e94-c7b5-330e-9e5e-1ea0e4114858"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791653770.5228553
+  "last_check": 1791654697.4010062
 }
