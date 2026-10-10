@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|f5f905f3-66e0-3046-82a7-5848434b422a",
-    "Watchlist|dd7aa0ea-ec8c-3fef-b41a-956e5b2fd973",
-    "Watchlist|81ab7f4a-4e84-3656-a761-dccb5acbc3b6",
-    "Watchlist|3b18bfb2-b7ee-3714-8501-d9038f1b5761",
-    "Watchlist|db551a66-c906-347e-9b83-6533e54c985b",
-    "Watchlist|92a1ce4a-70fd-3171-b49d-27f7c1867507",
-    "Watchlist|db1b7f18-1c7b-3362-b869-0959d19801ca",
-    "Watchlist|bd4a3df1-c989-30ec-9cff-341a70e56c62",
-    "Watchlist|a9cc7221-cbac-34bf-8f15-bdc39c3d2fdf",
-    "Watchlist|0b4abce0-363e-36f2-a294-4e5116225463",
     "Watchlist|e8221c7b-40f7-3c2e-b0a8-ea613e5e811e",
     "Watchlist|bf82cef3-a38f-3283-8cd1-a68b06470e3d",
     "Watchlist|bbff44dd-2ed7-3c79-ad09-e4d67ec8af3b",
@@ -5000,7 +4990,17 @@
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/honest-company-svp-thomas-sternweis-sells-122500-in-stock-93CH-4941953",
     "SG Banks|https://www.investing.com/news/insider-trading-news/honest-company-svp-thomas-sternweis-sells-122500-in-stock-93CH-4941953",
     "Watchlist|https://www.investing.com/news/insider-trading-news/honest-company-svp-thomas-sternweis-sells-122500-in-stock-93CH-4941953",
-    "AI|00e696ec-c899-3cdb-ba97-7ac48319b816"
+    "AI|00e696ec-c899-3cdb-ba97-7ac48319b816",
+    "War|5abffee8-7ba5-312f-9bb9-745f625b9374",
+    "AI|https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
+    "Cybersecurity|https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
+    "SG Banks|https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
+    "Watchlist|https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
+    "AI|4a74d1eb-3bb4-3cea-b661-c2fa1b99e0e9",
+    "Watchlist|4a74d1eb-3bb4-3cea-b661-c2fa1b99e0e9",
+    "War|08db1ba8-356c-3315-97a7-d6b834322a84",
+    "Crypto|08db1ba8-356c-3315-97a7-d6b834322a84"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791606134.5933964
+  "last_check": 1791607051.8632343
 }
