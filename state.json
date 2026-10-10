@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/forex-news/canadian-dollar-gains-as-oil-rally-narrower-yield-gap-support-loonie-4939654",
-    "Watchlist|https://www.investing.com/news/stock-market-news/canada-bond-yields-edge-higher-as-investors-assess-rate-outlook-4939655",
-    "Watchlist|https://www.investing.com/news/transcripts/nano-nuclear-energy-at-td-nuclear-roundtable-licensing-path-firms-93CH-4939656",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/michael-oconnor-sells-94375-of-rainmaker-worldwide-stock-93CH-4939659",
-    "Watchlist|03172c6b-dab7-3bf3-82a9-bb61a3f0b7b7",
-    "War|193e30ac-f69d-313b-9b1c-4c9a75b44319",
-    "AI|03172c6b-dab7-3bf3-82a9-bb61a3f0b7b7",
-    "SG Banks|https://www.channelnewsasia.com/business/apple-names-insider-steve-smith-new-ma-chief-memo-shows-6444416",
-    "War|WP-MKTW-0005276618",
-    "AI|WP-MKTW-0005276618",
-    "Cybersecurity|WP-MKTW-0005276618",
-    "Watchlist|6f567534-a6d0-48d9-b632-fb9eaca8bf6a",
     "AI|ee588d46-ae2c-3a1f-bdd1-ff4b44e8f14b",
     "Watchlist|ee588d46-ae2c-3a1f-bdd1-ff4b44e8f14b",
     "War|40fbcca9-2f7e-31cc-986a-50d6e5be34a9",
@@ -5000,7 +4988,19 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/sentinelone-cfo-parekh-sells-413291-in-company-shares-93CH-4942293",
     "SG Banks|https://www.investing.com/news/insider-trading-news/innsuites-hospitality-trust-ceo-wirth-sells-217b-in-iht-stock-93CH-4942294",
     "Watchlist|https://www.investing.com/news/insider-trading-news/sentinelone-cfo-parekh-sells-413291-in-company-shares-93CH-4942293",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/innsuites-hospitality-trust-ceo-wirth-sells-217b-in-iht-stock-93CH-4942294"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/innsuites-hospitality-trust-ceo-wirth-sells-217b-in-iht-stock-93CH-4942294",
+    "AI|https://www.investing.com/news/insider-trading-news/ul-solutions-ceo-jennifer-scanlon-sells-876035-in-company-stock-93CH-4942298",
+    "AI|https://www.investing.com/news/insider-trading-news/streamex-cfo-christine-plummer-sells-7175-of-company-stock-93CH-4942299",
+    "AI|https://www.investing.com/news/stock-market-news/justice-department-probes-tv-networks-over-trump-pool-coverage-new-york-times-reports-4942303",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/ul-solutions-ceo-jennifer-scanlon-sells-876035-in-company-stock-93CH-4942298",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/streamex-cfo-christine-plummer-sells-7175-of-company-stock-93CH-4942299",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/justice-department-probes-tv-networks-over-trump-pool-coverage-new-york-times-reports-4942303",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/ul-solutions-ceo-jennifer-scanlon-sells-876035-in-company-stock-93CH-4942298",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/streamex-cfo-christine-plummer-sells-7175-of-company-stock-93CH-4942299",
+    "SG Banks|https://www.investing.com/news/stock-market-news/justice-department-probes-tv-networks-over-trump-pool-coverage-new-york-times-reports-4942303",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/ul-solutions-ceo-jennifer-scanlon-sells-876035-in-company-stock-93CH-4942298",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/streamex-cfo-christine-plummer-sells-7175-of-company-stock-93CH-4942299",
+    "Watchlist|https://www.investing.com/news/stock-market-news/justice-department-probes-tv-networks-over-trump-pool-coverage-new-york-times-reports-4942303"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791673905.2650867
+  "last_check": 1791674842.776129
 }
