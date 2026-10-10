@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/forex-news/euro-zone-ministers-to-tell-france-to-pass-2027-budget-to-calm-markets-4938661",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/willamette-valley-vineyards-ceo-buys-9654-in-stock-93CH-4939634",
-    "Watchlist|https://www.investing.com/news/economy-news/venezuelas-president-expects-thirdquarter-growth-after-earthquake-hit-4939635",
-    "Watchlist|https://www.investing.com/news/stock-market-news/explainerthe-skilled-foreign-tech-workers-green-card-program-under-attack-from-trump-4939632",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/btig-reiterates-buy-on-starbucks-stock-115-target-maintained-93CH-4939637",
-    "Watchlist|https://www.investing.com/news/economic-indicators/eu-exec-rejects-greek-italian-requests-for-more-fiscal-rules-flexibility-4939640",
-    "Watchlist|https://www.investing.com/news/stock-market-news/anthropic-launches-dashboard-animation-tools-for-claude-4939641",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/william-blair-reiterates-starbucks-stock-rating-amid-chipotle-deal-talk-93CH-4939642",
-    "AI|9ecd2bf3-c1d1-3665-bbd2-21993e53f848",
     "Watchlist|9ecd2bf3-c1d1-3665-bbd2-21993e53f848",
     "War|5f581e81-cbba-37d0-80b8-d0c0e471381d",
     "AI|6a9550b7-a471-316f-a1bf-89c71bd57d46",
@@ -5000,7 +4991,16 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/h-b-fuller-director-r-jeffrey-bailly-buys-500000-in-common-stock-93CH-4942250",
     "Watchlist|https://www.investing.com/news/world-news/category-3-hurricane-isaias-makes-landfall-near-destin-florida-nhc-says-4941927",
     "Watchlist|https://www.investing.com/news/world-news/nine-dead-in-erie-pennsylvania-mass-shooting-4942193",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/h-b-fuller-director-r-jeffrey-bailly-buys-500000-in-common-stock-93CH-4942250"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/h-b-fuller-director-r-jeffrey-bailly-buys-500000-in-common-stock-93CH-4942250",
+    "Crypto|9bd1398c-c5ee-3700-b59b-ec58d748c6dc",
+    "AI|https://www.investing.com/news/insider-trading-news/prosperity-bancshares-director-ned-holmes-sells-72363-in-stock-93CH-4942257",
+    "AI|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4942259",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/prosperity-bancshares-director-ned-holmes-sells-72363-in-stock-93CH-4942257",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4942259",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/prosperity-bancshares-director-ned-holmes-sells-72363-in-stock-93CH-4942257",
+    "SG Banks|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4942259",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/prosperity-bancshares-director-ned-holmes-sells-72363-in-stock-93CH-4942257",
+    "Watchlist|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4942259"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791667505.6075375
+  "last_check": 1791668418.8372452
 }
