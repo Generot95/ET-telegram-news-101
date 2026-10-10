@@ -1,17 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/economy-news/brazils-flavio-bolsonaro-vows-to-keep-pension-increases-above-inflation-rate-4939454",
-    "Cybersecurity|https://www.investing.com/news/economy-news/french-teens-march-for-decent-schools-despite-governments-pledge-to-act-4938931",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/central-securities-ceo-john-hill-buys-28185-in-company-stock-93CH-4939465",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/horace-mann-educators-ceo-marita-zuraitis-sells-4600-stock-93CH-4939466",
-    "Cybersecurity|https://www.investing.com/news/company-news/verici-dx-launches-8m-share-placing-at-02p-per-share-93CH-4939467",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/belgium-stocks-lower-at-close-of-trade-bel-20-down-232-4939470",
-    "Cybersecurity|https://www.investing.com/news/company-news/novagold-q3-2026-slides-donlin-consolidation-plan-amid-rising-costs-93CH-4939471",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/france-stocks-lower-at-close-of-trade-cac-40-down-051-4939472",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/germany-stocks-lower-at-close-of-trade-dax-down-112-4939473",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-glaukos-stock-sliding-today-93CH-4939474",
-    "Cybersecurity|https://www.investing.com/news/company-news/nextnav-stock-hits-52week-low-at-1085-usd-93CH-4939441",
     "Cybersecurity|https://www.investing.com/news/company-news/oklo-stock-hits-52week-low-at-3438-usd-93CH-4939443",
     "Cybersecurity|https://www.investing.com/news/company-news/investacc-sells-wealth-units-for-12m-plans-share-placing-93CH-4939447",
     "Cybersecurity|https://www.investing.com/news/company-news/zhibao-technology-announces-1for50-reverse-stock-split-93CH-4939448",
@@ -5000,7 +4989,18 @@
     "Watchlist|/companies-markets/capital-markets-currencies/wall-st-climbs-oil-slips-spacex-spectrum-deal-weighs-telecoms",
     "SG Banks|/companies-markets/capital-markets-currencies/european-stocks-eke-out-weekly-gain-oil-yields-ease-spacex-spectrum-deal-hits-telecoms",
     "Watchlist|/companies-markets/capital-markets-currencies/european-stocks-eke-out-weekly-gain-oil-yields-ease-spacex-spectrum-deal-hits-telecoms",
-    "War|21806234-4417-3399-a6eb-2d6415f1b14d"
+    "War|21806234-4417-3399-a6eb-2d6415f1b14d",
+    "AI|https://www.investing.com/news/insider-trading-news/onemednet-ceo-aaron-green-sells-47762-in-stock-93CH-4941935",
+    "AI|https://www.investing.com/news/insider-trading-news/onemednet-cfo-robert-golden-sells-55290-in-shares-93CH-4941936",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/onemednet-ceo-aaron-green-sells-47762-in-stock-93CH-4941935",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/onemednet-cfo-robert-golden-sells-55290-in-shares-93CH-4941936",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/onemednet-ceo-aaron-green-sells-47762-in-stock-93CH-4941935",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/onemednet-cfo-robert-golden-sells-55290-in-shares-93CH-4941936",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/onemednet-ceo-aaron-green-sells-47762-in-stock-93CH-4941935",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/onemednet-cfo-robert-golden-sells-55290-in-shares-93CH-4941936",
+    "SG Banks|/companies-markets/energy-commodities/oil-prices-settle-higher-more-production-shut-ahead-hurricane",
+    "Watchlist|/companies-markets/energy-commodities/oil-prices-settle-higher-more-production-shut-ahead-hurricane",
+    "Iran|https://www.iranintl.com/en/202610106673"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791597912.2887192
+  "last_check": 1791598817.7859025
 }
