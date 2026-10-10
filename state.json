@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|9ecd2bf3-c1d1-3665-bbd2-21993e53f848",
-    "War|5f581e81-cbba-37d0-80b8-d0c0e471381d",
-    "AI|6a9550b7-a471-316f-a1bf-89c71bd57d46",
-    "Crypto|5f581e81-cbba-37d0-80b8-d0c0e471381d",
-    "Watchlist|6a9550b7-a471-316f-a1bf-89c71bd57d46",
-    "AI|40950876-b886-45b4-8869-e6853fc1db8b",
-    "Watchlist|40950876-b886-45b4-8869-e6853fc1db8b",
-    "AI|634e8ad7-9942-3e74-b9b7-28aa01806f54",
-    "Crypto|5152609a-e77d-4676-bbaa-0ce30b300733",
-    "Watchlist|634e8ad7-9942-3e74-b9b7-28aa01806f54",
     "AI|3832d28e-cacf-343f-8273-186c8aea08e8",
     "Watchlist|3832d28e-cacf-343f-8273-186c8aea08e8",
     "War|83703f3e-0979-495b-9fcd-36a03eea5bcc",
@@ -5000,7 +4990,17 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/prosperity-bancshares-director-ned-holmes-sells-72363-in-stock-93CH-4942257",
     "SG Banks|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4942259",
     "Watchlist|https://www.investing.com/news/insider-trading-news/prosperity-bancshares-director-ned-holmes-sells-72363-in-stock-93CH-4942257",
-    "Watchlist|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4942259"
+    "Watchlist|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4942259",
+    "War|5832ba20-d4b7-300f-bf8b-7888360716a5",
+    "AI|https://www.investing.com/news/insider-trading-news/arista-networks-ceo-ullal-sells-2106m-in-shares-93CH-4942267",
+    "AI|https://www.investing.com/news/insider-trading-news/saba-capital-director-sells-290781-in-pimco-dynamic-income-shares-93CH-4942268",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/arista-networks-ceo-ullal-sells-2106m-in-shares-93CH-4942267",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/saba-capital-director-sells-290781-in-pimco-dynamic-income-shares-93CH-4942268",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/arista-networks-ceo-ullal-sells-2106m-in-shares-93CH-4942267",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/saba-capital-director-sells-290781-in-pimco-dynamic-income-shares-93CH-4942268",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/arista-networks-ceo-ullal-sells-2106m-in-shares-93CH-4942267",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/saba-capital-director-sells-290781-in-pimco-dynamic-income-shares-93CH-4942268",
+    "Crypto|1d1985dd-8f6f-3e3f-970a-476d029e320d"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791669338.6475508
+  "last_check": 1791670267.7065015
 }
