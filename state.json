@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|8d62b124-079a-3a5c-85ac-6d6f567fcc77",
-    "Crypto|85327440-e1cb-4233-a9ed-f477a2fcf56b",
-    "War|WP-MKTW-0005276800",
-    "AI|WP-MKTW-0005276800",
-    "Cybersecurity|WP-MKTW-0005276800",
     "War|https://www.investing.com/news/commodities-news/hormuz-transits-at-lowest-in-over-two-months-after-attacks-data-shows-4937851",
     "AI|a20ae6a7-71ba-3108-8809-839cff4042d7",
     "AI|https://www.investing.com/news/stock-market-news/sony-credit-outlook-bumped-to-positive-at-moodys-as-a2-rating-affirmed-4939508",
@@ -5000,7 +4995,12 @@
     "AI|9e328953-2e7f-3482-a926-6e7dc1a8bff4",
     "AI|f4cc2da8-5c23-3740-97c1-1a36976d4324",
     "Watchlist|9e328953-2e7f-3482-a926-6e7dc1a8bff4",
-    "Watchlist|f4cc2da8-5c23-3740-97c1-1a36976d4324"
+    "Watchlist|f4cc2da8-5c23-3740-97c1-1a36976d4324",
+    "AI|https://www.investing.com/news/economy-news/russian-attack-on-ukraines-zaporizhzhia-kills-seven-as-war-intensifies-4942056",
+    "Cybersecurity|https://www.investing.com/news/economy-news/russian-attack-on-ukraines-zaporizhzhia-kills-seven-as-war-intensifies-4942056",
+    "SG Banks|https://www.investing.com/news/economy-news/russian-attack-on-ukraines-zaporizhzhia-kills-seven-as-war-intensifies-4942056",
+    "Watchlist|https://www.investing.com/news/economy-news/russian-attack-on-ukraines-zaporizhzhia-kills-seven-as-war-intensifies-4942056",
+    "Iran|https://www.iranintl.com/en/202610098400"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791624442.9089453
+  "last_check": 1791625351.2257633
 }
