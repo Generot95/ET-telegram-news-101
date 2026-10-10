@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|5506205c-68e7-3068-bbcd-3c9b634516be",
-    "AI|79b819f4-dd5c-399e-ac03-fad538518678",
-    "AI|c5ee436d-dc87-3073-869a-1e348d6114c4",
-    "Watchlist|79b819f4-dd5c-399e-ac03-fad538518678",
-    "Watchlist|c5ee436d-dc87-3073-869a-1e348d6114c4",
-    "Crypto|9e72582e-921d-3fd3-b43d-2cbd59405a24",
     "War|388d9b7b-21ba-374a-af71-ce859ce398f4",
     "AI|https://www.investing.com/news/stock-market-news/east-asian-tech-stocks-where-the-discounts-are-in-japan-korea-taiwan-and-china-93CH-4939565",
     "AI|https://www.investing.com/news/economy-news/hurricane-isaias-forces-gulf-oil-and-gas-production-shutdowns-93CH-4939566",
@@ -5000,7 +4994,13 @@
     "Watchlist|3d158e76-ffb1-368f-bad4-4792f7b3a311",
     "AI|d2116064-989d-3ff1-8da5-8b9c678cb600",
     "Watchlist|d2116064-989d-3ff1-8da5-8b9c678cb600",
-    "Crypto|9d26774a-3f42-377c-b4ef-49eb8eb87223"
+    "Crypto|9d26774a-3f42-377c-b4ef-49eb8eb87223",
+    "AI|https://www.investing.com/news/stock-market-news/philips-wins-dutch-court-battle-with-shareholders-over-sleep-apnea-recall-4942118",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/philips-wins-dutch-court-battle-with-shareholders-over-sleep-apnea-recall-4942118",
+    "SG Banks|https://www.investing.com/news/stock-market-news/philips-wins-dutch-court-battle-with-shareholders-over-sleep-apnea-recall-4942118",
+    "Watchlist|https://www.investing.com/news/stock-market-news/philips-wins-dutch-court-battle-with-shareholders-over-sleep-apnea-recall-4942118",
+    "AI|6eec3132-8e48-3e4a-8e46-c1a7eefc35e8",
+    "Watchlist|6eec3132-8e48-3e4a-8e46-c1a7eefc35e8"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791640948.589264
+  "last_check": 1791641857.290037
 }
