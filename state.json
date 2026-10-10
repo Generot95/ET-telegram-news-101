@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/economy-news/hurricane-isaias-forces-gulf-oil-and-gas-production-shutdowns-93CH-4939566",
-    "SG Banks|https://www.investing.com/news/company-news/rga-stock-hits-alltime-high-at-25831-usd-93CH-4939569",
-    "SG Banks|https://www.investing.com/news/stock-market-news/hurricane-isaias-strengthens-as-us-gulf-coast-prepares-for-landfall-4939570",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/ionq-stock-advances-to-darpa-final-quantum-benchmarking-phase-93CH-4939571",
-    "SG Banks|https://www.investing.com/news/stock-market-news/apple-names-veteran-steve-smith-as-new-ma-chief-4939572",
-    "SG Banks|https://www.investing.com/news/company-news/rpm-increases-quarterly-dividend-56-to-057-per-share-93CH-4939577",
-    "SG Banks|https://www.investing.com/news/company-news/applied-energetics-advances-ultrashortpulse-laser-technology-93CH-4939578",
-    "SG Banks|https://www.investing.com/news/economy-news/us-suspends-microsoft-adobe-others-from-green-card-program-cites-abuse-4939382",
     "Watchlist|https://www.investing.com/news/stock-market-news/east-asian-tech-stocks-where-the-discounts-are-in-japan-korea-taiwan-and-china-93CH-4939565",
     "Watchlist|https://www.investing.com/news/economy-news/hurricane-isaias-forces-gulf-oil-and-gas-production-shutdowns-93CH-4939566",
     "Watchlist|https://www.investing.com/news/company-news/rga-stock-hits-alltime-high-at-25831-usd-93CH-4939569",
@@ -5000,80 +4992,88 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/consumer-ai-agents-could-upend-online-shopping--but-who-really-wins-4942121",
     "SG Banks|3c3a0379-fa24-3114-9bc0-3e116101f0ee",
     "Watchlist|f8104216-57a3-3bd1-a734-0df8a24b4b1c",
-    "AI|f8104216-57a3-3bd1-a734-0df8a24b4b1c"
+    "AI|f8104216-57a3-3bd1-a734-0df8a24b4b1c",
+    "Crypto|0c932d75-9665-39e2-8877-cefa6c1d525a",
+    "AI|2cad91b8-a08e-3eb7-8cd0-66c19a5a03f9",
+    "AI|https://www.investing.com/news/insider-trading-news/saba-capital-management-acquires-210049-in-ellsworth-growth--income-fund-93CH-4942125",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/saba-capital-management-acquires-210049-in-ellsworth-growth--income-fund-93CH-4942125",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/saba-capital-management-acquires-210049-in-ellsworth-growth--income-fund-93CH-4942125",
+    "Watchlist|2cad91b8-a08e-3eb7-8cd0-66c19a5a03f9",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/saba-capital-management-acquires-210049-in-ellsworth-growth--income-fund-93CH-4942125",
+    "Watchlist|214a7440-8031-3723-a63e-4617706caed9"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
   "earnings": {
     "AMD": {
       "ts": 1793736000,
-      "fetched": 1791558236.5885274
+      "fetched": 1791644681.1727343
     },
     "NVDA": {
       "ts": 1794945600,
-      "fetched": 1791558236.5885274
+      "fetched": 1791644681.1727343
     },
     "CRWD": {
       "ts": 1796155200,
-      "fetched": 1791558236.5885274
+      "fetched": 1791644681.1727343
     },
     "MSFT": {
       "ts": 1793217600,
-      "fetched": 1791558236.5885274
+      "fetched": 1791644681.1727343
     },
     "INTU": {
       "ts": 1795118400,
-      "fetched": 1791558236.5885274
+      "fetched": 1791644681.1727343
     },
     "BRK-B": {
       "ts": 1794081600,
-      "fetched": 1791558236.5885274
+      "fetched": 1791644681.1727343
     },
     "AMZN": {
       "ts": 1793304000,
-      "fetched": 1791558236.5885274
+      "fetched": 1791644681.1727343
     },
     "GOOG": {
       "ts": 1793217600,
-      "fetched": 1791558236.5885274
+      "fetched": 1791644681.1727343
     },
     "ZTS": {
       "ts": 1793881800,
-      "fetched": 1791558236.5885274
+      "fetched": 1791644681.1727343
     },
     "LIN": {
       "ts": 1793277000,
-      "fetched": 1791558236.5885274
+      "fetched": 1791644681.1727343
     },
     "VLO": {
       "ts": 1792672200,
-      "fetched": 1791558236.5885274
+      "fetched": 1791644681.1727343
     },
     "D05.SI": {
       "ts": 1793869200,
-      "fetched": 1791558236.5885274
+      "fetched": 1791644681.1727343
     },
     "O39.SI": {
       "ts": 1793955600,
-      "fetched": 1791558236.5885274
+      "fetched": 1791644681.1727343
     },
     "U11.SI": {
       "ts": 1793782800,
-      "fetched": 1791558236.5885274
+      "fetched": 1791644681.1727343
     },
     "A17U.SI": {
       "ts": 1785920400,
-      "fetched": 1791558236.5885274
+      "fetched": 1791644681.1727343
     },
     "HMN.SI": {
       "ts": 1785229200,
-      "fetched": 1791558236.5885274
+      "fetched": 1791644681.1727343
     },
     "JYEU.SI": {
       "ts": null,
-      "fetched": 1791558236.5885274
+      "fetched": 1791644681.1727343
     }
   },
   "earnings_notified": [],
-  "last_check": 1791644619.666852
+  "last_check": 1791645542.709376
 }
