@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/denmark-stocks-lower-at-close-of-trade-omx-copenhagen-20-down-092-4939439",
-    "AI|https://www.investing.com/news/stock-market-news/turkey-stocks-higher-at-close-of-trade-bist-100-up-075-4939440",
-    "AI|https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-070-4939444",
-    "AI|https://www.investing.com/news/stock-market-news/analysisai-pricing-lawsuit-against-mcdonalds-raises-new-antitrust-questions-4939446",
-    "AI|https://www.investing.com/news/stock-market-news/kennedy-offers-federal-support-to-new-york-over-measles-outbreak-4937489",
-    "AI|https://www.investing.com/news/stock-market-news/finland-stocks-lower-at-close-of-trade-omx-helsinki-25-down-093-4939460",
-    "AI|https://www.investing.com/news/company-news/nextnav-stock-hits-52week-low-at-1085-usd-93CH-4939441",
-    "AI|https://www.investing.com/news/company-news/oklo-stock-hits-52week-low-at-3438-usd-93CH-4939443",
     "AI|https://www.investing.com/news/company-news/investacc-sells-wealth-units-for-12m-plans-share-placing-93CH-4939447",
     "AI|https://www.investing.com/news/company-news/zhibao-technology-announces-1for50-reverse-stock-split-93CH-4939448",
     "AI|https://www.investing.com/news/company-news/irhythm-holdings-stock-hits-52week-low-at-10070-93CH-4939449",
@@ -5000,7 +4992,15 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/mediaalpha-ceo-steven-yi-sells-263k-in-company-stock-93CH-4941900",
     "Watchlist|https://www.investing.com/news/insider-trading-news/datadog-cto-alexis-lequoc-sells-1475m-in-shares-93CH-4941905",
     "Cybersecurity|e5b386c1-ca26-30f0-a857-7a34ac50ead9",
-    "SG Banks|105aa821-d157-3b0f-a86e-56417fc3a9b9"
+    "SG Banks|105aa821-d157-3b0f-a86e-56417fc3a9b9",
+    "AI|https://www.investing.com/news/stock-market-news/sequoiabacked-nuvacore-seeks-25bn-valuation-in-funding-round--reuters-4941907",
+    "AI|https://www.investing.com/news/insider-trading-news/ul-solutions-ceo-scanlon-sells-876k-of-company-stock-93CH-4941910",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/sequoiabacked-nuvacore-seeks-25bn-valuation-in-funding-round--reuters-4941907",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/ul-solutions-ceo-scanlon-sells-876k-of-company-stock-93CH-4941910",
+    "SG Banks|https://www.investing.com/news/stock-market-news/sequoiabacked-nuvacore-seeks-25bn-valuation-in-funding-round--reuters-4941907",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/ul-solutions-ceo-scanlon-sells-876k-of-company-stock-93CH-4941910",
+    "Watchlist|https://www.investing.com/news/stock-market-news/sequoiabacked-nuvacore-seeks-25bn-valuation-in-funding-round--reuters-4941907",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/ul-solutions-ceo-scanlon-sells-876k-of-company-stock-93CH-4941910"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791595163.0804257
+  "last_check": 1791596072.842331
 }
