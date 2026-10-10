@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|5b90f84e-e1c5-30ad-bf65-9551bef784d9",
-    "Watchlist|4e6ba92e-c9f2-36aa-9b8e-a52055c53d4c",
-    "SG Banks|https://www.channelnewsasia.com/business/exclusive-trump-ai-task-force-leaders-meet-thursday-vice-chair-says-6444341",
-    "AI|95728e16-1094-390b-bf44-835fc12c0b53",
     "Watchlist|95728e16-1094-390b-bf44-835fc12c0b53",
     "Cybersecurity|8f59b56c-43a9-3636-89b0-cdf59c7a6a26",
     "Watchlist|8f59b56c-43a9-3636-89b0-cdf59c7a6a26",
@@ -5000,7 +4996,11 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/analog-devices-director-ray-stata-sells-117-million-in-shares-93CH-4942163",
     "Watchlist|a54bdf5c-b7a1-32bd-bc5f-368b09d8f35b",
     "AI|290a3625-80f9-37bf-8b1c-8da9a29bfa82",
-    "Watchlist|290a3625-80f9-37bf-8b1c-8da9a29bfa82"
+    "Watchlist|290a3625-80f9-37bf-8b1c-8da9a29bfa82",
+    "AI|6e069df5-4c82-3d2d-b56c-2985fd9ade46",
+    "Watchlist|6e069df5-4c82-3d2d-b56c-2985fd9ade46",
+    "Crypto|e88a6ba2-ce46-3769-a025-48657b829da1",
+    "Watchlist|b62558ea-c779-3a7f-8fd7-6d1a27232a61"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791652850.0625901
+  "last_check": 1791653770.5228553
 }
