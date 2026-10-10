@@ -1,17 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-fall-weighed-by-miners-oil-up-on-hormuz-supply-worries-4938001",
-    "AI|https://www.investing.com/news/company-news/b2prime-welcomes-christina-barbash-as-commercial-manager-4939503",
-    "AI|https://www.investing.com/news/commodities-news/trump-us-having-productive-talks-with-iran-will-not-attack-before-us-elections-in-november-4939501",
-    "AI|https://www.investing.com/news/stock-market-news/european-shares-dip-as-banks-hit-over-3month-low-oil-prices-weigh-4938033",
-    "AI|https://www.investing.com/news/stock-market-news/drones-hit-yandex-data-centre-in-first-major-attack-on-russian-data-hub-4937966",
-    "AI|https://www.investing.com/news/economy-news/us-bonds-fall-lifting-yields-for-2nd-day-as-oil-weighs-30year-auction-looms-4939491",
-    "AI|https://www.investing.com/news/company-news/millrose-properties-stock-hits-52week-low-at-2184-usd-93CH-4939506",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-oildri-stock-sliding-today-93CH-4939486",
-    "AI|https://www.investing.com/news/stock-market-news/alphabets-waymo-secures-5-billion-term-loan-to-accelerate-expansion-4939362",
-    "AI|https://www.investing.com/news/stock-market-news/bezos-says-blue-origin-likely-to-pursue-ipo-in-coming-years-4937760",
-    "AI|https://www.investing.com/news/stock-market-news/explainerdata-centers-flexible-power-usage-could-save-the-grid-billions-can-they-scale-4938451",
     "AI|https://www.investing.com/news/company-news/incommunities-reports-29-rise-in-operating-surplus-for-2026-93CH-4939490",
     "AI|https://www.investing.com/news/company-news/hercules-capital-stock-hits-52week-low-at-2414-usd-93CH-4939497",
     "Crypto|https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-bearish-trade-4939477",
@@ -5000,7 +4989,18 @@
     "Watchlist|/companies-markets/anthropic-reports-new-ai-misbehaviour-government-cites-and-fake-police-tip-unsolved-homicide",
     "AI|0690e51d-79ab-36a4-aaa0-3aea5a3c08b9",
     "AI|db229b6a-42d6-30f5-a5a0-55ee99140204",
-    "Watchlist|54bfa8ce-48ce-32e4-a9d0-ed6d6e6dc2d2"
+    "Watchlist|54bfa8ce-48ce-32e4-a9d0-ed6d6e6dc2d2",
+    "Iran|https://www.iranintl.com/en/202610105838",
+    "AI|9978f79a-2596-3014-be5d-e6ee5099fa41",
+    "Watchlist|9978f79a-2596-3014-be5d-e6ee5099fa41",
+    "AI|https://www.investing.com/news/economy-news/china-creates-1052-million-jobs-plans-new-ai-and-services-employment-measures-4942031",
+    "AI|https://www.investing.com/news/insider-trading-news/nuveen-portfolio-manager-michael-hamilton-buys-26106-in-stock-93CH-4942041",
+    "Cybersecurity|https://www.investing.com/news/economy-news/china-creates-1052-million-jobs-plans-new-ai-and-services-employment-measures-4942031",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/nuveen-portfolio-manager-michael-hamilton-buys-26106-in-stock-93CH-4942041",
+    "SG Banks|https://www.investing.com/news/economy-news/china-creates-1052-million-jobs-plans-new-ai-and-services-employment-measures-4942031",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/nuveen-portfolio-manager-michael-hamilton-buys-26106-in-stock-93CH-4942041",
+    "Watchlist|https://www.investing.com/news/economy-news/china-creates-1052-million-jobs-plans-new-ai-and-services-employment-measures-4942031",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/nuveen-portfolio-manager-michael-hamilton-buys-26106-in-stock-93CH-4942041"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791617131.8655555
+  "last_check": 1791618035.8449376
 }
