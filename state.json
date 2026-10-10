@@ -1,20 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|91726ee2-e45a-3865-b6e3-1ade492866fd",
-    "AI|b21e3ee9-4c5b-35cc-a6b5-e406d53e6b11",
-    "AI|08300879-826a-3bb4-958b-a78075abc598",
-    "AI|74d18c26-c8ce-4f99-aaac-26eb54460a5d",
-    "AI|https://www.investing.com/news/economy-news/brazils-flavio-bolsonaro-vows-to-keep-pension-increases-above-inflation-rate-4939454",
-    "AI|https://www.investing.com/news/economy-news/french-teens-march-for-decent-schools-despite-governments-pledge-to-act-4938931",
-    "AI|https://www.investing.com/news/insider-trading-news/central-securities-ceo-john-hill-buys-28185-in-company-stock-93CH-4939465",
-    "AI|https://www.investing.com/news/insider-trading-news/horace-mann-educators-ceo-marita-zuraitis-sells-4600-stock-93CH-4939466",
-    "AI|https://www.investing.com/news/company-news/verici-dx-launches-8m-share-placing-at-02p-per-share-93CH-4939467",
-    "AI|https://www.investing.com/news/stock-market-news/belgium-stocks-lower-at-close-of-trade-bel-20-down-232-4939470",
-    "AI|https://www.investing.com/news/company-news/novagold-q3-2026-slides-donlin-consolidation-plan-amid-rising-costs-93CH-4939471",
-    "AI|https://www.investing.com/news/stock-market-news/france-stocks-lower-at-close-of-trade-cac-40-down-051-4939472",
-    "AI|https://www.investing.com/news/stock-market-news/germany-stocks-lower-at-close-of-trade-dax-down-112-4939473",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-glaukos-stock-sliding-today-93CH-4939474",
     "AI|https://www.investing.com/news/stock-market-news/denmark-stocks-lower-at-close-of-trade-omx-copenhagen-20-down-092-4939439",
     "AI|https://www.investing.com/news/stock-market-news/turkey-stocks-higher-at-close-of-trade-bist-100-up-075-4939440",
     "AI|https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-070-4939444",
@@ -5000,7 +4986,21 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/marvell-technology-svp-justin-scarpulla-sells-300949-in-stock-93CH-4941893",
     "Watchlist|https://www.investing.com/news/economy-news/trump-reaches-russian-diesel-supply-deal-as-us-fuel-prices-surge-4941896",
     "War|WP-MKTW-0005271357",
-    "War|7f15a5e5-a788-3e01-bf01-8d2015646a8a"
+    "War|7f15a5e5-a788-3e01-bf01-8d2015646a8a",
+    "AI|https://www.investing.com/news/insider-trading-news/innsuites-hospitality-trust-ceo-wirth-reports-217-billion-share-disposition-93CH-4941899",
+    "AI|https://www.investing.com/news/insider-trading-news/mediaalpha-ceo-steven-yi-sells-263k-in-company-stock-93CH-4941900",
+    "AI|https://www.investing.com/news/insider-trading-news/datadog-cto-alexis-lequoc-sells-1475m-in-shares-93CH-4941905",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/innsuites-hospitality-trust-ceo-wirth-reports-217-billion-share-disposition-93CH-4941899",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/mediaalpha-ceo-steven-yi-sells-263k-in-company-stock-93CH-4941900",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/datadog-cto-alexis-lequoc-sells-1475m-in-shares-93CH-4941905",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/innsuites-hospitality-trust-ceo-wirth-reports-217-billion-share-disposition-93CH-4941899",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/mediaalpha-ceo-steven-yi-sells-263k-in-company-stock-93CH-4941900",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/datadog-cto-alexis-lequoc-sells-1475m-in-shares-93CH-4941905",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/innsuites-hospitality-trust-ceo-wirth-reports-217-billion-share-disposition-93CH-4941899",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/mediaalpha-ceo-steven-yi-sells-263k-in-company-stock-93CH-4941900",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/datadog-cto-alexis-lequoc-sells-1475m-in-shares-93CH-4941905",
+    "Cybersecurity|e5b386c1-ca26-30f0-a857-7a34ac50ead9",
+    "SG Banks|105aa821-d157-3b0f-a86e-56417fc3a9b9"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791594238.849552
+  "last_check": 1791595163.0804257
 }
