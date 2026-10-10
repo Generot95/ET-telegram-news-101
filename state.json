@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/investacc-sells-wealth-units-for-12m-plans-share-placing-93CH-4939447",
-    "AI|https://www.investing.com/news/company-news/zhibao-technology-announces-1for50-reverse-stock-split-93CH-4939448",
-    "AI|https://www.investing.com/news/company-news/irhythm-holdings-stock-hits-52week-low-at-10070-93CH-4939449",
-    "AI|https://www.investing.com/news/company-news/wah-fu-education-completes-name-change-to-add-technology-93CH-4939455",
-    "AI|https://www.investing.com/news/company-news/wah-fu-education-changes-name-to-add-technology-to-title-93CH-4939456",
-    "AI|https://www.investing.com/news/company-news/first-majestic-reports-q3-2026-production-results-announces-q3-conference-call-details-and-renewal-of-share-repurchase-program-4939464",
-    "AI|WP-MKTW-0005276170",
-    "AI|WP-MKTW-0005276352",
-    "AI|WP-MKTW-0005271357",
-    "Crypto|7ec0329b-1d27-36b0-b56b-c5cdef8917a3",
-    "Crypto|c347bca0-5b84-3109-af9f-6aed25c225ff",
-    "Crypto|c5949e98-f046-3f82-8212-c8f8daac24fe",
-    "Crypto|8f04885e-c948-34cf-8bca-45f97c73d7d6",
     "Crypto|5c8f5fed-58c4-3a0b-bb29-f10755f75a90",
     "Crypto|21a12530-901b-4c73-941a-e18cbd7d80ab",
     "Crypto|d674645f-6e5e-4e8a-814f-abf614d3fab4",
@@ -5000,7 +4987,20 @@
     "SG Banks|https://www.investing.com/news/stock-market-news/sequoiabacked-nuvacore-seeks-25bn-valuation-in-funding-round--reuters-4941907",
     "SG Banks|https://www.investing.com/news/insider-trading-news/ul-solutions-ceo-scanlon-sells-876k-of-company-stock-93CH-4941910",
     "Watchlist|https://www.investing.com/news/stock-market-news/sequoiabacked-nuvacore-seeks-25bn-valuation-in-funding-round--reuters-4941907",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/ul-solutions-ceo-scanlon-sells-876k-of-company-stock-93CH-4941910"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/ul-solutions-ceo-scanlon-sells-876k-of-company-stock-93CH-4941910",
+    "Watchlist|dafc3ed7-fcf8-3a71-aa92-57c656471bee",
+    "AI|b8ede827-dece-3fb6-bdf4-dbf2f1663896",
+    "AI|https://www.investing.com/news/insider-trading-news/optimum-communications-director-neil-subin-acquires-245m-in-stock-93CH-4941916",
+    "AI|https://www.investing.com/news/insider-trading-news/eric-l-oliver-cross-timbers-director-buys-87575-in-units-93CH-4941917",
+    "Cybersecurity|67ee2a01-6889-3e28-9aaa-4c14113a0d63",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/optimum-communications-director-neil-subin-acquires-245m-in-stock-93CH-4941916",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/eric-l-oliver-cross-timbers-director-buys-87575-in-units-93CH-4941917",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/optimum-communications-director-neil-subin-acquires-245m-in-stock-93CH-4941916",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/eric-l-oliver-cross-timbers-director-buys-87575-in-units-93CH-4941917",
+    "Watchlist|b8ede827-dece-3fb6-bdf4-dbf2f1663896",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/optimum-communications-director-neil-subin-acquires-245m-in-stock-93CH-4941916",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/eric-l-oliver-cross-timbers-director-buys-87575-in-units-93CH-4941917",
+    "AI|WP-MKTW-0005271357"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791596072.842331
+  "last_check": 1791596992.964943
 }
