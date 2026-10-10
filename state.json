@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|c50d7df4-380d-38c9-bb59-c984ac31d530",
-    "Watchlist|31a3a261-d086-35ab-ab1f-019d2ca8b269",
-    "Watchlist|86512d0e-2e54-4fce-89e4-b64b83fac0ed",
-    "Watchlist|841e39c2-0b67-3da2-855e-69fdbc3cf88c",
-    "AI|1369f1b6-80bd-3ba6-9c17-3b650e936da5",
-    "Watchlist|1369f1b6-80bd-3ba6-9c17-3b650e936da5",
-    "War|2707cfe8-8f27-311b-b68b-32b91f16de4b",
-    "AI|https://www.investing.com/news/company-news/basel-medical-group-prices-798m-public-offering-at-133unit-93CH-4939542",
-    "AI|https://www.investing.com/news/stock-market-news/bloom-energy-shares-fall-on-report-of-oracle-using-natural-gas-for-data-centers-4939543",
-    "AI|https://www.investing.com/news/economy-news/china-has-no-need-or-intention-to-weakenyuan-for-trade-edge-central-bank-says-4938641",
     "AI|https://www.investing.com/news/analyst-ratings/jefferies-downgrades-pacira-pharmaceuticals-stock-rating-on-viatris-deal-93CH-4939544",
     "AI|https://www.investing.com/news/stock-market-news/revolut-ceo-says-would-prefer-us-for-primary-listing-4939545",
     "AI|https://www.investing.com/news/economy-news/us-imposes-new-sanctions-on-iran-targeting-oil-transport-vessels-93CH-4939546",
@@ -5000,7 +4990,17 @@
     "AI|a5222d3d-29af-3c8d-a929-3ae86c46c914",
     "Watchlist|a5222d3d-29af-3c8d-a929-3ae86c46c914",
     "Iran|https://www.iranintl.com/en/202610085342",
-    "Crypto|ea484572-5e94-3300-9433-5cf0b0bbe012"
+    "Crypto|ea484572-5e94-3300-9433-5cf0b0bbe012",
+    "AI|20547e35-2e6c-30dc-bd80-822616e8d7b0",
+    "Watchlist|20547e35-2e6c-30dc-bd80-822616e8d7b0",
+    "AI|https://www.investing.com/news/stock-market-news/china-drafts-rules-to-ban-hidden-car-handles-virtual-controls-4942097",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/china-drafts-rules-to-ban-hidden-car-handles-virtual-controls-4942097",
+    "SG Banks|https://www.investing.com/news/stock-market-news/china-drafts-rules-to-ban-hidden-car-handles-virtual-controls-4942097",
+    "Watchlist|https://www.investing.com/news/stock-market-news/china-drafts-rules-to-ban-hidden-car-handles-virtual-controls-4942097",
+    "AI|49928618-eb35-3548-8cfc-68ea0222725a",
+    "AI|7435c2b0-63aa-3380-a81c-006f92116502",
+    "Watchlist|49928618-eb35-3548-8cfc-68ea0222725a",
+    "Watchlist|7435c2b0-63aa-3380-a81c-006f92116502"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791636344.5144439
+  "last_check": 1791637275.092718
 }
