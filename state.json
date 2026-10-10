@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/novagold-q3-2026-slides-donlin-consolidation-plan-amid-rising-costs-93CH-4939471",
-    "SG Banks|https://www.investing.com/news/stock-market-news/france-stocks-lower-at-close-of-trade-cac-40-down-051-4939472",
     "SG Banks|https://www.investing.com/news/stock-market-news/germany-stocks-lower-at-close-of-trade-dax-down-112-4939473",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-glaukos-stock-sliding-today-93CH-4939474",
     "Watchlist|7fded60f-6a50-3c27-99e7-a8044a22dd80",
@@ -5000,7 +4998,9 @@
     "SG Banks|https://www.investing.com/news/company-news/anthropic-ai-submits-false-murder-tip-to-philadelphia-police-4941947",
     "Watchlist|https://www.investing.com/news/company-news/anthropic-ai-submits-false-murder-tip-to-philadelphia-police-4941947",
     "AI|7f791c6b-b525-36db-af37-59f4a5aa9dc8",
-    "Watchlist|7f791c6b-b525-36db-af37-59f4a5aa9dc8"
+    "Watchlist|7f791c6b-b525-36db-af37-59f4a5aa9dc8",
+    "AI|cd844af6-c36c-35eb-bf2a-2eff03c8d75b",
+    "Watchlist|cd844af6-c36c-35eb-bf2a-2eff03c8d75b"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791603390.4251778
+  "last_check": 1791604316.23038
 }
