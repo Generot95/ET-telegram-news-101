@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/utz-brands-stock-hits-52week-high-at-1433-93CH-4939521",
-    "SG Banks|https://www.investing.com/news/stock-market-news/sony-credit-outlook-bumped-to-positive-at-moodys-as-a2-rating-affirmed-4939508",
-    "SG Banks|https://www.investing.com/news/stock-market-news/european-shares-drift-to-4month-lows-on-megadebt-swaps-and-french-debt-woes-4937936",
-    "SG Banks|https://www.investing.com/news/commodities-news/oil-prices-rise-as-markets-brace-for-us-gulf-coast-supply-disruptions-4937767",
-    "SG Banks|https://www.investing.com/news/stock-market-news/american-airlines-to-equip-over-1000-aircraft-with-spacexs-starlink-wifi-4939512",
-    "SG Banks|https://www.investing.com/news/stock-market-news/us-suspending-permanent-residency-program-formicrosoft-vance-says-4939365",
-    "SG Banks|https://www.investing.com/news/commodities-news/hormuz-transits-at-lowest-in-over-two-months-after-attacks-data-shows-4937851",
-    "SG Banks|https://www.investing.com/news/transcripts/cerrado-gold-at-small-cap-growth-hybrid-investor-conference-growth-plan-93CH-4939513",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/darden-restaurants-group-president-martin-sells-447565-in-stock-93CH-4939516",
-    "SG Banks|https://www.investing.com/news/stock-market-news/revolut-ceo-wants-us-primary-listing-if-it-goes-public-bloomberg-news-reports-4939518",
-    "Watchlist|bb157681-d142-399c-9375-8564aa7d7550",
-    "Watchlist|a20ae6a7-71ba-3108-8809-839cff4042d7",
     "Watchlist|https://www.investing.com/news/stock-market-news/sony-credit-outlook-bumped-to-positive-at-moodys-as-a2-rating-affirmed-4939508",
     "Watchlist|https://www.investing.com/news/stock-market-news/european-shares-drift-to-4month-lows-on-megadebt-swaps-and-french-debt-woes-4937936",
     "Watchlist|https://www.investing.com/news/commodities-news/oil-prices-rise-as-markets-brace-for-us-gulf-coast-supply-disruptions-4937767",
@@ -5000,7 +4988,19 @@
     "Watchlist|https://www.investing.com/news/economy-news/thailand-prepares-to-host-imfworld-bank-meetings-with-15000-delegates-4942067",
     "AI|68b29819-38a5-3ad7-832d-f9d105ea3c26",
     "Watchlist|68b29819-38a5-3ad7-832d-f9d105ea3c26",
-    "AI|c432756b-66b0-32fa-9d7c-1aa319bc50e5"
+    "AI|c432756b-66b0-32fa-9d7c-1aa319bc50e5",
+    "Watchlist|c432756b-66b0-32fa-9d7c-1aa319bc50e5",
+    "AI|eb5acdac-63ed-3d7a-9e84-6151e2fa1e1d",
+    "AI|86c45891-7452-35bc-a32c-34b4f493e010",
+    "Crypto|86c45891-7452-35bc-a32c-34b4f493e010",
+    "Watchlist|86c45891-7452-35bc-a32c-34b4f493e010",
+    "Watchlist|eb5acdac-63ed-3d7a-9e84-6151e2fa1e1d",
+    "Crypto|2edafe56-b85b-3bfd-a792-acf984514615",
+    "War|98e01be8-787c-3cfe-b49e-f15b3ecd26b3",
+    "AI|875dcb1e-f28d-3a99-a5ed-c65fe151edad",
+    "AI|8d73beac-412f-3514-be29-d2c997fcee6a",
+    "Watchlist|8d73beac-412f-3514-be29-d2c997fcee6a",
+    "Watchlist|875dcb1e-f28d-3a99-a5ed-c65fe151edad"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791628103.9001667
+  "last_check": 1791629042.6600058
 }
