@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/economy-news/bank-of-englands-bailey-urges-credible-fiscal-plans-amid-bond-selloff-93CH-4939598",
-    "AI|https://www.investing.com/news/stock-market-news/consumer-sentiment-and-cftc-positioning-data-due-friday-93CH-4939587",
-    "AI|https://www.investing.com/news/stock-market-news/chip-sector-selloff-where-value-shows-up-among-semiconductor-dips-93CH-4939588",
-    "AI|https://www.investing.com/news/stock-market-news/iren-stock-falls-after-report-flags-infrastructure-and-disclosure-concerns-93CH-4939589",
-    "AI|https://www.investing.com/news/company-news/rpm-international-adds-adm-executive-to-board-of-directors-93CH-4939585",
-    "AI|https://www.investing.com/news/company-news/logitech-launches-rally-bar-2-and-enterprise-product-line-93CH-4939586",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/humana-options-flow-points-to-hedging-after-a-95-sixmonth-rally-93CH-4939590",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/us-army-report-cites-systematic-failures-in-fatal-2025-helicopter-jet-collision-that-killed-67-4939413",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/intel-philip-morris-among-market-cap-stock-movers-on-thursday-93CH-4939591",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/terawulf-options-activity-calls-outpace-puts-4to1-as-shares-slide-93CH-4939592",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/bloom-energy-outlook-bull-case-bear-case-and-nearterm-read-93CH-4939595",
-    "Cybersecurity|https://www.investing.com/news/economy-news/feds-musalem-says-lowering-inflation-will-require-more-rate-hikes-4939596",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/chipotle-options-surge-on-takeover-report-as-callput-ratio-hits-76x-93CH-4939597",
     "Cybersecurity|https://www.investing.com/news/economy-news/bank-of-englands-bailey-urges-credible-fiscal-plans-amid-bond-selloff-93CH-4939598",
     "Cybersecurity|https://www.investing.com/news/company-news/rpm-international-adds-adm-executive-to-board-of-directors-93CH-4939585",
@@ -5000,7 +4988,19 @@
     "AI|https://www.investing.com/news/insider-trading-news/mueller-water-products-director-healy-buys-29927-in-shares-93CH-4942152",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/mueller-water-products-director-healy-buys-29927-in-shares-93CH-4942152",
     "SG Banks|https://www.investing.com/news/insider-trading-news/mueller-water-products-director-healy-buys-29927-in-shares-93CH-4942152",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/mueller-water-products-director-healy-buys-29927-in-shares-93CH-4942152"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/mueller-water-products-director-healy-buys-29927-in-shares-93CH-4942152",
+    "War|30a9d8bd-29c1-4a00-8b81-270e1ada2b83",
+    "AI|d3e1b449-313a-3704-87eb-84c0069d0f55",
+    "AI|e411d625-cff0-3f50-be76-ddbeb06387ac",
+    "Watchlist|e411d625-cff0-3f50-be76-ddbeb06387ac",
+    "Watchlist|d3e1b449-313a-3704-87eb-84c0069d0f55",
+    "Crypto|8f131212-3c13-3e86-82c0-b920924ceba5",
+    "AI|f36321ad-1b79-399c-bac5-13319c656ed0",
+    "AI|4a058e65-4196-383b-bc65-48888bb6a8c8",
+    "Watchlist|f36321ad-1b79-399c-bac5-13319c656ed0",
+    "Watchlist|4a058e65-4196-383b-bc65-48888bb6a8c8",
+    "Iran|https://www.iranintl.com/en/202610109658",
+    "Crypto|395f16e0-e407-3a69-905c-167905275c83"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791650093.5350866
+  "last_check": 1791651021.1740615
 }
