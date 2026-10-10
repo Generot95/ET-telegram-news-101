@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/potential-starbuckschipotle-merger-major-opportunity-or-expensive-distraction-4939606",
-    "Watchlist|https://www.investing.com/news/stock-market-news/palantir-options-analysis-22x-callput-ratio-signals-bullish-positioning-93CH-4939607",
-    "Watchlist|https://www.investing.com/news/stock-market-news/nebius-group-bull-and-bear-case-ahead-of-october-earnings-93CH-4939610",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-vistra-stock-sliding-today-93CH-4939614",
-    "AI|2929b002-8283-30ad-bb63-8f4c7252a5df",
-    "War|81ea7630-a168-37a6-8e92-16e901b57d44",
-    "Watchlist|2929b002-8283-30ad-bb63-8f4c7252a5df",
-    "Watchlist|e8f07fff-8fdf-32b5-970f-14dd41031dca",
-    "Crypto|611252f1-6b4e-3375-9257-ddbe3cc1f78e",
-    "SG Banks|https://www.channelnewsasia.com/business/securitize-launches-blockchain-based-stocks-6443026",
     "War|12fc8686-9d2e-35d2-a3a1-311b3ff4a789",
     "AI|12fc8686-9d2e-35d2-a3a1-311b3ff4a789",
     "Watchlist|12fc8686-9d2e-35d2-a3a1-311b3ff4a789",
@@ -5000,7 +4990,17 @@
     "AI|e20d05c5-97d6-318d-ac42-49730a85a5b9",
     "AI|0dd2a667-f522-323f-a904-5c112eb9fe4d",
     "Watchlist|0dd2a667-f522-323f-a904-5c112eb9fe4d",
-    "War|dee1bffd-3e88-4d28-a3f8-b89cbf3774c9"
+    "War|dee1bffd-3e88-4d28-a3f8-b89cbf3774c9",
+    "AI|https://www.investing.com/news/insider-trading-news/appian-ceo-matthew-calkins-sells-169m-in-company-stock-93CH-4942204",
+    "AI|https://www.investing.com/news/insider-trading-news/skyai-10-owner-bastion-trading-buys-78262-in-skya-stock-93CH-4942210",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/appian-ceo-matthew-calkins-sells-169m-in-company-stock-93CH-4942204",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/skyai-10-owner-bastion-trading-buys-78262-in-skya-stock-93CH-4942210",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/appian-ceo-matthew-calkins-sells-169m-in-company-stock-93CH-4942204",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/skyai-10-owner-bastion-trading-buys-78262-in-skya-stock-93CH-4942210",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/appian-ceo-matthew-calkins-sells-169m-in-company-stock-93CH-4942204",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/skyai-10-owner-bastion-trading-buys-78262-in-skya-stock-93CH-4942210",
+    "AI|ad11cf4e-9d4f-37b4-849f-6fd53d02ce4a",
+    "Watchlist|ad11cf4e-9d4f-37b4-849f-6fd53d02ce4a"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791657425.9112556
+  "last_check": 1791658357.50996
 }
