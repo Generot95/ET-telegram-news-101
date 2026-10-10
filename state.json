@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|55c70972-38fa-325a-9ce3-9d00e5011ab1",
-    "Watchlist|3ed1da53-22cb-39b7-b40a-2ffea24787c5",
     "AI|https://www.investing.com/news/company-news/hagerty-stock-hits-52week-high-at-1419-usd-93CH-4939624",
     "AI|https://www.investing.com/news/forex-news/euro-zone-ministers-to-tell-france-to-pass-2027-budget-to-calm-markets-4938661",
     "AI|https://www.investing.com/news/insider-trading-news/willamette-valley-vineyards-ceo-buys-9654-in-stock-93CH-4939634",
@@ -5000,7 +4998,9 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/neogen-ceo-mikheal-nassif-buys-6034-in-company-stock-93CH-4942234",
     "Watchlist|https://www.investing.com/news/insider-trading-news/neogen-ceo-mikheal-nassif-buys-6034-in-company-stock-93CH-4942234",
     "AI|6d97b6ed-0aba-3982-bd8e-f5cbf3a84087",
-    "Watchlist|6d97b6ed-0aba-3982-bd8e-f5cbf3a84087"
+    "Watchlist|6d97b6ed-0aba-3982-bd8e-f5cbf3a84087",
+    "AI|aaf10b0d-30b2-3225-9fab-d78e3e73bb37",
+    "Watchlist|aaf10b0d-30b2-3225-9fab-d78e3e73bb37"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791664765.3864524
+  "last_check": 1791665692.0333781
 }
