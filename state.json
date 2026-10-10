@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/company-news/applied-energetics-advances-ultrashortpulse-laser-technology-93CH-4939578",
-    "Watchlist|https://www.investing.com/news/economy-news/us-suspends-microsoft-adobe-others-from-green-card-program-cites-abuse-4939382",
-    "AI|dcca6a38-2346-31c1-95ec-891cab9d6e0c",
-    "AI|74a84bae-b1dd-4fe8-b1db-f55941cc1a8e",
-    "Watchlist|dcca6a38-2346-31c1-95ec-891cab9d6e0c",
     "Watchlist|74a84bae-b1dd-4fe8-b1db-f55941cc1a8e",
     "War|b361f1db-c32b-3b1d-8f3f-7d6523484abf",
     "War|f116cff5-a19d-31bd-a8d3-8156a6ade7cd",
@@ -5000,7 +4995,12 @@
     "Watchlist|f317554d-fa1c-349d-a4b4-b410cb3b13df",
     "Watchlist|df2e844f-578a-3928-bf1c-ce89a7926ad5",
     "AI|280fde21-435a-353b-a6a8-9ca8f3e3164b",
-    "Watchlist|280fde21-435a-353b-a6a8-9ca8f3e3164b"
+    "Watchlist|280fde21-435a-353b-a6a8-9ca8f3e3164b",
+    "Watchlist|17c8eadd-c3af-390b-be8e-7a7fc9dc51d2",
+    "AI|2ac8d6ff-f1d4-3816-a506-ca67243e0136",
+    "AI|52408b54-0027-357e-b028-dbc46f597707",
+    "Watchlist|52408b54-0027-357e-b028-dbc46f597707",
+    "Watchlist|2ac8d6ff-f1d4-3816-a506-ca67243e0136"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791646441.4383965
+  "last_check": 1791647370.6506302
 }
