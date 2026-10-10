@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|da9bd1e6-18bb-3a38-ad04-6da2fbc2ce9b",
-    "Watchlist|0f4b21ef-02bd-3e9b-ace0-ebfb929ac71c",
     "Watchlist|cf10f53c-0c75-36db-9026-af7197e3986e",
     "Watchlist|https://www.investing.com/news/economy-news/brazils-flavio-bolsonaro-vows-to-keep-pension-increases-above-inflation-rate-4939454",
     "Watchlist|https://www.investing.com/news/economy-news/french-teens-march-for-decent-schools-despite-governments-pledge-to-act-4938931",
@@ -5000,7 +4998,9 @@
     "AI|https://www.investing.com/news/economy-news/trump-vows-quick-end-to-iran-war-as-fighting-in-yemen-intensifies-4941977",
     "Cybersecurity|https://www.investing.com/news/economy-news/trump-vows-quick-end-to-iran-war-as-fighting-in-yemen-intensifies-4941977",
     "SG Banks|https://www.investing.com/news/economy-news/trump-vows-quick-end-to-iran-war-as-fighting-in-yemen-intensifies-4941977",
-    "Watchlist|https://www.investing.com/news/economy-news/trump-vows-quick-end-to-iran-war-as-fighting-in-yemen-intensifies-4941977"
+    "Watchlist|https://www.investing.com/news/economy-news/trump-vows-quick-end-to-iran-war-as-fighting-in-yemen-intensifies-4941977",
+    "AI|9442a231-d51e-3eec-851f-b063d1ea1e71",
+    "Watchlist|9442a231-d51e-3eec-851f-b063d1ea1e71"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791609798.8168864
+  "last_check": 1791610711.2103043
 }
