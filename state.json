@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/medtronic-options-flow-points-to-volatility-bet-with-bullish-overlay-near-90-93CH-4939623",
-    "SG Banks|https://www.investing.com/news/company-news/metaguestai-appoints-mk-marsden-to-board-of-directors-93CH-4939615",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-constellation-energy-stock-sliding-today-93CH-4939616",
-    "SG Banks|https://www.investing.com/news/transcripts/lands-end-at-2026-global-consumer--retail-conference-ai-push-93CH-4939617",
-    "SG Banks|https://www.investing.com/news/stock-market-news/exclusive-moomoo-adds-247-apple-pay-google-pay-deposits-via-visa-checkoutcom-4939620",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-revolution-medicines-stock-sliding-today-93CH-4939621",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-bending-spoons-stock-sliding-today-93CH-4939622",
-    "SG Banks|https://www.investing.com/news/stock-market-news/medtronic-options-flow-points-to-volatility-bet-with-bullish-overlay-near-90-93CH-4939623",
-    "Watchlist|558fbfb8-add3-3906-9d04-5e023f12f116",
     "Watchlist|https://www.investing.com/news/company-news/metaguestai-appoints-mk-marsden-to-board-of-directors-93CH-4939615",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-constellation-energy-stock-sliding-today-93CH-4939616",
     "Watchlist|https://www.investing.com/news/transcripts/lands-end-at-2026-global-consumer--retail-conference-ai-push-93CH-4939617",
@@ -5000,7 +4991,16 @@
     "AI|WP-MKTW-0005276935",
     "AI|WP-MKTW-0005276352",
     "Cybersecurity|WP-MKTW-0005276935",
-    "Cybersecurity|WP-MKTW-0005276352"
+    "Cybersecurity|WP-MKTW-0005276352",
+    "AI|204b451b-5f43-32ae-b2d7-89164b21614a",
+    "Crypto|204b451b-5f43-32ae-b2d7-89164b21614a",
+    "Watchlist|204b451b-5f43-32ae-b2d7-89164b21614a",
+    "AI|https://www.investing.com/news/stock-market-news/nvidia-in-talks-to-invest-further-in-reflection-ai-or-buy-it-ft-reports-4942221",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/nvidia-in-talks-to-invest-further-in-reflection-ai-or-buy-it-ft-reports-4942221",
+    "SG Banks|https://www.investing.com/news/stock-market-news/nvidia-in-talks-to-invest-further-in-reflection-ai-or-buy-it-ft-reports-4942221",
+    "Watchlist|https://www.investing.com/news/stock-market-news/nvidia-in-talks-to-invest-further-in-reflection-ai-or-buy-it-ft-reports-4942221",
+    "Watchlist|ecabf5eb-9d45-366b-a5fc-5fa251e5fccc",
+    "War|86943cbd-eda0-412f-a0eb-ba16560e41f4"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791662012.8024015
+  "last_check": 1791662921.3550677
 }
