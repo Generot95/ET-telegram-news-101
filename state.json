@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|WP-MKTW-0005276264",
-    "Cybersecurity|WP-MKTW-0005276264",
-    "Watchlist|d2b4b37a-2293-44fb-b9bc-d8fed3ae63ea",
-    "War|ae71d440-5371-3739-959e-07262e128018",
-    "Crypto|b624800f-7737-34af-9a22-93785ba160f3",
-    "AI|558fbfb8-add3-3906-9d04-5e023f12f116",
-    "AI|https://www.investing.com/news/company-news/metaguestai-appoints-mk-marsden-to-board-of-directors-93CH-4939615",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-constellation-energy-stock-sliding-today-93CH-4939616",
-    "AI|https://www.investing.com/news/transcripts/lands-end-at-2026-global-consumer--retail-conference-ai-push-93CH-4939617",
-    "AI|https://www.investing.com/news/stock-market-news/exclusive-moomoo-adds-247-apple-pay-google-pay-deposits-via-visa-checkoutcom-4939620",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-revolution-medicines-stock-sliding-today-93CH-4939621",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-bending-spoons-stock-sliding-today-93CH-4939622",
     "AI|https://www.investing.com/news/stock-market-news/medtronic-options-flow-points-to-volatility-bet-with-bullish-overlay-near-90-93CH-4939623",
     "Cybersecurity|https://www.investing.com/news/company-news/metaguestai-appoints-mk-marsden-to-board-of-directors-93CH-4939615",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-constellation-energy-stock-sliding-today-93CH-4939616",
@@ -5000,7 +4988,19 @@
     "Watchlist|94121a18-8cf4-3ef6-8d83-083a66da17f8",
     "AI|5e810126-465d-3d53-bac2-ceb6ed94273e",
     "Crypto|5e810126-465d-3d53-bac2-ceb6ed94273e",
-    "Watchlist|5e810126-465d-3d53-bac2-ceb6ed94273e"
+    "Watchlist|5e810126-465d-3d53-bac2-ceb6ed94273e",
+    "AI|e92bf779-db5f-3955-b7a1-e7c188fedfc0",
+    "Watchlist|e92bf779-db5f-3955-b7a1-e7c188fedfc0",
+    "Watchlist|452779c1-aebb-3395-8800-536a3c81baa4",
+    "AI|https://www.investing.com/news/insider-trading-news/zymeworks-evp-adam-schayowitz-sells-357557-in-zyme-stock-for-taxes-93CH-4942216",
+    "AI|https://www.investing.com/news/insider-trading-news/pacira-biosciences-svp-lauren-riker-sells-217920-in-stock-93CH-4942219",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/zymeworks-evp-adam-schayowitz-sells-357557-in-zyme-stock-for-taxes-93CH-4942216",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/pacira-biosciences-svp-lauren-riker-sells-217920-in-stock-93CH-4942219",
+    "SG Banks|https://www.channelnewsasia.com/business/nvidia-in-talks-invest-further-in-reflection-ai-or-buy-it-ft-reports-6449691",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/zymeworks-evp-adam-schayowitz-sells-357557-in-zyme-stock-for-taxes-93CH-4942216",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/pacira-biosciences-svp-lauren-riker-sells-217920-in-stock-93CH-4942219",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/zymeworks-evp-adam-schayowitz-sells-357557-in-zyme-stock-for-taxes-93CH-4942216",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/pacira-biosciences-svp-lauren-riker-sells-217920-in-stock-93CH-4942219"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791660200.1211348
+  "last_check": 1791661100.5545325
 }
