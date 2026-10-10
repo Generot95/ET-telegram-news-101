@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/zhibao-technology-announces-1for50-reverse-stock-split-93CH-4939448",
-    "Cybersecurity|https://www.investing.com/news/company-news/irhythm-holdings-stock-hits-52week-low-at-10070-93CH-4939449",
     "Cybersecurity|https://www.investing.com/news/company-news/wah-fu-education-completes-name-change-to-add-technology-93CH-4939455",
     "Cybersecurity|https://www.investing.com/news/company-news/wah-fu-education-changes-name-to-add-technology-to-title-93CH-4939456",
     "Cybersecurity|https://www.investing.com/news/company-news/first-majestic-reports-q3-2026-production-results-announces-q3-conference-call-details-and-renewal-of-share-repurchase-program-4939464",
@@ -5000,7 +4998,9 @@
     "Watchlist|/companies-markets/energy-commodities/oil-prices-settle-higher-more-production-shut-ahead-hurricane",
     "Iran|https://www.iranintl.com/en/202610106673",
     "AI|83157757-5104-352d-a1e8-6641fae854d4",
-    "Watchlist|83157757-5104-352d-a1e8-6641fae854d4"
+    "Watchlist|83157757-5104-352d-a1e8-6641fae854d4",
+    "SG Banks|/international/trump-says-putin-supply-us-diesel-ahead-november-midterms",
+    "Watchlist|/international/trump-says-putin-supply-us-diesel-ahead-november-midterms"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791600647.6728268
+  "last_check": 1791601562.18741
 }
