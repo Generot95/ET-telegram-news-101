@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|1301d6ec-e2eb-3b7b-91b5-4532aac8fe3a",
-    "AI|13389ab9-5efd-3bb8-a9a8-f7a8abb87697",
-    "Watchlist|1301d6ec-e2eb-3b7b-91b5-4532aac8fe3a",
-    "Watchlist|13389ab9-5efd-3bb8-a9a8-f7a8abb87697",
-    "War|4c145b98-0590-31e6-90cc-bac68c483100",
-    "War|https://www.investing.com/news/commodities-news/trump-us-having-productive-talks-with-iran-will-not-attack-before-us-elections-in-november-4939501",
     "AI|https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-fall-weighed-by-miners-oil-up-on-hormuz-supply-worries-4938001",
     "AI|https://www.investing.com/news/company-news/b2prime-welcomes-christina-barbash-as-commercial-manager-4939503",
     "AI|https://www.investing.com/news/commodities-news/trump-us-having-productive-talks-with-iran-will-not-attack-before-us-elections-in-november-4939501",
@@ -5000,7 +4994,13 @@
     "SG Banks|https://www.investing.com/news/stock-market-news/european-bank-stocks-slide-8-as-bond-yields-spark-investor-caution--bloomberg-4942017",
     "Watchlist|https://www.investing.com/news/insider-trading-news/duolingo-president--ceo-luis-von-ahn-sells-167-million-in-stock-93CH-4942016",
     "Watchlist|https://www.investing.com/news/stock-market-news/european-bank-stocks-slide-8-as-bond-yields-spark-investor-caution--bloomberg-4942017",
-    "SG Banks|https://www.straitstimes.com/business/india-unveils-tough-curbs-on-dollar-demand-to-defend-rupee"
+    "SG Banks|https://www.straitstimes.com/business/india-unveils-tough-curbs-on-dollar-demand-to-defend-rupee",
+    "SG Banks|/companies-markets/anthropic-reports-new-ai-misbehaviour-government-cites-and-fake-police-tip-unsolved-homicide",
+    "Watchlist|0690e51d-79ab-36a4-aaa0-3aea5a3c08b9",
+    "Watchlist|/companies-markets/anthropic-reports-new-ai-misbehaviour-government-cites-and-fake-police-tip-unsolved-homicide",
+    "AI|0690e51d-79ab-36a4-aaa0-3aea5a3c08b9",
+    "AI|db229b6a-42d6-30f5-a5a0-55ee99140204",
+    "Watchlist|54bfa8ce-48ce-32e4-a9d0-ed6d6e6dc2d2"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791616218.4120378
+  "last_check": 1791617131.8655555
 }
