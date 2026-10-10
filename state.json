@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|9424e8d9-46a4-3e0b-a948-b62f5fe26f18",
-    "AI|2f655db8-4894-347a-b397-73de2cbcc6d1",
-    "Crypto|faafe045-0daf-4707-ba5d-5be0095b25bd",
-    "Watchlist|c1945fff-de68-31ef-8cb2-d2641d67e126",
-    "Watchlist|9424e8d9-46a4-3e0b-a948-b62f5fe26f18",
     "Crypto|4ba6c35b-fc74-4d03-85d9-01e554f1f634",
     "Watchlist|533b0da8-9ae8-34ff-9765-15bb30cdc271",
     "AI|841e39c2-0b67-3da2-855e-69fdbc3cf88c",
@@ -5000,7 +4995,12 @@
     "SG Banks|https://www.investing.com/news/company-news/lb-pharmaceuticals-presents-data-on-lb102-at-ecnp-congress-93CH-4942090",
     "Watchlist|https://www.investing.com/news/company-news/lb-pharmaceuticals-presents-data-on-lb102-at-ecnp-congress-93CH-4942090",
     "AI|905f752b-c3bd-3255-8296-8ce478bc9ed3",
-    "Watchlist|905f752b-c3bd-3255-8296-8ce478bc9ed3"
+    "Watchlist|905f752b-c3bd-3255-8296-8ce478bc9ed3",
+    "AI|https://www.investing.com/news/stock-market-news/will-rising-french-bond-spreads-disrupt-the-rally-in-european-stocks-4942091",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/will-rising-french-bond-spreads-disrupt-the-rally-in-european-stocks-4942091",
+    "SG Banks|https://www.investing.com/news/stock-market-news/will-rising-french-bond-spreads-disrupt-the-rally-in-european-stocks-4942091",
+    "Watchlist|https://www.investing.com/news/stock-market-news/will-rising-french-bond-spreads-disrupt-the-rally-in-european-stocks-4942091",
+    "Crypto|93f1b929-ba19-34b2-9838-1f04a395c3b5"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791634522.9444237
+  "last_check": 1791635436.1604843
 }
