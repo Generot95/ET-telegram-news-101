@@ -1,17 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Iran|https://www.iranintl.com/en/202610082345",
-    "Crypto|4b60d822-09d9-35b0-a53e-8caa7d73f5b5",
-    "SG Banks|https://www.channelnewsasia.com/business/anthropic-launches-dashboard-animation-tools-claude-6444391",
-    "AI|6fb39a40-ca3c-3a0b-8630-750ce5295f25",
-    "Watchlist|6fb39a40-ca3c-3a0b-8630-750ce5295f25",
-    "War|95bd3cf6-c8d9-4075-89ba-54c7f997290b",
-    "Watchlist|e97392ab-9fa7-3841-896f-df450f641706",
-    "War|a9ced20f-b048-337d-bc88-462463746fc4",
-    "AI|72c39208-0029-3b60-991f-3b875921a083",
-    "Watchlist|72c39208-0029-3b60-991f-3b875921a083",
-    "AI|55c70972-38fa-325a-9ce3-9d00e5011ab1",
     "Watchlist|55c70972-38fa-325a-9ce3-9d00e5011ab1",
     "Watchlist|3ed1da53-22cb-39b7-b40a-2ffea24787c5",
     "AI|https://www.investing.com/news/company-news/hagerty-stock-hits-52week-high-at-1419-usd-93CH-4939624",
@@ -5000,7 +4989,18 @@
     "SG Banks|https://www.investing.com/news/stock-market-news/infosys-sees-no-material-impact-from-us-perm-suspension-4942230",
     "Watchlist|https://www.investing.com/news/earnings/caledonia-mining-earnings-beat-by-010-revenue-topped-estimates-4942229",
     "Watchlist|https://www.investing.com/news/stock-market-news/infosys-sees-no-material-impact-from-us-perm-suspension-4942230",
-    "Iran|https://www.iranintl.com/en/202610107057"
+    "Iran|https://www.iranintl.com/en/202610107057",
+    "AI|e0fce6f1-cf3c-3a27-9d69-3ad12fad7152",
+    "Watchlist|e0fce6f1-cf3c-3a27-9d69-3ad12fad7152",
+    "Iran|https://www.iranintl.com/en/202610082345",
+    "Crypto|7861a053-10df-3fdc-9c1f-10a293936e0a",
+    "Crypto|53355af0-2d91-3013-9b3d-64238dd8d7fc",
+    "AI|https://www.investing.com/news/insider-trading-news/neogen-ceo-mikheal-nassif-buys-6034-in-company-stock-93CH-4942234",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/neogen-ceo-mikheal-nassif-buys-6034-in-company-stock-93CH-4942234",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/neogen-ceo-mikheal-nassif-buys-6034-in-company-stock-93CH-4942234",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/neogen-ceo-mikheal-nassif-buys-6034-in-company-stock-93CH-4942234",
+    "AI|6d97b6ed-0aba-3982-bd8e-f5cbf3a84087",
+    "Watchlist|6d97b6ed-0aba-3982-bd8e-f5cbf3a84087"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791663839.6965604
+  "last_check": 1791664765.3864524
 }
