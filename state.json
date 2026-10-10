@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|388d9b7b-21ba-374a-af71-ce859ce398f4",
-    "AI|https://www.investing.com/news/stock-market-news/east-asian-tech-stocks-where-the-discounts-are-in-japan-korea-taiwan-and-china-93CH-4939565",
-    "AI|https://www.investing.com/news/economy-news/hurricane-isaias-forces-gulf-oil-and-gas-production-shutdowns-93CH-4939566",
-    "AI|https://www.investing.com/news/company-news/rga-stock-hits-alltime-high-at-25831-usd-93CH-4939569",
-    "AI|https://www.investing.com/news/stock-market-news/hurricane-isaias-strengthens-as-us-gulf-coast-prepares-for-landfall-4939570",
-    "AI|https://www.investing.com/news/analyst-ratings/ionq-stock-advances-to-darpa-final-quantum-benchmarking-phase-93CH-4939571",
-    "AI|https://www.investing.com/news/stock-market-news/apple-names-veteran-steve-smith-as-new-ma-chief-4939572",
-    "AI|https://www.investing.com/news/company-news/rpm-increases-quarterly-dividend-56-to-057-per-share-93CH-4939577",
-    "AI|https://www.investing.com/news/company-news/applied-energetics-advances-ultrashortpulse-laser-technology-93CH-4939578",
     "AI|https://www.investing.com/news/economy-news/us-suspends-microsoft-adobe-others-from-green-card-program-cites-abuse-4939382",
     "AI|https://www.investing.com/news/stock-market-news/levi-strauss-earnings-analysis-questions-answered-and-next-catalysts-93CH-4939556",
     "AI|https://www.investing.com/news/stock-market-news/applied-digital-earnings-analysis-questions-answered-and-next-catalysts-93CH-4939557",
@@ -5000,7 +4991,16 @@
     "SG Banks|https://www.investing.com/news/stock-market-news/philips-wins-dutch-court-battle-with-shareholders-over-sleep-apnea-recall-4942118",
     "Watchlist|https://www.investing.com/news/stock-market-news/philips-wins-dutch-court-battle-with-shareholders-over-sleep-apnea-recall-4942118",
     "AI|6eec3132-8e48-3e4a-8e46-c1a7eefc35e8",
-    "Watchlist|6eec3132-8e48-3e4a-8e46-c1a7eefc35e8"
+    "Watchlist|6eec3132-8e48-3e4a-8e46-c1a7eefc35e8",
+    "Crypto|96f853aa-1b46-34fe-a108-033da9441a28",
+    "AI|027ca423-ea07-3b54-90f2-528338ea09d3",
+    "AI|74e23fa4-a9af-348d-86e1-608d34601696",
+    "AI|9409bd2b-ef17-33b9-aba3-b850de6cb280",
+    "Watchlist|027ca423-ea07-3b54-90f2-528338ea09d3",
+    "Watchlist|74e23fa4-a9af-348d-86e1-608d34601696",
+    "Watchlist|9409bd2b-ef17-33b9-aba3-b850de6cb280",
+    "AI|8c0593b7-9064-3766-a47a-43e652024baf",
+    "Watchlist|8c0593b7-9064-3766-a47a-43e652024baf"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791641857.290037
+  "last_check": 1791642794.78821
 }
