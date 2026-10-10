@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/nebius-group-bull-and-bear-case-ahead-of-october-earnings-93CH-4939610",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-vistra-stock-sliding-today-93CH-4939614",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/nvidiabacked-iambic-therapeutics-launches-ipo-as-biotechs-buck-market-gloom-4939603",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/starbucks-options-flow-after-chipotle-takeover-report-93CH-4939605",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/potential-starbuckschipotle-merger-major-opportunity-or-expensive-distraction-4939606",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/palantir-options-analysis-22x-callput-ratio-signals-bullish-positioning-93CH-4939607",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/nebius-group-bull-and-bear-case-ahead-of-october-earnings-93CH-4939610",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-vistra-stock-sliding-today-93CH-4939614",
     "SG Banks|https://www.investing.com/news/stock-market-news/nvidiabacked-iambic-therapeutics-launches-ipo-as-biotechs-buck-market-gloom-4939603",
     "SG Banks|https://www.investing.com/news/stock-market-news/starbucks-options-flow-after-chipotle-takeover-report-93CH-4939605",
     "SG Banks|https://www.investing.com/news/stock-market-news/potential-starbuckschipotle-merger-major-opportunity-or-expensive-distraction-4939606",
@@ -5000,7 +4992,15 @@
     "Watchlist|9773ecd3-0448-3705-b658-dbbd1e736de3",
     "AI|2230ee29-f2d9-38dc-ad54-05d9ea399946",
     "Crypto|7642c3ff-1906-314c-b438-3b7ec3dce206",
-    "Watchlist|d5c62e94-c7b5-330e-9e5e-1ea0e4114858"
+    "Watchlist|d5c62e94-c7b5-330e-9e5e-1ea0e4114858",
+    "AI|https://www.investing.com/news/stock-market-news/indias-infosys-does-not-expect-material-impact-from-us-perm-suspension-4942191",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/indias-infosys-does-not-expect-material-impact-from-us-perm-suspension-4942191",
+    "SG Banks|https://www.investing.com/news/stock-market-news/indias-infosys-does-not-expect-material-impact-from-us-perm-suspension-4942191",
+    "Watchlist|https://www.investing.com/news/stock-market-news/indias-infosys-does-not-expect-material-impact-from-us-perm-suspension-4942191",
+    "AI|9e019982-958f-34cb-b4cb-6cd5158f1976",
+    "Cybersecurity|26eadfd6-42f3-3f46-9351-3dfbb4bfe8d3",
+    "Watchlist|9e019982-958f-34cb-b4cb-6cd5158f1976",
+    "Watchlist|26eadfd6-42f3-3f46-9351-3dfbb4bfe8d3"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791654697.4010062
+  "last_check": 1791655594.586147
 }
