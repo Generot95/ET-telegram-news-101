@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|3a8f91d6-deff-3649-8851-b331fdff358a",
-    "AI|https://www.investing.com/news/stock-market-news/humana-options-flow-points-to-hedging-after-a-95-sixmonth-rally-93CH-4939590",
-    "AI|https://www.investing.com/news/stock-market-news/us-army-report-cites-systematic-failures-in-fatal-2025-helicopter-jet-collision-that-killed-67-4939413",
-    "AI|https://www.investing.com/news/stock-market-news/intel-philip-morris-among-market-cap-stock-movers-on-thursday-93CH-4939591",
-    "AI|https://www.investing.com/news/stock-market-news/terawulf-options-activity-calls-outpace-puts-4to1-as-shares-slide-93CH-4939592",
-    "AI|https://www.investing.com/news/stock-market-news/bloom-energy-outlook-bull-case-bear-case-and-nearterm-read-93CH-4939595",
-    "AI|https://www.investing.com/news/economy-news/feds-musalem-says-lowering-inflation-will-require-more-rate-hikes-4939596",
-    "AI|https://www.investing.com/news/stock-market-news/chipotle-options-surge-on-takeover-report-as-callput-ratio-hits-76x-93CH-4939597",
     "AI|https://www.investing.com/news/economy-news/bank-of-englands-bailey-urges-credible-fiscal-plans-amid-bond-selloff-93CH-4939598",
     "AI|https://www.investing.com/news/stock-market-news/consumer-sentiment-and-cftc-positioning-data-due-friday-93CH-4939587",
     "AI|https://www.investing.com/news/stock-market-news/chip-sector-selloff-where-value-shows-up-among-semiconductor-dips-93CH-4939588",
@@ -5000,7 +4992,15 @@
     "Crypto|8c53a37b-d687-395c-b056-ae72ff05614e",
     "Cybersecurity|https://www.investing.com/news/commodities-news/abbas-postpones-palestinian-elections-sets-presidential-poll-for-september-2027-4942138",
     "SG Banks|https://www.investing.com/news/commodities-news/abbas-postpones-palestinian-elections-sets-presidential-poll-for-september-2027-4942138",
-    "Watchlist|https://www.investing.com/news/commodities-news/abbas-postpones-palestinian-elections-sets-presidential-poll-for-september-2027-4942138"
+    "Watchlist|https://www.investing.com/news/commodities-news/abbas-postpones-palestinian-elections-sets-presidential-poll-for-september-2027-4942138",
+    "AI|52cbfd93-0b63-30bb-ab6c-05af33db59d2",
+    "AI|074a5a11-d914-3dd1-a2f3-a98e052098db",
+    "Watchlist|52cbfd93-0b63-30bb-ab6c-05af33db59d2",
+    "Watchlist|074a5a11-d914-3dd1-a2f3-a98e052098db",
+    "AI|https://www.investing.com/news/insider-trading-news/mueller-water-products-director-healy-buys-29927-in-shares-93CH-4942152",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/mueller-water-products-director-healy-buys-29927-in-shares-93CH-4942152",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/mueller-water-products-director-healy-buys-29927-in-shares-93CH-4942152",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/mueller-water-products-director-healy-buys-29927-in-shares-93CH-4942152"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791649186.078204
+  "last_check": 1791650093.5350866
 }
