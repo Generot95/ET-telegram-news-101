@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Crypto|5c8f5fed-58c4-3a0b-bb29-f10755f75a90",
-    "Crypto|21a12530-901b-4c73-941a-e18cbd7d80ab",
-    "Crypto|d674645f-6e5e-4e8a-814f-abf614d3fab4",
-    "Crypto|b30e6fba-435a-365f-b68e-90e17c360129",
-    "Cybersecurity|21d51abb-8d5e-3e65-87da-3e03ef3c89a0",
     "Cybersecurity|https://www.investing.com/news/economy-news/brazils-flavio-bolsonaro-vows-to-keep-pension-increases-above-inflation-rate-4939454",
     "Cybersecurity|https://www.investing.com/news/economy-news/french-teens-march-for-decent-schools-despite-governments-pledge-to-act-4938931",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/central-securities-ceo-john-hill-buys-28185-in-company-stock-93CH-4939465",
@@ -5000,7 +4995,12 @@
     "Watchlist|b8ede827-dece-3fb6-bdf4-dbf2f1663896",
     "Watchlist|https://www.investing.com/news/insider-trading-news/optimum-communications-director-neil-subin-acquires-245m-in-stock-93CH-4941916",
     "Watchlist|https://www.investing.com/news/insider-trading-news/eric-l-oliver-cross-timbers-director-buys-87575-in-units-93CH-4941917",
-    "AI|WP-MKTW-0005271357"
+    "AI|WP-MKTW-0005271357",
+    "SG Banks|/companies-markets/capital-markets-currencies/wall-st-climbs-oil-slips-spacex-spectrum-deal-weighs-telecoms",
+    "Watchlist|/companies-markets/capital-markets-currencies/wall-st-climbs-oil-slips-spacex-spectrum-deal-weighs-telecoms",
+    "SG Banks|/companies-markets/capital-markets-currencies/european-stocks-eke-out-weekly-gain-oil-yields-ease-spacex-spectrum-deal-hits-telecoms",
+    "Watchlist|/companies-markets/capital-markets-currencies/european-stocks-eke-out-weekly-gain-oil-yields-ease-spacex-spectrum-deal-hits-telecoms",
+    "War|21806234-4417-3399-a6eb-2d6415f1b14d"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791596992.964943
+  "last_check": 1791597912.2887192
 }
