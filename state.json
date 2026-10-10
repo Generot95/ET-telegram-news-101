@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/belgium-stocks-lower-at-close-of-trade-bel-20-down-232-4939470",
-    "Watchlist|https://www.investing.com/news/company-news/novagold-q3-2026-slides-donlin-consolidation-plan-amid-rising-costs-93CH-4939471",
-    "Watchlist|https://www.investing.com/news/stock-market-news/france-stocks-lower-at-close-of-trade-cac-40-down-051-4939472",
-    "Watchlist|https://www.investing.com/news/stock-market-news/germany-stocks-lower-at-close-of-trade-dax-down-112-4939473",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-glaukos-stock-sliding-today-93CH-4939474",
-    "War|WP-MKTW-0005267021",
-    "AI|WP-MKTW-0005267021",
-    "Cybersecurity|WP-MKTW-0005267021",
-    "War|67dc2534-ba79-33ec-b8cc-4f1a5c3a6275",
-    "War|7668e289-0adf-31a9-8248-7956f0c7216f",
     "AI|0ba58d53-8d6c-3afe-8347-5c5a7d19e525",
     "Watchlist|0ba58d53-8d6c-3afe-8347-5c5a7d19e525",
     "War|f34e66cf-c019-3f20-bd2a-3b2ed9359812",
@@ -5000,7 +4990,17 @@
     "AI|https://www.investing.com/news/insider-trading-news/semtech-evp-and-cco-jason-green-sells-526508-in-shares-93CH-4941992",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/semtech-evp-and-cco-jason-green-sells-526508-in-shares-93CH-4941992",
     "SG Banks|https://www.investing.com/news/insider-trading-news/semtech-evp-and-cco-jason-green-sells-526508-in-shares-93CH-4941992",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/semtech-evp-and-cco-jason-green-sells-526508-in-shares-93CH-4941992"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/semtech-evp-and-cco-jason-green-sells-526508-in-shares-93CH-4941992",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-the-chinese-stock-market-missing-the-ai-rally-4941998",
+    "AI|https://www.investing.com/news/insider-trading-news/vivek-jain-analog-devices-officer-sells-216m-in-shares-93CH-4942001",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-the-chinese-stock-market-missing-the-ai-rally-4941998",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/vivek-jain-analog-devices-officer-sells-216m-in-shares-93CH-4942001",
+    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-the-chinese-stock-market-missing-the-ai-rally-4941998",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/vivek-jain-analog-devices-officer-sells-216m-in-shares-93CH-4942001",
+    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-the-chinese-stock-market-missing-the-ai-rally-4941998",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/vivek-jain-analog-devices-officer-sells-216m-in-shares-93CH-4942001",
+    "AI|39702577-08fc-396c-8278-6348d4ddcc87",
+    "Watchlist|39702577-08fc-396c-8278-6348d4ddcc87"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791611634.2655299
+  "last_check": 1791612564.9418733
 }
