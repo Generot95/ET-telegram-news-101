@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/us-suspending-permanent-residency-program-formicrosoft-vance-says-4939365",
-    "AI|https://www.investing.com/news/commodities-news/hormuz-transits-at-lowest-in-over-two-months-after-attacks-data-shows-4937851",
-    "AI|https://www.investing.com/news/transcripts/cerrado-gold-at-small-cap-growth-hybrid-investor-conference-growth-plan-93CH-4939513",
-    "AI|https://www.investing.com/news/insider-trading-news/darden-restaurants-group-president-martin-sells-447565-in-stock-93CH-4939516",
-    "AI|https://www.investing.com/news/stock-market-news/revolut-ceo-wants-us-primary-listing-if-it-goes-public-bloomberg-news-reports-4939518",
-    "AI|https://www.investing.com/news/stock-market-news/jefferies-names-top-mena-tech-and-telecom-stocks-amid-fiscal-shifts-4939507",
-    "AI|https://www.investing.com/news/stock-market-news/oracle-uses-natural-gas-trucks-to-power-data-centers--report-4939522",
-    "AI|https://www.investing.com/news/company-news/newamsterdam-pharma-stock-hits-52week-low-at-2102-usd-93CH-4939509",
-    "AI|https://www.investing.com/news/company-news/hub-group-stock-hits-52week-low-at-262-usd-93CH-4939510",
-    "AI|https://www.investing.com/news/company-news/utz-brands-stock-hits-52week-high-at-1433-93CH-4939521",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/sony-credit-outlook-bumped-to-positive-at-moodys-as-a2-rating-affirmed-4939508",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/european-shares-drift-to-4month-lows-on-megadebt-swaps-and-french-debt-woes-4937936",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/oil-prices-rise-as-markets-brace-for-us-gulf-coast-supply-disruptions-4937767",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/american-airlines-to-equip-over-1000-aircraft-with-spacexs-starlink-wifi-4939512",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/us-suspending-permanent-residency-program-formicrosoft-vance-says-4939365",
     "Cybersecurity|https://www.investing.com/news/commodities-news/hormuz-transits-at-lowest-in-over-two-months-after-attacks-data-shows-4937851",
@@ -5000,7 +4987,20 @@
     "AI|https://www.investing.com/news/economy-news/european-automakers-gain-breathing-room-from-euchina-hybrid-car-deal-4942066",
     "Cybersecurity|https://www.investing.com/news/economy-news/european-automakers-gain-breathing-room-from-euchina-hybrid-car-deal-4942066",
     "SG Banks|https://www.investing.com/news/economy-news/european-automakers-gain-breathing-room-from-euchina-hybrid-car-deal-4942066",
-    "Watchlist|https://www.investing.com/news/economy-news/european-automakers-gain-breathing-room-from-euchina-hybrid-car-deal-4942066"
+    "Watchlist|https://www.investing.com/news/economy-news/european-automakers-gain-breathing-room-from-euchina-hybrid-car-deal-4942066",
+    "AI|cf106d7b-9ad5-30b7-90d5-22a613ad92b8",
+    "AI|dd739ccb-a341-3448-a02f-cceaccb5fd42",
+    "AI|27a643a6-f383-38b4-b8bd-3de24e4a5180",
+    "Crypto|9dd30928-7dad-37b4-89f7-4864b11876d6",
+    "Watchlist|cf106d7b-9ad5-30b7-90d5-22a613ad92b8",
+    "Watchlist|dd739ccb-a341-3448-a02f-cceaccb5fd42",
+    "Watchlist|27a643a6-f383-38b4-b8bd-3de24e4a5180",
+    "Iran|https://www.iranintl.com/en/202610100134",
+    "AI|e0bf6ec7-5f9e-396a-9d25-15398a91513e",
+    "Watchlist|e0bf6ec7-5f9e-396a-9d25-15398a91513e",
+    "AI|8e8ae916-889d-32e2-9755-7f7694d074c9",
+    "Watchlist|8e8ae916-889d-32e2-9755-7f7694d074c9",
+    "War|dc39dce6-5359-3972-a01f-357da74353b6"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791626281.788289
+  "last_check": 1791627184.5528455
 }
