@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/transcripts/cerrado-gold-at-small-cap-growth-hybrid-investor-conference-growth-plan-93CH-4939513",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/darden-restaurants-group-president-martin-sells-447565-in-stock-93CH-4939516",
-    "Watchlist|https://www.investing.com/news/stock-market-news/revolut-ceo-wants-us-primary-listing-if-it-goes-public-bloomberg-news-reports-4939518",
-    "War|b36604f5-fb3a-3918-8a32-c1a7b9cc5cc8",
     "War|WP-MKTW-0005276767",
     "AI|bb157681-d142-399c-9375-8564aa7d7550",
     "AI|48e9909c-34a1-40f6-b011-ee3d968a7cb6",
@@ -5000,7 +4996,11 @@
     "AI|https://www.investing.com/news/economy-news/eu-presidency-proposes-16-trillion-budget-for-20282034-4942071",
     "Cybersecurity|https://www.investing.com/news/economy-news/eu-presidency-proposes-16-trillion-budget-for-20282034-4942071",
     "SG Banks|https://www.investing.com/news/economy-news/eu-presidency-proposes-16-trillion-budget-for-20282034-4942071",
-    "Watchlist|https://www.investing.com/news/economy-news/eu-presidency-proposes-16-trillion-budget-for-20282034-4942071"
+    "Watchlist|https://www.investing.com/news/economy-news/eu-presidency-proposes-16-trillion-budget-for-20282034-4942071",
+    "War|WP-MKTW-0005274141",
+    "AI|WP-MKTW-0005274141",
+    "Cybersecurity|WP-MKTW-0005274141",
+    "War|53c626b9-85b5-3d4f-b940-394eb26201f5"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791629944.9779117
+  "last_check": 1791630865.6159492
 }
