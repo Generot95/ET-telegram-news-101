@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|96783e2b-bf37-405c-83e8-f553bf2235e8",
-    "Watchlist|1a48b7e9-231a-3fbb-bba5-34e3f5a4903f",
-    "Watchlist|aa953c04-efd3-4891-b4a4-ab8a2b9ce63c",
-    "War|WP-MKTW-0005276935",
-    "AI|WP-MKTW-0005276935",
-    "Cybersecurity|WP-MKTW-0005276935",
-    "AI|fb56ca65-2df5-39b8-8681-04d60751feb3",
-    "AI|fbed1a0e-46d4-3837-9dff-93c8be0e3262",
-    "Watchlist|fb56ca65-2df5-39b8-8681-04d60751feb3",
-    "Watchlist|fbed1a0e-46d4-3837-9dff-93c8be0e3262",
     "Watchlist|3a8f91d6-deff-3649-8851-b331fdff358a",
     "AI|https://www.investing.com/news/stock-market-news/humana-options-flow-points-to-hedging-after-a-95-sixmonth-rally-93CH-4939590",
     "AI|https://www.investing.com/news/stock-market-news/us-army-report-cites-systematic-failures-in-fatal-2025-helicopter-jet-collision-that-killed-67-4939413",
@@ -5000,7 +4990,17 @@
     "Crypto|3da005a2-4e36-33d2-89f3-20a2db7436a8",
     "Watchlist|aba1967c-ce17-31a8-89ae-d22c3f2acf41",
     "Watchlist|3da005a2-4e36-33d2-89f3-20a2db7436a8",
-    "Watchlist|30962f59-18d5-3e6e-8d67-79477930b16d"
+    "Watchlist|30962f59-18d5-3e6e-8d67-79477930b16d",
+    "AI|11c082aa-44db-323a-bc6d-6662720e82b5",
+    "Watchlist|11c082aa-44db-323a-bc6d-6662720e82b5",
+    "AI|06b3a70b-5a8d-351a-87f9-0c375ebaad8d",
+    "Crypto|2c4ebd04-6f7e-3cc2-b26a-b78f6228138b",
+    "War|https://www.investing.com/news/commodities-news/abbas-postpones-palestinian-elections-sets-presidential-poll-for-september-2027-4942138",
+    "AI|https://www.investing.com/news/commodities-news/abbas-postpones-palestinian-elections-sets-presidential-poll-for-september-2027-4942138",
+    "Crypto|8c53a37b-d687-395c-b056-ae72ff05614e",
+    "Cybersecurity|https://www.investing.com/news/commodities-news/abbas-postpones-palestinian-elections-sets-presidential-poll-for-september-2027-4942138",
+    "SG Banks|https://www.investing.com/news/commodities-news/abbas-postpones-palestinian-elections-sets-presidential-poll-for-september-2027-4942138",
+    "Watchlist|https://www.investing.com/news/commodities-news/abbas-postpones-palestinian-elections-sets-presidential-poll-for-september-2027-4942138"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791648279.445309
+  "last_check": 1791649186.078204
 }
