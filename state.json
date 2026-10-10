@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/company-news/metaguestai-appoints-mk-marsden-to-board-of-directors-93CH-4939615",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-constellation-energy-stock-sliding-today-93CH-4939616",
-    "Watchlist|https://www.investing.com/news/transcripts/lands-end-at-2026-global-consumer--retail-conference-ai-push-93CH-4939617",
-    "Watchlist|https://www.investing.com/news/stock-market-news/exclusive-moomoo-adds-247-apple-pay-google-pay-deposits-via-visa-checkoutcom-4939620",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-revolution-medicines-stock-sliding-today-93CH-4939621",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-bending-spoons-stock-sliding-today-93CH-4939622",
-    "Watchlist|https://www.investing.com/news/stock-market-news/medtronic-options-flow-points-to-volatility-bet-with-bullish-overlay-near-90-93CH-4939623",
-    "AI|5d58aa1b-312d-3f4d-a5b1-36a3d952a4bd",
-    "AI|f238b758-5e38-3823-bc5e-989f808ffa55",
-    "Crypto|5d58aa1b-312d-3f4d-a5b1-36a3d952a4bd",
-    "Watchlist|5d58aa1b-312d-3f4d-a5b1-36a3d952a4bd",
-    "Watchlist|f238b758-5e38-3823-bc5e-989f808ffa55",
     "Iran|https://www.iranintl.com/en/202610082345",
     "Crypto|4b60d822-09d9-35b0-a53e-8caa7d73f5b5",
     "SG Banks|https://www.channelnewsasia.com/business/anthropic-launches-dashboard-animation-tools-claude-6444391",
@@ -5000,7 +4988,19 @@
     "SG Banks|https://www.investing.com/news/stock-market-news/nvidia-in-talks-to-invest-further-in-reflection-ai-or-buy-it-ft-reports-4942221",
     "Watchlist|https://www.investing.com/news/stock-market-news/nvidia-in-talks-to-invest-further-in-reflection-ai-or-buy-it-ft-reports-4942221",
     "Watchlist|ecabf5eb-9d45-366b-a5fc-5fa251e5fccc",
-    "War|86943cbd-eda0-412f-a0eb-ba16560e41f4"
+    "War|86943cbd-eda0-412f-a0eb-ba16560e41f4",
+    "AI|cd61ebac-8594-3001-8fc7-5c947b5e304a",
+    "AI|a2a2ba4d-983f-3a2c-b81b-ef8d305e582a",
+    "Watchlist|a2a2ba4d-983f-3a2c-b81b-ef8d305e582a",
+    "AI|https://www.investing.com/news/earnings/caledonia-mining-earnings-beat-by-010-revenue-topped-estimates-4942229",
+    "AI|https://www.investing.com/news/stock-market-news/infosys-sees-no-material-impact-from-us-perm-suspension-4942230",
+    "Cybersecurity|https://www.investing.com/news/earnings/caledonia-mining-earnings-beat-by-010-revenue-topped-estimates-4942229",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/infosys-sees-no-material-impact-from-us-perm-suspension-4942230",
+    "SG Banks|https://www.investing.com/news/earnings/caledonia-mining-earnings-beat-by-010-revenue-topped-estimates-4942229",
+    "SG Banks|https://www.investing.com/news/stock-market-news/infosys-sees-no-material-impact-from-us-perm-suspension-4942230",
+    "Watchlist|https://www.investing.com/news/earnings/caledonia-mining-earnings-beat-by-010-revenue-topped-estimates-4942229",
+    "Watchlist|https://www.investing.com/news/stock-market-news/infosys-sees-no-material-impact-from-us-perm-suspension-4942230",
+    "Iran|https://www.iranintl.com/en/202610107057"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791662921.3550677
+  "last_check": 1791663839.6965604
 }
