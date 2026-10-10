@@ -1,23 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|74a84bae-b1dd-4fe8-b1db-f55941cc1a8e",
-    "War|b361f1db-c32b-3b1d-8f3f-7d6523484abf",
-    "War|f116cff5-a19d-31bd-a8d3-8156a6ade7cd",
-    "War|a799493f-6153-31a6-9f09-61e4ef888b69",
-    "AI|8d20648e-d704-3278-a5ac-d8a61c98598f",
-    "AI|dee4c0f3-0067-36bd-b32b-e5e034a45d61",
-    "Crypto|f116cff5-a19d-31bd-a8d3-8156a6ade7cd",
-    "Watchlist|8d20648e-d704-3278-a5ac-d8a61c98598f",
-    "Watchlist|dee4c0f3-0067-36bd-b32b-e5e034a45d61",
-    "Watchlist|25e53944-0689-3367-af36-015477970d0a",
-    "Watchlist|94cbecbd-f907-393f-a28c-298eb18f2ca3",
-    "AI|7516a690-7f06-4d1c-8647-b769fcc60f1e",
-    "AI|1213f2d7-bc4a-490e-ae31-582c1673eed2",
-    "AI|da73fa61-15a9-387f-9d75-908abf08afa2",
-    "Crypto|db28bde8-a93f-3f7f-a0f9-e403c3e247fc",
-    "Watchlist|1213f2d7-bc4a-490e-ae31-582c1673eed2",
-    "Watchlist|da73fa61-15a9-387f-9d75-908abf08afa2",
     "Watchlist|96783e2b-bf37-405c-83e8-f553bf2235e8",
     "Watchlist|1a48b7e9-231a-3fbb-bba5-34e3f5a4903f",
     "Watchlist|aa953c04-efd3-4891-b4a4-ab8a2b9ce63c",
@@ -5000,7 +4983,24 @@
     "AI|2ac8d6ff-f1d4-3816-a506-ca67243e0136",
     "AI|52408b54-0027-357e-b028-dbc46f597707",
     "Watchlist|52408b54-0027-357e-b028-dbc46f597707",
-    "Watchlist|2ac8d6ff-f1d4-3816-a506-ca67243e0136"
+    "Watchlist|2ac8d6ff-f1d4-3816-a506-ca67243e0136",
+    "AI|1cddc75c-7d98-3def-9c86-c7ac083a9a4a",
+    "Crypto|f792b8e6-489e-3ff4-8cea-654c722efbe7",
+    "AI|https://www.investing.com/news/economy-news/saudi-conferences-to-proceed-despite-deadly-riyadh-airport-attacks-reuters-report-4942133",
+    "AI|https://www.investing.com/news/insider-trading-news/908-devices-cfo-joseph-griffith-sells-65150-in-common-stock-93CH-4942136",
+    "Cybersecurity|https://www.investing.com/news/economy-news/saudi-conferences-to-proceed-despite-deadly-riyadh-airport-attacks-reuters-report-4942133",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/908-devices-cfo-joseph-griffith-sells-65150-in-common-stock-93CH-4942136",
+    "SG Banks|https://www.investing.com/news/economy-news/saudi-conferences-to-proceed-despite-deadly-riyadh-airport-attacks-reuters-report-4942133",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/908-devices-cfo-joseph-griffith-sells-65150-in-common-stock-93CH-4942136",
+    "Watchlist|https://www.investing.com/news/economy-news/saudi-conferences-to-proceed-despite-deadly-riyadh-airport-attacks-reuters-report-4942133",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/908-devices-cfo-joseph-griffith-sells-65150-in-common-stock-93CH-4942136",
+    "AI|3da005a2-4e36-33d2-89f3-20a2db7436a8",
+    "AI|30962f59-18d5-3e6e-8d67-79477930b16d",
+    "AI|aba1967c-ce17-31a8-89ae-d22c3f2acf41",
+    "Crypto|3da005a2-4e36-33d2-89f3-20a2db7436a8",
+    "Watchlist|aba1967c-ce17-31a8-89ae-d22c3f2acf41",
+    "Watchlist|3da005a2-4e36-33d2-89f3-20a2db7436a8",
+    "Watchlist|30962f59-18d5-3e6e-8d67-79477930b16d"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791647370.6506302
+  "last_check": 1791648279.445309
 }
