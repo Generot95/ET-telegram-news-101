@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|https://www.investing.com/news/commodities-news/hormuz-transits-at-lowest-in-over-two-months-after-attacks-data-shows-4937851",
-    "AI|a20ae6a7-71ba-3108-8809-839cff4042d7",
-    "AI|https://www.investing.com/news/stock-market-news/sony-credit-outlook-bumped-to-positive-at-moodys-as-a2-rating-affirmed-4939508",
-    "AI|https://www.investing.com/news/stock-market-news/european-shares-drift-to-4month-lows-on-megadebt-swaps-and-french-debt-woes-4937936",
-    "AI|https://www.investing.com/news/commodities-news/oil-prices-rise-as-markets-brace-for-us-gulf-coast-supply-disruptions-4937767",
-    "AI|https://www.investing.com/news/stock-market-news/american-airlines-to-equip-over-1000-aircraft-with-spacexs-starlink-wifi-4939512",
     "AI|https://www.investing.com/news/stock-market-news/us-suspending-permanent-residency-program-formicrosoft-vance-says-4939365",
     "AI|https://www.investing.com/news/commodities-news/hormuz-transits-at-lowest-in-over-two-months-after-attacks-data-shows-4937851",
     "AI|https://www.investing.com/news/transcripts/cerrado-gold-at-small-cap-growth-hybrid-investor-conference-growth-plan-93CH-4939513",
@@ -5000,7 +4994,13 @@
     "Cybersecurity|https://www.investing.com/news/economy-news/russian-attack-on-ukraines-zaporizhzhia-kills-seven-as-war-intensifies-4942056",
     "SG Banks|https://www.investing.com/news/economy-news/russian-attack-on-ukraines-zaporizhzhia-kills-seven-as-war-intensifies-4942056",
     "Watchlist|https://www.investing.com/news/economy-news/russian-attack-on-ukraines-zaporizhzhia-kills-seven-as-war-intensifies-4942056",
-    "Iran|https://www.iranintl.com/en/202610098400"
+    "Iran|https://www.iranintl.com/en/202610098400",
+    "AI|9f854023-90c7-379c-af3f-ddcd40b07f18",
+    "Watchlist|9f854023-90c7-379c-af3f-ddcd40b07f18",
+    "AI|https://www.investing.com/news/economy-news/european-automakers-gain-breathing-room-from-euchina-hybrid-car-deal-4942066",
+    "Cybersecurity|https://www.investing.com/news/economy-news/european-automakers-gain-breathing-room-from-euchina-hybrid-car-deal-4942066",
+    "SG Banks|https://www.investing.com/news/economy-news/european-automakers-gain-breathing-room-from-euchina-hybrid-car-deal-4942066",
+    "Watchlist|https://www.investing.com/news/economy-news/european-automakers-gain-breathing-room-from-euchina-hybrid-car-deal-4942066"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791625351.2257633
+  "last_check": 1791626281.788289
 }
