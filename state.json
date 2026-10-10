@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|3eea94e8-530e-31d7-ad99-e098ffbbdfd4",
-    "AI|1ac84dcd-9ca1-3436-b3cd-23220e447ce8",
-    "Watchlist|3eea94e8-530e-31d7-ad99-e098ffbbdfd4",
-    "Watchlist|1ac84dcd-9ca1-3436-b3cd-23220e447ce8",
-    "AI|21a12530-901b-4c73-941a-e18cbd7d80ab",
-    "Watchlist|21a12530-901b-4c73-941a-e18cbd7d80ab",
-    "War|WP-MKTW-0005276114",
-    "AI|WP-MKTW-0005276114",
-    "Cybersecurity|WP-MKTW-0005276114",
     "AI|1301d6ec-e2eb-3b7b-91b5-4532aac8fe3a",
     "AI|13389ab9-5efd-3bb8-a9a8-f7a8abb87697",
     "Watchlist|1301d6ec-e2eb-3b7b-91b5-4532aac8fe3a",
@@ -5000,7 +4991,16 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/bumble-director-sissie-hsiao-sells-6956-in-class-a-shares-93CH-4942010",
     "SG Banks|https://www.investing.com/news/cryptocurrency-news/eos-climbs-17-in-a-green-day-4942011",
     "Watchlist|https://www.investing.com/news/insider-trading-news/bumble-director-sissie-hsiao-sells-6956-in-class-a-shares-93CH-4942010",
-    "Watchlist|https://www.investing.com/news/cryptocurrency-news/eos-climbs-17-in-a-green-day-4942011"
+    "Watchlist|https://www.investing.com/news/cryptocurrency-news/eos-climbs-17-in-a-green-day-4942011",
+    "AI|https://www.investing.com/news/insider-trading-news/duolingo-president--ceo-luis-von-ahn-sells-167-million-in-stock-93CH-4942016",
+    "AI|https://www.investing.com/news/stock-market-news/european-bank-stocks-slide-8-as-bond-yields-spark-investor-caution--bloomberg-4942017",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/duolingo-president--ceo-luis-von-ahn-sells-167-million-in-stock-93CH-4942016",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/european-bank-stocks-slide-8-as-bond-yields-spark-investor-caution--bloomberg-4942017",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/duolingo-president--ceo-luis-von-ahn-sells-167-million-in-stock-93CH-4942016",
+    "SG Banks|https://www.investing.com/news/stock-market-news/european-bank-stocks-slide-8-as-bond-yields-spark-investor-caution--bloomberg-4942017",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/duolingo-president--ceo-luis-von-ahn-sells-167-million-in-stock-93CH-4942016",
+    "Watchlist|https://www.investing.com/news/stock-market-news/european-bank-stocks-slide-8-as-bond-yields-spark-investor-caution--bloomberg-4942017",
+    "SG Banks|https://www.straitstimes.com/business/india-unveils-tough-curbs-on-dollar-demand-to-defend-rupee"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791615303.2697403
+  "last_check": 1791616218.4120378
 }
