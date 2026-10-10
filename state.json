@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/american-airlines-to-equip-over-1000-aircraft-with-spacexs-starlink-wifi-4939512",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/us-suspending-permanent-residency-program-formicrosoft-vance-says-4939365",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/hormuz-transits-at-lowest-in-over-two-months-after-attacks-data-shows-4937851",
-    "Cybersecurity|https://www.investing.com/news/transcripts/cerrado-gold-at-small-cap-growth-hybrid-investor-conference-growth-plan-93CH-4939513",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/darden-restaurants-group-president-martin-sells-447565-in-stock-93CH-4939516",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/revolut-ceo-wants-us-primary-listing-if-it-goes-public-bloomberg-news-reports-4939518",
-    "Cybersecurity|https://www.investing.com/news/company-news/newamsterdam-pharma-stock-hits-52week-low-at-2102-usd-93CH-4939509",
-    "Cybersecurity|https://www.investing.com/news/company-news/hub-group-stock-hits-52week-low-at-262-usd-93CH-4939510",
     "Cybersecurity|https://www.investing.com/news/company-news/utz-brands-stock-hits-52week-high-at-1433-93CH-4939521",
     "SG Banks|https://www.investing.com/news/stock-market-news/sony-credit-outlook-bumped-to-positive-at-moodys-as-a2-rating-affirmed-4939508",
     "SG Banks|https://www.investing.com/news/stock-market-news/european-shares-drift-to-4month-lows-on-megadebt-swaps-and-french-debt-woes-4937936",
@@ -5000,7 +4992,15 @@
     "Watchlist|e0bf6ec7-5f9e-396a-9d25-15398a91513e",
     "AI|8e8ae916-889d-32e2-9755-7f7694d074c9",
     "Watchlist|8e8ae916-889d-32e2-9755-7f7694d074c9",
-    "War|dc39dce6-5359-3972-a01f-357da74353b6"
+    "War|dc39dce6-5359-3972-a01f-357da74353b6",
+    "Crypto|11b01ffe-db51-383a-8d73-8e18ec7e709f",
+    "AI|https://www.investing.com/news/economy-news/thailand-prepares-to-host-imfworld-bank-meetings-with-15000-delegates-4942067",
+    "Cybersecurity|https://www.investing.com/news/economy-news/thailand-prepares-to-host-imfworld-bank-meetings-with-15000-delegates-4942067",
+    "SG Banks|https://www.investing.com/news/economy-news/thailand-prepares-to-host-imfworld-bank-meetings-with-15000-delegates-4942067",
+    "Watchlist|https://www.investing.com/news/economy-news/thailand-prepares-to-host-imfworld-bank-meetings-with-15000-delegates-4942067",
+    "AI|68b29819-38a5-3ad7-832d-f9d105ea3c26",
+    "Watchlist|68b29819-38a5-3ad7-832d-f9d105ea3c26",
+    "AI|c432756b-66b0-32fa-9d7c-1aa319bc50e5"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791627184.5528455
+  "last_check": 1791628103.9001667
 }
