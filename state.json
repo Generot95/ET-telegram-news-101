@@ -1,7 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|304fba32-78b7-3952-bb71-6f84cf2a5505",
     "Watchlist|f5f905f3-66e0-3046-82a7-5848434b422a",
     "Watchlist|dd7aa0ea-ec8c-3fef-b41a-956e5b2fd973",
     "Watchlist|81ab7f4a-4e84-3656-a761-dccb5acbc3b6",
@@ -5000,7 +4999,8 @@
     "AI|https://www.investing.com/news/insider-trading-news/honest-company-svp-thomas-sternweis-sells-122500-in-stock-93CH-4941953",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/honest-company-svp-thomas-sternweis-sells-122500-in-stock-93CH-4941953",
     "SG Banks|https://www.investing.com/news/insider-trading-news/honest-company-svp-thomas-sternweis-sells-122500-in-stock-93CH-4941953",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/honest-company-svp-thomas-sternweis-sells-122500-in-stock-93CH-4941953"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/honest-company-svp-thomas-sternweis-sells-122500-in-stock-93CH-4941953",
+    "AI|00e696ec-c899-3cdb-ba97-7ac48319b816"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791605239.9566748
+  "last_check": 1791606134.5933964
 }
