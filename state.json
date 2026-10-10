@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/analyst-ratings/jefferies-downgrades-pacira-pharmaceuticals-stock-rating-on-viatris-deal-93CH-4939544",
-    "AI|https://www.investing.com/news/stock-market-news/revolut-ceo-says-would-prefer-us-for-primary-listing-4939545",
-    "AI|https://www.investing.com/news/economy-news/us-imposes-new-sanctions-on-iran-targeting-oil-transport-vessels-93CH-4939546",
-    "AI|https://www.investing.com/news/commodities-news/us-imposes-fresh-iranrelated-sanctions-4939527",
-    "AI|https://www.investing.com/news/economy-news/france-must-pass-prudent-2027-budget-to-calm-markets-eu-says-93CH-4939551",
-    "Cybersecurity|https://www.investing.com/news/company-news/basel-medical-group-prices-798m-public-offering-at-133unit-93CH-4939542",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/bloom-energy-shares-fall-on-report-of-oracle-using-natural-gas-for-data-centers-4939543",
     "Cybersecurity|https://www.investing.com/news/economy-news/china-has-no-need-or-intention-to-weakenyuan-for-trade-edge-central-bank-says-4938641",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/jefferies-downgrades-pacira-pharmaceuticals-stock-rating-on-viatris-deal-93CH-4939544",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/revolut-ceo-says-would-prefer-us-for-primary-listing-4939545",
@@ -5000,7 +4993,14 @@
     "AI|49928618-eb35-3548-8cfc-68ea0222725a",
     "AI|7435c2b0-63aa-3380-a81c-006f92116502",
     "Watchlist|49928618-eb35-3548-8cfc-68ea0222725a",
-    "Watchlist|7435c2b0-63aa-3380-a81c-006f92116502"
+    "Watchlist|7435c2b0-63aa-3380-a81c-006f92116502",
+    "War|WP-MKTW-0005280721",
+    "AI|WP-MKTW-0005280721",
+    "Cybersecurity|WP-MKTW-0005280721",
+    "AI|9b56cf6b-acd7-341a-b82d-ec414070e9e8",
+    "Watchlist|9b56cf6b-acd7-341a-b82d-ec414070e9e8",
+    "AI|892e997d-7292-30c1-9854-96c0f8092f12",
+    "Watchlist|892e997d-7292-30c1-9854-96c0f8092f12"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791637275.092718
+  "last_check": 1791638187.3922343
 }
