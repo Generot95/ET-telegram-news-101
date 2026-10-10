@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.channelnewsasia.com/business/trump-discloses-nvidia-stock-trades-he-prepares-honor-ceo-huang-6443421",
-    "SG Banks|https://www.channelnewsasia.com/business/coupang-files-lawsuits-over-462-million-in-south-korea-fines-over-data-breach-6443436",
-    "SG Banks|https://www.investing.com/news/economy-news/brazils-flavio-bolsonaro-vows-to-keep-pension-increases-above-inflation-rate-4939454",
-    "SG Banks|https://www.investing.com/news/economy-news/french-teens-march-for-decent-schools-despite-governments-pledge-to-act-4938931",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/central-securities-ceo-john-hill-buys-28185-in-company-stock-93CH-4939465",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/horace-mann-educators-ceo-marita-zuraitis-sells-4600-stock-93CH-4939466",
-    "SG Banks|https://www.investing.com/news/company-news/verici-dx-launches-8m-share-placing-at-02p-per-share-93CH-4939467",
-    "SG Banks|https://www.investing.com/news/stock-market-news/belgium-stocks-lower-at-close-of-trade-bel-20-down-232-4939470",
     "SG Banks|https://www.investing.com/news/company-news/novagold-q3-2026-slides-donlin-consolidation-plan-amid-rising-costs-93CH-4939471",
     "SG Banks|https://www.investing.com/news/stock-market-news/france-stocks-lower-at-close-of-trade-cac-40-down-051-4939472",
     "SG Banks|https://www.investing.com/news/stock-market-news/germany-stocks-lower-at-close-of-trade-dax-down-112-4939473",
@@ -5000,7 +4992,15 @@
     "SG Banks|https://www.investing.com/news/economy-news/china-adds-1052-million-urban-jobs-in-jansept-to-roll-out-services-jobs-policy-4941946",
     "Watchlist|https://www.investing.com/news/economy-news/us-ukraine-and-eu-officials-hold-miami-peace-talks-amid-russia-diesel-deal-4941945",
     "Watchlist|https://www.investing.com/news/economy-news/china-adds-1052-million-urban-jobs-in-jansept-to-roll-out-services-jobs-policy-4941946",
-    "Cybersecurity|WP-MKTW-0005271357"
+    "Cybersecurity|WP-MKTW-0005271357",
+    "AI|d9fbe58c-a83f-346f-bb77-6fd743564af5",
+    "Watchlist|d9fbe58c-a83f-346f-bb77-6fd743564af5",
+    "AI|https://www.investing.com/news/company-news/anthropic-ai-submits-false-murder-tip-to-philadelphia-police-4941947",
+    "Cybersecurity|https://www.investing.com/news/company-news/anthropic-ai-submits-false-murder-tip-to-philadelphia-police-4941947",
+    "SG Banks|https://www.investing.com/news/company-news/anthropic-ai-submits-false-murder-tip-to-philadelphia-police-4941947",
+    "Watchlist|https://www.investing.com/news/company-news/anthropic-ai-submits-false-murder-tip-to-philadelphia-police-4941947",
+    "AI|7f791c6b-b525-36db-af37-59f4a5aa9dc8",
+    "Watchlist|7f791c6b-b525-36db-af37-59f4a5aa9dc8"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791602488.3502605
+  "last_check": 1791603390.4251778
 }
