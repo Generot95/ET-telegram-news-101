@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Crypto|4ba6c35b-fc74-4d03-85d9-01e554f1f634",
-    "Watchlist|533b0da8-9ae8-34ff-9765-15bb30cdc271",
-    "AI|841e39c2-0b67-3da2-855e-69fdbc3cf88c",
-    "AI|c50d7df4-380d-38c9-bb59-c984ac31d530",
-    "Iran|https://www.iranintl.com/en/202610085342",
-    "AI|bb499ce5-f203-3283-9f69-d90009c6e724",
-    "Cybersecurity|86512d0e-2e54-4fce-89e4-b64b83fac0ed",
     "Watchlist|c50d7df4-380d-38c9-bb59-c984ac31d530",
     "Watchlist|31a3a261-d086-35ab-ab1f-019d2ca8b269",
     "Watchlist|86512d0e-2e54-4fce-89e4-b64b83fac0ed",
@@ -5000,7 +4993,14 @@
     "Cybersecurity|https://www.investing.com/news/stock-market-news/will-rising-french-bond-spreads-disrupt-the-rally-in-european-stocks-4942091",
     "SG Banks|https://www.investing.com/news/stock-market-news/will-rising-french-bond-spreads-disrupt-the-rally-in-european-stocks-4942091",
     "Watchlist|https://www.investing.com/news/stock-market-news/will-rising-french-bond-spreads-disrupt-the-rally-in-european-stocks-4942091",
-    "Crypto|93f1b929-ba19-34b2-9838-1f04a395c3b5"
+    "Crypto|93f1b929-ba19-34b2-9838-1f04a395c3b5",
+    "War|WP-MKTW-0005280601",
+    "AI|WP-MKTW-0005280601",
+    "Cybersecurity|WP-MKTW-0005280601",
+    "AI|a5222d3d-29af-3c8d-a929-3ae86c46c914",
+    "Watchlist|a5222d3d-29af-3c8d-a929-3ae86c46c914",
+    "Iran|https://www.iranintl.com/en/202610085342",
+    "Crypto|ea484572-5e94-3300-9433-5cf0b0bbe012"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791635436.1604843
+  "last_check": 1791636344.5144439
 }
