@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|e8221c7b-40f7-3c2e-b0a8-ea613e5e811e",
-    "Watchlist|bf82cef3-a38f-3283-8cd1-a68b06470e3d",
-    "Watchlist|bbff44dd-2ed7-3c79-ad09-e4d67ec8af3b",
-    "Watchlist|91726ee2-e45a-3865-b6e3-1ade492866fd",
-    "Watchlist|b21e3ee9-4c5b-35cc-a6b5-e406d53e6b11",
-    "Watchlist|08300879-826a-3bb4-958b-a78075abc598",
     "Watchlist|74d18c26-c8ce-4f99-aaac-26eb54460a5d",
     "Watchlist|631b92e9-d630-3853-8271-e51a12e694dc",
     "Watchlist|a64c2f0d-27a4-359b-b9db-9721d3a60fae",
@@ -5000,7 +4994,13 @@
     "AI|4a74d1eb-3bb4-3cea-b661-c2fa1b99e0e9",
     "Watchlist|4a74d1eb-3bb4-3cea-b661-c2fa1b99e0e9",
     "War|08db1ba8-356c-3315-97a7-d6b834322a84",
-    "Crypto|08db1ba8-356c-3315-97a7-d6b834322a84"
+    "Crypto|08db1ba8-356c-3315-97a7-d6b834322a84",
+    "Cybersecurity|3a8db408-e9b8-32e7-b54e-81927a8a7acc",
+    "Watchlist|3a8db408-e9b8-32e7-b54e-81927a8a7acc",
+    "AI|https://www.investing.com/news/economy-news/french-fiscal-risks-raise-chance-of-ecb-pause-after-december-4941964",
+    "Cybersecurity|https://www.investing.com/news/economy-news/french-fiscal-risks-raise-chance-of-ecb-pause-after-december-4941964",
+    "SG Banks|https://www.investing.com/news/economy-news/french-fiscal-risks-raise-chance-of-ecb-pause-after-december-4941964",
+    "Watchlist|https://www.investing.com/news/economy-news/french-fiscal-risks-raise-chance-of-ecb-pause-after-december-4941964"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791607051.8632343
+  "last_check": 1791607973.885458
 }
