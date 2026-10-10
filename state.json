@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|0ba58d53-8d6c-3afe-8347-5c5a7d19e525",
-    "Watchlist|0ba58d53-8d6c-3afe-8347-5c5a7d19e525",
-    "War|f34e66cf-c019-3f20-bd2a-3b2ed9359812",
-    "War|1873aa1c-7b3b-32c4-84d9-3d8b1924b368",
     "War|d0c340fb-4dbc-397d-8037-bed710117dfc",
     "AI|85327440-e1cb-4233-a9ed-f477a2fcf56b",
     "AI|1ec14f13-99a2-352e-b5dd-eb491b2c5534",
@@ -5000,7 +4996,11 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-the-chinese-stock-market-missing-the-ai-rally-4941998",
     "Watchlist|https://www.investing.com/news/insider-trading-news/vivek-jain-analog-devices-officer-sells-216m-in-shares-93CH-4942001",
     "AI|39702577-08fc-396c-8278-6348d4ddcc87",
-    "Watchlist|39702577-08fc-396c-8278-6348d4ddcc87"
+    "Watchlist|39702577-08fc-396c-8278-6348d4ddcc87",
+    "AI|0c89f36f-07fd-3348-8af0-b9e8c03e7f93",
+    "Watchlist|0c89f36f-07fd-3348-8af0-b9e8c03e7f93",
+    "War|93c19b54-0078-34a0-a036-3f614d7f1e9c",
+    "War|2e0ef4a2-d2da-37b3-aa6f-1227176897f8"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791612564.9418733
+  "last_check": 1791613481.2325952
 }
