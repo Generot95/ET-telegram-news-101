@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/medtronic-options-flow-points-to-volatility-bet-with-bullish-overlay-near-90-93CH-4939623",
-    "Cybersecurity|https://www.investing.com/news/company-news/metaguestai-appoints-mk-marsden-to-board-of-directors-93CH-4939615",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-constellation-energy-stock-sliding-today-93CH-4939616",
-    "Cybersecurity|https://www.investing.com/news/transcripts/lands-end-at-2026-global-consumer--retail-conference-ai-push-93CH-4939617",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/exclusive-moomoo-adds-247-apple-pay-google-pay-deposits-via-visa-checkoutcom-4939620",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-revolution-medicines-stock-sliding-today-93CH-4939621",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-bending-spoons-stock-sliding-today-93CH-4939622",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/medtronic-options-flow-points-to-volatility-bet-with-bullish-overlay-near-90-93CH-4939623",
     "SG Banks|https://www.investing.com/news/company-news/metaguestai-appoints-mk-marsden-to-board-of-directors-93CH-4939615",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-constellation-energy-stock-sliding-today-93CH-4939616",
@@ -5000,7 +4993,14 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/zymeworks-evp-adam-schayowitz-sells-357557-in-zyme-stock-for-taxes-93CH-4942216",
     "SG Banks|https://www.investing.com/news/insider-trading-news/pacira-biosciences-svp-lauren-riker-sells-217920-in-stock-93CH-4942219",
     "Watchlist|https://www.investing.com/news/insider-trading-news/zymeworks-evp-adam-schayowitz-sells-357557-in-zyme-stock-for-taxes-93CH-4942216",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/pacira-biosciences-svp-lauren-riker-sells-217920-in-stock-93CH-4942219"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/pacira-biosciences-svp-lauren-riker-sells-217920-in-stock-93CH-4942219",
+    "War|86bcfcf3-6246-4b04-8c40-1db662ef388b",
+    "War|WP-MKTW-0005276935",
+    "War|WP-MKTW-0005276352",
+    "AI|WP-MKTW-0005276935",
+    "AI|WP-MKTW-0005276352",
+    "Cybersecurity|WP-MKTW-0005276935",
+    "Cybersecurity|WP-MKTW-0005276352"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791661100.5545325
+  "last_check": 1791662012.8024015
 }
