@@ -1,7 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|bbff44dd-2ed7-3c79-ad09-e4d67ec8af3b",
     "AI|91726ee2-e45a-3865-b6e3-1ade492866fd",
     "AI|b21e3ee9-4c5b-35cc-a6b5-e406d53e6b11",
     "AI|08300879-826a-3bb4-958b-a78075abc598",
@@ -5000,7 +4999,8 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/cerence-cfo-antonio-rodriguez-sells-612912-in-company-stock-93CH-4941892",
     "Watchlist|https://www.investing.com/news/insider-trading-news/marvell-technology-svp-justin-scarpulla-sells-300949-in-stock-93CH-4941893",
     "Watchlist|https://www.investing.com/news/economy-news/trump-reaches-russian-diesel-supply-deal-as-us-fuel-prices-surge-4941896",
-    "War|WP-MKTW-0005271357"
+    "War|WP-MKTW-0005271357",
+    "War|7f15a5e5-a788-3e01-bf01-8d2015646a8a"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791593321.6930237
+  "last_check": 1791594238.849552
 }
