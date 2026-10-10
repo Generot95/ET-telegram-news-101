@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/wah-fu-education-completes-name-change-to-add-technology-93CH-4939455",
-    "Cybersecurity|https://www.investing.com/news/company-news/wah-fu-education-changes-name-to-add-technology-to-title-93CH-4939456",
-    "Cybersecurity|https://www.investing.com/news/company-news/first-majestic-reports-q3-2026-production-results-announces-q3-conference-call-details-and-renewal-of-share-repurchase-program-4939464",
-    "Cybersecurity|WP-MKTW-0005276170",
-    "Cybersecurity|WP-MKTW-0005276352",
-    "Cybersecurity|WP-MKTW-0005271357",
-    "SG Banks|https://www.channelnewsasia.com/business/dollar-dips-european-yields-pull-back-highs-6441166",
-    "SG Banks|https://www.channelnewsasia.com/business/us-suspends-microsoft-major-it-firms-key-green-card-program-6443266",
-    "SG Banks|https://www.channelnewsasia.com/business/google-cloud-introduces-gemini-agent-work-ai-race-heats-up-6443411",
     "SG Banks|https://www.channelnewsasia.com/business/trump-discloses-nvidia-stock-trades-he-prepares-honor-ceo-huang-6443421",
     "SG Banks|https://www.channelnewsasia.com/business/coupang-files-lawsuits-over-462-million-in-south-korea-fines-over-data-breach-6443436",
     "SG Banks|https://www.investing.com/news/economy-news/brazils-flavio-bolsonaro-vows-to-keep-pension-increases-above-inflation-rate-4939454",
@@ -5000,7 +4991,16 @@
     "AI|83157757-5104-352d-a1e8-6641fae854d4",
     "Watchlist|83157757-5104-352d-a1e8-6641fae854d4",
     "SG Banks|/international/trump-says-putin-supply-us-diesel-ahead-november-midterms",
-    "Watchlist|/international/trump-says-putin-supply-us-diesel-ahead-november-midterms"
+    "Watchlist|/international/trump-says-putin-supply-us-diesel-ahead-november-midterms",
+    "AI|https://www.investing.com/news/economy-news/us-ukraine-and-eu-officials-hold-miami-peace-talks-amid-russia-diesel-deal-4941945",
+    "AI|https://www.investing.com/news/economy-news/china-adds-1052-million-urban-jobs-in-jansept-to-roll-out-services-jobs-policy-4941946",
+    "Cybersecurity|https://www.investing.com/news/economy-news/us-ukraine-and-eu-officials-hold-miami-peace-talks-amid-russia-diesel-deal-4941945",
+    "Cybersecurity|https://www.investing.com/news/economy-news/china-adds-1052-million-urban-jobs-in-jansept-to-roll-out-services-jobs-policy-4941946",
+    "SG Banks|https://www.investing.com/news/economy-news/us-ukraine-and-eu-officials-hold-miami-peace-talks-amid-russia-diesel-deal-4941945",
+    "SG Banks|https://www.investing.com/news/economy-news/china-adds-1052-million-urban-jobs-in-jansept-to-roll-out-services-jobs-policy-4941946",
+    "Watchlist|https://www.investing.com/news/economy-news/us-ukraine-and-eu-officials-hold-miami-peace-talks-amid-russia-diesel-deal-4941945",
+    "Watchlist|https://www.investing.com/news/economy-news/china-adds-1052-million-urban-jobs-in-jansept-to-roll-out-services-jobs-policy-4941946",
+    "Cybersecurity|WP-MKTW-0005271357"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791601562.18741
+  "last_check": 1791602488.3502605
 }
