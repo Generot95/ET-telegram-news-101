@@ -1,24 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|WP-MKTW-0005276170",
-    "War|WP-MKTW-0005276352",
-    "War|WP-MKTW-0005271357",
-    "War|5d09e002-3498-4134-9871-542a534f9b17",
-    "AI|0f4b21ef-02bd-3e9b-ace0-ebfb929ac71c",
-    "AI|7fded60f-6a50-3c27-99e7-a8044a22dd80",
-    "AI|a63cb492-4a41-34a0-8ea1-154a81dcbf20",
-    "AI|0cc98b8c-a15c-34b7-a4b0-84bacb824ace",
-    "AI|304fba32-78b7-3952-bb71-6f84cf2a5505",
-    "AI|81ab7f4a-4e84-3656-a761-dccb5acbc3b6",
-    "AI|3b18bfb2-b7ee-3714-8501-d9038f1b5761",
-    "AI|db551a66-c906-347e-9b83-6533e54c985b",
-    "AI|92a1ce4a-70fd-3171-b49d-27f7c1867507",
-    "AI|db1b7f18-1c7b-3362-b869-0959d19801ca",
-    "AI|bd4a3df1-c989-30ec-9cff-341a70e56c62",
-    "AI|c262af91-a54c-3dba-889b-089cdaccb70b",
-    "AI|e8221c7b-40f7-3c2e-b0a8-ea613e5e811e",
-    "AI|bf82cef3-a38f-3283-8cd1-a68b06470e3d",
     "AI|bbff44dd-2ed7-3c79-ad09-e4d67ec8af3b",
     "AI|91726ee2-e45a-3865-b6e3-1ade492866fd",
     "AI|b21e3ee9-4c5b-35cc-a6b5-e406d53e6b11",
@@ -5000,7 +4982,25 @@
     "Watchlist|WP-MKTW-0003853114",
     "Watchlist|WP-MKTW-0003853112",
     "Watchlist|WP-MKTW-0004179843",
-    "Watchlist|WP-MKTW-0004255367"
+    "Watchlist|WP-MKTW-0004255367",
+    "SG Banks|https://www.channelnewsasia.com/business/anthropic-discloses-fake-tip-police-among-new-rogue-ai-incidents-6447846",
+    "AI|https://www.investing.com/news/company-news/purebread-brands-to-acquire-caffe-artigiano-for-77m-93CH-4941886",
+    "AI|https://www.investing.com/news/insider-trading-news/cerence-cfo-antonio-rodriguez-sells-612912-in-company-stock-93CH-4941892",
+    "AI|https://www.investing.com/news/insider-trading-news/marvell-technology-svp-justin-scarpulla-sells-300949-in-stock-93CH-4941893",
+    "AI|https://www.investing.com/news/economy-news/trump-reaches-russian-diesel-supply-deal-as-us-fuel-prices-surge-4941896",
+    "Cybersecurity|https://www.investing.com/news/company-news/purebread-brands-to-acquire-caffe-artigiano-for-77m-93CH-4941886",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/cerence-cfo-antonio-rodriguez-sells-612912-in-company-stock-93CH-4941892",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/marvell-technology-svp-justin-scarpulla-sells-300949-in-stock-93CH-4941893",
+    "Cybersecurity|https://www.investing.com/news/economy-news/trump-reaches-russian-diesel-supply-deal-as-us-fuel-prices-surge-4941896",
+    "SG Banks|https://www.investing.com/news/company-news/purebread-brands-to-acquire-caffe-artigiano-for-77m-93CH-4941886",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/cerence-cfo-antonio-rodriguez-sells-612912-in-company-stock-93CH-4941892",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/marvell-technology-svp-justin-scarpulla-sells-300949-in-stock-93CH-4941893",
+    "SG Banks|https://www.investing.com/news/economy-news/trump-reaches-russian-diesel-supply-deal-as-us-fuel-prices-surge-4941896",
+    "Watchlist|https://www.investing.com/news/company-news/purebread-brands-to-acquire-caffe-artigiano-for-77m-93CH-4941886",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/cerence-cfo-antonio-rodriguez-sells-612912-in-company-stock-93CH-4941892",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/marvell-technology-svp-justin-scarpulla-sells-300949-in-stock-93CH-4941893",
+    "Watchlist|https://www.investing.com/news/economy-news/trump-reaches-russian-diesel-supply-deal-as-us-fuel-prices-surge-4941896",
+    "War|WP-MKTW-0005271357"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791592417.061359
+  "last_check": 1791593321.6930237
 }
