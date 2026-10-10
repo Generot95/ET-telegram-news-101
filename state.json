@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/commodities-news/trump-us-having-productive-talks-with-iran-will-not-attack-before-us-elections-in-november-4939501",
-    "Watchlist|https://www.investing.com/news/stock-market-news/kennedy-offers-federal-support-to-new-york-over-measles-outbreak-4937489",
-    "Watchlist|https://www.investing.com/news/stock-market-news/european-shares-dip-as-banks-hit-over-3month-low-oil-prices-weigh-4938033",
-    "Watchlist|https://www.investing.com/news/stock-market-news/drones-hit-yandex-data-centre-in-first-major-attack-on-russian-data-hub-4937966",
-    "Watchlist|https://www.investing.com/news/economy-news/us-bonds-fall-lifting-yields-for-2nd-day-as-oil-weighs-30year-auction-looms-4939491",
-    "Watchlist|https://www.investing.com/news/company-news/millrose-properties-stock-hits-52week-low-at-2184-usd-93CH-4939506",
-    "AI|da18875d-737d-32be-b887-1b27745ee0b2",
-    "Watchlist|b3478660-885d-37b8-b14d-b43fc536f3a5",
     "Watchlist|da18875d-737d-32be-b887-1b27745ee0b2",
     "AI|0c71b635-1d5f-3447-8388-f2deb4fcad9c",
     "AI|e38c0c72-c3ed-3e22-b6e1-85a0ba43c649",
@@ -5000,7 +4992,15 @@
     "Watchlist|https://www.investing.com/news/earnings/anaptysbio-earnings-beat-by-558-revenue-topped-estimates-4942047",
     "Watchlist|fc8561f1-84b7-3e7e-bacd-3a6cb9f27351",
     "AI|46a1f2d8-2375-34b9-ab75-f7503aa9e42a",
-    "Watchlist|46a1f2d8-2375-34b9-ab75-f7503aa9e42a"
+    "Watchlist|46a1f2d8-2375-34b9-ab75-f7503aa9e42a",
+    "War|2ad11eea-cded-3aac-b480-905b1ad7f2b9",
+    "AI|https://www.investing.com/news/company-news/venezuela-authorises-elon-musks-starlink-to-operate-nationwide-4942048",
+    "Cybersecurity|https://www.investing.com/news/company-news/venezuela-authorises-elon-musks-starlink-to-operate-nationwide-4942048",
+    "SG Banks|https://www.investing.com/news/company-news/venezuela-authorises-elon-musks-starlink-to-operate-nationwide-4942048",
+    "Watchlist|https://www.investing.com/news/company-news/venezuela-authorises-elon-musks-starlink-to-operate-nationwide-4942048",
+    "AI|95ed943a-aee1-3b2c-adcb-eeb8131ed958",
+    "Watchlist|95ed943a-aee1-3b2c-adcb-eeb8131ed958",
+    "Watchlist|a4cd76c1-6da8-318a-84ce-2394edd56470"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791621705.3388906
+  "last_check": 1791622639.935931
 }
