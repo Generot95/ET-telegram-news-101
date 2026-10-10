@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|a63d009d-904b-3cbd-87aa-6e8d4efda08e",
-    "AI|5011a29c-1d3b-3b42-863b-47b72ae23617",
-    "Watchlist|5011a29c-1d3b-3b42-863b-47b72ae23617",
-    "Cybersecurity|7191eead-2fba-3828-94a6-d75178873aa1",
-    "War|https://www.investing.com/news/commodities-news/us-imposes-fresh-iranrelated-sanctions-4939527",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-volution-group-posts-strong-fy-2026-shares-steady-in-h2-2026-93CH-4939531",
     "AI|https://www.investing.com/news/stock-market-news/airbus-confirms-72-jet-deliveries-in-september-4939532",
     "AI|https://www.investing.com/news/company-news/nuscale-power-corp-stock-hits-52week-low-at-721-93CH-4939533",
     "AI|https://www.investing.com/news/economy-news/iran-says-it-will-not-abandon-uranium-enrichment-program-4939534",
@@ -5000,7 +4994,13 @@
     "AI|2d5d07b7-b8d9-3fa2-af7e-1edb998039ef",
     "AI|01e5e4a1-fcdb-3238-88a0-4aa614b5a1f6",
     "Watchlist|2d5d07b7-b8d9-3fa2-af7e-1edb998039ef",
-    "Watchlist|01e5e4a1-fcdb-3238-88a0-4aa614b5a1f6"
+    "Watchlist|01e5e4a1-fcdb-3238-88a0-4aa614b5a1f6",
+    "AI|b9c76026-32d7-33b5-b980-be04ddba3ced",
+    "AI|f68f4456-07f1-3d1e-8d9b-b1173ea864a2",
+    "Watchlist|f68f4456-07f1-3d1e-8d9b-b1173ea864a2",
+    "AI|bbc023d3-261b-32e5-8ea6-cd7b93245929",
+    "Watchlist|bbc023d3-261b-32e5-8ea6-cd7b93245929",
+    "Crypto|be6e06d6-2cc0-336f-843f-296efefb890c"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791631778.3504016
+  "last_check": 1791632688.3199604
 }
