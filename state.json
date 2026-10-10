@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Crypto|7b300456-900c-31a7-a655-edbf2f7f2771",
-    "Crypto|2585f055-8c19-3628-b9b0-52a81265de75",
-    "War|2585f055-8c19-3628-b9b0-52a81265de75",
     "AI|5506205c-68e7-3068-bbcd-3c9b634516be",
     "AI|79b819f4-dd5c-399e-ac03-fad538518678",
     "AI|c5ee436d-dc87-3073-869a-1e348d6114c4",
@@ -5000,7 +4997,10 @@
     "AI|5481b66f-0859-37f9-b73c-10b9dd2c9fbf",
     "AI|885eaeb5-596d-3e57-9f7a-9ebab272495f",
     "Watchlist|885eaeb5-596d-3e57-9f7a-9ebab272495f",
-    "Watchlist|3d158e76-ffb1-368f-bad4-4792f7b3a311"
+    "Watchlist|3d158e76-ffb1-368f-bad4-4792f7b3a311",
+    "AI|d2116064-989d-3ff1-8da5-8b9c678cb600",
+    "Watchlist|d2116064-989d-3ff1-8da5-8b9c678cb600",
+    "Crypto|9d26774a-3f42-377c-b4ef-49eb8eb87223"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791640022.8802204
+  "last_check": 1791640948.589264
 }
