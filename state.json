@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|da18875d-737d-32be-b887-1b27745ee0b2",
-    "AI|0c71b635-1d5f-3447-8388-f2deb4fcad9c",
-    "AI|e38c0c72-c3ed-3e22-b6e1-85a0ba43c649",
-    "Watchlist|e38c0c72-c3ed-3e22-b6e1-85a0ba43c649",
-    "Watchlist|0c71b635-1d5f-3447-8388-f2deb4fcad9c",
-    "SG Banks|https://www.channelnewsasia.com/business/us-freezes-microsoft-adobe-infosys-green-card-applications-over-alleged-fraud-6443266",
     "Watchlist|d363ae4b-85a9-31a3-b0b6-c20995498cf9",
     "War|170ccda9-4607-34d5-8795-6de3fff9ebfe",
     "War|e9b9d018-5593-39de-815b-1bbfd7d3ac1e",
@@ -5000,7 +4994,13 @@
     "Watchlist|https://www.investing.com/news/company-news/venezuela-authorises-elon-musks-starlink-to-operate-nationwide-4942048",
     "AI|95ed943a-aee1-3b2c-adcb-eeb8131ed958",
     "Watchlist|95ed943a-aee1-3b2c-adcb-eeb8131ed958",
-    "Watchlist|a4cd76c1-6da8-318a-84ce-2394edd56470"
+    "Watchlist|a4cd76c1-6da8-318a-84ce-2394edd56470",
+    "AI|157e74e6-7e08-33cb-aa71-18e7c4326e1d",
+    "Watchlist|157e74e6-7e08-33cb-aa71-18e7c4326e1d",
+    "AI|https://www.investing.com/news/economy-news/thailand-prepares-to-host-imfworld-bank-meetings-4942052",
+    "Cybersecurity|https://www.investing.com/news/economy-news/thailand-prepares-to-host-imfworld-bank-meetings-4942052",
+    "SG Banks|https://www.investing.com/news/economy-news/thailand-prepares-to-host-imfworld-bank-meetings-4942052",
+    "Watchlist|https://www.investing.com/news/economy-news/thailand-prepares-to-host-imfworld-bank-meetings-4942052"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791622639.935931
+  "last_check": 1791623539.2860448
 }
