@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/east-asian-tech-stocks-where-the-discounts-are-in-japan-korea-taiwan-and-china-93CH-4939565",
-    "Watchlist|https://www.investing.com/news/economy-news/hurricane-isaias-forces-gulf-oil-and-gas-production-shutdowns-93CH-4939566",
-    "Watchlist|https://www.investing.com/news/company-news/rga-stock-hits-alltime-high-at-25831-usd-93CH-4939569",
-    "Watchlist|https://www.investing.com/news/stock-market-news/hurricane-isaias-strengthens-as-us-gulf-coast-prepares-for-landfall-4939570",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/ionq-stock-advances-to-darpa-final-quantum-benchmarking-phase-93CH-4939571",
-    "Watchlist|https://www.investing.com/news/stock-market-news/apple-names-veteran-steve-smith-as-new-ma-chief-4939572",
-    "Watchlist|https://www.investing.com/news/company-news/rpm-increases-quarterly-dividend-56-to-057-per-share-93CH-4939577",
     "Watchlist|https://www.investing.com/news/company-news/applied-energetics-advances-ultrashortpulse-laser-technology-93CH-4939578",
     "Watchlist|https://www.investing.com/news/economy-news/us-suspends-microsoft-adobe-others-from-green-card-program-cites-abuse-4939382",
     "AI|dcca6a38-2346-31c1-95ec-891cab9d6e0c",
@@ -5000,7 +4993,14 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/saba-capital-management-acquires-210049-in-ellsworth-growth--income-fund-93CH-4942125",
     "Watchlist|2cad91b8-a08e-3eb7-8cd0-66c19a5a03f9",
     "Watchlist|https://www.investing.com/news/insider-trading-news/saba-capital-management-acquires-210049-in-ellsworth-growth--income-fund-93CH-4942125",
-    "Watchlist|214a7440-8031-3723-a63e-4617706caed9"
+    "Watchlist|214a7440-8031-3723-a63e-4617706caed9",
+    "War|a30443ad-9a93-4bdc-be04-71ebfe25f646",
+    "AI|f317554d-fa1c-349d-a4b4-b410cb3b13df",
+    "AI|df2e844f-578a-3928-bf1c-ce89a7926ad5",
+    "Watchlist|f317554d-fa1c-349d-a4b4-b410cb3b13df",
+    "Watchlist|df2e844f-578a-3928-bf1c-ce89a7926ad5",
+    "AI|280fde21-435a-353b-a6a8-9ca8f3e3164b",
+    "Watchlist|280fde21-435a-353b-a6a8-9ca8f3e3164b"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791645542.709376
+  "last_check": 1791646441.4383965
 }
