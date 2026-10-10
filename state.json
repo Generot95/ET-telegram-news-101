@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|d0c340fb-4dbc-397d-8037-bed710117dfc",
-    "AI|85327440-e1cb-4233-a9ed-f477a2fcf56b",
-    "AI|1ec14f13-99a2-352e-b5dd-eb491b2c5534",
-    "AI|b517e0c7-1d82-3954-9644-cd6b06b0edba",
-    "Crypto|1873aa1c-7b3b-32c4-84d9-3d8b1924b368",
-    "Watchlist|85327440-e1cb-4233-a9ed-f477a2fcf56b",
-    "Watchlist|1ec14f13-99a2-352e-b5dd-eb491b2c5534",
-    "Watchlist|3c7ca84d-fbc0-3ec4-9b04-e57354f6a88c",
-    "SG Banks|https://www.channelnewsasia.com/business/russias-yandex-says-unclear-whether-data-centre-can-be-restored-after-drone-strike-6443541",
     "AI|3eea94e8-530e-31d7-ad99-e098ffbbdfd4",
     "AI|1ac84dcd-9ca1-3436-b3cd-23220e447ce8",
     "Watchlist|3eea94e8-530e-31d7-ad99-e098ffbbdfd4",
@@ -5000,7 +4991,16 @@
     "AI|0c89f36f-07fd-3348-8af0-b9e8c03e7f93",
     "Watchlist|0c89f36f-07fd-3348-8af0-b9e8c03e7f93",
     "War|93c19b54-0078-34a0-a036-3f614d7f1e9c",
-    "War|2e0ef4a2-d2da-37b3-aa6f-1227176897f8"
+    "War|2e0ef4a2-d2da-37b3-aa6f-1227176897f8",
+    "AI|https://www.investing.com/news/insider-trading-news/bumble-director-sissie-hsiao-sells-6956-in-class-a-shares-93CH-4942010",
+    "AI|https://www.investing.com/news/cryptocurrency-news/eos-climbs-17-in-a-green-day-4942011",
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/eos-climbs-17-in-a-green-day-4942011",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/bumble-director-sissie-hsiao-sells-6956-in-class-a-shares-93CH-4942010",
+    "Cybersecurity|https://www.investing.com/news/cryptocurrency-news/eos-climbs-17-in-a-green-day-4942011",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/bumble-director-sissie-hsiao-sells-6956-in-class-a-shares-93CH-4942010",
+    "SG Banks|https://www.investing.com/news/cryptocurrency-news/eos-climbs-17-in-a-green-day-4942011",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/bumble-director-sissie-hsiao-sells-6956-in-class-a-shares-93CH-4942010",
+    "Watchlist|https://www.investing.com/news/cryptocurrency-news/eos-climbs-17-in-a-green-day-4942011"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791613481.2325952
+  "last_check": 1791614377.7219956
 }
