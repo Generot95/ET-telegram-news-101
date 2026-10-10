@@ -1,7 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/forex-news/canadian-dollar-gains-as-oil-rally-narrower-yield-gap-support-loonie-4939654",
     "SG Banks|https://www.investing.com/news/stock-market-news/canada-bond-yields-edge-higher-as-investors-assess-rate-outlook-4939655",
     "SG Banks|https://www.investing.com/news/transcripts/nano-nuclear-energy-at-td-nuclear-roundtable-licensing-path-firms-93CH-4939656",
     "SG Banks|https://www.investing.com/news/insider-trading-news/michael-oconnor-sells-94375-of-rainmaker-worldwide-stock-93CH-4939659",
@@ -5000,7 +4999,8 @@
     "Watchlist|https://www.investing.com/news/company-news/mercks-remigromig-meets-noninferiority-goal-in-dme-trial-93CH-4942282",
     "AI|457415ae-9e06-3301-abbf-81d3a7c4cbc3",
     "Watchlist|457415ae-9e06-3301-abbf-81d3a7c4cbc3",
-    "Crypto|a093038b-d28a-32ca-91b2-a0922bb1311e"
+    "Crypto|a093038b-d28a-32ca-91b2-a0922bb1311e",
+    "Crypto|291e686b-068e-39fa-adaa-b9ad06a66168"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791672086.7860067
+  "last_check": 1791672999.1429532
 }
