@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/economy-news/hurricane-isaias-forces-gulf-oil-and-gas-production-shutdowns-93CH-4939566",
-    "Cybersecurity|https://www.investing.com/news/company-news/rga-stock-hits-alltime-high-at-25831-usd-93CH-4939569",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/hurricane-isaias-strengthens-as-us-gulf-coast-prepares-for-landfall-4939570",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/ionq-stock-advances-to-darpa-final-quantum-benchmarking-phase-93CH-4939571",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/apple-names-veteran-steve-smith-as-new-ma-chief-4939572",
-    "Cybersecurity|https://www.investing.com/news/company-news/rpm-increases-quarterly-dividend-56-to-057-per-share-93CH-4939577",
-    "Cybersecurity|https://www.investing.com/news/company-news/applied-energetics-advances-ultrashortpulse-laser-technology-93CH-4939578",
-    "Cybersecurity|https://www.investing.com/news/economy-news/us-suspends-microsoft-adobe-others-from-green-card-program-cites-abuse-4939382",
-    "Cybersecurity|https://www.investing.com/news/company-news/everquote-publishes-white-paper-on-ai-agents-in-insurance-93CH-4939560",
-    "SG Banks|https://www.investing.com/news/stock-market-news/east-asian-tech-stocks-where-the-discounts-are-in-japan-korea-taiwan-and-china-93CH-4939565",
     "SG Banks|https://www.investing.com/news/economy-news/hurricane-isaias-forces-gulf-oil-and-gas-production-shutdowns-93CH-4939566",
     "SG Banks|https://www.investing.com/news/company-news/rga-stock-hits-alltime-high-at-25831-usd-93CH-4939569",
     "SG Banks|https://www.investing.com/news/stock-market-news/hurricane-isaias-strengthens-as-us-gulf-coast-prepares-for-landfall-4939570",
@@ -5000,7 +4990,17 @@
     "Watchlist|16395994-c83c-3d4f-9e95-6aa4660d0673",
     "Watchlist|https://www.investing.com/news/insider-trading-news/saba-capital-management-sells-355376-in-blackrock-esg-trust-93CH-4942119",
     "AI|fccfe04d-28df-3a04-95a3-2e906b05b920",
-    "Watchlist|fccfe04d-28df-3a04-95a3-2e906b05b920"
+    "Watchlist|fccfe04d-28df-3a04-95a3-2e906b05b920",
+    "AI|aec39783-dd25-3e41-b86d-d7eebac91e49",
+    "Watchlist|aec39783-dd25-3e41-b86d-d7eebac91e49",
+    "AI|b4a18e66-9724-34dc-99be-b5b32bb91adc",
+    "AI|https://www.investing.com/news/stock-market-news/consumer-ai-agents-could-upend-online-shopping--but-who-really-wins-4942121",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/consumer-ai-agents-could-upend-online-shopping--but-who-really-wins-4942121",
+    "SG Banks|https://www.investing.com/news/stock-market-news/consumer-ai-agents-could-upend-online-shopping--but-who-really-wins-4942121",
+    "Watchlist|https://www.investing.com/news/stock-market-news/consumer-ai-agents-could-upend-online-shopping--but-who-really-wins-4942121",
+    "SG Banks|3c3a0379-fa24-3114-9bc0-3e116101f0ee",
+    "Watchlist|f8104216-57a3-3bd1-a734-0df8a24b4b1c",
+    "AI|f8104216-57a3-3bd1-a734-0df8a24b4b1c"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791643693.7812464
+  "last_check": 1791644619.666852
 }
