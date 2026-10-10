@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/sony-credit-outlook-bumped-to-positive-at-moodys-as-a2-rating-affirmed-4939508",
-    "Watchlist|https://www.investing.com/news/stock-market-news/european-shares-drift-to-4month-lows-on-megadebt-swaps-and-french-debt-woes-4937936",
-    "Watchlist|https://www.investing.com/news/commodities-news/oil-prices-rise-as-markets-brace-for-us-gulf-coast-supply-disruptions-4937767",
-    "Watchlist|https://www.investing.com/news/stock-market-news/american-airlines-to-equip-over-1000-aircraft-with-spacexs-starlink-wifi-4939512",
-    "Watchlist|https://www.investing.com/news/stock-market-news/us-suspending-permanent-residency-program-formicrosoft-vance-says-4939365",
-    "Watchlist|https://www.investing.com/news/commodities-news/hormuz-transits-at-lowest-in-over-two-months-after-attacks-data-shows-4937851",
     "Watchlist|https://www.investing.com/news/transcripts/cerrado-gold-at-small-cap-growth-hybrid-investor-conference-growth-plan-93CH-4939513",
     "Watchlist|https://www.investing.com/news/insider-trading-news/darden-restaurants-group-president-martin-sells-447565-in-stock-93CH-4939516",
     "Watchlist|https://www.investing.com/news/stock-market-news/revolut-ceo-wants-us-primary-listing-if-it-goes-public-bloomberg-news-reports-4939518",
@@ -5000,7 +4994,13 @@
     "AI|875dcb1e-f28d-3a99-a5ed-c65fe151edad",
     "AI|8d73beac-412f-3514-be29-d2c997fcee6a",
     "Watchlist|8d73beac-412f-3514-be29-d2c997fcee6a",
-    "Watchlist|875dcb1e-f28d-3a99-a5ed-c65fe151edad"
+    "Watchlist|875dcb1e-f28d-3a99-a5ed-c65fe151edad",
+    "AI|980c00ef-cc95-3c67-be17-e5119fb814c5",
+    "Watchlist|980c00ef-cc95-3c67-be17-e5119fb814c5",
+    "AI|https://www.investing.com/news/economy-news/eu-presidency-proposes-16-trillion-budget-for-20282034-4942071",
+    "Cybersecurity|https://www.investing.com/news/economy-news/eu-presidency-proposes-16-trillion-budget-for-20282034-4942071",
+    "SG Banks|https://www.investing.com/news/economy-news/eu-presidency-proposes-16-trillion-budget-for-20282034-4942071",
+    "Watchlist|https://www.investing.com/news/economy-news/eu-presidency-proposes-16-trillion-budget-for-20282034-4942071"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791629042.6600058
+  "last_check": 1791629944.9779117
 }
