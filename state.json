@@ -1,22 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|f650bd21-dd60-40e4-b283-ddcf3efbe822",
-    "Watchlist|8239235b-3def-3a90-a2ed-81f7f7133117",
-    "Watchlist|5f2e2c07-82c7-32d9-87dc-ab6d51eb54c0",
-    "AI|8239235b-3def-3a90-a2ed-81f7f7133117",
-    "War|1b63c161-cf7f-3513-8dc0-b8fb3fe67a60",
-    "War|2e4fe07e-ebb4-3d2a-8a5c-9edff6cb8015",
-    "War|https://www.investing.com/news/commodities-news/trump-says-comment-that-iran-could-take-out-los-angeles-was-misinterpreted-4939671",
-    "AI|https://www.investing.com/news/company-news/mid-penn-bank-names-christopher-nestore-as-chief-risk-officer-93CH-4939664",
-    "AI|https://www.investing.com/news/company-news/cme-group-to-launch-baseball-futures-contracts-on-october-12-93CH-4939665",
-    "AI|https://www.investing.com/news/economy-news/brazil-finance-minister-calls-bolsonaro-trade-a-hollow-illusion-4939666",
-    "AI|https://www.investing.com/news/company-news/dht-holdings-stock-hits-52week-high-at-2498-usd-93CH-4939667",
-    "AI|https://www.investing.com/news/commodities-news/trump-says-comment-that-iran-could-take-out-los-angeles-was-misinterpreted-4939671",
-    "AI|https://www.investing.com/news/stock-market-news/lawmakers-raise-alarm-at-google-plan-to-acquire-spirit-airlines-data-for-ai-models-4939672",
-    "Cybersecurity|https://www.investing.com/news/company-news/mid-penn-bank-names-christopher-nestore-as-chief-risk-officer-93CH-4939664",
-    "Cybersecurity|https://www.investing.com/news/company-news/cme-group-to-launch-baseball-futures-contracts-on-october-12-93CH-4939665",
-    "Cybersecurity|https://www.investing.com/news/economy-news/brazil-finance-minister-calls-bolsonaro-trade-a-hollow-illusion-4939666",
     "Cybersecurity|https://www.investing.com/news/company-news/dht-holdings-stock-hits-52week-high-at-2498-usd-93CH-4939667",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/apple-names-insider-steve-smith-as-new-ma-chief-memo-shows-4939661",
     "Cybersecurity|https://www.investing.com/news/commodities-news/trump-says-comment-that-iran-could-take-out-los-angeles-was-misinterpreted-4939671",
@@ -5000,7 +4984,23 @@
     "AI|3121ec96-d7fc-387c-b106-8536aa2d94df",
     "AI|WP-MKTW-0005275323",
     "Watchlist|3121ec96-d7fc-387c-b106-8536aa2d94df",
-    "Cybersecurity|WP-MKTW-0005275323"
+    "Cybersecurity|WP-MKTW-0005275323",
+    "AI|https://www.investing.com/news/company-news/nvidia-in-talks-to-acquire-reflection-ai-or-increase-investment-ft-reports-4942324",
+    "AI|https://www.investing.com/news/insider-trading-news/robinhood-chief-legal-officer-sells-114m-in-hood-stock-93CH-4942326",
+    "AI|https://www.investing.com/news/insider-trading-news/united-therapeutics-ceo-martine-rothblatt-sells-51m-in-shares-93CH-4942327",
+    "AI|https://www.investing.com/news/insider-trading-news/verisign-exec-chairman-pres--ceo-bidzos-sells-964k-in-stock-93CH-4942328",
+    "Cybersecurity|https://www.investing.com/news/company-news/nvidia-in-talks-to-acquire-reflection-ai-or-increase-investment-ft-reports-4942324",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/robinhood-chief-legal-officer-sells-114m-in-hood-stock-93CH-4942326",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/united-therapeutics-ceo-martine-rothblatt-sells-51m-in-shares-93CH-4942327",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/verisign-exec-chairman-pres--ceo-bidzos-sells-964k-in-stock-93CH-4942328",
+    "SG Banks|https://www.investing.com/news/company-news/nvidia-in-talks-to-acquire-reflection-ai-or-increase-investment-ft-reports-4942324",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/robinhood-chief-legal-officer-sells-114m-in-hood-stock-93CH-4942326",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/united-therapeutics-ceo-martine-rothblatt-sells-51m-in-shares-93CH-4942327",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/verisign-exec-chairman-pres--ceo-bidzos-sells-964k-in-stock-93CH-4942328",
+    "Watchlist|https://www.investing.com/news/company-news/nvidia-in-talks-to-acquire-reflection-ai-or-increase-investment-ft-reports-4942324",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/robinhood-chief-legal-officer-sells-114m-in-hood-stock-93CH-4942326",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/united-therapeutics-ceo-martine-rothblatt-sells-51m-in-shares-93CH-4942327",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/verisign-exec-chairman-pres--ceo-bidzos-sells-964k-in-stock-93CH-4942328"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791675760.0033624
+  "last_check": 1791676658.9675145
 }
