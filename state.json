@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/drones-hit-yandex-data-centre-in-first-major-attack-on-russian-data-hub-4937966",
-    "Cybersecurity|https://www.investing.com/news/economy-news/us-bonds-fall-lifting-yields-for-2nd-day-as-oil-weighs-30year-auction-looms-4939491",
-    "Cybersecurity|https://www.investing.com/news/company-news/millrose-properties-stock-hits-52week-low-at-2184-usd-93CH-4939506",
-    "Cybersecurity|https://www.investing.com/news/company-news/incommunities-reports-29-rise-in-operating-surplus-for-2026-93CH-4939490",
-    "Cybersecurity|https://www.investing.com/news/company-news/hercules-capital-stock-hits-52week-low-at-2414-usd-93CH-4939497",
     "SG Banks|https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-retreats-from-records-yields-climb-4937789",
     "SG Banks|https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-fall-weighed-by-miners-oil-up-on-hormuz-supply-worries-4938001",
     "SG Banks|https://www.investing.com/news/company-news/b2prime-welcomes-christina-barbash-as-commercial-manager-4939503",
@@ -5000,7 +4995,12 @@
     "AI|https://www.investing.com/news/economy-news/why-are-eu-gas-prices-not-higher-already-4942043",
     "Cybersecurity|https://www.investing.com/news/economy-news/why-are-eu-gas-prices-not-higher-already-4942043",
     "SG Banks|https://www.investing.com/news/economy-news/why-are-eu-gas-prices-not-higher-already-4942043",
-    "Watchlist|https://www.investing.com/news/economy-news/why-are-eu-gas-prices-not-higher-already-4942043"
+    "Watchlist|https://www.investing.com/news/economy-news/why-are-eu-gas-prices-not-higher-already-4942043",
+    "AI|fa488b90-e8a3-3ea9-be65-eb2550896c0c",
+    "Watchlist|fa488b90-e8a3-3ea9-be65-eb2550896c0c",
+    "Crypto|fbbf132a-6c85-3715-b697-bd0fa9f225c9",
+    "AI|7e8528b0-210c-3db8-8f7a-29ebf5f3d03a",
+    "Watchlist|7e8528b0-210c-3db8-8f7a-29ebf5f3d03a"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791619886.981951
+  "last_check": 1791620803.1313558
 }
