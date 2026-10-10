@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|d363ae4b-85a9-31a3-b0b6-c20995498cf9",
-    "War|170ccda9-4607-34d5-8795-6de3fff9ebfe",
-    "War|e9b9d018-5593-39de-815b-1bbfd7d3ac1e",
-    "AI|dddc49ed-52d6-3568-b4e4-e4a90a1495a6",
-    "AI|cfc3224f-135d-3eb3-81e7-9d7e1dc3a8e0",
-    "AI|8d62b124-079a-3a5c-85ac-6d6f567fcc77",
-    "Crypto|c54dfd4b-eb24-31bd-8b30-4cc04d081f73",
-    "SG Banks|https://www.channelnewsasia.com/business/shares-slip-oil-spikes-and-bond-bashing-rumbles-6442196",
-    "Watchlist|dddc49ed-52d6-3568-b4e4-e4a90a1495a6",
-    "Watchlist|cfc3224f-135d-3eb3-81e7-9d7e1dc3a8e0",
     "Watchlist|8d62b124-079a-3a5c-85ac-6d6f567fcc77",
     "Crypto|85327440-e1cb-4233-a9ed-f477a2fcf56b",
     "War|WP-MKTW-0005276800",
@@ -5000,7 +4990,17 @@
     "AI|https://www.investing.com/news/economy-news/thailand-prepares-to-host-imfworld-bank-meetings-4942052",
     "Cybersecurity|https://www.investing.com/news/economy-news/thailand-prepares-to-host-imfworld-bank-meetings-4942052",
     "SG Banks|https://www.investing.com/news/economy-news/thailand-prepares-to-host-imfworld-bank-meetings-4942052",
-    "Watchlist|https://www.investing.com/news/economy-news/thailand-prepares-to-host-imfworld-bank-meetings-4942052"
+    "Watchlist|https://www.investing.com/news/economy-news/thailand-prepares-to-host-imfworld-bank-meetings-4942052",
+    "AI|26b13a7b-76bf-3f7b-a144-5a51d74d86ff",
+    "AI|b7501d94-9ca9-396f-9435-786ae8bee5de",
+    "AI|40e9b408-110b-3b1a-b270-e46b17594d08",
+    "Watchlist|26b13a7b-76bf-3f7b-a144-5a51d74d86ff",
+    "Watchlist|40e9b408-110b-3b1a-b270-e46b17594d08",
+    "Watchlist|b7501d94-9ca9-396f-9435-786ae8bee5de",
+    "AI|9e328953-2e7f-3482-a926-6e7dc1a8bff4",
+    "AI|f4cc2da8-5c23-3740-97c1-1a36976d4324",
+    "Watchlist|9e328953-2e7f-3482-a926-6e7dc1a8bff4",
+    "Watchlist|f4cc2da8-5c23-3740-97c1-1a36976d4324"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791623539.2860448
+  "last_check": 1791624442.9089453
 }
