@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/hagerty-stock-hits-52week-high-at-1419-usd-93CH-4939624",
-    "AI|https://www.investing.com/news/forex-news/euro-zone-ministers-to-tell-france-to-pass-2027-budget-to-calm-markets-4938661",
-    "AI|https://www.investing.com/news/insider-trading-news/willamette-valley-vineyards-ceo-buys-9654-in-stock-93CH-4939634",
-    "AI|https://www.investing.com/news/economy-news/venezuelas-president-expects-thirdquarter-growth-after-earthquake-hit-4939635",
-    "AI|https://www.investing.com/news/stock-market-news/explainerthe-skilled-foreign-tech-workers-green-card-program-under-attack-from-trump-4939632",
-    "AI|https://www.investing.com/news/analyst-ratings/btig-reiterates-buy-on-starbucks-stock-115-target-maintained-93CH-4939637",
-    "AI|https://www.investing.com/news/economic-indicators/eu-exec-rejects-greek-italian-requests-for-more-fiscal-rules-flexibility-4939640",
-    "AI|https://www.investing.com/news/stock-market-news/anthropic-launches-dashboard-animation-tools-for-claude-4939641",
-    "AI|https://www.investing.com/news/analyst-ratings/william-blair-reiterates-starbucks-stock-rating-amid-chipotle-deal-talk-93CH-4939642",
-    "AI|https://www.investing.com/news/company-news/amg-stock-hits-alltime-high-at-39311-usd-93CH-4939647",
     "Cybersecurity|https://www.investing.com/news/company-news/hagerty-stock-hits-52week-high-at-1419-usd-93CH-4939624",
     "Cybersecurity|https://www.investing.com/news/forex-news/euro-zone-ministers-to-tell-france-to-pass-2027-budget-to-calm-markets-4938661",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/willamette-valley-vineyards-ceo-buys-9654-in-stock-93CH-4939634",
@@ -5000,7 +4990,17 @@
     "AI|6d97b6ed-0aba-3982-bd8e-f5cbf3a84087",
     "Watchlist|6d97b6ed-0aba-3982-bd8e-f5cbf3a84087",
     "AI|aaf10b0d-30b2-3225-9fab-d78e3e73bb37",
-    "Watchlist|aaf10b0d-30b2-3225-9fab-d78e3e73bb37"
+    "Watchlist|aaf10b0d-30b2-3225-9fab-d78e3e73bb37",
+    "AI|https://www.investing.com/news/insider-trading-news/sailpoint-chief-accounting-officer-mitra-rezvan-sells-23360-in-stock-93CH-4942244",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/sailpoint-chief-accounting-officer-mitra-rezvan-sells-23360-in-stock-93CH-4942244",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/sailpoint-chief-accounting-officer-mitra-rezvan-sells-23360-in-stock-93CH-4942244",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/sailpoint-chief-accounting-officer-mitra-rezvan-sells-23360-in-stock-93CH-4942244",
+    "War|1bdc70e3-8125-389d-96a0-1974541ad85f",
+    "AI|9cd9ac9f-513b-3fcf-95e2-cb98fadb9b72",
+    "Watchlist|9cd9ac9f-513b-3fcf-95e2-cb98fadb9b72",
+    "SG Banks|https://www.straitstimes.com/business/invest/attending-a-programme-in-secondary-school-turned-him-into-a-serial-entrepreneur-at-28",
+    "SG Banks|https://www.straitstimes.com/business/invest/why-a-man-with-two-wives-cant-get-a-bigger-share-of-his-own-assets",
+    "SG Banks|https://www.straitstimes.com/business/more-properties-going-under-the-hammer-but-dont-expect-dirt-cheap-buys"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791665692.0333781
+  "last_check": 1791666591.3212745
 }
