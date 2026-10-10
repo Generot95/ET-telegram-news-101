@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|8ee893f1-d2e0-30a6-85a2-83b1f4a56a10",
-    "Watchlist|83157d87-164f-33ee-a7ae-33e25948b364",
     "Watchlist|d94b5802-6c6e-36d9-95e1-18fa2a2f9344",
     "Watchlist|334a7316-dc08-30ca-af06-e7b8ce9781be",
     "Watchlist|a2b7c0d2-9f76-31cb-8d24-a71757b9e9f0",
@@ -5000,10 +4998,12 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/immunovant-chief-legal-officer-van-tuyl-sells-42543-in-stock-93CH-4941839",
     "Iran|https://www.iranintl.com/en/202610092630",
     "AI|8618a0d1-34c8-3965-83b2-62a8d335bc66",
-    "Watchlist|8618a0d1-34c8-3965-83b2-62a8d335bc66"
+    "Watchlist|8618a0d1-34c8-3965-83b2-62a8d335bc66",
+    "AI|efcea26e-1ae4-3d5f-ba88-d098d242a63c",
+    "Watchlist|efcea26e-1ae4-3d5f-ba88-d098d242a63c"
   ],
   "topic_error": "",
-  "last_digest": "2026-10-09",
+  "last_digest": "2026-10-10",
   "earnings": {
     "AMD": {
       "ts": 1793736000,
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791589660.7534297
+  "last_check": 1791590596.1693063
 }
