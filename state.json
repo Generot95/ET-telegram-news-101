@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|ee588d46-ae2c-3a1f-bdd1-ff4b44e8f14b",
-    "Watchlist|ee588d46-ae2c-3a1f-bdd1-ff4b44e8f14b",
-    "War|40fbcca9-2f7e-31cc-986a-50d6e5be34a9",
-    "War|WP-MKTW-0005275323",
-    "AI|WP-MKTW-0005275323",
-    "Crypto|4e869d47-e4e9-37f7-8102-2a07a36e1475",
-    "Cybersecurity|WP-MKTW-0005275323",
-    "War|8f14f93f-bca6-36e1-8597-ea7475356381",
-    "Watchlist|d7b90b7b-2399-31d8-88e5-9c44435911f2",
-    "AI|f650bd21-dd60-40e4-b283-ddcf3efbe822",
     "Watchlist|f650bd21-dd60-40e4-b283-ddcf3efbe822",
     "Watchlist|8239235b-3def-3a90-a2ed-81f7f7133117",
     "Watchlist|5f2e2c07-82c7-32d9-87dc-ab6d51eb54c0",
@@ -5000,7 +4990,17 @@
     "SG Banks|https://www.investing.com/news/stock-market-news/justice-department-probes-tv-networks-over-trump-pool-coverage-new-york-times-reports-4942303",
     "Watchlist|https://www.investing.com/news/insider-trading-news/ul-solutions-ceo-jennifer-scanlon-sells-876035-in-company-stock-93CH-4942298",
     "Watchlist|https://www.investing.com/news/insider-trading-news/streamex-cfo-christine-plummer-sells-7175-of-company-stock-93CH-4942299",
-    "Watchlist|https://www.investing.com/news/stock-market-news/justice-department-probes-tv-networks-over-trump-pool-coverage-new-york-times-reports-4942303"
+    "Watchlist|https://www.investing.com/news/stock-market-news/justice-department-probes-tv-networks-over-trump-pool-coverage-new-york-times-reports-4942303",
+    "Iran|https://www.iranintl.com/en/202610091055",
+    "AI|https://www.investing.com/news/insider-trading-news/robinhood-ceo-tenev-sells-426m-in-shares-on-october-5-93CH-4942319",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/robinhood-ceo-tenev-sells-426m-in-shares-on-october-5-93CH-4942319",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/robinhood-ceo-tenev-sells-426m-in-shares-on-october-5-93CH-4942319",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/robinhood-ceo-tenev-sells-426m-in-shares-on-october-5-93CH-4942319",
+    "War|WP-MKTW-0005275323",
+    "AI|3121ec96-d7fc-387c-b106-8536aa2d94df",
+    "AI|WP-MKTW-0005275323",
+    "Watchlist|3121ec96-d7fc-387c-b106-8536aa2d94df",
+    "Cybersecurity|WP-MKTW-0005275323"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791674842.776129
+  "last_check": 1791675760.0033624
 }
