@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/potential-starbuckschipotle-merger-major-opportunity-or-expensive-distraction-4939606",
-    "SG Banks|https://www.investing.com/news/stock-market-news/palantir-options-analysis-22x-callput-ratio-signals-bullish-positioning-93CH-4939607",
-    "SG Banks|https://www.investing.com/news/stock-market-news/nebius-group-bull-and-bear-case-ahead-of-october-earnings-93CH-4939610",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-vistra-stock-sliding-today-93CH-4939614",
-    "Watchlist|https://www.investing.com/news/stock-market-news/nvidiabacked-iambic-therapeutics-launches-ipo-as-biotechs-buck-market-gloom-4939603",
-    "Watchlist|https://www.investing.com/news/stock-market-news/starbucks-options-flow-after-chipotle-takeover-report-93CH-4939605",
     "Watchlist|https://www.investing.com/news/stock-market-news/potential-starbuckschipotle-merger-major-opportunity-or-expensive-distraction-4939606",
     "Watchlist|https://www.investing.com/news/stock-market-news/palantir-options-analysis-22x-callput-ratio-signals-bullish-positioning-93CH-4939607",
     "Watchlist|https://www.investing.com/news/stock-market-news/nebius-group-bull-and-bear-case-ahead-of-october-earnings-93CH-4939610",
@@ -5000,7 +4994,13 @@
     "Watchlist|9e019982-958f-34cb-b4cb-6cd5158f1976",
     "Watchlist|26eadfd6-42f3-3f46-9351-3dfbb4bfe8d3",
     "AI|aa82fe0b-9781-3f03-93ea-72490ed07a6a",
-    "Watchlist|aa82fe0b-9781-3f03-93ea-72490ed07a6a"
+    "Watchlist|aa82fe0b-9781-3f03-93ea-72490ed07a6a",
+    "Crypto|c7015924-f2e7-3f59-89f9-67e16cadad64",
+    "Watchlist|e20d05c5-97d6-318d-ac42-49730a85a5b9",
+    "AI|e20d05c5-97d6-318d-ac42-49730a85a5b9",
+    "AI|0dd2a667-f522-323f-a904-5c112eb9fe4d",
+    "Watchlist|0dd2a667-f522-323f-a904-5c112eb9fe4d",
+    "War|dee1bffd-3e88-4d28-a3f8-b89cbf3774c9"
   ],
   "topic_error": "",
   "last_digest": "2026-10-10",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791656520.0162866
+  "last_check": 1791657425.9112556
 }
