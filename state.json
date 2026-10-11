@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|216ca566-029f-3dd6-a506-0ba2a612b7c3",
-    "Watchlist|216ca566-029f-3dd6-a506-0ba2a612b7c3",
-    "AI|https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-030-4939787",
-    "AI|https://www.investing.com/news/stock-market-news/spacex-to-acquire-spectrum-that-enables-starlink-mobile-services-4939769",
-    "AI|https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-010-4939788",
-    "AI|https://www.investing.com/news/earnings/oildri-shares-move-higher-on-record-quarterly-revenue-93CH-4939794",
-    "AI|https://www.investing.com/news/stock-market-news/calix-stock-jumps-5-on-100m-buyback-program-expansion-4939795",
-    "AI|https://www.investing.com/news/company-news/childrens-place-appoints-elizabeth-lapuma-to-board-93CH-4939796",
-    "AI|https://www.investing.com/news/company-news/supermicro-appoints-former-intel-executive-to-board-93CH-4939798",
-    "AI|https://www.investing.com/news/company-news/mercury-systems-expands-phoenix-facility-by-50000-sq-ft-93CH-4939797",
-    "AI|https://www.investing.com/news/company-news/bitdeer-ai-secures-60mw-malaysia-data-center-facility-93CH-4939799",
-    "AI|https://www.investing.com/news/company-news/kopin-secures-186m-military-contract-for-microled-displays-93CH-4939800",
     "AI|https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-094-4939777",
     "AI|https://www.investing.com/news/stock-market-news/telecom-stocks-tumble-on-spacex-spectrum-acquisition-news-4939776",
     "AI|https://www.investing.com/news/company-news/barnes--noble-education-ends-september-with-no-debt-on-revolver-93CH-4939766",
@@ -5000,7 +4988,19 @@
     "War|WP-MKTW-0005271148",
     "AI|WP-MKTW-0005271148",
     "Cybersecurity|WP-MKTW-0005271148",
-    "War|72e7bf37-1bd6-3a01-be0b-3e6f2e2ad951"
+    "War|72e7bf37-1bd6-3a01-be0b-3e6f2e2ad951",
+    "AI|e609982e-12b5-3ae5-b665-cd3ae58520f9",
+    "Watchlist|e609982e-12b5-3ae5-b665-cd3ae58520f9",
+    "SG Banks|/companies-markets/capital-markets-currencies/once-hot-ai-trade-leaves-south-korean-stocks-struggling-buyers",
+    "Watchlist|/companies-markets/capital-markets-currencies/once-hot-ai-trade-leaves-south-korean-stocks-struggling-buyers",
+    "AI|https://www.investing.com/news/company-news/musk-says-terrafab-chip-factory-could-outperform-rivals-despite-challenges-4942457",
+    "Cybersecurity|https://www.investing.com/news/company-news/musk-says-terrafab-chip-factory-could-outperform-rivals-despite-challenges-4942457",
+    "SG Banks|https://www.investing.com/news/company-news/musk-says-terrafab-chip-factory-could-outperform-rivals-despite-challenges-4942457",
+    "Watchlist|https://www.investing.com/news/company-news/musk-says-terrafab-chip-factory-could-outperform-rivals-despite-challenges-4942457",
+    "SG Banks|/companies-markets/capital-markets-currencies/south-koreas-once-hot-ai-stocks-struggle-buyers-doubts-grow-over-memory-chip-boom",
+    "Watchlist|/companies-markets/capital-markets-currencies/south-koreas-once-hot-ai-stocks-struggle-buyers-doubts-grow-over-memory-chip-boom",
+    "SG Banks|/companies-markets/nyse-listed-twilio-sets-sights-asia-pacific-ai-adoption-grows-customer-service",
+    "Watchlist|/companies-markets/nyse-listed-twilio-sets-sights-asia-pacific-ai-adoption-grows-customer-service"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791690407.599927
+  "last_check": 1791691321.4756188
 }
