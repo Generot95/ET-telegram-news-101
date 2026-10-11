@@ -1,17 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Iran|CBMiXEFVX3lxTE5jeUhmWWIzMHE4ZHNuWnV4aHJFVVhQdTRRMG5mMFlldlUzRU1DeDlENF9ULWNlVTBzeEhZVmFWa0RSbVdMRTAxYjlQWl9uRkdZN3dYYndERjFHR0Np0gFiQVVfeXFMUE1nQnNXR08zS0R6T3pTZVdzZDYyemdQSy1OdVRsWkp0T2NFbXhEVnE2U1U4eFdUWVRkLXVNUHpidVBSbGhZck9fQmtZOWR0N2J6clhkNU9QVk93cWhaM0JmaHc",
-    "AI|https://www.investing.com/news/economy-news/tech-stocks-struggle-on-ai-spending-worries-elevated-yields-4940101",
-    "AI|https://www.investing.com/news/economy-news/chinese-developer-makes-artex-ai-agent-closedsource-after-korean-bank-hack-4940102",
-    "AI|https://www.investing.com/news/stock-market-news/hang-seng-oversold-at-23876-with-rsi-2796-live-levels-93CH-4930985",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-fast-retailing-stock-sliding-today-93CH-4940104",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-lifestyle-communities-stock-sliding-today-93CH-4940105",
-    "AI|https://www.investing.com/news/company-news/crescent-energy-prices-80-million-share-offering-at-1250-93CH-4940106",
-    "Cybersecurity|https://www.investing.com/news/economy-news/tech-stocks-struggle-on-ai-spending-worries-elevated-yields-4940101",
-    "Cybersecurity|https://www.investing.com/news/economy-news/chinese-developer-makes-artex-ai-agent-closedsource-after-korean-bank-hack-4940102",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/hang-seng-oversold-at-23876-with-rsi-2796-live-levels-93CH-4930985",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-fast-retailing-stock-sliding-today-93CH-4940104",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-lifestyle-communities-stock-sliding-today-93CH-4940105",
     "Cybersecurity|https://www.investing.com/news/company-news/crescent-energy-prices-80-million-share-offering-at-1250-93CH-4940106",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/openais-annualized-revenue-20-billion-less-than-previously-signaled-ft-reports-4939854",
@@ -5000,7 +4989,18 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/astera-labs-director-dyckerhoff-sells-47-million-in-shares-93CH-4942843",
     "Watchlist|https://www.investing.com/news/stock-market-news/investors-are-likely-to-focus-on-spacexs-starship-tech-milestones-not-results-4942839",
     "Watchlist|https://www.investing.com/news/insider-trading-news/astera-labs-director-dyckerhoff-sells-47-million-in-shares-93CH-4942843",
-    "SG Banks|https://www.straitstimes.com/business/askst-jobs-i-keep-having-to-pick-up-a-colleagues-work-how-should-i-raise-it-with-my-boss"
+    "SG Banks|https://www.straitstimes.com/business/askst-jobs-i-keep-having-to-pick-up-a-colleagues-work-how-should-i-raise-it-with-my-boss",
+    "AI|f15c204d-9f62-3d4b-94df-9ce87a25db13",
+    "Watchlist|f15c204d-9f62-3d4b-94df-9ce87a25db13",
+    "AI|https://www.investing.com/news/insider-trading-news/first-commonwealth-evpcfo-james-reske-disposes-of-42512-in-stock-93CH-4942846",
+    "AI|https://www.investing.com/news/company-news/mirum-pharmaceuticals-to-share-phase-3-livmarli-study-results-93CH-4942847",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/first-commonwealth-evpcfo-james-reske-disposes-of-42512-in-stock-93CH-4942846",
+    "Cybersecurity|https://www.investing.com/news/company-news/mirum-pharmaceuticals-to-share-phase-3-livmarli-study-results-93CH-4942847",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/first-commonwealth-evpcfo-james-reske-disposes-of-42512-in-stock-93CH-4942846",
+    "SG Banks|https://www.investing.com/news/company-news/mirum-pharmaceuticals-to-share-phase-3-livmarli-study-results-93CH-4942847",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/first-commonwealth-evpcfo-james-reske-disposes-of-42512-in-stock-93CH-4942846",
+    "Watchlist|https://www.investing.com/news/company-news/mirum-pharmaceuticals-to-share-phase-3-livmarli-study-results-93CH-4942847",
+    "Crypto|3b75802a-17db-3132-91fe-ea65ac900c58"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791752653.456171
+  "last_check": 1791753569.9381158
 }
