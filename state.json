@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/supermicro-appoints-former-intel-executive-to-board-93CH-4939798",
-    "Cybersecurity|https://www.investing.com/news/company-news/mercury-systems-expands-phoenix-facility-by-50000-sq-ft-93CH-4939797",
-    "Cybersecurity|https://www.investing.com/news/company-news/bitdeer-ai-secures-60mw-malaysia-data-center-facility-93CH-4939799",
     "Cybersecurity|https://www.investing.com/news/company-news/kopin-secures-186m-military-contract-for-microled-displays-93CH-4939800",
     "Cybersecurity|https://www.investing.com/news/company-news/barnes--noble-education-ends-september-with-no-debt-on-revolver-93CH-4939766",
     "Cybersecurity|https://www.investing.com/news/company-news/svrn-acquires-fastnear-infrastructure-provider-for-near-protocol-93CH-4939767",
@@ -5000,7 +4997,10 @@
     "SG Banks|https://www.investing.com/news/company-news/apples-chinese-supplier-luxshare-downplays-impact-of-us-patent-probe-4942462",
     "Watchlist|https://www.investing.com/news/company-news/apples-chinese-supplier-luxshare-downplays-impact-of-us-patent-probe-4942462",
     "SG Banks|/companies-markets/telcos-media-tech/nvidia-weighs-deeper-ties-open-model-developer-reflection-ai-through-investment-or-computing-deal",
-    "Watchlist|/companies-markets/telcos-media-tech/nvidia-weighs-deeper-ties-open-model-developer-reflection-ai-through-investment-or-computing-deal"
+    "Watchlist|/companies-markets/telcos-media-tech/nvidia-weighs-deeper-ties-open-model-developer-reflection-ai-through-investment-or-computing-deal",
+    "War|0940d0b6-25ee-34cf-8f16-6208e7c07acf",
+    "AI|f5fba8be-f60b-3d8e-98be-cf5f544286f4",
+    "Watchlist|f5fba8be-f60b-3d8e-98be-cf5f544286f4"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791695883.3543525
+  "last_check": 1791696805.9294066
 }
