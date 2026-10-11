@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|7e123c61-fe8a-35d3-8814-0679bd6f7c78",
-    "Watchlist|7e123c61-fe8a-35d3-8814-0679bd6f7c78",
-    "AI|https://www.investing.com/news/insider-trading-news/japan-post-holdings-a-10-owner-sells-148m-in-aflac-shares-93CH-4940074",
-    "AI|https://www.investing.com/news/stock-market-news/nikkei-225-hits-70037-overbought-high-pullback-risk-live-93CH-4930979",
-    "AI|https://www.investing.com/news/stock-market-news/softbank-shares-slide-as-openai-revenue-report-dents-ai-optimism-4940076",
-    "AI|https://www.investing.com/news/economy-news/euro-skids-toward-fifth-weekly-fall-but-selling-pressure-slows-4940078",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/japan-post-holdings-a-10-owner-sells-148m-in-aflac-shares-93CH-4940074",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/nikkei-225-hits-70037-overbought-high-pullback-risk-live-93CH-4930979",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/softbank-shares-slide-as-openai-revenue-report-dents-ai-optimism-4940076",
-    "Cybersecurity|https://www.investing.com/news/economy-news/euro-skids-toward-fifth-weekly-fall-but-selling-pressure-slows-4940078",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/japan-post-holdings-a-10-owner-sells-148m-in-aflac-shares-93CH-4940074",
-    "SG Banks|https://www.investing.com/news/stock-market-news/nikkei-225-hits-70037-overbought-high-pullback-risk-live-93CH-4930979",
-    "SG Banks|https://www.investing.com/news/stock-market-news/softbank-shares-slide-as-openai-revenue-report-dents-ai-optimism-4940076",
     "SG Banks|https://www.investing.com/news/economy-news/euro-skids-toward-fifth-weekly-fall-but-selling-pressure-slows-4940078",
     "Watchlist|https://www.investing.com/news/insider-trading-news/japan-post-holdings-a-10-owner-sells-148m-in-aflac-shares-93CH-4940074",
     "Watchlist|https://www.investing.com/news/stock-market-news/nikkei-225-hits-70037-overbought-high-pullback-risk-live-93CH-4930979",
@@ -5000,7 +4987,20 @@
     "Watchlist|/companies-markets/energy-commodities/gold-steadies-traders-assess-us-iran-tensions-fed-rate-path",
     "Cybersecurity|cab97a1e-3f71-3196-ae92-4a7d9d1c2957",
     "Watchlist|cab97a1e-3f71-3196-ae92-4a7d9d1c2957",
-    "Watchlist|ca283ae7-3ff1-3c4a-a370-c5f8bcfb6936"
+    "Watchlist|ca283ae7-3ff1-3c4a-a370-c5f8bcfb6936",
+    "SG Banks|/opinion-features/search-elusive-unicorn-sgxs-global-listing-board",
+    "Watchlist|/opinion-features/search-elusive-unicorn-sgxs-global-listing-board",
+    "AI|3a2ba64d-1619-3287-a37c-ad74f4cc8b4a",
+    "Watchlist|3a2ba64d-1619-3287-a37c-ad74f4cc8b4a",
+    "AI|a06c3a1f-251f-3272-82b9-9c0916175e1a",
+    "Watchlist|a06c3a1f-251f-3272-82b9-9c0916175e1a",
+    "AI|9d4ee7f9-a987-309a-a4d6-5ad35d5ea658",
+    "AI|https://www.investing.com/news/stock-market-news/stellantis-bets-on-small-affordable-evs-for-european-comeback-4942779",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/stellantis-bets-on-small-affordable-evs-for-european-comeback-4942779",
+    "SG Banks|https://www.investing.com/news/stock-market-news/stellantis-bets-on-small-affordable-evs-for-european-comeback-4942779",
+    "Watchlist|9d4ee7f9-a987-309a-a4d6-5ad35d5ea658",
+    "Watchlist|https://www.investing.com/news/stock-market-news/stellantis-bets-on-small-affordable-evs-for-european-comeback-4942779",
+    "Crypto|8337c85c-a619-3bd1-82dc-8fcae3430f78"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791738922.6003451
+  "last_check": 1791739844.4692376
 }
