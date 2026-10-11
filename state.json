@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/retension-pharmaceuticals-prices-ipo-at-12-per-share-93CH-4940088",
-    "AI|https://www.investing.com/news/stock-market-news/trexbio-prices-ipo-at-14-per-share-on-nasdaq-432SI-4940079",
-    "AI|https://www.investing.com/news/insider-trading-news/halozyme-ceo-helen-torley-sells-661m-in-shares-93CH-4940093",
-    "AI|https://www.investing.com/news/stock-market-news/retension-pharmaceuticals-prices-ipo-at-12-per-share-on-nasdaq-432SI-4940084",
-    "AI|https://www.investing.com/news/stock-market-news/retension-pharmaceuticals-prices-ipo-at-12-per-share-on-nasdaq-432SI-4940086",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-softbank-group-stock-tumbling-today-93CH-4940095",
-    "Cybersecurity|https://www.investing.com/news/company-news/retension-pharmaceuticals-prices-ipo-at-12-per-share-93CH-4940087",
-    "Cybersecurity|https://www.investing.com/news/company-news/retension-pharmaceuticals-prices-ipo-at-12-per-share-93CH-4940088",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/trexbio-prices-ipo-at-14-per-share-on-nasdaq-432SI-4940079",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/halozyme-ceo-helen-torley-sells-661m-in-shares-93CH-4940093",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/retension-pharmaceuticals-prices-ipo-at-12-per-share-on-nasdaq-432SI-4940084",
@@ -5000,7 +4992,15 @@
     "Watchlist|/international/asean/jay-z-serena-williams-backed-kenangan-coffee-considering-ipo-sgx-ceo",
     "War|aba8e52a-2698-3fd2-82b4-5441647931b1",
     "AI|22f348d2-078e-3d9e-ab04-02c6a1bec8fb",
-    "Watchlist|22f348d2-078e-3d9e-ab04-02c6a1bec8fb"
+    "Watchlist|22f348d2-078e-3d9e-ab04-02c6a1bec8fb",
+    "AI|https://www.investing.com/news/economy-news/what-the-sell-off-in-bonds-means-for-monetary-policy-4942802",
+    "AI|https://www.investing.com/news/insider-trading-news/onemednet-ceo-aaron-green-sells-47762-in-shares-93CH-4942804",
+    "Cybersecurity|https://www.investing.com/news/economy-news/what-the-sell-off-in-bonds-means-for-monetary-policy-4942802",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/onemednet-ceo-aaron-green-sells-47762-in-shares-93CH-4942804",
+    "SG Banks|https://www.investing.com/news/economy-news/what-the-sell-off-in-bonds-means-for-monetary-policy-4942802",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/onemednet-ceo-aaron-green-sells-47762-in-shares-93CH-4942804",
+    "Watchlist|https://www.investing.com/news/economy-news/what-the-sell-off-in-bonds-means-for-monetary-policy-4942802",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/onemednet-ceo-aaron-green-sells-47762-in-shares-93CH-4942804"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791742574.6304379
+  "last_check": 1791743488.843343
 }
