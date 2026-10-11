@@ -1,24 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|f16184f5-9131-308e-b381-44ac345caa54",
-    "Watchlist|0bb93f85-e861-3412-ab81-1decdff60b73",
-    "War|96017965-e1ac-3556-8b3c-03d5ada5158c",
-    "AI|https://www.investing.com/news/stock-market-news/markets-wobble-on-dollar-jitters-one-energy-pick-is-up-71-4940128",
-    "AI|https://www.investing.com/news/stock-market-news/modi-wants-india-to-power-the-ai-age-residents-are-pushing-back-4940134",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/markets-wobble-on-dollar-jitters-one-energy-pick-is-up-71-4940128",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/modi-wants-india-to-power-the-ai-age-residents-are-pushing-back-4940134",
-    "SG Banks|https://www.investing.com/news/stock-market-news/markets-wobble-on-dollar-jitters-one-energy-pick-is-up-71-4940128",
-    "SG Banks|https://www.investing.com/news/stock-market-news/modi-wants-india-to-power-the-ai-age-residents-are-pushing-back-4940134",
-    "Watchlist|https://www.investing.com/news/stock-market-news/markets-wobble-on-dollar-jitters-one-energy-pick-is-up-71-4940128",
-    "Watchlist|https://www.investing.com/news/stock-market-news/modi-wants-india-to-power-the-ai-age-residents-are-pushing-back-4940134",
-    "AI|4c43730f-eef1-3f89-bc00-aaf2f840c129",
-    "Watchlist|4c43730f-eef1-3f89-bc00-aaf2f840c129",
-    "AI|b9b3a670-1a35-3351-8ada-fa325f4f0fed",
-    "Watchlist|b9b3a670-1a35-3351-8ada-fa325f4f0fed",
-    "War|https://www.investing.com/news/commodities-news/gold-rises-on-softer-dollar-easing-yields-fed-outlook-in-focus-4940135",
-    "AI|https://www.investing.com/news/commodities-news/gold-rises-on-softer-dollar-easing-yields-fed-outlook-in-focus-4940135",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/gold-rises-on-softer-dollar-easing-yields-fed-outlook-in-focus-4940135",
     "SG Banks|https://www.investing.com/news/commodities-news/gold-rises-on-softer-dollar-easing-yields-fed-outlook-in-focus-4940135",
     "Watchlist|https://www.investing.com/news/commodities-news/gold-rises-on-softer-dollar-easing-yields-fed-outlook-in-focus-4940135",
     "War|b1127608-3755-388e-8b68-959b5ddceb13",
@@ -5000,7 +4982,25 @@
     "SG Banks|https://www.investing.com/news/commodities-news/faa-tells-us-airlines-to-exercise-caution-in-saudi-arabia-flights-citing-safety-risks-4942859",
     "Watchlist|https://www.investing.com/news/commodities-news/faa-tells-us-airlines-to-exercise-caution-in-saudi-arabia-flights-citing-safety-risks-4942859",
     "AI|62522369-2f78-3fea-9c26-3b48d60d3cd7",
-    "Watchlist|62522369-2f78-3fea-9c26-3b48d60d3cd7"
+    "Watchlist|62522369-2f78-3fea-9c26-3b48d60d3cd7",
+    "Crypto|3db5fff5-a354-30d2-a2f3-db096074c690",
+    "AI|6300c366-03d8-302a-9eb0-62af0b4ced4e",
+    "AI|https://www.investing.com/news/insider-trading-news/cargurus-cto-quinn-sells-113266-in-shares-93CH-4942863",
+    "AI|https://www.investing.com/news/insider-trading-news/porch-group-coo-neagle-sells-678022-in-stock-on-oct-1-93CH-4942864",
+    "AI|https://www.investing.com/news/stock-market-news/chiles-codelco-reports-mudslide-at-el-teniente-mine-three-workers-affected-4942867",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/cargurus-cto-quinn-sells-113266-in-shares-93CH-4942863",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/porch-group-coo-neagle-sells-678022-in-stock-on-oct-1-93CH-4942864",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/chiles-codelco-reports-mudslide-at-el-teniente-mine-three-workers-affected-4942867",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/cargurus-cto-quinn-sells-113266-in-shares-93CH-4942863",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/porch-group-coo-neagle-sells-678022-in-stock-on-oct-1-93CH-4942864",
+    "SG Banks|https://www.investing.com/news/stock-market-news/chiles-codelco-reports-mudslide-at-el-teniente-mine-three-workers-affected-4942867",
+    "Watchlist|6300c366-03d8-302a-9eb0-62af0b4ced4e",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/cargurus-cto-quinn-sells-113266-in-shares-93CH-4942863",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/porch-group-coo-neagle-sells-678022-in-stock-on-oct-1-93CH-4942864",
+    "Watchlist|https://www.investing.com/news/stock-market-news/chiles-codelco-reports-mudslide-at-el-teniente-mine-three-workers-affected-4942867",
+    "SG Banks|/international/china-moves-stave-wider-eu-trade-war-hybrid-deal",
+    "Watchlist|/international/china-moves-stave-wider-eu-trade-war-hybrid-deal",
+    "War|https://www.investing.com/news/commodities-news/gold-rises-on-softer-dollar-easing-yields-fed-outlook-in-focus-4940135"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791758140.9725852
+  "last_check": 1791759065.556622
 }
