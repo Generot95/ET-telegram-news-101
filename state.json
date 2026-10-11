@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/sun-life-warns-shareholders-of-belowmarket-minitender-offer-93CH-4939838",
-    "AI|https://www.investing.com/news/stock-market-news/american-express-fined-350-million-over-moneylaundering-compliance-failures-4939840",
     "AI|https://www.investing.com/news/stock-market-news/rtxs-raytheon-wins-up-to-63-billion-us-missile-contract-4939842",
     "AI|https://www.investing.com/news/analyst-ratings/yorkville-ives-adds-dell-stock-and-spacex-to-ai-30-list-on-infrastructure-shift-93CH-4939843",
     "AI|https://www.investing.com/news/forex-news/french-yields-edge-higher-in-6th-straight-weekly-loss-as-regional-contagion-widens-4938034",
@@ -5000,7 +4998,9 @@
     "Watchlist|7a564913-2e66-3c22-9ae7-b34bd4083056",
     "War|4a6ddf57-8100-34f1-89a7-923bd93d7e6d",
     "AI|f6507fd1-ab91-364b-96a6-48a57def10a1",
-    "Watchlist|f6507fd1-ab91-364b-96a6-48a57def10a1"
+    "Watchlist|f6507fd1-ab91-364b-96a6-48a57def10a1",
+    "SG Banks|/companies-markets/telcos-media-tech/musk-vows-affordable-starlink-india-days-ambanis-record-jio-ipo",
+    "Watchlist|/companies-markets/telcos-media-tech/musk-vows-affordable-starlink-india-days-ambanis-record-jio-ipo"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791706868.139398
+  "last_check": 1791707790.1872962
 }
