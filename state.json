@@ -1,24 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-liquidia-stock-rating-amid-legal-filings-93CH-4939814",
-    "AI|https://www.investing.com/news/company-news/enerpac-tool-group-adds-charles-lauber-to-board-of-directors-93CH-4939815",
-    "AI|https://www.investing.com/news/company-news/delaware-supreme-court-upholds-atg-capital-board-nominees-93CH-4939816",
-    "AI|https://www.investing.com/news/analyst-ratings/palisade-bio-stock-initiated-at-outperform-by-raymond-james-93CH-4939819",
-    "AI|https://www.investing.com/news/analyst-ratings/raymond-james-initiates-odyssey-therapeutics-stock-coverage-with-outperform-rating-93CH-4939820",
-    "AI|https://www.investing.com/news/stock-market-news/afterhours-movers-t-vz-tmus-spcx-hum-alhc-cvs-clov-unh-axp-432SI-4939818",
-    "AI|https://www.investing.com/news/stock-market-news/american-express-national-bank-fined-350-million-for-insufficient-antimoney-laundering-program-4939822",
-    "AI|https://www.investing.com/news/stock-market-news/humana-soars-alignment-healthcare-on-medicare-rating-changes-4939804",
-    "AI|https://www.investing.com/news/company-news/equifax-extends-1-vantagescore-40-pricing-through-2028-93CH-4939806",
-    "AI|https://www.investing.com/news/company-news/omnicom-media-partners-with-rembrand-for-streaming-ad-placement-93CH-4939807",
-    "AI|WP-MKTW-0005272000",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-liquidia-stock-rating-amid-legal-filings-93CH-4939814",
-    "Cybersecurity|https://www.investing.com/news/company-news/enerpac-tool-group-adds-charles-lauber-to-board-of-directors-93CH-4939815",
-    "Cybersecurity|https://www.investing.com/news/company-news/delaware-supreme-court-upholds-atg-capital-board-nominees-93CH-4939816",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/palisade-bio-stock-initiated-at-outperform-by-raymond-james-93CH-4939819",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/raymond-james-initiates-odyssey-therapeutics-stock-coverage-with-outperform-rating-93CH-4939820",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/afterhours-movers-t-vz-tmus-spcx-hum-alhc-cvs-clov-unh-axp-432SI-4939818",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/american-express-national-bank-fined-350-million-for-insufficient-antimoney-laundering-program-4939822",
     "Cybersecurity|https://www.investing.com/news/company-news/equifax-extends-1-vantagescore-40-pricing-through-2028-93CH-4939806",
     "Cybersecurity|https://www.investing.com/news/company-news/omnicom-media-partners-with-rembrand-for-streaming-ad-placement-93CH-4939807",
     "Cybersecurity|WP-MKTW-0005272000",
@@ -5000,7 +4982,25 @@
     "Watchlist|fa0d42e5-eefe-3dd9-ab2a-b2ec58c2b163",
     "SG Banks|/companies-markets/consumer-healthcare/mary-chia-admits-disclosure-lapses-over-cpf-arrears-four-subsidiaries-after-sgx-queries",
     "SG Banks|https://www.channelnewsasia.com/business/musk-vows-affordable-starlink-in-india-days-ambanis-record-jio-ipo-6450016",
-    "Watchlist|/companies-markets/consumer-healthcare/mary-chia-admits-disclosure-lapses-over-cpf-arrears-four-subsidiaries-after-sgx-queries"
+    "Watchlist|/companies-markets/consumer-healthcare/mary-chia-admits-disclosure-lapses-over-cpf-arrears-four-subsidiaries-after-sgx-queries",
+    "War|WP-MKTW-0005272000",
+    "AI|c163cb08-0d27-3239-80a2-da434b60a83d",
+    "Watchlist|c163cb08-0d27-3239-80a2-da434b60a83d",
+    "AI|https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
+    "AI|https://www.investing.com/news/stock-market-news/musk-vows-affordable-starlink-in-india-days-before-ambanis-record-jio-ipo-4942487",
+    "AI|https://www.investing.com/news/economy-news/trump-calls-for-new-ukrainian-president-as-us-seeks-russian-diesel-supplies-4942489",
+    "Cybersecurity|https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/musk-vows-affordable-starlink-in-india-days-before-ambanis-record-jio-ipo-4942487",
+    "Cybersecurity|https://www.investing.com/news/economy-news/trump-calls-for-new-ukrainian-president-as-us-seeks-russian-diesel-supplies-4942489",
+    "SG Banks|https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
+    "SG Banks|https://www.investing.com/news/stock-market-news/musk-vows-affordable-starlink-in-india-days-before-ambanis-record-jio-ipo-4942487",
+    "SG Banks|https://www.investing.com/news/economy-news/trump-calls-for-new-ukrainian-president-as-us-seeks-russian-diesel-supplies-4942489",
+    "Watchlist|https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
+    "Watchlist|https://www.investing.com/news/stock-market-news/musk-vows-affordable-starlink-in-india-days-before-ambanis-record-jio-ipo-4942487",
+    "Watchlist|https://www.investing.com/news/economy-news/trump-calls-for-new-ukrainian-president-as-us-seeks-russian-diesel-supplies-4942489",
+    "AI|WP-MKTW-0005272000",
+    "SG Banks|/companies-markets/banking-finance/world-bank-talks-dozens-countries-about-crisis-aid-banga",
+    "Watchlist|/companies-markets/banking-finance/world-bank-talks-dozens-countries-about-crisis-aid-banga"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791703211.941562
+  "last_check": 1791704125.9369256
 }
