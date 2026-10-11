@@ -1,24 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|https://www.investing.com/news/world-news/italian-president-tells-musk-to-quit-meddling-in-italys-domestic-politics-3720069",
-    "War|https://www.investing.com/news/stock-market-news/us-opens-missile-base-in-poland-as-trump-presidency-looms-over-nato-3718740",
-    "War|https://www.investing.com/news/world-news/quinoa-ceviche-and-chinese-fusion-on-menu-as-peru-hosts-biden-xi-3720035",
-    "War|https://www.investing.com/news/world-news/lebanon-awaits-truce-proposals-after-us-envoy-expresses-hope-3719089",
-    "War|https://www.investing.com/news/world-news/israel-questions-icc-judges-impartiality-in-netanyahu-arrest-case-3720345",
-    "War|https://www.investing.com/news/world-news/us-senate-republicans-to-pick-new-leader-amid-pressure-from-trump-allies-3719272",
-    "War|https://www.investing.com/news/world-news/uk-southport-murder-suspect-due-to-go-on-trial-in-january-3720359",
-    "War|https://www.investing.com/news/world-news/argentina-appeals-court-confirms-guilty-verdict-for-former-president-cristina-kirchner-3720259",
-    "War|https://www.investing.com/news/world-news/israel-rejects-aid-groups-gaza-report-says-it-relies-on-partial-information-3720445",
-    "AI|https://www.investing.com/news/insider-trading-news/neuraxis-cfo-timothy-henrichs-buys-9375-in-company-stock-93CH-4939914",
-    "AI|https://www.investing.com/news/insider-trading-news/neuraxis-cro-carrico-buys-1587-in-common-stock-93CH-4939915",
-    "AI|https://www.investing.com/news/insider-trading-news/neuraxis-ceo-brian-carrico-buys-1297-in-company-stock-93CH-4939916",
-    "AI|https://www.investing.com/news/insider-trading-news/star-equity-ceo-jeffrey-eberwein-sells-27540-in-preferred-stock-93CH-4939917",
-    "AI|https://www.investing.com/news/stock-market-news/australian-nvidiabacked-ai-data-centre-operator-firmus-shelves-ipo-4939919",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/neuraxis-cfo-timothy-henrichs-buys-9375-in-company-stock-93CH-4939914",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/neuraxis-cro-carrico-buys-1587-in-common-stock-93CH-4939915",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/neuraxis-ceo-brian-carrico-buys-1297-in-company-stock-93CH-4939916",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/star-equity-ceo-jeffrey-eberwein-sells-27540-in-preferred-stock-93CH-4939917",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/australian-nvidiabacked-ai-data-centre-operator-firmus-shelves-ipo-4939919",
     "SG Banks|https://www.investing.com/news/insider-trading-news/neuraxis-cfo-timothy-henrichs-buys-9375-in-company-stock-93CH-4939914",
     "SG Banks|https://www.investing.com/news/insider-trading-news/neuraxis-cro-carrico-buys-1587-in-common-stock-93CH-4939915",
@@ -5000,7 +4982,25 @@
     "SG Banks|/companies-markets/capital-markets-currencies/european-shares-close-lower-banks-drop-3-month-lows-oil-prices-weigh",
     "Watchlist|c43f9b7f-bb26-3c35-92ca-e3fc1d1329ea",
     "AI|c43f9b7f-bb26-3c35-92ca-e3fc1d1329ea",
-    "Watchlist|/companies-markets/capital-markets-currencies/european-shares-close-lower-banks-drop-3-month-lows-oil-prices-weigh"
+    "Watchlist|/companies-markets/capital-markets-currencies/european-shares-close-lower-banks-drop-3-month-lows-oil-prices-weigh",
+    "AI|c2cdc074-b5d1-3c43-a3e8-2751275e2e6d",
+    "Watchlist|c2cdc074-b5d1-3c43-a3e8-2751275e2e6d",
+    "AI|https://www.investing.com/news/insider-trading-news/bastion-trading-skyai-10-owner-buys-78262-in-stock-93CH-4942642",
+    "AI|https://www.investing.com/news/stock-market-news/why-net-stocks-are-down-sharply-this-year-despite-nasdaqs-gains-4942643",
+    "AI|https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-015-4942645",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/bastion-trading-skyai-10-owner-buys-78262-in-stock-93CH-4942642",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-net-stocks-are-down-sharply-this-year-despite-nasdaqs-gains-4942643",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-015-4942645",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/bastion-trading-skyai-10-owner-buys-78262-in-stock-93CH-4942642",
+    "SG Banks|https://www.investing.com/news/stock-market-news/why-net-stocks-are-down-sharply-this-year-despite-nasdaqs-gains-4942643",
+    "SG Banks|https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-015-4942645",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/bastion-trading-skyai-10-owner-buys-78262-in-stock-93CH-4942642",
+    "Watchlist|https://www.investing.com/news/stock-market-news/why-net-stocks-are-down-sharply-this-year-despite-nasdaqs-gains-4942643",
+    "Watchlist|https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-015-4942645",
+    "War|0e284e54-dc9a-46d3-a385-f557790516e4",
+    "Crypto|f24dc51b-d379-3d7b-8fce-e85ad7dee89d",
+    "AI|8ba7512d-6b92-3ec2-885c-21ec6b8c6e4f",
+    "Watchlist|8ba7512d-6b92-3ec2-885c-21ec6b8c6e4f"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791722435.2534761
+  "last_check": 1791723356.0638943
 }
