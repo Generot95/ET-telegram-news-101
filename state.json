@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|04210f1f-c5ce-3fdf-add2-aa9cdbe0cd0c",
-    "Iran|CBMiV0FVX3lxTE5hQ3FwNWpwdGpFbW5QVDZWQjNFVlRBT2hWaE9WUHVuRjN1ZE4weEdXazRUM3Etb0FRd1gwRmxCLVRkWVNkYXg4dGt3eGxmSUtTTGlRYlhtaw",
-    "Iran|CBMinAFBVV95cUxOODdQNEExVmlqMVFrdmVYaHVjN3l6dnJFQ25sd0NiVUtseTc5MHJKRXJTSHY4UUJYRXVVWEh0S1RYeXdUc0lqSnYtSG5Yemdwdm00SzlCdzgxNjZYeWR6Tk82dFBOVWFjb2Y0cmcxMGpFcFU5NHkzdkZFOXI1X1U1aG5rTngyU3VMTFpjMmlPS2FaUmE1N3ZFSzIwT23SAaIBQVVfeXFMT2F4aVM0N2d5d1lmN2k4a1ZkbDJEMFRCdG41LXhWUkticGQ2bDlUQUotaHg3eURpdnl3SUV3YllnZ192LVo5UlFpXzRlYW8tSEl2ZkNFYUhUMTNPc2hNamxjU3BsT2FlWUprTXh2clU3UFRrb1kxbWxuRmNVT2JId2JDalkzRVFwR1N4ZzVSSXNtQTNFeEZhSjRveUxMdzBRWmdB",
-    "Iran|CBMiWkFVX3lxTE9DR0dkcW5fNXlRRWhkYWtvZEFSNko3Y2RPSXRReEhLdEhWUEhWSGNrQXBOUFRHOXdybEhTNFd1c0tCTGRGZ0swZVFIR0Q0MGRwaVB4SEgwOS03UQ",
-    "Iran|CBMirgFBVV95cUxOSGFnci10T3AzOG1JZlk1Z0VwMUlucGJhNkZmZDJjWXhDdTBteF9hMzNyeF83d09VdS1kLWhMWmJtMUxUMHRqdXd2M05IYmN5WkZRZlBzMk5uVXdnaTBncUdYSjduYmZtN0lGZkFMb08yVDVRSXViTVYtVWc1RnVQTzl0YXF0TUsyX25tTDVDSjR4OVJJSDVoeFg4emZRQ3RJSVdETUpCeDdRcjFxUXc",
-    "Iran|CBMilAFBVV95cUxQN0thVWlRMWtDWlpWNHJDakpfMS1oM2N0bDdKSWVNRUVUNi04aGRHYmdXdnNxQnV5d1FoLWdGRC1xS01CeHdVZnZvMkE1U1RYSXhLbkhBamhjcFBsVmhseVhlWERlVmFFNG4yNy1ZWFdpQmVsSHNBRmEzOXAxOFN2SWE1QnFmSmxsOVJ4U0h4ZnphblZN",
-    "Iran|CBMisAFBVV95cUxPOGJVVlpoQmRBVkZHbDRudE00UDZBQTNzcld1eXl3YnZxY2JzdGRuVTlaWkw0VUcxZUpMRVVxek1VQTJoQVpIejZRdy1KMEM0bHdMMGZDUTFGU0REQ0lhX04yMGc4Y0Z5R2RHRFdTOUtnR0syOXVuX04wUVdyenpDR1lQRmNtTzFsNTJaNHVzTmszZHBSTWttdTdrLXB5ZElJR3dFRkluR1lLalBxLVlfYdIBtgFBVV95cUxNeFpVMnhxdlVsa2lwTGRjSkZQU3hNLWZQRFhoUU9kcmV3MmlmVm50bU9PN0R1UUtwUHFfWElXOGFYQjU3alZ6R3BvQ2RGTlgzclVsMy1GZzVDTlM1enFfMWhFa2dXc2NXdnhVa0t6V3dlZ2xob2dvQ05JcXVrd3Fhdlp4cUpBWU5WbVJfekZpbEYxM1ZycmtiZU9zZ2pxSmoxQlJHMGlPVnc3WUw2NXFpUlZ5ZTYwUQ",
-    "Iran|CBMiiAFBVV95cUxNZ3VKZ2NjdS14OHY2NWhJMmV4Vk9fUExXOGsycFNsLUtLNGVIb083cWg2S1hadXFKNWY5bFB5bFNHWm8zSXY1WDNxUUF5WGZidm1XNVEtR3llTnRpek41X3NqTWRaTzdTeUl2RGlJcFRFdWlPTmFwR2dmZFF3M0Mxb0FaYXJzS2U3",
-    "Iran|CBMiYkFVX3lxTFBNZ0JzV0dPM0tEek96U2VXc2Q2MnpnUEstTnVUbFpKdE9jRW14RFZxNlNVOHhXVFlUZC11TVB6YnVQUmxoWXJPX0JrWTlkdDdienJYZDVPUFZPd3FoWjNCZmh30gFiQVVfeXFMUE1nQnNXR08zS0R6T3pTZVdzZDYyemdQSy1OdVRsWkp0T2NFbXhEVnE2U1U4eFdUWVRkLXVNUHpidVBSbGhZck9fQmtZOWR0N2J6clhkNU9QVk93cWhaM0JmaHc",
     "Iran|CBMihAFBVV95cUxPNnVnX3QxZWJaVEE4TnJ1M2RFQnJqVGd1OG1UYTNvSEREdEFvN0Q1TnpfSEs0bzFHRkNkSVdJT1lHeGxsb2l4M2twMGQ5cGVRSEhCeTF4UG1mYjBOZktjWC16VXN4X0tDWXBPM1dDSHV3VnExN3U0Q3ZqdjhyLWhBTWRkcTQ",
     "Iran|CBMiuwFBVV95cUxQMlo5Y2pEcmFzbDdDSTdjYUdlR2t5dmlvMG44Q19yX3BKWEtLZC1yaXBCRUlYN1JXUDRsRERWbDQtUkhQSUJFSU9yZjVaUGppS25KQWpiUWswUU41eUpqU2c1RF9ZSGhJN2NySWxVQXROQ3ZQNUNYOTc1RXFqcnpFaFVJNmM3VDVFYzhWbnJWRmtoSnBBRGVQOF9jdy1ad21SVU9OX1RHS3NmM2ZKWmpkak5rNWg2dnZxWFpN",
     "Iran|CBMirgFBVV95cUxOM05IOE5hZF9Ba1VlSmJLcFkzY3hPZ0hlNDFHWHFXS0dHclpaMV9TOWZPVG5YQXdfOTNrdlVqUnNJbHVnM3ktY1E0Tm9jYWhROEF4UXZWZWxNbU5ER0RZZDVVSGozSkxIMXlZX2twRjludVNWcHcyZ2ZLRlppSHpFMWFxTkxKWkhNMUkybDJvT3ZIbENaQkpQMjNValpUZ05jdUNjeGxlODFFN0dMQ0E",
@@ -5000,7 +4991,16 @@
     "AI|1060f98e-a5a6-3e8e-afc9-abd3c3650573",
     "Watchlist|1060f98e-a5a6-3e8e-afc9-abd3c3650573",
     "SG Banks|https://www.straitstimes.com/business/third-gen-leader-steers-family-crane-rental-business-up-value-chain-tiong-woon-corporation",
-    "SG Banks|/companies-markets/telcos-media-tech/nvidia-backed-firmus-scraps-us5-billion-australian-ipo-poor-demand-eyes-private-funding"
+    "SG Banks|/companies-markets/telcos-media-tech/nvidia-backed-firmus-scraps-us5-billion-australian-ipo-poor-demand-eyes-private-funding",
+    "Watchlist|/companies-markets/telcos-media-tech/nvidia-backed-firmus-scraps-us5-billion-australian-ipo-poor-demand-eyes-private-funding",
+    "War|4992f133-a534-3dc6-9ce9-423257a838f9",
+    "AI|8e9b1afd-0cd5-396b-96d7-502f0e67c21c",
+    "AI|https://www.investing.com/news/stock-market-news/how-much-power-will-the-us-need-through-2030-4942833",
+    "Crypto|8e800204-5b37-3dae-bd04-986b4fa66dd5",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/how-much-power-will-the-us-need-through-2030-4942833",
+    "SG Banks|https://www.investing.com/news/stock-market-news/how-much-power-will-the-us-need-through-2030-4942833",
+    "Watchlist|8e9b1afd-0cd5-396b-96d7-502f0e67c21c",
+    "Watchlist|https://www.investing.com/news/stock-market-news/how-much-power-will-the-us-need-through-2030-4942833"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791748993.4862576
+  "last_check": 1791749915.4699597
 }
