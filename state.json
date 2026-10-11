@@ -1,23 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/maria-elvira-salazar-makes-multiple-stock-trades-in-september-including-cisco-systems-and-snowflake-93CH-4939966",
-    "Cybersecurity|https://www.investing.com/news/company-news/josh-gottheimer-sells-stocks-in-applied-materials-and-mcdonalds-93CH-4939965",
-    "Cybersecurity|https://www.investing.com/news/company-news/maria-elvira-salazar-makes-multiple-stock-trades-in-september-including-cisco-systems-and-snowflake-93CH-4939966",
-    "SG Banks|https://www.investing.com/news/company-news/josh-gottheimer-sells-stocks-in-applied-materials-and-mcdonalds-93CH-4939965",
-    "SG Banks|https://www.investing.com/news/company-news/maria-elvira-salazar-makes-multiple-stock-trades-in-september-including-cisco-systems-and-snowflake-93CH-4939966",
-    "Watchlist|https://www.investing.com/news/company-news/josh-gottheimer-sells-stocks-in-applied-materials-and-mcdonalds-93CH-4939965",
-    "Watchlist|https://www.investing.com/news/company-news/maria-elvira-salazar-makes-multiple-stock-trades-in-september-including-cisco-systems-and-snowflake-93CH-4939966",
-    "AI|50b3a18a-c94e-3147-a0c3-7354ef874132",
-    "Watchlist|50b3a18a-c94e-3147-a0c3-7354ef874132",
-    "AI|e89d1274-7384-3173-b213-eef06a5ceea9",
-    "Watchlist|e89d1274-7384-3173-b213-eef06a5ceea9",
-    "SG Banks|https://www.channelnewsasia.com/business/characterai-chatbots-encouraged-users-cut-and-starve-themselves-kentucky-alleges-6444701",
-    "AI|4227ca99-1004-3ba5-86fc-7cd7e0cdf1b6",
-    "Watchlist|4227ca99-1004-3ba5-86fc-7cd7e0cdf1b6",
-    "Watchlist|d7401433-5a36-3b8b-8706-d404387ba2d3",
-    "SG Banks|https://www.channelnewsasia.com/business/us-trump-green-card-freeze-microsoft-it-firms-universities-6443266",
-    "SG Banks|https://www.straitstimes.com/business/companies-markets/amex-fined-us350-million-for-anti-money-laundering-lapses",
     "War|68f3f2ab-303b-312f-aef3-5c53af2cdec2",
     "AI|7f85cfc1-d7a0-3a8a-ad2e-6b2433503a1d",
     "AI|https://www.investing.com/news/insider-trading-news/adaptive-biotechnologies-cco-susan-bobulsky-sells-193320-in-stock-93CH-4939977",
@@ -5000,7 +4983,24 @@
     "Watchlist|/companies-markets/family-offices-see-more-tailored-products-leverage-collective-firepower-direct-deal-access",
     "Watchlist|/companies-markets/when-inaction-becomes-risk",
     "Crypto|f4e52db6-bb4c-321e-ac06-c12b84a4d002",
-    "War|55821f74-9428-42cd-b21b-e7045cf46f31"
+    "War|55821f74-9428-42cd-b21b-e7045cf46f31",
+    "AI|b0cdf0ec-c5d7-3986-a3b9-8b43d98d27c7",
+    "AI|c798e7e0-b966-347a-a72c-fb3710ff6744",
+    "Watchlist|c798e7e0-b966-347a-a72c-fb3710ff6744",
+    "Watchlist|b0cdf0ec-c5d7-3986-a3b9-8b43d98d27c7",
+    "Watchlist|5fac8d7b-1b99-3081-8bf0-ad72ccc04925",
+    "AI|https://www.investing.com/news/stock-market-news/volkswagen-ceo-says-transformation-is-shared-responsibility-in-appeal-to-eu-4942704",
+    "AI|https://www.investing.com/news/insider-trading-news/doordash-director-stanley-tang-sells-43m-in-shares-93CH-4942706",
+    "AI|https://www.investing.com/news/insider-trading-news/neogen-ceo-mikheal-nassif-buys-6034-in-company-stock-93CH-4942715",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/volkswagen-ceo-says-transformation-is-shared-responsibility-in-appeal-to-eu-4942704",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/doordash-director-stanley-tang-sells-43m-in-shares-93CH-4942706",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/neogen-ceo-mikheal-nassif-buys-6034-in-company-stock-93CH-4942715",
+    "SG Banks|https://www.investing.com/news/stock-market-news/volkswagen-ceo-says-transformation-is-shared-responsibility-in-appeal-to-eu-4942704",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/doordash-director-stanley-tang-sells-43m-in-shares-93CH-4942706",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/neogen-ceo-mikheal-nassif-buys-6034-in-company-stock-93CH-4942715",
+    "Watchlist|https://www.investing.com/news/stock-market-news/volkswagen-ceo-says-transformation-is-shared-responsibility-in-appeal-to-eu-4942704",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/doordash-director-stanley-tang-sells-43m-in-shares-93CH-4942706",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/neogen-ceo-mikheal-nassif-buys-6034-in-company-stock-93CH-4942715"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791727922.2818098
+  "last_check": 1791728850.3149273
 }
