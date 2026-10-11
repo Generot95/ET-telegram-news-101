@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/halozyme-ceo-helen-torley-sells-661m-in-shares-93CH-4940093",
-    "Watchlist|https://www.investing.com/news/stock-market-news/retension-pharmaceuticals-prices-ipo-at-12-per-share-on-nasdaq-432SI-4940084",
     "Watchlist|https://www.investing.com/news/stock-market-news/retension-pharmaceuticals-prices-ipo-at-12-per-share-on-nasdaq-432SI-4940086",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-softbank-group-stock-tumbling-today-93CH-4940095",
     "SG Banks|/companies-markets/telcos-media-tech/nvidia-backed-firmus-scraps-us5-billion-australian-ipo-poor-demand-eyes-private-funding",
@@ -5000,7 +4998,9 @@
     "AI|572b2434-d1e2-30d9-9d53-2f73e2341faf",
     "Watchlist|572b2434-d1e2-30d9-9d53-2f73e2341faf",
     "AI|26bacd94-cb58-3d5e-a089-2baff22a7dea",
-    "Watchlist|26bacd94-cb58-3d5e-a089-2baff22a7dea"
+    "Watchlist|26bacd94-cb58-3d5e-a089-2baff22a7dea",
+    "AI|352ad073-b921-3bf7-9f2e-722b9b331dc7",
+    "Watchlist|352ad073-b921-3bf7-9f2e-722b9b331dc7"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791746227.1885586
+  "last_check": 1791747159.2717574
 }
