@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|/international/asean/jay-z-serena-williams-backed-kenangan-coffee-considering-ipo-sgx-ceo",
-    "SG Banks|https://www.investing.com/news/company-news/trexbio-prices-ipo-at-14-per-share-expects-1167m-93CH-4940085",
-    "Watchlist|/international/asean/jay-z-serena-williams-backed-kenangan-coffee-considering-ipo-sgx-ceo",
-    "Watchlist|https://www.investing.com/news/company-news/trexbio-prices-ipo-at-14-per-share-expects-1167m-93CH-4940085",
-    "AI|3dc404d7-6f8c-3c97-bb0d-05eeb3e5ed40",
-    "Watchlist|3dc404d7-6f8c-3c97-bb0d-05eeb3e5ed40",
-    "AI|31ce5322-1d75-31cf-9a64-6ad61c6f9a40",
-    "Watchlist|31ce5322-1d75-31cf-9a64-6ad61c6f9a40",
-    "AI|https://www.investing.com/news/company-news/retension-pharmaceuticals-prices-ipo-at-12-per-share-93CH-4940087",
     "AI|https://www.investing.com/news/company-news/retension-pharmaceuticals-prices-ipo-at-12-per-share-93CH-4940088",
     "AI|https://www.investing.com/news/stock-market-news/trexbio-prices-ipo-at-14-per-share-on-nasdaq-432SI-4940079",
     "AI|https://www.investing.com/news/insider-trading-news/halozyme-ceo-helen-torley-sells-661m-in-shares-93CH-4940093",
@@ -5000,7 +4991,16 @@
     "AI|d81f3750-de58-362c-bd67-8ad26db67d3c",
     "AI|e01e8e23-2102-3c05-9821-1654d90c2d9d",
     "Watchlist|d81f3750-de58-362c-bd67-8ad26db67d3c",
-    "Watchlist|e01e8e23-2102-3c05-9821-1654d90c2d9d"
+    "Watchlist|e01e8e23-2102-3c05-9821-1654d90c2d9d",
+    "AI|https://www.investing.com/news/insider-trading-news/onemednet-cfo-robert-golden-sells-55290-in-shares-93CH-4942798",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/onemednet-cfo-robert-golden-sells-55290-in-shares-93CH-4942798",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/onemednet-cfo-robert-golden-sells-55290-in-shares-93CH-4942798",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/onemednet-cfo-robert-golden-sells-55290-in-shares-93CH-4942798",
+    "SG Banks|/international/asean/jay-z-serena-williams-backed-kenangan-coffee-considering-ipo-sgx-ceo",
+    "Watchlist|/international/asean/jay-z-serena-williams-backed-kenangan-coffee-considering-ipo-sgx-ceo",
+    "War|aba8e52a-2698-3fd2-82b4-5441647931b1",
+    "AI|22f348d2-078e-3d9e-ab04-02c6a1bec8fb",
+    "Watchlist|22f348d2-078e-3d9e-ab04-02c6a1bec8fb"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791741667.5595574
+  "last_check": 1791742574.6304379
 }
