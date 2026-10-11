@@ -1,23 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/talos-energy-10-owner-sells-814-million-in-common-shares-93CH-4939990",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/idea-biosciences-president-and-ceo-yujiro-hata-sells-985k-in-shares-93CH-4939991",
-    "Cybersecurity|https://www.investing.com/news/company-news/wd40-declares-102-quarterly-dividend-per-share-93CH-4939992",
-    "Cybersecurity|https://www.investing.com/news/company-news/barksdale-closes-c132-million-first-tranche-of-financing-93CH-4939969",
-    "Cybersecurity|https://www.investing.com/news/company-news/mosaic-minerals-closes-second-tranche-of-private-placement-93CH-4940000",
-    "SG Banks|https://www.straitstimes.com/business/ex-warner-bros-ceo-pockets-us600-million-in-sale-to-paramount",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/adaptive-biotechnologies-cco-susan-bobulsky-sells-193320-in-stock-93CH-4939977",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/adaptive-biotechnologies-coo-julie-rubinstein-sells-948223-in-stock-93CH-4939978",
-    "SG Banks|https://www.investing.com/news/stock-market-news/characterai-chatbots-encouraged-users-to-cut-and-starve-themselves-kentucky-alleges-4939981",
-    "SG Banks|https://www.investing.com/news/stock-market-news/meta-bans-tiktok-from-advertising-on-its-apps-bloomberg-news-reports-4939986",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/butterfly-network-president--ceo-joseph-devivo-sells-358615-in-stock-93CH-4939987",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/grid-dynamics-coo-yury-gryzlov-sells-38792-in-gdyn-stock-93CH-4939988",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/talos-energy-10-owner-sells-814-million-in-common-shares-93CH-4939990",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/idea-biosciences-president-and-ceo-yujiro-hata-sells-985k-in-shares-93CH-4939991",
-    "SG Banks|https://www.investing.com/news/company-news/wd40-declares-102-quarterly-dividend-per-share-93CH-4939992",
-    "Watchlist|7f85cfc1-d7a0-3a8a-ad2e-6b2433503a1d",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/adaptive-biotechnologies-cco-susan-bobulsky-sells-193320-in-stock-93CH-4939977",
     "Watchlist|https://www.investing.com/news/insider-trading-news/adaptive-biotechnologies-coo-julie-rubinstein-sells-948223-in-stock-93CH-4939978",
     "Watchlist|https://www.investing.com/news/stock-market-news/characterai-chatbots-encouraged-users-to-cut-and-starve-themselves-kentucky-alleges-4939981",
     "Watchlist|https://www.investing.com/news/stock-market-news/meta-bans-tiktok-from-advertising-on-its-apps-bloomberg-news-reports-4939986",
@@ -5000,80 +4983,97 @@
     "AI|eea1a410-86b4-3dc3-9ecb-8c364ac2a675",
     "Watchlist|eea1a410-86b4-3dc3-9ecb-8c364ac2a675",
     "AI|e30f0129-f7f5-36f8-b131-ad533ca1bfe1",
-    "Watchlist|e30f0129-f7f5-36f8-b131-ad533ca1bfe1"
+    "Watchlist|e30f0129-f7f5-36f8-b131-ad533ca1bfe1",
+    "AI|9e52e619-615c-3070-9b00-f7089bc6711e",
+    "Crypto|8f1a97c1-7517-3494-9032-8a92c47bb87d",
+    "Watchlist|9e52e619-615c-3070-9b00-f7089bc6711e",
+    "AI|https://www.investing.com/news/insider-trading-news/sailpoint-cao-mitra-sells-23360-in-common-stock-93CH-4942731",
+    "AI|https://www.investing.com/news/insider-trading-news/generac-president-kyle-raabe-sells-128179-of-gnrc-common-stock-93CH-4942732",
+    "AI|https://www.investing.com/news/insider-trading-news/exodus-movement-cfo-james-gernetzke-sells-39276-in-stock-93CH-4942738",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/sailpoint-cao-mitra-sells-23360-in-common-stock-93CH-4942731",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/generac-president-kyle-raabe-sells-128179-of-gnrc-common-stock-93CH-4942732",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/exodus-movement-cfo-james-gernetzke-sells-39276-in-stock-93CH-4942738",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/sailpoint-cao-mitra-sells-23360-in-common-stock-93CH-4942731",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/generac-president-kyle-raabe-sells-128179-of-gnrc-common-stock-93CH-4942732",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/exodus-movement-cfo-james-gernetzke-sells-39276-in-stock-93CH-4942738",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/sailpoint-cao-mitra-sells-23360-in-common-stock-93CH-4942731",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/generac-president-kyle-raabe-sells-128179-of-gnrc-common-stock-93CH-4942732",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/exodus-movement-cfo-james-gernetzke-sells-39276-in-stock-93CH-4942738",
+    "SG Banks|/international/global/nvidia-weighs-deeper-ties-open-model-developer-reflection-ai-through-investment-or-computing-deal",
+    "Watchlist|/international/global/nvidia-weighs-deeper-ties-open-model-developer-reflection-ai-through-investment-or-computing-deal"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
   "earnings": {
     "AMD": {
       "ts": 1793736000,
-      "fetched": 1791644681.1727343
+      "fetched": 1791731105.1075284
     },
     "NVDA": {
       "ts": 1794945600,
-      "fetched": 1791644681.1727343
+      "fetched": 1791731105.1075284
     },
     "CRWD": {
       "ts": 1796155200,
-      "fetched": 1791644681.1727343
+      "fetched": 1791731105.1075284
     },
     "MSFT": {
       "ts": 1793217600,
-      "fetched": 1791644681.1727343
+      "fetched": 1791731105.1075284
     },
     "INTU": {
       "ts": 1795118400,
-      "fetched": 1791644681.1727343
+      "fetched": 1791731105.1075284
     },
     "BRK-B": {
       "ts": 1794081600,
-      "fetched": 1791644681.1727343
+      "fetched": 1791731105.1075284
     },
     "AMZN": {
       "ts": 1793304000,
-      "fetched": 1791644681.1727343
+      "fetched": 1791731105.1075284
     },
     "GOOG": {
       "ts": 1793217600,
-      "fetched": 1791644681.1727343
+      "fetched": 1791731105.1075284
     },
     "ZTS": {
       "ts": 1793881800,
-      "fetched": 1791644681.1727343
+      "fetched": 1791731105.1075284
     },
     "LIN": {
       "ts": 1793277000,
-      "fetched": 1791644681.1727343
+      "fetched": 1791731105.1075284
     },
     "VLO": {
       "ts": 1792672200,
-      "fetched": 1791644681.1727343
+      "fetched": 1791731105.1075284
     },
     "D05.SI": {
       "ts": 1793869200,
-      "fetched": 1791644681.1727343
+      "fetched": 1791731105.1075284
     },
     "O39.SI": {
       "ts": 1793955600,
-      "fetched": 1791644681.1727343
+      "fetched": 1791731105.1075284
     },
     "U11.SI": {
       "ts": 1793782800,
-      "fetched": 1791644681.1727343
+      "fetched": 1791731105.1075284
     },
     "A17U.SI": {
       "ts": 1785920400,
-      "fetched": 1791644681.1727343
+      "fetched": 1791731105.1075284
     },
     "HMN.SI": {
       "ts": 1785229200,
-      "fetched": 1791644681.1727343
+      "fetched": 1791731105.1075284
     },
     "JYEU.SI": {
       "ts": null,
-      "fetched": 1791644681.1727343
+      "fetched": 1791731105.1075284
     }
   },
   "earnings_notified": [],
-  "last_check": 1791730671.3732524
+  "last_check": 1791731588.190012
 }
