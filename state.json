@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/omnicom-media-partners-with-rembrand-for-streaming-ad-placement-93CH-4939807",
-    "Cybersecurity|WP-MKTW-0005272000",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-liquidia-stock-rating-amid-legal-filings-93CH-4939814",
-    "SG Banks|https://www.investing.com/news/company-news/enerpac-tool-group-adds-charles-lauber-to-board-of-directors-93CH-4939815",
-    "SG Banks|https://www.investing.com/news/company-news/delaware-supreme-court-upholds-atg-capital-board-nominees-93CH-4939816",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/palisade-bio-stock-initiated-at-outperform-by-raymond-james-93CH-4939819",
     "SG Banks|https://www.investing.com/news/analyst-ratings/raymond-james-initiates-odyssey-therapeutics-stock-coverage-with-outperform-rating-93CH-4939820",
     "SG Banks|https://www.investing.com/news/stock-market-news/afterhours-movers-t-vz-tmus-spcx-hum-alhc-cvs-clov-unh-axp-432SI-4939818",
     "SG Banks|https://www.investing.com/news/stock-market-news/american-express-national-bank-fined-350-million-for-insufficient-antimoney-laundering-program-4939822",
@@ -5000,7 +4994,13 @@
     "AI|WP-MKTW-0005272000",
     "SG Banks|/companies-markets/banking-finance/world-bank-talks-dozens-countries-about-crisis-aid-banga",
     "Watchlist|/companies-markets/banking-finance/world-bank-talks-dozens-countries-about-crisis-aid-banga",
-    "SG Banks|https://www.channelnewsasia.com/business/russias-yandex-says-data-centre-in-vladimir-area-shut-down-after-drone-attack-6450041"
+    "SG Banks|https://www.channelnewsasia.com/business/russias-yandex-says-data-centre-in-vladimir-area-shut-down-after-drone-attack-6450041",
+    "SG Banks|/companies-markets/sensors-cameras-and-microphones-how-f1-teams-tap-data-ai-make-real-time-decisions-track",
+    "Watchlist|/companies-markets/sensors-cameras-and-microphones-how-f1-teams-tap-data-ai-make-real-time-decisions-track",
+    "Cybersecurity|WP-MKTW-0005272000",
+    "AI|cef2245a-3335-355a-8fff-23c5369da257",
+    "Watchlist|cef2245a-3335-355a-8fff-23c5369da257",
+    "SG Banks|https://www.straitstimes.com/business/musk-vows-affordable-starlink-in-india-days-before-ambanis-record-jio-ipo"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791705051.489201
+  "last_check": 1791705971.5696523
 }
