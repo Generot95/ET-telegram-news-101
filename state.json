@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/matador-resources-closes-13600acre-woodford-acquisition-93CH-4939770",
-    "AI|https://www.investing.com/news/company-news/cohen--steers-reports-959-billion-aum-for-september-93CH-4939775",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-030-4939787",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/spacex-to-acquire-spectrum-that-enables-starlink-mobile-services-4939769",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-010-4939788",
@@ -5000,7 +4998,9 @@
     "AI|https://www.investing.com/news/economy-news/middle-east-war-high-debt-levels-to-dominate-imfworld-bank-meetings-in-bangkok-4942461",
     "Cybersecurity|https://www.investing.com/news/economy-news/middle-east-war-high-debt-levels-to-dominate-imfworld-bank-meetings-in-bangkok-4942461",
     "SG Banks|https://www.investing.com/news/economy-news/middle-east-war-high-debt-levels-to-dominate-imfworld-bank-meetings-in-bangkok-4942461",
-    "Watchlist|https://www.investing.com/news/economy-news/middle-east-war-high-debt-levels-to-dominate-imfworld-bank-meetings-in-bangkok-4942461"
+    "Watchlist|https://www.investing.com/news/economy-news/middle-east-war-high-debt-levels-to-dominate-imfworld-bank-meetings-in-bangkok-4942461",
+    "Iran|https://www.iranintl.com/en/202610118579",
+    "SG Banks|https://www.straitstimes.com/business/mary-chia-admits-disclosure-lapses-over-cpf-arrears-at-four-subsidiaries-after-sgx-queries"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791692224.059264
+  "last_check": 1791693147.9539907
 }
