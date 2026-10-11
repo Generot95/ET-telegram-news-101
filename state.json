@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|90b88ecb-a956-3985-85d5-1bf4566db72f",
-    "SG Banks|https://www.channelnewsasia.com/business/spacex-acquire-spectrum-enables-starlink-mobile-services-6444486",
-    "War|WP-MKTW-0005276807",
-    "AI|WP-MKTW-0005276807",
-    "Cybersecurity|WP-MKTW-0005276807",
-    "War|cf700d79-87b4-37c6-94de-64756fff7766",
-    "War|4204b2a4-b4e6-310e-a892-f1ec8bec05f6",
-    "AI|7db79ad3-56d3-3af1-988a-ce004022c5c9",
-    "Watchlist|7db79ad3-56d3-3af1-988a-ce004022c5c9",
-    "War|WP-MKTW-0005271148",
-    "AI|WP-MKTW-0005271148",
-    "Cybersecurity|WP-MKTW-0005271148",
     "Watchlist|b5eaf0dd-1421-3fc2-a565-c22604e6f081",
     "AI|b5eaf0dd-1421-3fc2-a565-c22604e6f081",
     "AI|216ca566-029f-3dd6-a506-0ba2a612b7c3",
@@ -5000,7 +4988,19 @@
     "AI|WP-MKTW-0005272142",
     "Cybersecurity|WP-MKTW-0005272142",
     "SG Banks|/companies-markets/transport-logistics/inside-f1-how-reactive-dhl-acted-quickly-fit-malaysia-race-just-singapores",
-    "Watchlist|/companies-markets/transport-logistics/inside-f1-how-reactive-dhl-acted-quickly-fit-malaysia-race-just-singapores"
+    "Watchlist|/companies-markets/transport-logistics/inside-f1-how-reactive-dhl-acted-quickly-fit-malaysia-race-just-singapores",
+    "AI|https://www.investing.com/news/insider-trading-news/neptune-insurance-holdings-president-matthew-duffy-sells-112m-stock-93CH-4942449",
+    "AI|https://www.investing.com/news/insider-trading-news/waystar-ceo-matthew-hawkins-sells-216m-in-shares-93CH-4942450",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/neptune-insurance-holdings-president-matthew-duffy-sells-112m-stock-93CH-4942449",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/waystar-ceo-matthew-hawkins-sells-216m-in-shares-93CH-4942450",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/neptune-insurance-holdings-president-matthew-duffy-sells-112m-stock-93CH-4942449",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/waystar-ceo-matthew-hawkins-sells-216m-in-shares-93CH-4942450",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/neptune-insurance-holdings-president-matthew-duffy-sells-112m-stock-93CH-4942449",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/waystar-ceo-matthew-hawkins-sells-216m-in-shares-93CH-4942450",
+    "AI|6bffb53c-b6a1-3064-95a4-0a866b016950",
+    "Cybersecurity|4704c1af-0ba7-3b93-9df1-e04c22d7c031",
+    "War|WP-MKTW-0005271148",
+    "AI|WP-MKTW-0005271148"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791688551.5159175
+  "last_check": 1791689471.6065156
 }
