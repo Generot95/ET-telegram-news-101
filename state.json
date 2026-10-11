@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-lifestyle-communities-stock-sliding-today-93CH-4940105",
-    "Watchlist|https://www.investing.com/news/company-news/crescent-energy-prices-80-million-share-offering-at-1250-93CH-4940106",
-    "Watchlist|https://www.investing.com/news/stock-market-news/openais-annualized-revenue-20-billion-less-than-previously-signaled-ft-reports-4939854",
-    "SG Banks|https://www.channelnewsasia.com/business/openais-september-annualized-revenue-nears-50-billion-less-previously-indicated-source-says-6444566",
     "Iran|CBMiiwFBVV95cUxQaUUwV2lPbzNRNVQzMU8xNXM2d2YwaTZnRmMxUjJYamZiTll6NWQtbkpxVzVFY0RmY0JnXzMyZU9vRHMyUWliRllmN3lxRk1OT3ZNYkZadjh1U2VpSHBNVXRxQ3JKYVNWUUl0Yk1TVDhFbEcxdlJjWk5YWXRCWnV1bXc4WXRwaXRyLVRJ",
     "AI|8574fbe5-25e1-3d63-a6ee-a14565690d55",
     "Watchlist|8574fbe5-25e1-3d63-a6ee-a14565690d55",
@@ -5000,7 +4996,11 @@
     "Crypto|81fc26cc-b41e-318e-93bd-7bc36067738f",
     "Watchlist|81fc26cc-b41e-318e-93bd-7bc36067738f",
     "AI|8aa90d0a-8b79-3bf7-af80-0f864ec19b91",
-    "Watchlist|8aa90d0a-8b79-3bf7-af80-0f864ec19b91"
+    "Watchlist|8aa90d0a-8b79-3bf7-af80-0f864ec19b91",
+    "AI|3e47ac17-3903-37e1-8c37-f37fa826adb0",
+    "Watchlist|3e47ac17-3903-37e1-8c37-f37fa826adb0",
+    "Watchlist|aca76b1d-fea7-354c-bf4a-61ee25ebd8ff",
+    "SG Banks|https://www.straitstimes.com/singapore/jobs/askst-jobs-i-keep-having-to-pick-up-a-colleagues-work-how-should-i-raise-it-with-my-boss"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791754498.7086236
+  "last_check": 1791755398.4256933
 }
