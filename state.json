@@ -1,7 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/encirc-selects-powerfleet-for-manufacturing-safety-systems-93CH-4939725",
     "SG Banks|https://www.investing.com/news/company-news/american-coastal-subsidiary-receives-arizona-insurance-license-93CH-4939727",
     "SG Banks|https://www.investing.com/news/company-news/clip-money-extends-private-placement-deadline-to-oct-22-93CH-4939726",
     "SG Banks|https://www.investing.com/news/company-news/ucla-engineering-school-joins-applied-materials-epic-center-93CH-4939728",
@@ -5000,7 +4999,8 @@
     "SG Banks|https://www.investing.com/news/economy-news/could-a-change-of-government-in-spain-have-big-implications-on-energy-policy-4942397",
     "SG Banks|https://www.investing.com/news/insider-trading-news/twist-bioscience-ceo-emily-leproust-sells-919373-in-stock-93CH-4942406",
     "Watchlist|https://www.investing.com/news/economy-news/could-a-change-of-government-in-spain-have-big-implications-on-energy-policy-4942397",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/twist-bioscience-ceo-emily-leproust-sells-919373-in-stock-93CH-4942406"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/twist-bioscience-ceo-emily-leproust-sells-919373-in-stock-93CH-4942406",
+    "Iran|https://www.iranintl.com/en/202610114328"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791683972.8097608
+  "last_check": 1791684894.893181
 }
