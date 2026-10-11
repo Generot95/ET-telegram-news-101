@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-83k-as-meast-tensions-soaring-yields-dent-crypto-appetite-4937967",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-verizon-stock-sliding-today-93CH-4939887",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-att-stock-tumbling-today-93CH-4939888",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-tmobile-stock-tumbling-today-93CH-4939889",
     "AI|https://www.investing.com/news/insider-trading-news/resmed-chairman--ceo-michael-farrell-sells-11m-in-shares-93CH-4939900",
     "AI|https://www.investing.com/news/company-news/getty-copper-closes-c15m-flowthrough-share-financing-93CH-4939905",
     "AI|https://www.investing.com/news/company-news/amentum-opens-nuclear-headquarters-in-oak-ridge-tennessee-93CH-4939904",
@@ -5000,7 +4996,11 @@
     "AI|dfb15378-dd8f-34cd-991f-a53d0308a1ae",
     "Watchlist|5549c57a-6675-3d86-ae9a-84522faa7a8b",
     "Watchlist|dfb15378-dd8f-34cd-991f-a53d0308a1ae",
-    "Crypto|6382ecd6-931d-3033-80d1-82e31bd3a19b"
+    "Crypto|6382ecd6-931d-3033-80d1-82e31bd3a19b",
+    "AI|7dded386-eeb4-34d3-871a-035a02b26270",
+    "AI|25740c29-e8d1-3f9a-950a-d83283f5822f",
+    "Watchlist|7dded386-eeb4-34d3-871a-035a02b26270",
+    "Watchlist|25740c29-e8d1-3f9a-950a-d83283f5822f"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791718776.2061846
+  "last_check": 1791719689.202143
 }
