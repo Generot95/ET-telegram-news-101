@@ -1,7 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/equifax-extends-1-vantagescore-40-pricing-through-2028-93CH-4939806",
     "Cybersecurity|https://www.investing.com/news/company-news/omnicom-media-partners-with-rembrand-for-streaming-ad-placement-93CH-4939807",
     "Cybersecurity|WP-MKTW-0005272000",
     "SG Banks|https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-liquidia-stock-rating-amid-legal-filings-93CH-4939814",
@@ -5000,7 +4999,8 @@
     "Watchlist|https://www.investing.com/news/economy-news/trump-calls-for-new-ukrainian-president-as-us-seeks-russian-diesel-supplies-4942489",
     "AI|WP-MKTW-0005272000",
     "SG Banks|/companies-markets/banking-finance/world-bank-talks-dozens-countries-about-crisis-aid-banga",
-    "Watchlist|/companies-markets/banking-finance/world-bank-talks-dozens-countries-about-crisis-aid-banga"
+    "Watchlist|/companies-markets/banking-finance/world-bank-talks-dozens-countries-about-crisis-aid-banga",
+    "SG Banks|https://www.channelnewsasia.com/business/russias-yandex-says-data-centre-in-vladimir-area-shut-down-after-drone-attack-6450041"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791704125.9369256
+  "last_check": 1791705051.489201
 }
