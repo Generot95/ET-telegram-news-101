@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/company-news/supermicro-appoints-former-intel-executive-to-board-93CH-4939798",
-    "Watchlist|https://www.investing.com/news/company-news/mercury-systems-expands-phoenix-facility-by-50000-sq-ft-93CH-4939797",
-    "Watchlist|https://www.investing.com/news/company-news/bitdeer-ai-secures-60mw-malaysia-data-center-facility-93CH-4939799",
-    "Watchlist|https://www.investing.com/news/company-news/kopin-secures-186m-military-contract-for-microled-displays-93CH-4939800",
     "Crypto|ab95b96f-0122-32d1-8745-4672a1fcc90c",
     "War|a15308a9-f0cf-3f48-8a7a-062b4f3f0a99",
     "War|WP-MKTW-0005274400",
@@ -5000,7 +4996,11 @@
     "SG Banks|https://www.investing.com/news/stock-market-news/8-emerging-markets-to-consider-in-2027-hsbc-4942478",
     "SG Banks|https://www.investing.com/news/economy-news/world-bank-in-talks-with-dozens-of-countries-about-crisis-aid-banga-says-4942479",
     "Watchlist|https://www.investing.com/news/stock-market-news/8-emerging-markets-to-consider-in-2027-hsbc-4942478",
-    "Watchlist|https://www.investing.com/news/economy-news/world-bank-in-talks-with-dozens-of-countries-about-crisis-aid-banga-says-4942479"
+    "Watchlist|https://www.investing.com/news/economy-news/world-bank-in-talks-with-dozens-of-countries-about-crisis-aid-banga-says-4942479",
+    "AI|https://www.investing.com/news/insider-trading-news/abrdn-healthcare-director-alan-goodson-sells-4675-in-stock-93CH-4942481",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/abrdn-healthcare-director-alan-goodson-sells-4675-in-stock-93CH-4942481",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/abrdn-healthcare-director-alan-goodson-sells-4675-in-stock-93CH-4942481",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/abrdn-healthcare-director-alan-goodson-sells-4675-in-stock-93CH-4942481"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791700471.295655
+  "last_check": 1791701385.1640542
 }
