@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/rtxs-raytheon-wins-up-to-63-billion-us-missile-contract-4939842",
-    "AI|https://www.investing.com/news/analyst-ratings/yorkville-ives-adds-dell-stock-and-spacex-to-ai-30-list-on-infrastructure-shift-93CH-4939843",
-    "AI|https://www.investing.com/news/forex-news/french-yields-edge-higher-in-6th-straight-weekly-loss-as-regional-contagion-widens-4938034",
-    "AI|https://www.investing.com/news/stock-market-news/kopin-stock-jumps-on-186m-army-display-contract-win-4939825",
-    "AI|https://www.investing.com/news/stock-market-news/atlas-atomics-raises-400m-at-19b-valuation-for-reactor-tech--bloomberg-93CH-4939848",
-    "AI|https://www.investing.com/news/company-news/green-ai-cloud-to-go-public-via-spac-merger-valued-at-300m-93CH-4939823",
-    "Cybersecurity|f505d452-c805-37d8-bbdc-a39fafcc1e2d",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/raymond-james-initiates-nektar-stock-coverage-with-market-perform-93CH-4939826",
-    "Cybersecurity|https://www.investing.com/news/company-news/logitech-unveils-rally-speaker-2-pro-and-max-for-large-spaces-93CH-4939836",
-    "Cybersecurity|https://www.investing.com/news/company-news/alignment-healthcare-earns-4star-or-higher-ratings-for-six-plans-93CH-4939837",
-    "Cybersecurity|https://www.investing.com/news/company-news/sun-life-warns-shareholders-of-belowmarket-minitender-offer-93CH-4939838",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/american-express-fined-350-million-over-moneylaundering-compliance-failures-4939840",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/rtxs-raytheon-wins-up-to-63-billion-us-missile-contract-4939842",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/yorkville-ives-adds-dell-stock-and-spacex-to-ai-30-list-on-infrastructure-shift-93CH-4939843",
     "Cybersecurity|https://www.investing.com/news/forex-news/french-yields-edge-higher-in-6th-straight-weekly-loss-as-regional-contagion-widens-4938034",
@@ -5000,7 +4988,19 @@
     "AI|f6507fd1-ab91-364b-96a6-48a57def10a1",
     "Watchlist|f6507fd1-ab91-364b-96a6-48a57def10a1",
     "SG Banks|/companies-markets/telcos-media-tech/musk-vows-affordable-starlink-india-days-ambanis-record-jio-ipo",
-    "Watchlist|/companies-markets/telcos-media-tech/musk-vows-affordable-starlink-india-days-ambanis-record-jio-ipo"
+    "Watchlist|/companies-markets/telcos-media-tech/musk-vows-affordable-starlink-india-days-ambanis-record-jio-ipo",
+    "AI|446e3d7f-81cc-3df7-bb75-5609ae0f7f70",
+    "AI|13e32f33-8f93-3f04-a925-774b34ad1c23",
+    "AI|cece5a4e-e62b-3687-81bd-8f462397df4e",
+    "Watchlist|446e3d7f-81cc-3df7-bb75-5609ae0f7f70",
+    "Watchlist|13e32f33-8f93-3f04-a925-774b34ad1c23",
+    "Watchlist|cece5a4e-e62b-3687-81bd-8f462397df4e",
+    "AI|https://www.investing.com/news/insider-trading-news/eton-pharmaceuticals-cbo-david-krempa-sells-229k-in-stock-93CH-4942522",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/eton-pharmaceuticals-cbo-david-krempa-sells-229k-in-stock-93CH-4942522",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/eton-pharmaceuticals-cbo-david-krempa-sells-229k-in-stock-93CH-4942522",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/eton-pharmaceuticals-cbo-david-krempa-sells-229k-in-stock-93CH-4942522",
+    "AI|9f522f79-f8d4-3901-82d6-5994000c15fb",
+    "Watchlist|9f522f79-f8d4-3901-82d6-5994000c15fb"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791707790.1872962
+  "last_check": 1791708700.0970583
 }
