@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/retension-pharmaceuticals-prices-ipo-at-12-per-share-on-nasdaq-432SI-4940084",
-    "SG Banks|https://www.investing.com/news/stock-market-news/retension-pharmaceuticals-prices-ipo-at-12-per-share-on-nasdaq-432SI-4940086",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-softbank-group-stock-tumbling-today-93CH-4940095",
-    "Watchlist|https://www.investing.com/news/company-news/retension-pharmaceuticals-prices-ipo-at-12-per-share-93CH-4940087",
     "Watchlist|https://www.investing.com/news/company-news/retension-pharmaceuticals-prices-ipo-at-12-per-share-93CH-4940088",
     "Watchlist|https://www.investing.com/news/stock-market-news/trexbio-prices-ipo-at-14-per-share-on-nasdaq-432SI-4940079",
     "Watchlist|https://www.investing.com/news/insider-trading-news/halozyme-ceo-helen-torley-sells-661m-in-shares-93CH-4940093",
@@ -5000,7 +4996,11 @@
     "Watchlist|9122d320-26ee-3f7d-a8ce-176a3d2353b1",
     "Watchlist|a90a600a-ac19-3f09-9e08-7f715fb483bb",
     "Cybersecurity|6e695f26-20ef-354a-8fdc-ec9d45003bb0",
-    "Watchlist|6e695f26-20ef-354a-8fdc-ec9d45003bb0"
+    "Watchlist|6e695f26-20ef-354a-8fdc-ec9d45003bb0",
+    "Crypto|eddcf9b3-ef75-3255-91e9-3ce9a7a64d1f",
+    "War|63470f09-0012-3664-9778-7a6e6caecb92",
+    "AI|572b2434-d1e2-30d9-9d53-2f73e2341faf",
+    "Watchlist|572b2434-d1e2-30d9-9d53-2f73e2341faf"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791744402.0941327
+  "last_check": 1791745319.7546792
 }
