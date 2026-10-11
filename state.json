@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/adaptive-biotechnologies-coo-julie-rubinstein-sells-948223-in-stock-93CH-4939978",
-    "Watchlist|https://www.investing.com/news/stock-market-news/characterai-chatbots-encouraged-users-to-cut-and-starve-themselves-kentucky-alleges-4939981",
-    "Watchlist|https://www.investing.com/news/stock-market-news/meta-bans-tiktok-from-advertising-on-its-apps-bloomberg-news-reports-4939986",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/butterfly-network-president--ceo-joseph-devivo-sells-358615-in-stock-93CH-4939987",
     "Watchlist|https://www.investing.com/news/insider-trading-news/grid-dynamics-coo-yury-gryzlov-sells-38792-in-gdyn-stock-93CH-4939988",
     "Watchlist|https://www.investing.com/news/insider-trading-news/talos-energy-10-owner-sells-814-million-in-common-shares-93CH-4939990",
     "Watchlist|https://www.investing.com/news/insider-trading-news/idea-biosciences-president-and-ceo-yujiro-hata-sells-985k-in-shares-93CH-4939991",
@@ -5000,7 +4996,11 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/generac-president-kyle-raabe-sells-128179-of-gnrc-common-stock-93CH-4942732",
     "Watchlist|https://www.investing.com/news/insider-trading-news/exodus-movement-cfo-james-gernetzke-sells-39276-in-stock-93CH-4942738",
     "SG Banks|/international/global/nvidia-weighs-deeper-ties-open-model-developer-reflection-ai-through-investment-or-computing-deal",
-    "Watchlist|/international/global/nvidia-weighs-deeper-ties-open-model-developer-reflection-ai-through-investment-or-computing-deal"
+    "Watchlist|/international/global/nvidia-weighs-deeper-ties-open-model-developer-reflection-ai-through-investment-or-computing-deal",
+    "AI|https://www.investing.com/news/most-popular-news/russia-and-ukraine-agree-to-halt-energy-strikes-trump-says-4942733",
+    "Cybersecurity|https://www.investing.com/news/most-popular-news/russia-and-ukraine-agree-to-halt-energy-strikes-trump-says-4942733",
+    "SG Banks|https://www.investing.com/news/most-popular-news/russia-and-ukraine-agree-to-halt-energy-strikes-trump-says-4942733",
+    "Watchlist|https://www.investing.com/news/most-popular-news/russia-and-ukraine-agree-to-halt-energy-strikes-trump-says-4942733"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791731588.190012
+  "last_check": 1791732525.515191
 }
