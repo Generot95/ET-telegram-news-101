@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.channelnewsasia.com/business/lawmakers-raise-alarm-google-plan-acquire-spirit-airlines-data-ai-models-6444451",
-    "SG Banks|https://www.investing.com/news/company-news/mid-penn-bank-names-christopher-nestore-as-chief-risk-officer-93CH-4939664",
     "SG Banks|https://www.investing.com/news/company-news/cme-group-to-launch-baseball-futures-contracts-on-october-12-93CH-4939665",
     "SG Banks|https://www.investing.com/news/economy-news/brazil-finance-minister-calls-bolsonaro-trade-a-hollow-illusion-4939666",
     "SG Banks|https://www.investing.com/news/company-news/dht-holdings-stock-hits-52week-high-at-2498-usd-93CH-4939667",
@@ -5000,7 +4998,9 @@
     "War|517f82c6-36d3-3a9b-9ae2-5c1702cf7894",
     "Iran|https://www.iranintl.com/en/202610087845",
     "SG Banks|/international/asean/interactive-why-asean-power-grids-future-lies-subsea-cables",
-    "Watchlist|/international/asean/interactive-why-asean-power-grids-future-lies-subsea-cables"
+    "Watchlist|/international/asean/interactive-why-asean-power-grids-future-lies-subsea-cables",
+    "SG Banks|/companies-markets/energy-commodities/interactive-why-asean-power-grids-future-lies-subsea-cables",
+    "Watchlist|/companies-markets/energy-commodities/interactive-why-asean-power-grids-future-lies-subsea-cables"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791677573.0802977
+  "last_check": 1791678489.1594288
 }
