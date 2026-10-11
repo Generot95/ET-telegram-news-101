@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|1edcb039-1026-3616-87e0-283d0426feec",
-    "War|https://www.investing.com/news/commodities-news/oil-falls-as-trump-comments-on-iran-talks-ease-supply-concerns-4940126",
-    "AI|b8b314de-d4af-3c90-8340-04958f838fdf",
-    "AI|https://www.investing.com/news/stock-market-news/flock-safety-to-cut-18-of-roles-amid-privacy-concerns-reuters-93CH-4940116",
-    "AI|https://www.investing.com/news/company-news/innovative-industrial-properties-prices-50m-preferred-stock-offering-93CH-4940118",
-    "AI|https://www.investing.com/news/commodities-news/oil-falls-as-trump-comments-on-iran-talks-ease-supply-concerns-4940126",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/flock-safety-to-cut-18-of-roles-amid-privacy-concerns-reuters-93CH-4940116",
-    "Cybersecurity|https://www.investing.com/news/company-news/innovative-industrial-properties-prices-50m-preferred-stock-offering-93CH-4940118",
     "Cybersecurity|https://www.investing.com/news/commodities-news/oil-falls-as-trump-comments-on-iran-talks-ease-supply-concerns-4940126",
     "SG Banks|https://www.investing.com/news/stock-market-news/flock-safety-to-cut-18-of-roles-amid-privacy-concerns-reuters-93CH-4940116",
     "SG Banks|https://www.investing.com/news/company-news/innovative-industrial-properties-prices-50m-preferred-stock-offering-93CH-4940118",
@@ -5000,7 +4992,15 @@
     "Watchlist|/companies-markets/amazon-talks-buy-us7-billion-ai-startup-decart-wsj-reports",
     "SG Banks|https://www.channelnewsasia.com/commentary/jobs-apply-resume-ai-use-skills-hr-6450116",
     "SG Banks|https://www.channelnewsasia.com/singapore/ilp-investment-linked-policies-demand-complaint-6446421",
-    "SG Banks|https://www.channelnewsasia.com/commentary/sgx-small-mid-caps-weak-liquidity-more-6446281"
+    "SG Banks|https://www.channelnewsasia.com/commentary/sgx-small-mid-caps-weak-liquidity-more-6446281",
+    "SG Banks|/international/global/global-bond-sell-may-mean-fewer-rate-hikes-central-banks",
+    "Watchlist|/international/global/global-bond-sell-may-mean-fewer-rate-hikes-central-banks",
+    "AI|2c6c87d9-f3c9-3135-898e-6e403e608a3b",
+    "Watchlist|23972825-d546-377d-9ea2-bbd46f4b7bf4",
+    "AI|97917094-1ed2-3c63-8498-faf4762e0e86",
+    "Watchlist|97917094-1ed2-3c63-8498-faf4762e0e86",
+    "Watchlist|8dc92b08-da04-33a8-8582-620769fb4955",
+    "Crypto|30c74a64-cf3d-3894-8e2a-9a20af6ccf22"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791756316.1538773
+  "last_check": 1791757226.8118296
 }
