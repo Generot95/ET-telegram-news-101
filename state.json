@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Crypto|ab95b96f-0122-32d1-8745-4672a1fcc90c",
-    "War|a15308a9-f0cf-3f48-8a7a-062b4f3f0a99",
-    "War|WP-MKTW-0005274400",
-    "AI|WP-MKTW-0005274400",
-    "Cybersecurity|WP-MKTW-0005274400",
     "AI|56980e34-0ddd-3b64-a9fb-39aff3dc95a4",
     "Watchlist|56980e34-0ddd-3b64-a9fb-39aff3dc95a4",
     "Watchlist|983d236a-93d9-304f-9f0b-f78410814f12",
@@ -5000,7 +4995,12 @@
     "AI|https://www.investing.com/news/insider-trading-news/abrdn-healthcare-director-alan-goodson-sells-4675-in-stock-93CH-4942481",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/abrdn-healthcare-director-alan-goodson-sells-4675-in-stock-93CH-4942481",
     "SG Banks|https://www.investing.com/news/insider-trading-news/abrdn-healthcare-director-alan-goodson-sells-4675-in-stock-93CH-4942481",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/abrdn-healthcare-director-alan-goodson-sells-4675-in-stock-93CH-4942481"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/abrdn-healthcare-director-alan-goodson-sells-4675-in-stock-93CH-4942481",
+    "War|c179a9db-9d2f-3d5c-8219-8488d8e730eb",
+    "AI|https://www.investing.com/news/economy-news/trump-weighs-renewed-iran-strikes-as-saudi-airport-attack-kills-12-4942483",
+    "Cybersecurity|https://www.investing.com/news/economy-news/trump-weighs-renewed-iran-strikes-as-saudi-airport-attack-kills-12-4942483",
+    "SG Banks|https://www.investing.com/news/economy-news/trump-weighs-renewed-iran-strikes-as-saudi-airport-attack-kills-12-4942483",
+    "Watchlist|https://www.investing.com/news/economy-news/trump-weighs-renewed-iran-strikes-as-saudi-airport-attack-kills-12-4942483"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791701385.1640542
+  "last_check": 1791702302.7003992
 }
