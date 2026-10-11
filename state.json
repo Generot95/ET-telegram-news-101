@@ -1,21 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|/companies-markets/capital-markets-currencies/us-stocks-sp-500-nasdaq-end-lower-crude-prices-jump-chip-stocks-weigh",
-    "SG Banks|https://www.channelnewsasia.com/business/australian-nvidia-backed-ai-data-centre-operator-firmus-shelves-ipo-6444646",
-    "Watchlist|/companies-markets/capital-markets-currencies/us-stocks-sp-500-nasdaq-end-lower-crude-prices-jump-chip-stocks-weigh",
-    "AI|4e0022ce-b6a8-3cc0-b788-2457105d4d9a",
-    "Watchlist|4e0022ce-b6a8-3cc0-b788-2457105d4d9a",
-    "SG Banks|https://www.straitstimes.com/business/companies-markets/sp-500-nasdaq-end-lower-as-crude-prices-jump-chip-stocks-weigh",
-    "AI|96fef768-5b92-3297-b404-ed298605f599",
-    "AI|9ccec5bf-002f-3219-8834-336b600beec9",
-    "War|d65ae261-65c1-3162-bee1-8f345379182d",
-    "Watchlist|fd9c5034-28c6-3d0a-8c98-cfee431548f6",
-    "SG Banks|/companies-markets/capital-markets-currencies/european-shares-close-lower-banks-drop-3-month-lows-oil-prices-weigh",
-    "Watchlist|/companies-markets/capital-markets-currencies/european-shares-close-lower-banks-drop-3-month-lows-oil-prices-weigh",
-    "AI|8928cc71-0093-3a41-9f18-5eecf22f41d6",
-    "Watchlist|8928cc71-0093-3a41-9f18-5eecf22f41d6",
-    "War|https://www.investing.com/news/world-news/liberal-bastion-no-more-rights-groups-fret-over-swedish-crackdown-on-gang-crime-3720016",
     "War|https://www.investing.com/news/world-news/italian-president-tells-musk-to-quit-meddling-in-italys-domestic-politics-3720069",
     "War|https://www.investing.com/news/stock-market-news/us-opens-missile-base-in-poland-as-trump-presidency-looms-over-nato-3718740",
     "War|https://www.investing.com/news/world-news/quinoa-ceviche-and-chinese-fusion-on-menu-as-peru-hosts-biden-xi-3720035",
@@ -5000,7 +4985,22 @@
     "Watchlist|/companies-markets/institutional-and-insider-accumulation-rises-buybacks-accelerate",
     "Watchlist|121328b0-3509-3fc0-b992-2815da246b76",
     "Crypto|8fd41695-998b-37e1-9f86-47d20f036855",
-    "Crypto|3aac185a-f2a2-3ec7-bce2-4e9d46239014"
+    "Crypto|3aac185a-f2a2-3ec7-bce2-4e9d46239014",
+    "AI|https://www.investing.com/news/insider-trading-news/procter--gamble-cfo-andre-schulten-sells-568860-of-stock-93CH-4942633",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/procter--gamble-cfo-andre-schulten-sells-568860-of-stock-93CH-4942633",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/procter--gamble-cfo-andre-schulten-sells-568860-of-stock-93CH-4942633",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/procter--gamble-cfo-andre-schulten-sells-568860-of-stock-93CH-4942633",
+    "SG Banks|/companies-markets/capital-markets-currencies/us-stocks-sp-500-nasdaq-end-lower-crude-prices-jump-chip-stocks-weigh",
+    "Watchlist|/companies-markets/capital-markets-currencies/us-stocks-sp-500-nasdaq-end-lower-crude-prices-jump-chip-stocks-weigh",
+    "AI|200c05dd-8ca5-381a-9346-29d2a1d73e3a",
+    "AI|3b204662-4e35-3608-93ef-a94d2d2431a9",
+    "Watchlist|200c05dd-8ca5-381a-9346-29d2a1d73e3a",
+    "Watchlist|3b204662-4e35-3608-93ef-a94d2d2431a9",
+    "Watchlist|0cb815d2-4f31-375c-9db7-7a2538d88b42",
+    "SG Banks|/companies-markets/capital-markets-currencies/european-shares-close-lower-banks-drop-3-month-lows-oil-prices-weigh",
+    "Watchlist|c43f9b7f-bb26-3c35-92ca-e3fc1d1329ea",
+    "AI|c43f9b7f-bb26-3c35-92ca-e3fc1d1329ea",
+    "Watchlist|/companies-markets/capital-markets-currencies/european-shares-close-lower-banks-drop-3-month-lows-oil-prices-weigh"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791721526.4560568
+  "last_check": 1791722435.2534761
 }
