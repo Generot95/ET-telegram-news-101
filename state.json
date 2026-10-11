@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/australian-nvidiabacked-ai-data-centre-operator-firmus-shelves-ipo-4939919",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/neuraxis-cfo-timothy-henrichs-buys-9375-in-company-stock-93CH-4939914",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/neuraxis-cro-carrico-buys-1587-in-common-stock-93CH-4939915",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/neuraxis-ceo-brian-carrico-buys-1297-in-company-stock-93CH-4939916",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/star-equity-ceo-jeffrey-eberwein-sells-27540-in-preferred-stock-93CH-4939917",
-    "SG Banks|https://www.investing.com/news/stock-market-news/australian-nvidiabacked-ai-data-centre-operator-firmus-shelves-ipo-4939919",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/neuraxis-cfo-timothy-henrichs-buys-9375-in-company-stock-93CH-4939914",
     "Watchlist|https://www.investing.com/news/insider-trading-news/neuraxis-cro-carrico-buys-1587-in-common-stock-93CH-4939915",
     "Watchlist|https://www.investing.com/news/insider-trading-news/neuraxis-ceo-brian-carrico-buys-1297-in-company-stock-93CH-4939916",
     "Watchlist|https://www.investing.com/news/insider-trading-news/star-equity-ceo-jeffrey-eberwein-sells-27540-in-preferred-stock-93CH-4939917",
@@ -5000,7 +4993,14 @@
     "War|0e284e54-dc9a-46d3-a385-f557790516e4",
     "Crypto|f24dc51b-d379-3d7b-8fce-e85ad7dee89d",
     "AI|8ba7512d-6b92-3ec2-885c-21ec6b8c6e4f",
-    "Watchlist|8ba7512d-6b92-3ec2-885c-21ec6b8c6e4f"
+    "Watchlist|8ba7512d-6b92-3ec2-885c-21ec6b8c6e4f",
+    "AI|4d0815b0-86b4-3259-ae9a-8768de2f6b18",
+    "Watchlist|4d0815b0-86b4-3259-ae9a-8768de2f6b18",
+    "War|WP-MKTW-0005276548",
+    "AI|WP-MKTW-0005276548",
+    "Cybersecurity|WP-MKTW-0005276548",
+    "AI|2c53104a-6f31-3f1b-b96e-19fb96a8b6e8",
+    "Watchlist|2c53104a-6f31-3f1b-b96e-19fb96a8b6e8"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791723356.0638943
+  "last_check": 1791724267.4870222
 }
