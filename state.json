@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-tmobile-stock-tumbling-today-93CH-4939889",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/resmed-chairman--ceo-michael-farrell-sells-11m-in-shares-93CH-4939900",
-    "Watchlist|https://www.investing.com/news/company-news/getty-copper-closes-c15m-flowthrough-share-financing-93CH-4939905",
-    "Watchlist|https://www.investing.com/news/company-news/amentum-opens-nuclear-headquarters-in-oak-ridge-tennessee-93CH-4939904",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-park-aerospace-tops-q2-2026-estimates-shares-rise-93CH-4939906",
-    "Watchlist|https://www.investing.com/news/stock-market-news/exclusivesouthwest-airlines-weighs-boeing-787-for-longhaul-international-push-sources-say-4939907",
     "SG Banks|/companies-markets/capital-markets-currencies/us-stocks-sp-500-nasdaq-end-lower-crude-prices-jump-chip-stocks-weigh",
     "SG Banks|https://www.channelnewsasia.com/business/australian-nvidia-backed-ai-data-centre-operator-firmus-shelves-ipo-6444646",
     "Watchlist|/companies-markets/capital-markets-currencies/us-stocks-sp-500-nasdaq-end-lower-crude-prices-jump-chip-stocks-weigh",
@@ -5000,7 +4994,13 @@
     "AI|a917835e-8f62-32b1-858d-fab0cb483473",
     "Watchlist|a917835e-8f62-32b1-858d-fab0cb483473",
     "AI|b87a6b86-a71f-385f-ab0d-cfb99a567522",
-    "Watchlist|b87a6b86-a71f-385f-ab0d-cfb99a567522"
+    "Watchlist|b87a6b86-a71f-385f-ab0d-cfb99a567522",
+    "AI|22b2a508-370e-3c0c-b7a8-fdd575897a55",
+    "SG Banks|/companies-markets/institutional-and-insider-accumulation-rises-buybacks-accelerate",
+    "Watchlist|/companies-markets/institutional-and-insider-accumulation-rises-buybacks-accelerate",
+    "Watchlist|121328b0-3509-3fc0-b992-2815da246b76",
+    "Crypto|8fd41695-998b-37e1-9f86-47d20f036855",
+    "Crypto|3aac185a-f2a2-3ec7-bce2-4e9d46239014"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791720605.1911762
+  "last_check": 1791721526.4560568
 }
