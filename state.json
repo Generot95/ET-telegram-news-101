@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/american-coastal-subsidiary-receives-arizona-insurance-license-93CH-4939727",
-    "Cybersecurity|https://www.investing.com/news/company-news/clip-money-extends-private-placement-deadline-to-oct-22-93CH-4939726",
-    "Cybersecurity|https://www.investing.com/news/company-news/ucla-engineering-school-joins-applied-materials-epic-center-93CH-4939728",
-    "Cybersecurity|https://www.investing.com/news/company-news/novabridge-to-present-givastomig-trial-data-at-esmo-congress-93CH-4939729",
-    "Cybersecurity|https://www.investing.com/news/company-news/terrestrial-energy-submits-regulatory-filing-for-reactor-plant-93CH-4939711",
-    "Cybersecurity|https://www.investing.com/news/company-news/guardant-health-receives-european-approval-for-breast-cancer-test-93CH-4939741",
-    "Cybersecurity|https://www.investing.com/news/company-news/kb-home-declares-quarterly-dividend-of-25-cents-per-share-93CH-4939742",
-    "Cybersecurity|https://www.investing.com/news/company-news/ginkgo-bioworks-to-support-nsf-xlabs-with-lab-access-93CH-4939743",
-    "SG Banks|https://www.investing.com/news/stock-market-news/gap-sees-executive-exit-as-catalyst-to-rebuild-struggling-athleta-unit--bloomberg-4939723",
-    "SG Banks|https://www.investing.com/news/stock-market-news/cocacola-looks-to-sell-costa-coffee-semafor-reports-4939724",
     "SG Banks|https://www.investing.com/news/company-news/encirc-selects-powerfleet-for-manufacturing-safety-systems-93CH-4939725",
     "SG Banks|https://www.investing.com/news/company-news/american-coastal-subsidiary-receives-arizona-insurance-license-93CH-4939727",
     "SG Banks|https://www.investing.com/news/company-news/clip-money-extends-private-placement-deadline-to-oct-22-93CH-4939726",
@@ -5000,7 +4990,17 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/ncino-ceo-sean-desmond-sells-150716-of-ncno-stock-93CH-4942392",
     "Watchlist|https://www.investing.com/news/insider-trading-news/sunrun-president--cro-paul-dickson-sells-122971-in-company-stock-93CH-4942393",
     "SG Banks|/companies-markets/energy-commodities/jefferies-run-fund-says-it-found-fraud-us900-million-radiant-world-deals",
-    "Watchlist|/companies-markets/energy-commodities/jefferies-run-fund-says-it-found-fraud-us900-million-radiant-world-deals"
+    "Watchlist|/companies-markets/energy-commodities/jefferies-run-fund-says-it-found-fraud-us900-million-radiant-world-deals",
+    "SG Banks|/companies-markets/energy-commodities/jefferies-run-fund-alleges-industrial-scale-fraud-nearly-us900-million-radiant-world-deals",
+    "Watchlist|/companies-markets/energy-commodities/jefferies-run-fund-alleges-industrial-scale-fraud-nearly-us900-million-radiant-world-deals",
+    "AI|https://www.investing.com/news/economy-news/could-a-change-of-government-in-spain-have-big-implications-on-energy-policy-4942397",
+    "AI|https://www.investing.com/news/insider-trading-news/twist-bioscience-ceo-emily-leproust-sells-919373-in-stock-93CH-4942406",
+    "Cybersecurity|https://www.investing.com/news/economy-news/could-a-change-of-government-in-spain-have-big-implications-on-energy-policy-4942397",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/twist-bioscience-ceo-emily-leproust-sells-919373-in-stock-93CH-4942406",
+    "SG Banks|https://www.investing.com/news/economy-news/could-a-change-of-government-in-spain-have-big-implications-on-energy-policy-4942397",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/twist-bioscience-ceo-emily-leproust-sells-919373-in-stock-93CH-4942406",
+    "Watchlist|https://www.investing.com/news/economy-news/could-a-change-of-government-in-spain-have-big-implications-on-energy-policy-4942397",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/twist-bioscience-ceo-emily-leproust-sells-919373-in-stock-93CH-4942406"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791683056.438511
+  "last_check": 1791683972.8097608
 }
