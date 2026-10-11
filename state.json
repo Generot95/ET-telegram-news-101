@@ -1,20 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|https://www.investing.com/news/world-news/exclusivein-interview-us-vice-president-vance-says-iran-must-cut-enrichment-to-end-war-4935380",
-    "War|https://www.investing.com/news/world-news/once-shunned-myanmars-militarybacked-leader-set-for-malaysian-red-carpet-4935614",
-    "War|https://www.investing.com/news/world-news/north-korea-warns-us-over-taiwan-while-kim-pledges-support-for-russia-4935335",
-    "War|https://www.investing.com/news/world-news/houthis-attack-aden-airport-as-fighting-intensifies-in-yemen-4935688",
-    "War|https://www.investing.com/news/world-news/us-forces-face-curfew-alcohol-ban-in-japans-okinawa-after-murder-case-4935537",
-    "War|https://www.investing.com/news/world-news/more-unaccompanied-children-are-taking-dangerous-crossings-to-europe-un-says-4935891",
-    "War|https://www.investing.com/news/world-news/nasa-rover-takes-striking-image-of-dawns-early-light-on-mars-4935912",
-    "War|https://www.investing.com/news/world-news/who-seeks-details-from-russia-on-media-reports-of-asecondlab-worker-with-pneumonia-4935926",
-    "War|https://www.investing.com/news/commodities-news/euronext-wheat-rises-as-weak-euro-lifts-export-outlook-93CH-4939681",
-    "War|fda5a446-86b7-465a-8caf-4be64d326bab",
-    "SG Banks|https://www.channelnewsasia.com/business/explainer-skilled-foreign-tech-workers-green-card-program-under-attack-trump-6444461",
-    "Watchlist|6a04460f-42f9-3b7d-8c1d-57d3adb58c2a",
-    "War|cb6faa6c-ebbe-3df3-847c-9ea6aaede9a3",
-    "AI|c2ea0f29-1143-35aa-98db-548357c2646d",
     "AI|0ab9534d-d4af-30e7-a0dd-9f099a7eb716",
     "Watchlist|0ab9534d-d4af-30e7-a0dd-9f099a7eb716",
     "Watchlist|c2ea0f29-1143-35aa-98db-548357c2646d",
@@ -5000,7 +4986,21 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/gap-chief-legal-officer-julie-gruber-sells-648679-in-stock-93CH-4942338",
     "Watchlist|https://www.investing.com/news/insider-trading-news/onemednet-ceo-aaron-green-sells-47762-in-company-stock-93CH-4942347",
     "Watchlist|https://www.investing.com/news/insider-trading-news/twilio-ceo-khozema-shipchandler-sells-42-million-in-stock-93CH-4942348",
-    "Watchlist|https://www.investing.com/news/economy-news/global-trust-in-science-falls-below-prepandemic-levels-survey-finds-4942351"
+    "Watchlist|https://www.investing.com/news/economy-news/global-trust-in-science-falls-below-prepandemic-levels-survey-finds-4942351",
+    "AI|6162fccd-b6eb-3641-9b02-62dd249845b2",
+    "Watchlist|6162fccd-b6eb-3641-9b02-62dd249845b2",
+    "AI|https://www.investing.com/news/insider-trading-news/sunrun-cfo-danny-abajian-sells-129931-in-shares-93CH-4942358",
+    "AI|https://www.investing.com/news/insider-trading-news/workday-director-david-duffield-sells-185m-in-shares-93CH-4942359",
+    "AI|https://www.investing.com/news/insider-trading-news/sunrun-cao-maria-barak-sells-13753-in-stock-93CH-4942369",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/sunrun-cfo-danny-abajian-sells-129931-in-shares-93CH-4942358",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/workday-director-david-duffield-sells-185m-in-shares-93CH-4942359",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/sunrun-cao-maria-barak-sells-13753-in-stock-93CH-4942369",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/sunrun-cfo-danny-abajian-sells-129931-in-shares-93CH-4942358",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/workday-director-david-duffield-sells-185m-in-shares-93CH-4942359",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/sunrun-cao-maria-barak-sells-13753-in-stock-93CH-4942369",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/sunrun-cfo-danny-abajian-sells-129931-in-shares-93CH-4942358",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/workday-director-david-duffield-sells-185m-in-shares-93CH-4942359",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/sunrun-cao-maria-barak-sells-13753-in-stock-93CH-4942369"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791679393.5260372
+  "last_check": 1791680315.6583385
 }
