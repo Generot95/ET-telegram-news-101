@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/commodities-news/oil-falls-as-trump-comments-on-iran-talks-ease-supply-concerns-4940126",
-    "SG Banks|https://www.investing.com/news/stock-market-news/flock-safety-to-cut-18-of-roles-amid-privacy-concerns-reuters-93CH-4940116",
-    "SG Banks|https://www.investing.com/news/company-news/innovative-industrial-properties-prices-50m-preferred-stock-offering-93CH-4940118",
-    "SG Banks|https://www.investing.com/news/commodities-news/oil-falls-as-trump-comments-on-iran-talks-ease-supply-concerns-4940126",
-    "Watchlist|b8b314de-d4af-3c90-8340-04958f838fdf",
-    "Watchlist|https://www.investing.com/news/stock-market-news/flock-safety-to-cut-18-of-roles-amid-privacy-concerns-reuters-93CH-4940116",
-    "Watchlist|https://www.investing.com/news/company-news/innovative-industrial-properties-prices-50m-preferred-stock-offering-93CH-4940118",
-    "Watchlist|https://www.investing.com/news/commodities-news/oil-falls-as-trump-comments-on-iran-talks-ease-supply-concerns-4940126",
-    "AI|0bb93f85-e861-3412-ab81-1decdff60b73",
     "AI|f16184f5-9131-308e-b381-44ac345caa54",
     "Watchlist|0bb93f85-e861-3412-ab81-1decdff60b73",
     "War|96017965-e1ac-3556-8b3c-03d5ada5158c",
@@ -5000,7 +4991,16 @@
     "AI|97917094-1ed2-3c63-8498-faf4762e0e86",
     "Watchlist|97917094-1ed2-3c63-8498-faf4762e0e86",
     "Watchlist|8dc92b08-da04-33a8-8582-620769fb4955",
-    "Crypto|30c74a64-cf3d-3894-8e2a-9a20af6ccf22"
+    "Crypto|30c74a64-cf3d-3894-8e2a-9a20af6ccf22",
+    "AI|5901f2a7-ceda-31be-952d-b7c9b02ee306",
+    "Watchlist|5901f2a7-ceda-31be-952d-b7c9b02ee306",
+    "War|https://www.investing.com/news/commodities-news/faa-tells-us-airlines-to-exercise-caution-in-saudi-arabia-flights-citing-safety-risks-4942859",
+    "AI|https://www.investing.com/news/commodities-news/faa-tells-us-airlines-to-exercise-caution-in-saudi-arabia-flights-citing-safety-risks-4942859",
+    "Cybersecurity|https://www.investing.com/news/commodities-news/faa-tells-us-airlines-to-exercise-caution-in-saudi-arabia-flights-citing-safety-risks-4942859",
+    "SG Banks|https://www.investing.com/news/commodities-news/faa-tells-us-airlines-to-exercise-caution-in-saudi-arabia-flights-citing-safety-risks-4942859",
+    "Watchlist|https://www.investing.com/news/commodities-news/faa-tells-us-airlines-to-exercise-caution-in-saudi-arabia-flights-citing-safety-risks-4942859",
+    "AI|62522369-2f78-3fea-9c26-3b48d60d3cd7",
+    "Watchlist|62522369-2f78-3fea-9c26-3b48d60d3cd7"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791757226.8118296
+  "last_check": 1791758140.9725852
 }
