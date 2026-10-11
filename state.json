@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|WP-MKTW-0005277606",
-    "Cybersecurity|408af315-71ea-39e2-aeb6-3269af565c25",
-    "Cybersecurity|WP-MKTW-0005277606",
-    "AI|eac86dc4-c940-3978-98d6-ec04ea4747bb",
-    "Watchlist|eac86dc4-c940-3978-98d6-ec04ea4747bb",
     "AI|https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-83k-as-meast-tensions-soaring-yields-dent-crypto-appetite-4937967",
     "AI|https://www.investing.com/news/stock-market-news/why-is-verizon-stock-sliding-today-93CH-4939887",
     "AI|https://www.investing.com/news/stock-market-news/why-is-att-stock-tumbling-today-93CH-4939888",
@@ -5000,7 +4995,12 @@
     "Watchlist|https://www.investing.com/news/company-news/russian-tech-giant-yandex-halts-vladimir-data-center-after-fresh-drone-attack-4942599",
     "Watchlist|https://www.investing.com/news/investment-ideas/how-investingpro-spotted-hanmi-financials-67-gain-in-january-2024-93CH-4942600",
     "Iran|https://www.iranintl.com/en/202610086381",
-    "Crypto|f9d2b662-acdc-3a30-86a0-b6f5caf3f625"
+    "Crypto|f9d2b662-acdc-3a30-86a0-b6f5caf3f625",
+    "AI|5549c57a-6675-3d86-ae9a-84522faa7a8b",
+    "AI|dfb15378-dd8f-34cd-991f-a53d0308a1ae",
+    "Watchlist|5549c57a-6675-3d86-ae9a-84522faa7a8b",
+    "Watchlist|dfb15378-dd8f-34cd-991f-a53d0308a1ae",
+    "Crypto|6382ecd6-931d-3033-80d1-82e31bd3a19b"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791717849.8595622
+  "last_check": 1791718776.2061846
 }
