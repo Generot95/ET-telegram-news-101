@@ -1,7 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Iran|CBMitgFBVV95cUxONDhxR0dqUFA0azE1VWJaVzJNckpWSDRZVUU1eVdac0V1VXlIYTNtTHhZZ2R2eDBjUlRZNkZ1elppSVptYXE4T3FKZkdSNDRBTDFFNDVaeUVWa2hva3huNlNxXzJFU20yZHR4ZUxzM1lUM0d2MzJTUGlvV2ZmWklzNk9uM3kyMDB3MjBOeTdIbEhLOFhjSEI3d0hSaXJEeGdfQk1uc0psR1MzaGFBNFhYUUxINExPQQ",
     "Iran|CBMiXEFVX3lxTE5jeUhmWWIzMHE4ZHNuWnV4aHJFVVhQdTRRMG5mMFlldlUzRU1DeDlENF9ULWNlVTBzeEhZVmFWa0RSbVdMRTAxYjlQWl9uRkdZN3dYYndERjFHR0Np0gFiQVVfeXFMUE1nQnNXR08zS0R6T3pTZVdzZDYyemdQSy1OdVRsWkp0T2NFbXhEVnE2U1U4eFdUWVRkLXVNUHpidVBSbGhZck9fQmtZOWR0N2J6clhkNU9QVk93cWhaM0JmaHc",
     "AI|https://www.investing.com/news/economy-news/tech-stocks-struggle-on-ai-spending-worries-elevated-yields-4940101",
     "AI|https://www.investing.com/news/economy-news/chinese-developer-makes-artex-ai-agent-closedsource-after-korean-bank-hack-4940102",
@@ -5000,7 +4999,8 @@
     "SG Banks|https://www.investing.com/news/stock-market-news/investors-are-likely-to-focus-on-spacexs-starship-tech-milestones-not-results-4942839",
     "SG Banks|https://www.investing.com/news/insider-trading-news/astera-labs-director-dyckerhoff-sells-47-million-in-shares-93CH-4942843",
     "Watchlist|https://www.investing.com/news/stock-market-news/investors-are-likely-to-focus-on-spacexs-starship-tech-milestones-not-results-4942839",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/astera-labs-director-dyckerhoff-sells-47-million-in-shares-93CH-4942843"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/astera-labs-director-dyckerhoff-sells-47-million-in-shares-93CH-4942843",
+    "SG Banks|https://www.straitstimes.com/business/askst-jobs-i-keep-having-to-pick-up-a-colleagues-work-how-should-i-raise-it-with-my-boss"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791751727.1459126
+  "last_check": 1791752653.456171
 }
