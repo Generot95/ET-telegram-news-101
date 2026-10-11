@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|56980e34-0ddd-3b64-a9fb-39aff3dc95a4",
-    "Watchlist|56980e34-0ddd-3b64-a9fb-39aff3dc95a4",
-    "Watchlist|983d236a-93d9-304f-9f0b-f78410814f12",
-    "SG Banks|https://www.channelnewsasia.com/business/spacex-takes-aim-us-wireless-carriers-spectrum-acquisition-6444486",
-    "War|48b8d8d8-113b-3d23-96d3-5fd685d362f9",
-    "War|WP-MKTW-0005272000",
     "AI|https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-liquidia-stock-rating-amid-legal-filings-93CH-4939814",
     "AI|https://www.investing.com/news/company-news/enerpac-tool-group-adds-charles-lauber-to-board-of-directors-93CH-4939815",
     "AI|https://www.investing.com/news/company-news/delaware-supreme-court-upholds-atg-capital-board-nominees-93CH-4939816",
@@ -5000,7 +4994,13 @@
     "AI|https://www.investing.com/news/economy-news/trump-weighs-renewed-iran-strikes-as-saudi-airport-attack-kills-12-4942483",
     "Cybersecurity|https://www.investing.com/news/economy-news/trump-weighs-renewed-iran-strikes-as-saudi-airport-attack-kills-12-4942483",
     "SG Banks|https://www.investing.com/news/economy-news/trump-weighs-renewed-iran-strikes-as-saudi-airport-attack-kills-12-4942483",
-    "Watchlist|https://www.investing.com/news/economy-news/trump-weighs-renewed-iran-strikes-as-saudi-airport-attack-kills-12-4942483"
+    "Watchlist|https://www.investing.com/news/economy-news/trump-weighs-renewed-iran-strikes-as-saudi-airport-attack-kills-12-4942483",
+    "AI|fa0d42e5-eefe-3dd9-ab2a-b2ec58c2b163",
+    "Crypto|fa0d42e5-eefe-3dd9-ab2a-b2ec58c2b163",
+    "Watchlist|fa0d42e5-eefe-3dd9-ab2a-b2ec58c2b163",
+    "SG Banks|/companies-markets/consumer-healthcare/mary-chia-admits-disclosure-lapses-over-cpf-arrears-four-subsidiaries-after-sgx-queries",
+    "SG Banks|https://www.channelnewsasia.com/business/musk-vows-affordable-starlink-in-india-days-ambanis-record-jio-ipo-6450016",
+    "Watchlist|/companies-markets/consumer-healthcare/mary-chia-admits-disclosure-lapses-over-cpf-arrears-four-subsidiaries-after-sgx-queries"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791702302.7003992
+  "last_check": 1791703211.941562
 }
