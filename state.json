@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/economy-news/euro-skids-toward-fifth-weekly-fall-but-selling-pressure-slows-4940078",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/japan-post-holdings-a-10-owner-sells-148m-in-aflac-shares-93CH-4940074",
     "Watchlist|https://www.investing.com/news/stock-market-news/nikkei-225-hits-70037-overbought-high-pullback-risk-live-93CH-4930979",
     "Watchlist|https://www.investing.com/news/stock-market-news/softbank-shares-slide-as-openai-revenue-report-dents-ai-optimism-4940076",
     "Watchlist|https://www.investing.com/news/economy-news/euro-skids-toward-fifth-weekly-fall-but-selling-pressure-slows-4940078",
@@ -5000,7 +4998,9 @@
     "SG Banks|https://www.investing.com/news/stock-market-news/stellantis-bets-on-small-affordable-evs-for-european-comeback-4942779",
     "Watchlist|9d4ee7f9-a987-309a-a4d6-5ad35d5ea658",
     "Watchlist|https://www.investing.com/news/stock-market-news/stellantis-bets-on-small-affordable-evs-for-european-comeback-4942779",
-    "Crypto|8337c85c-a619-3bd1-82dc-8fcae3430f78"
+    "Crypto|8337c85c-a619-3bd1-82dc-8fcae3430f78",
+    "AI|16b40ce4-11b7-3535-b06c-e28a19a35e2e",
+    "Watchlist|16b40ce4-11b7-3535-b06c-e28a19a35e2e"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791739844.4692376
+  "last_check": 1791740751.7895422
 }
