@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|WP-MKTW-0005278057",
-    "AI|WP-MKTW-0005278057",
-    "Cybersecurity|WP-MKTW-0005278057",
     "AI|https://www.investing.com/news/company-news/rubrik-expands-project-hourglass-with-three-new-partners-93CH-4940051",
     "AI|https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-slides-on-openai-revenue-concerns-4940052",
     "AI|https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-549m-in-stock-on-oct-67-93CH-4940062",
@@ -5000,7 +4997,10 @@
     "AI|c524c8e3-18e5-3735-815c-e955e3ef3360",
     "Crypto|c524c8e3-18e5-3735-815c-e955e3ef3360",
     "Watchlist|c524c8e3-18e5-3735-815c-e955e3ef3360",
-    "SG Banks|/companies-markets/banking-finance/amex-fined-us350-million-anti-money-laundering-lapses"
+    "SG Banks|/companies-markets/banking-finance/amex-fined-us350-million-anti-money-laundering-lapses",
+    "Watchlist|/companies-markets/banking-finance/amex-fined-us350-million-anti-money-laundering-lapses",
+    "Crypto|d6b620b7-c3bc-3d3f-9f16-0c259bf4dbc4",
+    "War|592d0094-c37a-307c-962f-7786f68ff950"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791736178.5563653
+  "last_check": 1791737087.3610969
 }
