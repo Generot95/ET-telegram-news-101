@@ -1,7 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|671454e9-fb29-382e-b256-f14389027659",
     "Iran|https://www.iranintl.com/en/202610085516",
     "AI|https://www.investing.com/news/forex-news/asia-fx-muted-dollar-heads-for-fourth-straight-week-of-gains-4940141",
     "Cybersecurity|https://www.investing.com/news/forex-news/asia-fx-muted-dollar-heads-for-fourth-straight-week-of-gains-4940141",
@@ -5000,7 +4999,8 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/cargurus-cmo-dafna-sarnoff-sells-214271-of-class-a-shares-93CH-4942875",
     "Watchlist|https://www.investing.com/news/insider-trading-news/applied-materials-corp-controller-sells-394807-in-stock-93CH-4942881",
     "SG Banks|/companies-markets/energy-commodities/oil-rises-saudi-airport-and-tanker-attacks-stoke-supply-fears",
-    "Watchlist|/companies-markets/energy-commodities/oil-rises-saudi-airport-and-tanker-attacks-stoke-supply-fears"
+    "Watchlist|/companies-markets/energy-commodities/oil-rises-saudi-airport-and-tanker-attacks-stoke-supply-fears",
+    "SG Banks|https://www.straitstimes.com/business/oil-rises-on-middle-east-attacks-us-dollar-edges-higher"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791759979.9952989
+  "last_check": 1791760894.382861
 }
