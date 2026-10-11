@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|0ab9534d-d4af-30e7-a0dd-9f099a7eb716",
-    "Watchlist|0ab9534d-d4af-30e7-a0dd-9f099a7eb716",
     "Watchlist|c2ea0f29-1143-35aa-98db-548357c2646d",
     "War|67855caf-1fb3-37b0-92ee-95da508d861b",
     "AI|b332ea0a-ecdf-3457-8fcd-7d50c0277e8e",
@@ -5000,7 +4998,9 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/sunrun-cao-maria-barak-sells-13753-in-stock-93CH-4942369",
     "Watchlist|https://www.investing.com/news/insider-trading-news/sunrun-cfo-danny-abajian-sells-129931-in-shares-93CH-4942358",
     "Watchlist|https://www.investing.com/news/insider-trading-news/workday-director-david-duffield-sells-185m-in-shares-93CH-4942359",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/sunrun-cao-maria-barak-sells-13753-in-stock-93CH-4942369"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/sunrun-cao-maria-barak-sells-13753-in-stock-93CH-4942369",
+    "AI|7ee56234-5ea1-37c8-b077-2f84b446c074",
+    "Watchlist|7ee56234-5ea1-37c8-b077-2f84b446c074"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791680315.6583385
+  "last_check": 1791681235.902735
 }
