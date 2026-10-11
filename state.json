@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-030-4939787",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/spacex-to-acquire-spectrum-that-enables-starlink-mobile-services-4939769",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-010-4939788",
-    "Cybersecurity|https://www.investing.com/news/earnings/oildri-shares-move-higher-on-record-quarterly-revenue-93CH-4939794",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/calix-stock-jumps-5-on-100m-buyback-program-expansion-4939795",
-    "Cybersecurity|https://www.investing.com/news/company-news/childrens-place-appoints-elizabeth-lapuma-to-board-93CH-4939796",
     "Cybersecurity|https://www.investing.com/news/company-news/supermicro-appoints-former-intel-executive-to-board-93CH-4939798",
     "Cybersecurity|https://www.investing.com/news/company-news/mercury-systems-expands-phoenix-facility-by-50000-sq-ft-93CH-4939797",
     "Cybersecurity|https://www.investing.com/news/company-news/bitdeer-ai-secures-60mw-malaysia-data-center-facility-93CH-4939799",
@@ -5000,7 +4994,13 @@
     "SG Banks|https://www.investing.com/news/economy-news/middle-east-war-high-debt-levels-to-dominate-imfworld-bank-meetings-in-bangkok-4942461",
     "Watchlist|https://www.investing.com/news/economy-news/middle-east-war-high-debt-levels-to-dominate-imfworld-bank-meetings-in-bangkok-4942461",
     "Iran|https://www.iranintl.com/en/202610118579",
-    "SG Banks|https://www.straitstimes.com/business/mary-chia-admits-disclosure-lapses-over-cpf-arrears-at-four-subsidiaries-after-sgx-queries"
+    "SG Banks|https://www.straitstimes.com/business/mary-chia-admits-disclosure-lapses-over-cpf-arrears-at-four-subsidiaries-after-sgx-queries",
+    "AI|https://www.investing.com/news/company-news/apples-chinese-supplier-luxshare-downplays-impact-of-us-patent-probe-4942462",
+    "Cybersecurity|https://www.investing.com/news/company-news/apples-chinese-supplier-luxshare-downplays-impact-of-us-patent-probe-4942462",
+    "SG Banks|https://www.investing.com/news/company-news/apples-chinese-supplier-luxshare-downplays-impact-of-us-patent-probe-4942462",
+    "Watchlist|https://www.investing.com/news/company-news/apples-chinese-supplier-luxshare-downplays-impact-of-us-patent-probe-4942462",
+    "SG Banks|/companies-markets/telcos-media-tech/nvidia-weighs-deeper-ties-open-model-developer-reflection-ai-through-investment-or-computing-deal",
+    "Watchlist|/companies-markets/telcos-media-tech/nvidia-weighs-deeper-ties-open-model-developer-reflection-ai-through-investment-or-computing-deal"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791693147.9539907
+  "last_check": 1791694079.4622123
 }
