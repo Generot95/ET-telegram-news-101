@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/kopin-secures-186m-military-contract-for-microled-displays-93CH-4939800",
-    "Cybersecurity|https://www.investing.com/news/company-news/barnes--noble-education-ends-september-with-no-debt-on-revolver-93CH-4939766",
-    "Cybersecurity|https://www.investing.com/news/company-news/svrn-acquires-fastnear-infrastructure-provider-for-near-protocol-93CH-4939767",
-    "Cybersecurity|https://www.investing.com/news/company-news/mfa-financial-announces-ceo-succession-plan-for-2027-93CH-4939768",
-    "Cybersecurity|https://www.investing.com/news/company-news/matador-resources-closes-13600acre-woodford-acquisition-93CH-4939770",
     "Cybersecurity|https://www.investing.com/news/company-news/cohen--steers-reports-959-billion-aum-for-september-93CH-4939775",
     "SG Banks|https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-030-4939787",
     "SG Banks|https://www.investing.com/news/stock-market-news/spacex-to-acquire-spectrum-that-enables-starlink-mobile-services-4939769",
@@ -5000,7 +4995,12 @@
     "Watchlist|/companies-markets/telcos-media-tech/nvidia-weighs-deeper-ties-open-model-developer-reflection-ai-through-investment-or-computing-deal",
     "War|0940d0b6-25ee-34cf-8f16-6208e7c07acf",
     "AI|f5fba8be-f60b-3d8e-98be-cf5f544286f4",
-    "Watchlist|f5fba8be-f60b-3d8e-98be-cf5f544286f4"
+    "Watchlist|f5fba8be-f60b-3d8e-98be-cf5f544286f4",
+    "AI|https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-near-83000-a-year-after-19-billion-crypto-crash-4942465",
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-near-83000-a-year-after-19-billion-crypto-crash-4942465",
+    "Cybersecurity|https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-near-83000-a-year-after-19-billion-crypto-crash-4942465",
+    "SG Banks|https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-near-83000-a-year-after-19-billion-crypto-crash-4942465",
+    "Watchlist|https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-near-83000-a-year-after-19-billion-crypto-crash-4942465"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791696805.9294066
+  "last_check": 1791697705.988855
 }
