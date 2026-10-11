@@ -1,24 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|2c30facf-5388-391d-9f38-e12fa1772f47",
-    "AI|https://www.investing.com/news/stock-market-news/gap-sees-executive-exit-as-catalyst-to-rebuild-struggling-athleta-unit--bloomberg-4939723",
-    "AI|https://www.investing.com/news/stock-market-news/cocacola-looks-to-sell-costa-coffee-semafor-reports-4939724",
-    "AI|https://www.investing.com/news/company-news/encirc-selects-powerfleet-for-manufacturing-safety-systems-93CH-4939725",
-    "AI|https://www.investing.com/news/company-news/american-coastal-subsidiary-receives-arizona-insurance-license-93CH-4939727",
-    "AI|https://www.investing.com/news/company-news/clip-money-extends-private-placement-deadline-to-oct-22-93CH-4939726",
-    "AI|https://www.investing.com/news/company-news/ucla-engineering-school-joins-applied-materials-epic-center-93CH-4939728",
-    "AI|https://www.investing.com/news/company-news/novabridge-to-present-givastomig-trial-data-at-esmo-congress-93CH-4939729",
-    "AI|https://www.investing.com/news/stock-market-news/disney-pitches-rival-studios-on-infinity-vision-to-challenge-imax--bloomberg-4939705",
-    "AI|https://www.investing.com/news/company-news/terrestrial-energy-submits-regulatory-filing-for-reactor-plant-93CH-4939711",
-    "AI|https://www.investing.com/news/company-news/guardant-health-receives-european-approval-for-breast-cancer-test-93CH-4939741",
-    "AI|https://www.investing.com/news/company-news/kb-home-declares-quarterly-dividend-of-25-cents-per-share-93CH-4939742",
-    "AI|https://www.investing.com/news/company-news/ginkgo-bioworks-to-support-nsf-xlabs-with-lab-access-93CH-4939743",
-    "Crypto|40e046d5-0683-3a2a-b141-300c0b8c8f4e",
-    "Crypto|9e81d9bf-1e82-3bed-bebc-d6c341759c00",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/gap-sees-executive-exit-as-catalyst-to-rebuild-struggling-athleta-unit--bloomberg-4939723",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/cocacola-looks-to-sell-costa-coffee-semafor-reports-4939724",
-    "Cybersecurity|https://www.investing.com/news/company-news/encirc-selects-powerfleet-for-manufacturing-safety-systems-93CH-4939725",
     "Cybersecurity|https://www.investing.com/news/company-news/american-coastal-subsidiary-receives-arizona-insurance-license-93CH-4939727",
     "Cybersecurity|https://www.investing.com/news/company-news/clip-money-extends-private-placement-deadline-to-oct-22-93CH-4939726",
     "Cybersecurity|https://www.investing.com/news/company-news/ucla-engineering-school-joins-applied-materials-epic-center-93CH-4939728",
@@ -5000,7 +4982,25 @@
     "AI|https://www.investing.com/news/insider-trading-news/sunrun-chief-legal--people-officer-sells-77967-in-stock-93CH-4942379",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/sunrun-chief-legal--people-officer-sells-77967-in-stock-93CH-4942379",
     "SG Banks|https://www.investing.com/news/insider-trading-news/sunrun-chief-legal--people-officer-sells-77967-in-stock-93CH-4942379",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/sunrun-chief-legal--people-officer-sells-77967-in-stock-93CH-4942379"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/sunrun-chief-legal--people-officer-sells-77967-in-stock-93CH-4942379",
+    "AI|https://www.investing.com/news/insider-trading-news/pc-connection-director-david-beffanegrini-sells-405250-in-stock-93CH-4942385",
+    "AI|https://www.investing.com/news/insider-trading-news/sunrun-ceo-mary-powell-sells-188939-in-shares-93CH-4942386",
+    "AI|https://www.investing.com/news/insider-trading-news/ncino-ceo-sean-desmond-sells-150716-of-ncno-stock-93CH-4942392",
+    "AI|https://www.investing.com/news/insider-trading-news/sunrun-president--cro-paul-dickson-sells-122971-in-company-stock-93CH-4942393",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/pc-connection-director-david-beffanegrini-sells-405250-in-stock-93CH-4942385",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/sunrun-ceo-mary-powell-sells-188939-in-shares-93CH-4942386",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/ncino-ceo-sean-desmond-sells-150716-of-ncno-stock-93CH-4942392",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/sunrun-president--cro-paul-dickson-sells-122971-in-company-stock-93CH-4942393",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/pc-connection-director-david-beffanegrini-sells-405250-in-stock-93CH-4942385",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/sunrun-ceo-mary-powell-sells-188939-in-shares-93CH-4942386",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/ncino-ceo-sean-desmond-sells-150716-of-ncno-stock-93CH-4942392",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/sunrun-president--cro-paul-dickson-sells-122971-in-company-stock-93CH-4942393",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/pc-connection-director-david-beffanegrini-sells-405250-in-stock-93CH-4942385",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/sunrun-ceo-mary-powell-sells-188939-in-shares-93CH-4942386",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/ncino-ceo-sean-desmond-sells-150716-of-ncno-stock-93CH-4942392",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/sunrun-president--cro-paul-dickson-sells-122971-in-company-stock-93CH-4942393",
+    "SG Banks|/companies-markets/energy-commodities/jefferies-run-fund-says-it-found-fraud-us900-million-radiant-world-deals",
+    "Watchlist|/companies-markets/energy-commodities/jefferies-run-fund-says-it-found-fraud-us900-million-radiant-world-deals"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791682140.7056155
+  "last_check": 1791683056.438511
 }
