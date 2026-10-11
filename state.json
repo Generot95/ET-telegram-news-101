@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/cohen--steers-reports-959-billion-aum-for-september-93CH-4939775",
-    "SG Banks|https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-030-4939787",
-    "SG Banks|https://www.investing.com/news/stock-market-news/spacex-to-acquire-spectrum-that-enables-starlink-mobile-services-4939769",
-    "SG Banks|https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-010-4939788",
-    "SG Banks|https://www.investing.com/news/earnings/oildri-shares-move-higher-on-record-quarterly-revenue-93CH-4939794",
-    "SG Banks|https://www.investing.com/news/stock-market-news/calix-stock-jumps-5-on-100m-buyback-program-expansion-4939795",
-    "SG Banks|https://www.investing.com/news/company-news/childrens-place-appoints-elizabeth-lapuma-to-board-93CH-4939796",
-    "SG Banks|https://www.investing.com/news/company-news/supermicro-appoints-former-intel-executive-to-board-93CH-4939798",
     "SG Banks|https://www.investing.com/news/company-news/mercury-systems-expands-phoenix-facility-by-50000-sq-ft-93CH-4939797",
     "SG Banks|https://www.investing.com/news/company-news/bitdeer-ai-secures-60mw-malaysia-data-center-facility-93CH-4939799",
     "SG Banks|https://www.investing.com/news/company-news/kopin-secures-186m-military-contract-for-microled-displays-93CH-4939800",
@@ -5000,7 +4992,15 @@
     "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-near-83000-a-year-after-19-billion-crypto-crash-4942465",
     "Cybersecurity|https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-near-83000-a-year-after-19-billion-crypto-crash-4942465",
     "SG Banks|https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-near-83000-a-year-after-19-billion-crypto-crash-4942465",
-    "Watchlist|https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-near-83000-a-year-after-19-billion-crypto-crash-4942465"
+    "Watchlist|https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-near-83000-a-year-after-19-billion-crypto-crash-4942465",
+    "AI|https://www.investing.com/news/insider-trading-news/verizon-evp-kyle-malady-sells-50325-in-vz-common-stock-93CH-4942468",
+    "AI|https://www.investing.com/news/insider-trading-news/advanced-energy-director-anne-delsanto-sells-82285-in-stock-93CH-4942469",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/verizon-evp-kyle-malady-sells-50325-in-vz-common-stock-93CH-4942468",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/advanced-energy-director-anne-delsanto-sells-82285-in-stock-93CH-4942469",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/verizon-evp-kyle-malady-sells-50325-in-vz-common-stock-93CH-4942468",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/advanced-energy-director-anne-delsanto-sells-82285-in-stock-93CH-4942469",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/verizon-evp-kyle-malady-sells-50325-in-vz-common-stock-93CH-4942468",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/advanced-energy-director-anne-delsanto-sells-82285-in-stock-93CH-4942469"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791697705.988855
+  "last_check": 1791698635.244323
 }
