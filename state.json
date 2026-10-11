@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/rubrik-expands-project-hourglass-with-three-new-partners-93CH-4940051",
-    "AI|https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-slides-on-openai-revenue-concerns-4940052",
-    "AI|https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-549m-in-stock-on-oct-67-93CH-4940062",
-    "AI|https://www.investing.com/news/economy-news/japan-reboots-dogestyle-spending-review-in-hunt-for-funds-for-takaichi-pledges-4940050",
-    "AI|https://www.investing.com/news/stock-market-news/hitachi-joins-anthropic-cybersecurity-program-4940063",
-    "Cybersecurity|https://www.investing.com/news/company-news/rubrik-expands-project-hourglass-with-three-new-partners-93CH-4940051",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-slides-on-openai-revenue-concerns-4940052",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-549m-in-stock-on-oct-67-93CH-4940062",
     "Cybersecurity|https://www.investing.com/news/economy-news/japan-reboots-dogestyle-spending-review-in-hunt-for-funds-for-takaichi-pledges-4940050",
@@ -5000,7 +4994,13 @@
     "SG Banks|/companies-markets/banking-finance/amex-fined-us350-million-anti-money-laundering-lapses",
     "Watchlist|/companies-markets/banking-finance/amex-fined-us350-million-anti-money-laundering-lapses",
     "Crypto|d6b620b7-c3bc-3d3f-9f16-0c259bf4dbc4",
-    "War|592d0094-c37a-307c-962f-7786f68ff950"
+    "War|592d0094-c37a-307c-962f-7786f68ff950",
+    "AI|https://www.investing.com/news/insider-trading-news/palo-alto-networks-director-bawa-sells-103070-in-stock-93CH-4942762",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/palo-alto-networks-director-bawa-sells-103070-in-stock-93CH-4942762",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/palo-alto-networks-director-bawa-sells-103070-in-stock-93CH-4942762",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/palo-alto-networks-director-bawa-sells-103070-in-stock-93CH-4942762",
+    "AI|2195cfe1-84bc-393b-91c1-661428cb1af5",
+    "Watchlist|2195cfe1-84bc-393b-91c1-661428cb1af5"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791737087.3610969
+  "last_check": 1791738011.544344
 }
