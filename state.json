@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/nikkei-225-hits-70037-overbought-high-pullback-risk-live-93CH-4930979",
-    "Watchlist|https://www.investing.com/news/stock-market-news/softbank-shares-slide-as-openai-revenue-report-dents-ai-optimism-4940076",
-    "Watchlist|https://www.investing.com/news/economy-news/euro-skids-toward-fifth-weekly-fall-but-selling-pressure-slows-4940078",
-    "AI|7f6beeed-7c13-3902-ac29-38afce9c0e99",
-    "Watchlist|7f6beeed-7c13-3902-ac29-38afce9c0e99",
-    "War|61469822-08dd-3d33-ac47-a0f3dbb062fe",
-    "SG Banks|https://www.channelnewsasia.com/asia/world-trade-organization-wto-global-outlook-resilient-robert-staiger-interview-6444356",
-    "SG Banks|/companies-markets/frasers-hospitality-ceo-step-down-coo-lead-company-and-report-frasers-property",
-    "Watchlist|/companies-markets/frasers-hospitality-ceo-step-down-coo-lead-company-and-report-frasers-property",
-    "War|6b312350-d8e5-3de8-99b7-1f59bf71fcd2",
-    "AI|https://www.investing.com/news/company-news/trexbio-prices-ipo-at-14-per-share-expects-1167m-93CH-4940085",
-    "Cybersecurity|https://www.investing.com/news/company-news/trexbio-prices-ipo-at-14-per-share-expects-1167m-93CH-4940085",
     "SG Banks|/international/asean/jay-z-serena-williams-backed-kenangan-coffee-considering-ipo-sgx-ceo",
     "SG Banks|https://www.investing.com/news/company-news/trexbio-prices-ipo-at-14-per-share-expects-1167m-93CH-4940085",
     "Watchlist|/international/asean/jay-z-serena-williams-backed-kenangan-coffee-considering-ipo-sgx-ceo",
@@ -5000,7 +4988,19 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/stellantis-bets-on-small-affordable-evs-for-european-comeback-4942779",
     "Crypto|8337c85c-a619-3bd1-82dc-8fcae3430f78",
     "AI|16b40ce4-11b7-3535-b06c-e28a19a35e2e",
-    "Watchlist|16b40ce4-11b7-3535-b06c-e28a19a35e2e"
+    "Watchlist|16b40ce4-11b7-3535-b06c-e28a19a35e2e",
+    "AI|https://www.investing.com/news/insider-trading-news/sonic-automotive-director-paul-rusnak-buys-129m-in-shares-93CH-4942789",
+    "Cybersecurity|53167848-55e5-3f79-990d-ec98ffde3727",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/sonic-automotive-director-paul-rusnak-buys-129m-in-shares-93CH-4942789",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/sonic-automotive-director-paul-rusnak-buys-129m-in-shares-93CH-4942789",
+    "Watchlist|53167848-55e5-3f79-990d-ec98ffde3727",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/sonic-automotive-director-paul-rusnak-buys-129m-in-shares-93CH-4942789",
+    "AI|8a68a227-2e0b-34c2-bff8-3acce367bac2",
+    "Watchlist|8a68a227-2e0b-34c2-bff8-3acce367bac2",
+    "AI|d81f3750-de58-362c-bd67-8ad26db67d3c",
+    "AI|e01e8e23-2102-3c05-9821-1654d90c2d9d",
+    "Watchlist|d81f3750-de58-362c-bd67-8ad26db67d3c",
+    "Watchlist|e01e8e23-2102-3c05-9821-1654d90c2d9d"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791740751.7895422
+  "last_check": 1791741667.5595574
 }
