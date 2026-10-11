@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/dht-holdings-stock-hits-52week-high-at-2498-usd-93CH-4939667",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/apple-names-insider-steve-smith-as-new-ma-chief-memo-shows-4939661",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/trump-says-comment-that-iran-could-take-out-los-angeles-was-misinterpreted-4939671",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/lawmakers-raise-alarm-at-google-plan-to-acquire-spirit-airlines-data-for-ai-models-4939672",
     "SG Banks|https://www.channelnewsasia.com/business/lawmakers-raise-alarm-google-plan-acquire-spirit-airlines-data-ai-models-6444451",
     "SG Banks|https://www.investing.com/news/company-news/mid-penn-bank-names-christopher-nestore-as-chief-risk-officer-93CH-4939664",
     "SG Banks|https://www.investing.com/news/company-news/cme-group-to-launch-baseball-futures-contracts-on-october-12-93CH-4939665",
@@ -5000,10 +4996,14 @@
     "Watchlist|https://www.investing.com/news/company-news/nvidia-in-talks-to-acquire-reflection-ai-or-increase-investment-ft-reports-4942324",
     "Watchlist|https://www.investing.com/news/insider-trading-news/robinhood-chief-legal-officer-sells-114m-in-hood-stock-93CH-4942326",
     "Watchlist|https://www.investing.com/news/insider-trading-news/united-therapeutics-ceo-martine-rothblatt-sells-51m-in-shares-93CH-4942327",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/verisign-exec-chairman-pres--ceo-bidzos-sells-964k-in-stock-93CH-4942328"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/verisign-exec-chairman-pres--ceo-bidzos-sells-964k-in-stock-93CH-4942328",
+    "War|517f82c6-36d3-3a9b-9ae2-5c1702cf7894",
+    "Iran|https://www.iranintl.com/en/202610087845",
+    "SG Banks|/international/asean/interactive-why-asean-power-grids-future-lies-subsea-cables",
+    "Watchlist|/international/asean/interactive-why-asean-power-grids-future-lies-subsea-cables"
   ],
   "topic_error": "",
-  "last_digest": "2026-10-10",
+  "last_digest": "2026-10-11",
   "earnings": {
     "AMD": {
       "ts": 1793736000,
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791676658.9675145
+  "last_check": 1791677573.0802977
 }
