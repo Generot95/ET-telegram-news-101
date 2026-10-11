@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/american-express-fined-350-million-over-moneylaundering-compliance-failures-4939840",
-    "SG Banks|https://www.investing.com/news/stock-market-news/rtxs-raytheon-wins-up-to-63-billion-us-missile-contract-4939842",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/yorkville-ives-adds-dell-stock-and-spacex-to-ai-30-list-on-infrastructure-shift-93CH-4939843",
-    "SG Banks|https://www.investing.com/news/forex-news/french-yields-edge-higher-in-6th-straight-weekly-loss-as-regional-contagion-widens-4938034",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/raymond-james-initiates-nektar-stock-coverage-with-market-perform-93CH-4939826",
-    "Watchlist|https://www.investing.com/news/company-news/logitech-unveils-rally-speaker-2-pro-and-max-for-large-spaces-93CH-4939836",
     "Watchlist|https://www.investing.com/news/company-news/alignment-healthcare-earns-4star-or-higher-ratings-for-six-plans-93CH-4939837",
     "Watchlist|https://www.investing.com/news/company-news/sun-life-warns-shareholders-of-belowmarket-minitender-offer-93CH-4939838",
     "Watchlist|https://www.investing.com/news/stock-market-news/american-express-fined-350-million-over-moneylaundering-compliance-failures-4939840",
@@ -5000,7 +4994,13 @@
     "SG Banks|https://www.investing.com/news/forex-news/yen-weakness-since-2025-has-been-limited-to-offshore-hours-analysis-4942531",
     "SG Banks|https://www.investing.com/news/insider-trading-news/toast-cro-jonathan-vassil-sells-230168-of-company-stock-93CH-4942538",
     "Watchlist|https://www.investing.com/news/forex-news/yen-weakness-since-2025-has-been-limited-to-offshore-hours-analysis-4942531",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/toast-cro-jonathan-vassil-sells-230168-of-company-stock-93CH-4942538"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/toast-cro-jonathan-vassil-sells-230168-of-company-stock-93CH-4942538",
+    "AI|130389c8-00cf-34fb-8459-036d506f582c",
+    "Watchlist|130389c8-00cf-34fb-8459-036d506f582c",
+    "AI|https://www.investing.com/news/stock-market-news/exclusiveinwit-investors-line-up-financing-for-possible-takeprivate-sources-say-4942546",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/exclusiveinwit-investors-line-up-financing-for-possible-takeprivate-sources-say-4942546",
+    "SG Banks|https://www.investing.com/news/stock-market-news/exclusiveinwit-investors-line-up-financing-for-possible-takeprivate-sources-say-4942546",
+    "Watchlist|https://www.investing.com/news/stock-market-news/exclusiveinwit-investors-line-up-financing-for-possible-takeprivate-sources-say-4942546"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791709621.544411
+  "last_check": 1791710525.0699303
 }
