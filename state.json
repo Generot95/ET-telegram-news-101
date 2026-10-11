@@ -1,20 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-lifestyle-communities-stock-sliding-today-93CH-4940105",
-    "Cybersecurity|https://www.investing.com/news/company-news/crescent-energy-prices-80-million-share-offering-at-1250-93CH-4940106",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/openais-annualized-revenue-20-billion-less-than-previously-signaled-ft-reports-4939854",
-    "SG Banks|https://www.investing.com/news/economy-news/tech-stocks-struggle-on-ai-spending-worries-elevated-yields-4940101",
-    "SG Banks|https://www.investing.com/news/economy-news/chinese-developer-makes-artex-ai-agent-closedsource-after-korean-bank-hack-4940102",
-    "SG Banks|https://www.investing.com/news/stock-market-news/hang-seng-oversold-at-23876-with-rsi-2796-live-levels-93CH-4930985",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-fast-retailing-stock-sliding-today-93CH-4940104",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-lifestyle-communities-stock-sliding-today-93CH-4940105",
-    "SG Banks|https://www.investing.com/news/company-news/crescent-energy-prices-80-million-share-offering-at-1250-93CH-4940106",
-    "SG Banks|https://www.investing.com/news/stock-market-news/openais-annualized-revenue-20-billion-less-than-previously-signaled-ft-reports-4939854",
-    "Watchlist|https://www.investing.com/news/economy-news/tech-stocks-struggle-on-ai-spending-worries-elevated-yields-4940101",
-    "Watchlist|https://www.investing.com/news/economy-news/chinese-developer-makes-artex-ai-agent-closedsource-after-korean-bank-hack-4940102",
-    "Watchlist|https://www.investing.com/news/stock-market-news/hang-seng-oversold-at-23876-with-rsi-2796-live-levels-93CH-4930985",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-fast-retailing-stock-sliding-today-93CH-4940104",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-lifestyle-communities-stock-sliding-today-93CH-4940105",
     "Watchlist|https://www.investing.com/news/company-news/crescent-energy-prices-80-million-share-offering-at-1250-93CH-4940106",
     "Watchlist|https://www.investing.com/news/stock-market-news/openais-annualized-revenue-20-billion-less-than-previously-signaled-ft-reports-4939854",
@@ -5000,7 +4986,21 @@
     "SG Banks|https://www.investing.com/news/company-news/mirum-pharmaceuticals-to-share-phase-3-livmarli-study-results-93CH-4942847",
     "Watchlist|https://www.investing.com/news/insider-trading-news/first-commonwealth-evpcfo-james-reske-disposes-of-42512-in-stock-93CH-4942846",
     "Watchlist|https://www.investing.com/news/company-news/mirum-pharmaceuticals-to-share-phase-3-livmarli-study-results-93CH-4942847",
-    "Crypto|3b75802a-17db-3132-91fe-ea65ac900c58"
+    "Crypto|3b75802a-17db-3132-91fe-ea65ac900c58",
+    "SG Banks|https://www.channelnewsasia.com/business/amazon-in-talks-buy-ai-startup-decart-around-7-billion-wsj-reports-6451486",
+    "AI|https://www.investing.com/news/stock-market-news/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-wsj-reports-4942850",
+    "AI|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4942851",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-wsj-reports-4942850",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4942851",
+    "SG Banks|https://www.investing.com/news/stock-market-news/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-wsj-reports-4942850",
+    "SG Banks|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4942851",
+    "Watchlist|https://www.investing.com/news/stock-market-news/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-wsj-reports-4942850",
+    "Watchlist|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4942851",
+    "AI|81fc26cc-b41e-318e-93bd-7bc36067738f",
+    "Crypto|81fc26cc-b41e-318e-93bd-7bc36067738f",
+    "Watchlist|81fc26cc-b41e-318e-93bd-7bc36067738f",
+    "AI|8aa90d0a-8b79-3bf7-af80-0f864ec19b91",
+    "Watchlist|8aa90d0a-8b79-3bf7-af80-0f864ec19b91"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791753569.9381158
+  "last_check": 1791754498.7086236
 }
