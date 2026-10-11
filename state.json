@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/hiview-expands-junker-property-in-british-columbia-93CH-4937983",
-    "Cybersecurity|https://www.investing.com/news/company-news/biohaven-licenses-igg-degrader-portfolio-to-ono-for-asia-93CH-4938062",
-    "Cybersecurity|https://www.investing.com/news/company-news/fagron-q3-2026-slides-23-revenue-growth-masks-modest-organic-gains-93CH-4938086",
-    "Cybersecurity|https://www.investing.com/news/company-news/morgan-stanley-increases-stake-in-central-asia-metals-to-62-93CH-4938116",
-    "Cybersecurity|https://www.investing.com/news/company-news/agrana-h1-202627-slides-ebit-doubles-despite-operating-headwinds-93CH-4938202",
-    "Cybersecurity|https://www.investing.com/news/company-news/admicom-q3-2026-slides-ebitda-margin-hits-42-bookings-up-17-93CH-4938225",
-    "Cybersecurity|https://www.investing.com/news/company-news/brinks-gets-uk-approval-in-principle-for-atleos-deal-remedy-93CH-4938240",
-    "War|WP-MKTW-0005272142",
-    "AI|WP-MKTW-0005272142",
-    "Cybersecurity|WP-MKTW-0005272142",
-    "War|aa087754-974e-3add-9441-10f14898a93d",
-    "AI|90b88ecb-a956-3985-85d5-1bf4566db72f",
-    "Crypto|aa087754-974e-3add-9441-10f14898a93d",
     "Watchlist|90b88ecb-a956-3985-85d5-1bf4566db72f",
     "SG Banks|https://www.channelnewsasia.com/business/spacex-acquire-spectrum-enables-starlink-mobile-services-6444486",
     "War|WP-MKTW-0005276807",
@@ -5000,7 +4987,20 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/foreign-investors-flee-south-korean-stocks-as-ai-boom-loses-steam-4942425",
     "Watchlist|https://www.investing.com/news/insider-trading-news/astera-labs-director-stefan-dyckerhoff-sells-47m-in-shares-93CH-4942431",
     "Watchlist|https://www.investing.com/news/insider-trading-news/vaxcyte-evp-coo-jim-wassil-sells-156m-in-shares-93CH-4942432",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/matthew-cooper-capital-one-general-counsel-sells-686770-in-cof-stock-93CH-4942433"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/matthew-cooper-capital-one-general-counsel-sells-686770-in-cof-stock-93CH-4942433",
+    "AI|https://www.investing.com/news/insider-trading-news/blend-labs-head-nima-ghamsari-sells-24660-in-shares-93CH-4942441",
+    "AI|https://www.investing.com/news/insider-trading-news/castle-biosciences-president-and-ceo-derek-maetzold-sells-515k-stock-93CH-4942442",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/blend-labs-head-nima-ghamsari-sells-24660-in-shares-93CH-4942441",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/castle-biosciences-president-and-ceo-derek-maetzold-sells-515k-stock-93CH-4942442",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/blend-labs-head-nima-ghamsari-sells-24660-in-shares-93CH-4942441",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/castle-biosciences-president-and-ceo-derek-maetzold-sells-515k-stock-93CH-4942442",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/blend-labs-head-nima-ghamsari-sells-24660-in-shares-93CH-4942441",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/castle-biosciences-president-and-ceo-derek-maetzold-sells-515k-stock-93CH-4942442",
+    "War|WP-MKTW-0005272142",
+    "AI|WP-MKTW-0005272142",
+    "Cybersecurity|WP-MKTW-0005272142",
+    "SG Banks|/companies-markets/transport-logistics/inside-f1-how-reactive-dhl-acted-quickly-fit-malaysia-race-just-singapores",
+    "Watchlist|/companies-markets/transport-logistics/inside-f1-how-reactive-dhl-acted-quickly-fit-malaysia-race-just-singapores"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791686721.602466
+  "last_check": 1791687647.0249112
 }
