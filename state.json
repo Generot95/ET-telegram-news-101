@@ -1,24 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/insider-trading-news/immersions-ceo-eric-singer-buys-292799-in-company-stock-93CH-4939933",
-    "AI|https://www.investing.com/news/company-news/pharvaris-hae-drug-shows-faster-symptom-relief-in-lancet-study-93CH-4939938",
-    "AI|https://www.investing.com/news/insider-trading-news/apple-svp-jennifer-newstead-sells-796491-in-stock-93CH-4939946",
-    "AI|https://www.investing.com/news/insider-trading-news/relay-therapeutics-cfo-catinazzo-sells-329k-in-shares-93CH-4939948",
-    "AI|https://www.investing.com/news/insider-trading-news/relay-therapeutics-ceo-sanjiv-patel-sells-872401-company-stock-93CH-4939949",
-    "AI|https://www.investing.com/news/company-news/hb-fuller-prices-850-million-notes-offering-at-7625-93CH-4939950",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/canyon-capital-advisors-sells-682-million-in-cbl--associates-shares-93CH-4939931",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/immersions-ceo-eric-singer-buys-292799-in-company-stock-93CH-4939933",
-    "Cybersecurity|https://www.investing.com/news/company-news/pharvaris-hae-drug-shows-faster-symptom-relief-in-lancet-study-93CH-4939938",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/apple-svp-jennifer-newstead-sells-796491-in-stock-93CH-4939946",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/relay-therapeutics-cfo-catinazzo-sells-329k-in-shares-93CH-4939948",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/relay-therapeutics-ceo-sanjiv-patel-sells-872401-company-stock-93CH-4939949",
-    "Cybersecurity|https://www.investing.com/news/company-news/hb-fuller-prices-850-million-notes-offering-at-7625-93CH-4939950",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/canyon-capital-advisors-sells-682-million-in-cbl--associates-shares-93CH-4939931",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/immersions-ceo-eric-singer-buys-292799-in-company-stock-93CH-4939933",
-    "SG Banks|https://www.investing.com/news/company-news/pharvaris-hae-drug-shows-faster-symptom-relief-in-lancet-study-93CH-4939938",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/apple-svp-jennifer-newstead-sells-796491-in-stock-93CH-4939946",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/relay-therapeutics-cfo-catinazzo-sells-329k-in-shares-93CH-4939948",
     "SG Banks|https://www.investing.com/news/insider-trading-news/relay-therapeutics-ceo-sanjiv-patel-sells-872401-company-stock-93CH-4939949",
     "SG Banks|https://www.investing.com/news/company-news/hb-fuller-prices-850-million-notes-offering-at-7625-93CH-4939950",
     "Watchlist|https://www.investing.com/news/insider-trading-news/canyon-capital-advisors-sells-682-million-in-cbl--associates-shares-93CH-4939931",
@@ -5000,7 +4982,25 @@
     "AI|c4703f7f-f6bf-3f69-8a11-da1ae417b059",
     "Watchlist|4a9fdc80-d0cd-3e4c-83f5-9eea33823ddf",
     "Watchlist|c4703f7f-f6bf-3f69-8a11-da1ae417b059",
-    "Iran|https://www.iranintl.com/en/202610119652"
+    "Iran|https://www.iranintl.com/en/202610119652",
+    "War|d9e1b09c-436e-4a20-8d75-15245a5e6f9a",
+    "AI|ab058cb8-ba26-3025-86c1-93d0372ca3dd",
+    "Watchlist|ab058cb8-ba26-3025-86c1-93d0372ca3dd",
+    "AI|https://www.investing.com/news/insider-trading-news/cytokinetics-evp-fady-malik-sells-214830-in-company-stock-93CH-4942670",
+    "AI|https://www.investing.com/news/insider-trading-news/roblox-corp-chief-legal-officer-sells-250421-in-stock-93CH-4942671",
+    "AI|https://www.investing.com/news/insider-trading-news/pacira-biosciences-svp-lauren-riker-sells-217920-in-stock-93CH-4942682",
+    "Crypto|558a647d-91bb-3c77-8a52-42c1f3ae41da",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/cytokinetics-evp-fady-malik-sells-214830-in-company-stock-93CH-4942670",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/roblox-corp-chief-legal-officer-sells-250421-in-stock-93CH-4942671",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/pacira-biosciences-svp-lauren-riker-sells-217920-in-stock-93CH-4942682",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/cytokinetics-evp-fady-malik-sells-214830-in-company-stock-93CH-4942670",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/roblox-corp-chief-legal-officer-sells-250421-in-stock-93CH-4942671",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/pacira-biosciences-svp-lauren-riker-sells-217920-in-stock-93CH-4942682",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/cytokinetics-evp-fady-malik-sells-214830-in-company-stock-93CH-4942670",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/roblox-corp-chief-legal-officer-sells-250421-in-stock-93CH-4942671",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/pacira-biosciences-svp-lauren-riker-sells-217920-in-stock-93CH-4942682",
+    "AI|9d8e61d7-d6fb-3f0a-b366-b626fd354097",
+    "Watchlist|9d8e61d7-d6fb-3f0a-b366-b626fd354097"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791725183.311681
+  "last_check": 1791726085.1606622
 }
