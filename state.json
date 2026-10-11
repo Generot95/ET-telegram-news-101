@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|b5eaf0dd-1421-3fc2-a565-c22604e6f081",
-    "AI|b5eaf0dd-1421-3fc2-a565-c22604e6f081",
     "AI|216ca566-029f-3dd6-a506-0ba2a612b7c3",
     "Watchlist|216ca566-029f-3dd6-a506-0ba2a612b7c3",
     "AI|https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-030-4939787",
@@ -5000,7 +4998,9 @@
     "AI|6bffb53c-b6a1-3064-95a4-0a866b016950",
     "Cybersecurity|4704c1af-0ba7-3b93-9df1-e04c22d7c031",
     "War|WP-MKTW-0005271148",
-    "AI|WP-MKTW-0005271148"
+    "AI|WP-MKTW-0005271148",
+    "Cybersecurity|WP-MKTW-0005271148",
+    "War|72e7bf37-1bd6-3a01-be0b-3e6f2e2ad951"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791689471.6065156
+  "last_check": 1791690407.599927
 }
