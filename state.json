@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Iran|CBMiiwFBVV95cUxQaUUwV2lPbzNRNVQzMU8xNXM2d2YwaTZnRmMxUjJYamZiTll6NWQtbkpxVzVFY0RmY0JnXzMyZU9vRHMyUWliRllmN3lxRk1OT3ZNYkZadjh1U2VpSHBNVXRxQ3JKYVNWUUl0Yk1TVDhFbEcxdlJjWk5YWXRCWnV1bXc4WXRwaXRyLVRJ",
-    "AI|8574fbe5-25e1-3d63-a6ee-a14565690d55",
-    "Watchlist|8574fbe5-25e1-3d63-a6ee-a14565690d55",
-    "SG Banks|https://www.channelnewsasia.com/business/oil-falls-trump-comments-iran-talks-ease-supply-concerns-6444926",
-    "AI|1edcb039-1026-3616-87e0-283d0426feec",
     "Watchlist|1edcb039-1026-3616-87e0-283d0426feec",
     "War|https://www.investing.com/news/commodities-news/oil-falls-as-trump-comments-on-iran-talks-ease-supply-concerns-4940126",
     "AI|b8b314de-d4af-3c90-8340-04958f838fdf",
@@ -5000,7 +4995,12 @@
     "AI|3e47ac17-3903-37e1-8c37-f37fa826adb0",
     "Watchlist|3e47ac17-3903-37e1-8c37-f37fa826adb0",
     "Watchlist|aca76b1d-fea7-354c-bf4a-61ee25ebd8ff",
-    "SG Banks|https://www.straitstimes.com/singapore/jobs/askst-jobs-i-keep-having-to-pick-up-a-colleagues-work-how-should-i-raise-it-with-my-boss"
+    "SG Banks|https://www.straitstimes.com/singapore/jobs/askst-jobs-i-keep-having-to-pick-up-a-colleagues-work-how-should-i-raise-it-with-my-boss",
+    "SG Banks|/companies-markets/amazon-talks-buy-us7-billion-ai-startup-decart-wsj-reports",
+    "Watchlist|/companies-markets/amazon-talks-buy-us7-billion-ai-startup-decart-wsj-reports",
+    "SG Banks|https://www.channelnewsasia.com/commentary/jobs-apply-resume-ai-use-skills-hr-6450116",
+    "SG Banks|https://www.channelnewsasia.com/singapore/ilp-investment-linked-policies-demand-complaint-6446421",
+    "SG Banks|https://www.channelnewsasia.com/commentary/sgx-small-mid-caps-weak-liquidity-more-6446281"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791755398.4256933
+  "last_check": 1791756316.1538773
 }
