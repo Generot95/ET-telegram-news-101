@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/grid-dynamics-coo-yury-gryzlov-sells-38792-in-gdyn-stock-93CH-4939988",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/talos-energy-10-owner-sells-814-million-in-common-shares-93CH-4939990",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/idea-biosciences-president-and-ceo-yujiro-hata-sells-985k-in-shares-93CH-4939991",
-    "Watchlist|https://www.investing.com/news/company-news/wd40-declares-102-quarterly-dividend-per-share-93CH-4939992",
-    "SG Banks|https://www.channelnewsasia.com/business/imf-invites-boj-chief-ueda-speak-november-6-6444741",
-    "SG Banks|https://www.straitstimes.com/business/openais-annualised-revenue-us20-billion-less-than-previously-signalled-report",
-    "AI|bbe88c25-7469-3971-ba66-cec1d46e0c61",
-    "Watchlist|bbe88c25-7469-3971-ba66-cec1d46e0c61",
-    "SG Banks|https://www.channelnewsasia.com/business/japanese-annual-household-spending-drops-9-straight-months-6444751",
     "War|https://www.investing.com/news/commodities-news/oil-falls-slightly-after-trump-says-no-iran-attack-before-midterms-4940011",
     "AI|https://www.investing.com/news/insider-trading-news/arista-networks-cfo-breithaupt-sells-263160-in-stock-93CH-4940008",
     "AI|https://www.investing.com/news/insider-trading-news/arista-networks-ceo-jayshree-ullal-sells-976-million-in-stock-93CH-4940009",
@@ -5000,7 +4991,16 @@
     "AI|https://www.investing.com/news/most-popular-news/russia-and-ukraine-agree-to-halt-energy-strikes-trump-says-4942733",
     "Cybersecurity|https://www.investing.com/news/most-popular-news/russia-and-ukraine-agree-to-halt-energy-strikes-trump-says-4942733",
     "SG Banks|https://www.investing.com/news/most-popular-news/russia-and-ukraine-agree-to-halt-energy-strikes-trump-says-4942733",
-    "Watchlist|https://www.investing.com/news/most-popular-news/russia-and-ukraine-agree-to-halt-energy-strikes-trump-says-4942733"
+    "Watchlist|https://www.investing.com/news/most-popular-news/russia-and-ukraine-agree-to-halt-energy-strikes-trump-says-4942733",
+    "AI|0e7c43c2-e705-36f4-869c-30d923d0ea5e",
+    "Watchlist|0e7c43c2-e705-36f4-869c-30d923d0ea5e",
+    "AI|4e32aac5-9f72-34ca-89aa-44a86a5f1417",
+    "Watchlist|4e32aac5-9f72-34ca-89aa-44a86a5f1417",
+    "Crypto|a07bcab5-a845-39fd-ba0e-d4fdbad50da1",
+    "Watchlist|2e44e3cf-ab21-34dd-a71d-a5ef3d7b08d4",
+    "Iran|https://www.iranintl.com/en/202610118708",
+    "AI|7b70fc7a-5e32-33c2-bc95-2567f185e917",
+    "Watchlist|7b70fc7a-5e32-33c2-bc95-2567f185e917"
   ],
   "topic_error": "",
   "last_digest": "2026-10-11",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791732525.515191
+  "last_check": 1791733420.9477034
 }
