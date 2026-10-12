@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/top-ai-semiconductor-stocks-according-to-stifel-analysis-4941578",
-    "SG Banks|https://www.investing.com/news/stock-market-news/hims-jumps-7-on-peptide-tailwind--but-citi-sees-17-downside-from-here-93CH-4941579",
-    "SG Banks|https://www.investing.com/news/stock-market-news/vvardis-files-for-us-ipo-showing-net-loss-revenue-growth-4941580",
-    "SG Banks|https://www.investing.com/news/stock-market-news/snowflake-options-flow-shows-call-buyers-targeting-370-strike-93CH-4941581",
-    "SG Banks|https://www.investing.com/news/commodities-news/northwest-european-gasoline-margins-jump-on-low-inventories-93CH-4941582",
-    "SG Banks|https://www.investing.com/news/economy-news/magnitude-76-earthquake-hits-panamas-southern-coast-93CH-4941583",
-    "SG Banks|https://www.investing.com/news/economy-news/katie-zacharia-reportedly-named-new-white-house-press-secretary-4941585",
-    "Watchlist|https://www.investing.com/news/stock-market-news/top-ai-semiconductor-stocks-according-to-stifel-analysis-4941578",
-    "Watchlist|https://www.investing.com/news/stock-market-news/hims-jumps-7-on-peptide-tailwind--but-citi-sees-17-downside-from-here-93CH-4941579",
-    "Watchlist|https://www.investing.com/news/stock-market-news/vvardis-files-for-us-ipo-showing-net-loss-revenue-growth-4941580",
-    "Watchlist|https://www.investing.com/news/stock-market-news/snowflake-options-flow-shows-call-buyers-targeting-370-strike-93CH-4941581",
-    "Watchlist|https://www.investing.com/news/commodities-news/northwest-european-gasoline-margins-jump-on-low-inventories-93CH-4941582",
-    "Watchlist|https://www.investing.com/news/economy-news/magnitude-76-earthquake-hits-panamas-southern-coast-93CH-4941583",
     "Watchlist|https://www.investing.com/news/economy-news/katie-zacharia-reportedly-named-new-white-house-press-secretary-4941585",
     "AI|dbee570d-c47b-3387-b125-a5e32b38bcb4",
     "Watchlist|dbee570d-c47b-3387-b125-a5e32b38bcb4",
@@ -5000,7 +4987,20 @@
     "Watchlist|1726a50c-59b9-31dc-99b9-f79c51c590fb",
     "Watchlist|2184c2fe-e0bc-3727-b204-17e815197cfc",
     "Watchlist|f0bd6231-b9eb-33c1-ba60-1f20f62b1dfb",
-    "Watchlist|0f10e913-2788-3fb1-aefe-98b6db7261a0"
+    "Watchlist|0f10e913-2788-3fb1-aefe-98b6db7261a0",
+    "AI|f6194faa-ca8b-383a-a9ab-a53b13d91fd1",
+    "AI|8d59522f-f3d6-30bf-91f6-e959b2550c36",
+    "Watchlist|8d59522f-f3d6-30bf-91f6-e959b2550c36",
+    "AI|4e8a089b-5232-3e5d-883d-b53f9d538638",
+    "AI|b47562fa-1343-32fd-b89a-0b962b960482",
+    "Watchlist|b47562fa-1343-32fd-b89a-0b962b960482",
+    "Watchlist|4e8a089b-5232-3e5d-883d-b53f9d538638",
+    "Watchlist|15f977c2-7f7e-3302-bdaa-06b104f4ff98",
+    "AI|799190ad-9f15-3356-8a3f-607608e567a1",
+    "Crypto|03a4a914-c3ff-3851-8dcf-7f6e164d454f",
+    "Crypto|355d7887-72e1-3f8e-a492-28b37002a842",
+    "Watchlist|00e82f35-2470-3e9b-92a7-cda0214ed310",
+    "AI|00e82f35-2470-3e9b-92a7-cda0214ed310"
   ],
   "topic_error": "",
   "last_digest": "2026-10-12",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791821374.1283066
+  "last_check": 1791822272.2015572
 }
