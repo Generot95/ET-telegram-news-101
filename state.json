@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.straitstimes.com/business/amazon-makes-fresh-job-cuts-mainly-in-retail-division",
-    "SG Banks|https://www.straitstimes.com/business/oil-rises-as-middle-east-supply-concerns-persist-amid-shipping-attacks",
-    "SG Banks|https://www.straitstimes.com/business/samsung-flags-95-7-billion-profit-on-ai-boom-highest-quarterly-for-any-tech-company",
     "SG Banks|https://www.straitstimes.com/business/companies-markets/prudential-japan-executives-take-pay-cuts-over-staff-misconduct-involving-customers-money",
     "SG Banks|https://www.straitstimes.com/business/young-bankers-to-manage-ai-agents-from-start-goldman-exec-says",
     "AI|https://www.investing.com/news/press-releases/apex-trader-funding-marks-fiveyear-anniversary-with-limitedtime-evaluation-discount-4941724",
@@ -5000,7 +4997,10 @@
     "AI|13fc8f14-bfad-39a8-94ff-3a08442a5bb6",
     "SG Banks|/companies-markets/capital-markets-currencies/us-stocks-wall-street-opens-lower-oil-jump-high-yields-fuel-inflation-concerns",
     "Watchlist|13fc8f14-bfad-39a8-94ff-3a08442a5bb6",
-    "Watchlist|58f511b8-8ada-32c0-b6a6-1d753a850d57"
+    "Watchlist|58f511b8-8ada-32c0-b6a6-1d753a850d57",
+    "Crypto|41db2a25-5372-3572-b5e6-038ebb3d54d3",
+    "SG Banks|https://www.channelnewsasia.com/business/dollar-holds-18-month-high-gulf-tension-us-inflation-keep-investors-edge-6451731",
+    "Cybersecurity|e3ba032e-770a-3658-96ed-5ddc84c702c9"
   ],
   "topic_error": "",
   "last_digest": "2026-10-12",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791832364.717351
+  "last_check": 1791833284.9272258
 }
