@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|https://www.investing.com/news/commodities-news/morning-bid-bonds-bombs-and-barricades-4940727",
-    "AI|77923f19-2c37-4900-9800-01f093f32fd3",
-    "AI|https://www.investing.com/news/stock-market-news/ubs-downgrades-pearson-as-share-gains-leave-limited-room-for-upside-4940730",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-astera-labs-stock-sliding-today-93CH-4940731",
-    "AI|https://www.investing.com/news/analyst-ratings/raymond-james-initiates-quince-therapeutics-stock-coverage-with-outperform-rating-93CH-4940738",
-    "AI|https://www.investing.com/news/analyst-ratings/bofa-cuts-smithfield-foods-stock-rating-on-weaker-pork-values-93CH-4940739",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-semtech-stock-slipping-today-93CH-4940743",
-    "AI|https://www.investing.com/news/stock-market-news/bmo-cuts-chemical-sector-outlook-on-strait-of-hormuz-disruptions-93CH-4940745",
-    "AI|https://www.investing.com/news/analyst-ratings/bofa-initiates-penguin-solutions-stock-at-buy-on-ai-growth-93CH-4940747",
-    "AI|https://www.investing.com/news/stock-market-news/truist-sees-value-in-midsized-bank-stocks-ahead-of-earnings-93CH-4940723",
-    "AI|https://www.investing.com/news/company-news/blackrock-smaller-companies-trust-renews-buyback-authority-93CH-4940713",
-    "AI|https://www.investing.com/news/company-news/lilly-presents-exploratory-biomarker-data-from-psoriasis-study-93CH-4940728",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/ubs-downgrades-pearson-as-share-gains-leave-limited-room-for-upside-4940730",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-astera-labs-stock-sliding-today-93CH-4940731",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/raymond-james-initiates-quince-therapeutics-stock-coverage-with-outperform-rating-93CH-4940738",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/bofa-cuts-smithfield-foods-stock-rating-on-weaker-pork-values-93CH-4940739",
@@ -5000,7 +4987,20 @@
     "Watchlist|https://www.investing.com/news/economy-news/microsoft-president-says-milk-faces-more-regulation-than-ai-4943603",
     "Iran|https://www.iranintl.com/en/202610091841",
     "SG Banks|/companies-markets/starhill-global-reit-sell-its-last-japan-property-us39-2-million",
-    "Watchlist|/companies-markets/starhill-global-reit-sell-its-last-japan-property-us39-2-million"
+    "Watchlist|/companies-markets/starhill-global-reit-sell-its-last-japan-property-us39-2-million",
+    "SG Banks|/international/global/us-cpi-show-overall-inflation-boosted-higher-petrol-prices",
+    "Watchlist|/international/global/us-cpi-show-overall-inflation-boosted-higher-petrol-prices",
+    "AI|cd5993ad-2e1f-3bca-9ab3-9c50d9a4d2a4",
+    "AI|a282f1f6-e82e-3009-b4bc-f15366a127d4",
+    "Watchlist|cd5993ad-2e1f-3bca-9ab3-9c50d9a4d2a4",
+    "Watchlist|f5dcbfd6-749d-3c74-ae83-c531094c48ef",
+    "Watchlist|a282f1f6-e82e-3009-b4bc-f15366a127d4",
+    "AI|f5dcbfd6-749d-3c74-ae83-c531094c48ef",
+    "Watchlist|877d7d61-16c8-34dd-9d7c-b7ddbba19b48",
+    "War|764a9edb-f8ac-3d65-a50e-3ebf1784afaf",
+    "Crypto|ad99836b-9a2e-3895-aa52-64a0c8d6d6ca",
+    "AI|c8b62770-a076-31ad-8f39-849a2d589c12",
+    "Watchlist|c8b62770-a076-31ad-8f39-849a2d589c12"
   ],
   "topic_error": "",
   "last_digest": "2026-10-12",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791797527.309148
+  "last_check": 1791798439.6004589
 }
