@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|404ef4c2-08af-3efe-a6ec-f7f6784cd9f2",
-    "Watchlist|404ef4c2-08af-3efe-a6ec-f7f6784cd9f2",
-    "SG Banks|https://www.channelnewsasia.com/business/russias-yandex-says-second-data-centre-hit-drone-attack-6445596",
-    "Iran|https://www.iranintl.com/en/202610094229",
-    "Watchlist|909eb8e9-69ea-3fe9-98a1-e8df0c601388",
-    "War|https://www.investing.com/news/commodities-news/ubs-sees-copper-deficit-widening-in-2027-backs-long-positions-93CH-4940398",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-arcelormittal-stock-rallying-today-93CH-4940392",
-    "AI|https://www.investing.com/news/analyst-ratings/jpmorgan-downgrades-dupont-stock-rating-on-recovery-outlook-93CH-4940393",
     "AI|https://www.investing.com/news/analyst-ratings/jpmorgan-downgrades-illinois-tool-works-stock-rating-on-valuation-93CH-4940394",
     "AI|https://www.investing.com/news/forex-news/ubs-sees-stronger-outlook-for-brazilian-real-after-election-93CH-4940395",
     "AI|https://www.investing.com/news/stock-market-news/citi-upgrades-bureau-veritas-sees-2027-margin-above-consensus-shares-up-2-4940396",
@@ -5000,7 +4992,15 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/dominos-pizza-ceo-takes-direct-control-of-australia-and-new-zealand-ops-93CH-4943178",
     "Watchlist|https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-004-4943180",
     "SG Banks|/international/asean/airasia-talks-malaysian-government-over-potential-funding-support-sources",
-    "Watchlist|/international/asean/airasia-talks-malaysian-government-over-potential-funding-support-sources"
+    "Watchlist|/international/asean/airasia-talks-malaysian-government-over-potential-funding-support-sources",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/mckinsey-strips-partner-of-leadership-role-over-linkedin-posts",
+    "SG Banks|/wealth/crypto-alternative-assets/apac-institutional-investors-call-greater-regulatory-clarity-digital-assets-report",
+    "Watchlist|/wealth/crypto-alternative-assets/apac-institutional-investors-call-greater-regulatory-clarity-digital-assets-report",
+    "AI|cc94fedf-fbfd-360e-886e-843bf8b22e80",
+    "Watchlist|cc94fedf-fbfd-360e-886e-843bf8b22e80",
+    "Iran|https://www.iranintl.com/en/202610094229",
+    "AI|2d539e22-8d8e-3276-a74f-0978292decc9",
+    "Watchlist|2d539e22-8d8e-3276-a74f-0978292decc9"
   ],
   "topic_error": "",
   "last_digest": "2026-10-12",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791785618.710349
+  "last_check": 1791786526.8212273
 }
