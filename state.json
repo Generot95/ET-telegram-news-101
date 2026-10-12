@@ -1,20 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/insider-trading-news/mediaalpha-ceo-steven-yi-sells-263k-in-company-stock-93CH-4941900",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/datadog-cto-alexis-lequoc-sells-1475m-in-shares-93CH-4941905",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/innsuites-hospitality-trust-ceo-wirth-reports-217-billion-share-disposition-93CH-4941899",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/mediaalpha-ceo-steven-yi-sells-263k-in-company-stock-93CH-4941900",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/datadog-cto-alexis-lequoc-sells-1475m-in-shares-93CH-4941905",
-    "Cybersecurity|e5b386c1-ca26-30f0-a857-7a34ac50ead9",
-    "SG Banks|105aa821-d157-3b0f-a86e-56417fc3a9b9",
-    "AI|https://www.investing.com/news/stock-market-news/sequoiabacked-nuvacore-seeks-25bn-valuation-in-funding-round--reuters-4941907",
-    "AI|https://www.investing.com/news/insider-trading-news/ul-solutions-ceo-scanlon-sells-876k-of-company-stock-93CH-4941910",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/sequoiabacked-nuvacore-seeks-25bn-valuation-in-funding-round--reuters-4941907",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/ul-solutions-ceo-scanlon-sells-876k-of-company-stock-93CH-4941910",
-    "SG Banks|https://www.investing.com/news/stock-market-news/sequoiabacked-nuvacore-seeks-25bn-valuation-in-funding-round--reuters-4941907",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/ul-solutions-ceo-scanlon-sells-876k-of-company-stock-93CH-4941910",
-    "Watchlist|https://www.investing.com/news/stock-market-news/sequoiabacked-nuvacore-seeks-25bn-valuation-in-funding-round--reuters-4941907",
     "Watchlist|https://www.investing.com/news/insider-trading-news/ul-solutions-ceo-scanlon-sells-876k-of-company-stock-93CH-4941910",
     "Watchlist|dafc3ed7-fcf8-3a71-aa92-57c656471bee",
     "AI|b8ede827-dece-3fb6-bdf4-dbf2f1663896",
@@ -5000,7 +4986,21 @@
     "AI|128ba260-e771-3414-9ec9-5f7178ab26df",
     "AI|WP-MKTW-0005283037",
     "Cybersecurity|WP-MKTW-0005283037",
-    "Watchlist|128ba260-e771-3414-9ec9-5f7178ab26df"
+    "Watchlist|128ba260-e771-3414-9ec9-5f7178ab26df",
+    "AI|f08a71c9-a7f9-4f67-9622-6aba384ceb58",
+    "SG Banks|https://www.channelnewsasia.com/commentary/ai-stock-market-investment-portfolio-risks-6452486",
+    "Watchlist|f08a71c9-a7f9-4f67-9622-6aba384ceb58",
+    "SG Banks|5c294f8b-d991-340f-84a4-665acfffe175",
+    "Cybersecurity|66f22ef4-1fbe-361f-bd07-36456338f5db",
+    "SG Banks|/companies-markets/energy-commodities/oil-advances-threats-supply-russia-middle-east",
+    "Watchlist|/companies-markets/energy-commodities/oil-advances-threats-supply-russia-middle-east",
+    "AI|cbeb4694-15bd-34ca-a610-6a59866dfe92",
+    "SG Banks|105aa821-d157-3b0f-a86e-56417fc3a9b9",
+    "Watchlist|cbeb4694-15bd-34ca-a610-6a59866dfe92",
+    "AI|https://www.investing.com/news/stock-market-news/blackrock-turns-bullish-on-shortterm-bonds-closes-us-stock-overweight-4945249",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/blackrock-turns-bullish-on-shortterm-bonds-closes-us-stock-overweight-4945249",
+    "SG Banks|https://www.investing.com/news/stock-market-news/blackrock-turns-bullish-on-shortterm-bonds-closes-us-stock-overweight-4945249",
+    "Watchlist|https://www.investing.com/news/stock-market-news/blackrock-turns-bullish-on-shortterm-bonds-closes-us-stock-overweight-4945249"
   ],
   "topic_error": "",
   "last_digest": "2026-10-12",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791842460.946083
+  "last_check": 1791843380.5905268
 }
