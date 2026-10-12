@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/china-to-resume-fuel-exports-in-oct-after-holiday-pause-reuters-reports-93CH-4940152",
-    "SG Banks|https://www.investing.com/news/economy-news/usannounces-effort-to-disrupt-hacking-infrastructure-run-by-chinas-integrity-tech-group-4940153",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/sailpoint-cao-mitra-rezvan-sells-141k-in-shares-93CH-4940157",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/sailpoint-cfo-brian-carolan-sells-162-million-in-common-stock-93CH-4940158",
-    "SG Banks|https://www.investing.com/news/stock-market-news/us-cell-tower-stocks-rise-on-spacex-spectrum-buy-4940162",
-    "SG Banks|https://www.investing.com/news/economy-news/morning-bid-feeding-the-ai-beast-4940163",
-    "SG Banks|https://www.investing.com/news/economy-news/singapore-poised-to-tighten-monetary-policy-amid-strong-growth-and-rising-inflation-risks-4940164",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/fuelcell-energy-evp-sells-46250-in-common-stock-93CH-4940168",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/sailpoint-ceo-mark-mcclain-sells-439m-in-company-stock-93CH-4940169",
-    "Watchlist|https://www.investing.com/news/stock-market-news/china-to-resume-fuel-exports-in-oct-after-holiday-pause-reuters-reports-93CH-4940152",
-    "Watchlist|https://www.investing.com/news/economy-news/usannounces-effort-to-disrupt-hacking-infrastructure-run-by-chinas-integrity-tech-group-4940153",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/sailpoint-cao-mitra-rezvan-sells-141k-in-shares-93CH-4940157",
     "Watchlist|https://www.investing.com/news/insider-trading-news/sailpoint-cfo-brian-carolan-sells-162-million-in-common-stock-93CH-4940158",
     "Watchlist|https://www.investing.com/news/stock-market-news/us-cell-tower-stocks-rise-on-spacex-spectrum-buy-4940162",
     "Watchlist|https://www.investing.com/news/economy-news/morning-bid-feeding-the-ai-beast-4940163",
@@ -5000,10 +4988,22 @@
     "SG Banks|/companies-markets/competition-authority-seeks-public-views-eneos-apacs-proposed-acquisition-chevron-singapore",
     "SG Banks|https://www.channelnewsasia.com/business/us-reverses-course-britains-testing-ai-models-telegraph-says-6451601",
     "Watchlist|/companies-markets/energy-commodities/oil-falls-trump-comments-iran-talks-ease-supply-concerns",
-    "Watchlist|/companies-markets/competition-authority-seeks-public-views-eneos-apacs-proposed-acquisition-chevron-singapore"
+    "Watchlist|/companies-markets/competition-authority-seeks-public-views-eneos-apacs-proposed-acquisition-chevron-singapore",
+    "Watchlist|6b85f19a-389e-37e4-9659-44a79dfe826a",
+    "AI|6b85f19a-389e-37e4-9659-44a79dfe826a",
+    "AI|1b7779cc-848b-3aa5-8cc9-55397baa4ce4",
+    "Watchlist|1b7779cc-848b-3aa5-8cc9-55397baa4ce4",
+    "AI|https://www.investing.com/news/insider-trading-news/pubmatic-chairman-amar-goel-sells-138545-in-shares-93CH-4942909",
+    "AI|https://www.investing.com/news/insider-trading-news/monopar-therapeutics-director-christopher-starr-sells-shares-worth-659k-93CH-4942925",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/pubmatic-chairman-amar-goel-sells-138545-in-shares-93CH-4942909",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/monopar-therapeutics-director-christopher-starr-sells-shares-worth-659k-93CH-4942925",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/pubmatic-chairman-amar-goel-sells-138545-in-shares-93CH-4942909",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/monopar-therapeutics-director-christopher-starr-sells-shares-worth-659k-93CH-4942925",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/pubmatic-chairman-amar-goel-sells-138545-in-shares-93CH-4942909",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/monopar-therapeutics-director-christopher-starr-sells-shares-worth-659k-93CH-4942925"
   ],
   "topic_error": "",
-  "last_digest": "2026-10-11",
+  "last_digest": "2026-10-12",
   "earnings": {
     "AMD": {
       "ts": 1793736000,
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791762715.0982811
+  "last_check": 1791763643.2664058
 }
