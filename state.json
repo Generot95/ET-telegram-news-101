@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|dcbcce1c-6c32-3665-a45c-355be4390cb6",
-    "Crypto|0fc9a215-a002-3419-a7d4-6f9ada73171a",
-    "Iran|https://www.iranintl.com/en/202610098124",
-    "Crypto|4f074366-5558-32f2-beb0-ff6b7638045f",
-    "War|81c3b294-695e-36a5-876e-77f283c8d748",
-    "War|83e82078-be35-3458-b41d-70d82d054d9e",
-    "Watchlist|83e82078-be35-3458-b41d-70d82d054d9e",
-    "War|95f72d0e-0919-30e8-8625-8f0f94f18aeb",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-ssp-stock-sliding-today-93CH-4940324",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-orange-stock-sliding-today-93CH-4940325",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-tryg-stock-surging-today-93CH-4940326",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-salzgitter-stock-rallying-today-93CH-4940327",
     "AI|https://www.investing.com/news/stock-market-news/eu-telecom-stocks-fall-after-spacexs-move-to-become-a-wireless-carrier-4940329",
     "AI|https://www.investing.com/news/stock-market-news/why-is-argenx-stock-rallying-today-93CH-4940335",
     "AI|https://www.investing.com/news/stock-market-news/why-is-cd-projekt-red-stock-rallying-today-93CH-4940337",
@@ -5000,7 +4988,19 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/samsung-sk-hynix-shares-drop-as-chinas-cxmt-flags-progress-in-memory-development-4943096",
     "AI|3a29f559-2d20-31b4-8434-def3a1e4a3d7",
     "Watchlist|3a29f559-2d20-31b4-8434-def3a1e4a3d7",
-    "SG Banks|/companies-markets/transport-logistics/record-chinese-turnout-puts-european-carmakers-under-pressure-paris-show"
+    "SG Banks|/companies-markets/transport-logistics/record-chinese-turnout-puts-european-carmakers-under-pressure-paris-show",
+    "Crypto|e78557e5-893b-399e-ad0f-46f275dd3d2a",
+    "Watchlist|/companies-markets/transport-logistics/record-chinese-turnout-puts-european-carmakers-under-pressure-paris-show",
+    "SG Banks|https://www.channelnewsasia.com/business/pakistan-sees-growth-above-4-looks-raise-more-1-billion-privatisation-6452106",
+    "Iran|https://www.iranintl.com/en/202610098124",
+    "AI|https://www.investing.com/news/stock-market-news/alibaba-bofa-reiterates-buy-ahead-of-sept-qtr-earnings-4943098",
+    "AI|https://www.investing.com/news/stock-market-news/china-home-car-sales-downturn-continues-exports-retain-momentum-4943104",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/alibaba-bofa-reiterates-buy-ahead-of-sept-qtr-earnings-4943098",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/china-home-car-sales-downturn-continues-exports-retain-momentum-4943104",
+    "SG Banks|https://www.investing.com/news/stock-market-news/alibaba-bofa-reiterates-buy-ahead-of-sept-qtr-earnings-4943098",
+    "SG Banks|https://www.investing.com/news/stock-market-news/china-home-car-sales-downturn-continues-exports-retain-momentum-4943104",
+    "Watchlist|https://www.investing.com/news/stock-market-news/alibaba-bofa-reiterates-buy-ahead-of-sept-qtr-earnings-4943098",
+    "Watchlist|https://www.investing.com/news/stock-market-news/china-home-car-sales-downturn-continues-exports-retain-momentum-4943104"
   ],
   "topic_error": "",
   "last_digest": "2026-10-12",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791781957.821526
+  "last_check": 1791782858.6767516
 }
