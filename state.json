@@ -1,24 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/vault-ventures-signs-codesign-partnerships-for-quantum-platform-93CH-4940271",
-    "Watchlist|https://www.investing.com/news/company-news/airtel-money-sets-ipo-price-at-196-listing-today-in-london-93CH-4940255",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/nutanix-ceo-rajiv-ramaswami-sells-2946m-in-stock-93CH-4940260",
-    "Watchlist|https://www.investing.com/news/company-news/partners-group-private-equity-reports-august-nav-decline-93CH-4940263",
-    "Watchlist|https://www.investing.com/news/forex-news/citi-sees-limited-upside-for-eurjpy-amid-intervention-expectations-93CH-4940266",
-    "Watchlist|https://www.investing.com/news/stock-market-news/apple-cuts-iphone18-pro-component-orders-amid-sluggish-demand-nikkei-4940267",
-    "Watchlist|https://www.investing.com/news/company-news/greenx-metals-schedules-agm-reports-performance-rights-lapse-93CH-4940268",
-    "Watchlist|https://www.investing.com/news/economy-news/nearly-30-years-afterimf-rescue-thailand-faces-new-economic-test-4940269",
-    "Watchlist|https://www.investing.com/news/company-news/vault-ventures-signs-codesign-partnerships-for-quantum-platform-93CH-4940271",
-    "SG Banks|https://www.straitstimes.com/business/companies-markets/competition-authority-seeks-public-views-on-eneos-apacs-proposed-acquisition-of-chevron-singapore",
-    "AI|cbfbad4f-2482-3748-818c-43dce1d14c8c",
-    "Watchlist|cbfbad4f-2482-3748-818c-43dce1d14c8c",
-    "SG Banks|/companies-markets/energy-commodities/soaring-freight-rates-threaten-asias-appetite-us-crude",
-    "Watchlist|/companies-markets/energy-commodities/soaring-freight-rates-threaten-asias-appetite-us-crude",
-    "SG Banks|/companies-markets/telcos-media-tech/openais-singapore-based-asia-pacific-policy-head-leave-after-6-months",
-    "Watchlist|/companies-markets/telcos-media-tech/openais-singapore-based-asia-pacific-policy-head-leave-after-6-months",
-    "Crypto|21c28f3f-4b76-38b4-bbb3-94ba914f0dd3",
-    "Watchlist|13b2b860-890a-3f9c-982b-a6e41281e7fd",
     "Watchlist|5c294f8b-d991-340f-84a4-665acfffe175",
     "War|c6168424-cd74-3961-985b-9c6bb49b9786",
     "War|f911bcd1-1b91-3002-be9e-a6ce066a4328",
@@ -5000,7 +4982,25 @@
     "Crypto|e76530dd-a9be-33f9-b436-11177f0e7a05",
     "Crypto|66c80530-51f6-376f-b172-3a4f3e2769f3",
     "Crypto|fc8c24b8-668a-3b15-b9a4-9877fef7f6a7",
-    "War|36c70ee7-897b-37de-9d91-c25dad4154cb"
+    "War|36c70ee7-897b-37de-9d91-c25dad4154cb",
+    "SG Banks|/companies-markets/energy-commodities/gold-gains-weaker-oil-greenback-us-inflation-data-focus",
+    "Watchlist|/companies-markets/energy-commodities/gold-gains-weaker-oil-greenback-us-inflation-data-focus",
+    "AI|https://www.investing.com/news/stock-market-news/asia-stocks-mixed-as-oil-retreats-earnings-season-gathers-pace-4943026",
+    "AI|https://www.investing.com/news/cryptocurrency-news/data-network-joins-sui-and-walrus-to-scale-the-supply-chain-for-ai-training-data-4943027",
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/data-network-joins-sui-and-walrus-to-scale-the-supply-chain-for-ai-training-data-4943027",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/asia-stocks-mixed-as-oil-retreats-earnings-season-gathers-pace-4943026",
+    "Cybersecurity|https://www.investing.com/news/cryptocurrency-news/data-network-joins-sui-and-walrus-to-scale-the-supply-chain-for-ai-training-data-4943027",
+    "SG Banks|https://www.investing.com/news/stock-market-news/asia-stocks-mixed-as-oil-retreats-earnings-season-gathers-pace-4943026",
+    "SG Banks|https://www.investing.com/news/cryptocurrency-news/data-network-joins-sui-and-walrus-to-scale-the-supply-chain-for-ai-training-data-4943027",
+    "Watchlist|https://www.investing.com/news/stock-market-news/asia-stocks-mixed-as-oil-retreats-earnings-season-gathers-pace-4943026",
+    "Watchlist|https://www.investing.com/news/cryptocurrency-news/data-network-joins-sui-and-walrus-to-scale-the-supply-chain-for-ai-training-data-4943027",
+    "AI|bbd744ff-a745-3f2c-b016-84bb4531dcf5",
+    "Watchlist|bbd744ff-a745-3f2c-b016-84bb4531dcf5",
+    "SG Banks|/companies-markets/energy-commodities/soaring-freight-rates-threaten-asias-appetite-us-crude",
+    "War|84a9e883-d2d5-34a1-aa5b-8afc29c12f85",
+    "Watchlist|/companies-markets/energy-commodities/soaring-freight-rates-threaten-asias-appetite-us-crude",
+    "SG Banks|/companies-markets/telcos-media-tech/openais-singapore-based-asia-pacific-policy-head-leave-after-6-months",
+    "Watchlist|/companies-markets/telcos-media-tech/openais-singapore-based-asia-pacific-policy-head-leave-after-6-months"
   ],
   "topic_error": "",
   "last_digest": "2026-10-12",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791776454.7269578
+  "last_check": 1791777402.8207948
 }
