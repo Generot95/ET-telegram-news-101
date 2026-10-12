@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.straitstimes.com/business/openais-singapore-based-apac-policy-head-leaving-job-after-6-months-source-says",
-    "AI|ec645041-cb40-343b-bf84-c96b6a82203d",
-    "AI|https://www.investing.com/news/stock-market-news/tcs-shares-rise-as-ai-revenue-offsets-sluggish-growth-lifts-indian-it-stocks-4940173",
-    "AI|https://www.investing.com/news/stock-market-news/openai-expects-to-reach-70-bln-revenue-by-end2026-bloomberg-reports-4940179",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/tcs-shares-rise-as-ai-revenue-offsets-sluggish-growth-lifts-indian-it-stocks-4940173",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/openai-expects-to-reach-70-bln-revenue-by-end2026-bloomberg-reports-4940179",
     "SG Banks|https://www.investing.com/news/stock-market-news/tcs-shares-rise-as-ai-revenue-offsets-sluggish-growth-lifts-indian-it-stocks-4940173",
     "SG Banks|https://www.investing.com/news/stock-market-news/openai-expects-to-reach-70-bln-revenue-by-end2026-bloomberg-reports-4940179",
@@ -5000,7 +4995,12 @@
     "Watchlist|https://www.investing.com/news/commodities-news/oil-prices-dip-after-trump-announces-russiaukraine-energy-ceasefire-4942934",
     "AI|ade7aacf-7abf-3002-8a93-7e8fe63232cf",
     "Watchlist|ade7aacf-7abf-3002-8a93-7e8fe63232cf",
-    "War|f49cee53-aa2c-35b2-a710-67557f1de4d8"
+    "War|f49cee53-aa2c-35b2-a710-67557f1de4d8",
+    "SG Banks|/companies-markets/capital-markets-currencies/stocks-watch-sgx-ums-integration",
+    "Watchlist|/companies-markets/capital-markets-currencies/stocks-watch-sgx-ums-integration",
+    "SG Banks|https://www.channelnewsasia.com/business/shares-cautious-in-asia-earnings-loom-oil-slips-6451656",
+    "Watchlist|3dad0763-726c-30b4-964c-4978a970bc07",
+    "AI|3dad0763-726c-30b4-964c-4978a970bc07"
   ],
   "topic_error": "",
   "last_digest": "2026-10-12",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791765471.4449139
+  "last_check": 1791766396.6860423
 }
