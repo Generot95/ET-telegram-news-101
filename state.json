@@ -1,21 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/sika-acquires-uk-landscaping-products-maker-azpects-group-93CH-4940236",
-    "Cybersecurity|https://www.investing.com/news/company-news/oxford-metrics-acquires-move-ai-assets-for-525000-93CH-4940244",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-xiaomi-stock-surging-today-93CH-4940245",
-    "SG Banks|https://www.investing.com/news/stock-market-news/australias-maas-group-extends-slide-after-firmus-scraps-5-bln-ipo-4940228",
-    "SG Banks|https://www.investing.com/news/earnings/tryg-q3-pretax-profit-beats-forecasts-on-benign-claims-stronger-underwriting-4940229",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-anhui-jianghuai-automobile-stock-sliding-today-93CH-4940230",
-    "SG Banks|https://www.investing.com/news/stock-market-news/spacex-spectrum-deal-lifts-us-cell-tower-stocks-bull-and-bear-cases-outlined-93CH-4940234",
-    "SG Banks|https://www.investing.com/news/stock-market-news/sika-acquires-uk-landscaping-products-maker-azpects-group-93CH-4940236",
-    "SG Banks|https://www.investing.com/news/company-news/oxford-metrics-acquires-move-ai-assets-for-525000-93CH-4940244",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-xiaomi-stock-surging-today-93CH-4940245",
-    "Watchlist|https://www.investing.com/news/stock-market-news/australias-maas-group-extends-slide-after-firmus-scraps-5-bln-ipo-4940228",
-    "Watchlist|https://www.investing.com/news/earnings/tryg-q3-pretax-profit-beats-forecasts-on-benign-claims-stronger-underwriting-4940229",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-anhui-jianghuai-automobile-stock-sliding-today-93CH-4940230",
-    "Watchlist|https://www.investing.com/news/stock-market-news/spacex-spectrum-deal-lifts-us-cell-tower-stocks-bull-and-bear-cases-outlined-93CH-4940234",
-    "Watchlist|https://www.investing.com/news/stock-market-news/sika-acquires-uk-landscaping-products-maker-azpects-group-93CH-4940236",
     "Watchlist|https://www.investing.com/news/company-news/oxford-metrics-acquires-move-ai-assets-for-525000-93CH-4940244",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-xiaomi-stock-surging-today-93CH-4940245",
     "Watchlist|93f44521-e50a-3399-890f-35f9bd6768c7",
@@ -5000,7 +4985,22 @@
     "AI|945f8312-f8ec-3814-873f-308ca2b0f672",
     "Watchlist|945f8312-f8ec-3814-873f-308ca2b0f672",
     "AI|https://www.investing.com/news/stock-market-news/tsmc-expected-to-report-sixth-straight-quarter-of-record-profit-thanks-to-ai-boom-4943004",
-    "Watchlist|e05f0bf3-ebd3-33e1-8e3e-739c1d5076eb"
+    "Watchlist|e05f0bf3-ebd3-33e1-8e3e-739c1d5076eb",
+    "War|https://www.investing.com/news/commodities-news/abbas-postpones-palestinian-elections-sets-presidential-poll-for-september-2027-4943003",
+    "AI|https://www.investing.com/news/commodities-news/abbas-postpones-palestinian-elections-sets-presidential-poll-for-september-2027-4943003",
+    "AI|https://www.investing.com/news/insider-trading-news/american-well-chief-product--tech-officer-sells-109746-in-stock-93CH-4943012",
+    "Cybersecurity|https://www.investing.com/news/commodities-news/abbas-postpones-palestinian-elections-sets-presidential-poll-for-september-2027-4943003",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/tsmc-expected-to-report-sixth-straight-quarter-of-record-profit-thanks-to-ai-boom-4943004",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/american-well-chief-product--tech-officer-sells-109746-in-stock-93CH-4943012",
+    "SG Banks|https://www.investing.com/news/commodities-news/abbas-postpones-palestinian-elections-sets-presidential-poll-for-september-2027-4943003",
+    "SG Banks|https://www.investing.com/news/stock-market-news/tsmc-expected-to-report-sixth-straight-quarter-of-record-profit-thanks-to-ai-boom-4943004",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/american-well-chief-product--tech-officer-sells-109746-in-stock-93CH-4943012",
+    "Watchlist|https://www.investing.com/news/commodities-news/abbas-postpones-palestinian-elections-sets-presidential-poll-for-september-2027-4943003",
+    "Watchlist|https://www.investing.com/news/stock-market-news/tsmc-expected-to-report-sixth-straight-quarter-of-record-profit-thanks-to-ai-boom-4943004",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/american-well-chief-product--tech-officer-sells-109746-in-stock-93CH-4943012",
+    "SG Banks|/companies-markets/capital-markets-currencies/south-korea-stocks-fall-while-asian-shares-stay-cautious-earnings-loom-oil-slips",
+    "Watchlist|/companies-markets/capital-markets-currencies/south-korea-stocks-fall-while-asian-shares-stay-cautious-earnings-loom-oil-slips",
+    "Watchlist|8a409d14-5933-3d2d-b6d3-70567a09575f"
   ],
   "topic_error": "",
   "last_digest": "2026-10-12",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791771899.6323726
+  "last_check": 1791772801.1774502
 }
