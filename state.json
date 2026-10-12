@@ -1,17 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|/companies-markets/banking-finance/indias-central-bank-lifts-rates-first-time-nearly-four-years",
-    "Watchlist|/property/goodmans-japanese-data-centre-comes-under-fire-following-sydney-site-setback",
-    "Watchlist|/singapore/major-data-centres-meet-stricter-security-resilience-rules-passing-new-bill",
-    "Watchlist|/companies-markets/energy-commodities/shell-sees-refining-margins-hitting-record-high-third-quarter",
-    "Watchlist|/companies-markets/jardine-matheson-s-e-asia-downgraded-underperform-macquarie-counter-closes-7-7-lower",
-    "Watchlist|/companies-markets/energy-commodities/lubrizol-expands-singapore-rd-hub-boost-innovation-specialty-chemicals-sector",
-    "Watchlist|/singapore/coe-premiums-fall-across-most-categories-cat-ends-s130001",
-    "Watchlist|/opinion-features/whats-taking-hongkong-land-fund-so-long-seal-marina-one-deal",
-    "Watchlist|/international/south-korea-unveils-us747-billion-energy-transition-plan-through-2035",
-    "Watchlist|/companies-markets/transport-logistics/sia-air-india-expand-code-share-flights-reciprocal-mileage-perks",
-    "Watchlist|/esg/singapore-may-be-able-import-only-half-2035-clean-energy-target-report",
     "Watchlist|/companies-markets/singapore-shares-fall-ocbc-uob-lead-stis-1-6-decline-wednesday",
     "Watchlist|/singapore/car-coe-premiums-resist-slow-market-remain-above-s130000",
     "Watchlist|/companies-markets/banking-finance/us7-trillion-data-centre-boom-creating-gaps-insurance-cover-within-apac-report",
@@ -5000,7 +4989,18 @@
     "Watchlist|https://www.investing.com/news/economy-news/trading-day-fog-of-war-4945239",
     "War|5c208685-c112-49c3-a094-9ea6cad0bfc9",
     "Cybersecurity|90b0bb54-1269-376a-a12d-de2dc93db60a",
-    "Watchlist|6ef332de-f94b-3048-a343-27608086c762"
+    "Watchlist|6ef332de-f94b-3048-a343-27608086c762",
+    "AI|c0ed359f-cd65-3b27-8725-d229a9004d36",
+    "Watchlist|c0ed359f-cd65-3b27-8725-d229a9004d36",
+    "AI|945385c5-7933-3f89-a696-1ea2f0ca968e",
+    "AI|009378b1-3274-3e26-aa88-0f87ba365140",
+    "AI|8c0fd821-c257-34d3-a466-9d4a0b7e3820",
+    "AI|27c41ef3-326e-36f9-91a6-f14937e53aca",
+    "Watchlist|009378b1-3274-3e26-aa88-0f87ba365140",
+    "Watchlist|27c41ef3-326e-36f9-91a6-f14937e53aca",
+    "AI|3090622c-0ca0-3e90-903c-c23ee6f1af4d",
+    "Cybersecurity|3090622c-0ca0-3e90-903c-c23ee6f1af4d",
+    "Watchlist|3090622c-0ca0-3e90-903c-c23ee6f1af4d"
   ],
   "topic_error": "",
   "last_digest": "2026-10-12",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791840636.546076
+  "last_check": 1791841551.7715871
 }
