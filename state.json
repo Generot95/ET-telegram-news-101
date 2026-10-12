@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
-    "SG Banks|https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
-    "Watchlist|https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
-    "AI|4a74d1eb-3bb4-3cea-b661-c2fa1b99e0e9",
-    "Watchlist|4a74d1eb-3bb4-3cea-b661-c2fa1b99e0e9",
-    "War|08db1ba8-356c-3315-97a7-d6b834322a84",
-    "Crypto|08db1ba8-356c-3315-97a7-d6b834322a84",
-    "Cybersecurity|3a8db408-e9b8-32e7-b54e-81927a8a7acc",
-    "Watchlist|3a8db408-e9b8-32e7-b54e-81927a8a7acc",
     "AI|https://www.investing.com/news/economy-news/french-fiscal-risks-raise-chance-of-ecb-pause-after-december-4941964",
     "Cybersecurity|https://www.investing.com/news/economy-news/french-fiscal-risks-raise-chance-of-ecb-pause-after-december-4941964",
     "SG Banks|https://www.investing.com/news/economy-news/french-fiscal-risks-raise-chance-of-ecb-pause-after-december-4941964",
@@ -5000,7 +4991,16 @@
     "AI|https://www.investing.com/news/stock-market-news/nyt-economist-among-publishers-joining-coalition-to-curb-unpaid-ai-use-4945254",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/nyt-economist-among-publishers-joining-coalition-to-curb-unpaid-ai-use-4945254",
     "SG Banks|https://www.investing.com/news/stock-market-news/nyt-economist-among-publishers-joining-coalition-to-curb-unpaid-ai-use-4945254",
-    "Watchlist|https://www.investing.com/news/stock-market-news/nyt-economist-among-publishers-joining-coalition-to-curb-unpaid-ai-use-4945254"
+    "Watchlist|https://www.investing.com/news/stock-market-news/nyt-economist-among-publishers-joining-coalition-to-curb-unpaid-ai-use-4945254",
+    "War|b711ea3c-d591-3549-93e5-72c175821e1e",
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
+    "Watchlist|b711ea3c-d591-3549-93e5-72c175821e1e",
+    "AI|82c9217f-b4db-33dd-bd9f-5006bfa9fdae",
+    "Watchlist|82c9217f-b4db-33dd-bd9f-5006bfa9fdae",
+    "War|9057e212-ecee-3cde-9c5d-2bad01a61ecd",
+    "Watchlist|18d9386d-cc5e-3c16-9137-aebdd5f9434e",
+    "War|e5c24532-fa9c-3610-96c1-270e1e12a97e",
+    "Crypto|7d2eec34-4a92-3b6d-ae04-e879721b0b78"
   ],
   "topic_error": "",
   "last_digest": "2026-10-12",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791847045.304888
+  "last_check": 1791847954.6874917
 }
