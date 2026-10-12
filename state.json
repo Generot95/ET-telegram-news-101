@@ -1,17 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|7f791c6b-b525-36db-af37-59f4a5aa9dc8",
-    "AI|cd844af6-c36c-35eb-bf2a-2eff03c8d75b",
-    "Watchlist|cd844af6-c36c-35eb-bf2a-2eff03c8d75b",
-    "AI|https://www.investing.com/news/insider-trading-news/honest-company-svp-thomas-sternweis-sells-122500-in-stock-93CH-4941953",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/honest-company-svp-thomas-sternweis-sells-122500-in-stock-93CH-4941953",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/honest-company-svp-thomas-sternweis-sells-122500-in-stock-93CH-4941953",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/honest-company-svp-thomas-sternweis-sells-122500-in-stock-93CH-4941953",
-    "AI|00e696ec-c899-3cdb-ba97-7ac48319b816",
-    "War|5abffee8-7ba5-312f-9bb9-745f625b9374",
-    "AI|https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
     "Cybersecurity|https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
     "SG Banks|https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
     "Watchlist|https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
@@ -5000,7 +4989,18 @@
     "SG Banks|https://www.investing.com/news/company-news/cme-corn-futures-hit-record-daily-volume-on-october-9-93CH-4945253",
     "Watchlist|8525c48b-ba72-3e87-a45b-a62b0d312b84",
     "Watchlist|https://www.investing.com/news/company-news/cme-corn-futures-hit-record-daily-volume-on-october-9-93CH-4945253",
-    "Iran|https://www.iranintl.com/en/202610126090"
+    "Iran|https://www.iranintl.com/en/202610126090",
+    "AI|e2b71c98-f706-3ed2-8b7c-e6d0b65286bd",
+    "Crypto|20a5f220-c646-36b8-8bd6-8715475f929e",
+    "AI|fc3b53d4-d442-32a1-acac-bd15dafbead9",
+    "Cybersecurity|81ed5b1d-4142-3471-b7af-867852c0d239",
+    "Watchlist|81ed5b1d-4142-3471-b7af-867852c0d239",
+    "Watchlist|fc3b53d4-d442-32a1-acac-bd15dafbead9",
+    "SG Banks|https://www.channelnewsasia.com/business/nyt-economist-among-publishers-joining-coalition-curb-unpaid-ai-use-6454436",
+    "AI|https://www.investing.com/news/stock-market-news/nyt-economist-among-publishers-joining-coalition-to-curb-unpaid-ai-use-4945254",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/nyt-economist-among-publishers-joining-coalition-to-curb-unpaid-ai-use-4945254",
+    "SG Banks|https://www.investing.com/news/stock-market-news/nyt-economist-among-publishers-joining-coalition-to-curb-unpaid-ai-use-4945254",
+    "Watchlist|https://www.investing.com/news/stock-market-news/nyt-economist-among-publishers-joining-coalition-to-curb-unpaid-ai-use-4945254"
   ],
   "topic_error": "",
   "last_digest": "2026-10-12",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791846112.33077
+  "last_check": 1791847045.304888
 }
