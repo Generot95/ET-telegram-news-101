@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/investors-need-sustained-fed-cuts-to-move-cash-off-sidelines-bofas-hartnett-4940583",
-    "AI|https://www.investing.com/news/stock-market-news/airelated-companies-to-drive-most-thirdquarter-us-earnings-gains-4940589",
-    "AI|https://www.investing.com/news/stock-market-news/city-therapeutics-files-for-972m-share-ipo-at-1719sh-432SI-4940606",
-    "AI|https://www.investing.com/news/company-news/icfg-schedules-agm-proposes-redomiciliation-to-singapore-93CH-4940594",
-    "AI|https://www.investing.com/news/company-news/protiviti-earns-workplace-inclusion-recognitions-from-seramount-93CH-4940624",
-    "AI|https://www.investing.com/news/company-news/transocean-secures-62m-contract-adds-1b-to-backlog-93CH-4940623",
-    "AI|https://www.investing.com/news/company-news/seven--i-h1-2026-slides-transformation-delivers-doubledigit-growth-93CH-4940626",
-    "AI|https://www.investing.com/news/company-news/viomi-technology-appoints-xinlang-yu-to-board-of-directors-93CH-4940642",
-    "AI|https://www.investing.com/news/company-news/humana-reports-95-of-medicare-members-in-4starplus-plans-93CH-4940643",
     "AI|https://www.investing.com/news/company-news/mondi-reports-dividend-reinvestment-plan-participation-results-93CH-4940644",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-venture-global-stock-rating-on-earnings-preview-93CH-4940646",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-buy-on-dell-stock-amid-ai-supply-constraints-93CH-4940645",
@@ -5000,7 +4991,16 @@
     "Watchlist|/singapore/economy-policy/mas-flags-risks-using-ai-agents-digital-asset-trading",
     "Watchlist|/companies-markets/singapore-shares-end-lower-amid-mixed-regional-trading-sti-down-0-2",
     "AI|7ae1b5d1-a42b-381d-b933-a5aead51aea9",
-    "Watchlist|ea824ca2-b6c0-34cc-b903-a3f5605332e0"
+    "Watchlist|ea824ca2-b6c0-34cc-b903-a3f5605332e0",
+    "SG Banks|/international/imf-chief-alarmed-slow-moving-tsunami-ai-jobs-taxes",
+    "Watchlist|/international/imf-chief-alarmed-slow-moving-tsunami-ai-jobs-taxes",
+    "AI|8d7f1121-8be2-30f4-a040-57b47bf0eb7f",
+    "Watchlist|8d7f1121-8be2-30f4-a040-57b47bf0eb7f",
+    "War|9acdb352-d692-3478-8045-afb98903316e",
+    "SG Banks|/companies-markets/banking-finance/biggest-rupee-defense-decade-draws-line-under-97-dollar",
+    "Watchlist|/companies-markets/banking-finance/biggest-rupee-defense-decade-draws-line-under-97-dollar",
+    "SG Banks|/companies-markets/banking-finance/biggest-rupee-defence-decade-draws-line-under-97-us-dollar",
+    "Watchlist|/companies-markets/banking-finance/biggest-rupee-defence-decade-draws-line-under-97-us-dollar"
   ],
   "topic_error": "",
   "last_digest": "2026-10-12",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791794777.8405867
+  "last_check": 1791795686.4503627
 }
