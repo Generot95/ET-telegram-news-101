@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-att-stock-sliding-today-93CH-4940523",
-    "Cybersecurity|https://www.investing.com/news/company-news/montero-mining-closes-15m-private-placement-for-exploration-93CH-4940509",
-    "SG Banks|https://www.investing.com/news/economy-news/malaysia-plans-1125-billion-budget-for-2027-ahead-of-possible-election-4940338",
-    "SG Banks|https://www.investing.com/news/stock-market-news/schott-pharma-drops-after-deutsche-bank-downgrades-on-demanding-valuation-4940513",
-    "SG Banks|https://www.investing.com/news/stock-market-news/us-treasury-market-interventions-show-mixed-results-93CH-4940519",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-tmobile-stock-tumbling-today-93CH-4940520",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-verizon-stock-sliding-today-93CH-4940521",
     "SG Banks|https://www.investing.com/news/stock-market-news/guggenheim-investors-withdraw-24bn-amid-federal-probe-93CH-4940522",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-att-stock-sliding-today-93CH-4940523",
@@ -5000,7 +4994,13 @@
     "SG Banks|/companies-markets/st-engineering-opens-tech-focused-aircraft-maintenance-facility-changi-create-over-500-jobs",
     "Watchlist|/companies-markets/st-engineering-opens-tech-focused-aircraft-maintenance-facility-changi-create-over-500-jobs",
     "War|6fab65be-f657-3fcb-bdfe-370ec45aa16f",
-    "SG Banks|https://www.straitstimes.com/business/mas-introduces-enhanced-safeguards-around-public-events-by-financial-institutions"
+    "SG Banks|https://www.straitstimes.com/business/mas-introduces-enhanced-safeguards-around-public-events-by-financial-institutions",
+    "AI|23db5d76-cd91-342a-a426-2b2188ea4079",
+    "War|b3137f66-b89a-44ef-b160-ee66246b9743",
+    "Watchlist|bf607cad-b51b-391a-b628-329bbda0edef",
+    "AI|bf607cad-b51b-391a-b628-329bbda0edef",
+    "SG Banks|/companies-markets/capital-markets-currencies/european-shares-rise-lower-oil-prices-bank-strength-ahead-earnings",
+    "Watchlist|/companies-markets/capital-markets-currencies/european-shares-rise-lower-oil-prices-bank-strength-ahead-earnings"
   ],
   "topic_error": "",
   "last_digest": "2026-10-12",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791792024.406774
+  "last_check": 1791792933.741527
 }
