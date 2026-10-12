@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/economy-news/us-10year-treasury-yields-at-risk-of-hitting-6-pimco-tells-ft-4940410",
-    "SG Banks|https://www.investing.com/news/commodities-news/three-saudi-nationals-killed-in-attacks-on-riyadh-airport-aviation-authority-says-4940411",
     "SG Banks|https://www.investing.com/news/company-news/trainline-comments-on-uk-rail-retail-code-draft-93CH-4940412",
     "SG Banks|https://www.investing.com/news/analyst-ratings/piper-sandler-initiates-mid-penn-bancorp-stock-with-overweight-rating-93CH-4940413",
     "Watchlist|e0eff72b-6783-341d-ac11-2dde22475dc0",
@@ -5000,7 +4998,9 @@
     "SG Banks|https://www.channelnewsasia.com/business/oil-falls-hopes-russia-ukraine-energy-ceasefire-will-boost-supplies-6451591",
     "War|3b9617ea-549e-3f18-b1d1-19f0c561279a",
     "AI|05372277-e10e-349e-bea1-94bc27e74769",
-    "Watchlist|05372277-e10e-349e-bea1-94bc27e74769"
+    "Watchlist|05372277-e10e-349e-bea1-94bc27e74769",
+    "SG Banks|/esg/singapores-low-carbon-electricity-2035-target-aspirational-ema",
+    "Watchlist|/esg/singapores-low-carbon-electricity-2035-target-aspirational-ema"
   ],
   "topic_error": "",
   "last_digest": "2026-10-12",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791788359.738902
+  "last_check": 1791789281.0161529
 }
