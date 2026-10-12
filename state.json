@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/cerence-evp-nils-schanz-disposes-of-419512-in-crnc-shares-93CH-4941809",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/astera-labs-director-stefan-dyckerhoff-sells-47m-in-shares-93CH-4941811",
-    "Watchlist|https://www.investing.com/news/company-news/kalshi-probes-suspicious-bets-on-trump-press-secretary-pick-wsj-reports-4941817",
-    "Watchlist|320b85d8-ea11-380c-8a8c-789f9eab1a90",
-    "Watchlist|f068f66d-ff8a-3c84-b232-9a5cb34b7a75",
-    "AI|7ba98083-2706-312f-ad19-b8d3e3bb974d",
-    "Cybersecurity|7ba98083-2706-312f-ad19-b8d3e3bb974d",
-    "Watchlist|7ba98083-2706-312f-ad19-b8d3e3bb974d",
-    "AI|d256e6fa-ba2b-3045-bb01-b0c5a17e7a4b",
-    "Crypto|deb764db-9b0c-36ab-a588-a0e25bbe755f",
-    "Watchlist|d256e6fa-ba2b-3045-bb01-b0c5a17e7a4b",
-    "SG Banks|https://www.channelnewsasia.com/business/gtcr-elliott-in-advanced-talks-buy-ccc-intelligent-solutions-source-says-6447966",
-    "AI|https://www.investing.com/news/insider-trading-news/bastion-trading-ltd-buys-78262-in-skyai-stock-93CH-4941825",
     "AI|https://www.investing.com/news/insider-trading-news/cerence-evp-chief-admin-officer-salinas-sells-529224-in-stock-93CH-4941826",
     "AI|https://www.investing.com/news/insider-trading-news/globalfoundries-chief-legal-officer-sells-16418-in-shares-93CH-4941827",
     "AI|https://www.investing.com/news/insider-trading-news/sailpoint-chief-accounting-officer-mitra-sells-23360-in-shares-93CH-4941837",
@@ -5000,7 +4987,20 @@
     "Watchlist|https://www.investing.com/news/company-news/navitas-unveils-24-kw-power-board-for-ai-data-centers-93CH-4945185",
     "Watchlist|https://www.investing.com/news/company-news/seadrill-secures-contracts-worth-over-514-million-for-rigs-93CH-4945186",
     "Watchlist|https://www.investing.com/news/company-news/global-ship-lease-secures-1-billion-loan-facility-at-15-margin-93CH-4945187",
-    "Iran|https://www.iranintl.com/en/202610082874"
+    "Iran|https://www.iranintl.com/en/202610082874",
+    "AI|eb255b02-f79b-3541-b871-2d330f03a5d4",
+    "AI|06bfd5ba-b931-3ffc-a68d-07ef6744e238",
+    "Watchlist|ea5f5150-9fdc-39de-a4dc-b2ba1e63f554",
+    "AI|76398e3b-1c28-3461-ab8a-3473486c7a64",
+    "AI|ea5f5150-9fdc-39de-a4dc-b2ba1e63f554",
+    "War|c4ce537a-af85-31ec-909b-d64c97cf0fb1",
+    "Watchlist|b999025e-2949-37cb-92d4-6bb22423c94c",
+    "AI|b999025e-2949-37cb-92d4-6bb22423c94c",
+    "Crypto|1e89a044-59ca-38f4-addd-ede09591b72d",
+    "Watchlist|a820aaec-a3f3-3a93-87d6-866885e8ad21",
+    "AI|7fd2045f-6fd4-32fa-ac41-22f1d446fe54",
+    "Watchlist|7fd2045f-6fd4-32fa-ac41-22f1d446fe54",
+    "AI|f272a20d-0091-352c-9635-ddf68c19463e"
   ],
   "topic_error": "",
   "last_digest": "2026-10-12",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791836965.470876
+  "last_check": 1791837888.2135718
 }
