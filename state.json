@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/ul-solutions-ceo-scanlon-sells-876k-of-company-stock-93CH-4941910",
-    "Watchlist|dafc3ed7-fcf8-3a71-aa92-57c656471bee",
-    "AI|b8ede827-dece-3fb6-bdf4-dbf2f1663896",
-    "AI|https://www.investing.com/news/insider-trading-news/optimum-communications-director-neil-subin-acquires-245m-in-stock-93CH-4941916",
-    "AI|https://www.investing.com/news/insider-trading-news/eric-l-oliver-cross-timbers-director-buys-87575-in-units-93CH-4941917",
-    "Cybersecurity|67ee2a01-6889-3e28-9aaa-4c14113a0d63",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/optimum-communications-director-neil-subin-acquires-245m-in-stock-93CH-4941916",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/eric-l-oliver-cross-timbers-director-buys-87575-in-units-93CH-4941917",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/optimum-communications-director-neil-subin-acquires-245m-in-stock-93CH-4941916",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/eric-l-oliver-cross-timbers-director-buys-87575-in-units-93CH-4941917",
     "Watchlist|b8ede827-dece-3fb6-bdf4-dbf2f1663896",
     "Watchlist|https://www.investing.com/news/insider-trading-news/optimum-communications-director-neil-subin-acquires-245m-in-stock-93CH-4941916",
     "Watchlist|https://www.investing.com/news/insider-trading-news/eric-l-oliver-cross-timbers-director-buys-87575-in-units-93CH-4941917",
@@ -5000,7 +4990,17 @@
     "AI|https://www.investing.com/news/stock-market-news/blackrock-turns-bullish-on-shortterm-bonds-closes-us-stock-overweight-4945249",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/blackrock-turns-bullish-on-shortterm-bonds-closes-us-stock-overweight-4945249",
     "SG Banks|https://www.investing.com/news/stock-market-news/blackrock-turns-bullish-on-shortterm-bonds-closes-us-stock-overweight-4945249",
-    "Watchlist|https://www.investing.com/news/stock-market-news/blackrock-turns-bullish-on-shortterm-bonds-closes-us-stock-overweight-4945249"
+    "Watchlist|https://www.investing.com/news/stock-market-news/blackrock-turns-bullish-on-shortterm-bonds-closes-us-stock-overweight-4945249",
+    "War|2e9dcbd2-2a47-3f32-9390-ce7428175518",
+    "AI|09a1b128-fc86-3ee5-97b8-deefdef064ef",
+    "AI|a8a8223f-1902-39b3-91c6-e60b757f2759",
+    "Watchlist|a8a8223f-1902-39b3-91c6-e60b757f2759",
+    "Watchlist|09a1b128-fc86-3ee5-97b8-deefdef064ef",
+    "War|WP-MKTW-0005283567",
+    "AI|WP-MKTW-0005283567",
+    "Cybersecurity|WP-MKTW-0005283567",
+    "Cybersecurity|dafe2fa7-5cab-30a4-96d5-cf797442c4fa",
+    "Watchlist|dafe2fa7-5cab-30a4-96d5-cf797442c4fa"
   ],
   "topic_error": "",
   "last_digest": "2026-10-12",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791843380.5905268
+  "last_check": 1791844291.1355684
 }
