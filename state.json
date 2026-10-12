@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|ecb6183c-1220-3552-93b1-d543d65fdc17",
-    "AI|https://www.investing.com/news/stock-market-news/moderna-options-activity-surges-as-nasdaq100-inclusion-and-melanoma-data-drive-call-buying-93CH-4941547",
-    "AI|https://www.investing.com/news/stock-market-news/fcc-chief-defers-to-pentagon-on-airing-us-execution-on-tv-networks-4941549",
-    "Watchlist|ecb6183c-1220-3552-93b1-d543d65fdc17",
-    "War|cdf6b04c-1460-3d25-be4c-6d8f67729638",
-    "Watchlist|c3bc5b9c-c3b0-39ae-b12f-6bf352486f90",
-    "War|c3bc5b9c-c3b0-39ae-b12f-6bf352486f90",
-    "War|e226edd9-1f16-3982-a481-2c47b8a3f622",
-    "War|WP-MKTW-0005279841",
-    "AI|WP-MKTW-0005279841",
-    "Cybersecurity|WP-MKTW-0005279841",
-    "AI|62ca4159-fa6d-35a0-8914-e5f852ace150",
-    "Watchlist|62ca4159-fa6d-35a0-8914-e5f852ace150",
     "War|https://www.investing.com/news/commodities-news/us-corn-forecast-weighs-on-european-wheat-prices-93CH-4941559",
     "AI|https://www.investing.com/news/company-news/united-adds-tbs-to-starlink-flights-for-mlb-playoff-streaming-93CH-4941548",
     "AI|https://www.investing.com/news/economy-news/jet-fuel-prices-near-5-per-gallon-in-new-york-and-los-angeles-4941555",
@@ -5000,7 +4987,20 @@
     "AI|c4d84495-e948-3270-851d-e66a4a5644b8",
     "Watchlist|6a28bb9f-4d56-329f-a69e-03c8d2e7b07b",
     "Watchlist|c4d84495-e948-3270-851d-e66a4a5644b8",
-    "AI|f4cb377a-e0f8-3e3a-97ee-ae66f07b5885"
+    "AI|f4cb377a-e0f8-3e3a-97ee-ae66f07b5885",
+    "AI|8786f847-65ea-3d8a-a782-f4fe9c6055e5",
+    "Watchlist|ff0bc5e1-32a8-4a16-b81a-58ae23c5dd0e",
+    "Watchlist|f4cb377a-e0f8-3e3a-97ee-ae66f07b5885",
+    "Watchlist|8786f847-65ea-3d8a-a782-f4fe9c6055e5",
+    "AI|9887b6a2-ab8d-3eab-aac8-d88e459c7a92",
+    "Cybersecurity|fb47e61e-9a4f-359b-a836-49b23b90a443",
+    "Watchlist|37baa9d9-2b16-35ee-9f1d-c32bb2a4bcde",
+    "War|858ae53c-1ca1-3d2e-816f-089a3f2e84d4",
+    "Watchlist|cda6e290-5f24-3a0d-99ff-004f43462046",
+    "AI|7e912925-c3ae-3581-ab34-67685b13a792",
+    "Watchlist|7e912925-c3ae-3581-ab34-67685b13a792",
+    "SG Banks|/companies-markets/wasting-money-spending-tokens-companies-still-search-ai-use-cases-worthwhile-roi-says-broadcoms-hock",
+    "Watchlist|/companies-markets/wasting-money-spending-tokens-companies-still-search-ai-use-cases-worthwhile-roi-says-broadcoms-hock"
   ],
   "topic_error": "",
   "last_digest": "2026-10-12",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791818598.3875918
+  "last_check": 1791819535.5815787
 }
