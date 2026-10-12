@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/vault-ventures-signs-codesign-partnerships-for-quantum-platform-93CH-4940271",
-    "Cybersecurity|https://www.investing.com/news/company-news/hargreaves-services-wins-sizewell-c-water-treatment-contract-93CH-4940248",
-    "Cybersecurity|https://www.investing.com/news/company-news/georgina-energy-plans-seismic-survey-at-mt-winter-helium-project-93CH-4940250",
-    "SG Banks|https://www.investing.com/news/company-news/airtel-money-sets-ipo-price-at-196-listing-today-in-london-93CH-4940255",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/nutanix-ceo-rajiv-ramaswami-sells-2946m-in-stock-93CH-4940260",
-    "SG Banks|https://www.investing.com/news/company-news/partners-group-private-equity-reports-august-nav-decline-93CH-4940263",
-    "SG Banks|https://www.investing.com/news/forex-news/citi-sees-limited-upside-for-eurjpy-amid-intervention-expectations-93CH-4940266",
-    "SG Banks|https://www.investing.com/news/stock-market-news/apple-cuts-iphone18-pro-component-orders-amid-sluggish-demand-nikkei-4940267",
-    "SG Banks|https://www.investing.com/news/company-news/greenx-metals-schedules-agm-reports-performance-rights-lapse-93CH-4940268",
-    "SG Banks|https://www.investing.com/news/economy-news/nearly-30-years-afterimf-rescue-thailand-faces-new-economic-test-4940269",
     "SG Banks|https://www.investing.com/news/company-news/vault-ventures-signs-codesign-partnerships-for-quantum-platform-93CH-4940271",
     "Watchlist|https://www.investing.com/news/company-news/airtel-money-sets-ipo-price-at-196-listing-today-in-london-93CH-4940255",
     "Watchlist|https://www.investing.com/news/insider-trading-news/nutanix-ceo-rajiv-ramaswami-sells-2946m-in-stock-93CH-4940260",
@@ -5000,7 +4990,17 @@
     "Iran|https://www.iranintl.com/en/202610098376",
     "SG Banks|/companies-markets/citi-drops-target-price-laopu-gold-hk400-consumer-spending-faces-pressure",
     "Watchlist|/companies-markets/citi-drops-target-price-laopu-gold-hk400-consumer-spending-faces-pressure",
-    "Watchlist|c1ca8cbe-1c54-34f1-b3eb-c6a1c16dc466"
+    "Watchlist|c1ca8cbe-1c54-34f1-b3eb-c6a1c16dc466",
+    "AI|6bc9a2ab-17b1-35ba-99a0-fe731cb80843",
+    "Watchlist|6bc9a2ab-17b1-35ba-99a0-fe731cb80843",
+    "War|a9742eb2-e799-3a8d-87a9-2dde16fa8259",
+    "War|30b00628-7cf7-3a1e-b2ce-ad518819fece",
+    "War|bbf7a4f1-35b1-3938-a1ab-33cf2c7e4ff0",
+    "Crypto|36c70ee7-897b-37de-9d91-c25dad4154cb",
+    "Crypto|e76530dd-a9be-33f9-b436-11177f0e7a05",
+    "Crypto|66c80530-51f6-376f-b172-3a4f3e2769f3",
+    "Crypto|fc8c24b8-668a-3b15-b9a4-9877fef7f6a7",
+    "War|36c70ee7-897b-37de-9d91-c25dad4154cb"
   ],
   "topic_error": "",
   "last_digest": "2026-10-12",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791775534.426152
+  "last_check": 1791776454.7269578
 }
