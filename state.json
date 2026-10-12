@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/australias-maas-group-extends-slide-after-firmus-scraps-5-bln-ipo-4940228",
-    "Cybersecurity|https://www.investing.com/news/earnings/tryg-q3-pretax-profit-beats-forecasts-on-benign-claims-stronger-underwriting-4940229",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-anhui-jianghuai-automobile-stock-sliding-today-93CH-4940230",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/spacex-spectrum-deal-lifts-us-cell-tower-stocks-bull-and-bear-cases-outlined-93CH-4940234",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/sika-acquires-uk-landscaping-products-maker-azpects-group-93CH-4940236",
     "Cybersecurity|https://www.investing.com/news/company-news/oxford-metrics-acquires-move-ai-assets-for-525000-93CH-4940244",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-xiaomi-stock-surging-today-93CH-4940245",
@@ -5000,7 +4996,11 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/hang-seng-presses-cloud-resistance-at-24372-live-levels-93CH-4943001",
     "SG Banks|/companies-markets/energy-commodities/bio-lng-could-ensure-singapores-energy-resilience-amid-global-disruptions-tan-see-leng",
     "Watchlist|/companies-markets/banking-finance/us-10-year-treasury-yield-risks-hitting-6-first-time-2000-pimco",
-    "Watchlist|/companies-markets/energy-commodities/bio-lng-could-ensure-singapores-energy-resilience-amid-global-disruptions-tan-see-leng"
+    "Watchlist|/companies-markets/energy-commodities/bio-lng-could-ensure-singapores-energy-resilience-amid-global-disruptions-tan-see-leng",
+    "AI|945f8312-f8ec-3814-873f-308ca2b0f672",
+    "Watchlist|945f8312-f8ec-3814-873f-308ca2b0f672",
+    "AI|https://www.investing.com/news/stock-market-news/tsmc-expected-to-report-sixth-straight-quarter-of-record-profit-thanks-to-ai-boom-4943004",
+    "Watchlist|e05f0bf3-ebd3-33e1-8e3e-739c1d5076eb"
   ],
   "topic_error": "",
   "last_digest": "2026-10-12",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791770960.861013
+  "last_check": 1791771899.6323726
 }
