@@ -1,17 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/indonesias-danantara-says-it-could-step-in-during-market-selloffs-if-valuations-attractive-4940311",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-skandinaviska-enskilda-banken-stock-gaining-today-93CH-4940312",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-swedbank-stock-gaining-today-93CH-4940313",
-    "Watchlist|https://www.investing.com/news/commodities-news/london-gas-oil-tests-1356-support-on-5h-chart-live-levels-93CH-4931131",
-    "Watchlist|https://www.investing.com/news/stock-market-news/european-stocks-attempt-bounce-but-heads-for-weekly-loss-as-french-debt-weighs-4940310",
-    "Watchlist|https://www.investing.com/news/commodities-news/crude-oil-wti-tests-200-sma-after-hs-breakdown-live-levels-93CH-4931134",
-    "Watchlist|https://www.investing.com/news/stock-market-news/indonesias-danantara-says-it-could-step-in-during-market-selloffs-if-valuations-attractive-4940311",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-skandinaviska-enskilda-banken-stock-gaining-today-93CH-4940312",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-swedbank-stock-gaining-today-93CH-4940313",
-    "SG Banks|/companies-markets/transport-logistics/record-chinese-turnout-puts-european-carmakers-under-pressure-paris-show",
-    "Watchlist|/companies-markets/transport-logistics/record-chinese-turnout-puts-european-carmakers-under-pressure-paris-show",
     "AI|dcbcce1c-6c32-3665-a45c-355be4390cb6",
     "Crypto|0fc9a215-a002-3419-a7d4-6f9ada73171a",
     "Iran|https://www.iranintl.com/en/202610098124",
@@ -5000,7 +4989,18 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-foxconn-industrial-internet-stock-sliding-today-93CH-4943071",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-apple-supplier-luxshare-precision-industry-stock-sliding-today-93CH-4943072",
     "Watchlist|https://www.investing.com/news/economy-news/morning-bid-it-takes-two-to-make-a-ceasefire-4943075",
-    "Watchlist|https://www.investing.com/news/forex-news/indian-rupee-surges-after-rbi-unveils-measures-to-support-currency-4943076"
+    "Watchlist|https://www.investing.com/news/forex-news/indian-rupee-surges-after-rbi-unveils-measures-to-support-currency-4943076",
+    "AI|https://www.investing.com/news/insider-trading-news/royalty-pharma-evp-marshall-urist-sells-235594-in-shares-93CH-4943082",
+    "AI|https://www.investing.com/news/stock-market-news/samsung-sk-hynix-shares-drop-as-chinas-cxmt-flags-progress-in-memory-development-4943096",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/royalty-pharma-evp-marshall-urist-sells-235594-in-shares-93CH-4943082",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/samsung-sk-hynix-shares-drop-as-chinas-cxmt-flags-progress-in-memory-development-4943096",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/royalty-pharma-evp-marshall-urist-sells-235594-in-shares-93CH-4943082",
+    "SG Banks|https://www.investing.com/news/stock-market-news/samsung-sk-hynix-shares-drop-as-chinas-cxmt-flags-progress-in-memory-development-4943096",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/royalty-pharma-evp-marshall-urist-sells-235594-in-shares-93CH-4943082",
+    "Watchlist|https://www.investing.com/news/stock-market-news/samsung-sk-hynix-shares-drop-as-chinas-cxmt-flags-progress-in-memory-development-4943096",
+    "AI|3a29f559-2d20-31b4-8434-def3a1e4a3d7",
+    "Watchlist|3a29f559-2d20-31b4-8434-def3a1e4a3d7",
+    "SG Banks|/companies-markets/transport-logistics/record-chinese-turnout-puts-european-carmakers-under-pressure-paris-show"
   ],
   "topic_error": "",
   "last_digest": "2026-10-12",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791781037.5469089
+  "last_check": 1791781957.821526
 }
