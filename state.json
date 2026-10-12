@@ -1,23 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/farm-equipment-stocks-fall-on-regulatory-probe-and-falling-crop-prices-4941615",
-    "SG Banks|https://www.investing.com/news/stock-market-news/moodys-revises-crescent-energy-outlook-to-positive-following-eagle-ford-deal-4941623",
-    "SG Banks|https://www.investing.com/news/economy-news/feds-musalem-says-more-rate-hikes-needed-to-reach-2-target-93CH-4941624",
-    "SG Banks|https://www.investing.com/news/company-news/visa-stock-reaches-alltime-high-at-38557-usd-93CH-4941625",
-    "Watchlist|https://www.investing.com/news/commodities-news/us-plans-alaska-offshore-oil-lease-sale-for-march-2027-93CH-4941611",
-    "Watchlist|https://www.investing.com/news/stock-market-news/repole-buys-14-churchill-downs-stake-driving-stock-up-6-in-friday-trade-4941612",
-    "Watchlist|https://www.investing.com/news/commodities-news/saudi-aramco-reportedly-restores-full-crude-oil-supply-to-europe-for-november-4941614",
-    "Watchlist|https://www.investing.com/news/company-news/nutanix-stock-hits-52week-high-at-7443-usd-93CH-4941617",
-    "Watchlist|https://www.investing.com/news/stock-market-news/sp-global-upgrades-united-rentals-to-investment-grade-on-leverage-cushion-4941616",
-    "Watchlist|https://www.investing.com/news/stock-market-news/farm-equipment-stocks-fall-on-regulatory-probe-and-falling-crop-prices-4941615",
-    "Watchlist|https://www.investing.com/news/stock-market-news/moodys-revises-crescent-energy-outlook-to-positive-following-eagle-ford-deal-4941623",
-    "Watchlist|https://www.investing.com/news/economy-news/feds-musalem-says-more-rate-hikes-needed-to-reach-2-target-93CH-4941624",
-    "Watchlist|https://www.investing.com/news/company-news/visa-stock-reaches-alltime-high-at-38557-usd-93CH-4941625",
-    "Crypto|3fca5287-d3f6-4dec-8ae1-a4eb8cb7f9fb",
-    "AI|78ac6770-f9a8-3878-ba03-d177882b6784",
-    "Watchlist|78ac6770-f9a8-3878-ba03-d177882b6784",
-    "War|4031f3c0-24fa-384e-ae4f-3be6d716231d",
     "AI|4031f3c0-24fa-384e-ae4f-3be6d716231d",
     "Cybersecurity|4031f3c0-24fa-384e-ae4f-3be6d716231d",
     "Watchlist|4031f3c0-24fa-384e-ae4f-3be6d716231d",
@@ -5000,7 +4983,24 @@
     "AI|8db00d15-68ba-3856-9569-a3cc81ff02ef",
     "Watchlist|2cfd9520-afd2-3b8a-9255-ed1ece7b734f",
     "Watchlist|af2546e0-17b8-3534-93e7-6130eaff49ec",
-    "Watchlist|8db00d15-68ba-3856-9569-a3cc81ff02ef"
+    "Watchlist|8db00d15-68ba-3856-9569-a3cc81ff02ef",
+    "AI|94c3a85e-9135-3a30-ba1c-70b452934917",
+    "AI|3cdf58d2-3b7c-3d26-b190-b6a0d6fb7db0",
+    "AI|b13be0b5-1959-39f8-95df-2a6b7d224563",
+    "AI|1d4e43ba-903f-382e-a2fa-cf1eec1d4c75",
+    "Crypto|68163782-e14c-3c38-972a-d62fcb1969b8",
+    "Watchlist|94c3a85e-9135-3a30-ba1c-70b452934917",
+    "Watchlist|3cdf58d2-3b7c-3d26-b190-b6a0d6fb7db0",
+    "Watchlist|b13be0b5-1959-39f8-95df-2a6b7d224563",
+    "Watchlist|48ebefd7-b5b2-3134-ab8f-c7cc27cdf364",
+    "AI|448abda7-8846-3251-af31-a087c1418d9c",
+    "Watchlist|448abda7-8846-3251-af31-a087c1418d9c",
+    "AI|a2cb4f9b-7ca4-3820-85cb-9c339ced8edd",
+    "Watchlist|a2cb4f9b-7ca4-3820-85cb-9c339ced8edd",
+    "AI|75edfda6-e7aa-3648-bb1a-b24be9a5c218",
+    "Crypto|f2820bce-1f53-3e40-97e1-d33afd41c03b",
+    "Crypto|46380fbe-d9cf-37cc-a521-ed88ae42e01f",
+    "Watchlist|75edfda6-e7aa-3648-bb1a-b24be9a5c218"
   ],
   "topic_error": "",
   "last_digest": "2026-10-12",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791824104.873038
+  "last_check": 1791825036.7544878
 }
