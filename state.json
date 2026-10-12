@@ -1,21 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/economy-news/china-adds-1052-million-urban-jobs-in-jansept-to-roll-out-services-jobs-policy-4941946",
-    "Cybersecurity|https://www.investing.com/news/economy-news/us-ukraine-and-eu-officials-hold-miami-peace-talks-amid-russia-diesel-deal-4941945",
-    "Cybersecurity|https://www.investing.com/news/economy-news/china-adds-1052-million-urban-jobs-in-jansept-to-roll-out-services-jobs-policy-4941946",
-    "SG Banks|https://www.investing.com/news/economy-news/us-ukraine-and-eu-officials-hold-miami-peace-talks-amid-russia-diesel-deal-4941945",
-    "SG Banks|https://www.investing.com/news/economy-news/china-adds-1052-million-urban-jobs-in-jansept-to-roll-out-services-jobs-policy-4941946",
-    "Watchlist|https://www.investing.com/news/economy-news/us-ukraine-and-eu-officials-hold-miami-peace-talks-amid-russia-diesel-deal-4941945",
-    "Watchlist|https://www.investing.com/news/economy-news/china-adds-1052-million-urban-jobs-in-jansept-to-roll-out-services-jobs-policy-4941946",
-    "Cybersecurity|WP-MKTW-0005271357",
-    "AI|d9fbe58c-a83f-346f-bb77-6fd743564af5",
-    "Watchlist|d9fbe58c-a83f-346f-bb77-6fd743564af5",
-    "AI|https://www.investing.com/news/company-news/anthropic-ai-submits-false-murder-tip-to-philadelphia-police-4941947",
-    "Cybersecurity|https://www.investing.com/news/company-news/anthropic-ai-submits-false-murder-tip-to-philadelphia-police-4941947",
-    "SG Banks|https://www.investing.com/news/company-news/anthropic-ai-submits-false-murder-tip-to-philadelphia-police-4941947",
-    "Watchlist|https://www.investing.com/news/company-news/anthropic-ai-submits-false-murder-tip-to-philadelphia-police-4941947",
-    "AI|7f791c6b-b525-36db-af37-59f4a5aa9dc8",
     "Watchlist|7f791c6b-b525-36db-af37-59f4a5aa9dc8",
     "AI|cd844af6-c36c-35eb-bf2a-2eff03c8d75b",
     "Watchlist|cd844af6-c36c-35eb-bf2a-2eff03c8d75b",
@@ -5000,7 +4985,22 @@
     "Watchlist|03f6bd5d-36c1-360d-87fc-0ba1ddd317dc",
     "Watchlist|/companies-markets/energy-commodities/oil-prices-settle-higher-more-production-shut-ahead-hurricane",
     "Iran|https://www.iranintl.com/en/202610106673",
-    "SG Banks|/international/trump-says-putin-supply-us-diesel-ahead-november-midterms"
+    "SG Banks|/international/trump-says-putin-supply-us-diesel-ahead-november-midterms",
+    "Watchlist|/international/trump-says-putin-supply-us-diesel-ahead-november-midterms",
+    "War|48c26780-7609-3ee4-94be-11120077d0c9",
+    "Watchlist|0d5bad3c-6389-3017-b246-c026f7459cf0",
+    "AI|9049fc8a-4907-3e38-a542-9c34de3265b4",
+    "AI|d70d8c11-7636-39ea-bbad-5943751fb5ca",
+    "Watchlist|9049fc8a-4907-3e38-a542-9c34de3265b4",
+    "AI|8525c48b-ba72-3e87-a45b-a62b0d312b84",
+    "SG Banks|/companies-markets/applied-materials-will-double-sales-not-headcount-thanks-ai",
+    "Watchlist|/companies-markets/applied-materials-will-double-sales-not-headcount-thanks-ai",
+    "AI|https://www.investing.com/news/company-news/cme-corn-futures-hit-record-daily-volume-on-october-9-93CH-4945253",
+    "Cybersecurity|https://www.investing.com/news/company-news/cme-corn-futures-hit-record-daily-volume-on-october-9-93CH-4945253",
+    "SG Banks|https://www.investing.com/news/company-news/cme-corn-futures-hit-record-daily-volume-on-october-9-93CH-4945253",
+    "Watchlist|8525c48b-ba72-3e87-a45b-a62b0d312b84",
+    "Watchlist|https://www.investing.com/news/company-news/cme-corn-futures-hit-record-daily-volume-on-october-9-93CH-4945253",
+    "Iran|https://www.iranintl.com/en/202610126090"
   ],
   "topic_error": "",
   "last_digest": "2026-10-12",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791845208.7042816
+  "last_check": 1791846112.33077
 }
