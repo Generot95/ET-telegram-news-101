@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/record-chinese-turnout-puts-european-carmakers-under-pressure-at-paris-show-4940184",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/glencore-sees-electrification-trend-driving-strong-uptake-for-australia-listing-4940185",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/chinas-tax-crackdown-piles-pressure-on-luxury-brands-asus-spending-falters-4940186",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-tata-consultancy-services-stock-surging-today-93CH-4940187",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/softbank-seeks-up-to-100-bln-from-gulf-investors-for-ai-expansion-ft-reports-4940188",
     "Cybersecurity|https://www.investing.com/news/economy-news/wealthy-french-quit-failing-state-schools-squeezed-by-pensions-and-austerity-4940189",
@@ -5000,7 +4997,10 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/nikkei-225-coiled-in-ichimoku-cloud-live-levels-93CH-4942960",
     "Watchlist|https://www.investing.com/news/stock-market-news/sk-hynix-oversold-near-support-after-15-slide-live-levels-93CH-4942961",
     "SG Banks|/companies-markets/capital-markets-currencies/china-emerges-source-cheap-global-funding-beijing-lets-more-yuan-flow-offshore",
-    "Watchlist|/companies-markets/capital-markets-currencies/china-emerges-source-cheap-global-funding-beijing-lets-more-yuan-flow-offshore"
+    "Watchlist|/companies-markets/capital-markets-currencies/china-emerges-source-cheap-global-funding-beijing-lets-more-yuan-flow-offshore",
+    "SG Banks|/companies-markets/energy-commodities/oil-falls-trump-claims-russia-ukraine-agree-energy-ceasefire",
+    "Watchlist|/companies-markets/energy-commodities/oil-falls-trump-claims-russia-ukraine-agree-energy-ceasefire",
+    "AI|ffd049f7-fdd8-323c-ae83-2f3c1adc4e5e"
   ],
   "topic_error": "",
   "last_digest": "2026-10-12",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791767301.5122392
+  "last_check": 1791768251.2349114
 }
