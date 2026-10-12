@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/sailpoint-cfo-brian-carolan-sells-162-million-in-common-stock-93CH-4940158",
-    "Watchlist|https://www.investing.com/news/stock-market-news/us-cell-tower-stocks-rise-on-spacex-spectrum-buy-4940162",
-    "Watchlist|https://www.investing.com/news/economy-news/morning-bid-feeding-the-ai-beast-4940163",
-    "Watchlist|https://www.investing.com/news/economy-news/singapore-poised-to-tighten-monetary-policy-amid-strong-growth-and-rising-inflation-risks-4940164",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/fuelcell-energy-evp-sells-46250-in-common-stock-93CH-4940168",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/sailpoint-ceo-mark-mcclain-sells-439m-in-company-stock-93CH-4940169",
-    "SG Banks|https://www.channelnewsasia.com/business/softbank-seeks-100-billion-gulf-investors-ft-reports-6445186",
-    "War|5ded7f3f-5acc-35d2-b65e-f4116b0d72c8",
     "SG Banks|https://www.straitstimes.com/business/openais-singapore-based-apac-policy-head-leaving-job-after-6-months-source-says",
     "AI|ec645041-cb40-343b-bf84-c96b6a82203d",
     "AI|https://www.investing.com/news/stock-market-news/tcs-shares-rise-as-ai-revenue-offsets-sluggish-growth-lifts-indian-it-stocks-4940173",
@@ -5000,7 +4992,15 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/pubmatic-chairman-amar-goel-sells-138545-in-shares-93CH-4942909",
     "SG Banks|https://www.investing.com/news/insider-trading-news/monopar-therapeutics-director-christopher-starr-sells-shares-worth-659k-93CH-4942925",
     "Watchlist|https://www.investing.com/news/insider-trading-news/pubmatic-chairman-amar-goel-sells-138545-in-shares-93CH-4942909",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/monopar-therapeutics-director-christopher-starr-sells-shares-worth-659k-93CH-4942925"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/monopar-therapeutics-director-christopher-starr-sells-shares-worth-659k-93CH-4942925",
+    "War|https://www.investing.com/news/commodities-news/oil-prices-dip-after-trump-announces-russiaukraine-energy-ceasefire-4942934",
+    "AI|https://www.investing.com/news/commodities-news/oil-prices-dip-after-trump-announces-russiaukraine-energy-ceasefire-4942934",
+    "Cybersecurity|https://www.investing.com/news/commodities-news/oil-prices-dip-after-trump-announces-russiaukraine-energy-ceasefire-4942934",
+    "SG Banks|https://www.investing.com/news/commodities-news/oil-prices-dip-after-trump-announces-russiaukraine-energy-ceasefire-4942934",
+    "Watchlist|https://www.investing.com/news/commodities-news/oil-prices-dip-after-trump-announces-russiaukraine-energy-ceasefire-4942934",
+    "AI|ade7aacf-7abf-3002-8a93-7e8fe63232cf",
+    "Watchlist|ade7aacf-7abf-3002-8a93-7e8fe63232cf",
+    "War|f49cee53-aa2c-35b2-a710-67557f1de4d8"
   ],
   "topic_error": "",
   "last_digest": "2026-10-12",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791764579.1466205
+  "last_check": 1791765471.4449139
 }
