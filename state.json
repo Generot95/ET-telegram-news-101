@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/premarket-movers-humana-rallies-spacex-deal-sends-telco-stocks-down-4940929",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/citizens-raises-zscaler-stock-price-target-on-sales-leadership-growth-outlook-93CH-4940930",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-titan-mining-stock-rating-on-army-deal-93CH-4940931",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-cocrystal-pharma-stock-rating-at-buy-93CH-4940933",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/citizens-reiterates-alphabet-stock-rating-on-flexible-ai-model-strategy-93CH-4940932",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-quantumsi-stock-rating-on-amino-acid-detection-progress-93CH-4940934",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-buy-on-crispr-stock-80-target-93CH-4940936",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/gevo-stock-price-target-maintained-at-14-by-hc-wainwright-93CH-4940935",
-    "War|cd01e270-afb3-369d-bb60-b8b4cf663878",
-    "AI|555d2cba-c15d-3f7b-bf46-e6d2ddb8ceb4",
-    "Watchlist|555d2cba-c15d-3f7b-bf46-e6d2ddb8ceb4",
-    "Watchlist|39d537a1-a244-33f6-911a-3ce45bdeaf54",
-    "AI|39d537a1-a244-33f6-911a-3ce45bdeaf54",
     "War|8419d811-aa11-3c1c-bddc-eac95cfdd030",
     "AI|db0a65da-41b6-3862-8504-0856c1493ca9",
     "Watchlist|db0a65da-41b6-3862-8504-0856c1493ca9",
@@ -5000,7 +4987,20 @@
     "AI|WP-MKTW-0005281433",
     "Crypto|36154abb-2492-3011-bb9f-c5944cf92b47",
     "Cybersecurity|WP-MKTW-0005281433",
-    "Watchlist|f45f0396-ee1a-3c83-be2f-a8314682bcb1"
+    "Watchlist|f45f0396-ee1a-3c83-be2f-a8314682bcb1",
+    "AI|38eb2515-b6f2-39c2-a583-fd513bde17e9",
+    "Watchlist|38eb2515-b6f2-39c2-a583-fd513bde17e9",
+    "SG Banks|/companies-markets/sheng-siong-shares-fall-2-1-after-maybank-downgrade-target-price-cut",
+    "Watchlist|/companies-markets/sheng-siong-shares-fall-2-1-after-maybank-downgrade-target-price-cut",
+    "War|8a6fce86-34ee-32d9-ba06-f2b47a3084d6",
+    "Crypto|73c0d63b-8898-3802-ba49-4d2dabc162ef",
+    "AI|48227d04-15f3-3e8f-80fd-e862baaf1ad7",
+    "AI|c18ed28e-b022-38e3-be74-210c1516a638",
+    "AI|3ba73d73-4444-3d7c-bdae-77a89a646a90",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/sheng-siong-ocbc-sgx-face-analysts-downgrades",
+    "Watchlist|48227d04-15f3-3e8f-80fd-e862baaf1ad7",
+    "Watchlist|3ba73d73-4444-3d7c-bdae-77a89a646a90",
+    "Crypto|ed3971da-3c02-3e42-93d4-6bb35dbceb4a"
   ],
   "topic_error": "",
   "last_digest": "2026-10-12",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791800275.8414996
+  "last_check": 1791801176.4009867
 }
