@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/eco-buildings-new-ai-production-line-on-schedule-and-budget-93CH-4940272",
-    "Cybersecurity|https://www.investing.com/news/company-news/airbus-september-deliveries-fall-1-year-over-year-93CH-4940273",
     "Cybersecurity|https://www.investing.com/news/company-news/theracryf-appoints-strand-hanson-as-nominated-adviser-93CH-4940275",
     "SG Banks|https://www.investing.com/news/stock-market-news/dcc-energy-to-sell-nexora-unit-for-725-mln-4940277",
     "SG Banks|https://www.investing.com/news/economy-news/openai-says-it-has-fired-three-researchers-for-violating-sensitive-information-policy-4940278",
@@ -5000,7 +4998,9 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/lucid-group-director-ori-winitzer-sells-4120-in-stock-93CH-4943049",
     "Watchlist|https://www.investing.com/news/stock-market-news/gift-nifty-50-stalls-below-22693-resistance-live-levels-93CH-4943050",
     "Watchlist|https://www.investing.com/news/forex-news/asia-fx-steady-as-dollar-holds-near-18mth-high-rupee-jumps-on-rbi-measures-4943051",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-82k-heads-for-weekly-losses-amid-yield-pressure-4940276"
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-82k-heads-for-weekly-losses-amid-yield-pressure-4940276",
+    "War|b474ec0b-63c1-382d-98a0-cd4c091b2253",
+    "SG Banks|https://www.straitstimes.com/business/nutryfarm-shareholders-seek-ceos-removal-as-company-pivots-from-durians-to-data-centres"
   ],
   "topic_error": "",
   "last_digest": "2026-10-12",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791778289.4790215
+  "last_check": 1791779214.066089
 }
