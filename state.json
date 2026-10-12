@@ -1,17 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/economy-news/french-fiscal-risks-raise-chance-of-ecb-pause-after-december-4941964",
-    "Cybersecurity|https://www.investing.com/news/economy-news/french-fiscal-risks-raise-chance-of-ecb-pause-after-december-4941964",
-    "SG Banks|https://www.investing.com/news/economy-news/french-fiscal-risks-raise-chance-of-ecb-pause-after-december-4941964",
-    "Watchlist|https://www.investing.com/news/economy-news/french-fiscal-risks-raise-chance-of-ecb-pause-after-december-4941964",
-    "AI|0a56ecf2-7f2c-385b-bed3-7a57c93ab0ec",
-    "Crypto|0a56ecf2-7f2c-385b-bed3-7a57c93ab0ec",
-    "Watchlist|0a56ecf2-7f2c-385b-bed3-7a57c93ab0ec",
-    "AI|https://www.investing.com/news/economy-news/trump-vows-quick-end-to-iran-war-as-fighting-in-yemen-intensifies-4941977",
-    "Cybersecurity|https://www.investing.com/news/economy-news/trump-vows-quick-end-to-iran-war-as-fighting-in-yemen-intensifies-4941977",
-    "SG Banks|https://www.investing.com/news/economy-news/trump-vows-quick-end-to-iran-war-as-fighting-in-yemen-intensifies-4941977",
-    "Watchlist|https://www.investing.com/news/economy-news/trump-vows-quick-end-to-iran-war-as-fighting-in-yemen-intensifies-4941977",
     "AI|9442a231-d51e-3eec-851f-b063d1ea1e71",
     "Watchlist|9442a231-d51e-3eec-851f-b063d1ea1e71",
     "SG Banks|/companies-markets/transport-logistics/airlines-are-upgrading-wi-fi-not-all-are-using-elon-musks-starlink",
@@ -5000,7 +4989,18 @@
     "War|9057e212-ecee-3cde-9c5d-2bad01a61ecd",
     "Watchlist|18d9386d-cc5e-3c16-9137-aebdd5f9434e",
     "War|e5c24532-fa9c-3610-96c1-270e1e12a97e",
-    "Crypto|7d2eec34-4a92-3b6d-ae04-e879721b0b78"
+    "Crypto|7d2eec34-4a92-3b6d-ae04-e879721b0b78",
+    "War|68638dca-fe13-46e2-93e8-b43dd32ae43a",
+    "AI|https://www.investing.com/news/economic-indicators/uk-shoppers-stay-cautious-as-fuel-costs-bite-surveys-show-4945255",
+    "Cybersecurity|https://www.investing.com/news/economic-indicators/uk-shoppers-stay-cautious-as-fuel-costs-bite-surveys-show-4945255",
+    "SG Banks|https://www.investing.com/news/economic-indicators/uk-shoppers-stay-cautious-as-fuel-costs-bite-surveys-show-4945255",
+    "Watchlist|https://www.investing.com/news/economic-indicators/uk-shoppers-stay-cautious-as-fuel-costs-bite-surveys-show-4945255",
+    "AI|93346eac-19c1-3101-9a40-eb3576782e9b",
+    "AI|82d66e62-8f1a-32c9-a4a7-d7f93bc4ccb8",
+    "Watchlist|82d66e62-8f1a-32c9-a4a7-d7f93bc4ccb8",
+    "AI|2eedc891-200e-3f2a-94e7-ea75d25a998b",
+    "AI|22a87fc6-5607-3351-b923-1f39e69200de",
+    "Watchlist|22a87fc6-5607-3351-b923-1f39e69200de"
   ],
   "topic_error": "",
   "last_digest": "2026-10-12",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791847954.6874917
+  "last_check": 1791848872.560672
 }
