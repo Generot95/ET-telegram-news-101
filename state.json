@@ -1,23 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/shell-acquires-30-stake-in-equinors-bay-du-nord-project-93CH-4941065",
-    "SG Banks|https://www.investing.com/news/company-news/arrive-ai-partners-with-modovolo-for-drone-delivery-system-93CH-4941066",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/compass-point-raises-coinbase-stock-price-target-on-margin-outlook-93CH-4941067",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/avepoint-chief-legal-officer-brian-brown-sells-437744-in-stock-93CH-4941050",
-    "Watchlist|https://www.investing.com/news/commodities-news/germany-to-release-15-million-barrels-from-oil-reserves-93CH-4941051",
-    "Watchlist|https://www.investing.com/news/stock-market-news/eu-antitrust-regulators-to-decide-on-unicredits-commerzbank-deal-by-november-16-4941062",
-    "Watchlist|https://www.investing.com/news/stock-market-news/qualcomm-and-arm-set-for-jury-verdict-in-contract-breach-feud-4941018",
-    "Watchlist|https://www.investing.com/news/stock-market-news/spacex-stock-outlook-is-a-longrange-path-to-900-realistic-93CH-4941063",
-    "Watchlist|https://www.investing.com/news/stock-market-news/shell-acquires-30-stake-in-equinors-bay-du-nord-project-93CH-4941065",
-    "Watchlist|https://www.investing.com/news/company-news/arrive-ai-partners-with-modovolo-for-drone-delivery-system-93CH-4941066",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/compass-point-raises-coinbase-stock-price-target-on-margin-outlook-93CH-4941067",
-    "Crypto|e9119c42-7469-3413-b90b-a8849e5065d3",
-    "AI|234eb166-4a6e-3b9d-bc60-d791c8ba4ff9",
-    "Crypto|28cc6e84-55ef-3400-a6d0-5194e315d2cb",
-    "Watchlist|234eb166-4a6e-3b9d-bc60-d791c8ba4ff9",
-    "War|28cc6e84-55ef-3400-a6d0-5194e315d2cb",
-    "War|bea7396d-626c-3a7b-815d-8e9b578edd40",
     "AI|50da3f8c-a76a-31e9-b393-fd203eb3b37a",
     "AI|2b6094a0-8aec-3dda-ad53-8e49494a4289",
     "AI|https://www.investing.com/news/stock-market-news/cboe-rallies-after-morgan-stanley-double-upgrade-points-to-durable-options-growth-4941070",
@@ -5000,7 +4983,24 @@
     "AI|e731c12a-451f-316c-910a-20d327722a7f",
     "Watchlist|e731c12a-451f-316c-910a-20d327722a7f",
     "War|3705b1ba-98d4-3370-85e5-34134cb2b44a",
-    "SG Banks|https://www.channelnewsasia.com/business/norway-fines-microsofts-xandr-96-million-over-grindr-data-sharing-6452806"
+    "SG Banks|https://www.channelnewsasia.com/business/norway-fines-microsofts-xandr-96-million-over-grindr-data-sharing-6452806",
+    "AI|04909646-4423-38d2-9664-2bafc9964c31",
+    "AI|b03a5271-de26-3a87-8380-2c44d2e0798f",
+    "Watchlist|04909646-4423-38d2-9664-2bafc9964c31",
+    "Watchlist|b03a5271-de26-3a87-8380-2c44d2e0798f",
+    "Watchlist|12f8710e-df9f-3dce-8619-3b47418c1533",
+    "AI|4e224e1e-c322-3bb2-a803-abd81690bdb8",
+    "Crypto|e869d444-52e6-3872-8bed-05659e937cbc",
+    "AI|9488dfa6-cad7-35d0-b3d5-da326c0405da",
+    "AI|a8fa45e8-ff1e-37de-bbbb-ef4ec395b545",
+    "War|3d46cfed-b265-339b-b87d-c96909886a98",
+    "SG Banks|https://www.channelnewsasia.com/business/indias-hcltech-signs-pact-anthropic-set-up-business-unit-6452836",
+    "Watchlist|e51e116e-d9bb-3ee9-a004-7545b923df61",
+    "AI|ef30d2e4-b56a-387c-a7d0-f4436523bb8c",
+    "AI|e51e116e-d9bb-3ee9-a004-7545b923df61",
+    "AI|cf1a313e-a0bf-3232-b1a1-6d51c4e5b70c",
+    "Crypto|57cd7840-18db-341f-b739-1af3b9357eb3",
+    "Watchlist|cf1a313e-a0bf-3232-b1a1-6d51c4e5b70c"
   ],
   "topic_error": "",
   "last_digest": "2026-10-12",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791803041.0850418
+  "last_check": 1791803940.354892
 }
