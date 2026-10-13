@@ -1,20 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|c2cdc074-b5d1-3c43-a3e8-2751275e2e6d",
-    "Watchlist|c2cdc074-b5d1-3c43-a3e8-2751275e2e6d",
-    "AI|https://www.investing.com/news/insider-trading-news/bastion-trading-skyai-10-owner-buys-78262-in-stock-93CH-4942642",
-    "AI|https://www.investing.com/news/stock-market-news/why-net-stocks-are-down-sharply-this-year-despite-nasdaqs-gains-4942643",
-    "AI|https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-015-4942645",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/bastion-trading-skyai-10-owner-buys-78262-in-stock-93CH-4942642",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-net-stocks-are-down-sharply-this-year-despite-nasdaqs-gains-4942643",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-015-4942645",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/bastion-trading-skyai-10-owner-buys-78262-in-stock-93CH-4942642",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-net-stocks-are-down-sharply-this-year-despite-nasdaqs-gains-4942643",
-    "SG Banks|https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-015-4942645",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/bastion-trading-skyai-10-owner-buys-78262-in-stock-93CH-4942642",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-net-stocks-are-down-sharply-this-year-despite-nasdaqs-gains-4942643",
-    "Watchlist|https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-015-4942645",
     "War|0e284e54-dc9a-46d3-a385-f557790516e4",
     "Crypto|f24dc51b-d379-3d7b-8fce-e85ad7dee89d",
     "AI|8ba7512d-6b92-3ec2-885c-21ec6b8c6e4f",
@@ -5000,7 +4986,21 @@
     "AI|b44f47ab-0d80-3b86-aad0-fd3821b25298",
     "Watchlist|1efda6a3-a40c-3a57-b695-978a5e5492be",
     "Watchlist|b44f47ab-0d80-3b86-aad0-fd3821b25298",
-    "Watchlist|feda75ca-e431-3f30-975f-4b78137a4158"
+    "Watchlist|feda75ca-e431-3f30-975f-4b78137a4158",
+    "War|7b69e05f-931e-3fc7-909a-1601d676bc25",
+    "AI|1ad7360b-a9f0-3300-a17b-092e5a5eb094",
+    "SG Banks|https://www.straitstimes.com/business/beauty-world-plaza-up-for-collective-sale-once-more-for-165m",
+    "Watchlist|1ad7360b-a9f0-3300-a17b-092e5a5eb094",
+    "AI|https://www.investing.com/news/stock-market-news/jefferies-previews-uk-south-africa-miners-third-quarter-results-93CH-4946035",
+    "AI|https://www.investing.com/news/stock-market-news/dont-fight-the-ai-trade-as-earnings-season-could-extend-the-bull-market-hsbc-4946040",
+    "Crypto|76847f94-bebd-3a34-bafd-44345580de96",
+    "SG Banks|https://www.straitstimes.com/business/alibaba-unveils-us450-ai-glasses-in-expanding-push-into-gadgets",
+    "AI|bed1ab00-9f11-3821-a7cc-1d463ccf6ec4",
+    "AI|c92753a3-40b9-371f-8545-10edbb81e502",
+    "Watchlist|bed1ab00-9f11-3821-a7cc-1d463ccf6ec4",
+    "Watchlist|c92753a3-40b9-371f-8545-10edbb81e502",
+    "AI|304da8bf-c12c-3425-ac23-4419804ad3b8",
+    "War|db1a7873-98b8-42fc-a561-b68f682854ca"
   ],
   "topic_error": "",
   "last_digest": "2026-10-13",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791887331.3851745
+  "last_check": 1791888248.1524537
 }
