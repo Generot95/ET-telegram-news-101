@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/analyst-ratings/bernstein-socgen-cuts-boeing-stock-price-target-on-delivery-delays-93CH-4944692",
-    "SG Banks|https://www.investing.com/news/company-news/graphic-packaging-holding-stock-hits-52week-low-at-821-93CH-4944693",
-    "SG Banks|https://www.investing.com/news/stock-market-news/frasers-raises-burberry-stake-to-74-in-latest-share-purchase-93CH-4944694",
-    "SG Banks|https://www.investing.com/news/company-news/riley-exploration-permian-stock-hits-52week-high-at-4598-usd-93CH-4944696",
-    "SG Banks|https://www.investing.com/news/stock-market-news/wall-st-steady-at-open-as-oil-jumps-ahead-of-key-earnings-4944673",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-sandisk-stock-sliding-today-93CH-4944697",
-    "SG Banks|https://www.investing.com/news/commodities-news/morning-bid-diesel-diplomacy-4943888",
-    "SG Banks|https://www.investing.com/news/company-news/torm-plc-stock-hits-52week-high-at-4157-usd-93CH-4944698",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/bernstein-reiterates-airbnb-stock-rating-on-dynamic-pricing-rollout-93CH-4944691",
     "Watchlist|https://www.investing.com/news/analyst-ratings/bernstein-socgen-cuts-boeing-stock-price-target-on-delivery-delays-93CH-4944692",
     "Watchlist|https://www.investing.com/news/company-news/graphic-packaging-holding-stock-hits-52week-low-at-821-93CH-4944693",
     "Watchlist|https://www.investing.com/news/stock-market-news/frasers-raises-burberry-stake-to-74-in-latest-share-purchase-93CH-4944694",
@@ -5000,7 +4991,16 @@
     "Watchlist|https://www.investing.com/news/company-news/rick-larsen-makes-trades-in-analog-devices-and-williamssonoma-sells-fedex-and-home-depot-stocks-93CH-4947693",
     "Watchlist|https://www.investing.com/news/company-news/lisa-mcclain-invests-in-stocks-including-caci-international-and-microsoft-93CH-4947695",
     "Watchlist|https://www.investing.com/news/company-news/freedom-gold-extends-financing-deadline-plans-unit-offering-93CH-4947696",
-    "Watchlist|3acc3a16-35d6-363f-9095-a88a7470319a"
+    "Watchlist|3acc3a16-35d6-363f-9095-a88a7470319a",
+    "SG Banks|https://www.straitstimes.com/business/oil-rises-as-middle-east-attacks-increase-uncertainty-over-flows",
+    "AI|76cf88c9-6718-3696-9d71-b4387021e8cb",
+    "Watchlist|76cf88c9-6718-3696-9d71-b4387021e8cb",
+    "Iran|https://www.iranintl.com/en/202610137695",
+    "SG Banks|https://www.channelnewsasia.com/business/fbi-arrests-saudi-openai-engineer-over-covert-recording-device-doj-says-6457126",
+    "AI|61220585-9d46-3f28-bbb0-0e0adc21b1da",
+    "Watchlist|61220585-9d46-3f28-bbb0-0e0adc21b1da",
+    "AI|3b43a701-5ceb-3812-8592-1db95e35a02e",
+    "Watchlist|3b43a701-5ceb-3812-8592-1db95e35a02e"
   ],
   "topic_error": "",
   "last_digest": "2026-10-13",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791934212.6757123
+  "last_check": 1791935126.741934
 }
