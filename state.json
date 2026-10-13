@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|9442a231-d51e-3eec-851f-b063d1ea1e71",
-    "Watchlist|9442a231-d51e-3eec-851f-b063d1ea1e71",
     "SG Banks|/companies-markets/transport-logistics/airlines-are-upgrading-wi-fi-not-all-are-using-elon-musks-starlink",
     "Watchlist|/companies-markets/transport-logistics/airlines-are-upgrading-wi-fi-not-all-are-using-elon-musks-starlink",
     "AI|https://www.investing.com/news/insider-trading-news/semtech-evp-and-cco-jason-green-sells-526508-in-shares-93CH-4941992",
@@ -5000,10 +4998,12 @@
     "Watchlist|82d66e62-8f1a-32c9-a4a7-d7f93bc4ccb8",
     "AI|2eedc891-200e-3f2a-94e7-ea75d25a998b",
     "AI|22a87fc6-5607-3351-b923-1f39e69200de",
-    "Watchlist|22a87fc6-5607-3351-b923-1f39e69200de"
+    "Watchlist|22a87fc6-5607-3351-b923-1f39e69200de",
+    "AI|aec590ec-d18a-35b9-b6f9-253d28c517f9",
+    "Watchlist|aec590ec-d18a-35b9-b6f9-253d28c517f9"
   ],
   "topic_error": "",
-  "last_digest": "2026-10-12",
+  "last_digest": "2026-10-13",
   "earnings": {
     "AMD": {
       "ts": 1793736000,
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791848872.560672
+  "last_check": 1791849788.9463499
 }
