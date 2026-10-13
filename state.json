@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|2230ee29-f2d9-38dc-ad54-05d9ea399946",
-    "Crypto|7642c3ff-1906-314c-b438-3b7ec3dce206",
-    "Watchlist|d5c62e94-c7b5-330e-9e5e-1ea0e4114858",
-    "AI|https://www.investing.com/news/stock-market-news/indias-infosys-does-not-expect-material-impact-from-us-perm-suspension-4942191",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/indias-infosys-does-not-expect-material-impact-from-us-perm-suspension-4942191",
-    "SG Banks|https://www.investing.com/news/stock-market-news/indias-infosys-does-not-expect-material-impact-from-us-perm-suspension-4942191",
-    "Watchlist|https://www.investing.com/news/stock-market-news/indias-infosys-does-not-expect-material-impact-from-us-perm-suspension-4942191",
-    "AI|9e019982-958f-34cb-b4cb-6cd5158f1976",
-    "Cybersecurity|26eadfd6-42f3-3f46-9351-3dfbb4bfe8d3",
-    "Watchlist|9e019982-958f-34cb-b4cb-6cd5158f1976",
-    "Watchlist|26eadfd6-42f3-3f46-9351-3dfbb4bfe8d3",
-    "AI|aa82fe0b-9781-3f03-93ea-72490ed07a6a",
     "Watchlist|aa82fe0b-9781-3f03-93ea-72490ed07a6a",
     "Crypto|c7015924-f2e7-3f59-89f9-67e16cadad64",
     "Watchlist|e20d05c5-97d6-318d-ac42-49730a85a5b9",
@@ -5000,7 +4988,19 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-man-wah-holdings-stock-plunging-today-93CH-4945460",
     "SG Banks|https://www.channelnewsasia.com/business/south-african-fashion-retailer-foschini-groups-uk-arm-hit-cyber-incident-6455071",
     "AI|75698d4d-71ac-3016-8a32-de6278b02b72",
-    "Watchlist|75698d4d-71ac-3016-8a32-de6278b02b72"
+    "Watchlist|75698d4d-71ac-3016-8a32-de6278b02b72",
+    "SG Banks|https://www.straitstimes.com/business/visa-approved-to-prepare-domestic-payments-business-in-china",
+    "SG Banks|/companies-markets/telcos-media-tech/ai-models-may-soon-self-replicate-without-access-data-centres-anthropic-warns",
+    "Watchlist|/companies-markets/telcos-media-tech/ai-models-may-soon-self-replicate-without-access-data-centres-anthropic-warns",
+    "AI|https://www.investing.com/news/stock-market-news/nvidia-ai-chip-share-in-china-falls-as-huawei-catches-up-reuters-4945472",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-001-4945463",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/nvidia-ai-chip-share-in-china-falls-as-huawei-catches-up-reuters-4945472",
+    "SG Banks|https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-001-4945463",
+    "SG Banks|https://www.investing.com/news/stock-market-news/nvidia-ai-chip-share-in-china-falls-as-huawei-catches-up-reuters-4945472",
+    "Watchlist|https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-001-4945463",
+    "Watchlist|https://www.investing.com/news/stock-market-news/nvidia-ai-chip-share-in-china-falls-as-huawei-catches-up-reuters-4945472",
+    "AI|ca25c7e0-c316-33e3-b89e-d76bbff922fd",
+    "Watchlist|ca25c7e0-c316-33e3-b89e-d76bbff922fd"
   ],
   "topic_error": "",
   "last_digest": "2026-10-13",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791870852.6789014
+  "last_check": 1791871766.3658412
 }
