@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|aa82fe0b-9781-3f03-93ea-72490ed07a6a",
-    "Crypto|c7015924-f2e7-3f59-89f9-67e16cadad64",
-    "Watchlist|e20d05c5-97d6-318d-ac42-49730a85a5b9",
-    "AI|e20d05c5-97d6-318d-ac42-49730a85a5b9",
-    "AI|0dd2a667-f522-323f-a904-5c112eb9fe4d",
     "Watchlist|0dd2a667-f522-323f-a904-5c112eb9fe4d",
     "War|dee1bffd-3e88-4d28-a3f8-b89cbf3774c9",
     "AI|https://www.investing.com/news/insider-trading-news/appian-ceo-matthew-calkins-sells-169m-in-company-stock-93CH-4942204",
@@ -5000,7 +4995,12 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-001-4945463",
     "Watchlist|https://www.investing.com/news/stock-market-news/nvidia-ai-chip-share-in-china-falls-as-huawei-catches-up-reuters-4945472",
     "AI|ca25c7e0-c316-33e3-b89e-d76bbff922fd",
-    "Watchlist|ca25c7e0-c316-33e3-b89e-d76bbff922fd"
+    "Watchlist|ca25c7e0-c316-33e3-b89e-d76bbff922fd",
+    "SG Banks|https://www.channelnewsasia.com/business/cyberattack-affected-80-stores-french-supermarket-chain-co-operative-u-6455176",
+    "SG Banks|/international/global/imf-warns-ai-market-correction-cyber-threats-financial-system",
+    "Watchlist|/international/global/imf-warns-ai-market-correction-cyber-threats-financial-system",
+    "SG Banks|/international/global/ai-models-may-soon-self-replicate-without-access-data-centres-anthropic-warns",
+    "Watchlist|/international/global/ai-models-may-soon-self-replicate-without-access-data-centres-anthropic-warns"
   ],
   "topic_error": "",
   "last_digest": "2026-10-13",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791871766.3658412
+  "last_check": 1791872680.7233644
 }
