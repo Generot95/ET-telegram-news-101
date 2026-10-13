@@ -1,23 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/trump-selects-katie-zacharia-as-white-house-press-secretary-4942970",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/tdr-capital-ii-investments-lp-sells-2024m-target-hospitality-stock-93CH-4942968",
-    "Watchlist|https://www.investing.com/news/commodities-news/gold-edges-higher-near-4200-as-traders-weigh-energy-truce-mideast-risks-4942969",
-    "Watchlist|https://www.investing.com/news/stock-market-news/trump-selects-katie-zacharia-as-white-house-press-secretary-4942970",
-    "War|14e07943-9272-3700-8b86-3ae7ab8eeae7",
-    "AI|4a62a91b-f530-341e-9892-7297249a1fc4",
-    "Watchlist|598c6b10-a32f-3359-9055-fe0af183993e",
-    "SG Banks|/companies-markets/energy-commodities/gold-edges-traders-weigh-russia-ukraine-energy-ceasefire",
-    "Watchlist|/companies-markets/energy-commodities/gold-edges-traders-weigh-russia-ukraine-energy-ceasefire",
-    "AI|https://www.investing.com/news/stock-market-news/us-stock-futures-rise-tracking-oil-price-decline-q3-earnings-on-tap-4942973",
-    "AI|https://www.investing.com/news/insider-trading-news/american-well-chief-accounting-officer-sells-8489-in-stock-93CH-4942980",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-maas-group-stock-sliding-today-93CH-4942981",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-lifestyle-communities-stock-plummeting-today-93CH-4942983",
-    "AI|https://www.investing.com/news/stock-market-news/maas-group-slides-further-after-firmus-ipo-cancellation-hits-sixmonth-low-4942984",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/us-stock-futures-rise-tracking-oil-price-decline-q3-earnings-on-tap-4942973",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/american-well-chief-accounting-officer-sells-8489-in-stock-93CH-4942980",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-maas-group-stock-sliding-today-93CH-4942981",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-lifestyle-communities-stock-plummeting-today-93CH-4942983",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/maas-group-slides-further-after-firmus-ipo-cancellation-hits-sixmonth-low-4942984",
     "SG Banks|https://www.investing.com/news/stock-market-news/us-stock-futures-rise-tracking-oil-price-decline-q3-earnings-on-tap-4942973",
@@ -5000,7 +4983,24 @@
     "Watchlist|/companies-markets/energy-commodities/oil-falls-trump-claims-russia-ukraine-agree-energy-ceasefire",
     "AI|a92fbad7-5e7d-301b-9192-9d0afddd6b54",
     "AI|ba42a0e4-819c-38b2-8484-6c44df6a4977",
-    "Watchlist|ba42a0e4-819c-38b2-8484-6c44df6a4977"
+    "Watchlist|ba42a0e4-819c-38b2-8484-6c44df6a4977",
+    "War|0c845113-e70f-4b65-98c3-1f59e369d7f7",
+    "AI|2c61087f-03b6-3390-9e19-8102d2947ab0",
+    "Watchlist|2c61087f-03b6-3390-9e19-8102d2947ab0",
+    "AI|14918748-5288-34f2-9452-38262ae85f11",
+    "Watchlist|14918748-5288-34f2-9452-38262ae85f11",
+    "Crypto|9d6c2a11-6c45-38dd-9519-fb3ba14fb286",
+    "Cybersecurity|53597103-af74-3605-acb4-8196152aa9e8",
+    "AI|03b5f55b-f8b6-32f0-a83c-c815bd874de4",
+    "SG Banks|https://www.channelnewsasia.com/business/bumble-go-private-in-13-billion-deal-6456041",
+    "Watchlist|03b5f55b-f8b6-32f0-a83c-c815bd874de4",
+    "War|WP-MKTW-0005284048",
+    "AI|WP-MKTW-0005284048",
+    "Cybersecurity|WP-MKTW-0005284048",
+    "SG Banks|/companies-markets/banking-finance/citi-profit-jumps-40-higher-investment-banking-services-and-wealth-revenue",
+    "Watchlist|/companies-markets/banking-finance/citi-profit-jumps-40-higher-investment-banking-services-and-wealth-revenue",
+    "AI|0b28f197-9ba0-3fe1-ac93-ca572fe66a97",
+    "Watchlist|0b28f197-9ba0-3fe1-ac93-ca572fe66a97"
   ],
   "topic_error": "",
   "last_digest": "2026-10-13",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791894675.4843817
+  "last_check": 1791895582.4948375
 }
