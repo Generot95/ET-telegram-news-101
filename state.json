@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Iran|https://www.iranintl.com/en/202610082345",
-    "Crypto|7861a053-10df-3fdc-9c1f-10a293936e0a",
-    "Crypto|53355af0-2d91-3013-9b3d-64238dd8d7fc",
-    "AI|https://www.investing.com/news/insider-trading-news/neogen-ceo-mikheal-nassif-buys-6034-in-company-stock-93CH-4942234",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/neogen-ceo-mikheal-nassif-buys-6034-in-company-stock-93CH-4942234",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/neogen-ceo-mikheal-nassif-buys-6034-in-company-stock-93CH-4942234",
     "Watchlist|https://www.investing.com/news/insider-trading-news/neogen-ceo-mikheal-nassif-buys-6034-in-company-stock-93CH-4942234",
     "AI|6d97b6ed-0aba-3982-bd8e-f5cbf3a84087",
     "Watchlist|6d97b6ed-0aba-3982-bd8e-f5cbf3a84087",
@@ -5000,7 +4994,13 @@
     "Watchlist|https://www.investing.com/news/economic-indicators/german-inflation-rises-to-33-in-september-93CH-4945543",
     "Iran|https://www.iranintl.com/en/202610106118",
     "War|7afae730-6560-3602-a480-4db9ce2b4c39",
-    "Iran|https://www.iranintl.com/en/202610107057"
+    "Iran|https://www.iranintl.com/en/202610107057",
+    "SG Banks|https://www.channelnewsasia.com/business/oil-falls-russian-diesel-supply-prospects-counter-gulf-supply-risks-6454521",
+    "Iran|https://www.iranintl.com/en/202610082345",
+    "SG Banks|/companies-markets/banking-finance/visa-approved-prepare-domestic-payments-business-china",
+    "Watchlist|/companies-markets/banking-finance/visa-approved-prepare-domestic-payments-business-china",
+    "AI|11eca66b-3cc6-32a7-a204-0055b1e03595",
+    "Watchlist|11eca66b-3cc6-32a7-a204-0055b1e03595"
   ],
   "topic_error": "",
   "last_digest": "2026-10-13",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791873593.1531568
+  "last_check": 1791874503.2431953
 }
