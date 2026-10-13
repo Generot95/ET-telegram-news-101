@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/nvidia-in-talks-to-acquire-reflection-ai-or-increase-investment-ft-reports-4942324",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/robinhood-chief-legal-officer-sells-114m-in-hood-stock-93CH-4942326",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/united-therapeutics-ceo-martine-rothblatt-sells-51m-in-shares-93CH-4942327",
     "SG Banks|https://www.investing.com/news/insider-trading-news/verisign-exec-chairman-pres--ceo-bidzos-sells-964k-in-stock-93CH-4942328",
     "Watchlist|https://www.investing.com/news/company-news/nvidia-in-talks-to-acquire-reflection-ai-or-increase-investment-ft-reports-4942324",
     "Watchlist|https://www.investing.com/news/insider-trading-news/robinhood-chief-legal-officer-sells-114m-in-hood-stock-93CH-4942326",
@@ -5000,7 +4997,10 @@
     "Watchlist|https://www.investing.com/news/analyst-ratings/jefferies-initiates-amer-sports-stock-with-buy-on-brand-growth-93CH-4945638",
     "Watchlist|https://www.investing.com/news/insider-trading-news/warby-parker-director-jeffrey-raider-sells-415500-in-shares-93CH-4945639",
     "Watchlist|https://www.investing.com/news/earnings/marstons-soars-on-trading-update-sees-fy-profit-above-expectations-4945641",
-    "Watchlist|5bc20efc-9fa5-36f7-95f6-836234eeb37b"
+    "Watchlist|5bc20efc-9fa5-36f7-95f6-836234eeb37b",
+    "SG Banks|/companies-markets/banking-finance/australia-central-bank-saw-upside-risks-inflation-lingering-after-september-rate-hike",
+    "Watchlist|/companies-markets/banking-finance/australia-central-bank-saw-upside-risks-inflation-lingering-after-september-rate-hike",
+    "War|6d380c8e-e51e-3c5d-af1d-279a50636f61"
   ],
   "topic_error": "",
   "last_digest": "2026-10-13",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791877250.166506
+  "last_check": 1791878168.6516979
 }
