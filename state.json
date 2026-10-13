@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|fccfe04d-28df-3a04-95a3-2e906b05b920",
-    "Watchlist|fccfe04d-28df-3a04-95a3-2e906b05b920",
-    "AI|aec39783-dd25-3e41-b86d-d7eebac91e49",
-    "Watchlist|aec39783-dd25-3e41-b86d-d7eebac91e49",
-    "AI|b4a18e66-9724-34dc-99be-b5b32bb91adc",
-    "AI|https://www.investing.com/news/stock-market-news/consumer-ai-agents-could-upend-online-shopping--but-who-really-wins-4942121",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/consumer-ai-agents-could-upend-online-shopping--but-who-really-wins-4942121",
     "SG Banks|https://www.investing.com/news/stock-market-news/consumer-ai-agents-could-upend-online-shopping--but-who-really-wins-4942121",
     "Watchlist|https://www.investing.com/news/stock-market-news/consumer-ai-agents-could-upend-online-shopping--but-who-really-wins-4942121",
@@ -5000,7 +4994,13 @@
     "AI|88d41280-a2dc-34e3-9380-8eddcad8ad5e",
     "Watchlist|88d41280-a2dc-34e3-9380-8eddcad8ad5e",
     "AI|82a38f0b-13bf-3195-bd46-c2fb0c56909d",
-    "Watchlist|82a38f0b-13bf-3195-bd46-c2fb0c56909d"
+    "Watchlist|82a38f0b-13bf-3195-bd46-c2fb0c56909d",
+    "SG Banks|https://www.channelnewsasia.com/business/japan-cabinet-backs-plan-help-oil-importers-pay-higher-transport-costs-6454926",
+    "SG Banks|https://www.straitstimes.com/business/nutryfarm-shareholders-demand-ceos-immediate-suspension-cfo-to-take-over-in-interim",
+    "Watchlist|5442ff16-7d8d-3fcb-a2aa-0a67765788d7",
+    "AI|5442ff16-7d8d-3fcb-a2aa-0a67765788d7",
+    "SG Banks|https://www.channelnewsasia.com/business/characterai-files-bankruptcy-agrees-sell-some-assets-disney-20-million-6454941",
+    "AI|525c268e-66f9-3d13-b23d-d1196eb02b79"
   ],
   "topic_error": "",
   "last_digest": "2026-10-13",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791865345.8042896
+  "last_check": 1791866266.6878285
 }
