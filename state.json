@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|dd739ccb-a341-3448-a02f-cceaccb5fd42",
-    "AI|27a643a6-f383-38b4-b8bd-3de24e4a5180",
-    "Crypto|9dd30928-7dad-37b4-89f7-4864b11876d6",
-    "Watchlist|cf106d7b-9ad5-30b7-90d5-22a613ad92b8",
-    "Watchlist|dd739ccb-a341-3448-a02f-cceaccb5fd42",
-    "Watchlist|27a643a6-f383-38b4-b8bd-3de24e4a5180",
     "Iran|https://www.iranintl.com/en/202610100134",
     "AI|e0bf6ec7-5f9e-396a-9d25-15398a91513e",
     "Watchlist|e0bf6ec7-5f9e-396a-9d25-15398a91513e",
@@ -5000,7 +4994,13 @@
     "Watchlist|https://www.investing.com/news/economy-news/japans-wholesale-inflation-remains-elevated-keeps-alive-boj-ratehike-view-4945290",
     "Watchlist|https://www.investing.com/news/economy-news/rba-minutes-signal-further-rate-hikes-as-inflation-risks-intensify-4945291",
     "Watchlist|https://www.investing.com/news/stock-market-news/japans-omron-to-buy-us-industrial-pc-firmonlogic-for-675-million-in-physical-ai-push-4945294",
-    "Watchlist|https://www.investing.com/news/stock-market-news/anthropic-says-new-safeguards-sharply-reduce-ai-distillation-attacks-4945295"
+    "Watchlist|https://www.investing.com/news/stock-market-news/anthropic-says-new-safeguards-sharply-reduce-ai-distillation-attacks-4945295",
+    "Iran|https://www.iranintl.com/en/202610098400",
+    "SG Banks|https://www.channelnewsasia.com/business/tencent-markets-us-dollar-and-dim-sum-bonds-in-four-tranches-6454546",
+    "AI|73a86136-072a-3e94-8adc-7a8a1ac53fe8",
+    "SG Banks|https://www.straitstimes.com/business/oil-edges-lower-after-rising-on-expanding-middle-east-conflict",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/malaysian-king-buys-stake-in-miner-expanding-into-rare-earths",
+    "SG Banks|https://www.straitstimes.com/business/spore-investors-take-stock-risks-abroad-but-why-not-at-home-sgx-chairman-koh-boon-hwee-weighs-in"
   ],
   "topic_error": "",
   "last_digest": "2026-10-13",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791854371.6391912
+  "last_check": 1791855286.304736
 }
