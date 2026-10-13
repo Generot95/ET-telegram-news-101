@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|eb5acdac-63ed-3d7a-9e84-6151e2fa1e1d",
-    "AI|86c45891-7452-35bc-a32c-34b4f493e010",
-    "Crypto|86c45891-7452-35bc-a32c-34b4f493e010",
-    "Watchlist|86c45891-7452-35bc-a32c-34b4f493e010",
-    "Watchlist|eb5acdac-63ed-3d7a-9e84-6151e2fa1e1d",
-    "Crypto|2edafe56-b85b-3bfd-a792-acf984514615",
-    "War|98e01be8-787c-3cfe-b49e-f15b3ecd26b3",
-    "AI|875dcb1e-f28d-3a99-a5ed-c65fe151edad",
-    "AI|8d73beac-412f-3514-be29-d2c997fcee6a",
-    "Watchlist|8d73beac-412f-3514-be29-d2c997fcee6a",
     "Watchlist|875dcb1e-f28d-3a99-a5ed-c65fe151edad",
     "AI|980c00ef-cc95-3c67-be17-e5119fb814c5",
     "Watchlist|980c00ef-cc95-3c67-be17-e5119fb814c5",
@@ -5000,7 +4990,17 @@
     "Iran|https://www.iranintl.com/en/202610100134",
     "AI|f5622e00-e5e8-3320-8316-b3f928ca1ce3",
     "Cybersecurity|f5622e00-e5e8-3320-8316-b3f928ca1ce3",
-    "Watchlist|f5622e00-e5e8-3320-8316-b3f928ca1ce3"
+    "Watchlist|f5622e00-e5e8-3320-8316-b3f928ca1ce3",
+    "AI|f1a5d388-8f6a-3453-8cb5-dd0b2c174ac2",
+    "Watchlist|f1a5d388-8f6a-3453-8cb5-dd0b2c174ac2",
+    "AI|https://www.investing.com/news/economy-news/dollar-holds-near-18month-high-as-geopolitical-risks-rise-4945309",
+    "Cybersecurity|https://www.investing.com/news/economy-news/dollar-holds-near-18month-high-as-geopolitical-risks-rise-4945309",
+    "SG Banks|https://www.investing.com/news/economy-news/dollar-holds-near-18month-high-as-geopolitical-risks-rise-4945309",
+    "Watchlist|https://www.investing.com/news/economy-news/dollar-holds-near-18month-high-as-geopolitical-risks-rise-4945309",
+    "War|535d23da-e202-3492-8d6f-f2950d9fc503",
+    "War|WP-MKTW-0005281938",
+    "AI|WP-MKTW-0005281938",
+    "Cybersecurity|WP-MKTW-0005281938"
   ],
   "topic_error": "",
   "last_digest": "2026-10-13",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791856194.1531577
+  "last_check": 1791857115.4346664
 }
