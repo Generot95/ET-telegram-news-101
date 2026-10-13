@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/everpure-director-mallun-yen-sells-175m-in-shares-93CH-4942179",
-    "AI|9773ecd3-0448-3705-b658-dbbd1e736de3",
-    "Watchlist|9773ecd3-0448-3705-b658-dbbd1e736de3",
     "AI|2230ee29-f2d9-38dc-ad54-05d9ea399946",
     "Crypto|7642c3ff-1906-314c-b438-3b7ec3dce206",
     "Watchlist|d5c62e94-c7b5-330e-9e5e-1ea0e4114858",
@@ -5000,7 +4997,10 @@
     "Watchlist|https://www.investing.com/news/economy-news/ai-models-may-soon-selfreplicate-without-access-to-data-centers-anthropic-warns-4945449",
     "Watchlist|https://www.investing.com/news/cryptocurrency-news/trustlinq-expands-ripple-partnership-enabling-rlusdfunded-bank-payments-to-190-countries-4945455",
     "Watchlist|https://www.investing.com/news/insider-trading-news/nurix-therapeutics-clo-sells-134k-in-stock-after-option-exercise-93CH-4945459",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-man-wah-holdings-stock-plunging-today-93CH-4945460"
+    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-man-wah-holdings-stock-plunging-today-93CH-4945460",
+    "SG Banks|https://www.channelnewsasia.com/business/south-african-fashion-retailer-foschini-groups-uk-arm-hit-cyber-incident-6455071",
+    "AI|75698d4d-71ac-3016-8a32-de6278b02b72",
+    "Watchlist|75698d4d-71ac-3016-8a32-de6278b02b72"
   ],
   "topic_error": "",
   "last_digest": "2026-10-13",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791869942.6788917
+  "last_check": 1791870852.6789014
 }
