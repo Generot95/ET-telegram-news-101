@@ -1,17 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|WP-MKTW-0005280601",
-    "AI|WP-MKTW-0005280601",
-    "Cybersecurity|WP-MKTW-0005280601",
-    "AI|a5222d3d-29af-3c8d-a929-3ae86c46c914",
-    "Watchlist|a5222d3d-29af-3c8d-a929-3ae86c46c914",
-    "Iran|https://www.iranintl.com/en/202610085342",
-    "Crypto|ea484572-5e94-3300-9433-5cf0b0bbe012",
-    "AI|20547e35-2e6c-30dc-bd80-822616e8d7b0",
-    "Watchlist|20547e35-2e6c-30dc-bd80-822616e8d7b0",
-    "AI|https://www.investing.com/news/stock-market-news/china-drafts-rules-to-ban-hidden-car-handles-virtual-controls-4942097",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/china-drafts-rules-to-ban-hidden-car-handles-virtual-controls-4942097",
     "SG Banks|https://www.investing.com/news/stock-market-news/china-drafts-rules-to-ban-hidden-car-handles-virtual-controls-4942097",
     "Watchlist|https://www.investing.com/news/stock-market-news/china-drafts-rules-to-ban-hidden-car-handles-virtual-controls-4942097",
     "AI|49928618-eb35-3548-8cfc-68ea0222725a",
@@ -5000,7 +4989,18 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/106-75-66-our-ai-just-called-these-energy-breakouts-4945336",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-baby-bunting-stock-surging-today-93CH-4945337",
     "Watchlist|https://www.investing.com/news/stock-market-news/ntt-data-in-final-talks-to-build-anthropics-first-data-centre-in-japan-nikkei-reports-4945338",
-    "Watchlist|https://www.investing.com/news/company-news/krait-critical-minerals-closes-private-placement-for-173m-93CH-4945341"
+    "Watchlist|https://www.investing.com/news/company-news/krait-critical-minerals-closes-private-placement-for-173m-93CH-4945341",
+    "War|cc79205d-184e-3afc-8d97-64c6b9a7278f",
+    "AI|https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-china-chip-threat-hits-samsung-sk-hynix-oil-retreats-4945342",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-softbank-group-stock-tumbling-today-93CH-4945343",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-china-chip-threat-hits-samsung-sk-hynix-oil-retreats-4945342",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-softbank-group-stock-tumbling-today-93CH-4945343",
+    "SG Banks|https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-china-chip-threat-hits-samsung-sk-hynix-oil-retreats-4945342",
+    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-softbank-group-stock-tumbling-today-93CH-4945343",
+    "Watchlist|https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-china-chip-threat-hits-samsung-sk-hynix-oil-retreats-4945342",
+    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-softbank-group-stock-tumbling-today-93CH-4945343",
+    "Iran|https://www.iranintl.com/en/202610085342",
+    "War|6624c30a-b77e-30d9-996f-cb99aaba83c3"
   ],
   "topic_error": "",
   "last_digest": "2026-10-13",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791861683.1907809
+  "last_check": 1791862626.6773663
 }
