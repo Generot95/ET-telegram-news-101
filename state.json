@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|1d19974b-f3ec-392a-8a05-e8a64d022359",
-    "Crypto|ae6f7684-b4e8-3fc7-bfa6-e89af3a57b13",
     "AI|2d5d07b7-b8d9-3fa2-af7e-1edb998039ef",
     "AI|01e5e4a1-fcdb-3238-88a0-4aa614b5a1f6",
     "Watchlist|2d5d07b7-b8d9-3fa2-af7e-1edb998039ef",
@@ -5000,7 +4998,9 @@
     "Watchlist|https://www.investing.com/news/economy-news/imf-cuts-latin-america-caribbean-growth-forecasts-on-energy-shock-little-ai-boost-4945315",
     "SG Banks|https://www.channelnewsasia.com/business/imf-cuts-latin-america-caribbean-growth-forecasts-energy-shock-little-ai-boost-6454681",
     "SG Banks|/companies-markets/telcos-media-tech/aem-shares-down-6-global-chip-stocks-slide",
-    "Watchlist|/companies-markets/telcos-media-tech/aem-shares-down-6-global-chip-stocks-slide"
+    "Watchlist|/companies-markets/telcos-media-tech/aem-shares-down-6-global-chip-stocks-slide",
+    "War|b2cc8945-236d-33e9-86fa-c5b3598787df",
+    "War|3d771a78-7bd1-3953-97b9-5433826a4554"
   ],
   "topic_error": "",
   "last_digest": "2026-10-13",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791858022.466305
+  "last_check": 1791858943.669165
 }
