@@ -1,20 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/analyst-ratings/mizuho-raises-chevron-stock-price-target-on-venezuela-expansion-93CH-4944120",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/mizuho-lowers-firstenergy-stock-price-target-on-regulatory-headwinds-93CH-4944121",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/mizuho-raises-shell-stock-price-target-to-103-on-lng-refining-outlook-93CH-4944122",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-contineum-therapeutics-stock-surging-today-93CH-4944123",
-    "Watchlist|https://www.investing.com/news/company-news/aep-plantations-declares-373-cents-interim-dividend-93CH-4944129",
-    "Watchlist|https://www.investing.com/news/economy-news/eu-eyes-december-trade-initiatives-after-china-car-import-deal-4944130",
-    "War|b36fcb1b-f797-45c2-99c4-c5d8eae1ddc4",
-    "AI|7246d275-9b03-315a-9710-68a2fc00bb9d",
-    "AI|e78761d6-8604-4c2d-9c6a-ab7754f50b58",
-    "SG Banks|/international/global/china-vows-curb-tech-bubbles-keep-ai-risks-check",
-    "Watchlist|7246d275-9b03-315a-9710-68a2fc00bb9d",
-    "Watchlist|e78761d6-8604-4c2d-9c6a-ab7754f50b58",
-    "Watchlist|/international/global/china-vows-curb-tech-bubbles-keep-ai-risks-check",
-    "AI|98537899-ee5f-3d1c-85fe-126f322c74f7",
     "Crypto|c12849a7-d22d-3adc-a8d1-0ec221af9630",
     "Crypto|98537899-ee5f-3d1c-85fe-126f322c74f7",
     "Cybersecurity|f45d1a6e-8435-376b-98b0-6a99a352ff2d",
@@ -5000,7 +4986,21 @@
     "SG Banks|https://www.investing.com/news/stock-market-news/taketwo-interactive-options-flow-leans-bearish-with-putheavy-volume-93CH-4947388",
     "Watchlist|https://www.investing.com/news/stock-market-news/top-rail-stocks-to-watch-according-to-jefferies-analysis-4947385",
     "Watchlist|https://www.investing.com/news/stock-market-news/india-regulator-proposes-tighter-rules-for-equity-fundraising-93CH-4947386",
-    "Watchlist|https://www.investing.com/news/stock-market-news/taketwo-interactive-options-flow-leans-bearish-with-putheavy-volume-93CH-4947388"
+    "Watchlist|https://www.investing.com/news/stock-market-news/taketwo-interactive-options-flow-leans-bearish-with-putheavy-volume-93CH-4947388",
+    "Crypto|ae842a98-854e-35b0-b40f-8740f5565ac9",
+    "AI|464585b7-2cc3-38ef-964e-2591028130a8",
+    "AI|e6f9f31c-a0cc-3b32-b3a2-9370900e5d09",
+    "Crypto|1281d579-d2a8-3fe9-8ef6-d9b2753bacbf",
+    "Watchlist|464585b7-2cc3-38ef-964e-2591028130a8",
+    "Watchlist|e6f9f31c-a0cc-3b32-b3a2-9370900e5d09",
+    "AI|c044c782-eb6b-307c-86b7-38922b1e5211",
+    "Watchlist|c044c782-eb6b-307c-86b7-38922b1e5211",
+    "War|bb18f94d-ea02-4081-9c93-38136af3402e",
+    "AI|19f0f904-7554-3957-a952-e1ae33d9f3d7",
+    "Cybersecurity|19f0f904-7554-3957-a952-e1ae33d9f3d7",
+    "Watchlist|19f0f904-7554-3957-a952-e1ae33d9f3d7",
+    "SG Banks|/international/global/china-vows-curb-tech-bubbles-keep-ai-risks-check",
+    "Watchlist|/international/global/china-vows-curb-tech-bubbles-keep-ai-risks-check"
   ],
   "topic_error": "",
   "last_digest": "2026-10-13",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791918546.9218702
+  "last_check": 1791919459.3257952
 }
