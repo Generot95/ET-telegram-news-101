@@ -1,21 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|e91c5a82-8d38-3f11-8ddd-6e26fa1c7154",
-    "AI|b6e61881-1ddb-33c4-b21e-b4d01b844fd5",
-    "AI|3a76629f-2247-37b6-8886-b4f0d872a030",
-    "AI|https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-neutral-rating-on-lucid-stock-at-8-93CH-4944224",
-    "AI|https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-kodiak-ai-stock-rating-on-driverless-progress-93CH-4944226",
-    "AI|https://www.investing.com/news/analyst-ratings/guggenheim-raises-everpure-stock-price-target-to-215-on-hyperscaler-growth-93CH-4944228",
-    "AI|https://www.investing.com/news/analyst-ratings/guggenheim-raises-elevance-stock-price-target-to-460-on-earnings-outlook-93CH-4944227",
-    "AI|https://www.investing.com/news/stock-market-news/western-digital-stock-analysis-buy-after-recent-selloff-93CH-4944233",
-    "AI|https://www.investing.com/news/company-news/weave-integrates-carecredit-financing-into-platform-93CH-4944254",
-    "AI|https://www.investing.com/news/company-news/odyssey-therapeutics-to-present-phase-2a-trial-design-for-uc-93CH-4944257",
-    "AI|https://www.investing.com/news/company-news/freshworks-to-acquire-torii-for-saas-and-ai-spend-management-93CH-4944256",
-    "AI|https://www.investing.com/news/company-news/stoke-therapeutics-presents-data-on-adoa-treatment-stk002-93CH-4944265",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-ionq-stock-sliding-today-93CH-4944191",
-    "AI|https://www.investing.com/news/stock-market-news/ionq-to-acquire-elisity-for-up-to-13-billion-in-stock-deal-93CH-4944192",
-    "AI|https://www.investing.com/news/stock-market-news/is-salesforce-stock-a-clean-chase-ahead-of-q3-results-93CH-4944193",
     "AI|https://www.investing.com/news/stock-market-news/citigroup-earnings-preview-what-could-drive-c-stock-tomorrow-93CH-4944173",
     "AI|https://www.investing.com/news/stock-market-news/why-is-ssp-stock-falling-today-93CH-4944215",
     "AI|https://www.investing.com/news/stock-market-news/why-is-adobe-stock-sliding-today-93CH-4944223",
@@ -5000,7 +4985,22 @@
     "War|d0d4e73e-d192-40d4-931d-c3595ec83c4e",
     "AI|9b2d379c-978f-352d-88d4-6b783eb8621d",
     "Watchlist|9b2d379c-978f-352d-88d4-6b783eb8621d",
-    "Cybersecurity|2fd5f276-e396-3c25-a979-bc02e50f88e6"
+    "Cybersecurity|2fd5f276-e396-3c25-a979-bc02e50f88e6",
+    "Watchlist|bee985e9-5922-3592-8db0-479c10301eba",
+    "AI|917ac68c-ed1d-37bc-a314-42a6707962ca",
+    "Watchlist|917ac68c-ed1d-37bc-a314-42a6707962ca",
+    "Iran|https://www.iranintl.com/en/202610137974",
+    "War|9c5fca6c-879d-32c6-b996-6c86850bc20f",
+    "AI|b32e819f-7aa9-4b0a-91b1-3ac7979de1f4",
+    "AI|98ccc14b-65c4-39de-9049-73817dd78b1d",
+    "Watchlist|98ccc14b-65c4-39de-9049-73817dd78b1d",
+    "Watchlist|b32e819f-7aa9-4b0a-91b1-3ac7979de1f4",
+    "Crypto|39f99eb4-35fa-338a-a76f-7ab5fb1bb8f3",
+    "War|94fe3528-1b5d-4d2f-a951-6d797563819e",
+    "AI|https://www.investing.com/news/stock-market-news/ancora-builds-big-yellow-group-stake-and-pushes-to-explore-sale-bloomberg-reports-4947399",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/ancora-builds-big-yellow-group-stake-and-pushes-to-explore-sale-bloomberg-reports-4947399",
+    "SG Banks|https://www.investing.com/news/stock-market-news/ancora-builds-big-yellow-group-stake-and-pushes-to-explore-sale-bloomberg-reports-4947399",
+    "Watchlist|https://www.investing.com/news/stock-market-news/ancora-builds-big-yellow-group-stake-and-pushes-to-explore-sale-bloomberg-reports-4947399"
   ],
   "topic_error": "",
   "last_digest": "2026-10-13",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791920359.4394183
+  "last_check": 1791921286.4822886
 }
