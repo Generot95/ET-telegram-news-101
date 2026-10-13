@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/riley-exploration-permian-stock-hits-52week-high-at-4598-usd-93CH-4944696",
-    "AI|https://www.investing.com/news/stock-market-news/wall-st-steady-at-open-as-oil-jumps-ahead-of-key-earnings-4944673",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-sandisk-stock-sliding-today-93CH-4944697",
-    "AI|https://www.investing.com/news/commodities-news/morning-bid-diesel-diplomacy-4943888",
-    "AI|https://www.investing.com/news/company-news/torm-plc-stock-hits-52week-high-at-4157-usd-93CH-4944698",
-    "AI|https://www.investing.com/news/stock-market-news/global-smartphone-shipments-drop-20-in-third-quarter-4944610",
-    "AI|https://www.investing.com/news/stock-market-news/mirum-gains-as-phase-3-livmarli-trial-meets-primary-endpoint-in-liver-disease-4944615",
     "AI|https://www.investing.com/news/stock-market-news/why-is-dauch-stock-gaining-today-93CH-4944658",
     "AI|https://www.investing.com/news/stock-market-news/why-is-chipotle-mexican-grill-stock-dropping-today-93CH-4944688",
     "AI|https://www.investing.com/news/company-news/danaos-corp-stock-hits-52week-high-at-17165-usd-93CH-4944665",
@@ -5000,7 +4993,14 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/citi-trends-vp-of-hr-katrina-george-sells-25285-in-stock-93CH-4947678",
     "Watchlist|https://www.investing.com/news/insider-trading-news/ajb-investment-fund-ii-buys-35619-in-jewett-cameron-trading-co-shares-93CH-4947679",
     "AI|32e65ab2-591f-3026-867f-b0a25a9af859",
-    "Watchlist|32e65ab2-591f-3026-867f-b0a25a9af859"
+    "Watchlist|32e65ab2-591f-3026-867f-b0a25a9af859",
+    "SG Banks|/opinion-features/looking-beyond-looming-ceo-succession-should-uob-potentially-pursue-transformative-merger",
+    "SG Banks|/companies-markets/ai-moving-faster-infrastructure-powering-it-panellists-say",
+    "Watchlist|/companies-markets/ai-moving-faster-infrastructure-powering-it-panellists-say",
+    "Watchlist|/opinion-features/looking-beyond-looming-ceo-succession-should-uob-potentially-pursue-transformative-merger",
+    "SG Banks|https://www.straitstimes.com/business/us-fines-bank-of-america-us1-2b-for-anti-money-laundering-violations",
+    "SG Banks|https://www.channelnewsasia.com/business/softbank-junk-bond-sale-raises-stakes-ceo-sons-all-in-ai-bet-6457321",
+    "SG Banks|https://www.channelnewsasia.com/business/isle-wight-fossil-sheds-light-enigmatic-meat-eating-dinosaurs-6457326"
   ],
   "topic_error": "",
   "last_digest": "2026-10-13",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791932379.1296542
+  "last_check": 1791933302.0695722
 }
