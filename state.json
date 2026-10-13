@@ -1,21 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|45362219-1823-3669-aeac-d87cf9e06340",
-    "AI|baf43c40-3964-30c9-a69f-1c9506cde573",
-    "AI|af716b32-26fd-3c7b-ba0f-2568c75d9a9e",
-    "Crypto|b822eda0-88d6-3983-b992-0aa0547c3ceb",
-    "Watchlist|baf43c40-3964-30c9-a69f-1c9506cde573",
-    "War|d4eedb7b-a7e7-4cd7-8780-8bc565fb2d23",
-    "AI|d4eedb7b-a7e7-4cd7-8780-8bc565fb2d23",
-    "Watchlist|51c2775d-d8c7-3246-b508-1a3627320ac9",
-    "Watchlist|d4eedb7b-a7e7-4cd7-8780-8bc565fb2d23",
-    "AI|031052ee-1965-3c6c-9689-b11e5314d46c",
-    "AI|1dc6e292-5493-3727-a3ed-d82890138c5f",
-    "AI|https://www.investing.com/news/analyst-ratings/bernstein-reiterates-airbnb-stock-rating-on-dynamic-pricing-rollout-93CH-4944691",
-    "AI|https://www.investing.com/news/analyst-ratings/bernstein-socgen-cuts-boeing-stock-price-target-on-delivery-delays-93CH-4944692",
-    "AI|https://www.investing.com/news/company-news/graphic-packaging-holding-stock-hits-52week-low-at-821-93CH-4944693",
-    "AI|https://www.investing.com/news/stock-market-news/frasers-raises-burberry-stake-to-74-in-latest-share-purchase-93CH-4944694",
     "AI|https://www.investing.com/news/company-news/riley-exploration-permian-stock-hits-52week-high-at-4598-usd-93CH-4944696",
     "AI|https://www.investing.com/news/stock-market-news/wall-st-steady-at-open-as-oil-jumps-ahead-of-key-earnings-4944673",
     "AI|https://www.investing.com/news/stock-market-news/why-is-sandisk-stock-sliding-today-93CH-4944697",
@@ -5000,7 +4985,22 @@
     "Watchlist|8f97a689-bca8-3b13-9ab6-c78bbaeaceb0",
     "War|03514773-7180-4152-86f7-474fca792fd2",
     "AI|1bf8ad13-8a98-3c81-8490-6e962f5a044e",
-    "Crypto|e17a8ad6-82b4-3b3c-867d-0a2e53031082"
+    "Crypto|e17a8ad6-82b4-3b3c-867d-0a2e53031082",
+    "AI|9d35d4a5-1967-3aea-be54-888ff3c5af47",
+    "AI|https://www.investing.com/news/insider-trading-news/citi-trends-vp-of-hr-katrina-george-sells-25285-in-stock-93CH-4947678",
+    "AI|https://www.investing.com/news/insider-trading-news/ajb-investment-fund-ii-buys-35619-in-jewett-cameron-trading-co-shares-93CH-4947679",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/citi-trends-vp-of-hr-katrina-george-sells-25285-in-stock-93CH-4947678",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/ajb-investment-fund-ii-buys-35619-in-jewett-cameron-trading-co-shares-93CH-4947679",
+    "SG Banks|https://www.investing.com/news/company-news/hii-wins-56m-navy-contract-for-aukus-submarine-support-93CH-4947668",
+    "SG Banks|https://www.investing.com/news/company-news/distribution-solutions-group-to-acquire-gradeeight-holdings-for-110m-93CH-4947669",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/citi-trends-vp-of-hr-katrina-george-sells-25285-in-stock-93CH-4947678",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/ajb-investment-fund-ii-buys-35619-in-jewett-cameron-trading-co-shares-93CH-4947679",
+    "Watchlist|https://www.investing.com/news/company-news/hii-wins-56m-navy-contract-for-aukus-submarine-support-93CH-4947668",
+    "Watchlist|https://www.investing.com/news/company-news/distribution-solutions-group-to-acquire-gradeeight-holdings-for-110m-93CH-4947669",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/citi-trends-vp-of-hr-katrina-george-sells-25285-in-stock-93CH-4947678",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/ajb-investment-fund-ii-buys-35619-in-jewett-cameron-trading-co-shares-93CH-4947679",
+    "AI|32e65ab2-591f-3026-867f-b0a25a9af859",
+    "Watchlist|32e65ab2-591f-3026-867f-b0a25a9af859"
   ],
   "topic_error": "",
   "last_digest": "2026-10-13",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791931456.0682728
+  "last_check": 1791932379.1296542
 }
