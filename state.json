@@ -1,21 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Iran|https://www.iranintl.com/en/202610100134",
-    "AI|e0bf6ec7-5f9e-396a-9d25-15398a91513e",
-    "Watchlist|e0bf6ec7-5f9e-396a-9d25-15398a91513e",
-    "AI|8e8ae916-889d-32e2-9755-7f7694d074c9",
-    "Watchlist|8e8ae916-889d-32e2-9755-7f7694d074c9",
-    "War|dc39dce6-5359-3972-a01f-357da74353b6",
-    "Crypto|11b01ffe-db51-383a-8d73-8e18ec7e709f",
-    "AI|https://www.investing.com/news/economy-news/thailand-prepares-to-host-imfworld-bank-meetings-with-15000-delegates-4942067",
-    "Cybersecurity|https://www.investing.com/news/economy-news/thailand-prepares-to-host-imfworld-bank-meetings-with-15000-delegates-4942067",
-    "SG Banks|https://www.investing.com/news/economy-news/thailand-prepares-to-host-imfworld-bank-meetings-with-15000-delegates-4942067",
-    "Watchlist|https://www.investing.com/news/economy-news/thailand-prepares-to-host-imfworld-bank-meetings-with-15000-delegates-4942067",
-    "AI|68b29819-38a5-3ad7-832d-f9d105ea3c26",
-    "Watchlist|68b29819-38a5-3ad7-832d-f9d105ea3c26",
-    "AI|c432756b-66b0-32fa-9d7c-1aa319bc50e5",
-    "Watchlist|c432756b-66b0-32fa-9d7c-1aa319bc50e5",
     "AI|eb5acdac-63ed-3d7a-9e84-6151e2fa1e1d",
     "AI|86c45891-7452-35bc-a32c-34b4f493e010",
     "Crypto|86c45891-7452-35bc-a32c-34b4f493e010",
@@ -5000,7 +4985,22 @@
     "AI|73a86136-072a-3e94-8adc-7a8a1ac53fe8",
     "SG Banks|https://www.straitstimes.com/business/oil-edges-lower-after-rising-on-expanding-middle-east-conflict",
     "SG Banks|https://www.straitstimes.com/business/companies-markets/malaysian-king-buys-stake-in-miner-expanding-into-rare-earths",
-    "SG Banks|https://www.straitstimes.com/business/spore-investors-take-stock-risks-abroad-but-why-not-at-home-sgx-chairman-koh-boon-hwee-weighs-in"
+    "SG Banks|https://www.straitstimes.com/business/spore-investors-take-stock-risks-abroad-but-why-not-at-home-sgx-chairman-koh-boon-hwee-weighs-in",
+    "War|https://www.investing.com/news/commodities-news/gold-slips-near-4160-as-middle-east-tensions-fuel-ratehike-concerns-4945298",
+    "AI|https://www.investing.com/news/commodities-news/gold-slips-near-4160-as-middle-east-tensions-fuel-ratehike-concerns-4945298",
+    "AI|https://www.investing.com/news/insider-trading-news/jewett-cameron-trading-co-ltd-10-owner-buys-23066-in-jctc-93CH-4945307",
+    "Cybersecurity|https://www.investing.com/news/commodities-news/gold-slips-near-4160-as-middle-east-tensions-fuel-ratehike-concerns-4945298",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/jewett-cameron-trading-co-ltd-10-owner-buys-23066-in-jctc-93CH-4945307",
+    "SG Banks|/companies-markets/energy-commodities/oil-edges-lower-after-rising-expanding-middle-east-conflict",
+    "SG Banks|https://www.investing.com/news/commodities-news/gold-slips-near-4160-as-middle-east-tensions-fuel-ratehike-concerns-4945298",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/jewett-cameron-trading-co-ltd-10-owner-buys-23066-in-jctc-93CH-4945307",
+    "Watchlist|/companies-markets/energy-commodities/oil-edges-lower-after-rising-expanding-middle-east-conflict",
+    "Watchlist|https://www.investing.com/news/commodities-news/gold-slips-near-4160-as-middle-east-tensions-fuel-ratehike-concerns-4945298",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/jewett-cameron-trading-co-ltd-10-owner-buys-23066-in-jctc-93CH-4945307",
+    "Iran|https://www.iranintl.com/en/202610100134",
+    "AI|f5622e00-e5e8-3320-8316-b3f928ca1ce3",
+    "Cybersecurity|f5622e00-e5e8-3320-8316-b3f928ca1ce3",
+    "Watchlist|f5622e00-e5e8-3320-8316-b3f928ca1ce3"
   ],
   "topic_error": "",
   "last_digest": "2026-10-13",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791855286.304736
+  "last_check": 1791856194.1531577
 }
