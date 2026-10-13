@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/byd-targets-40000-european-workforce-by-2030-to-drive-manufacturing-push--report-4944448",
-    "Watchlist|https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-oil-slips-despite-riyadh-airport-attacks-4943357",
-    "War|a5febbce-d3f2-36fa-9da6-9a7fa266d197",
-    "War|c6956a24-8025-3222-99d2-44eaa600ed0d",
-    "AI|43b55c98-76e4-34af-a532-5968ef17e3bc",
     "AI|https://www.investing.com/news/company-news/corebridge-launches-annuity-strategy-with-memory-feature-93CH-4944469",
     "Cybersecurity|https://www.investing.com/news/company-news/corebridge-launches-annuity-strategy-with-memory-feature-93CH-4944469",
     "AI|01a437fa-faae-35b2-88a9-5c1a74966f22",
@@ -5000,7 +4995,12 @@
     "Watchlist|de3b5c67-d437-32e4-960b-e680f1736d95",
     "AI|778fc3c0-11c4-3670-a1db-dcf20b77142d",
     "AI|de3b5c67-d437-32e4-960b-e680f1736d95",
-    "Watchlist|778fc3c0-11c4-3670-a1db-dcf20b77142d"
+    "Watchlist|778fc3c0-11c4-3670-a1db-dcf20b77142d",
+    "AI|606941b5-5044-3d0b-b202-8f5cec848b79",
+    "Watchlist|606941b5-5044-3d0b-b202-8f5cec848b79",
+    "War|b946da0a-5703-37e0-af2a-206e0ebb2f3f",
+    "SG Banks|/companies-markets/capital-markets-currencies/nasdaq-ends-down-chipmakers-fall-and-bank-earnings-roll",
+    "Watchlist|/companies-markets/capital-markets-currencies/nasdaq-ends-down-chipmakers-fall-and-bank-earnings-roll"
   ],
   "topic_error": "",
   "last_digest": "2026-10-13",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791927792.2213695
+  "last_check": 1791928705.9815776
 }
