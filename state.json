@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|68259c42-7bb5-3239-8fd7-1b4be5061115",
-    "AI|https://www.investing.com/news/commodities-news/prominent-republican-senator-says-trumps-russian-diesel-deal-may-be-illegal-4942755",
-    "AI|https://www.investing.com/news/insider-trading-news/marvell-technology-svp-chief-accounting-officer-sells-300949-in-stock-93CH-4942756",
-    "AI|https://www.investing.com/news/insider-trading-news/mediaalpha-ceo-steven-yi-sells-263320-in-company-stock-93CH-4942757",
-    "AI|https://www.investing.com/news/insider-trading-news/mineralrite-director-sells-1067m-preferred-shares-93CH-4942758",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/prominent-republican-senator-says-trumps-russian-diesel-deal-may-be-illegal-4942755",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/marvell-technology-svp-chief-accounting-officer-sells-300949-in-stock-93CH-4942756",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/mediaalpha-ceo-steven-yi-sells-263320-in-company-stock-93CH-4942757",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/mineralrite-director-sells-1067m-preferred-shares-93CH-4942758",
-    "SG Banks|https://www.investing.com/news/commodities-news/prominent-republican-senator-says-trumps-russian-diesel-deal-may-be-illegal-4942755",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/marvell-technology-svp-chief-accounting-officer-sells-300949-in-stock-93CH-4942756",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/mediaalpha-ceo-steven-yi-sells-263320-in-company-stock-93CH-4942757",
     "SG Banks|https://www.investing.com/news/insider-trading-news/mineralrite-director-sells-1067m-preferred-shares-93CH-4942758",
     "Watchlist|68259c42-7bb5-3239-8fd7-1b4be5061115",
     "Watchlist|https://www.investing.com/news/commodities-news/prominent-republican-senator-says-trumps-russian-diesel-deal-may-be-illegal-4942755",
@@ -5000,7 +4988,19 @@
     "Watchlist|4fc48e43-104f-455a-a0a1-b3f47ae92597",
     "Watchlist|/international/global/nvidia-weighs-deeper-ties-open-model-developer-reflection-ai-through-investment-or-computing-deal",
     "AI|ff9f4a49-3349-3fce-9977-06bd2c2ddfad",
-    "Watchlist|ff9f4a49-3349-3fce-9977-06bd2c2ddfad"
+    "Watchlist|ff9f4a49-3349-3fce-9977-06bd2c2ddfad",
+    "SG Banks|https://www.channelnewsasia.com/business/bank-korea-chief-says-monetary-policy-stay-restrictive-now-6455781",
+    "Crypto|e687cae0-6e77-3162-9bec-254e97007485",
+    "SG Banks|https://www.channelnewsasia.com/business/scaleway-open-nvidia-powered-computing-site-in-copenhagen-6455791",
+    "SG Banks|https://www.straitstimes.com/business/tencent-draws-strong-demand-for-us4-5-billion-debt-sale-defying-ai-scrutiny",
+    "AI|7ac22970-7b7f-359c-abab-2825c0e32c88",
+    "Watchlist|7ac22970-7b7f-359c-abab-2825c0e32c88",
+    "SG Banks|https://www.straitstimes.com/business/family-offices-kept-captive-by-relationship-managers-turn-to-independent-advisers-direct-deals",
+    "War|2aa95494-6c92-3b21-ade5-44ffeaf5cb42",
+    "AI|da8e8c43-c812-3f6c-8965-721ddb04d293",
+    "Watchlist|81474366-f94e-3fb0-b4a9-8e48d7efea01",
+    "Watchlist|da8e8c43-c812-3f6c-8965-721ddb04d293",
+    "AI|e1af4d86-d8a3-3cc4-967a-d646e07b8fc2"
   ],
   "topic_error": "",
   "last_digest": "2026-10-13",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791890086.848002
+  "last_check": 1791890998.1347148
 }
