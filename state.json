@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/insider-trading-news/verizon-evp-kyle-malady-sells-50325-in-vz-common-stock-93CH-4942468",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/advanced-energy-director-anne-delsanto-sells-82285-in-stock-93CH-4942469",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/verizon-evp-kyle-malady-sells-50325-in-vz-common-stock-93CH-4942468",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/advanced-energy-director-anne-delsanto-sells-82285-in-stock-93CH-4942469",
-    "AI|https://www.investing.com/news/stock-market-news/8-emerging-markets-to-consider-in-2027-hsbc-4942478",
-    "AI|https://www.investing.com/news/economy-news/world-bank-in-talks-with-dozens-of-countries-about-crisis-aid-banga-says-4942479",
     "Crypto|045fb8d5-a1f4-3fb7-afb9-602a80867bea",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/8-emerging-markets-to-consider-in-2027-hsbc-4942478",
     "Cybersecurity|https://www.investing.com/news/economy-news/world-bank-in-talks-with-dozens-of-countries-about-crisis-aid-banga-says-4942479",
@@ -5000,7 +4994,13 @@
     "Watchlist|/companies-markets/nyse-listed-twilio-sets-sights-asia-pacific-ai-adoption-grows-customer-service",
     "Watchlist|/companies-markets/telcos-media-tech/aem-shares-down-8-global-chip-stocks-slide",
     "AI|6f468e28-2e48-33b8-9d33-34d43172eedb",
-    "Watchlist|6f468e28-2e48-33b8-9d33-34d43172eedb"
+    "Watchlist|6f468e28-2e48-33b8-9d33-34d43172eedb",
+    "Crypto|a7e984ae-962c-378f-9b70-f62b22da0a41",
+    "AI|a6f4ad8c-de2d-39dd-ac70-a59d13da84d1",
+    "SG Banks|/companies-markets/capital-markets-currencies/indias-rupee-recovery-faces-test-oil-prices-capital-outflows",
+    "Watchlist|a6f4ad8c-de2d-39dd-ac70-a59d13da84d1",
+    "Watchlist|/companies-markets/capital-markets-currencies/indias-rupee-recovery-faces-test-oil-prices-capital-outflows",
+    "SG Banks|https://www.channelnewsasia.com/business/oil-retreats-russian-diesel-supply-prospects-counter-gulf-supply-risks-6454521"
   ],
   "topic_error": "",
   "last_digest": "2026-10-13",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791880918.8533506
+  "last_check": 1791881822.5840585
 }
