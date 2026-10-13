@@ -1,21 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/china-drafts-rules-to-ban-hidden-car-handles-virtual-controls-4942097",
-    "Watchlist|https://www.investing.com/news/stock-market-news/china-drafts-rules-to-ban-hidden-car-handles-virtual-controls-4942097",
-    "AI|49928618-eb35-3548-8cfc-68ea0222725a",
-    "AI|7435c2b0-63aa-3380-a81c-006f92116502",
-    "Watchlist|49928618-eb35-3548-8cfc-68ea0222725a",
-    "Watchlist|7435c2b0-63aa-3380-a81c-006f92116502",
-    "War|WP-MKTW-0005280721",
-    "AI|WP-MKTW-0005280721",
-    "Cybersecurity|WP-MKTW-0005280721",
-    "AI|9b56cf6b-acd7-341a-b82d-ec414070e9e8",
-    "Watchlist|9b56cf6b-acd7-341a-b82d-ec414070e9e8",
-    "AI|892e997d-7292-30c1-9854-96c0f8092f12",
-    "Watchlist|892e997d-7292-30c1-9854-96c0f8092f12",
-    "War|WP-MKTW-0005269777",
-    "War|WP-MKTW-0005269258",
     "AI|WP-MKTW-0005269777",
     "AI|WP-MKTW-0005269258",
     "Cybersecurity|WP-MKTW-0005269777",
@@ -5000,7 +4985,22 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-china-chip-threat-hits-samsung-sk-hynix-oil-retreats-4945342",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-softbank-group-stock-tumbling-today-93CH-4945343",
     "Iran|https://www.iranintl.com/en/202610085342",
-    "War|6624c30a-b77e-30d9-996f-cb99aaba83c3"
+    "War|6624c30a-b77e-30d9-996f-cb99aaba83c3",
+    "AI|https://www.investing.com/news/stock-market-news/tsmc-asml-earnings-on-tap-bull-and-bear-cases-for-tech-outlined-93CH-4945344",
+    "AI|https://www.investing.com/news/economy-news/imf-cites-ai-slowdown-spiking-yields-as-looming-global-market-risks-4945345",
+    "AI|https://www.investing.com/news/insider-trading-news/anaptysbio-director-renton-hollings-sells-249371-of-shares-93CH-4945355",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/tsmc-asml-earnings-on-tap-bull-and-bear-cases-for-tech-outlined-93CH-4945344",
+    "Cybersecurity|https://www.investing.com/news/economy-news/imf-cites-ai-slowdown-spiking-yields-as-looming-global-market-risks-4945345",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/anaptysbio-director-renton-hollings-sells-249371-of-shares-93CH-4945355",
+    "SG Banks|https://www.investing.com/news/stock-market-news/tsmc-asml-earnings-on-tap-bull-and-bear-cases-for-tech-outlined-93CH-4945344",
+    "SG Banks|https://www.investing.com/news/economy-news/imf-cites-ai-slowdown-spiking-yields-as-looming-global-market-risks-4945345",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/anaptysbio-director-renton-hollings-sells-249371-of-shares-93CH-4945355",
+    "Watchlist|https://www.investing.com/news/stock-market-news/tsmc-asml-earnings-on-tap-bull-and-bear-cases-for-tech-outlined-93CH-4945344",
+    "Watchlist|https://www.investing.com/news/economy-news/imf-cites-ai-slowdown-spiking-yields-as-looming-global-market-risks-4945345",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/anaptysbio-director-renton-hollings-sells-249371-of-shares-93CH-4945355",
+    "Iran|https://www.iranintl.com/en/202610139592",
+    "SG Banks|https://www.channelnewsasia.com/business/oil-falls-russia-diesel-supply-prospects-counter-gulf-supply-risks-6454521",
+    "SG Banks|https://www.channelnewsasia.com/world/imf-ai-investment-global-economic-growth-outlook-6454666"
   ],
   "topic_error": "",
   "last_digest": "2026-10-13",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791862626.6773663
+  "last_check": 1791863511.793441
 }
