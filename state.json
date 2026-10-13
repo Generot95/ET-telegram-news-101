@@ -1,23 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/western-digital-stock-analysis-buy-after-recent-selloff-93CH-4944233",
-    "Watchlist|https://www.investing.com/news/company-news/weave-integrates-carecredit-financing-into-platform-93CH-4944254",
-    "Watchlist|https://www.investing.com/news/company-news/odyssey-therapeutics-to-present-phase-2a-trial-design-for-uc-93CH-4944257",
-    "Watchlist|https://www.investing.com/news/company-news/freshworks-to-acquire-torii-for-saas-and-ai-spend-management-93CH-4944256",
-    "Watchlist|https://www.investing.com/news/company-news/stoke-therapeutics-presents-data-on-adoa-treatment-stk002-93CH-4944265",
-    "AI|1aaf666e-f249-39d8-bd1b-25b3fedb58e9",
-    "Watchlist|1aaf666e-f249-39d8-bd1b-25b3fedb58e9",
-    "AI|0e75cf79-e597-36d3-b10c-39791f20d027",
-    "AI|6c9e3794-dfe2-3b35-a378-3edbcd408ce4",
-    "Watchlist|0e75cf79-e597-36d3-b10c-39791f20d027",
-    "AI|fd7ee691-5128-37ff-ac29-d3cd48ea96c3",
-    "Watchlist|6a7cf0ca-3e9a-3dc6-8a35-43e69cd35dd3",
-    "War|e96d40be-c47e-3870-bba1-2e9f715ef4e7",
-    "AI|060bdc91-1d6f-3301-bf39-82506e28c06a",
-    "SG Banks|/companies-markets/spacexs-us750-billion-rally-breaks-stock-out-post-ipo-funk",
-    "War|f6194faa-ca8b-383a-a9ab-a53b13d91fd1",
-    "Crypto|f6194faa-ca8b-383a-a9ab-a53b13d91fd1",
     "Watchlist|/companies-markets/spacexs-us750-billion-rally-breaks-stock-out-post-ipo-funk",
     "AI|312c3a20-d045-3c12-a82e-5aedc858bc2e",
     "AI|1c711271-8584-3cc5-8a03-fad50439ed81",
@@ -5000,7 +4983,24 @@
     "SG Banks|https://www.channelnewsasia.com/business/fbi-arrests-former-openai-employee-planting-listening-device-6457126",
     "Watchlist|03b10b28-afee-33d9-bbbf-1e3b2103f2c5",
     "Crypto|158a048f-471c-3b13-bd73-9ff078a7aaa0",
-    "Watchlist|5596b8e7-7d02-30d9-b104-69fb64423770"
+    "Watchlist|5596b8e7-7d02-30d9-b104-69fb64423770",
+    "War|WP-MKTW-0005284453",
+    "AI|WP-MKTW-0005284453",
+    "Cybersecurity|ddd35814-70ec-3bf9-b9d8-28ab0d098a47",
+    "Cybersecurity|WP-MKTW-0005284453",
+    "War|7686cd29-a1bb-3108-9dc8-298261c05359",
+    "Watchlist|0c4f463b-a2d0-377e-bb03-83ed8225f268",
+    "War|9a9df8b7-f730-466b-9022-14d55357d410",
+    "War|d089ee10-35aa-371f-b72e-c3ee5967896b",
+    "Watchlist|39d49bd5-d403-34da-bade-909a4b8c182c",
+    "AI|db8e2cc0-b6f6-36c9-8b9f-1b1ae53acff5",
+    "AI|39d49bd5-d403-34da-bade-909a4b8c182c",
+    "Crypto|b749bc97-bb88-3677-954c-728e9297da2e",
+    "SG Banks|https://www.channelnewsasia.com/business/openai-employee-arrested-over-hidden-listening-device-company-says-6457126",
+    "AI|f9a45b31-7974-32a1-a837-4f91c4d780a1",
+    "Watchlist|f9a45b31-7974-32a1-a837-4f91c4d780a1",
+    "War|a5f2d0bc-21fc-3f75-b83c-669fb3640d7f",
+    "SG Banks|/companies-markets/spacexs-us750-billion-rally-breaks-stock-out-post-ipo-funk"
   ],
   "topic_error": "",
   "last_digest": "2026-10-13",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791922194.3853047
+  "last_check": 1791923129.4370236
 }
