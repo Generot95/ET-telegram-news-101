@@ -1,22 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|6ac3e1a0-d95f-33e8-9321-766b60c16446",
-    "AI|d2fdeb1d-8f45-366f-a3cc-c0915874fa8b",
-    "Watchlist|d2fdeb1d-8f45-366f-a3cc-c0915874fa8b",
-    "Watchlist|6ac3e1a0-d95f-33e8-9321-766b60c16446",
-    "Watchlist|cb39b046-1d4c-3710-9784-2eaef0a08568",
-    "AI|https://www.investing.com/news/company-news/lb-pharmaceuticals-presents-data-on-lb102-at-ecnp-congress-93CH-4942090",
-    "Cybersecurity|https://www.investing.com/news/company-news/lb-pharmaceuticals-presents-data-on-lb102-at-ecnp-congress-93CH-4942090",
-    "SG Banks|https://www.investing.com/news/company-news/lb-pharmaceuticals-presents-data-on-lb102-at-ecnp-congress-93CH-4942090",
-    "Watchlist|https://www.investing.com/news/company-news/lb-pharmaceuticals-presents-data-on-lb102-at-ecnp-congress-93CH-4942090",
-    "AI|905f752b-c3bd-3255-8296-8ce478bc9ed3",
-    "Watchlist|905f752b-c3bd-3255-8296-8ce478bc9ed3",
-    "AI|https://www.investing.com/news/stock-market-news/will-rising-french-bond-spreads-disrupt-the-rally-in-european-stocks-4942091",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/will-rising-french-bond-spreads-disrupt-the-rally-in-european-stocks-4942091",
-    "SG Banks|https://www.investing.com/news/stock-market-news/will-rising-french-bond-spreads-disrupt-the-rally-in-european-stocks-4942091",
-    "Watchlist|https://www.investing.com/news/stock-market-news/will-rising-french-bond-spreads-disrupt-the-rally-in-european-stocks-4942091",
-    "Crypto|93f1b929-ba19-34b2-9838-1f04a395c3b5",
     "War|WP-MKTW-0005280601",
     "AI|WP-MKTW-0005280601",
     "Cybersecurity|WP-MKTW-0005280601",
@@ -5000,7 +4984,23 @@
     "SG Banks|https://www.channelnewsasia.com/business/ntt-data-in-final-talks-build-anthropics-first-data-centre-in-japan-nikkei-reports-6454731",
     "SG Banks|/companies-markets/asean-needs-come-together-single-market-continue-attracting-investments-pm-wong",
     "Watchlist|/companies-markets/asean-needs-come-together-single-market-continue-attracting-investments-pm-wong",
-    "AI|271dcdef-cac7-378e-aea5-49c30e62004b"
+    "AI|271dcdef-cac7-378e-aea5-49c30e62004b",
+    "AI|https://www.investing.com/news/stock-market-news/106-75-66-our-ai-just-called-these-energy-breakouts-4945336",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-baby-bunting-stock-surging-today-93CH-4945337",
+    "AI|https://www.investing.com/news/stock-market-news/ntt-data-in-final-talks-to-build-anthropics-first-data-centre-in-japan-nikkei-reports-4945338",
+    "AI|https://www.investing.com/news/company-news/krait-critical-minerals-closes-private-placement-for-173m-93CH-4945341",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/106-75-66-our-ai-just-called-these-energy-breakouts-4945336",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-baby-bunting-stock-surging-today-93CH-4945337",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/ntt-data-in-final-talks-to-build-anthropics-first-data-centre-in-japan-nikkei-reports-4945338",
+    "Cybersecurity|https://www.investing.com/news/company-news/krait-critical-minerals-closes-private-placement-for-173m-93CH-4945341",
+    "SG Banks|https://www.investing.com/news/stock-market-news/106-75-66-our-ai-just-called-these-energy-breakouts-4945336",
+    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-baby-bunting-stock-surging-today-93CH-4945337",
+    "SG Banks|https://www.investing.com/news/stock-market-news/ntt-data-in-final-talks-to-build-anthropics-first-data-centre-in-japan-nikkei-reports-4945338",
+    "SG Banks|https://www.investing.com/news/company-news/krait-critical-minerals-closes-private-placement-for-173m-93CH-4945341",
+    "Watchlist|https://www.investing.com/news/stock-market-news/106-75-66-our-ai-just-called-these-energy-breakouts-4945336",
+    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-baby-bunting-stock-surging-today-93CH-4945337",
+    "Watchlist|https://www.investing.com/news/stock-market-news/ntt-data-in-final-talks-to-build-anthropics-first-data-centre-in-japan-nikkei-reports-4945338",
+    "Watchlist|https://www.investing.com/news/company-news/krait-critical-minerals-closes-private-placement-for-173m-93CH-4945341"
   ],
   "topic_error": "",
   "last_digest": "2026-10-13",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791860763.7620175
+  "last_check": 1791861683.1907809
 }
