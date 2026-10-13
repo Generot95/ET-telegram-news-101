@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/cryptocurrency-news/eos-climbs-17-in-a-green-day-4942011",
-    "AI|https://www.investing.com/news/insider-trading-news/duolingo-president--ceo-luis-von-ahn-sells-167-million-in-stock-93CH-4942016",
-    "AI|https://www.investing.com/news/stock-market-news/european-bank-stocks-slide-8-as-bond-yields-spark-investor-caution--bloomberg-4942017",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/duolingo-president--ceo-luis-von-ahn-sells-167-million-in-stock-93CH-4942016",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/european-bank-stocks-slide-8-as-bond-yields-spark-investor-caution--bloomberg-4942017",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/duolingo-president--ceo-luis-von-ahn-sells-167-million-in-stock-93CH-4942016",
-    "SG Banks|https://www.investing.com/news/stock-market-news/european-bank-stocks-slide-8-as-bond-yields-spark-investor-caution--bloomberg-4942017",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/duolingo-president--ceo-luis-von-ahn-sells-167-million-in-stock-93CH-4942016",
-    "Watchlist|https://www.investing.com/news/stock-market-news/european-bank-stocks-slide-8-as-bond-yields-spark-investor-caution--bloomberg-4942017",
-    "SG Banks|https://www.straitstimes.com/business/india-unveils-tough-curbs-on-dollar-demand-to-defend-rupee",
     "SG Banks|/companies-markets/anthropic-reports-new-ai-misbehaviour-government-cites-and-fake-police-tip-unsolved-homicide",
     "Watchlist|0690e51d-79ab-36a4-aaa0-3aea5a3c08b9",
     "Watchlist|/companies-markets/anthropic-reports-new-ai-misbehaviour-government-cites-and-fake-police-tip-unsolved-homicide",
@@ -5000,7 +4990,17 @@
     "Watchlist|772818cd-823f-31c1-8487-b836ad971721",
     "Watchlist|/international/global/hsbc-moves-wall-street-bonus-model-cuts-fixed-pay-deals",
     "SG Banks|/international/global/imf-says-ai-investment-keeps-global-growth-around-3-brings-massive-disruption",
-    "Watchlist|/international/global/imf-says-ai-investment-keeps-global-growth-around-3-brings-massive-disruption"
+    "Watchlist|/international/global/imf-says-ai-investment-keeps-global-growth-around-3-brings-massive-disruption",
+    "War|WP-MKTW-0005283666",
+    "AI|WP-MKTW-0005283666",
+    "Cybersecurity|WP-MKTW-0005283666",
+    "AI|c444df7a-d197-31e8-984c-c859a13daef6",
+    "AI|f734eee8-0239-3392-9e03-444c811dfd79",
+    "Watchlist|c444df7a-d197-31e8-984c-c859a13daef6",
+    "Watchlist|f734eee8-0239-3392-9e03-444c811dfd79",
+    "SG Banks|/companies-markets/energy-commodities/gold-edges-down-traders-monitor-oil-prices-fed-rate-outlook",
+    "SG Banks|https://www.channelnewsasia.com/business/oil-ticks-lower-russia-diesel-supply-prospects-counter-gulf-supply-risks-6454521",
+    "Watchlist|/companies-markets/energy-commodities/gold-edges-down-traders-monitor-oil-prices-fed-rate-outlook"
   ],
   "topic_error": "",
   "last_digest": "2026-10-13",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791850709.8801684
+  "last_check": 1791851635.9267254
 }
