@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/economy-news/trump-calls-for-new-ukrainian-president-as-us-seeks-russian-diesel-supplies-4942489",
-    "SG Banks|https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
-    "SG Banks|https://www.investing.com/news/stock-market-news/musk-vows-affordable-starlink-in-india-days-before-ambanis-record-jio-ipo-4942487",
-    "SG Banks|https://www.investing.com/news/economy-news/trump-calls-for-new-ukrainian-president-as-us-seeks-russian-diesel-supplies-4942489",
-    "Watchlist|https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
-    "Watchlist|https://www.investing.com/news/stock-market-news/musk-vows-affordable-starlink-in-india-days-before-ambanis-record-jio-ipo-4942487",
-    "Watchlist|https://www.investing.com/news/economy-news/trump-calls-for-new-ukrainian-president-as-us-seeks-russian-diesel-supplies-4942489",
     "AI|WP-MKTW-0005272000",
     "SG Banks|/companies-markets/banking-finance/world-bank-talks-dozens-countries-about-crisis-aid-banga",
     "Watchlist|/companies-markets/banking-finance/world-bank-talks-dozens-countries-about-crisis-aid-banga",
@@ -5000,7 +4993,14 @@
     "Watchlist|eac18bfb-08ea-39bb-8abd-e7d1a30d1532",
     "AI|778fcad3-fb35-3a1f-bc9f-d7e028fb25ae",
     "Watchlist|778fcad3-fb35-3a1f-bc9f-d7e028fb25ae",
-    "Iran|https://www.iranintl.com/en/202610122248"
+    "Iran|https://www.iranintl.com/en/202610122248",
+    "AI|cab7cd91-98d6-3ee4-a2a7-1c209b4d0e37",
+    "Watchlist|cab7cd91-98d6-3ee4-a2a7-1c209b4d0e37",
+    "War|WP-MKTW-0005283692",
+    "AI|WP-MKTW-0005283692",
+    "Cybersecurity|WP-MKTW-0005283692",
+    "War|cf8f27eb-25de-3631-bd5d-cb2639118898",
+    "AI|328a3d68-4854-39eb-8db2-7a751ea8a983"
   ],
   "topic_error": "",
   "last_digest": "2026-10-13",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791882744.1430843
+  "last_check": 1791883670.7042775
 }
