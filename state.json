@@ -1,22 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/microstrategy-buys-250-btc-and-repurchases-192m-in-strc-how-to-read-the-move-93CH-4944407",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/wells-fargo-upgrades-tyler-tech-stock-rating-on-ai-resilience-93CH-4944406",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/wells-fargo-downgrades-adobe-stock-rating-on-growth-concerns-93CH-4944408",
-    "SG Banks|https://www.investing.com/news/stock-market-news/wells-fargo-earnings-preview-what-could-deliver-the-cleanest-upside-surprise-93CH-4944409",
-    "SG Banks|https://www.investing.com/news/stock-market-news/deepseek-backs-extencent-scientists-robotics-startup-winverse-ai--bloomberg-93CH-4944424",
-    "Watchlist|https://www.investing.com/news/company-news/liberty-defense-names-john-percival-as-board-chairman-93CH-4944397",
-    "Watchlist|https://www.investing.com/news/company-news/itron-integrates-gas-and-water-modules-with-att-network-93CH-4944398",
-    "Watchlist|https://www.investing.com/news/stock-market-news/software-sector-extends-fridays-rally-as-analyst-upgrades-ease-ai-disruption-fears-93CH-4944403",
-    "Watchlist|https://www.investing.com/news/stock-market-news/microstrategy-buys-250-btc-and-repurchases-192m-in-strc-how-to-read-the-move-93CH-4944407",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/wells-fargo-upgrades-tyler-tech-stock-rating-on-ai-resilience-93CH-4944406",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/wells-fargo-downgrades-adobe-stock-rating-on-growth-concerns-93CH-4944408",
-    "Watchlist|https://www.investing.com/news/stock-market-news/wells-fargo-earnings-preview-what-could-deliver-the-cleanest-upside-surprise-93CH-4944409",
-    "Watchlist|https://www.investing.com/news/stock-market-news/deepseek-backs-extencent-scientists-robotics-startup-winverse-ai--bloomberg-93CH-4944424",
-    "Iran|https://www.iranintl.com/en/202610097201",
-    "AI|7174b314-05be-4d15-9169-cc44b8bf61ac",
-    "Watchlist|7174b314-05be-4d15-9169-cc44b8bf61ac",
     "Crypto|cb5dce9b-c39d-3dc0-870e-4c3e1365154a",
     "War|0da5868f-2abe-3580-af66-e41ccedfa798",
     "War|45d6899b-fe76-39c4-aac1-464ec5d840d4",
@@ -5000,7 +4984,23 @@
     "SG Banks|/companies-markets/energy-commodities/saudi-arabia-eyes-raising-its-pipeline-oil-export-capacity-10-million-bpd-energy-minister",
     "SG Banks|https://www.channelnewsasia.com/business/saudi-openai-engineer-arrested-fbi-over-hidden-recording-device-us-doj-says-6457126",
     "Watchlist|/companies-markets/energy-commodities/saudi-arabia-eyes-raising-its-pipeline-oil-export-capacity-10-million-bpd-energy-minister",
-    "Cybersecurity|0a739204-8688-3f93-8a27-22eaa75eaa45"
+    "Cybersecurity|0a739204-8688-3f93-8a27-22eaa75eaa45",
+    "Watchlist|00111fb4-b783-3df8-bf8d-c2757870daeb",
+    "AI|e8156d42-8490-3dde-ae5e-1a6579b48ff1",
+    "AI|00111fb4-b783-3df8-bf8d-c2757870daeb",
+    "AI|2eaa0f59-1178-38e5-bb5c-20bcfb88d058",
+    "Watchlist|e8156d42-8490-3dde-ae5e-1a6579b48ff1",
+    "Watchlist|2eaa0f59-1178-38e5-bb5c-20bcfb88d058",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/nasdaq-ends-lower-as-chipmakers-fall-and-bank-earnings-roll-in",
+    "War|34f147fb-ff7f-3cd4-8fb9-ea9f0711cfee",
+    "Iran|https://www.iranintl.com/en/202610131837",
+    "SG Banks|https://www.channelnewsasia.com/business/apples-homeview-brings-personalized-siri-smart-home-takes-amazon-and-google-6457236",
+    "Watchlist|285e4381-1123-3dac-bd58-d8af69f0894b",
+    "AI|285e4381-1123-3dac-bd58-d8af69f0894b",
+    "AI|5eff037c-434b-3085-ba61-324e6dc20070",
+    "Watchlist|5eff037c-434b-3085-ba61-324e6dc20070",
+    "Iran|https://www.iranintl.com/en/202610097201",
+    "War|442ab7aa-bfe3-4a14-8c29-0c9af42e9462"
   ],
   "topic_error": "",
   "last_digest": "2026-10-13",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791925957.8532763
+  "last_check": 1791926869.570077
 }
