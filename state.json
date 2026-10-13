@@ -1,22 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|/companies-markets/spacexs-us750-billion-rally-breaks-stock-out-post-ipo-funk",
-    "AI|312c3a20-d045-3c12-a82e-5aedc858bc2e",
-    "AI|1c711271-8584-3cc5-8a03-fad50439ed81",
-    "Watchlist|312c3a20-d045-3c12-a82e-5aedc858bc2e",
-    "Watchlist|1c711271-8584-3cc5-8a03-fad50439ed81",
-    "AI|68498ef8-f735-3c3e-9eb6-03937e222926",
-    "Crypto|61776c7a-1102-3862-a509-16fc344441be",
-    "Watchlist|68498ef8-f735-3c3e-9eb6-03937e222926",
-    "AI|https://www.investing.com/news/analyst-ratings/rodman--renshaw-initiates-hemab-stock-with-buy-on-therapy-potential-93CH-4944311",
-    "AI|https://www.investing.com/news/analyst-ratings/stonex-reiterates-roblox-stock-sell-rating-on-viral-game-concerns-93CH-4944310",
-    "AI|https://www.investing.com/news/analyst-ratings/stephens-raises-sailpoint-stock-price-target-on-identity-platform-progress-93CH-4944312",
-    "AI|https://www.investing.com/news/analyst-ratings/stonex-reiterates-buy-on-lifeway-foods-stock-35-target-93CH-4944313",
-    "AI|https://www.investing.com/news/economy-news/saudi-arabia-to-boost-pipeline-crude-export-capacity-to-10m-bpd-4944315",
-    "AI|https://www.investing.com/news/stock-market-news/basf-pledges-to-protect-evonik-jobs-and-german-sites-in-any-takeover--report-93CH-4944316",
-    "AI|https://www.investing.com/news/company-news/fg-communities-acquires-49homesite-property-in-north-carolina-93CH-4944317",
-    "AI|https://www.investing.com/news/stock-market-news/bofa-double-upgrades-salesforce-to-buy-on-ai-strategy-nearly-doubles-target-4944274",
     "AI|https://www.investing.com/news/stock-market-news/deepseek-to-lead-funding-round-for-robotics-ai-startup-winverse-at-400-mln--report-93CH-4944293",
     "AI|https://www.investing.com/news/stock-market-news/micron-stock-why-pullback-looks-like-a-timing-reset-not-a-broken-trend-93CH-4944301",
     "AI|https://www.investing.com/news/company-news/applebees-brings-back-sizzlin-skillets-starting-at-1299-93CH-4944283",
@@ -5000,7 +4984,23 @@
     "AI|f9a45b31-7974-32a1-a837-4f91c4d780a1",
     "Watchlist|f9a45b31-7974-32a1-a837-4f91c4d780a1",
     "War|a5f2d0bc-21fc-3f75-b83c-669fb3640d7f",
-    "SG Banks|/companies-markets/spacexs-us750-billion-rally-breaks-stock-out-post-ipo-funk"
+    "SG Banks|/companies-markets/spacexs-us750-billion-rally-breaks-stock-out-post-ipo-funk",
+    "War|042e9856-9b0a-31f3-9f16-ec60b46263e6",
+    "Crypto|042e9856-9b0a-31f3-9f16-ec60b46263e6",
+    "Watchlist|/companies-markets/spacexs-us750-billion-rally-breaks-stock-out-post-ipo-funk",
+    "Watchlist|326812dd-41c4-33c2-b42b-df9cb28ba9d5",
+    "War|b7094f4c-8ba3-3370-9dba-c4686b067d06",
+    "War|4e784cb8-ba34-4c3c-ac66-6f41994418d1",
+    "AI|ba5ff01c-d891-3fbd-8e34-ea096cbe193c",
+    "AI|28207527-1982-32e5-96f3-49119993b93e",
+    "Watchlist|ba5ff01c-d891-3fbd-8e34-ea096cbe193c",
+    "Watchlist|28207527-1982-32e5-96f3-49119993b93e",
+    "AI|c0c73a69-5e90-31bc-b96b-bbad5d571a17",
+    "Watchlist|c0c73a69-5e90-31bc-b96b-bbad5d571a17",
+    "SG Banks|https://www.channelnewsasia.com/business/att-sell-mexico-unit-2-billion-6457171",
+    "War|9c0b1daf-e6c7-3a5e-82c4-a3f67983510a",
+    "Watchlist|9c0b1daf-e6c7-3a5e-82c4-a3f67983510a",
+    "War|b9902e2e-b3da-4099-8bd0-9c9d4300b631"
   ],
   "topic_error": "",
   "last_digest": "2026-10-13",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791923129.4370236
+  "last_check": 1791924039.5983875
 }
