@@ -1,20 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/nlb-plans-300-million-subordinated-notes-issuance-93CH-4943403",
-    "SG Banks|https://www.investing.com/news/stock-market-news/hays-quarterly-fees-fall-3-as-permanent-recruitment-remains-weak-4943213",
-    "SG Banks|https://www.investing.com/news/stock-market-news/intel-ceo-says-chinese-frontier-ai-model-adoption-has-been-very-fast-4943404",
-    "SG Banks|https://www.investing.com/news/stock-market-news/volkswagen-reports-14-drop-in-third-quarter-deliveries-4943266",
-    "SG Banks|https://www.investing.com/news/economy-news/oil-falls-cpi-and-bank-earnings-in-focus--whats-moving-markets-4943402",
-    "SG Banks|https://www.investing.com/news/stock-market-news/stellantis-renault-gain-as-eu-china-agree-to-curb-chinese-hybrid-car-exports-4943405",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/jpmorgan-downgrades-enact-holdings-stock-rating-on-valuation-93CH-4943406",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-vallourec-stock-rallying-today-93CH-4943407",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-nexans-stock-climbing-today-93CH-4943408",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-nordic-mining-stock-surging-today-93CH-4943394",
-    "Watchlist|https://www.investing.com/news/company-news/nlb-plans-300-million-subordinated-notes-issuance-93CH-4943403",
-    "Watchlist|https://www.investing.com/news/stock-market-news/hays-quarterly-fees-fall-3-as-permanent-recruitment-remains-weak-4943213",
-    "Watchlist|https://www.investing.com/news/stock-market-news/intel-ceo-says-chinese-frontier-ai-model-adoption-has-been-very-fast-4943404",
-    "Watchlist|https://www.investing.com/news/stock-market-news/volkswagen-reports-14-drop-in-third-quarter-deliveries-4943266",
     "Watchlist|https://www.investing.com/news/economy-news/oil-falls-cpi-and-bank-earnings-in-focus--whats-moving-markets-4943402",
     "Watchlist|https://www.investing.com/news/stock-market-news/stellantis-renault-gain-as-eu-china-agree-to-curb-chinese-hybrid-car-exports-4943405",
     "Watchlist|https://www.investing.com/news/analyst-ratings/jpmorgan-downgrades-enact-holdings-stock-rating-on-valuation-93CH-4943406",
@@ -5000,7 +4986,21 @@
     "SG Banks|https://www.straitstimes.com/business/companies-markets/human-judgment-and-intentional-outcomes-are-vital-in-ai-use-dbs-tiktok-ceos-say",
     "Watchlist|ab98f1ab-0183-398d-93d5-59b9ee3be160",
     "SG Banks|https://www.channelnewsasia.com/business/goolsbee-says-ai-induced-inflation-jumping-out-its-lane-semafor-reports-6456476",
-    "War|bfda4c3e-8c82-480c-b34c-3ac5b024608d"
+    "War|bfda4c3e-8c82-480c-b34c-3ac5b024608d",
+    "AI|ce495ace-067e-300e-8427-8aabbe38f7b9",
+    "Watchlist|ce495ace-067e-300e-8427-8aabbe38f7b9",
+    "Watchlist|3f41c10f-f05f-38b1-bdda-1193c57eb1f0",
+    "AI|8ac3d105-a5d8-3b13-a4bb-626c31c46086",
+    "Watchlist|8ac3d105-a5d8-3b13-a4bb-626c31c46086",
+    "AI|b0c51731-90e1-3a18-937f-dbd95f44eeaa",
+    "Watchlist|b0c51731-90e1-3a18-937f-dbd95f44eeaa",
+    "AI|d444a472-dee0-3ba3-88db-bd1f55cce189",
+    "Crypto|8821416b-6d2f-302d-a3f6-6c19b7942bb8",
+    "Watchlist|d444a472-dee0-3ba3-88db-bd1f55cce189",
+    "Watchlist|409b982b-a900-3a38-9d29-81d893b54bb6",
+    "AI|886fb08e-8edf-311c-9bf5-196393bf9bdc",
+    "Watchlist|886fb08e-8edf-311c-9bf5-196393bf9bdc",
+    "Watchlist|db8e1966-1745-31de-a0f3-aa18c7efa196"
   ],
   "topic_error": "",
   "last_digest": "2026-10-13",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791902938.4455452
+  "last_check": 1791903836.1421113
 }
