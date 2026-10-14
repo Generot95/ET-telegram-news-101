@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/electrica-updates-third-quarter-2026-reporting-schedule-93CH-4944842",
-    "AI|https://www.investing.com/news/stock-market-news/truist-names-top-infrastructure-services-stocks-4944843",
-    "AI|https://www.investing.com/news/economy-news/analysisus-yield-surge-triggers-mortgage-hedging-adds-to-bond-market-pressure-4944828",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-credo-technology-stock-sliding-today-93CH-4944844",
-    "AI|https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-001-4944845",
     "AI|https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-010-4944846",
     "AI|https://www.investing.com/news/stock-market-news/highyield-tsx-stocks-offer-income-opportunities-as-inflation-risks-persist-93CH-4944821",
     "AI|https://www.investing.com/news/stock-market-news/why-is-cerebras-systems-stock-sliding-to-a-new-52week-low-today-93CH-4944822",
@@ -5000,7 +4995,12 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/chime-financial-cofounder--director-king-sells-148m-in-stock-93CH-4947817",
     "Watchlist|https://www.investing.com/news/stock-market-news/nikkei-225-coiled-in-ichimoku-cloud-live-levels-93CH-4942960",
     "Watchlist|https://www.investing.com/news/stock-market-news/sk-hynix-oversold-near-support-after-15-slide-live-levels-93CH-4942961",
-    "Watchlist|https://www.investing.com/news/stock-market-news/blackstone-in-talks-to-invest-up-to-500m-in-accord-systems-mint-93CH-4947821"
+    "Watchlist|https://www.investing.com/news/stock-market-news/blackstone-in-talks-to-invest-up-to-500m-in-accord-systems-mint-93CH-4947821",
+    "SG Banks|https://www.channelnewsasia.com/business/dollar-languishes-focus-turns-cpi-fed-speakers-6457446",
+    "AI|087b42e6-74c2-381e-8426-0a3f9a910579",
+    "SG Banks|https://www.channelnewsasia.com/business/oil-prices-climb-traders-weigh-saudi-supply-risk-russian-diesel-flow-6457466",
+    "SG Banks|/companies-markets/singapore-build-digital-bunkering-data-ecosystem",
+    "Watchlist|/companies-markets/singapore-build-digital-bunkering-data-ecosystem"
   ],
   "topic_error": "",
   "last_digest": "2026-10-14",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791940614.2264788
+  "last_check": 1791941535.213264
 }
