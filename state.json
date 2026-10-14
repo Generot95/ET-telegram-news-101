@@ -1,20 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/cactus-president-joel-bender-sells-619-million-in-class-a-shares-93CH-4945362",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/cactus-ceo-scott-bender-sells-62m-in-nasdaqwhd-shares-93CH-4945361",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/rubrik-director-john-thompson-sells-156-million-in-shares-93CH-4945363",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/rivian-cao-michael-callahan-sells-225000-in-shares-93CH-4945370",
-    "Cybersecurity|https://www.investing.com/news/economy-news/trump-says-russia-china-not-helping-iran-4945371",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/oric-pharmaceuticals-director-heyman-sells-86524-in-oric-stock-93CH-4945360",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/cactus-president-joel-bender-sells-619-million-in-class-a-shares-93CH-4945362",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/cactus-ceo-scott-bender-sells-62m-in-nasdaqwhd-shares-93CH-4945361",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/rubrik-director-john-thompson-sells-156-million-in-shares-93CH-4945363",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/rivian-cao-michael-callahan-sells-225000-in-shares-93CH-4945370",
-    "SG Banks|https://www.investing.com/news/economy-news/trump-says-russia-china-not-helping-iran-4945371",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/oric-pharmaceuticals-director-heyman-sells-86524-in-oric-stock-93CH-4945360",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/cactus-president-joel-bender-sells-619-million-in-class-a-shares-93CH-4945362",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/cactus-ceo-scott-bender-sells-62m-in-nasdaqwhd-shares-93CH-4945361",
     "Watchlist|https://www.investing.com/news/insider-trading-news/rubrik-director-john-thompson-sells-156-million-in-shares-93CH-4945363",
     "Watchlist|https://www.investing.com/news/insider-trading-news/rivian-cao-michael-callahan-sells-225000-in-shares-93CH-4945370",
     "Watchlist|https://www.investing.com/news/economy-news/trump-says-russia-china-not-helping-iran-4945371",
@@ -5000,7 +4986,21 @@
     "Iran|https://www.iranintl.com/en/202610139592",
     "AI|https://www.investing.com/news/company-news/aep-to-invest-4b-in-wyoming-fuel-cell-project-for-google-93CH-4949155",
     "Cybersecurity|https://www.investing.com/news/company-news/aep-to-invest-4b-in-wyoming-fuel-cell-project-for-google-93CH-4949155",
-    "Watchlist|/companies-markets/asean-needs-come-together-single-market-continue-attracting-investments-pm-wong"
+    "Watchlist|/companies-markets/asean-needs-come-together-single-market-continue-attracting-investments-pm-wong",
+    "AI|703b208b-a2bb-3f09-95e0-301163c5ea2e",
+    "Watchlist|703b208b-a2bb-3f09-95e0-301163c5ea2e",
+    "Cybersecurity|3d02d431-4fdf-3af1-b6e9-259b2fd3a72c",
+    "Crypto|d245dcc7-c344-310d-9376-df665f342c6b",
+    "SG Banks|https://www.channelnewsasia.com/business/hyundai-motor-india-invest-116-billion-expand-capacity-pune-city-plant-6459021",
+    "War|e96936d1-9f47-4abf-ba0e-09ae4bee9ef5",
+    "AI|e3487f9d-05bc-30b2-9286-bd7f63874a08",
+    "AI|9629e6a0-2992-3761-b892-835aa711468d",
+    "Watchlist|e3487f9d-05bc-30b2-9286-bd7f63874a08",
+    "War|4f72edfb-2c4c-356f-953a-4187fdf08d61",
+    "AI|a1713300-1e57-314e-a62f-9f9736c929c1",
+    "AI|fe3f2866-54e5-3c73-a807-ec05adfa87d3",
+    "SG Banks|https://www.channelnewsasia.com/business/japan-invest-up-21-billion-in-two-us-chip-factories-be-run-globalfoundries-6459101",
+    "Watchlist|a1713300-1e57-314e-a62f-9f9736c929c1"
   ],
   "topic_error": "",
   "last_digest": "2026-10-14",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791980930.7996268
+  "last_check": 1791981852.9630284
 }
