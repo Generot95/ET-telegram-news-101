@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/hcltech-q2-fy27-slides-ai-revenue-surges-78-margins-expand-93CH-4944895",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-strong-buy-on-mirum-stock-after-trial-data-93CH-4944896",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-063-4944898",
-    "Cybersecurity|https://www.investing.com/news/company-news/idt-corporation-stock-hits-alltime-high-at-8242-usd-93CH-4944900",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-microsoft-stock-climbing-today-93CH-4944901",
     "Cybersecurity|https://www.investing.com/news/commodities-news/trump-defends-russia-diesel-deal-amid-bipartisan-criticism-4944902",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/muse-buys-a-watermelon-inside-zuckerbergs-ai-tease-4944889",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/french-borrowing-costs-rise-amid-deficit-concerns-93CH-4944903",
@@ -5000,7 +4995,12 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/should-you-still-buy-this-aipicked-energy-refiner-after-an-82-run-4947911",
     "Watchlist|https://www.investing.com/news/economy-news/imf-says-it-is-not-recommending-faster-uk-fiscal-consolidation-4947904",
     "SG Banks|/singapore/smes/if-you-can-make-it-singapore-you-can-make-it-anywhere-minor-food-ceo",
-    "Watchlist|/singapore/smes/if-you-can-make-it-singapore-you-can-make-it-anywhere-minor-food-ceo"
+    "Watchlist|/singapore/smes/if-you-can-make-it-singapore-you-can-make-it-anywhere-minor-food-ceo",
+    "AI|a2b1b9cf-bf4f-3e23-934e-e8832a4febfd",
+    "Watchlist|a2b1b9cf-bf4f-3e23-934e-e8832a4febfd",
+    "War|cf5f41ce-90f5-3a98-842a-b5109dfb509c",
+    "AI|33d5d8ce-f449-3bc4-96a8-0738fe93fb77",
+    "AI|93163cf6-4dab-396a-803e-47c1145bb30f"
   ],
   "topic_error": "",
   "last_digest": "2026-10-14",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791947028.0551493
+  "last_check": 1791947952.24764
 }
