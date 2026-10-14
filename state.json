@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|fad32dbb-aafa-31d5-9f53-f6824a809b4c",
-    "Watchlist|https://www.investing.com/news/stock-market-news/microsoft-plans-huge-deployment-of-its-own-ai-chips-with-an-eye-on-saving-costs-4944480",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-figs-stock-surging-today-93CH-4944871",
-    "Watchlist|https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-056-4944872",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-victorias-secret-stock-rallying-today-93CH-4944874",
-    "Watchlist|https://www.investing.com/news/stock-market-news/mit-sues-amazon-over-cloud-security-patent-violations-93CH-4944876",
     "Watchlist|https://www.investing.com/news/company-news/dpc-holdings-to-sell-ivostud-business-to-lenbach-equity-93CH-4944877",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-hcltech-posts-strong-q2-2026-ailed-growth-93CH-4944880",
     "Watchlist|https://www.investing.com/news/stock-market-news/ebay-named-morgan-stanley-top-pick-on-live-commerce-flywheel-stock-surges-4944881",
@@ -5000,7 +4994,13 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/hang-seng-presses-cloud-resistance-at-24372-live-levels-93CH-4943001",
     "Watchlist|https://www.investing.com/news/economy-news/imf-says-higher-bond-yields-underscore-urgency-of-fiscal-consolidation-4947879",
     "Watchlist|https://www.investing.com/news/economy-news/asia-shares-edge-up-as-chip-selloff-eases-us-cpi-awaited-4947869",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-ebrs-q3-2026-revenue-miss-sparks-sharp-selloff-93CH-4947880"
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-ebrs-q3-2026-revenue-miss-sparks-sharp-selloff-93CH-4947880",
+    "SG Banks|/companies-markets/microsoft-hits-first-record-year-after-us1-4-trillion-rally-shares-soar-54-june-low",
+    "Watchlist|/companies-markets/microsoft-hits-first-record-year-after-us1-4-trillion-rally-shares-soar-54-june-low",
+    "War|69ce21dd-63bf-3571-a9ae-92fec304ba5b",
+    "Crypto|f094d608-ec4c-3f09-a5c0-7fa60e6c39ed",
+    "AI|1f4966fe-1416-30b4-b453-62c559798f75",
+    "Watchlist|1f4966fe-1416-30b4-b453-62c559798f75"
   ],
   "topic_error": "",
   "last_digest": "2026-10-14",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791944288.229478
+  "last_check": 1791945204.5102108
 }
