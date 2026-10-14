@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-098-4944942",
-    "SG Banks|https://www.investing.com/news/company-news/regeneron-reports-sustained-efficacy-for-fop-treatment-pasatru-93CH-4944943",
-    "SG Banks|https://www.investing.com/news/stock-market-news/musk-has-spent-366-million-to-help-republicans-retain-control-of-congress-4944944",
     "SG Banks|https://www.investing.com/news/stock-market-news/dynatrace-gains-on-raised-rbc-target-and-federal-cloud-security-milestone-4944955",
     "Watchlist|https://www.investing.com/news/stock-market-news/portugal-stocks-higher-at-close-of-trade-psi-up-047-4944939",
     "Watchlist|https://www.investing.com/news/stock-market-news/spain-stocks-higher-at-close-of-trade-ibex-35-up-133-4944940",
@@ -5000,7 +4997,10 @@
     "AI|4644f926-660d-39ac-8851-55774c26f6a3",
     "War|1d7667b3-c3d4-3cf4-82d6-a1d71d20f576",
     "AI|7c9aac1e-9db0-3f84-9f84-03aca728c81d",
-    "Watchlist|7c9aac1e-9db0-3f84-9f84-03aca728c81d"
+    "Watchlist|7c9aac1e-9db0-3f84-9f84-03aca728c81d",
+    "Iran|https://www.iranintl.com/en/202610146205",
+    "AI|1b54f22a-858b-3a17-ab7a-6affdbbd9bf3",
+    "Watchlist|1b54f22a-858b-3a17-ab7a-6affdbbd9bf3"
   ],
   "topic_error": "",
   "last_digest": "2026-10-14",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791953435.9336596
+  "last_check": 1791954346.3865087
 }
