@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/analyst-ratings/bernstein-socgen-cuts-boeing-stock-price-target-on-delivery-delays-93CH-4944692",
-    "Watchlist|https://www.investing.com/news/company-news/graphic-packaging-holding-stock-hits-52week-low-at-821-93CH-4944693",
-    "Watchlist|https://www.investing.com/news/stock-market-news/frasers-raises-burberry-stake-to-74-in-latest-share-purchase-93CH-4944694",
-    "Watchlist|https://www.investing.com/news/company-news/riley-exploration-permian-stock-hits-52week-high-at-4598-usd-93CH-4944696",
-    "Watchlist|https://www.investing.com/news/stock-market-news/wall-st-steady-at-open-as-oil-jumps-ahead-of-key-earnings-4944673",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-sandisk-stock-sliding-today-93CH-4944697",
     "Watchlist|https://www.investing.com/news/commodities-news/morning-bid-diesel-diplomacy-4943888",
     "Watchlist|https://www.investing.com/news/company-news/torm-plc-stock-hits-52week-high-at-4157-usd-93CH-4944698",
     "Iran|https://www.iranintl.com/en/202610097800",
@@ -5000,10 +4994,16 @@
     "AI|61220585-9d46-3f28-bbb0-0e0adc21b1da",
     "Watchlist|61220585-9d46-3f28-bbb0-0e0adc21b1da",
     "AI|3b43a701-5ceb-3812-8592-1db95e35a02e",
-    "Watchlist|3b43a701-5ceb-3812-8592-1db95e35a02e"
+    "Watchlist|3b43a701-5ceb-3812-8592-1db95e35a02e",
+    "AI|c4334f65-5639-30dc-b710-f2c7ab038800",
+    "Watchlist|c4334f65-5639-30dc-b710-f2c7ab038800",
+    "War|b1dc2b8f-bae9-32db-9519-0a1f247ccff3",
+    "AI|58b6a31f-593e-381a-b265-23130eab66c3",
+    "Watchlist|58b6a31f-593e-381a-b265-23130eab66c3",
+    "Crypto|4ad9ecc5-be04-336b-b5ae-2a512dff65b3"
   ],
   "topic_error": "",
-  "last_digest": "2026-10-13",
+  "last_digest": "2026-10-14",
   "earnings": {
     "AMD": {
       "ts": 1793736000,
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791935126.741934
+  "last_check": 1791936029.0381496
 }
