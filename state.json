@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/jpmorgan-earnings-preview-what-to-watch-when-jpm-reports-tuesday-93CH-4945000",
-    "SG Banks|https://www.investing.com/news/stock-market-news/ebay-stock-analysis-morgan-stanleys-flywheel-thesis-meets-stretched-technicals-93CH-4945001",
-    "SG Banks|https://www.investing.com/news/stock-market-news/johnson--johnson-q3-earnings-preview-eps-consensus-guidance-and-key-watch-items-93CH-4945002",
-    "SG Banks|https://www.investing.com/news/economy-news/feds-hammack-calls-for-quick-move-to-restrictive-policy-4945003",
-    "SG Banks|https://www.investing.com/news/stock-market-news/unh-earnings-preview-key-metrics-and-estimates-ahead-of-q3-2026-results-93CH-4945004",
-    "SG Banks|https://www.investing.com/news/stock-market-news/us-inflation-data-preview-september-cpi-and-what-it-means-for-markets-93CH-4945005",
-    "SG Banks|https://www.investing.com/news/stock-market-news/microsoft-stock-outlook-azure-growth-and-earnings-set-to-drive-next-move-93CH-4945006",
-    "SG Banks|https://www.investing.com/news/company-news/gamestop-stock-hits-52week-high-at-2688-93CH-4945007",
-    "SG Banks|https://www.investing.com/news/economy-news/two-turkish-nationals-detained-in-germany-over-poland-fire-93CH-4945008",
     "Watchlist|https://www.investing.com/news/stock-market-news/jpmorgan-earnings-preview-what-to-watch-when-jpm-reports-tuesday-93CH-4945000",
     "Watchlist|https://www.investing.com/news/stock-market-news/ebay-stock-analysis-morgan-stanleys-flywheel-thesis-meets-stretched-technicals-93CH-4945001",
     "Watchlist|https://www.investing.com/news/stock-market-news/johnson--johnson-q3-earnings-preview-eps-consensus-guidance-and-key-watch-items-93CH-4945002",
@@ -5000,7 +4991,16 @@
     "SG Banks|https://www.channelnewsasia.com/business/chinas-september-exports-soar-putting-us1-trillion-trade-surplus-in-sight-6457491",
     "SG Banks|https://www.channelnewsasia.com/business/nvidia-pledges-250-million-boost-uk-ai-safety-research-6458176",
     "SG Banks|https://www.channelnewsasia.com/business/lseg-teams-up-nvidia-faster-market-data-processing-6458171",
-    "SG Banks|https://www.channelnewsasia.com/business/china-september-exports-growth-trade-surplus-6457491"
+    "SG Banks|https://www.channelnewsasia.com/business/china-september-exports-growth-trade-surplus-6457491",
+    "AI|3767eef2-0177-3079-a489-3f6c63c40c1a",
+    "SG Banks|https://www.channelnewsasia.com/business/south-korea-finds-hacking-incidents-total-16-financial-firms-6458186",
+    "Watchlist|3767eef2-0177-3079-a489-3f6c63c40c1a",
+    "SG Banks|/companies-markets/banking-finance/singapores-pdg-seeking-us1-2-billion-loan-johor-data-centre-source",
+    "Watchlist|/companies-markets/banking-finance/singapores-pdg-seeking-us1-2-billion-loan-johor-data-centre-source",
+    "War|93ec0913-c34b-34a2-9049-5d4712a06e48",
+    "SG Banks|https://www.straitstimes.com/business/demand-for-air-con-servicing-heats-up-amid-worsening-haze-in-spore",
+    "SG Banks|https://www.straitstimes.com/business/chinas-september-exports-soar-putting-1-trillion-trade-surplus-in-sight",
+    "SG Banks|https://www.channelnewsasia.com/business/oil-prices-rise-iran-deploys-new-tactics-target-ships-transiting-hormuz-6457466"
   ],
   "topic_error": "",
   "last_digest": "2026-10-14",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791959847.2365296
+  "last_check": 1791960770.8068187
 }
