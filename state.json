@@ -1,22 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/earnings/dominos-pizza-inc-earnings-beat-by-024-revenue-topped-estimates-4946004",
-    "AI|https://www.investing.com/news/analyst-ratings/bofa-raises-ase-technology-stock-price-target-on-strong-results-93CH-4946006",
-    "AI|https://www.investing.com/news/analyst-ratings/wells-fargo-raises-crescent-energy-price-target-on-asset-deal-scale-93CH-4946007",
-    "AI|https://www.investing.com/news/stock-market-news/exclusivebehind-ai-industrys-call-for-independent-reviews-a-fight-over-what-gets-made-public-4945991",
-    "AI|https://www.investing.com/news/stock-market-news/analysisdemocratic-midterm-wins-could-bring-scrutiny-for-wall-street-crypto-firms-4946013",
-    "AI|https://www.investing.com/news/economy-news/imf-flags-risks-to-global-economy-from-ai-market-correction-war-and-debt-4946017",
-    "AI|https://www.investing.com/news/stock-market-news/exclusivebank-of-america-loses-bankers-tells-staff-of-big-ambition-continued-hiring-4945993",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-unitedhealth-stock-rallying-today-93CH-4945959",
-    "AI|https://www.investing.com/news/stock-market-news/apple-to-unveil-new-smart-home-products-showcasing-updated-siri-ai-4945992",
-    "AI|https://www.investing.com/news/stock-market-news/scientists-call-for-international-body-to-oversee-advanced-ai-4945994",
-    "AI|https://www.investing.com/news/stock-market-news/explainercould-hackers-get-inside-my-fridge-4945997",
-    "AI|https://www.investing.com/news/stock-market-news/unitedhealth-group-raises-profit-forecast-on-thirdquarter-earnings-beat-4945967",
-    "AI|https://www.investing.com/news/stock-market-news/europes-massmarket-carmakers-under-enormous-pressure-volkswagen-ceo-says-4945999",
-    "AI|https://www.investing.com/news/company-news/eplanet-brokers-publishes-h1-2026-transparency-report-and-highlights-best-broker-2026-award-4945964",
-    "AI|https://www.investing.com/news/company-news/uk-sells-500-million-of-4-treasury-gilt-2063-at-auction-93CH-4945973",
-    "AI|https://www.investing.com/news/company-news/oshkosh-defense-begins-production-of-dutch-patrol-vehicle-prototype-93CH-4945981",
     "AI|https://www.investing.com/news/company-news/enerflex-secures-1gigawatt-power-generation-contract-93CH-4945983",
     "AI|https://www.investing.com/news/company-news/tower-semiconductor-semtech-expand-sige-capacity-deal-for-ai-93CH-4945984",
     "Cybersecurity|https://www.investing.com/news/company-news/cognition-therapeutics-receives-patent-for-zervimesine-form-93CH-4946000",
@@ -5000,7 +4984,23 @@
     "Iran|https://www.iranintl.com/en/202610138522",
     "SG Banks|/esg/singapore-lithium-battery-recycling-startup-neu-battery-materials-raises-us7-6-million",
     "SG Banks|https://www.straitstimes.com/business/raising-financially-capable-children-begins-before-their-first-dollar",
-    "Watchlist|/esg/singapore-lithium-battery-recycling-startup-neu-battery-materials-raises-us7-6-million"
+    "Watchlist|/esg/singapore-lithium-battery-recycling-startup-neu-battery-materials-raises-us7-6-million",
+    "War|e0c6d9e5-32f9-3371-9e9c-3e4b3d393704",
+    "Watchlist|7609dbba-d1a8-33de-8c01-575a2f0a1294",
+    "Cybersecurity|d3e6076a-72c2-3dae-bce4-fa627b6d66a0",
+    "SG Banks|https://www.investing.com/news/company-news/fastenal-q3-2026-slides-earnings-growth-outpaces-155-sales-gain-93CH-4949690",
+    "SG Banks|https://www.investing.com/news/company-news/abbvie-stock-hits-alltime-high-at-28344-usd-93CH-4949691",
+    "Watchlist|https://www.investing.com/news/company-news/fastenal-q3-2026-slides-earnings-growth-outpaces-155-sales-gain-93CH-4949690",
+    "Watchlist|https://www.investing.com/news/company-news/abbvie-stock-hits-alltime-high-at-28344-usd-93CH-4949691",
+    "War|3c4122ae-db14-3190-b4a9-4198a3f7a4fe",
+    "AI|068073bf-21df-3022-ae93-5c8f4b05e036",
+    "AI|d70bb283-eec7-3b38-8d60-2cc273694e18",
+    "Watchlist|d70bb283-eec7-3b38-8d60-2cc273694e18",
+    "Watchlist|2d059681-e3f6-38cc-a1eb-13f34b377732",
+    "Iran|https://www.iranintl.com/en/202610147742",
+    "AI|27d26970-ff69-30ec-92db-8af40c7c8b09",
+    "Watchlist|b81c7909-fa16-30ec-be4c-04c1f5b48aee",
+    "Watchlist|1ec68aa2-4906-322e-94db-7862e5f6b7a1"
   ],
   "topic_error": "",
   "last_digest": "2026-10-14",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791991943.6155584
+  "last_check": 1791992865.206699
 }
