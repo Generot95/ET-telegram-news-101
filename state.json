@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/dynatrace-gains-on-raised-rbc-target-and-federal-cloud-security-milestone-4944955",
-    "Watchlist|https://www.investing.com/news/stock-market-news/portugal-stocks-higher-at-close-of-trade-psi-up-047-4944939",
-    "Watchlist|https://www.investing.com/news/stock-market-news/spain-stocks-higher-at-close-of-trade-ibex-35-up-133-4944940",
-    "Watchlist|https://www.investing.com/news/stock-market-news/lvmh-edges-past-q3-revenue-estimates-as-fashion-sales-slip-on-china-weakness-4944941",
-    "Watchlist|https://www.investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-098-4944942",
-    "Watchlist|https://www.investing.com/news/company-news/regeneron-reports-sustained-efficacy-for-fop-treatment-pasatru-93CH-4944943",
-    "Watchlist|https://www.investing.com/news/stock-market-news/musk-has-spent-366-million-to-help-republicans-retain-control-of-congress-4944944",
-    "Watchlist|https://www.investing.com/news/stock-market-news/dynatrace-gains-on-raised-rbc-target-and-federal-cloud-security-milestone-4944955",
     "War|0eb7c55f-1d99-30fd-b0f1-e2ae608a0346",
     "Iran|https://www.iranintl.com/en/202610091479",
     "War|8c1f4a0e-0188-38d2-b3fc-d1202d7c0a8f",
@@ -5000,7 +4992,15 @@
     "Watchlist|7c9aac1e-9db0-3f84-9f84-03aca728c81d",
     "Iran|https://www.iranintl.com/en/202610146205",
     "AI|1b54f22a-858b-3a17-ab7a-6affdbbd9bf3",
-    "Watchlist|1b54f22a-858b-3a17-ab7a-6affdbbd9bf3"
+    "Watchlist|1b54f22a-858b-3a17-ab7a-6affdbbd9bf3",
+    "SG Banks|c5031fde-fef4-3b79-aa30-05302dc64235",
+    "SG Banks|/companies-markets/kore-us-reit-completes-second-full-floor-spec-suite-development-washington-property",
+    "Watchlist|/companies-markets/kore-us-reit-completes-second-full-floor-spec-suite-development-washington-property",
+    "AI|5d7dcf43-c0ee-35df-b509-d217deb61b2b",
+    "AI|e9448345-d095-38bb-879f-a9893229b511",
+    "Watchlist|e9448345-d095-38bb-879f-a9893229b511",
+    "Watchlist|5d7dcf43-c0ee-35df-b509-d217deb61b2b",
+    "SG Banks|https://www.channelnewsasia.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-6458041"
   ],
   "topic_error": "",
   "last_digest": "2026-10-14",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791954346.3865087
+  "last_check": 1791955265.7534523
 }
