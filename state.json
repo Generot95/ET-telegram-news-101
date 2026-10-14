@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|8d59522f-f3d6-30bf-91f6-e959b2550c36",
-    "AI|4e8a089b-5232-3e5d-883d-b53f9d538638",
     "AI|b47562fa-1343-32fd-b89a-0b962b960482",
     "Watchlist|b47562fa-1343-32fd-b89a-0b962b960482",
     "Watchlist|4e8a089b-5232-3e5d-883d-b53f9d538638",
@@ -5000,7 +4998,9 @@
     "Watchlist|https://www.investing.com/news/company-news/sentinelone-prices-125-billion-convertible-notes-offering-93CH-4947974",
     "Watchlist|https://www.investing.com/news/economy-news/high-gasoline-prices-expected-to-boost-us-consumer-inflation-in-september-4947970",
     "Watchlist|https://www.investing.com/news/economy-news/asia-must-guard-against-another-financial-crisis-philippines-central-bank-chief-says-4947975",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/kvh-ceo-brent-bruun-sells-4329-in-common-stock-93CH-4947982"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/kvh-ceo-brent-bruun-sells-4329-in-common-stock-93CH-4947982",
+    "War|d8711fea-9f6f-382d-81f7-8657fec214d3",
+    "SG Banks|https://www.channelnewsasia.com/business/oil-prices-climb-iran-deploys-new-tactics-target-ships-transiting-hormuz-6457466"
   ],
   "topic_error": "",
   "last_digest": "2026-10-14",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791951626.9309223
+  "last_check": 1791952524.2456608
 }
