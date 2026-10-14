@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/analyst-ratings/goldman-sachs-cuts-stubhub-stock-price-target-on-valuation-reset-93CH-4945223",
-    "SG Banks|https://www.investing.com/news/stock-market-news/pepsico-slashes-valuation-of-poppi-bonus-payouts-as-growth-slows-4945224",
-    "SG Banks|https://www.investing.com/news/stock-market-news/elon-musk-spends-366-million-on-2026-us-midterm-elections-4945225",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/sky-harbour-cfo-francisco-gonzalez-acquires-35612-of-skyh-stock-93CH-4945219",
-    "Watchlist|https://www.investing.com/news/stock-market-news/kroger-to-cut-over-onethird-of-corporate-workforce-in-major-restructuring-4945218",
-    "Watchlist|https://www.investing.com/news/stock-market-news/kroger-plans-to-cut-about-a-third-of-corporate-roles-over-the-next-three-years-bloomberg-news-reports-4945221",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/goldman-sachs-cuts-stubhub-stock-price-target-on-valuation-reset-93CH-4945223",
-    "Watchlist|https://www.investing.com/news/stock-market-news/pepsico-slashes-valuation-of-poppi-bonus-payouts-as-growth-slows-4945224",
-    "Watchlist|https://www.investing.com/news/stock-market-news/elon-musk-spends-366-million-on-2026-us-midterm-elections-4945225",
     "Watchlist|b83d4549-7fcc-3e63-bd5e-656a9f37af80",
     "Watchlist|726f92d2-cffa-39fe-b72c-d3f2672b125c",
     "Watchlist|9371fc34-50ed-3c07-ae8e-fb5e894e386d",
@@ -5000,7 +4991,16 @@
     "Watchlist|https://www.investing.com/news/company-news/kbr-declares-0165-quarterly-dividend-ahead-of-business-split-93CH-4948554",
     "Iran|https://www.iranintl.com/en/202610092630",
     "SG Banks|/companies-markets/telcos-media-tech/aem-shares-continue-fall-cse-tumbles-7-2",
-    "Watchlist|/companies-markets/telcos-media-tech/aem-shares-continue-fall-cse-tumbles-7-2"
+    "Watchlist|/companies-markets/telcos-media-tech/aem-shares-continue-fall-cse-tumbles-7-2",
+    "SG Banks|0e285828-4015-3c9a-b7fb-98d9b32a16aa",
+    "AI|b98209d5-0034-3e61-be8c-87f4db9b8da0",
+    "Watchlist|b98209d5-0034-3e61-be8c-87f4db9b8da0",
+    "AI|936576f3-d8b7-4470-a2e5-bcdeba7f9479",
+    "Watchlist|936576f3-d8b7-4470-a2e5-bcdeba7f9479",
+    "SG Banks|/companies-markets/singapore-stocks-edge-lower-investors-digest-mas-hold-stronger-gdp",
+    "SG Banks|https://www.straitstimes.com/business/diesel-supplies-to-remain-tight-into-2027-iea",
+    "Watchlist|/companies-markets/singapore-stocks-edge-lower-investors-digest-mas-hold-stronger-gdp",
+    "SG Banks|https://www.channelnewsasia.com/business/google-deepminds-hassabis-calls-ai-hacks-early-warning-shots-6458736"
   ],
   "topic_error": "",
   "last_digest": "2026-10-14",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791972676.861285
+  "last_check": 1791973596.234006
 }
