@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/ubs-lowers-california-resources-stock-price-target-on-cost-pressures-93CH-4944753",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/citi-seeks-rapid-resolution-of-its-us-regulatory-burdens-4943742",
-    "Cybersecurity|https://www.investing.com/news/company-news/lindblad-expeditions-stock-hits-alltime-high-at-3642-usd-93CH-4944754",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/europe-set-for-another-year-of-high-gasprices-as-reserves-hit-lows-4944504",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/clevelandcliffs-shares-may-move-12-on-oct-19-earnings-93CH-4944755",
-    "Cybersecurity|https://www.investing.com/news/company-news/exelixis-inc-stock-hits-alltime-high-at-6121-usd-93CH-4944721",
-    "Cybersecurity|https://www.investing.com/news/company-news/centrus-energy-stock-hits-52week-low-at-13566-usd-93CH-4944730",
-    "Cybersecurity|https://www.investing.com/news/company-news/hormel-foods-appoints-holly-lavallie-as-marketing-vp-93CH-4944743",
-    "Cybersecurity|https://www.investing.com/news/company-news/quantumscape-stock-hits-52week-low-at-440-93CH-4944744",
-    "Cybersecurity|https://www.investing.com/news/company-news/calix-makes-smartlife-apps-available-for-prplos-devices-93CH-4944746",
     "Cybersecurity|https://www.investing.com/news/company-news/l3harris-wins-250m-contract-for-rocket-propulsion-units-93CH-4944745",
     "Cybersecurity|https://www.investing.com/news/company-news/hp-partners-with-junior-achievement-across-37-countries-93CH-4944747",
     "SG Banks|https://www.investing.com/news/analyst-ratings/ubs-maintains-tractor-supply-stock-rating-at-neutral-33-target-93CH-4944748",
@@ -5000,7 +4990,17 @@
     "SG Banks|/companies-markets/capital-markets-currencies/us-stocks-wall-street-steady-open-oil-jumps-ahead-key-earnings",
     "SG Banks|https://www.straitstimes.com/business/microsoft-bets-on-homegrown-ai-chip-to-challenge-nvidia",
     "Watchlist|/companies-markets/consumer-healthcare/asia-pacific-medical-trend-rate-expected-edge-downwards-2027-not-singapore-aon",
-    "Watchlist|/companies-markets/capital-markets-currencies/us-stocks-wall-street-steady-open-oil-jumps-ahead-key-earnings"
+    "Watchlist|/companies-markets/capital-markets-currencies/us-stocks-wall-street-steady-open-oil-jumps-ahead-key-earnings",
+    "SG Banks|https://www.straitstimes.com/business/mas-keeps-singdollar-appreciation-rate-unchanged-but-warns-of-elevated-inflation",
+    "Watchlist|afb050fc-a548-3349-9db1-94798fcf1f28",
+    "AI|afb050fc-a548-3349-9db1-94798fcf1f28",
+    "SG Banks|/companies-markets/kore-us-reit-completes-second-full-floor-spec-suite-development-plaza-buildings-50-pre-leased",
+    "SG Banks|https://www.channelnewsasia.com/singapore/mas-monetary-policy-inflation-economy-6454831",
+    "Watchlist|/companies-markets/kore-us-reit-completes-second-full-floor-spec-suite-development-plaza-buildings-50-pre-leased",
+    "AI|d9e425ea-0a02-381b-bc90-44e3b842a245",
+    "Watchlist|d9e425ea-0a02-381b-bc90-44e3b842a245",
+    "AI|6fdaa5bd-18fe-3b13-926b-cb2a94bf2d11",
+    "Watchlist|6fdaa5bd-18fe-3b13-926b-cb2a94bf2d11"
   ],
   "topic_error": "",
   "last_digest": "2026-10-14",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791936960.3906012
+  "last_check": 1791937877.2434475
 }
