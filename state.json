@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/why-is-fermi-stock-surging-today-93CH-4946714",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-enerflex-stock-surging-today-93CH-4946717",
-    "AI|https://www.investing.com/news/stock-market-news/analyst-lists-7-reasons-why-china-cxmts-claims-dont-threaten-micron-and-sandisk-4946719",
-    "AI|https://www.investing.com/news/stock-market-news/goldman-highlights-two-us-auto-stocks-to-buy-into-earnings-93CH-4946734",
-    "AI|https://www.investing.com/news/stock-market-news/influential-hindu-group-urges-india-to-block-starlink-amid-muskambani-feud-4946735",
-    "AI|https://www.investing.com/news/stock-market-news/top-insider-buys-and-sells-disclosed-for-monday-93CH-4946740",
-    "AI|https://www.investing.com/news/stock-market-news/why-did-investors-react-so-negatively-to-schneiderptc-deal-ma-expert-weighs-in-4946782",
-    "AI|https://www.investing.com/news/stock-market-news/as-eu-debates-localcontent-rules-chinese-automakers-are-already-adapting-4946783",
-    "AI|https://www.investing.com/news/company-news/sagtec-global-subsidiary-rebrands-to-clai-tech-93CH-4946794",
-    "AI|https://www.investing.com/news/company-news/teledyne-flir-launches-counterdrone-radar-system-93CH-4946793",
-    "AI|https://www.investing.com/news/company-news/workday-launches-ai-tool-for-hr-and-finance-planning-93CH-4946792",
-    "Cybersecurity|1862730b-7463-3bf7-b4d2-319fbbe2f770",
-    "Cybersecurity|e6db213a-23e4-3d3d-9c5b-22bd649a8aab",
     "Cybersecurity|https://www.investing.com/news/company-news/workday-launches-ai-agents-for-hr-finance-and-it-tasks-93CH-4946798",
     "Cybersecurity|https://www.investing.com/news/company-news/marvell-microsoft-and-oracle-form-security-working-group-93CH-4946797",
     "Cybersecurity|https://www.investing.com/news/company-news/starfighters-space-plans-december-captivecarry-flight-test-93CH-4946796",
@@ -5000,7 +4987,20 @@
     "Watchlist|/startups-tech/technology/market-has-spoken-dbs-ceo-tan-su-shan-says-market-repricing-ai-financing-risks",
     "Watchlist|/companies-markets/citi-drops-target-price-laopu-gold-hk400-consumer-spending-faces-pressure",
     "Watchlist|/singapore/singapore-healthcare-system-outage-services-fully-restored-investigations-ongoing",
-    "Watchlist|/companies-markets/banking-finance/jpmorgan-posts-surprise-drop-fixed-income-trading-revenue"
+    "Watchlist|/companies-markets/banking-finance/jpmorgan-posts-surprise-drop-fixed-income-trading-revenue",
+    "War|5b95c220-45c6-34e8-9a80-e64633dd18a4",
+    "Crypto|578455a5-26f7-37b3-b2a7-b86fcd6c3023",
+    "AI|a0c61375-588f-33eb-82b2-3a29f3fa0902",
+    "AI|87987482-640f-3b4c-bb49-208bb98397c4",
+    "Watchlist|a0c61375-588f-33eb-82b2-3a29f3fa0902",
+    "Watchlist|87987482-640f-3b4c-bb49-208bb98397c4",
+    "AI|7c3a2ce1-b8f8-3889-aaed-749b0faf98dd",
+    "Watchlist|7c3a2ce1-b8f8-3889-aaed-749b0faf98dd",
+    "War|5f05ff9e-cc3e-3247-ad16-c976bc00179c",
+    "SG Banks|https://www.channelnewsasia.com/business/anthropic-add-us-voting-information-claude-midterms-6460616",
+    "War|WP-MKTW-0005287024",
+    "AI|WP-MKTW-0005287024",
+    "Cybersecurity|WP-MKTW-0005287024"
   ],
   "topic_error": "",
   "last_digest": "2026-10-14",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792008523.1221292
+  "last_check": 1792009429.9334688
 }
