@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/company-news/ors-acquires-techniweld-and-janitorial-brands-from-essendant-93CH-4947188",
-    "Watchlist|https://www.investing.com/news/company-news/boeing-reports-q3-aircraft-deliveries-across-commercial-defense-units-93CH-4947189",
-    "AI|d7b46764-5bb7-3a1d-add9-912c47e1fda9",
     "SG Banks|/companies-markets/capital-markets-currencies/european-shares-rise-lower-oil-prices-bank-strength-ahead-earnings",
     "Watchlist|d7b46764-5bb7-3a1d-add9-912c47e1fda9",
     "Watchlist|/companies-markets/capital-markets-currencies/european-shares-rise-lower-oil-prices-bank-strength-ahead-earnings",
@@ -5000,7 +4997,10 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/xometry-ceo-sanjeev-singh-sells-163201-in-company-stock-93CH-4950235",
     "Watchlist|https://www.investing.com/news/insider-trading-news/wayfair-director-steven-conine-disposes-of-73m-in-class-a-shares-93CH-4950236",
     "Watchlist|https://www.investing.com/news/company-news/ibm-survey-finds-80-of-emea-firms-report-ai-incidents-to-board-93CH-4950241",
-    "Watchlist|https://www.investing.com/news/stock-market-news/iambic-therapeutics-prices-ipo-at-16-per-share-on-nasdaq-432SI-4950227"
+    "Watchlist|https://www.investing.com/news/stock-market-news/iambic-therapeutics-prices-ipo-at-16-per-share-on-nasdaq-432SI-4950227",
+    "SG Banks|https://www.straitstimes.com/business/anthropic-revenue-jumps-to-us16-8-billion-in-q3-before-ipo",
+    "AI|345e7911-1fdf-3e8a-a8f4-e1ecd5dc634e",
+    "Watchlist|345e7911-1fdf-3e8a-a8f4-e1ecd5dc634e"
   ],
   "topic_error": "",
   "last_digest": "2026-10-14",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792019538.14639
+  "last_check": 1792020431.297016
 }
