@@ -1,89 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/bofa-reiterates-bullish-view-on-nokia-stock-amid-ai-order-strength-93CH-4945894",
-    "AI|https://www.investing.com/news/stock-market-news/bmw-deliveries-fall-63-in-third-quarter-as-china-sales-slump-4945851",
-    "AI|https://www.investing.com/news/stock-market-news/bofa-poll-shows-european-stock-optimism-amid-falling-outlook-93CH-4945876",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-asml-stock-sliding-today-93CH-4945877",
-    "AI|https://www.investing.com/news/stock-market-news/lvmh-stock-analysis-after-earnings-decadelow-valuation-93CH-4945878",
-    "AI|https://www.investing.com/news/company-news/mercia-asset-management-grants-options-to-finance-director-93CH-4945800",
-    "AI|https://www.investing.com/news/company-news/melroses-gkn-aerospace-files-settlement-for-garden-grove-probe-93CH-4945802",
-    "AI|https://www.investing.com/news/company-news/publicis-q3-2026-slides-growth-accelerates-ai-widens-peer-gap-93CH-4945822",
-    "AI|https://www.investing.com/news/company-news/green-shift-sells-los-altares-project-to-myriad-for-c1m-93CH-4945841",
-    "AI|https://www.investing.com/news/company-news/sibylla-biotech-names-usman-azam-as-new-ceo-93CH-4945843",
-    "AI|https://www.investing.com/news/company-news/central-asia-metals-receives-kazakh-approval-for-cygnus-deal-93CH-4945874",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/european-shares-edge-higher-as-lower-oil-prices-lift-sentiment-4945672",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-western-digital-stock-falling-today-93CH-4945879",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-whitbread-lifts-trading-momentum-in-h1-2026-93CH-4945880",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/bmw-reports-63-drop-in-q3-deliveries-amid-china-slowdown-93CH-4945882",
-    "Cybersecurity|https://www.investing.com/news/company-news/yorkshire-housing-names-leann-hearne-as-new-chair-93CH-4945888",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/melrose-industries-shares-rise-as-gkn-civil-probe-nears-end-93CH-4945889",
-    "Cybersecurity|https://www.investing.com/news/company-news/kier-groups-credit-rating-upgraded-to-investment-grade-by-fitch-93CH-4945893",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/bofa-reiterates-bullish-view-on-nokia-stock-amid-ai-order-strength-93CH-4945894",
-    "Cybersecurity|https://www.investing.com/news/company-news/mercia-asset-management-grants-options-to-finance-director-93CH-4945800",
-    "Cybersecurity|https://www.investing.com/news/company-news/melroses-gkn-aerospace-files-settlement-for-garden-grove-probe-93CH-4945802",
-    "Cybersecurity|https://www.investing.com/news/company-news/publicis-q3-2026-slides-growth-accelerates-ai-widens-peer-gap-93CH-4945822",
-    "Cybersecurity|https://www.investing.com/news/company-news/green-shift-sells-los-altares-project-to-myriad-for-c1m-93CH-4945841",
-    "Cybersecurity|https://www.investing.com/news/company-news/sibylla-biotech-names-usman-azam-as-new-ceo-93CH-4945843",
-    "Cybersecurity|https://www.investing.com/news/company-news/central-asia-metals-receives-kazakh-approval-for-cygnus-deal-93CH-4945874",
-    "SG Banks|https://www.investing.com/news/stock-market-news/european-shares-edge-higher-as-lower-oil-prices-lift-sentiment-4945672",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-western-digital-stock-falling-today-93CH-4945879",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-whitbread-lifts-trading-momentum-in-h1-2026-93CH-4945880",
-    "SG Banks|https://www.investing.com/news/stock-market-news/bmw-reports-63-drop-in-q3-deliveries-amid-china-slowdown-93CH-4945882",
-    "SG Banks|https://www.investing.com/news/company-news/yorkshire-housing-names-leann-hearne-as-new-chair-93CH-4945888",
-    "SG Banks|https://www.investing.com/news/stock-market-news/melrose-industries-shares-rise-as-gkn-civil-probe-nears-end-93CH-4945889",
-    "SG Banks|https://www.investing.com/news/company-news/kier-groups-credit-rating-upgraded-to-investment-grade-by-fitch-93CH-4945893",
-    "SG Banks|https://www.investing.com/news/stock-market-news/bofa-reiterates-bullish-view-on-nokia-stock-amid-ai-order-strength-93CH-4945894",
-    "Watchlist|https://www.investing.com/news/stock-market-news/european-shares-edge-higher-as-lower-oil-prices-lift-sentiment-4945672",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-western-digital-stock-falling-today-93CH-4945879",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-whitbread-lifts-trading-momentum-in-h1-2026-93CH-4945880",
-    "Watchlist|https://www.investing.com/news/stock-market-news/bmw-reports-63-drop-in-q3-deliveries-amid-china-slowdown-93CH-4945882",
-    "Watchlist|https://www.investing.com/news/company-news/yorkshire-housing-names-leann-hearne-as-new-chair-93CH-4945888",
-    "Watchlist|https://www.investing.com/news/stock-market-news/melrose-industries-shares-rise-as-gkn-civil-probe-nears-end-93CH-4945889",
-    "Watchlist|https://www.investing.com/news/company-news/kier-groups-credit-rating-upgraded-to-investment-grade-by-fitch-93CH-4945893",
-    "Watchlist|https://www.investing.com/news/stock-market-news/bofa-reiterates-bullish-view-on-nokia-stock-amid-ai-order-strength-93CH-4945894",
-    "Iran|https://www.iranintl.com/en/202610139633",
-    "AI|32ca1b82-c272-3170-a4cb-65007177831d",
-    "AI|2ffaed66-815e-3e57-81c4-a56ebd8d2f89",
-    "SG Banks|/companies-markets/banking-finance/world-bank-talks-dozens-countries-about-crisis-aid-banga",
-    "SG Banks|/companies-markets/sensors-cameras-and-microphones-how-f1-teams-tap-data-ai-make-real-time-decisions-track",
-    "SG Banks|/companies-markets/telcos-media-tech/musk-vows-affordable-starlink-india-days-ambanis-record-jio-ipo",
-    "Watchlist|32ca1b82-c272-3170-a4cb-65007177831d",
-    "Watchlist|2ffaed66-815e-3e57-81c4-a56ebd8d2f89",
-    "Watchlist|/companies-markets/banking-finance/world-bank-talks-dozens-countries-about-crisis-aid-banga",
-    "Watchlist|/companies-markets/sensors-cameras-and-microphones-how-f1-teams-tap-data-ai-make-real-time-decisions-track",
-    "Watchlist|/companies-markets/telcos-media-tech/musk-vows-affordable-starlink-india-days-ambanis-record-jio-ipo",
-    "SG Banks|/companies-markets/telcos-media-tech/apple-rolls-out-new-phones-and-smart-home-devices-revive-pricey-stock",
-    "Watchlist|/companies-markets/telcos-media-tech/apple-rolls-out-new-phones-and-smart-home-devices-revive-pricey-stock",
-    "War|WP-MKTW-0005283944",
-    "AI|WP-MKTW-0005283944",
-    "Cybersecurity|WP-MKTW-0005283944",
-    "Crypto|1fd2f0a3-dbff-3423-a722-0275c3cb3bde",
-    "AI|ff32f7df-7d82-3d90-8834-67fc4ae99ee4",
-    "AI|91314921-fe8a-31c4-941f-471f3e8cbe00",
-    "AI|83a8be15-dac9-3f9a-880b-508cd8eab048",
-    "Watchlist|83a8be15-dac9-3f9a-880b-508cd8eab048",
-    "War|431b5ee3-0da3-36a6-a444-b2bace1dda4d",
-    "SG Banks|/international/global/indias-rupee-recovery-faces-test-oil-prices-capital-outflows",
-    "Watchlist|/international/global/indias-rupee-recovery-faces-test-oil-prices-capital-outflows",
-    "AI|fb6ac2f4-d4b1-3c67-b579-aede000494b6",
-    "Watchlist|fb6ac2f4-d4b1-3c67-b579-aede000494b6",
-    "Crypto|823009e0-27aa-31ed-8da2-4612c1ebb8de",
-    "SG Banks|/esg/lithium-battery-recycling-startup-neu-battery-materials-raises-us7-6-million-latest-funding-round",
-    "Watchlist|/esg/lithium-battery-recycling-startup-neu-battery-materials-raises-us7-6-million-latest-funding-round",
-    "SG Banks|/international/global/imf-cites-ai-slowdown-spiking-yields-looming-global-market-risks",
-    "AI|2a27cf30-ae47-3eac-be88-6e65ec4916a0",
-    "Watchlist|2a27cf30-ae47-3eac-be88-6e65ec4916a0",
-    "Watchlist|/international/global/imf-cites-ai-slowdown-spiking-yields-looming-global-market-risks",
-    "AI|https://www.investing.com/news/analyst-ratings/citizens-cuts-flutter-entertainment-stock-price-target-on-unfavorable-game-outcomes-93CH-4945922",
-    "AI|https://www.investing.com/news/analyst-ratings/citizens-cuts-inspired-entertainment-stock-price-target-on-lower-valuation-93CH-4945923",
-    "AI|https://www.investing.com/news/analyst-ratings/caretrust-reit-stock-rating-maintained-at-outperform-by-citizens-93CH-4945924",
-    "AI|https://www.investing.com/news/insider-trading-news/gamestop-ceo-ryan-cohen-buys-171m-in-company-stock-93CH-4945934",
-    "AI|https://www.investing.com/news/stock-market-news/factboxchinascarmakers-expand-their-presence-in-europe-4945935",
-    "AI|https://www.investing.com/news/analyst-ratings/citizens-reiterates-penn-entertainment-stock-rating-on-gaming-trends-93CH-4945945",
-    "AI|https://www.investing.com/news/analyst-ratings/citizens-reiterates-spotify-stock-rating-on-2027-growth-outlook-93CH-4945947",
-    "AI|https://www.investing.com/news/stock-market-news/goldman-sachs-sees-positive-setup-for-payment-stocks-ahead-of-earnings-93CH-4945910",
-    "AI|https://www.investing.com/news/stock-market-news/goldman-sachs-cuts-orsted-stock-rating-on-rising-rates-93CH-4945920",
     "AI|https://www.investing.com/news/company-news/bellway-fy26-slides-cash-flow-surges-36-as-margins-compress-93CH-4945908",
     "AI|https://www.investing.com/news/company-news/whitbread-h1-fy27-slides-premier-inn-gains-share-despite-cost-pressures-93CH-4945911",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/citizens-cuts-flutter-entertainment-stock-price-target-on-unfavorable-game-outcomes-93CH-4945922",
@@ -5000,80 +4917,163 @@
     "SG Banks|https://www.channelnewsasia.com/business/no-auto-plants-available-in-italy-chinese-purchase-italian-minister-says-6459761",
     "AI|b275a085-a638-38e3-8404-9aa5686226b0",
     "Watchlist|b275a085-a638-38e3-8404-9aa5686226b0",
-    "Watchlist|4631b77f-3693-3a2b-8efe-242e6cecee4b"
+    "Watchlist|4631b77f-3693-3a2b-8efe-242e6cecee4b",
+    "War|1c60189c-4295-388f-8533-82ad5ed4b453",
+    "Crypto|1de807c6-6cdd-385b-8483-4cf45fa3eb25",
+    "Watchlist|8e203011-703e-3cf5-b915-930188088380",
+    "AI|839be4a0-f0b0-3ccc-9764-34f253cc5c3c",
+    "Watchlist|839be4a0-f0b0-3ccc-9764-34f253cc5c3c",
+    "AI|f0d2a9a6-62c2-48f2-95a1-d784d7da31c3",
+    "Watchlist|f0d2a9a6-62c2-48f2-95a1-d784d7da31c3",
+    "AI|1b44879e-1158-3a23-86ed-ad7ba3ba765b",
+    "Watchlist|1b44879e-1158-3a23-86ed-ad7ba3ba765b",
+    "War|https://www.investing.com/news/commodities-news/asian-refiners-face-margin-squeeze-from-record-tanker-costs-93CH-4949663",
+    "War|WP-MKTW-0005286703",
+    "AI|WP-MKTW-0005286703",
+    "Cybersecurity|WP-MKTW-0005286703",
+    "AI|38196280-cabf-34b3-bb60-d0bb455fedf9",
+    "Crypto|5fefa15c-d34d-393a-b7ef-8827270a30b8",
+    "Watchlist|38196280-cabf-34b3-bb60-d0bb455fedf9",
+    "AI|https://www.investing.com/news/company-news/alaska-communications-becomes-authorized-starlink-reseller-93CH-4949682",
+    "AI|https://www.investing.com/news/company-news/travel--leisure-completes-300m-assetbacked-notes-issuance-93CH-4949683",
+    "AI|https://www.investing.com/news/company-news/brightstar-lottery-stock-hits-52week-low-at-962-usd-93CH-4949684",
+    "AI|https://www.investing.com/news/stock-market-news/top-transportation-stocks-ups-fedex-and-delta-compared-by-value-and-momentum-93CH-4949685",
+    "AI|https://www.investing.com/news/economy-news/kenya-reports-second-ebola-case-linked-to-congo-outbreak-93CH-4949686",
+    "AI|https://www.investing.com/news/company-news/att-stock-hits-52week-low-at-1828-usd-93CH-4949687",
+    "AI|https://www.investing.com/news/company-news/fcncp-stock-hits-52week-low-at-1752-usd-93CH-4949688",
+    "AI|https://www.investing.com/news/company-news/cbl-properties-declares-0625-quarterly-dividend-93CH-4949689",
+    "AI|https://www.investing.com/news/stock-market-news/nextera-energy-options-signal-31-move-on-earnings-93CH-4949658",
+    "AI|https://www.investing.com/news/stock-market-news/greece-stocks-higher-at-close-of-trade-athens-general-composite-up-014-4949659",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-strategy-stock-sliding-today-93CH-4949661",
+    "AI|https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-079-4949667",
+    "AI|https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-035-4949668",
+    "AI|https://www.investing.com/news/stock-market-news/robinhood-markets-bull-and-bear-case-ahead-of-oct-27-earnings-93CH-4949672",
+    "AI|https://www.investing.com/news/stock-market-news/adobe-value-analysis-low-pe-high-roic-and-fairvalue-upside-93CH-4949679",
+    "AI|https://www.investing.com/news/company-news/tata-technologies-q2-fy27-slides-28-revenue-surge-138m-deal-win-93CH-4949671",
+    "AI|https://www.investing.com/news/company-news/old-mutual-employee-trusts-purchase-53-million-shares-93CH-4949678",
+    "AI|https://www.investing.com/news/company-news/aerovironment-partners-with-elsight-on-communications-tech-93CH-4949681",
+    "AI|https://www.investing.com/news/company-news/fastenal-q3-2026-slides-earnings-growth-outpaces-155-sales-gain-93CH-4949690",
+    "Cybersecurity|https://www.investing.com/news/company-news/alaska-communications-becomes-authorized-starlink-reseller-93CH-4949682",
+    "Cybersecurity|https://www.investing.com/news/company-news/travel--leisure-completes-300m-assetbacked-notes-issuance-93CH-4949683",
+    "Cybersecurity|https://www.investing.com/news/company-news/brightstar-lottery-stock-hits-52week-low-at-962-usd-93CH-4949684",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/top-transportation-stocks-ups-fedex-and-delta-compared-by-value-and-momentum-93CH-4949685",
+    "Cybersecurity|https://www.investing.com/news/economy-news/kenya-reports-second-ebola-case-linked-to-congo-outbreak-93CH-4949686",
+    "Cybersecurity|https://www.investing.com/news/company-news/att-stock-hits-52week-low-at-1828-usd-93CH-4949687",
+    "Cybersecurity|https://www.investing.com/news/company-news/fcncp-stock-hits-52week-low-at-1752-usd-93CH-4949688",
+    "Cybersecurity|https://www.investing.com/news/company-news/cbl-properties-declares-0625-quarterly-dividend-93CH-4949689",
+    "Cybersecurity|https://www.investing.com/news/company-news/tata-technologies-q2-fy27-slides-28-revenue-surge-138m-deal-win-93CH-4949671",
+    "Cybersecurity|https://www.investing.com/news/company-news/old-mutual-employee-trusts-purchase-53-million-shares-93CH-4949678",
+    "Cybersecurity|https://www.investing.com/news/company-news/aerovironment-partners-with-elsight-on-communications-tech-93CH-4949681",
+    "Cybersecurity|https://www.investing.com/news/company-news/fastenal-q3-2026-slides-earnings-growth-outpaces-155-sales-gain-93CH-4949690",
+    "SG Banks|https://www.investing.com/news/company-news/alaska-communications-becomes-authorized-starlink-reseller-93CH-4949682",
+    "SG Banks|https://www.investing.com/news/company-news/travel--leisure-completes-300m-assetbacked-notes-issuance-93CH-4949683",
+    "SG Banks|https://www.investing.com/news/company-news/brightstar-lottery-stock-hits-52week-low-at-962-usd-93CH-4949684",
+    "SG Banks|https://www.investing.com/news/stock-market-news/top-transportation-stocks-ups-fedex-and-delta-compared-by-value-and-momentum-93CH-4949685",
+    "SG Banks|https://www.investing.com/news/economy-news/kenya-reports-second-ebola-case-linked-to-congo-outbreak-93CH-4949686",
+    "SG Banks|https://www.investing.com/news/company-news/att-stock-hits-52week-low-at-1828-usd-93CH-4949687",
+    "SG Banks|https://www.investing.com/news/company-news/fcncp-stock-hits-52week-low-at-1752-usd-93CH-4949688",
+    "SG Banks|https://www.investing.com/news/company-news/cbl-properties-declares-0625-quarterly-dividend-93CH-4949689",
+    "Watchlist|https://www.investing.com/news/company-news/alaska-communications-becomes-authorized-starlink-reseller-93CH-4949682",
+    "Watchlist|https://www.investing.com/news/company-news/travel--leisure-completes-300m-assetbacked-notes-issuance-93CH-4949683",
+    "Watchlist|https://www.investing.com/news/company-news/brightstar-lottery-stock-hits-52week-low-at-962-usd-93CH-4949684",
+    "Watchlist|https://www.investing.com/news/stock-market-news/top-transportation-stocks-ups-fedex-and-delta-compared-by-value-and-momentum-93CH-4949685",
+    "Watchlist|https://www.investing.com/news/economy-news/kenya-reports-second-ebola-case-linked-to-congo-outbreak-93CH-4949686",
+    "Watchlist|https://www.investing.com/news/company-news/att-stock-hits-52week-low-at-1828-usd-93CH-4949687",
+    "Watchlist|https://www.investing.com/news/company-news/fcncp-stock-hits-52week-low-at-1752-usd-93CH-4949688",
+    "Watchlist|https://www.investing.com/news/company-news/cbl-properties-declares-0625-quarterly-dividend-93CH-4949689",
+    "Iran|https://www.iranintl.com/en/202610139633",
+    "AI|7258d720-87d8-3bf2-a8e7-0df9d29b1c06",
+    "SG Banks|/companies-markets/banking-finance/world-bank-talks-dozens-countries-about-crisis-aid-banga",
+    "SG Banks|/companies-markets/sensors-cameras-and-microphones-how-f1-teams-tap-data-ai-make-real-time-decisions-track",
+    "SG Banks|/companies-markets/telcos-media-tech/musk-vows-affordable-starlink-india-days-ambanis-record-jio-ipo",
+    "SG Banks|/companies-markets/telcos-media-tech/apple-rolls-out-new-phones-and-smart-home-devices-revive-pricey-stock",
+    "Watchlist|/companies-markets/banking-finance/world-bank-talks-dozens-countries-about-crisis-aid-banga",
+    "Watchlist|/companies-markets/sensors-cameras-and-microphones-how-f1-teams-tap-data-ai-make-real-time-decisions-track",
+    "Watchlist|/companies-markets/telcos-media-tech/musk-vows-affordable-starlink-india-days-ambanis-record-jio-ipo",
+    "Watchlist|/companies-markets/telcos-media-tech/apple-rolls-out-new-phones-and-smart-home-devices-revive-pricey-stock",
+    "Crypto|edda07b9-b535-3455-8045-60e1644e3a89",
+    "SG Banks|/international/global/imf-cites-ai-slowdown-spiking-yields-looming-global-market-risks",
+    "SG Banks|/international/global/indias-rupee-recovery-faces-test-oil-prices-capital-outflows",
+    "Watchlist|/international/global/indias-rupee-recovery-faces-test-oil-prices-capital-outflows",
+    "Watchlist|/international/global/imf-cites-ai-slowdown-spiking-yields-looming-global-market-risks",
+    "AI|9efa87f1-08d5-3721-b6cd-5e4ef7dc1596",
+    "AI|0cb37b5d-971f-366f-80fa-ee652dd0169d",
+    "Crypto|9efa87f1-08d5-3721-b6cd-5e4ef7dc1596",
+    "Watchlist|9efa87f1-08d5-3721-b6cd-5e4ef7dc1596",
+    "Watchlist|0cb37b5d-971f-366f-80fa-ee652dd0169d"
   ],
   "topic_error": "",
   "last_digest": "2026-10-14",
   "earnings": {
     "AMD": {
       "ts": 1793736000,
-      "fetched": 1791903976.1886902
+      "fetched": 1791990414.199626
     },
     "NVDA": {
       "ts": 1794945600,
-      "fetched": 1791903976.1886902
+      "fetched": 1791990414.199626
     },
     "CRWD": {
       "ts": 1796155200,
-      "fetched": 1791903976.1886902
+      "fetched": 1791990414.199626
     },
     "MSFT": {
       "ts": 1793217600,
-      "fetched": 1791903976.1886902
+      "fetched": 1791990414.199626
     },
     "INTU": {
       "ts": 1795118400,
-      "fetched": 1791903976.1886902
+      "fetched": 1791990414.199626
     },
     "BRK-B": {
       "ts": 1794081600,
-      "fetched": 1791903976.1886902
+      "fetched": 1791990414.199626
     },
     "AMZN": {
       "ts": 1793304000,
-      "fetched": 1791903976.1886902
+      "fetched": 1791990414.199626
     },
     "GOOG": {
       "ts": 1793217600,
-      "fetched": 1791903976.1886902
+      "fetched": 1791990414.199626
     },
     "ZTS": {
       "ts": 1793881800,
-      "fetched": 1791903976.1886902
+      "fetched": 1791990414.199626
     },
     "LIN": {
       "ts": 1793277000,
-      "fetched": 1791903976.1886902
+      "fetched": 1791990414.199626
     },
     "VLO": {
       "ts": 1792672200,
-      "fetched": 1791903976.1886902
+      "fetched": 1791990414.199626
     },
     "D05.SI": {
       "ts": 1793869200,
-      "fetched": 1791903976.1886902
+      "fetched": 1791990414.199626
     },
     "O39.SI": {
       "ts": 1793955600,
-      "fetched": 1791903976.1886902
+      "fetched": 1791990414.199626
     },
     "U11.SI": {
       "ts": 1793782800,
-      "fetched": 1791903976.1886902
+      "fetched": 1791990414.199626
     },
     "A17U.SI": {
       "ts": 1785920400,
-      "fetched": 1791903976.1886902
+      "fetched": 1791990414.199626
     },
     "HMN.SI": {
       "ts": 1785229200,
-      "fetched": 1791903976.1886902
+      "fetched": 1791990414.199626
     },
     "JYEU.SI": {
       "ts": null,
-      "fetched": 1791903976.1886902
+      "fetched": 1791990414.199626
     }
   },
   "earnings_notified": [],
-  "last_check": 1791990125.8485992
+  "last_check": 1791991033.3769078
 }
