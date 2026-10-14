@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/earnings/state-street-faces-earnings-test-on-custody-growth-momentum-93CH-4946950",
-    "Cybersecurity|https://www.investing.com/news/company-news/united-fire-group-stock-hits-52week-high-at-5698-usd-93CH-4946951",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/sp-500-opens-lower-after-bank-earnings-chips-weigh-4946952",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-albertsons-beats-q2-2026-eps-but-sales-stay-soft-93CH-4946953",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-dominos-tops-q3-2026-estimates-but-shares-fall-93CH-4946954",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-jpmorgan-chase-misses-q3-2026-forecasts-as-profits-stay-strong-93CH-4946956",
-    "Cybersecurity|https://www.investing.com/news/company-news/hess-midstream-partners-lp-stock-hits-52week-low-at-316-usd-93CH-4946936",
-    "Cybersecurity|https://www.investing.com/news/company-news/xtend-secures-405m-order-for-6000-drone-systems-from-dod-93CH-4946937",
-    "Cybersecurity|https://www.investing.com/news/company-news/itron-expands-wildfire-detection-system-with-pge-in-california-93CH-4946938",
-    "Cybersecurity|https://www.investing.com/news/company-news/infleqtion-receives-9m-uk-grant-for-quantum-sensing-project-93CH-4946939",
-    "Cybersecurity|https://www.investing.com/news/company-news/mastercard-stock-hits-52week-high-at-60159-usd-93CH-4946941",
-    "Cybersecurity|https://www.investing.com/news/company-news/veeva-systems-stock-hits-52week-high-at-30287-usd-93CH-4946943",
-    "SG Banks|https://www.investing.com/news/company-news/six-flags-entertainment-corp-stock-hits-52week-low-at-1044-93CH-4946944",
     "SG Banks|https://www.investing.com/news/earnings/johnson--johnson-beats-estimates-raises-2026-guidance-4946079",
     "SG Banks|https://www.investing.com/news/company-news/usa-rare-earth-stock-hits-52week-low-at-1144-usd-93CH-4946945",
     "SG Banks|https://www.investing.com/news/company-news/bp-stock-hits-52week-high-at-4829-usd-93CH-4946949",
@@ -5000,7 +4987,20 @@
     "SG Banks|/companies-markets/banking-finance/goldmans-equity-traders-post-big-haul-credit-rates-miss",
     "Watchlist|89650c02-4707-3f20-b024-7ba423561794",
     "Watchlist|f07d19a5-e5ac-37c5-8b6c-64528531c69b",
-    "Watchlist|/companies-markets/banking-finance/goldmans-equity-traders-post-big-haul-credit-rates-miss"
+    "Watchlist|/companies-markets/banking-finance/goldmans-equity-traders-post-big-haul-credit-rates-miss",
+    "AI|aa652aec-f2fc-3be9-a055-a0a4183cba67",
+    "Watchlist|aa652aec-f2fc-3be9-a055-a0a4183cba67",
+    "AI|9d7d7cc4-952d-3d33-89e3-01623e6e456c",
+    "AI|054ff568-bcad-3f2e-ba31-c1830c60860e",
+    "AI|3f9ad397-4b0b-363a-8506-661071c2e2d3",
+    "Watchlist|9d7d7cc4-952d-3d33-89e3-01623e6e456c",
+    "Watchlist|054ff568-bcad-3f2e-ba31-c1830c60860e",
+    "Watchlist|3f9ad397-4b0b-363a-8506-661071c2e2d3",
+    "AI|206f08f6-2e35-388d-b632-8d3d4df1edd2",
+    "AI|69a3094d-69de-3f9c-9d6f-bf7f95adb279",
+    "Watchlist|206f08f6-2e35-388d-b632-8d3d4df1edd2",
+    "Watchlist|69a3094d-69de-3f9c-9d6f-bf7f95adb279",
+    "SG Banks|https://www.channelnewsasia.com/business/us-company-announces-progress-toward-resurrecting-extinct-dodo-6460671"
   ],
   "topic_error": "",
   "last_digest": "2026-10-14",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792011262.368172
+  "last_check": 1792012216.8573914
 }
