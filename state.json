@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|ba42a0e4-819c-38b2-8484-6c44df6a4977",
-    "War|0c845113-e70f-4b65-98c3-1f59e369d7f7",
-    "AI|2c61087f-03b6-3390-9e19-8102d2947ab0",
-    "Watchlist|2c61087f-03b6-3390-9e19-8102d2947ab0",
-    "AI|14918748-5288-34f2-9452-38262ae85f11",
-    "Watchlist|14918748-5288-34f2-9452-38262ae85f11",
-    "Crypto|9d6c2a11-6c45-38dd-9519-fb3ba14fb286",
-    "Cybersecurity|53597103-af74-3605-acb4-8196152aa9e8",
     "AI|03b5f55b-f8b6-32f0-a83c-c815bd874de4",
     "SG Banks|https://www.channelnewsasia.com/business/bumble-go-private-in-13-billion-deal-6456041",
     "Watchlist|03b5f55b-f8b6-32f0-a83c-c815bd874de4",
@@ -5000,7 +4992,15 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/eight-us-states-sue-openai-claiming-chatgpt-harms-children-4949879",
     "SG Banks|/companies-markets/energy-commodities/oil-falls-trump-claims-russia-ukraine-agree-energy-ceasefire",
     "SG Banks|/companies-markets/capital-markets-currencies/stocks-watch-sgx-ums-integration",
-    "Watchlist|/companies-markets/capital-markets-currencies/stocks-watch-sgx-ums-integration"
+    "Watchlist|/companies-markets/capital-markets-currencies/stocks-watch-sgx-ums-integration",
+    "Watchlist|/companies-markets/energy-commodities/oil-falls-trump-claims-russia-ukraine-agree-energy-ceasefire",
+    "War|bda94f50-b1a9-4305-a5cd-d51c0e94c789",
+    "AI|85e49e2f-75c4-395a-bfd7-a95b7070cc3c",
+    "Watchlist|85e49e2f-75c4-395a-bfd7-a95b7070cc3c",
+    "AI|e23a2e2f-006c-35a4-adbd-b5e35014e678",
+    "Crypto|99c1d3b3-18da-33e8-94fb-2977ecc1fb1b",
+    "Watchlist|e23a2e2f-006c-35a4-adbd-b5e35014e678",
+    "War|fc01918d-73cd-47d3-9706-e9a6073c91bf"
   ],
   "topic_error": "",
   "last_digest": "2026-10-14",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792004838.3463173
+  "last_check": 1792005749.8849223
 }
