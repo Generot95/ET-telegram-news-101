@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/analyst-ratings/bofa-upgrades-tim-stock-rating-on-valuation-after-15-decline-93CH-4947056",
-    "AI|https://www.investing.com/news/company-news/tegna-renews-abc-affiliation-deal-across-13-us-stations-93CH-4947057",
-    "AI|https://www.investing.com/news/company-news/consumer-portfolio-services-increases-credit-facility-to-518m-93CH-4947058",
-    "AI|https://www.investing.com/news/company-news/founder-shield-rebrands-as-baldwin-groups-innovation-practice-93CH-4947059",
-    "AI|https://www.investing.com/news/company-news/interactive-brokers-launches-cryptocurrency-staking-for-clients-93CH-4947060",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-nebius-stock-sliding-today-93CH-4947061",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-salesforce-stock-rallying-today-93CH-4947030",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-space-exploration-technologies-stock-sliding-today-93CH-4947031",
     "AI|https://www.investing.com/news/stock-market-news/jefferies-names-top-aerospace-and-defense-stocks-for-multiyear-growth-4947032",
     "AI|https://www.investing.com/news/stock-market-news/why-is-credo-technology-stock-sliding-today-93CH-4947052",
     "AI|https://www.investing.com/news/company-news/alliancebernstein-stock-hits-52week-low-at-3457-usd-93CH-4947026",
@@ -5000,7 +4992,15 @@
     "AI|7883eb23-9789-32f9-8d93-777fbe9791fb",
     "AI|106177cd-cdee-3a5e-8d95-51cd49f259ce",
     "Watchlist|106177cd-cdee-3a5e-8d95-51cd49f259ce",
-    "Watchlist|7883eb23-9789-32f9-8d93-777fbe9791fb"
+    "Watchlist|7883eb23-9789-32f9-8d93-777fbe9791fb",
+    "War|bd9690f0-4314-3ca7-a07f-06fcd7cc64fd",
+    "AI|beff4559-fbb1-338c-96fd-cb8c35ecd0a8",
+    "Watchlist|98e13fe9-3ef8-3bd9-ad78-9721e1c7f661",
+    "Watchlist|beff4559-fbb1-338c-96fd-cb8c35ecd0a8",
+    "AI|98e13fe9-3ef8-3bd9-ad78-9721e1c7f661",
+    "AI|3a335e19-ff68-363b-be20-0503b2a61e35",
+    "Watchlist|3a335e19-ff68-363b-be20-0503b2a61e35",
+    "War|14ab9188-5ed8-34d4-9c45-efb77badd719"
   ],
   "topic_error": "",
   "last_digest": "2026-10-14",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792013120.7514331
+  "last_check": 1792014029.9917197
 }
