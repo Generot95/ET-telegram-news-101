@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/commodities-news/trump-defends-russia-diesel-deal-amid-bipartisan-criticism-4944902",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/muse-buys-a-watermelon-inside-zuckerbergs-ai-tease-4944889",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/french-borrowing-costs-rise-amid-deficit-concerns-93CH-4944903",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/getty-images-to-go-private-after-restructuring-deal-4944904",
     "Cybersecurity|https://www.investing.com/news/company-news/rbl-bank-q2-fy27-slides-profit-surges-170-asset-quality-improves-93CH-4944883",
     "Cybersecurity|https://www.investing.com/news/company-news/aberdeen-group-reduces-stake-in-standard-life-below-10-93CH-4944886",
@@ -5000,7 +4997,10 @@
     "Watchlist|a2b1b9cf-bf4f-3e23-934e-e8832a4febfd",
     "War|cf5f41ce-90f5-3a98-842a-b5109dfb509c",
     "AI|33d5d8ce-f449-3bc4-96a8-0738fe93fb77",
-    "AI|93163cf6-4dab-396a-803e-47c1145bb30f"
+    "AI|93163cf6-4dab-396a-803e-47c1145bb30f",
+    "SG Banks|https://www.channelnewsasia.com/business/televisa-fintech-take-america-movil-2-billion-purchase-atts-mexican-unit-6457171",
+    "AI|d48ca40b-e5c6-3003-bd21-81f057e247eb",
+    "Watchlist|d48ca40b-e5c6-3003-bd21-81f057e247eb"
   ],
   "topic_error": "",
   "last_digest": "2026-10-14",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791947952.24764
+  "last_check": 1791948860.1831436
 }
