@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|7fd2045f-6fd4-32fa-ac41-22f1d446fe54",
-    "AI|f272a20d-0091-352c-9635-ddf68c19463e",
-    "SG Banks|0e285828-4015-3c9a-b7fb-98d9b32a16aa",
-    "AI|https://www.investing.com/news/company-news/medline-launches-enhanced-inventory-management-system-for-care-facilities-93CH-4945204",
-    "AI|https://www.investing.com/news/company-news/danaher-adds-two-directors-expands-board-to-13-members-93CH-4945205",
-    "AI|https://www.investing.com/news/company-news/biomea-fusion-to-report-phase-i-trial-results-tuesday-93CH-4945209",
-    "AI|https://www.investing.com/news/company-news/mueller-water-products-names-michael-morgan-as-new-cfo-93CH-4945212",
-    "AI|https://www.investing.com/news/company-news/murphy-oil-reports-offshore-discoveries-production-starts-93CH-4945211",
-    "AI|https://www.investing.com/news/company-news/castle-biosciences-presents-barretts-esophagus-test-data-at-acg-93CH-4945210",
     "AI|https://www.investing.com/news/company-news/nexxen-appoints-neil-jones-as-interim-board-chairperson-93CH-4945213",
     "AI|https://www.investing.com/news/company-news/applied-materials-unveils-5-billion-chip-rd-facility-93CH-4945214",
     "AI|https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-038-4945191",
@@ -5000,7 +4991,16 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/gsk-plans-to-cut-up-to-1217-jobs-in-belgium--report-93CH-4948476",
     "Watchlist|https://www.investing.com/news/economy-news/uk-media-watchdog-probe-of-x-to-focus-on-response-to-hate-content-4948465",
     "Watchlist|https://www.investing.com/news/analyst-ratings/citi-raises-cheesecake-factory-stock-price-target-on-traffic-growth-93CH-4948495",
-    "Watchlist|https://www.investing.com/news/company-news/huatai-securities-announces-interim-dividend-of-rmb018-per-share-93CH-4948497"
+    "Watchlist|https://www.investing.com/news/company-news/huatai-securities-announces-interim-dividend-of-rmb018-per-share-93CH-4948497",
+    "SG Banks|https://www.straitstimes.com/business/temasek-trust-world-bank-group-tie-up-to-advance-initiatives-in-climate-and-energy",
+    "Cybersecurity|54ad2984-5cca-3ca0-87b2-0936972df7d5",
+    "SG Banks|/companies-markets/banking-finance/fed-governor-cooks-lawyer-denounces-trumps-latest-attempt-remove-her",
+    "Watchlist|/companies-markets/banking-finance/fed-governor-cooks-lawyer-denounces-trumps-latest-attempt-remove-her",
+    "AI|03dd476a-f40c-3e54-a78c-a607b909e536",
+    "Watchlist|03dd476a-f40c-3e54-a78c-a607b909e536",
+    "Crypto|1ca0b287-b777-3c54-9c3a-54c861950af5",
+    "SG Banks|/companies-markets/ubs-barclays-uob-among-private-banks-growing-singapore-talent-pool-wealth-sector-booms",
+    "Watchlist|/companies-markets/ubs-barclays-uob-among-private-banks-growing-singapore-talent-pool-wealth-sector-booms"
   ],
   "topic_error": "",
   "last_digest": "2026-10-14",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791970871.3648753
+  "last_check": 1791971774.3494358
 }
