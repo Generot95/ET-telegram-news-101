@@ -1,7 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/economy-news/french-economy-posts-minimal-growth-in-third-quarter-93CH-4945036",
     "SG Banks|https://www.investing.com/news/stock-market-news/crowdstrike-and-facebook-among-market-cap-stock-movers-on-monday-93CH-4945037",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-tmobile-us-stock-rallying-today-93CH-4945038",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-ciena-stock-tumbling-today-93CH-4945039",
@@ -5000,7 +4999,8 @@
     "Crypto|WP-MKTW-0003973830",
     "Crypto|WP-MKTW-0003986044",
     "Crypto|WP-MKTW-0004302286",
-    "Watchlist|73b6403c-8827-3bd2-ad98-723a549a7a8f"
+    "Watchlist|73b6403c-8827-3bd2-ad98-723a549a7a8f",
+    "SG Banks|https://www.channelnewsasia.com/business/stripchat-loses-legal-fight-against-eu-tech-label-6458361"
   ],
   "topic_error": "",
   "last_digest": "2026-10-14",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791963524.1953328
+  "last_check": 1791964444.5266619
 }
