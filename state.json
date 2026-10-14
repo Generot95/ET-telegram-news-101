@@ -1,20 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|ca431fe5-2e49-3fd7-bf1f-b6ae13815516",
-    "AI|ab98f1ab-0183-398d-93d5-59b9ee3be160",
-    "SG Banks|https://www.straitstimes.com/business/companies-markets/human-judgment-and-intentional-outcomes-are-vital-in-ai-use-dbs-tiktok-ceos-say",
-    "Watchlist|ab98f1ab-0183-398d-93d5-59b9ee3be160",
-    "SG Banks|https://www.channelnewsasia.com/business/goolsbee-says-ai-induced-inflation-jumping-out-its-lane-semafor-reports-6456476",
-    "War|bfda4c3e-8c82-480c-b34c-3ac5b024608d",
-    "AI|ce495ace-067e-300e-8427-8aabbe38f7b9",
-    "Watchlist|ce495ace-067e-300e-8427-8aabbe38f7b9",
-    "Watchlist|3f41c10f-f05f-38b1-bdda-1193c57eb1f0",
-    "AI|8ac3d105-a5d8-3b13-a4bb-626c31c46086",
-    "Watchlist|8ac3d105-a5d8-3b13-a4bb-626c31c46086",
-    "AI|b0c51731-90e1-3a18-937f-dbd95f44eeaa",
-    "Watchlist|b0c51731-90e1-3a18-937f-dbd95f44eeaa",
-    "AI|d444a472-dee0-3ba3-88db-bd1f55cce189",
     "Crypto|8821416b-6d2f-302d-a3f6-6c19b7942bb8",
     "Watchlist|d444a472-dee0-3ba3-88db-bd1f55cce189",
     "Watchlist|409b982b-a900-3a38-9d29-81d893b54bb6",
@@ -5000,7 +4986,21 @@
     "War|WP-MKTW-0005288033",
     "AI|WP-MKTW-0005288033",
     "Cybersecurity|WP-MKTW-0005288033",
-    "War|f8f40eb8-34d7-4eff-84ad-a769ac721048"
+    "War|f8f40eb8-34d7-4eff-84ad-a769ac721048",
+    "SG Banks|/companies-markets/tesla-spacex-deal-news-possible-2026-barclays-analyst-says",
+    "Watchlist|/companies-markets/tesla-spacex-deal-news-possible-2026-barclays-analyst-says",
+    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-comtech-q4-2026-loss-narrows-but-revenue-misses-93CH-4950201",
+    "AI|https://www.investing.com/news/insider-trading-news/meta-coo-javier-olivan-sells-115m-in-meta-shares-93CH-4950211",
+    "AI|https://www.investing.com/news/stock-market-news/anthropics-q3-revenue-surges-45-to-nearly-17-billion-4950208",
+    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-comtech-q4-2026-loss-narrows-but-revenue-misses-93CH-4950201",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/meta-coo-javier-olivan-sells-115m-in-meta-shares-93CH-4950211",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/anthropics-q3-revenue-surges-45-to-nearly-17-billion-4950208",
+    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-comtech-q4-2026-loss-narrows-but-revenue-misses-93CH-4950201",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/meta-coo-javier-olivan-sells-115m-in-meta-shares-93CH-4950211",
+    "SG Banks|https://www.investing.com/news/stock-market-news/anthropics-q3-revenue-surges-45-to-nearly-17-billion-4950208",
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-comtech-q4-2026-loss-narrows-but-revenue-misses-93CH-4950201",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/meta-coo-javier-olivan-sells-115m-in-meta-shares-93CH-4950211",
+    "Watchlist|https://www.investing.com/news/stock-market-news/anthropics-q3-revenue-surges-45-to-nearly-17-billion-4950208"
   ],
   "topic_error": "",
   "last_digest": "2026-10-14",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792017699.5392199
+  "last_check": 1792018605.9934359
 }
