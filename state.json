@@ -1,24 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/economy-news/goldmans-ceo-solomon-says-to-watch-political-volatility-around-data-centers-4947151",
-    "AI|https://www.investing.com/news/stock-market-news/synchrony-financial-stock-may-move-55-on-oct-20-earnings-93CH-4947118",
-    "AI|https://www.investing.com/news/stock-market-news/ally-financial-stock-may-move-64-on-oct-20-earnings-93CH-4947119",
-    "AI|https://www.investing.com/news/stock-market-news/sk-hynix-nearterm-bull-and-bear-case-93CH-4947120",
-    "AI|https://www.investing.com/news/stock-market-news/uber-autonomous-head-maredia-to-depart-as-leadership-shifts-continue--bloomberg-4947129",
-    "AI|https://www.investing.com/news/stock-market-news/wizz-air-in-talks-for-airport-slots-as-european-airlines-face-pressure-93CH-4947130",
-    "AI|https://www.investing.com/news/company-news/artisan-partners-asset-management-stock-hits-52week-low-at-3165-93CH-4947063",
-    "AI|https://www.investing.com/news/company-news/planet-zoo-2-launches-on-pc-and-consoles-today-93CH-4947064",
-    "AI|https://www.investing.com/news/company-news/etor-stock-hits-52week-low-at-2473-usd-93CH-4947068",
-    "AI|https://www.investing.com/news/company-news/ptc-therapeutics-stock-hits-52week-low-at-6120-93CH-4947103",
-    "AI|https://www.investing.com/news/company-news/fb-financial-q3-2026-slides-loan-growth-strong-amid-margin-pressure-93CH-4947105",
-    "AI|https://www.investing.com/news/company-news/axis-bank-allots-92708-shares-under-employee-stock-plan-93CH-4947113",
-    "AI|https://www.investing.com/news/company-news/chevron-stock-hits-alltime-high-at-21778-usd-93CH-4947124",
-    "AI|https://www.investing.com/news/company-news/petra-diamonds-appoints-piers-marsden-as-senior-director-93CH-4947125",
-    "AI|https://www.investing.com/news/company-news/hartford-completes-acquisition-of-equitables-employee-benefits-unit-93CH-4947132",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/privacy-by-default-disclosure-by-choice-ricchezza-coin-prepares-to-launch-layer-1-privacy-ecosystem-4947123",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/eli-lilly-leads-largecap-pharma-on-growth-but-valuation-is-a-tradeoff-93CH-4947143",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/spacex-and-sandisk-among-market-cap-stock-movers-on-tuesday-93CH-4947144",
     "Cybersecurity|https://www.investing.com/news/company-news/alaunos-completes-velaris-acquisition-raises-350-million-93CH-4947145",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/as-eu-debates-localcontent-rules-chinese-automakers-are-already-adapting-4946783",
     "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-tata-elxsi-rises-on-q2-2027-margin-gains-93CH-4947146",
@@ -5000,7 +4982,25 @@
     "Watchlist|/companies-markets/telcos-media-tech/apple-unveils-new-smart-home-products-showcasing-updated-siri-ai",
     "SG Banks|/companies-markets/energy-commodities/oil-edges-middle-east-and-russia-hostilities-imperil-flows",
     "SG Banks|https://www.channelnewsasia.com/commentary/ai-boom-circular-money-machine-6458506",
-    "Watchlist|/companies-markets/energy-commodities/oil-edges-middle-east-and-russia-hostilities-imperil-flows"
+    "Watchlist|/companies-markets/energy-commodities/oil-edges-middle-east-and-russia-hostilities-imperil-flows",
+    "Cybersecurity|8a962d4b-e009-3ec9-8c70-696dd2d5b6e9",
+    "SG Banks|https://www.channelnewsasia.com/business/mexico-require-digital-platforms-shield-minors-harmful-content-6459421",
+    "SG Banks|https://www.channelnewsasia.com/business/anthropic-revenue-jumps-168-billion-in-third-quarter-ft-reports-6460761",
+    "War|https://www.investing.com/news/world-news/costa-rica-opens-megaprison-as-organized-crime-fight-intensifies-4950158",
+    "AI|https://www.investing.com/news/insider-trading-news/everpure-ceo-charles-giancarlo-sells-1076m-in-stock-93CH-4950183",
+    "AI|https://www.investing.com/news/insider-trading-news/everpure-cvo-john-colgrove-sells-308-million-in-shares-93CH-4950185",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/everpure-ceo-charles-giancarlo-sells-1076m-in-stock-93CH-4950183",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/everpure-cvo-john-colgrove-sells-308-million-in-shares-93CH-4950185",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/everpure-ceo-charles-giancarlo-sells-1076m-in-stock-93CH-4950183",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/everpure-cvo-john-colgrove-sells-308-million-in-shares-93CH-4950185",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/everpure-ceo-charles-giancarlo-sells-1076m-in-stock-93CH-4950183",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/everpure-cvo-john-colgrove-sells-308-million-in-shares-93CH-4950185",
+    "War|0db735f9-9f2f-3ada-9710-303814688f15",
+    "War|WP-MKTW-0005287491",
+    "AI|dad16c35-5a59-3103-9ae4-5af80002d81a",
+    "AI|WP-MKTW-0005287491",
+    "Cybersecurity|WP-MKTW-0005287491",
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/privacy-by-default-disclosure-by-choice-ricchezza-coin-prepares-to-launch-layer-1-privacy-ecosystem-4947123"
   ],
   "topic_error": "",
   "last_digest": "2026-10-14",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792015861.0443618
+  "last_check": 1792016776.1351626
 }
