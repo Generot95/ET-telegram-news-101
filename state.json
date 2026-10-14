@@ -1,23 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-bellway-stock-rallying-today-93CH-4945712",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-michael-page-q3-2026-returns-to-growth-as-stock-slips-93CH-4945713",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-lvmh-moet-hennessy-louis-vuitton-stock-sliding-today-93CH-4945714",
-    "SG Banks|https://www.investing.com/news/earnings/yougov-shares-jump-on-profit-growth-guidance-for-fiscal-2027-4945724",
-    "Watchlist|https://www.investing.com/news/economy-news/blackrock-cools-on-us-stocks-turns-bullish-on-shortdated-treasuries-4945707",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/generac-ceo-aaron-jagdfeld-sells-103m-in-company-stock-93CH-4945708",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-bytes-technology-stock-sliding-today-93CH-4945709",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/wedbush-reiterates-outperform-on-ionq-stock-after-elisity-deal-93CH-4945711",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-bellway-stock-rallying-today-93CH-4945712",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-michael-page-q3-2026-returns-to-growth-as-stock-slips-93CH-4945713",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-lvmh-moet-hennessy-louis-vuitton-stock-sliding-today-93CH-4945714",
-    "Watchlist|https://www.investing.com/news/earnings/yougov-shares-jump-on-profit-growth-guidance-for-fiscal-2027-4945724",
-    "Iran|https://www.iranintl.com/en/202610114328",
-    "SG Banks|/companies-markets/capital-markets-currencies/european-shares-edge-higher-lower-oil-prices-lift-sentiment",
-    "Watchlist|/companies-markets/energy-commodities/jefferies-run-fund-alleges-industrial-scale-fraud-nearly-us900-million-radiant-world-deals",
-    "Watchlist|/companies-markets/capital-markets-currencies/european-shares-edge-higher-lower-oil-prices-lift-sentiment",
-    "War|b9e4974c-499e-39c8-a7c7-b51d5c2fbcbe",
     "AI|bbb9f515-cfbf-3825-9bd8-f1f9fc2029f8",
     "AI|77258d78-5c82-3e76-bedf-32867887c7b0",
     "Watchlist|bbb9f515-cfbf-3825-9bd8-f1f9fc2029f8",
@@ -5000,7 +4983,24 @@
     "AI|28eab7dd-5c2b-3ac6-aad0-cdc63b2619f6",
     "AI|b726611e-b5f6-3a7f-8de9-16b0384b06ce",
     "Watchlist|28eab7dd-5c2b-3ac6-aad0-cdc63b2619f6",
-    "Watchlist|b726611e-b5f6-3a7f-8de9-16b0384b06ce"
+    "Watchlist|b726611e-b5f6-3a7f-8de9-16b0384b06ce",
+    "Watchlist|2371963b-3f8a-349c-baeb-71a4b8d64b14",
+    "AI|662218c0-796e-3b5b-a941-7bacd80257f2",
+    "AI|64614167-5f40-39c3-ad8b-edabbddd56e2",
+    "AI|d563dfcc-5bf1-438e-9546-b78c5585f35e",
+    "AI|8d503cc7-7f43-3242-86c1-554a67012a7b",
+    "Watchlist|d563dfcc-5bf1-438e-9546-b78c5585f35e",
+    "Watchlist|8d503cc7-7f43-3242-86c1-554a67012a7b",
+    "AI|102e7bd0-d95b-3a86-a3da-2244cd5f4211",
+    "AI|9ea40d4f-4377-3c41-bd58-4326c9beba80",
+    "Watchlist|3efe4ef5-e492-3d00-bb5f-d28832d53225",
+    "Watchlist|102e7bd0-d95b-3a86-a3da-2244cd5f4211",
+    "Watchlist|9ea40d4f-4377-3c41-bd58-4326c9beba80",
+    "Watchlist|0ea0caa4-13f3-38a3-96a0-7281fee96c56",
+    "Iran|https://www.iranintl.com/en/202610114328",
+    "War|b4d590f8-421a-3a93-ada2-9ca863570b9d",
+    "SG Banks|/companies-markets/capital-markets-currencies/european-shares-edge-higher-lower-oil-prices-lift-sentiment",
+    "Watchlist|/companies-markets/capital-markets-currencies/european-shares-edge-higher-lower-oil-prices-lift-sentiment"
   ],
   "topic_error": "",
   "last_digest": "2026-10-14",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791988281.802024
+  "last_check": 1791989194.2844348
 }
