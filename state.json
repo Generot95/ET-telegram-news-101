@@ -1,22 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|f1a1558b-2909-3772-bd37-c8176417ffbb",
-    "Watchlist|44f5ddf0-f8e9-451f-bc29-9db334003fa3",
-    "AI|5c91c0a1-3bed-3aaf-b895-d2c743ab88ec",
-    "Watchlist|5c91c0a1-3bed-3aaf-b895-d2c743ab88ec",
-    "AI|1c0839be-02b7-3a1d-8392-5317c98f80fb",
-    "Watchlist|1c0839be-02b7-3a1d-8392-5317c98f80fb",
-    "AI|837f2eda-cb01-4db9-a880-e175831ad2cf",
-    "AI|c97cd43a-5f8b-3d33-be7d-7395b505e3fa",
-    "Watchlist|c97cd43a-5f8b-3d33-be7d-7395b505e3fa",
-    "Watchlist|ad43cd72-bc62-4822-b980-126bb0667db7",
-    "AI|b483315d-3a9b-3b44-8276-1dd6c4d3257b",
-    "Watchlist|b483315d-3a9b-3b44-8276-1dd6c4d3257b",
-    "AI|9eb9fd0e-0b44-3a04-b2d7-fcbf9ae3a93a",
-    "Watchlist|9eb9fd0e-0b44-3a04-b2d7-fcbf9ae3a93a",
-    "War|WP-MKTW-0005282690",
-    "AI|https://www.investing.com/news/stock-market-news/visa-options-activity-shows-callheavy-flow-with-261-ratio-93CH-4945094",
     "AI|https://www.investing.com/news/company-news/barings-participation-investors-declares-037-quarterly-dividend-93CH-4945096",
     "AI|https://www.investing.com/news/company-news/barings-corporate-investors-declares-040-quarterly-dividend-93CH-4945097",
     "AI|https://www.investing.com/news/company-news/intel-unveils-gpu-dseries-for-ai-inference-at-ocp-summit-93CH-4945098",
@@ -5000,7 +4984,23 @@
     "Watchlist|https://www.investing.com/news/company-news/bivial-ag-brings-its-complete-dashboard-to-mobile-4948358",
     "Watchlist|https://www.investing.com/news/economic-indicators/german-economy-likely-slowed-in-third-quarter-ministry-says-4948362",
     "Watchlist|https://www.investing.com/news/analyst-ratings/barclays-cuts-dell-stock-rating-on-slowing-growth-outlook-93CH-4948364",
-    "War|deacede1-2db5-32d7-931b-bfdeae6e33c4"
+    "War|deacede1-2db5-32d7-931b-bfdeae6e33c4",
+    "War|38f7cebe-be0d-339d-b17b-368b8242079f",
+    "SG Banks|https://www.straitstimes.com/business/hongkong-land-in-talks-with-ong-beng-sengs-hpl-for-stake-in-orchard-road-buildings-sources",
+    "AI|8ebf20ed-f624-3099-a77b-883778dcb122",
+    "SG Banks|https://www.channelnewsasia.com/business/asml-says-ai-demand-will-exceed-chip-tool-capacity-through-2028-6458041",
+    "Watchlist|8ebf20ed-f624-3099-a77b-883778dcb122",
+    "War|WP-MKTW-0005286170",
+    "AI|WP-MKTW-0005286170",
+    "Cybersecurity|WP-MKTW-0005286170",
+    "War|64a5db29-4b94-40ab-8c3f-ab15e1465404",
+    "SG Banks|/companies-markets/banking-finance/hong-kongs-clearing-bank-gains-new-funding-access-renminbi-push",
+    "Watchlist|/companies-markets/banking-finance/hong-kongs-clearing-bank-gains-new-funding-access-renminbi-push",
+    "Iran|https://www.iranintl.com/en/202610132917",
+    "AI|827827f2-d0ab-3b77-a1b8-bb7bc80f455e",
+    "Watchlist|827827f2-d0ab-3b77-a1b8-bb7bc80f455e",
+    "AI|234f881e-66b6-3dcf-8924-b89b9ba2ec31",
+    "Watchlist|234f881e-66b6-3dcf-8924-b89b9ba2ec31"
   ],
   "topic_error": "",
   "last_digest": "2026-10-14",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1791967205.5918453
+  "last_check": 1791968115.7955737
 }
