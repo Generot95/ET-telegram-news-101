@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Iran|https://www.iranintl.com/en/202610136407",
-    "War|58d996d6-a6d7-38bf-b84e-f8ab1a3c3a26",
-    "War|f2367445-2402-31b4-ad5f-d0ce82590a5f",
-    "AI|c221c895-d478-3b1a-9081-64dccb48fcb6",
-    "AI|479d7ef9-c311-38d4-83ad-503697e4f5d3",
-    "Watchlist|479d7ef9-c311-38d4-83ad-503697e4f5d3",
     "Watchlist|c221c895-d478-3b1a-9081-64dccb48fcb6",
     "AI|b7551055-6f2e-39a1-ba59-aaa356e4ce75",
     "AI|8bb032c1-06dc-3123-a863-f8ac687b410a",
@@ -5000,7 +4994,13 @@
     "SG Banks|/companies-markets/sgx-securities-trading-value-27-september-derivatives-volume-rebounds",
     "SG Banks|https://www.channelnewsasia.com/business/boj-should-not-be-overly-cautious-in-raising-rates-board-member-koeda-says-6461001",
     "SG Banks|https://www.channelnewsasia.com/business/imf-warns-slowing-asian-growth-spillover-rising-yields-6461051",
-    "Watchlist|/companies-markets/sgx-securities-trading-value-27-september-derivatives-volume-rebounds"
+    "Watchlist|/companies-markets/sgx-securities-trading-value-27-september-derivatives-volume-rebounds",
+    "War|c3e2e425-2483-3a66-8640-fef8b617e9bc",
+    "Iran|https://www.iranintl.com/en/202610136407",
+    "AI|https://www.investing.com/news/economy-news/imf-warns-of-slowing-asian-growth-spillover-from-rising-yields-4950397",
+    "Cybersecurity|https://www.investing.com/news/economy-news/imf-warns-of-slowing-asian-growth-spillover-from-rising-yields-4950397",
+    "SG Banks|https://www.investing.com/news/economy-news/imf-warns-of-slowing-asian-growth-spillover-from-rising-yields-4950397",
+    "Watchlist|https://www.investing.com/news/economy-news/imf-warns-of-slowing-asian-growth-spillover-from-rising-yields-4950397"
   ],
   "topic_error": "",
   "last_digest": "2026-10-15",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792030515.3632596
+  "last_check": 1792031443.7927444
 }
