@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|c221c895-d478-3b1a-9081-64dccb48fcb6",
-    "AI|b7551055-6f2e-39a1-ba59-aaa356e4ce75",
-    "AI|8bb032c1-06dc-3123-a863-f8ac687b410a",
     "Watchlist|b7551055-6f2e-39a1-ba59-aaa356e4ce75",
     "Watchlist|8bb032c1-06dc-3123-a863-f8ac687b410a",
     "AI|33e1be26-97f7-3e68-920a-31d0baea95a9",
@@ -5000,7 +4997,10 @@
     "AI|https://www.investing.com/news/economy-news/imf-warns-of-slowing-asian-growth-spillover-from-rising-yields-4950397",
     "Cybersecurity|https://www.investing.com/news/economy-news/imf-warns-of-slowing-asian-growth-spillover-from-rising-yields-4950397",
     "SG Banks|https://www.investing.com/news/economy-news/imf-warns-of-slowing-asian-growth-spillover-from-rising-yields-4950397",
-    "Watchlist|https://www.investing.com/news/economy-news/imf-warns-of-slowing-asian-growth-spillover-from-rising-yields-4950397"
+    "Watchlist|https://www.investing.com/news/economy-news/imf-warns-of-slowing-asian-growth-spillover-from-rising-yields-4950397",
+    "War|b2d6aff4-417d-3598-a6ea-07e44484d7cf",
+    "SG Banks|/companies-markets/noontalk-needs-continued-financial-support-ceo-dasmond-koh-auditors-warn",
+    "Watchlist|/companies-markets/noontalk-needs-continued-financial-support-ceo-dasmond-koh-auditors-warn"
   ],
   "topic_error": "",
   "last_digest": "2026-10-15",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792031443.7927444
+  "last_check": 1792032347.06321
 }
