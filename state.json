@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/top-rail-stocks-to-watch-according-to-jefferies-analysis-4947385",
-    "AI|https://www.investing.com/news/stock-market-news/india-regulator-proposes-tighter-rules-for-equity-fundraising-93CH-4947386",
-    "AI|https://www.investing.com/news/stock-market-news/taketwo-interactive-options-flow-leans-bearish-with-putheavy-volume-93CH-4947388",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/top-rail-stocks-to-watch-according-to-jefferies-analysis-4947385",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/india-regulator-proposes-tighter-rules-for-equity-fundraising-93CH-4947386",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/taketwo-interactive-options-flow-leans-bearish-with-putheavy-volume-93CH-4947388",
@@ -5000,7 +4997,10 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-341-4950569",
     "Watchlist|https://www.investing.com/news/economy-news/is-the-ai-rout-making-bonds-safe-again-4950570",
     "Watchlist|https://www.investing.com/news/insider-trading-news/saba-capital-sells-617k-in-blackrock-ecat-shares-93CH-4950571",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/saba-capital-sells-45m-in-pimco-dynamic-income-strategy-fund-shares-93CH-4950572"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/saba-capital-sells-45m-in-pimco-dynamic-income-strategy-fund-shares-93CH-4950572",
+    "AI|8fa1908d-9f04-3a8a-87f7-2a93dab0f7ae",
+    "War|49d763e6-1179-3353-95df-62719a1d3efc",
+    "War|887e7b57-8497-3979-a354-23f6cfa3d3de"
   ],
   "topic_error": "",
   "last_digest": "2026-10-15",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792044252.3671553
+  "last_check": 1792045165.1305113
 }
