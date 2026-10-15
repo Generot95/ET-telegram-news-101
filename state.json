@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/company-news/pbf-energy-stock-hits-alltime-high-at-8949-usd-93CH-4947207",
-    "SG Banks|/companies-markets/banking-finance/biggest-rupee-defence-decade-draws-line-under-97-us-dollar",
-    "SG Banks|/singapore/economy-policy/mas-flags-risks-using-ai-agents-digital-asset-trading",
-    "SG Banks|/companies-markets/singapore-shares-end-lower-amid-mixed-regional-trading-sti-down-0-2",
-    "Watchlist|/singapore/economy-policy/mas-flags-risks-using-ai-agents-digital-asset-trading",
-    "Watchlist|/companies-markets/singapore-shares-end-lower-amid-mixed-regional-trading-sti-down-0-2",
     "Watchlist|/companies-markets/banking-finance/biggest-rupee-defence-decade-draws-line-under-97-us-dollar",
     "AI|70834b2f-b757-3077-b5eb-d89ed40bb2a0",
     "SG Banks|https://www.channelnewsasia.com/business/goldman-ceo-watching-election-driven-volatility-around-data-centers-6456656",
@@ -5000,7 +4994,13 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/bx-buzz-ml1-gp-llc-sells-978m-of-bumble-bmbl-stock-93CH-4950278",
     "Watchlist|https://www.investing.com/news/insider-trading-news/coreweave-cfo-nitin-agrawal-sells-18m-in-crwv-stock-93CH-4950298",
     "Watchlist|https://www.investing.com/news/insider-trading-news/coreweave-cro-jonathan-jones-sells-over-29m-in-stock-93CH-4950299",
-    "SG Banks|https://www.straitstimes.com/business/brutal-session-for-chip-stocks-shows-ai-trade-is-turning"
+    "SG Banks|https://www.straitstimes.com/business/brutal-session-for-chip-stocks-shows-ai-trade-is-turning",
+    "AI|596762d2-23b4-3df2-a24a-98539f3348ae",
+    "Watchlist|596762d2-23b4-3df2-a24a-98539f3348ae",
+    "SG Banks|/companies-markets/banking-finance/biggest-rupee-defence-decade-draws-line-under-97-us-dollar",
+    "SG Banks|/companies-markets/reits-property/aims-apac-reit-q2-dpu-5-4-s0-02571",
+    "Watchlist|/companies-markets/reits-property/aims-apac-reit-q2-dpu-5-4-s0-02571",
+    "Watchlist|de82c795-b0ad-3903-b41d-2fa82a9e5451"
   ],
   "topic_error": "",
   "last_digest": "2026-10-15",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792023186.2686486
+  "last_check": 1792024091.5426645
 }
