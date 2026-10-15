@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/commodities-news/gold-holds-twoday-slide-as-fed-signals-one-more-hike-us-cpi-in-focus-4947854",
-    "AI|https://www.investing.com/news/economic-indicators/china-cpi-inflation-grows-less-than-expected-in-sept-ppi-hits-4yr-high-4947865",
-    "AI|https://www.investing.com/news/economy-news/chinas-factorygate-inflation-accelerates-in-september-4947866",
-    "AI|https://www.investing.com/news/company-news/pharmx-q1-fy27-slides-marketplace-gtv-surges-150-targets-100m-runrate-93CH-4947867",
-    "AI|https://www.investing.com/news/stock-market-news/sk-group-chairman-chey-sells-stake-to-dell-family-office-fund-for-406-million-4947868",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-pharmx-posts-9-revenue-growth-in-q1-2026-as-stock-slips-93CH-4947852",
-    "Cybersecurity|https://www.investing.com/news/company-news/core-lithium-q3-fy27-slides-first-concentrate-produced-restart-on-track-93CH-4947853",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/gold-holds-twoday-slide-as-fed-signals-one-more-hike-us-cpi-in-focus-4947854",
-    "Cybersecurity|https://www.investing.com/news/economic-indicators/china-cpi-inflation-grows-less-than-expected-in-sept-ppi-hits-4yr-high-4947865",
-    "Cybersecurity|https://www.investing.com/news/economy-news/chinas-factorygate-inflation-accelerates-in-september-4947866",
     "Cybersecurity|https://www.investing.com/news/company-news/pharmx-q1-fy27-slides-marketplace-gtv-surges-150-targets-100m-runrate-93CH-4947867",
     "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-pharmx-posts-9-revenue-growth-in-q1-2026-as-stock-slips-93CH-4947852",
     "SG Banks|https://www.investing.com/news/company-news/core-lithium-q3-fy27-slides-first-concentrate-produced-restart-on-track-93CH-4947853",
@@ -5000,7 +4990,17 @@
     "Watchlist|https://www.investing.com/news/earnings/bank-of-new-york-earnings-beat-by-011-revenue-topped-estimates-4951100",
     "Watchlist|https://www.investing.com/news/company-news/turkiye-garanti-bankasi-sets-try-100-billion-abs-issuance-ceiling-93CH-4951101",
     "SG Banks|/companies-markets/singapore-build-digital-bunkering-data-ecosystem",
-    "Watchlist|/companies-markets/singapore-build-digital-bunkering-data-ecosystem"
+    "Watchlist|/companies-markets/singapore-build-digital-bunkering-data-ecosystem",
+    "AI|49d4e405-b007-3269-a621-5de499892579",
+    "AI|1a479ccf-8260-3688-9e82-8e3943ccc70f",
+    "Watchlist|49d4e405-b007-3269-a621-5de499892579",
+    "Watchlist|1a479ccf-8260-3688-9e82-8e3943ccc70f",
+    "Crypto|c6c2d6f4-d3c3-3428-b5b9-cbb13c839e5e",
+    "SG Banks|/international/capitaland-india-trust-unveils-us203-2-million-chennai-data-centre",
+    "Watchlist|/international/capitaland-india-trust-unveils-us203-2-million-chennai-data-centre",
+    "AI|7b2229a4-0375-3de6-a4df-02da40bfad1b",
+    "Watchlist|7b2229a4-0375-3de6-a4df-02da40bfad1b",
+    "Crypto|f1ee6703-afcd-3ecf-a56c-10e52d3e80f5"
   ],
   "topic_error": "",
   "last_digest": "2026-10-15",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792061659.2945464
+  "last_check": 1792062586.2190616
 }
