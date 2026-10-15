@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/qualcomm-says-jury-found-arm-breached-license-agreement-4947346",
-    "AI|https://www.investing.com/news/company-news/lockheed-martin-partners-with-avio-for-rocket-motor-production-93CH-4947348",
-    "Cybersecurity|https://www.investing.com/news/company-news/ads-to-acquire-stormtrap-for-530-million-from-psp-capital-93CH-4947333",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-vertex-pharmaceuticals-stock-sliding-4-today-93CH-4947334",
-    "Cybersecurity|https://www.investing.com/news/company-news/centene-corp-stock-hits-52week-high-at-6964-usd-93CH-4947342",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/arm-shares-fall-after-jury-rules-in-favor-of-qualcomm-in-license-dispute-4947344",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/qualcomm-says-jury-found-arm-breached-license-agreement-4947346",
     "Cybersecurity|https://www.investing.com/news/company-news/lockheed-martin-partners-with-avio-for-rocket-motor-production-93CH-4947348",
     "SG Banks|https://www.investing.com/news/company-news/ads-to-acquire-stormtrap-for-530-million-from-psp-capital-93CH-4947333",
@@ -5000,7 +4994,13 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-ceat-stock-falling-today-93CH-4950492",
     "AI|9e01f036-7247-3c1a-bb48-118b686dd970",
     "Watchlist|9e01f036-7247-3c1a-bb48-118b686dd970",
-    "SG Banks|https://www.straitstimes.com/business/start-dating-earlier-lunch-actually-ceo-on-finding-a-life-partner-in-spore"
+    "SG Banks|https://www.straitstimes.com/business/start-dating-earlier-lunch-actually-ceo-on-finding-a-life-partner-in-spore",
+    "SG Banks|https://www.channelnewsasia.com/business/imf-vows-continued-support-sri-lanka-6461341",
+    "Crypto|296002ba-a6a8-33d1-833f-305c291059e9",
+    "SG Banks|https://www.channelnewsasia.com/business/prolonged-war-renewed-disruptions-pose-biggest-risk-middle-east-region-imf-says-6461356",
+    "SG Banks|/companies-markets/capital-markets-currencies/tsmc-sk-hynix-among-5-new-sdrs-be-launched-sgx",
+    "SG Banks|https://www.channelnewsasia.com/business/asian-markets-sell-us-inflation-rate-hike-kospi-nikkei-6460916",
+    "Watchlist|/companies-markets/capital-markets-currencies/tsmc-sk-hynix-among-5-new-sdrs-be-launched-sgx"
   ],
   "topic_error": "",
   "last_digest": "2026-10-15",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792038756.0192575
+  "last_check": 1792039665.2172782
 }
