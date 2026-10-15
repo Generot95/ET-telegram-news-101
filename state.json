@@ -1,21 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/strive-plans-ipo-of-15-preferred-stock-to-fund-bitcoin-buys-432SI-4947526",
-    "AI|https://www.investing.com/news/stock-market-news/trexbio-raises-1167m-in-nasdaq-ipo-at-14-per-share-432SI-4947553",
-    "AI|https://www.investing.com/news/company-news/thor-industries-raises-quarterly-dividend-by-38-93CH-4947550",
-    "AI|https://www.investing.com/news/company-news/datavault-ai-ceo-to-present-at-mass-tort-conference-93CH-4947551",
-    "AI|https://www.investing.com/news/company-news/liberty-defense-ceo-bill-frain-to-resign-coo-to-serve-as-interim-93CH-4947552",
-    "AI|https://www.investing.com/news/company-news/trexbio-completes-1167-million-initial-public-offering-93CH-4947557",
-    "AI|https://www.investing.com/news/company-news/equus-total-return-receives-nyse-noncompliance-notice-93CH-4947575",
-    "AI|https://www.investing.com/news/company-news/rambus-launches-power-management-chip-for-lpddr6-server-modules-93CH-4947576",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/bybit-expands-beyond-crypto-as-ceo-outlines-next-phase-of-financial-platform-4947564",
-    "Cybersecurity|https://www.investing.com/news/company-news/landbridge-completes-conversion-to-texas-corporation-93CH-4947559",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/stifel-initiates-ideaya-biosciences-stock-with-buy-rating-93CH-4947560",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/freedom-capital-initiates-healthstream-stock-coverage-with-hold-rating-93CH-4947561",
-    "Cybersecurity|https://www.investing.com/news/cryptocurrency-news/bybit-expands-beyond-crypto-as-ceo-outlines-next-phase-of-financial-platform-4947564",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/martine-rothblatt-united-therapeutics-ceo-sells-52m-in-shares-93CH-4947568",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/fbi-arrests-former-openai-employee-for-planting-listening-device-4947422",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/aramco-hq-hit-in-houthi-attack-as-fire-extinguished-in-dhahran--bloomberg-4947574",
     "Cybersecurity|https://www.investing.com/news/company-news/thor-industries-raises-quarterly-dividend-by-38-93CH-4947550",
     "Cybersecurity|https://www.investing.com/news/company-news/datavault-ai-ceo-to-present-at-mass-tort-conference-93CH-4947551",
@@ -5000,7 +4985,22 @@
     "Watchlist|https://www.investing.com/news/forex-news/euro-bonds-reclaim-safehaven-status-as-equities-falter-on-ai-debt-4950664",
     "Watchlist|https://www.investing.com/news/company-news/energyvision-q3-2026-slides-revenue-jumps-52-guidance-reaffirmed-93CH-4950722",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-cicor-technologies-stock-sliding-today-93CH-4950723",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-thg-stock-surging-today-93CH-4950724"
+    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-thg-stock-surging-today-93CH-4950724",
+    "SG Banks|/international/asean/south-east-asia-fintech-funding-trebles-us2-3-billion-9m-2026-even-deal-volume-sinks",
+    "Watchlist|/international/asean/south-east-asia-fintech-funding-trebles-us2-3-billion-9m-2026-even-deal-volume-sinks",
+    "Watchlist|3085e227-51a0-3002-aa0a-ab3951360432",
+    "Iran|https://www.iranintl.com/en/202610141000",
+    "AI|18e895a0-08f4-3686-9537-8066b36c2720",
+    "Crypto|1603f5a1-ead9-3d79-b177-e921263ca233",
+    "SG Banks|/companies-markets/banking-finance/mufg-wades-back-japanese-bonds-eye-policy-risks",
+    "Watchlist|18e895a0-08f4-3686-9537-8066b36c2720",
+    "Watchlist|/companies-markets/banking-finance/mufg-wades-back-japanese-bonds-eye-policy-risks",
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/bybit-expands-beyond-crypto-as-ceo-outlines-next-phase-of-financial-platform-4947564",
+    "AI|5c9a3a11-8d6e-3f41-96f5-663ab8f09dbd",
+    "Watchlist|5c9a3a11-8d6e-3f41-96f5-663ab8f09dbd",
+    "SG Banks|https://www.straitstimes.com/business/air-india-forms-team-to-drive-cost-savings-memo-shows-it-deals-with-host-of-problems",
+    "AI|ccec0452-92f3-3098-9f8e-985170ca40e8",
+    "Watchlist|ccec0452-92f3-3098-9f8e-985170ca40e8"
   ],
   "topic_error": "",
   "last_digest": "2026-10-15",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792050663.1631649
+  "last_check": 1792051586.075102
 }
