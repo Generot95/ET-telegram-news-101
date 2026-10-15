@@ -1,17 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|d14e0627-634d-3dc0-88e9-fa9ce160e2f3",
-    "Crypto|721e35c2-6e5f-4bd8-8e4a-b7ca4f2bd02d",
-    "War|WP-MKTW-0005284638",
-    "AI|WP-MKTW-0005284638",
-    "Cybersecurity|WP-MKTW-0005284638",
-    "AI|204b951e-2428-38ec-bce4-87125d0bdb1f",
-    "AI|d541dc77-76a7-30fc-b3d4-0e91961bb359",
-    "Watchlist|d541dc77-76a7-30fc-b3d4-0e91961bb359",
-    "Watchlist|204b951e-2428-38ec-bce4-87125d0bdb1f",
-    "War|f83a262f-82d5-4aaa-b810-e05302112bd6",
-    "SG Banks|https://www.channelnewsasia.com/business/hyundai-motor-group-bets-155-billion-india-global-auto-hub-6456341",
     "AI|3803323d-ff07-36f5-b89d-aeb277941e61",
     "AI|31c1ae69-ee8b-3446-9234-124879551481",
     "AI|ad5d9612-cbb1-3e51-9c7b-726cf9a193f7",
@@ -5000,7 +4989,18 @@
     "SG Banks|https://www.investing.com/news/economy-news/brazils-senate-approves-shorter-workweek-in-win-for-lula-4950366",
     "Watchlist|https://www.investing.com/news/stock-market-news/norways-wealth-fund-set-to-overhaulethical-rules-after-us-scrutiny-4950361",
     "Watchlist|https://www.investing.com/news/insider-trading-news/fastly-cto-artur-bergman-sells-108-million-in-company-stock-93CH-4950365",
-    "Watchlist|https://www.investing.com/news/economy-news/brazils-senate-approves-shorter-workweek-in-win-for-lula-4950366"
+    "Watchlist|https://www.investing.com/news/economy-news/brazils-senate-approves-shorter-workweek-in-win-for-lula-4950366",
+    "AI|e6c1fc54-b429-372f-b7b0-90a360a28cc3",
+    "Watchlist|e6c1fc54-b429-372f-b7b0-90a360a28cc3",
+    "SG Banks|https://www.straitstimes.com/business/gold-slumps-as-faster-us-inflation-stokes-fed-rate-hike-wagers",
+    "Watchlist|f07b4c38-ed50-346c-b580-f3a650fe57e0",
+    "SG Banks|https://www.channelnewsasia.com/business/oil-prices-fall-investors-weigh-supply-outlook-middle-east-tensions-6460986",
+    "Cybersecurity|b5aa5f19-bee9-3ae0-a2fe-706709291279",
+    "Watchlist|b5aa5f19-bee9-3ae0-a2fe-706709291279",
+    "Watchlist|39b57e15-17ce-3ba1-911d-61a88c2f71ad",
+    "AI|a6d0ffec-6273-3312-b871-dad9bd4e4b86",
+    "Watchlist|a6d0ffec-6273-3312-b871-dad9bd4e4b86",
+    "War|13d1a0b7-ebd1-3e73-84bf-451c1cb80834"
   ],
   "topic_error": "",
   "last_digest": "2026-10-15",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792027772.1294482
+  "last_check": 1792028691.085858
 }
