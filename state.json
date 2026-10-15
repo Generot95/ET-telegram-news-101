@@ -1,17 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|16569295-af99-39b4-9522-e9413bf5c12c",
-    "AI|f257c61c-07e1-3d94-9665-ffc50f367da1",
-    "Cybersecurity|f257c61c-07e1-3d94-9665-ffc50f367da1",
-    "Watchlist|16569295-af99-39b4-9522-e9413bf5c12c",
-    "Watchlist|f257c61c-07e1-3d94-9665-ffc50f367da1",
-    "AI|331ff3cf-2ec5-4285-b3b5-2f2f1247e95c",
-    "Watchlist|331ff3cf-2ec5-4285-b3b5-2f2f1247e95c",
-    "War|WP-MKTW-0005286730",
-    "AI|WP-MKTW-0005286730",
-    "Cybersecurity|WP-MKTW-0005286730",
-    "Watchlist|16d8189a-97b5-3d8a-aefd-f0fb6d40f17a",
     "Watchlist|67cf2860-c6d1-39df-9e62-0ad14e84f9dc",
     "AI|a3a27c98-b158-3dc5-a192-e59079cb3351",
     "Watchlist|a3a27c98-b158-3dc5-a192-e59079cb3351",
@@ -5000,7 +4989,18 @@
     "AI|3e91cd45-19c4-3187-93a2-222450470fdd",
     "AI|f69e8769-7560-3ff4-9598-771fb1e9c14d",
     "Watchlist|3e91cd45-19c4-3187-93a2-222450470fdd",
-    "Watchlist|f69e8769-7560-3ff4-9598-771fb1e9c14d"
+    "Watchlist|f69e8769-7560-3ff4-9598-771fb1e9c14d",
+    "War|https://www.investing.com/news/world-news/liberal-bastion-no-more-rights-groups-fret-over-swedish-crackdown-on-gang-crime-3720016",
+    "War|https://www.investing.com/news/world-news/italian-president-tells-musk-to-quit-meddling-in-italys-domestic-politics-3720069",
+    "War|https://www.investing.com/news/stock-market-news/us-opens-missile-base-in-poland-as-trump-presidency-looms-over-nato-3718740",
+    "War|https://www.investing.com/news/world-news/quinoa-ceviche-and-chinese-fusion-on-menu-as-peru-hosts-biden-xi-3720035",
+    "War|https://www.investing.com/news/world-news/lebanon-awaits-truce-proposals-after-us-envoy-expresses-hope-3719089",
+    "War|https://www.investing.com/news/world-news/israel-questions-icc-judges-impartiality-in-netanyahu-arrest-case-3720345",
+    "War|https://www.investing.com/news/world-news/us-senate-republicans-to-pick-new-leader-amid-pressure-from-trump-allies-3719272",
+    "War|https://www.investing.com/news/world-news/uk-southport-murder-suspect-due-to-go-on-trial-in-january-3720359",
+    "War|https://www.investing.com/news/world-news/argentina-appeals-court-confirms-guilty-verdict-for-former-president-cristina-kirchner-3720259",
+    "War|https://www.investing.com/news/world-news/israel-rejects-aid-groups-gaza-report-says-it-relies-on-partial-information-3720445",
+    "SG Banks|https://www.straitstimes.com/business/netflix-names-former-disney-executive-rice-as-new-content-chief-as-bajaria-departs"
   ],
   "topic_error": "",
   "last_digest": "2026-10-15",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792105697.1313818
+  "last_check": 1792106619.4224374
 }
