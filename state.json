@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|8e25c41a-5554-3a70-af9d-997c4f6d49d3",
-    "War|69b8516c-d6b7-364b-9fa4-2e58edf00592",
-    "AI|5a89bc89-2081-3303-a584-67eea9b91adb",
-    "Watchlist|f23de3d8-4cbf-3c32-b37d-697b7b953b81",
-    "Watchlist|5a89bc89-2081-3303-a584-67eea9b91adb",
     "War|WP-MKTW-0005286698",
     "AI|08124cf4-6f89-3fdc-b271-1cefec71d6d7",
     "AI|WP-MKTW-0005286698",
@@ -5000,7 +4995,12 @@
     "Crypto|39de23aa-8667-349e-a51a-1859069debe0",
     "Crypto|4a6b0897-f212-3a75-b44e-9a70709b32cb",
     "AI|4fa350c7-d2cc-39ec-8800-5a0d9cb5300a",
-    "Watchlist|4fa350c7-d2cc-39ec-8800-5a0d9cb5300a"
+    "Watchlist|4fa350c7-d2cc-39ec-8800-5a0d9cb5300a",
+    "Crypto|633f1ae7-cc95-31c5-93f2-612784720c00",
+    "SG Banks|/companies-markets/capital-markets-currencies/chinas-plan-make-yuan-global-currency-enters-faster-phase",
+    "Watchlist|/companies-markets/capital-markets-currencies/chinas-plan-make-yuan-global-currency-enters-faster-phase",
+    "War|c918ac25-3e02-49aa-b3ea-73ab3221907c",
+    "Crypto|a9974e7a-dbb1-34ee-b892-005656cb0a97"
   ],
   "topic_error": "",
   "last_digest": "2026-10-15",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792107561.3058336
+  "last_check": 1792108462.505861
 }
