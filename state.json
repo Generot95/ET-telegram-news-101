@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|102e7bd0-d95b-3a86-a3da-2244cd5f4211",
-    "Watchlist|9ea40d4f-4377-3c41-bd58-4326c9beba80",
-    "Watchlist|0ea0caa4-13f3-38a3-96a0-7281fee96c56",
-    "Iran|https://www.iranintl.com/en/202610114328",
-    "War|b4d590f8-421a-3a93-ada2-9ca863570b9d",
-    "SG Banks|/companies-markets/capital-markets-currencies/european-shares-edge-higher-lower-oil-prices-lift-sentiment",
-    "Watchlist|/companies-markets/capital-markets-currencies/european-shares-edge-higher-lower-oil-prices-lift-sentiment",
-    "SG Banks|https://www.channelnewsasia.com/business/palantir-and-london-mayors-office-settle-lawsuit-over-uk-police-contract-6459671",
     "War|https://www.investing.com/news/commodities-news/us-lifts-sanctions-on-head-of-venezuela-legislature-4949651",
     "AI|f74b7cb3-2f49-3dae-b731-687263e2e323",
     "AI|https://www.investing.com/news/stock-market-news/why-is-bending-spoons-stock-surging-today-93CH-4949646",
@@ -5000,7 +4992,15 @@
     "Watchlist|https://www.investing.com/news/transcripts/evolve-royalties-at-precious-metals--critical-minerals-virtual-investor-conference-growth-plan-93CH-4952582",
     "SG Banks|https://www.straitstimes.com/business/us-mortgage-rates-reach-7-5-home-buying-slump-hits-sixth-week",
     "AI|f5c213aa-57b0-38f1-bae5-f7e2dbb746ab",
-    "Watchlist|f5c213aa-57b0-38f1-bae5-f7e2dbb746ab"
+    "Watchlist|f5c213aa-57b0-38f1-bae5-f7e2dbb746ab",
+    "AI|7aea6b1c-c26f-342e-a4a7-04bc0044facc",
+    "Watchlist|7aea6b1c-c26f-342e-a4a7-04bc0044facc",
+    "AI|8c90cdf9-8356-41cd-88fd-45a748360f7f",
+    "Watchlist|8c90cdf9-8356-41cd-88fd-45a748360f7f",
+    "Iran|https://www.iranintl.com/en/202610114328",
+    "Watchlist|e5c09798-235e-34ae-940c-1375ba6ae907",
+    "SG Banks|/companies-markets/capital-markets-currencies/european-shares-edge-higher-lower-oil-prices-lift-sentiment",
+    "Watchlist|/companies-markets/capital-markets-currencies/european-shares-edge-higher-lower-oil-prices-lift-sentiment"
   ],
   "topic_error": "",
   "last_digest": "2026-10-15",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792095629.8831303
+  "last_check": 1792096542.992277
 }
