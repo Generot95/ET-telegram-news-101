@@ -1,20 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-008-4947249",
-    "SG Banks|https://www.investing.com/news/company-news/silver-elephant-closes-840000-private-placement-financing-93CH-4947251",
-    "SG Banks|https://www.investing.com/news/stock-market-news/google-launches-flagship-ai-model-gemini-4-argon-for-developers-businesses-4947240",
-    "SG Banks|https://www.investing.com/news/stock-market-news/mongodb-gains-as-bofa-highlights-longterm-ai-strategy-potential-4947252",
-    "SG Banks|https://www.investing.com/news/economy-news/us-senate-report-says-spending-on-consultants-for-internet-subsidy-program-tops-200-million-annually-4947253",
-    "Watchlist|https://www.investing.com/news/stock-market-news/portugal-stocks-higher-at-close-of-trade-psi-up-073-4947246",
-    "Watchlist|https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-036-4947247",
-    "Watchlist|https://www.investing.com/news/stock-market-news/sweden-stocks-higher-at-close-of-trade-omx-stockholm-30-up-021-4947248",
-    "Watchlist|https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-008-4947249",
-    "Watchlist|https://www.investing.com/news/company-news/silver-elephant-closes-840000-private-placement-financing-93CH-4947251",
-    "Watchlist|https://www.investing.com/news/stock-market-news/google-launches-flagship-ai-model-gemini-4-argon-for-developers-businesses-4947240",
-    "Watchlist|https://www.investing.com/news/stock-market-news/mongodb-gains-as-bofa-highlights-longterm-ai-strategy-potential-4947252",
-    "Watchlist|https://www.investing.com/news/economy-news/us-senate-report-says-spending-on-consultants-for-internet-subsidy-program-tops-200-million-annually-4947253",
-    "AI|d14e0627-634d-3dc0-88e9-fa9ce160e2f3",
     "Watchlist|d14e0627-634d-3dc0-88e9-fa9ce160e2f3",
     "Crypto|721e35c2-6e5f-4bd8-8e4a-b7ca4f2bd02d",
     "War|WP-MKTW-0005284638",
@@ -5000,7 +4986,21 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/viant-technology-cfo-larry-madden-sells-20711-shares-for-272059-93CH-4950356",
     "Watchlist|https://www.investing.com/news/insider-trading-news/sibone-ceo-laura-francis-sells-762012-in-company-stock-93CH-4950357",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-jt-express-q3-2026-parcel-growth-lifts-volume-shares-fall-93CH-4950358",
-    "War|9781ede3-99d6-320e-ba4d-508088d2a817"
+    "War|9781ede3-99d6-320e-ba4d-508088d2a817",
+    "SG Banks|https://www.channelnewsasia.com/business/anthropic-pre-ipo-meet-thinking-caps-surging-revenue-no-human-extinction-6460776",
+    "Watchlist|a9762260-2402-3ef8-9f12-f1882323fb5e",
+    "AI|https://www.investing.com/news/stock-market-news/norways-wealth-fund-set-to-overhaulethical-rules-after-us-scrutiny-4950361",
+    "AI|https://www.investing.com/news/insider-trading-news/fastly-cto-artur-bergman-sells-108-million-in-company-stock-93CH-4950365",
+    "AI|https://www.investing.com/news/economy-news/brazils-senate-approves-shorter-workweek-in-win-for-lula-4950366",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/norways-wealth-fund-set-to-overhaulethical-rules-after-us-scrutiny-4950361",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/fastly-cto-artur-bergman-sells-108-million-in-company-stock-93CH-4950365",
+    "Cybersecurity|https://www.investing.com/news/economy-news/brazils-senate-approves-shorter-workweek-in-win-for-lula-4950366",
+    "SG Banks|https://www.investing.com/news/stock-market-news/norways-wealth-fund-set-to-overhaulethical-rules-after-us-scrutiny-4950361",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/fastly-cto-artur-bergman-sells-108-million-in-company-stock-93CH-4950365",
+    "SG Banks|https://www.investing.com/news/economy-news/brazils-senate-approves-shorter-workweek-in-win-for-lula-4950366",
+    "Watchlist|https://www.investing.com/news/stock-market-news/norways-wealth-fund-set-to-overhaulethical-rules-after-us-scrutiny-4950361",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/fastly-cto-artur-bergman-sells-108-million-in-company-stock-93CH-4950365",
+    "Watchlist|https://www.investing.com/news/economy-news/brazils-senate-approves-shorter-workweek-in-win-for-lula-4950366"
   ],
   "topic_error": "",
   "last_digest": "2026-10-15",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792026856.505015
+  "last_check": 1792027772.1294482
 }
