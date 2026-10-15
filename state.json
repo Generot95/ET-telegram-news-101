@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/vector-science-appoints-russell-starr-as-president-93CH-4948930",
-    "SG Banks|https://www.investing.com/news/company-news/pharmacorp-appoints-andrew-hodson-as-new-cfo-93CH-4948931",
-    "SG Banks|https://www.investing.com/news/company-news/glass-house-receives-gacp-certification-for-california-farms-93CH-4948932",
-    "SG Banks|https://www.investing.com/news/company-news/arrowhead-reports-positive-interim-data-for-alzheimers-drug-93CH-4948935",
-    "SG Banks|https://www.investing.com/news/company-news/ffr-to-acquire-faraday-future-robotics-unit-for-200-million-93CH-4948934",
-    "SG Banks|https://www.investing.com/news/company-news/jericho-energy-ventures-appoints-julie-corelli-to-board-93CH-4948933",
-    "SG Banks|https://www.investing.com/news/company-news/faraday-future-to-sell-robotics-unit-to-ffr-for-200-million-93CH-4948937",
-    "SG Banks|https://www.investing.com/news/economic-indicators/after-hybrid-car-deal-eu-needs-to-rebalance-china-trade-in-other-sectors-dombrovskis-says-4948938",
-    "Watchlist|https://www.investing.com/news/company-news/gtpl-hathway-q2-fy27-slides-subscriber-surge-margin-pressure-weigh-93CH-4948899",
-    "Watchlist|https://www.investing.com/news/company-news/brightline-interactive-regains-nasdaq-compliance-93CH-4948929",
     "Watchlist|https://www.investing.com/news/company-news/vector-science-appoints-russell-starr-as-president-93CH-4948930",
     "Watchlist|https://www.investing.com/news/company-news/pharmacorp-appoints-andrew-hodson-as-new-cfo-93CH-4948931",
     "Watchlist|https://www.investing.com/news/company-news/glass-house-receives-gacp-certification-for-california-farms-93CH-4948932",
@@ -5000,7 +4990,17 @@
     "AI|de9f82bc-fbb5-30ee-b974-495f42bb19f4",
     "Watchlist|de9f82bc-fbb5-30ee-b974-495f42bb19f4",
     "Watchlist|001363bd-4baf-3846-ba03-da0089e738c6",
-    "SG Banks|/international/global/hsbc-moves-wall-street-bonus-model-cuts-fixed-pay-deals"
+    "SG Banks|/international/global/hsbc-moves-wall-street-bonus-model-cuts-fixed-pay-deals",
+    "War|6dd3086d-3034-3afb-8486-0e32db720bb3",
+    "War|WP-MKTW-0005288999",
+    "AI|WP-MKTW-0005288999",
+    "Cybersecurity|WP-MKTW-0005288999",
+    "AI|5d9a3b3e-8b04-3045-9537-e37bf087723f",
+    "AI|5e60fff4-ba28-3e7b-aed1-01e2a25a4961",
+    "AI|bffdcd28-39f0-3b6e-b554-897cdd083cdd",
+    "Watchlist|5e60fff4-ba28-3e7b-aed1-01e2a25a4961",
+    "Watchlist|bffdcd28-39f0-3b6e-b554-897cdd083cdd",
+    "Watchlist|5d9a3b3e-8b04-3045-9537-e37bf087723f"
   ],
   "topic_error": "",
   "last_digest": "2026-10-15",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792080964.8075285
+  "last_check": 1792081892.2658806
 }
