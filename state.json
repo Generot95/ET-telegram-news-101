@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/earnings/ashmore-posts-11-billion-net-inflows-as-redemptions-hit-15year-low-4948151",
-    "SG Banks|https://www.investing.com/news/stock-market-news/starlink-restricted-ukrainian-military-connectivity-zelenskiy-adviser-says-4948152",
-    "SG Banks|https://www.investing.com/news/economy-news/bank-of-england-economist-questions-market-rate-hike-expectations-93CH-4948154",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/zevra-therapeutics-president-and-ceo-sells-224948-in-stock-93CH-4948162",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/mission-produce-director-luis-gonzalez-buys-594785-in-company-stock-93CH-4948163",
-    "SG Banks|https://www.investing.com/news/earnings/pne-plunges-after-lowering-2026-earnings-outlook-on-project-postponements-4948164",
-    "SG Banks|https://www.investing.com/news/economy-news/bank-of-france-governor-says-policy-decisions-are-data-dependent-93CH-4948167",
-    "SG Banks|https://www.investing.com/news/stock-market-news/vinfastlinked-taxi-operator-gsm-launches-us-service-in-los-angeles-4948165",
-    "Watchlist|https://www.investing.com/news/economy-news/bank-of-englands-pill-says-hes-sceptical-about-market-pricing-four-rate-hikes-4948148",
-    "Watchlist|https://www.investing.com/news/earnings/ashmore-posts-11-billion-net-inflows-as-redemptions-hit-15year-low-4948151",
-    "Watchlist|https://www.investing.com/news/stock-market-news/starlink-restricted-ukrainian-military-connectivity-zelenskiy-adviser-says-4948152",
-    "Watchlist|https://www.investing.com/news/economy-news/bank-of-england-economist-questions-market-rate-hike-expectations-93CH-4948154",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/zevra-therapeutics-president-and-ceo-sells-224948-in-stock-93CH-4948162",
     "Watchlist|https://www.investing.com/news/insider-trading-news/mission-produce-director-luis-gonzalez-buys-594785-in-company-stock-93CH-4948163",
     "Watchlist|https://www.investing.com/news/earnings/pne-plunges-after-lowering-2026-earnings-outlook-on-project-postponements-4948164",
     "Watchlist|https://www.investing.com/news/economy-news/bank-of-france-governor-says-policy-decisions-are-data-dependent-93CH-4948167",
@@ -5000,7 +4987,20 @@
     "SG Banks|https://www.straitstimes.com/business/chinas-september-exports-soar-putting-1-trillion-trade-surplus-in-sight",
     "Watchlist|aa8785e1-74c1-3bad-aa0d-ca52d77dc8bb",
     "Watchlist|/companies-markets/banking-finance/singapores-pdg-seeking-us1-2-billion-loan-johor-data-centre-source",
-    "SG Banks|https://www.channelnewsasia.com/business/us-treasury-pushes-global-partners-rename-ai-super-intelligence-6462536"
+    "SG Banks|https://www.channelnewsasia.com/business/us-treasury-pushes-global-partners-rename-ai-super-intelligence-6462536",
+    "War|WP-MKTW-0005288931",
+    "AI|WP-MKTW-0005288931",
+    "Cybersecurity|WP-MKTW-0005288931",
+    "AI|63a6e853-f697-35b1-ba1b-7b9ba084e971",
+    "AI|f1864183-1217-3c60-8eab-3bfc2e9b2642",
+    "AI|7cf514a3-66fe-3783-bff9-bb0c34d02d4b",
+    "Watchlist|88cbaf83-3fe2-3639-b4fc-f31c43816d25",
+    "Watchlist|f1864183-1217-3c60-8eab-3bfc2e9b2642",
+    "Watchlist|7cf514a3-66fe-3783-bff9-bb0c34d02d4b",
+    "Watchlist|63a6e853-f697-35b1-ba1b-7b9ba084e971",
+    "AI|88cbaf83-3fe2-3639-b4fc-f31c43816d25",
+    "AI|5d5d56e7-1ea9-3b01-bda0-d372638b3ee6",
+    "Watchlist|5d5d56e7-1ea9-3b01-bda0-d372638b3ee6"
   ],
   "topic_error": "",
   "last_digest": "2026-10-15",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792068100.8837252
+  "last_check": 1792069000.1950617
 }
