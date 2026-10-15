@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|3803323d-ff07-36f5-b89d-aeb277941e61",
-    "AI|31c1ae69-ee8b-3446-9234-124879551481",
-    "AI|ad5d9612-cbb1-3e51-9c7b-726cf9a193f7",
-    "Crypto|1d51da27-5b45-3e39-b40d-4cb61f22b516",
-    "Watchlist|3803323d-ff07-36f5-b89d-aeb277941e61",
-    "Watchlist|ad5d9612-cbb1-3e51-9c7b-726cf9a193f7",
-    "Watchlist|31c1ae69-ee8b-3446-9234-124879551481",
-    "Watchlist|65023baa-fc3a-3a7d-9188-c3afc74659dc",
-    "Watchlist|ce543c50-4d9b-3018-a7a8-1c640df1ccb1",
-    "War|218d3474-400b-3b6e-81a6-8a4bed706250",
-    "Cybersecurity|2ea7959c-1664-3128-a8be-9c3c80e1ea1d",
-    "Cybersecurity|3d4fa957-dceb-3311-9155-c81fc90d8f0a",
-    "Watchlist|5fa4dbdb-fb6a-376f-810a-b87978399445",
     "Watchlist|144c3bec-9614-3d31-a732-5e4c25806c48",
     "Watchlist|9269ba7b-ec76-3836-9b62-72f9de64bafc",
     "AI|144c3bec-9614-3d31-a732-5e4c25806c48",
@@ -5000,7 +4987,20 @@
     "Watchlist|39b57e15-17ce-3ba1-911d-61a88c2f71ad",
     "AI|a6d0ffec-6273-3312-b871-dad9bd4e4b86",
     "Watchlist|a6d0ffec-6273-3312-b871-dad9bd4e4b86",
-    "War|13d1a0b7-ebd1-3e73-84bf-451c1cb80834"
+    "War|13d1a0b7-ebd1-3e73-84bf-451c1cb80834",
+    "War|https://www.investing.com/news/commodities-news/oil-prices-fall-as-investors-weigh-supply-outlook-middle-east-tensions-4950372",
+    "AI|https://www.investing.com/news/commodities-news/oil-prices-fall-as-investors-weigh-supply-outlook-middle-east-tensions-4950372",
+    "AI|https://www.investing.com/news/insider-trading-news/paysign-ceo-mark-newcomer-sells-766895-of-pays-stock-93CH-4950373",
+    "Cybersecurity|https://www.investing.com/news/commodities-news/oil-prices-fall-as-investors-weigh-supply-outlook-middle-east-tensions-4950372",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/paysign-ceo-mark-newcomer-sells-766895-of-pays-stock-93CH-4950373",
+    "SG Banks|https://www.investing.com/news/commodities-news/oil-prices-fall-as-investors-weigh-supply-outlook-middle-east-tensions-4950372",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/paysign-ceo-mark-newcomer-sells-766895-of-pays-stock-93CH-4950373",
+    "Watchlist|https://www.investing.com/news/commodities-news/oil-prices-fall-as-investors-weigh-supply-outlook-middle-east-tensions-4950372",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/paysign-ceo-mark-newcomer-sells-766895-of-pays-stock-93CH-4950373",
+    "Watchlist|ce543c50-4d9b-3018-a7a8-1c640df1ccb1",
+    "War|9aa3d907-0a1d-34c0-abe6-65bf15021afe",
+    "Crypto|a96e2e1f-84ba-30b7-8f7e-72c7243e527c",
+    "SG Banks|https://www.channelnewsasia.com/business/boj-should-not-be-overly-cautious-raising-rates-board-member-koeda-says-6461001"
   ],
   "topic_error": "",
   "last_digest": "2026-10-15",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792028691.085858
+  "last_check": 1792029604.6543357
 }
