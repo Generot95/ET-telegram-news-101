@@ -1,24 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|09601b45-ef5f-3f08-a10c-dd7014d3d821",
-    "War|0f26cb74-86f8-3b54-ae85-c8aca4ddd766",
-    "War|79295b22-0860-3c63-a102-9f9cd0142b09",
-    "AI|a6a4d6b6-52f0-356c-a040-66478be1e59a",
-    "AI|d37f2f95-738f-30fe-8ba4-c56a854d35cb",
-    "Watchlist|a6a4d6b6-52f0-356c-a040-66478be1e59a",
-    "Watchlist|d37f2f95-738f-30fe-8ba4-c56a854d35cb",
-    "Watchlist|0f26cb74-86f8-3b54-ae85-c8aca4ddd766",
-    "Watchlist|79295b22-0860-3c63-a102-9f9cd0142b09",
-    "War|https://www.investing.com/news/commodities-news/diesel-shortages-could-persist-well-into-2027-iea-says-4949070",
-    "AI|https://www.investing.com/news/company-news/flex-completes-acquisition-of-epc-power-for-data-centers-93CH-4949158",
-    "AI|https://www.investing.com/news/company-news/cycurion-relaunches-as-predictive-cybersecurity-firm-93CH-4949157",
-    "AI|https://www.investing.com/news/company-news/lennox-partners-with-everyday-electric-on-smart-thermostat-features-93CH-4949161",
-    "AI|https://www.investing.com/news/company-news/leonardo-drs-wins-500m-contract-for-counterdrone-systems-93CH-4949160",
-    "AI|https://www.investing.com/news/company-news/noodles--company-adds-permanent-ramen-menu-category-93CH-4949163",
-    "AI|https://www.investing.com/news/company-news/oracle-netsuite-launches-free-financial-platform-for-startups-93CH-4949162",
-    "AI|https://www.investing.com/news/company-news/perfect-corp-partners-with-lierac-for-ai-skin-analysis-in-europe-93CH-4949164",
-    "AI|https://www.investing.com/news/company-news/coparts-acv-tender-offer-clears-antitrust-review-set-to-close-93CH-4949165",
     "AI|https://www.investing.com/news/analyst-ratings/stifel-cuts-figma-stock-price-target-on-ai-timing-concerns-93CH-4949166",
     "AI|https://www.investing.com/news/analyst-ratings/stifel-raises-iqvia-stock-price-target-on-improving-market-backdrop-93CH-4949167",
     "AI|https://www.investing.com/news/stock-market-news/why-is-arrowhead-pharmaceuticals-stock-surging-today-93CH-4949015",
@@ -5000,7 +4982,25 @@
     "SG Banks|/companies-markets/banking-finance/bank-america-misses-profit-estimates-capital-market-weakness-books-us1-2-billion-charge",
     "Watchlist|/companies-markets/banking-finance/bank-america-misses-profit-estimates-capital-market-weakness-books-us1-2-billion-charge",
     "Watchlist|3d86688a-7b45-3a52-81e8-8d3fb67e1514",
-    "AI|3d86688a-7b45-3a52-81e8-8d3fb67e1514"
+    "AI|3d86688a-7b45-3a52-81e8-8d3fb67e1514",
+    "AI|a7265b5b-08e0-302e-a922-690f66b2fba0",
+    "AI|0ed74e21-86a5-3b4c-b96a-5282e1cbd7d8",
+    "Crypto|56bee703-8615-346a-a2bf-ca2004302845",
+    "Watchlist|a7265b5b-08e0-302e-a922-690f66b2fba0",
+    "War|bf9681ca-800d-38b4-a46b-c09fca7bcdfb",
+    "War|WP-MKTW-0005285289",
+    "AI|f41a16c5-3058-3301-88ba-4efd4d784b3d",
+    "AI|bf9681ca-800d-38b4-a46b-c09fca7bcdfb",
+    "AI|51cae880-22df-3597-9241-de71aae77d67",
+    "AI|WP-MKTW-0005285289",
+    "Cybersecurity|WP-MKTW-0005285289",
+    "Watchlist|f41a16c5-3058-3301-88ba-4efd4d784b3d",
+    "Watchlist|bf9681ca-800d-38b4-a46b-c09fca7bcdfb",
+    "Watchlist|51cae880-22df-3597-9241-de71aae77d67",
+    "AI|eb98af2a-6161-3945-b6df-d4a031e27bd1",
+    "Watchlist|eb98af2a-6161-3945-b6df-d4a031e27bd1",
+    "Crypto|64be29d3-d97d-30d0-83e5-9cefe13781b6",
+    "SG Banks|https://www.channelnewsasia.com/business/cnn-signs-multi-year-ai-partnership-google-6463246"
   ],
   "topic_error": "",
   "last_digest": "2026-10-15",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792083731.5253122
+  "last_check": 1792084632.2774544
 }
