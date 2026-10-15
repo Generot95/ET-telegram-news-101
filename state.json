@@ -1,22 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/abbvie-stock-hits-alltime-high-at-28344-usd-93CH-4949691",
-    "Watchlist|https://www.investing.com/news/company-news/fastenal-q3-2026-slides-earnings-growth-outpaces-155-sales-gain-93CH-4949690",
-    "Watchlist|https://www.investing.com/news/company-news/abbvie-stock-hits-alltime-high-at-28344-usd-93CH-4949691",
-    "War|3c4122ae-db14-3190-b4a9-4198a3f7a4fe",
-    "AI|068073bf-21df-3022-ae93-5c8f4b05e036",
-    "AI|d70bb283-eec7-3b38-8d60-2cc273694e18",
-    "Watchlist|d70bb283-eec7-3b38-8d60-2cc273694e18",
-    "Watchlist|2d059681-e3f6-38cc-a1eb-13f34b377732",
-    "Iran|https://www.iranintl.com/en/202610147742",
-    "AI|27d26970-ff69-30ec-92db-8af40c7c8b09",
-    "Watchlist|b81c7909-fa16-30ec-be4c-04c1f5b48aee",
-    "Watchlist|1ec68aa2-4906-322e-94db-7862e5f6b7a1",
-    "AI|a6f8f0c8-3715-3614-8b96-3cca4e19f8f0",
-    "Watchlist|a6f8f0c8-3715-3614-8b96-3cca4e19f8f0",
-    "Iran|https://www.iranintl.com/en/202610145519",
-    "AI|83419df1-1156-3af6-82e3-70f02db16be8",
     "Watchlist|83419df1-1156-3af6-82e3-70f02db16be8",
     "AI|https://www.investing.com/news/company-news/wizz-air-grants-shares-to-nonexecutive-directors-as-fee-payment-93CH-4949716",
     "AI|https://www.investing.com/news/analyst-ratings/stifel-cuts-norwegian-cruise-stock-price-target-on-turnaround-progress-93CH-4949718",
@@ -5000,7 +4984,23 @@
     "Watchlist|https://www.investing.com/news/company-news/wise-q2-fy2027-slides-revenue-diversification-hits-52-milestone-93CH-4952727",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-alcoa-stock-climbing-today-93CH-4952728",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-varonis-stock-rallying-today-93CH-4952729",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-cohen--steers-stock-surging-today-93CH-4952730"
+    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-cohen--steers-stock-surging-today-93CH-4952730",
+    "War|89a24aad-201e-3790-afd7-3d7884269bed",
+    "War|06d1f855-2300-4970-a47b-eb5749b77390",
+    "Iran|https://www.iranintl.com/en/202610114699",
+    "Iran|https://www.iranintl.com/en/202610138522",
+    "Crypto|52a2aba5-01f1-32a7-a986-4c13f32fa97a",
+    "SG Banks|/esg/singapore-lithium-battery-recycling-startup-neu-battery-materials-raises-us7-6-million",
+    "Watchlist|1df80c4f-e21e-3eed-bee2-d74297dab025",
+    "Watchlist|/esg/singapore-lithium-battery-recycling-startup-neu-battery-materials-raises-us7-6-million",
+    "SG Banks|/companies-markets/capital-markets-currencies/sp-500-ends-higher-traders-shift-ai-healthcare",
+    "Watchlist|/companies-markets/capital-markets-currencies/sp-500-ends-higher-traders-shift-ai-healthcare",
+    "Iran|https://www.iranintl.com/en/202610147742",
+    "AI|472df43a-ab40-3c4d-8098-fa97dc860e9b",
+    "Watchlist|472df43a-ab40-3c4d-8098-fa97dc860e9b",
+    "War|562e5312-75a6-3232-b57d-ee09d1d3521e",
+    "Watchlist|b14bf4c9-b540-315c-a728-6230494d4f98",
+    "Iran|https://www.iranintl.com/en/202610145519"
   ],
   "topic_error": "",
   "last_digest": "2026-10-15",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792100220.0629506
+  "last_check": 1792101117.8813837
 }
