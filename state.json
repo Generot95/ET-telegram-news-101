@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|bea85036-d02d-3773-9bc7-7b21a27c3b84",
-    "Watchlist|1f7174a5-e249-3e94-bdfe-324d80935caa",
     "AI|https://www.investing.com/news/stock-market-news/gen-restaurant-group-stock-surges-on-100m-asset-sale-to-chubby-4949756",
     "AI|https://www.investing.com/news/economy-news/reaction-roundup-experts-analysts-weigh-in-on-september-cpi-report-4949758",
     "AI|https://www.investing.com/news/economy-news/ai-infrastructure-firms-slump-as-us-rate-hike-bets-rise-4949759",
@@ -5000,7 +4998,9 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/exclusiveun-chief-frontrunner-rebeca-grynspan-says-un-has-become-too-riskaverse-4952757",
     "Watchlist|https://www.investing.com/news/stock-market-news/anthropic-to-add-us-voting-information-to-claude-before-midterms-oct-14-4952758",
     "Watchlist|/companies-markets/singapore-shares-rise-0-3-tuesday-jardine-matheson-banks-gain",
-    "Watchlist|/companies-markets/transport-logistics/malaysias-firefly-extends-seletar-subang-flight-cancellations"
+    "Watchlist|/companies-markets/transport-logistics/malaysias-firefly-extends-seletar-subang-flight-cancellations",
+    "SG Banks|/companies-markets/kfc-picks-coca-cola-us-soda-supplier-ditches-longtime-partner-pepsico",
+    "Watchlist|/companies-markets/kfc-picks-coca-cola-us-soda-supplier-ditches-longtime-partner-pepsico"
   ],
   "topic_error": "",
   "last_digest": "2026-10-15",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792102952.8653753
+  "last_check": 1792103864.6505127
 }
