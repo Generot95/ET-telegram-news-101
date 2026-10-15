@@ -1,24 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|2bfabbc6-39c9-3084-990a-55fc3ec4195b",
-    "AI|6390cf97-3aaa-3306-a5c6-daee3a2fb08c",
-    "AI|6a985253-fbaa-372c-8172-f4ed052b9073",
-    "SG Banks|https://www.channelnewsasia.com/business/agilent-buy-pathology-software-maker-proscia-240-million-6455891",
-    "Watchlist|4306d001-c1d9-3604-bb77-da1958d8bcd3",
-    "Watchlist|2bfabbc6-39c9-3084-990a-55fc3ec4195b",
-    "Watchlist|6390cf97-3aaa-3306-a5c6-daee3a2fb08c",
-    "Watchlist|6a985253-fbaa-372c-8172-f4ed052b9073",
-    "Crypto|e050f156-9056-4c88-b092-a099e78489ff",
-    "AI|4fa8a8b9-319a-39b2-af8a-eae5bd685fa2",
-    "Crypto|86558fef-3dce-357c-ae28-cf11a1404e0a",
-    "Watchlist|4fa8a8b9-319a-39b2-af8a-eae5bd685fa2",
-    "AI|481d63f8-abda-3f2b-8acd-8791de776dcb",
-    "Watchlist|481d63f8-abda-3f2b-8acd-8791de776dcb",
-    "War|6a375c20-348b-3b01-b3af-7f7384ef06a3",
-    "War|WP-MKTW-0005284734",
-    "AI|WP-MKTW-0005284734",
-    "Cybersecurity|WP-MKTW-0005284734",
     "AI|7c8673dc-73c2-3acf-b8eb-591ddc8a2400",
     "AI|c3f4a116-8eae-3350-9650-c9568d688b6d",
     "AI|fc7d8b0e-0660-4dd7-bca1-b0a1dbb70cf6",
@@ -5000,7 +4982,25 @@
     "Watchlist|d4c857b7-852a-3231-a224-70cbe7a777b5",
     "AI|37344ecf-cf64-3b66-8d98-9a229944e3c1",
     "SG Banks|/companies-markets/singapore-shares-rise-banks-rebound-after-sell-sti-0-3",
-    "Watchlist|/companies-markets/singapore-shares-rise-banks-rebound-after-sell-sti-0-3"
+    "Watchlist|/companies-markets/singapore-shares-rise-banks-rebound-after-sell-sti-0-3",
+    "AI|3b1ed22f-cd5a-342e-80e6-1ba74b6b7628",
+    "Watchlist|3b1ed22f-cd5a-342e-80e6-1ba74b6b7628",
+    "AI|https://www.investing.com/news/insider-trading-news/pinterest-director-benjamin-silbermann-sells-over-2m-in-stock-93CH-4950450",
+    "AI|https://www.investing.com/news/stock-market-news/sk-hynix-seeks-us-chip-equipment-exports-to-china-tied-to-new-factory--reuters-4950452",
+    "AI|https://www.investing.com/news/stock-market-news/ubs-considers-leaving-switzerland-over-capital-rule-plans-wsj-reports-93CH-4950453",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-netwealth-stock-sliding-today-93CH-4950454",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/pinterest-director-benjamin-silbermann-sells-over-2m-in-stock-93CH-4950450",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/sk-hynix-seeks-us-chip-equipment-exports-to-china-tied-to-new-factory--reuters-4950452",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/ubs-considers-leaving-switzerland-over-capital-rule-plans-wsj-reports-93CH-4950453",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-netwealth-stock-sliding-today-93CH-4950454",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/pinterest-director-benjamin-silbermann-sells-over-2m-in-stock-93CH-4950450",
+    "SG Banks|https://www.investing.com/news/stock-market-news/sk-hynix-seeks-us-chip-equipment-exports-to-china-tied-to-new-factory--reuters-4950452",
+    "SG Banks|https://www.investing.com/news/stock-market-news/ubs-considers-leaving-switzerland-over-capital-rule-plans-wsj-reports-93CH-4950453",
+    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-netwealth-stock-sliding-today-93CH-4950454",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/pinterest-director-benjamin-silbermann-sells-over-2m-in-stock-93CH-4950450",
+    "Watchlist|https://www.investing.com/news/stock-market-news/sk-hynix-seeks-us-chip-equipment-exports-to-china-tied-to-new-factory--reuters-4950452",
+    "Watchlist|https://www.investing.com/news/stock-market-news/ubs-considers-leaving-switzerland-over-capital-rule-plans-wsj-reports-93CH-4950453",
+    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-netwealth-stock-sliding-today-93CH-4950454"
   ],
   "topic_error": "",
   "last_digest": "2026-10-15",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792035114.0543227
+  "last_check": 1792036033.6360106
 }
