@@ -1,17 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/economy-news/trading-day-earnings-season-debuts-to-mixed-reviews-4947582",
-    "Watchlist|https://www.investing.com/news/company-news/endeavour-silver-completes-ball-mill-repairs-at-guanacevi-mine-93CH-4947583",
-    "Watchlist|https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-107-4947588",
-    "Watchlist|https://www.investing.com/news/stock-market-news/oracle-urges-ferc-to-expedite-new-mexico-gas-pipeline-for-project-jupiter-4947589",
-    "Watchlist|https://www.investing.com/news/stock-market-news/apples-homeview-brings-personalized-siri-to-smart-home-takes-on-amazon-and-google-4947587",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/raymond-james-cuts-builders-firstsource-stock-price-target-on-rates-93CH-4947590",
-    "Watchlist|https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-155-4947591",
-    "Iran|https://www.iranintl.com/en/202610117891",
-    "SG Banks|https://www.channelnewsasia.com/business/saudi-openai-engineer-arrested-fbi-planting-covert-recording-device-us-doj-says-6457126",
-    "Iran|https://www.iranintl.com/en/202610138192",
-    "Cybersecurity|7dc71707-0e76-31ea-b611-a245e57ba2de",
     "Watchlist|de3b5c67-d437-32e4-960b-e680f1736d95",
     "AI|778fc3c0-11c4-3670-a1db-dcf20b77142d",
     "AI|de3b5c67-d437-32e4-960b-e680f1736d95",
@@ -5000,7 +4989,18 @@
     "Watchlist|b618deaa-f595-35e1-8469-05a89a6b5285",
     "Watchlist|/companies-markets/energy-commodities/saudi-arabia-eyes-raising-its-pipeline-oil-export-capacity-10-million-bpd-energy-minister",
     "SG Banks|https://www.channelnewsasia.com/business/eu-court-adviser-sides-eu-regulators-against-tiktok-in-fight-over-tech-label-6461776",
-    "SG Banks|https://www.channelnewsasia.com/business/chinese-automaker-chery-launch-new-ev-model-in-uk-in-early-2027-6461781"
+    "SG Banks|https://www.channelnewsasia.com/business/chinese-automaker-chery-launch-new-ev-model-in-uk-in-early-2027-6461781",
+    "War|WP-MKTW-0005288608",
+    "AI|60d89f20-38cd-3709-b8dc-ccfb1916adc0",
+    "AI|4b6844ea-ebd7-3ecf-b050-56889f06089f",
+    "AI|WP-MKTW-0005288608",
+    "Cybersecurity|WP-MKTW-0005288608",
+    "Watchlist|60d89f20-38cd-3709-b8dc-ccfb1916adc0",
+    "Watchlist|4b6844ea-ebd7-3ecf-b050-56889f06089f",
+    "SG Banks|https://www.straitstimes.com/business/malaysias-central-bank-chief-signals-room-to-act-as-inflation-risks-rise",
+    "Iran|https://www.iranintl.com/en/202610117891",
+    "War|4268b930-25ab-4ec3-a01b-449e45502837",
+    "Iran|https://www.iranintl.com/en/202610138192"
   ],
   "topic_error": "",
   "last_digest": "2026-10-15",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792053426.380775
+  "last_check": 1792054334.9857028
 }
