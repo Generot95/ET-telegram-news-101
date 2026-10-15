@@ -1,7 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|7c8673dc-73c2-3acf-b8eb-591ddc8a2400",
     "AI|c3f4a116-8eae-3350-9650-c9568d688b6d",
     "AI|fc7d8b0e-0660-4dd7-bca1-b0a1dbb70cf6",
     "Watchlist|7c8673dc-73c2-3acf-b8eb-591ddc8a2400",
@@ -5000,7 +4999,8 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/pinterest-director-benjamin-silbermann-sells-over-2m-in-stock-93CH-4950450",
     "Watchlist|https://www.investing.com/news/stock-market-news/sk-hynix-seeks-us-chip-equipment-exports-to-china-tied-to-new-factory--reuters-4950452",
     "Watchlist|https://www.investing.com/news/stock-market-news/ubs-considers-leaving-switzerland-over-capital-rule-plans-wsj-reports-93CH-4950453",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-netwealth-stock-sliding-today-93CH-4950454"
+    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-netwealth-stock-sliding-today-93CH-4950454",
+    "SG Banks|https://www.channelnewsasia.com/business/oil-prices-retreat-investors-weigh-supply-outlook-middle-east-tensions-6460986"
   ],
   "topic_error": "",
   "last_digest": "2026-10-15",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792036033.6360106
+  "last_check": 1792036929.0257378
 }
