@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/aramco-hq-hit-in-houthi-attack-as-fire-extinguished-in-dhahran--bloomberg-4947574",
-    "Cybersecurity|https://www.investing.com/news/company-news/thor-industries-raises-quarterly-dividend-by-38-93CH-4947550",
-    "Cybersecurity|https://www.investing.com/news/company-news/datavault-ai-ceo-to-present-at-mass-tort-conference-93CH-4947551",
-    "Cybersecurity|https://www.investing.com/news/company-news/liberty-defense-ceo-bill-frain-to-resign-coo-to-serve-as-interim-93CH-4947552",
-    "Cybersecurity|https://www.investing.com/news/company-news/trexbio-completes-1167-million-initial-public-offering-93CH-4947557",
-    "Cybersecurity|https://www.investing.com/news/company-news/equus-total-return-receives-nyse-noncompliance-notice-93CH-4947575",
     "Cybersecurity|https://www.investing.com/news/company-news/rambus-launches-power-management-chip-for-lpddr6-server-modules-93CH-4947576",
     "SG Banks|https://www.investing.com/news/company-news/landbridge-completes-conversion-to-texas-corporation-93CH-4947559",
     "SG Banks|https://www.investing.com/news/analyst-ratings/stifel-initiates-ideaya-biosciences-stock-with-buy-rating-93CH-4947560",
@@ -5000,7 +4994,13 @@
     "Watchlist|5c9a3a11-8d6e-3f41-96f5-663ab8f09dbd",
     "SG Banks|https://www.straitstimes.com/business/air-india-forms-team-to-drive-cost-savings-memo-shows-it-deals-with-host-of-problems",
     "AI|ccec0452-92f3-3098-9f8e-985170ca40e8",
-    "Watchlist|ccec0452-92f3-3098-9f8e-985170ca40e8"
+    "Watchlist|ccec0452-92f3-3098-9f8e-985170ca40e8",
+    "AI|5808cc33-91a4-39ba-bcba-b2bdf51bbd9b",
+    "Watchlist|5808cc33-91a4-39ba-bcba-b2bdf51bbd9b",
+    "Crypto|5e76d838-5e5f-3fc5-aaa9-641801464cc8",
+    "AI|e822465b-3ba7-3a88-ad59-347ee88f117d",
+    "Watchlist|e822465b-3ba7-3a88-ad59-347ee88f117d",
+    "SG Banks|https://www.channelnewsasia.com/business/oil-prices-slide-us-weighs-easing-sanctions-shadow-fleet-6460986"
   ],
   "topic_error": "",
   "last_digest": "2026-10-15",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792051586.075102
+  "last_check": 1792052508.521749
 }
