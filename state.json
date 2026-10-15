@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/sp-upgrades-geo-group-to-bb-following-950-million-debt-paydown-4947412",
-    "SG Banks|https://www.investing.com/news/company-news/joyy-stock-hits-52week-high-at-8263-usd-93CH-4947413",
-    "SG Banks|https://www.investing.com/news/company-news/msc-industrial-direct-stock-hits-alltime-high-at-13242-usd-93CH-4947414",
-    "SG Banks|https://www.investing.com/news/stock-market-news/fitch-shifts-lennar-outlook-to-negative-on-margin-compression-and-demand-risks-4947415",
-    "Watchlist|https://www.investing.com/news/stock-market-news/argentina-monthly-inflation-rises-to-19-in-september-matching-market-estimates-4947405",
-    "Watchlist|https://www.investing.com/news/company-news/encore-capital-group-stock-hits-alltime-high-at-10507-usd-93CH-4947410",
-    "Watchlist|https://www.investing.com/news/stock-market-news/sp-upgrades-geo-group-to-bb-following-950-million-debt-paydown-4947412",
     "Watchlist|https://www.investing.com/news/company-news/joyy-stock-hits-52week-high-at-8263-usd-93CH-4947413",
     "Watchlist|https://www.investing.com/news/company-news/msc-industrial-direct-stock-hits-alltime-high-at-13242-usd-93CH-4947414",
     "Watchlist|https://www.investing.com/news/stock-market-news/fitch-shifts-lennar-outlook-to-negative-on-margin-compression-and-demand-risks-4947415",
@@ -5000,7 +4993,14 @@
     "War|https://www.investing.com/news/world-news/trump-says-advanced-defense-test-range-to-be-located-in-montana-4950461",
     "War|https://www.investing.com/news/world-news/police-say-chicago-suburb-suspect-in-alleged-mass-shooting-plot-had-white-supremacy-manifesto-4950488",
     "War|https://www.investing.com/news/world-news/us-military-weighs-use-of-mother-of-all-bombs-in-potential-future-strikes-on-iran-cnn-says-4950493",
-    "War|https://www.investing.com/news/world-news/china-north-korea-open-longdelayed-border-bridge-to-boost-trade-4950601"
+    "War|https://www.investing.com/news/world-news/china-north-korea-open-longdelayed-border-bridge-to-boost-trade-4950601",
+    "AI|892d1927-42c8-3b6b-8faa-a29f3f96f32c",
+    "Watchlist|892d1927-42c8-3b6b-8faa-a29f3f96f32c",
+    "War|83fd36dc-a00c-3b51-87a3-459701e54bd6",
+    "AI|4b87a812-46dc-34e9-9b28-8ce5b7c1bc53",
+    "SG Banks|https://www.straitstimes.com/business/cost-over-climate-most-asean-firms-scaling-back-decarbonisation-plans-as-higher-energy-prices-bite",
+    "SG Banks|https://www.straitstimes.com/business/gridlock-or-growth-the-asean-power-grid-faces-a-critical-window-of-opportunity",
+    "Watchlist|4b87a812-46dc-34e9-9b28-8ce5b7c1bc53"
   ],
   "topic_error": "",
   "last_digest": "2026-10-15",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792047016.2152286
+  "last_check": 1792047918.2481172
 }
