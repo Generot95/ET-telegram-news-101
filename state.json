@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/insider-trading-news/sharplink-director-joseph-lubins-entity-sells-476m-in-stock-93CH-4947648",
-    "SG Banks|https://www.investing.com/news/commodities-news/us-top-diplomat-marco-rubio-to-visit-india-and-uzbekistan-this-month-4947652",
-    "SG Banks|https://www.investing.com/news/stock-market-news/gamestop-ceo-cohen-buys-shares-worth-nearly-23-million-4947650",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/williams-sonoma-evp-karalyn-yearout-sells-124945-in-stock-93CH-4947663",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/workday-director-david-duffield-sells-187m-in-company-stock-93CH-4947662",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/opaleye-management-director-buys-29682-of-grace-therapeutics-stock-93CH-4947646",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/jack-in-the-box-exec-chairman-king-sells-85418-in-shares-93CH-4947647",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/sharplink-director-joseph-lubins-entity-sells-476m-in-stock-93CH-4947648",
-    "Watchlist|https://www.investing.com/news/commodities-news/us-top-diplomat-marco-rubio-to-visit-india-and-uzbekistan-this-month-4947652",
-    "Watchlist|https://www.investing.com/news/stock-market-news/gamestop-ceo-cohen-buys-shares-worth-nearly-23-million-4947650",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/williams-sonoma-evp-karalyn-yearout-sells-124945-in-stock-93CH-4947663",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/workday-director-david-duffield-sells-187m-in-company-stock-93CH-4947662",
-    "Watchlist|8f97a689-bca8-3b13-9ab6-c78bbaeaceb0",
     "War|03514773-7180-4152-86f7-474fca792fd2",
     "AI|1bf8ad13-8a98-3c81-8490-6e962f5a044e",
     "Crypto|e17a8ad6-82b4-3b3c-867d-0a2e53031082",
@@ -5000,7 +4987,20 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/cohere-moves-to-buy-ai-cybersecuritystartup-aisle-4950863",
     "Watchlist|https://www.investing.com/news/analyst-ratings/citizens-downgrades-rxo-stock-rating-on-chrw-acquisition-deal-93CH-4950864",
     "Watchlist|https://www.investing.com/news/stock-market-news/major-salmon-farmers-introduce-chicken-feed-despite-consumer-concerns-93CH-4950868",
-    "SG Banks|https://www.straitstimes.com/business/tech-stocks-lead-rout-in-asia-after-us-inflation-fuels-rate-hike-bets"
+    "SG Banks|https://www.straitstimes.com/business/tech-stocks-lead-rout-in-asia-after-us-inflation-fuels-rate-hike-bets",
+    "SG Banks|https://www.channelnewsasia.com/business/setback-tiktok-eu-court-adviser-backs-gatekeeper-label-6461776",
+    "SG Banks|https://www.channelnewsasia.com/business/us-ftc-subpoenas-openai-and-anthropic-over-consumer-harms-axios-reports-6461886",
+    "AI|5258f15e-c318-350c-8845-d20353b8b97e",
+    "AI|a54e0025-2f0e-3e2e-8317-8afa636fee58",
+    "AI|b668aacd-c62d-3a7b-b0f9-b557eb1cc1cf",
+    "AI|0e7df98c-a124-3ac3-b30d-526e009e9742",
+    "Crypto|47ec4543-88db-3e8e-bc0a-36494fa790c9",
+    "Watchlist|5258f15e-c318-350c-8845-d20353b8b97e",
+    "Watchlist|a54e0025-2f0e-3e2e-8317-8afa636fee58",
+    "Watchlist|b668aacd-c62d-3a7b-b0f9-b557eb1cc1cf",
+    "Watchlist|0e7df98c-a124-3ac3-b30d-526e009e9742",
+    "War|31ebb4e0-10e0-48f6-9aa6-ae492779e2aa",
+    "Cybersecurity|970ad102-b6a0-3ad2-bf1c-1ac5aee2e3bf"
   ],
   "topic_error": "",
   "last_digest": "2026-10-15",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792056164.279192
+  "last_check": 1792057103.123891
 }
