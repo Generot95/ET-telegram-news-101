@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|416d5eb8-1ad5-357e-9ef2-dbef97b246b7",
-    "AI|2c38957b-c818-3ad8-91a7-3eb2b692d10e",
-    "Watchlist|416d5eb8-1ad5-357e-9ef2-dbef97b246b7",
-    "Watchlist|afd23907-8efb-3988-8aff-e8964ef42fb5",
     "AI|afd23907-8efb-3988-8aff-e8964ef42fb5",
     "AI|5347dcbe-650d-3bd7-b21d-93d02b723262",
     "Watchlist|5347dcbe-650d-3bd7-b21d-93d02b723262",
@@ -5000,7 +4996,11 @@
     "Watchlist|https://www.investing.com/news/commodities-news/exclusiveus-holds-more-secret-talks-with-myanmars-militarybacked-rulers-in-tokyo-sources-say-4953078",
     "Cybersecurity|d4f1e7fa-8e50-3dcd-ac50-047da297975f",
     "SG Banks|/companies-markets/banking-finance/citi-profit-jumps-40-higher-investment-banking-services-and-wealth-revenue",
-    "Watchlist|/companies-markets/banking-finance/citi-profit-jumps-40-higher-investment-banking-services-and-wealth-revenue"
+    "Watchlist|/companies-markets/banking-finance/citi-profit-jumps-40-higher-investment-banking-services-and-wealth-revenue",
+    "SG Banks|https://www.straitstimes.com/business/asean-companies-keen-on-ai-for-business-benefits-despite-its-energy-costs",
+    "AI|a281286f-b059-34ac-a349-f45d0633ce96",
+    "Crypto|a281286f-b059-34ac-a349-f45d0633ce96",
+    "Watchlist|a281286f-b059-34ac-a349-f45d0633ce96"
   ],
   "topic_error": "",
   "last_digest": "2026-10-16",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792126788.484361
+  "last_check": 1792127706.4917927
 }
