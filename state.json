@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/vse-corporation-stock-hits-52week-low-at-15541-usd-93CH-4952044",
-    "AI|https://www.investing.com/news/company-news/leidos-wins-56-million-navy-behavioral-health-research-contract-93CH-4952045",
-    "AI|https://www.investing.com/news/company-news/baker-hughes-signs-power-frame-agreement-with-venture-global-93CH-4952046",
-    "AI|https://www.investing.com/news/company-news/wells-fargo-lists-5m-notes-on-london-stock-exchange-93CH-4952047",
-    "AI|https://www.investing.com/news/company-news/coreweave-inc-stock-hits-52week-low-at-6049-usd-93CH-4952061",
-    "AI|https://www.investing.com/news/company-news/manpowergroup-q3-2026-presentation-shows-mixed-results-stock-falls-13-93CH-4952063",
-    "AI|https://www.investing.com/news/company-news/curtisswright-stock-hits-52week-low-at-49406-usd-93CH-4952064",
-    "Cybersecurity|https://www.investing.com/news/company-news/axis-bank-grants-stock-options-to-employees-93CH-4952067",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/piper-sandler-reiterates-orchestra-biomed-stock-rating-on-avim-trial-93CH-4952068",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/piper-sandler-reiterates-cooper-companies-stock-rating-at-neutral-93CH-4952069",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/verisk-analytics-stock-price-target-maintained-at-230-by-rbc-capital-93CH-4952070",
@@ -5000,7 +4992,15 @@
     "Watchlist|https://www.investing.com/news/company-news/rayonier-declares-026-quarterly-dividend-93CH-4954801",
     "Watchlist|https://www.investing.com/news/company-news/nxg-cushing-fund-to-rebrand-as-energy-infrastructure-fund-93CH-4954800",
     "Watchlist|https://www.investing.com/news/company-news/fort-technology-receives-nasdaq-noncompliance-notice-on-bid-price-93CH-4954802",
-    "Watchlist|https://www.investing.com/news/company-news/laser-photonics-appoints-founder-as-executive-chairman-93CH-4954803"
+    "Watchlist|https://www.investing.com/news/company-news/laser-photonics-appoints-founder-as-executive-chairman-93CH-4954803",
+    "Cybersecurity|58908993-ecd4-3762-b621-973adc66cfc4",
+    "Watchlist|8a824e15-462c-38cb-8fe5-70b39546aa8e",
+    "AI|e904a85b-2bf3-3d13-a00a-a5ec960a3518",
+    "Watchlist|e904a85b-2bf3-3d13-a00a-a5ec960a3518",
+    "War|860da5ab-30c8-386d-aec7-2b2da4eeeadb",
+    "War|518630c7-85de-3436-a9ce-6b95023b2898",
+    "Crypto|c81d9bca-a1ad-3c18-98d6-6a1bb0719467",
+    "Crypto|9962446c-901f-327b-a567-3307a8ca8757"
   ],
   "topic_error": "",
   "last_digest": "2026-10-16",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792182706.8677468
+  "last_check": 1792183611.7955432
 }
