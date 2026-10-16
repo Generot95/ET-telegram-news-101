@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|https://www.investing.com/news/world-news/russia-builds-major-new-drone-attack-base-in-six-weeks-satellite-images-show-4950824",
-    "War|https://www.investing.com/news/world-news/banks-buildings-burn-as-albanias-capital-tirana-erupts-into-student-violence-4950878",
-    "War|https://www.investing.com/news/world-news/two-ships-ablaze-in-romanian-black-sea-waters-7-sailors-missing-4950911",
-    "War|https://www.investing.com/news/world-news/pope-leo-had-a-good-night-in-hospital-vatican-says-4950665",
     "War|https://www.investing.com/news/world-news/venezuelas-maduro-due-in-court-over-new-us-torture-charge-4951026",
     "War|https://www.investing.com/news/world-news/brazilsbolsonaro-racks-up-endorsements-shaping-potential-governing-bloc-4951028",
     "War|https://www.investing.com/news/world-news/prince-harry-and-wife-meghan-make-first-joint-appearance-since-uk-return-4951099",
@@ -5000,7 +4996,11 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/marriott-vs-hilton-mar-offers-lower-valuation-and-stronger-revenue-growth-93CH-4954669",
     "Watchlist|https://www.investing.com/news/company-news/cboe-hires-catherine-grover-as-chief-human-resources-officer-93CH-4954671",
     "Watchlist|https://www.investing.com/news/economy-news/european-commission-to-propose-additional-china-import-curbs-93CH-4954672",
-    "Watchlist|https://www.investing.com/news/economic-indicators/putin-says-russia-is-building-nonnegotiable-security-zone-in-ukraine-along-border-4954673"
+    "Watchlist|https://www.investing.com/news/economic-indicators/putin-says-russia-is-building-nonnegotiable-security-zone-in-ukraine-along-border-4954673",
+    "Iran|https://www.iranintl.com/en/202610160092",
+    "AI|53a92656-0796-385c-a91c-6d3123376b1d",
+    "Watchlist|53a92656-0796-385c-a91c-6d3123376b1d",
+    "Crypto|3091ec33-cdcc-4541-ae1b-cbbed35e4667"
   ],
   "topic_error": "",
   "last_digest": "2026-10-16",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792171693.7841303
+  "last_check": 1792172611.9536588
 }
