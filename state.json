@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|d940f3be-29c4-3630-ac38-ae9b608496ad",
-    "Watchlist|https://www.investing.com/news/stock-market-news/bank-of-america-earnings-analysis-questions-answered-and-next-catalysts-93CH-4949814",
-    "Watchlist|https://www.investing.com/news/stock-market-news/fastenal-earnings-analysis-questions-answered-and-next-catalysts-93CH-4949816",
     "Watchlist|https://www.investing.com/news/stock-market-news/progressive-earnings-analysis-questions-answered-and-next-catalysts-93CH-4949817",
     "Watchlist|https://www.investing.com/news/stock-market-news/anduril-allows-staff-to-sell-shares-at-90-billion-valuation--report-4949821",
     "Watchlist|https://www.investing.com/news/company-news/utz-brands-announces-death-of-longtime-leader-michael-rice-93CH-4949822",
@@ -5000,7 +4997,10 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/crowdstrike-president-and-ceo-george-kurtz-sells-515m-in-stock-93CH-4952904",
     "Watchlist|https://www.investing.com/news/insider-trading-news/tko-director-nick-khan-sells-168m-in-company-stock-93CH-4952902",
     "Watchlist|https://www.investing.com/news/insider-trading-news/talos-energy-10-owner-sells-518m-in-shares-93CH-4952903",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/crowdstrike-president-and-ceo-george-kurtz-sells-515m-in-stock-93CH-4952904"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/crowdstrike-president-and-ceo-george-kurtz-sells-515m-in-stock-93CH-4952904",
+    "AI|631fcf85-e47c-3d95-9e0e-4b9415e4d073",
+    "Watchlist|631fcf85-e47c-3d95-9e0e-4b9415e4d073",
+    "War|fe6c3027-4bb8-3a53-9335-f72f2557a1cd"
   ],
   "topic_error": "",
   "last_digest": "2026-10-16",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792111217.5584345
+  "last_check": 1792112129.0066457
 }
