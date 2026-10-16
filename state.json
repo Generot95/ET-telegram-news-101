@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/economy-news/red-hot-cpi-report-fuels-ai-rout-4949874",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-nvidia-stock-sliding-today-93CH-4949876",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/verizon-evp-kyle-malady-sells-47223-in-common-stock-93CH-4949871",
-    "SG Banks|https://www.investing.com/news/stock-market-news/globalfoundries-options-surge-on-21b-usjapan-chip-deal-93CH-4949872",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-wolfspeed-stock-sliding-today-93CH-4949875",
     "SG Banks|https://www.investing.com/news/economy-news/red-hot-cpi-report-fuels-ai-rout-4949874",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-nvidia-stock-sliding-today-93CH-4949876",
     "Watchlist|https://www.investing.com/news/insider-trading-news/verizon-evp-kyle-malady-sells-47223-in-common-stock-93CH-4949871",
@@ -5000,7 +4995,12 @@
     "AI|https://www.investing.com/news/stock-market-news/asia-stocks-rebound-as-chipmakers-recover-while-indonesia-rout-deepens-4953029",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/asia-stocks-rebound-as-chipmakers-recover-while-indonesia-rout-deepens-4953029",
     "SG Banks|https://www.investing.com/news/stock-market-news/asia-stocks-rebound-as-chipmakers-recover-while-indonesia-rout-deepens-4953029",
-    "Watchlist|https://www.investing.com/news/stock-market-news/asia-stocks-rebound-as-chipmakers-recover-while-indonesia-rout-deepens-4953029"
+    "Watchlist|https://www.investing.com/news/stock-market-news/asia-stocks-rebound-as-chipmakers-recover-while-indonesia-rout-deepens-4953029",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/palm-oil-stocks-slide-after-singapore-begins-looking-into-which-firms-responsible-for-haze",
+    "AI|8d8cb83c-733e-3d82-877c-e93e4d864841",
+    "Watchlist|8d8cb83c-733e-3d82-877c-e93e4d864841",
+    "Crypto|8aa48e90-0e4e-374d-aecb-063013eb06b2",
+    "SG Banks|https://www.channelnewsasia.com/business/malaysias-economy-grows-53-year-in-q3-official-advance-estimate-shows-6464966"
   ],
   "topic_error": "",
   "last_digest": "2026-10-16",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792123136.4415035
+  "last_check": 1792124056.6603825
 }
