@@ -1,23 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/analyst-ratings/citizens-cuts-redwood-trust-stock-price-target-to-4-on-valuation-93CH-4950898",
-    "AI|https://www.investing.com/news/economy-news/africas-economic-resilience-masks-rising-inflation-threat-and-fragile-buffers-imf-warns-4950912",
-    "AI|https://www.investing.com/news/economy-news/uk-autumn-budget-seen-delaying-tough-calls-to-2027-as-headroom-shrinks-4950913",
-    "AI|https://www.investing.com/news/economy-news/boe-to-raise-rates-to-4-in-november-but-economists-narrowly-expect-hold-from-there-reuters-poll-4950914",
-    "AI|https://www.investing.com/news/stock-market-news/can-tsmc-earnings-help-settle-ai-jitters-4950915",
-    "AI|https://www.investing.com/news/stock-market-news/eu-court-adviser-sides-witheu-regulators-against-tiktok-in-fight-over-tech-label-4950797",
-    "AI|https://www.investing.com/news/stock-market-news/stock-market-posts-worst-day-in-months-on-inflation-tech-selloff-93CH-4950869",
-    "AI|https://www.investing.com/news/stock-market-news/zuckerbergs-awkward-beer-sip-goes-viral-on-podcast-93CH-4950879",
-    "AI|https://www.investing.com/news/stock-market-news/goldman-sachs-updates-utility-estimates-ahead-of-q3-earnings-93CH-4950882",
-    "AI|https://www.investing.com/news/stock-market-news/richemont-signet-in-talks-to-join-consortium-bidding-for-de-beers--report-93CH-4950886",
-    "AI|https://www.investing.com/news/stock-market-news/us-ftc-subpoenas-openai-and-anthropicover-consumer-harms-axios-reports-4950890",
-    "AI|https://www.investing.com/news/company-news/nordea-q3-2026-slides-buyback-pause-overshadows-solid-results-93CH-4950883",
-    "AI|https://www.investing.com/news/company-news/dfi-retail-appoints-shin-hwee-chua-as-independent-director-93CH-4950884",
-    "Cybersecurity|https://www.investing.com/news/economy-news/china-q3-growth-set-to-pick-up-on-stimulus-keeping-2026-goal-within-reach-reuters-poll-4950895",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/richemont-in-talks-to-join-bid-for-diamond-miner-de-beers-bloomberg-reports-4950896",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/citizens-cuts-upstart-stock-price-target-to-18-on-bank-charter-concerns-93CH-4950897",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/citizens-cuts-redwood-trust-stock-price-target-to-4-on-valuation-93CH-4950898",
     "Cybersecurity|https://www.investing.com/news/economy-news/africas-economic-resilience-masks-rising-inflation-threat-and-fragile-buffers-imf-warns-4950912",
     "Cybersecurity|https://www.investing.com/news/economy-news/uk-autumn-budget-seen-delaying-tough-calls-to-2027-as-headroom-shrinks-4950913",
     "Cybersecurity|https://www.investing.com/news/economy-news/boe-to-raise-rates-to-4-in-november-but-economists-narrowly-expect-hold-from-there-reuters-poll-4950914",
@@ -5000,80 +4983,97 @@
     "AI|1e100537-d45e-3120-9c79-a4755080edd6",
     "Watchlist|1e100537-d45e-3120-9c79-a4755080edd6",
     "AI|5372348c-2ebc-39dc-9142-0c3f6e6ed23e",
-    "Watchlist|5372348c-2ebc-39dc-9142-0c3f6e6ed23e"
+    "Watchlist|5372348c-2ebc-39dc-9142-0c3f6e6ed23e",
+    "AI|e2fe1283-cc89-3395-886d-ba1e326da65b",
+    "Watchlist|e2fe1283-cc89-3395-886d-ba1e326da65b",
+    "War|WP-MKTW-0005291604",
+    "War|WP-MKTW-0005288679",
+    "AI|2326df5a-e202-3b65-90ca-888b14733471",
+    "AI|WP-MKTW-0005291604",
+    "AI|WP-MKTW-0005288679",
+    "Cybersecurity|WP-MKTW-0005291604",
+    "Cybersecurity|WP-MKTW-0005288679",
+    "Watchlist|2326df5a-e202-3b65-90ca-888b14733471",
+    "Watchlist|36ea07d3-35c3-31cd-8cc1-a59a87b7bbfa",
+    "AI|36ea07d3-35c3-31cd-8cc1-a59a87b7bbfa",
+    "AI|918c6fef-78ac-3eb9-8402-8a4c0b0f84ff",
+    "AI|5968c92c-c809-34a2-8534-8cd41efffaa8",
+    "Watchlist|918c6fef-78ac-3eb9-8402-8a4c0b0f84ff",
+    "Watchlist|5968c92c-c809-34a2-8534-8cd41efffaa8",
+    "War|ab608809-c0fc-3d53-9708-812b112984d8"
   ],
   "topic_error": "",
   "last_digest": "2026-10-16",
   "earnings": {
     "AMD": {
       "ts": 1793736000,
-      "fetched": 1792076861.1346326
+      "fetched": 1792163268.9966476
     },
     "NVDA": {
       "ts": 1794945600,
-      "fetched": 1792076861.1346326
+      "fetched": 1792163268.9966476
     },
     "CRWD": {
       "ts": 1796155200,
-      "fetched": 1792076861.1346326
+      "fetched": 1792163268.9966476
     },
     "MSFT": {
       "ts": 1793217600,
-      "fetched": 1792076861.1346326
+      "fetched": 1792163268.9966476
     },
     "INTU": {
       "ts": 1795118400,
-      "fetched": 1792076861.1346326
+      "fetched": 1792163268.9966476
     },
     "BRK-B": {
       "ts": 1794081600,
-      "fetched": 1792076861.1346326
+      "fetched": 1792163268.9966476
     },
     "AMZN": {
       "ts": 1793304000,
-      "fetched": 1792076861.1346326
+      "fetched": 1792163268.9966476
     },
     "GOOG": {
       "ts": 1793217600,
-      "fetched": 1792076861.1346326
+      "fetched": 1792163268.9966476
     },
     "ZTS": {
       "ts": 1793881800,
-      "fetched": 1792076861.1346326
+      "fetched": 1792163268.9966476
     },
     "LIN": {
       "ts": 1793277000,
-      "fetched": 1792076861.1346326
+      "fetched": 1792163268.9966476
     },
     "VLO": {
       "ts": 1792672200,
-      "fetched": 1792076861.1346326
+      "fetched": 1792163268.9966476
     },
     "D05.SI": {
       "ts": 1793869200,
-      "fetched": 1792076861.1346326
+      "fetched": 1792163268.9966476
     },
     "O39.SI": {
       "ts": 1793955600,
-      "fetched": 1792076861.1346326
+      "fetched": 1792163268.9966476
     },
     "U11.SI": {
       "ts": 1793782800,
-      "fetched": 1792076861.1346326
+      "fetched": 1792163268.9966476
     },
     "A17U.SI": {
       "ts": 1785920400,
-      "fetched": 1792076861.1346326
+      "fetched": 1792163268.9966476
     },
     "HMN.SI": {
       "ts": 1785229200,
-      "fetched": 1792076861.1346326
+      "fetched": 1792163268.9966476
     },
     "JYEU.SI": {
       "ts": null,
-      "fetched": 1792076861.1346326
+      "fetched": 1792163268.9966476
     }
   },
   "earnings_notified": [],
-  "last_check": 1792162535.3897464
+  "last_check": 1792163447.4573896
 }
