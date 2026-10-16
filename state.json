@@ -1,22 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/carlyle-group-stock-hits-52week-low-at-3555-usd-93CH-4949852",
-    "Watchlist|https://www.investing.com/news/stock-market-news/nvidia-ceo-says-he-would-stop-chip-supply-for-companies-with-unsafe-ai-4949841",
-    "Watchlist|https://www.investing.com/news/press-releases/kayeventures-announces-the-trading-account-lifecycle--from-market-selection-to-transaction-records-4949845",
-    "Watchlist|https://www.investing.com/news/press-releases/shrlimited-launches-modern-fintech-architecture--decoupling-data-engines-from-brokerage-execution-4949844",
-    "Watchlist|https://www.investing.com/news/press-releases/bspassetmanagement-launches-its-analytics-dashboard--aiassisted-market-research-4949848",
-    "Watchlist|https://www.investing.com/news/press-releases/brondesburyglobal-announces-a-legit-standard--zero-trust-architecture-vs-macroeconomic-volatility-in-2026-4949847",
-    "Watchlist|https://www.investing.com/news/press-releases/sequence-energy-launches-the-new-analytical-standard-in-the-baltics-in-2026-4949846",
-    "Watchlist|https://www.investing.com/news/stock-market-news/us-transportation-secretary-meeting-with-boeing-ge-ceos-on-aircraft-certification-reform-efforts-4949849",
-    "Watchlist|https://www.investing.com/news/stock-market-news/interactive-brokers-charles-schwab-alcoa-and-more-set-to-report-thursday-93CH-4949850",
-    "Watchlist|https://www.investing.com/news/stock-market-news/ppi-retail-sales-jobless-claims-and-oil-inventories-among-economic-data-due-thursday-93CH-4949851",
-    "Watchlist|https://www.investing.com/news/company-news/carlyle-group-stock-hits-52week-low-at-3555-usd-93CH-4949852",
-    "SG Banks|https://www.straitstimes.com/business/blackstone-backed-airtrunk-delays-singapore-reit-ipo-amid-ai-stock-selloff-sources-say",
-    "Crypto|48866d79-b8e8-4288-8d02-98a3df0a333f",
-    "AI|7ec3dd97-213f-460b-ac31-0a4a6d103891",
-    "War|536f0e6c-15f0-43ba-8f69-22abfd37ca83",
-    "AI|ca6a865b-6c95-37eb-9555-6166f97757f9",
     "AI|ab3582fa-a2f7-331a-926c-d85f97e6ef10",
     "Watchlist|ca6a865b-6c95-37eb-9555-6166f97757f9",
     "Watchlist|ab3582fa-a2f7-331a-926c-d85f97e6ef10",
@@ -5000,7 +4984,23 @@
     "AI|045d15a8-3e43-342c-95f4-b7c2773d5cfb",
     "Watchlist|045d15a8-3e43-342c-95f4-b7c2773d5cfb",
     "AI|4a01fc8e-804d-3c4e-94a8-ada52e90a26a",
-    "Watchlist|4a01fc8e-804d-3c4e-94a8-ada52e90a26a"
+    "Watchlist|4a01fc8e-804d-3c4e-94a8-ada52e90a26a",
+    "War|48541ea9-9e6c-32ee-913e-f68135537811",
+    "AI|2b02d90e-cb03-3ca0-8439-6711ebbd3d9b",
+    "Watchlist|2b02d90e-cb03-3ca0-8439-6711ebbd3d9b",
+    "AI|https://www.investing.com/news/stock-market-news/strive-prices-upsized-ipo-of-preferred-stock-at-90-per-share-432SI-4952961",
+    "AI|https://www.investing.com/news/stock-market-news/singapore-nonoil-exports-jump-biggerthanexpected-684-in-september-93CH-4952972",
+    "AI|https://www.investing.com/news/insider-trading-news/isq-global-fund-ii-gp-director-sells-1095m-kinetik-holdings-stock-93CH-4952977",
+    "AI|https://www.investing.com/news/stock-market-news/taiwan-plans-4-bln-texas-park-to-support-nvidias-ai-supply-chain--bloomberg-4952979",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/strive-prices-upsized-ipo-of-preferred-stock-at-90-per-share-432SI-4952961",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/singapore-nonoil-exports-jump-biggerthanexpected-684-in-september-93CH-4952972",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/isq-global-fund-ii-gp-director-sells-1095m-kinetik-holdings-stock-93CH-4952977",
+    "SG Banks|https://www.investing.com/news/stock-market-news/strive-prices-upsized-ipo-of-preferred-stock-at-90-per-share-432SI-4952961",
+    "SG Banks|https://www.investing.com/news/stock-market-news/singapore-nonoil-exports-jump-biggerthanexpected-684-in-september-93CH-4952972",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/isq-global-fund-ii-gp-director-sells-1095m-kinetik-holdings-stock-93CH-4952977",
+    "Watchlist|https://www.investing.com/news/stock-market-news/strive-prices-upsized-ipo-of-preferred-stock-at-90-per-share-432SI-4952961",
+    "Watchlist|https://www.investing.com/news/stock-market-news/singapore-nonoil-exports-jump-biggerthanexpected-684-in-september-93CH-4952972",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/isq-global-fund-ii-gp-director-sells-1095m-kinetik-holdings-stock-93CH-4952977"
   ],
   "topic_error": "",
   "last_digest": "2026-10-16",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792117634.2095244
+  "last_check": 1792118558.6091962
 }
