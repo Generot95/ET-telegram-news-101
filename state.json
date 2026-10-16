@@ -1,23 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/doordash-cfo-ravi-inukonda-sells-198315-in-company-stock-93CH-4950515",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/ferguson-enterprises-legal-officer-ian-graham-sells-405k-in-shares-93CH-4950516",
-    "Cybersecurity|https://www.investing.com/news/economy-news/boes-pill-says-a-rate-hike-need-not-be-start-of-long-series-4950517",
-    "Cybersecurity|https://www.investing.com/news/economy-news/south-koreas-kospi-triggers-circuit-breaker-in-techled-selloff-4950522",
-    "SG Banks|https://www.channelnewsasia.com/business/south-koreas-kospi-triggers-circuit-breaker-in-tech-led-selloff-6461381",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/doordash-cfo-ravi-inukonda-sells-198315-in-company-stock-93CH-4950515",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/ferguson-enterprises-legal-officer-ian-graham-sells-405k-in-shares-93CH-4950516",
-    "SG Banks|https://www.investing.com/news/economy-news/boes-pill-says-a-rate-hike-need-not-be-start-of-long-series-4950517",
-    "SG Banks|https://www.investing.com/news/economy-news/south-koreas-kospi-triggers-circuit-breaker-in-techled-selloff-4950522",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/doordash-cfo-ravi-inukonda-sells-198315-in-company-stock-93CH-4950515",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/ferguson-enterprises-legal-officer-ian-graham-sells-405k-in-shares-93CH-4950516",
-    "Watchlist|https://www.investing.com/news/economy-news/boes-pill-says-a-rate-hike-need-not-be-start-of-long-series-4950517",
-    "Watchlist|https://www.investing.com/news/economy-news/south-koreas-kospi-triggers-circuit-breaker-in-techled-selloff-4950522",
-    "AI|1e07538c-4d5d-3889-968c-8b9d3cda6b7a",
-    "SG Banks|https://www.channelnewsasia.com/business/figma-cfo-says-design-platform-willing-put-margins-line-boost-ai-demand-6461406",
-    "Watchlist|1e07538c-4d5d-3889-968c-8b9d3cda6b7a",
-    "AI|c3536105-dac5-32dc-a136-3355832f90dd",
     "Iran|https://www.iranintl.com/en/202610147703",
     "AI|https://www.investing.com/news/economy-news/us-treasury-yields-slide-after-cpidriven-spike-4950530",
     "AI|https://www.investing.com/news/economy-news/bessent-calls-for-world-bank-reforms-including-upstream-oil-and-gas-financing-4950531",
@@ -5000,7 +4983,24 @@
     "SG Banks|https://www.straitstimes.com/business/start-dating-earlier-lunch-actually-ceo-on-finding-a-life-partner-in-spore",
     "Watchlist|/companies-markets/capital-markets-currencies/tsmc-sk-hynix-among-5-new-sdrs-be-launched-sgx",
     "AI|a90b26bd-ecf3-3ca1-9459-95432b19b98b",
-    "Watchlist|a90b26bd-ecf3-3ca1-9459-95432b19b98b"
+    "Watchlist|a90b26bd-ecf3-3ca1-9459-95432b19b98b",
+    "Crypto|f6177fc6-d6cd-3ee4-bab2-e5c1ef70c23a",
+    "War|19bb16b7-189f-30b0-9efc-cf7bcb0be1b7",
+    "War|411c8df4-b92e-3be9-aa4a-438b648b4c34",
+    "AI|e1ff831f-5ea8-3e80-b19c-46758b960638",
+    "Watchlist|e1ff831f-5ea8-3e80-b19c-46758b960638",
+    "AI|47fcdefe-fe2e-37e2-8d0d-769edae751af",
+    "Watchlist|47fcdefe-fe2e-37e2-8d0d-769edae751af",
+    "AI|e853b9f5-5cf9-3de7-bb90-512f941de605",
+    "AI|510024e9-13c4-36d1-9588-e75af29d11bd",
+    "Watchlist|e853b9f5-5cf9-3de7-bb90-512f941de605",
+    "Watchlist|510024e9-13c4-36d1-9588-e75af29d11bd",
+    "War|13e48d09-0976-3082-81ba-a828960757d8",
+    "Crypto|13e48d09-0976-3082-81ba-a828960757d8",
+    "AI|6e682331-22bb-3eb6-b74a-fc6000667f42",
+    "Watchlist|6e682331-22bb-3eb6-b74a-fc6000667f42",
+    "Cybersecurity|f443142d-9efa-3c5c-b4f3-9b534c609eed",
+    "Watchlist|977eacd1-a697-33ab-a1f7-af0c03f89810"
   ],
   "topic_error": "",
   "last_digest": "2026-10-16",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792153364.372029
+  "last_check": 1792154279.749938
 }
