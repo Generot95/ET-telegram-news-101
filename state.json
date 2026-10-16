@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/fairfax-selected-to-acquire-6072-stake-in-idbi-bank-for-56b-93CH-4950125",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-educational-development-posts-smaller-sales-decline-in-q2-2026-93CH-4950127",
-    "SG Banks|https://www.investing.com/news/company-news/badlands-resources-closes-c32m-private-placement-93CH-4950132",
-    "SG Banks|https://www.investing.com/news/company-news/canadian-gold-resources-closes-c100000-private-placement-93CH-4950131",
-    "SG Banks|https://www.investing.com/news/economy-news/trading-day-tech-melt-4950122",
-    "SG Banks|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-030-4950135",
-    "SG Banks|https://www.investing.com/news/company-news/four-corners-extends-66-darden-restaurant-leases-to-2032-93CH-4950136",
-    "SG Banks|https://www.investing.com/news/company-news/vistance-networks-approves-150-special-dividend-per-share-93CH-4950137",
-    "Watchlist|078b2f34-f98b-3446-94e7-9a5c3057765d",
     "Watchlist|64fd0a14-4648-3336-9e4e-a15732133a58",
     "Watchlist|https://www.investing.com/news/company-news/fairfax-selected-to-acquire-6072-stake-in-idbi-bank-for-56b-93CH-4950125",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-educational-development-posts-smaller-sales-decline-in-q2-2026-93CH-4950127",
@@ -5000,7 +4991,16 @@
     "Watchlist|https://www.investing.com/news/analyst-ratings/william-blair-initiates-ideaya-biosciences-stock-with-outperform-rating-93CH-4953292",
     "Watchlist|https://www.investing.com/news/analyst-ratings/william-blair-initiates-immunome-stock-coverage-with-outperform-rating-93CH-4953293",
     "Watchlist|https://www.investing.com/news/analyst-ratings/william-blair-initiates-revolution-stock-with-outperform-on-ras-franchise-93CH-4953294",
-    "SG Banks|https://www.channelnewsasia.com/business/dollar-heads-weekly-fall-investors-gauge-ai-selloff-impact-6464556"
+    "SG Banks|https://www.channelnewsasia.com/business/dollar-heads-weekly-fall-investors-gauge-ai-selloff-impact-6464556",
+    "AI|eeb7ed84-7f8d-317a-8231-e488ea23a325",
+    "Watchlist|eeb7ed84-7f8d-317a-8231-e488ea23a325",
+    "War|d722eb9a-37e8-3bb5-9e8a-85b6aca8cc61",
+    "AI|e908c40f-dd75-321b-b09e-96b90063cfe2",
+    "Watchlist|e908c40f-dd75-321b-b09e-96b90063cfe2",
+    "SG Banks|/companies-markets/toyota-debut-its-own-version-tesla-ev-making-tech-china",
+    "Watchlist|/companies-markets/toyota-debut-its-own-version-tesla-ev-making-tech-china",
+    "AI|9245f6bc-ad2c-3254-a20d-a6981ecfea27",
+    "Watchlist|9245f6bc-ad2c-3254-a20d-a6981ecfea27"
   ],
   "topic_error": "",
   "last_digest": "2026-10-16",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792136868.1361933
+  "last_check": 1792137775.0361745
 }
