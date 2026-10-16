@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|6dec429a-c588-39ba-9c2b-19a980c11480",
-    "Watchlist|6dec429a-c588-39ba-9c2b-19a980c11480",
-    "War|9a7cfad6-58b5-3797-97d9-8a7fb6472297",
-    "AI|https://www.investing.com/news/stock-market-news/nvidia-ceo-says-he-would-stop-chip-supply-for-companies-with-unsafe-ai-4949841",
-    "AI|https://www.investing.com/news/press-releases/kayeventures-announces-the-trading-account-lifecycle--from-market-selection-to-transaction-records-4949845",
-    "AI|https://www.investing.com/news/press-releases/shrlimited-launches-modern-fintech-architecture--decoupling-data-engines-from-brokerage-execution-4949844",
-    "AI|https://www.investing.com/news/press-releases/bspassetmanagement-launches-its-analytics-dashboard--aiassisted-market-research-4949848",
-    "AI|https://www.investing.com/news/press-releases/brondesburyglobal-announces-a-legit-standard--zero-trust-architecture-vs-macroeconomic-volatility-in-2026-4949847",
-    "AI|https://www.investing.com/news/press-releases/sequence-energy-launches-the-new-analytical-standard-in-the-baltics-in-2026-4949846",
-    "AI|https://www.investing.com/news/stock-market-news/us-transportation-secretary-meeting-with-boeing-ge-ceos-on-aircraft-certification-reform-efforts-4949849",
-    "AI|https://www.investing.com/news/stock-market-news/interactive-brokers-charles-schwab-alcoa-and-more-set-to-report-thursday-93CH-4949850",
-    "AI|https://www.investing.com/news/stock-market-news/ppi-retail-sales-jobless-claims-and-oil-inventories-among-economic-data-due-thursday-93CH-4949851",
     "AI|https://www.investing.com/news/company-news/carlyle-group-stock-hits-52week-low-at-3555-usd-93CH-4949852",
     "AI|https://www.investing.com/news/stock-market-news/klarna-the-limited-series-93CH-4949840",
     "AI|https://www.investing.com/news/company-news/rithm-capital-corp-stock-hits-52week-low-at-835-usd-93CH-4949836",
@@ -5000,7 +4988,19 @@
     "SG Banks|/companies-markets/blackstone-backed-airtrunk-delays-singapore-reit-ipo-amid-ai-stock-sell-sources-say",
     "Watchlist|/companies-markets/blackstone-backed-airtrunk-delays-singapore-reit-ipo-amid-ai-stock-sell-sources-say",
     "Iran|https://www.iranintl.com/en/202610147510",
-    "SG Banks|https://www.straitstimes.com/business/capital-worlds-ability-to-keep-operating-depends-on-completing-mustafa-mall-deal-auditors-say"
+    "SG Banks|https://www.straitstimes.com/business/capital-worlds-ability-to-keep-operating-depends-on-completing-mustafa-mall-deal-auditors-say",
+    "AI|https://www.investing.com/news/stock-market-news/msci-freezes-certain-turkey-index-changes-warns-of-potential-market-downgrade-4952952",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/msci-freezes-certain-turkey-index-changes-warns-of-potential-market-downgrade-4952952",
+    "SG Banks|https://www.investing.com/news/stock-market-news/msci-freezes-certain-turkey-index-changes-warns-of-potential-market-downgrade-4952952",
+    "Watchlist|https://www.investing.com/news/stock-market-news/msci-freezes-certain-turkey-index-changes-warns-of-potential-market-downgrade-4952952",
+    "AI|0dac0726-5667-396f-b3ac-9b4036f2732b",
+    "Watchlist|0dac0726-5667-396f-b3ac-9b4036f2732b",
+    "SG Banks|/companies-markets/energy-commodities/palm-oil-stocks-slide-after-singapore-begins-looking-which-firms-responsible-haze",
+    "Watchlist|/companies-markets/energy-commodities/palm-oil-stocks-slide-after-singapore-begins-looking-which-firms-responsible-haze",
+    "AI|4940768b-7f56-3e5b-9ab9-cac7d9645de9",
+    "War|b50295aa-cd46-35d3-b6b7-7c5e0661a822",
+    "Crypto|f407b8c9-d161-3b74-8d87-d0017e8d8024",
+    "Watchlist|4940768b-7f56-3e5b-9ab9-cac7d9645de9"
   ],
   "topic_error": "",
   "last_digest": "2026-10-16",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792115793.0709152
+  "last_check": 1792116708.465087
 }
