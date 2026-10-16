@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/insider-trading-news/q32-bio-cfo-and-president-lee-kalowski-sells-10824-in-shares-93CH-4950174",
-    "AI|https://www.investing.com/news/insider-trading-news/q32-bio-cso-shelia-violette-sells-7629-of-company-stock-93CH-4950176",
-    "AI|https://www.investing.com/news/insider-trading-news/stephen-garchik-authid-director-sells-11150-in-common-stock-93CH-4950177",
-    "Cybersecurity|https://www.investing.com/news/company-news/american-water-announces-leadership-changes-in-missouri-illinois-93CH-4950169",
-    "Cybersecurity|https://www.investing.com/news/economy-news/feds-daly-sees-rate-hikes-ahead-but-signals-no-urgency-for-october--reuters-4950170",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/rocket-lab-pushes-neutron-rockets-debut-flight-to-2027-shares-fall-4950171",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/q32-bio-ceo-jodie-morrison-sells-26798-in-stock-93CH-4950175",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/q32-bio-cfo-and-president-lee-kalowski-sells-10824-in-shares-93CH-4950174",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/q32-bio-cso-shelia-violette-sells-7629-of-company-stock-93CH-4950176",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/stephen-garchik-authid-director-sells-11150-in-common-stock-93CH-4950177",
     "SG Banks|https://www.investing.com/news/company-news/american-water-announces-leadership-changes-in-missouri-illinois-93CH-4950169",
     "SG Banks|https://www.investing.com/news/economy-news/feds-daly-sees-rate-hikes-ahead-but-signals-no-urgency-for-october--reuters-4950170",
@@ -5000,7 +4991,16 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/european-satellite-stocks-extend-rally-as-ukraine-flags-starlink-curbs-4953360",
     "Watchlist|https://www.investing.com/news/stock-market-news/uk-bank-shares-fall-on-report-of-potential-tax-hike-in-oct-28-budget-4953365",
     "Watchlist|https://www.investing.com/news/analyst-ratings/jpmorgan-reiterates-tesla-stock-rating-keeps-415-price-target-93CH-4953366",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-helix-exploration-stock-rallying-today-93CH-4953372"
+    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-helix-exploration-stock-rallying-today-93CH-4953372",
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
+    "SG Banks|/companies-markets/capital-markets-currencies/european-shares-edge-after-solid-asml-results-healthcare-gains",
+    "Watchlist|/companies-markets/capital-markets-currencies/european-shares-edge-after-solid-asml-results-healthcare-gains",
+    "AI|bd220251-569d-3133-be08-66cf754a4a8d",
+    "Watchlist|bd220251-569d-3133-be08-66cf754a4a8d",
+    "SG Banks|https://www.channelnewsasia.com/business/global-inflation-debate-puts-boj-rate-hike-pace-in-spotlight-6465436",
+    "AI|923b2594-c6e2-31c3-a7eb-e93ba8ce9c17",
+    "Watchlist|6e24e08e-4bee-370e-826a-03a8fbb3c467",
+    "Watchlist|923b2594-c6e2-31c3-a7eb-e93ba8ce9c17"
   ],
   "topic_error": "",
   "last_digest": "2026-10-16",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792140527.691927
+  "last_check": 1792141439.5940838
 }
