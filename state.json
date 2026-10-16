@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/tns-acquires-netnumber-to-expand-communications-portfolio-93CH-4952247",
-    "Watchlist|https://www.investing.com/news/company-news/schwab-q3-2026-slides-record-results-show-29-eps-growth-shares-fall-93CH-4952235",
-    "Watchlist|https://www.investing.com/news/stock-market-news/cbre-group-options-suggest-62-move-on-oct-22-earnings-93CH-4952240",
-    "Watchlist|https://www.investing.com/news/economic-indicators/us-holiday-sales-growth-to-speed-up-as-shoppers-stay-resilientnrf-forecasts-4952241",
-    "Watchlist|https://www.investing.com/news/stock-market-news/tractor-supply-stock-may-move-79-on-oct-22-earnings-93CH-4952243",
-    "Watchlist|https://www.investing.com/news/stock-market-news/union-pacific-shares-may-move-41-on-oct-22-earnings-93CH-4952244",
     "Watchlist|https://www.investing.com/news/company-news/antofagasta-appoints-carlos-avila-as-nonexecutive-director-93CH-4952245",
     "Watchlist|https://www.investing.com/news/stock-market-news/pultegroup-options-suggest-44-move-after-earnings-report-93CH-4952246",
     "Watchlist|https://www.investing.com/news/company-news/tns-acquires-netnumber-to-expand-communications-portfolio-93CH-4952247",
@@ -5000,7 +4994,13 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/reddit-coo-jennifer-wong-sells-9m-in-stock-on-october-14-93CH-4954969",
     "Watchlist|https://www.investing.com/news/insider-trading-news/ralliant-ceo-tamara-newcombe-sells-913k-in-common-stock-93CH-4954970",
     "Watchlist|https://www.investing.com/news/company-news/agereh-technologies-announces-private-placement-of-up-to-c600000-93CH-4954973",
-    "Watchlist|https://www.investing.com/news/stock-market-news/anthropic-signs-lease-for-first-canadian-data-center-4954967"
+    "Watchlist|https://www.investing.com/news/stock-market-news/anthropic-signs-lease-for-first-canadian-data-center-4954967",
+    "AI|7941bc4c-e7a9-3e52-b534-c14ee40df04d",
+    "Watchlist|7941bc4c-e7a9-3e52-b534-c14ee40df04d",
+    "AI|8bdcf58a-3d13-3f8d-94ce-58447318011c",
+    "Watchlist|8bdcf58a-3d13-3f8d-94ce-58447318011c",
+    "AI|5e0035d1-847e-3a79-aa14-fedb45395bf8",
+    "Watchlist|5e0035d1-847e-3a79-aa14-fedb45395bf8"
   ],
   "topic_error": "",
   "last_digest": "2026-10-16",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792192774.5476646
+  "last_check": 1792193708.6771312
 }
