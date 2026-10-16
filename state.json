@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/bybit-kazakhstan-signs-moc-with-aifc-digital-asset-investments-on-bybit-kz-now-recognised-under-aifcs-itrp-4948539",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/myxrpfi-opens-public-access-after-81-million-xrp-institutional-phase-4948538",
-    "AI|3da5d9d5-d5d6-4947-80c5-834872f3742a",
-    "Watchlist|3da5d9d5-d5d6-4947-80c5-834872f3742a",
-    "AI|730e5e5b-d109-37f1-be5a-6af3bee9ed82",
-    "Watchlist|730e5e5b-d109-37f1-be5a-6af3bee9ed82",
-    "War|aa4aed94-931b-3aba-abb6-85dc35b0a6df",
     "AI|26ecc6a2-895f-36b8-bc8d-89e2d1c88206",
     "AI|43e15f4c-378a-35ca-8bcb-ce6c42c9c5ef",
     "AI|3a60d170-e2da-348a-825c-fd0de6128ab9",
@@ -5000,7 +4993,14 @@
     "Watchlist|/companies-markets/ubs-barclays-uob-among-private-banks-growing-singapore-talent-pool-wealth-sector-booms",
     "Watchlist|/companies-markets/banking-finance/fed-governor-cooks-lawyer-denounces-trumps-latest-attempt-remove-her",
     "War|6e3817cd-becf-36cd-ad3d-3c8b4b1abda8",
-    "AI|89db7483-6048-3bbc-873d-7d45c2acda11"
+    "AI|89db7483-6048-3bbc-873d-7d45c2acda11",
+    "AI|7c246436-21c1-39a7-92ef-abf8df063e39",
+    "Watchlist|7c246436-21c1-39a7-92ef-abf8df063e39",
+    "Crypto|7adf19bd-c0dd-32de-89bb-ffe7b531c15f",
+    "Cybersecurity|eb796b90-db8a-3def-9020-3c0820e472f1",
+    "Watchlist|eb796b90-db8a-3def-9020-3c0820e472f1",
+    "SG Banks|https://www.channelnewsasia.com/business/anthropic-quietly-pitches-its-own-ai-safety-bill-lawmakers-politico-reports-6467581",
+    "Watchlist|e1db34a8-3209-3814-b470-6a1c31b1a70f"
   ],
   "topic_error": "",
   "last_digest": "2026-10-16",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792190037.6371157
+  "last_check": 1792190947.2840757
 }
