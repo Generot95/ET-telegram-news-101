@@ -1,7 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|WP-MKTW-0005287359",
     "AI|6dec429a-c588-39ba-9c2b-19a980c11480",
     "Watchlist|6dec429a-c588-39ba-9c2b-19a980c11480",
     "War|9a7cfad6-58b5-3797-97d9-8a7fb6472297",
@@ -5000,7 +4999,8 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/applied-digital-director-nottenburg-sells-682500-in-apld-shares-93CH-4952944",
     "SG Banks|/companies-markets/blackstone-backed-airtrunk-delays-singapore-reit-ipo-amid-ai-stock-sell-sources-say",
     "Watchlist|/companies-markets/blackstone-backed-airtrunk-delays-singapore-reit-ipo-amid-ai-stock-sell-sources-say",
-    "Iran|https://www.iranintl.com/en/202610147510"
+    "Iran|https://www.iranintl.com/en/202610147510",
+    "SG Banks|https://www.straitstimes.com/business/capital-worlds-ability-to-keep-operating-depends-on-completing-mustafa-mall-deal-auditors-say"
   ],
   "topic_error": "",
   "last_digest": "2026-10-16",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792114886.939446
+  "last_check": 1792115793.0709152
 }
