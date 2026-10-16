@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/sdcl-efficiency-income-trust-adds-two-directors-to-board-93CH-4952157",
-    "Cybersecurity|https://www.investing.com/news/company-news/us-bancorp-q3-2026-slides-record-revenue-raised-guidance-93CH-4952169",
-    "Cybersecurity|https://www.investing.com/news/company-news/avatrade-accelerates-global-growth-with-acquisition-of-forex-pioneer-fxcm-4952180",
-    "Cybersecurity|https://www.investing.com/news/company-news/hdfc-life-h1-fy27-presentation-12-vnb-growth-strong-margins-93CH-4952184",
-    "Cybersecurity|https://www.investing.com/news/company-news/atkore-stock-hits-52week-high-at-9494-usd-93CH-4952190",
-    "SG Banks|https://www.investing.com/news/company-news/gigacloud-technology-stock-hits-52week-high-at-5827-usd-93CH-4952193",
     "SG Banks|https://www.investing.com/news/stock-market-news/arista-lam-research-among-market-cap-stock-movers-on-thursday-93CH-4952194",
     "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-bank7-tops-q3-eps-forecast-as-merger-plans-advance-93CH-4952197",
     "SG Banks|https://www.investing.com/news/company-news/unum-group-declares-0505-quarterly-dividend-per-share-93CH-4952196",
@@ -5000,7 +4994,13 @@
     "Watchlist|63b890d9-5f30-3057-bbed-34cdca285ffd",
     "War|WP-MKTW-0005292665",
     "AI|WP-MKTW-0005292665",
-    "Cybersecurity|WP-MKTW-0005292665"
+    "Cybersecurity|WP-MKTW-0005292665",
+    "Crypto|be7ba58b-622f-35e5-aef1-09a875ed0633",
+    "War|4912debc-165a-43e4-97fb-ca6aa92cc980",
+    "Cybersecurity|8a29ff9e-696f-3884-9e78-605dc5404c58",
+    "AI|a84ec752-ac2a-3ae7-9ee0-66db41427f7a",
+    "AI|5ee6712d-21f3-3b4b-aea1-531b69d766b5",
+    "Watchlist|5ee6712d-21f3-3b4b-aea1-531b69d766b5"
   ],
   "topic_error": "",
   "last_digest": "2026-10-16",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792188217.6281562
+  "last_check": 1792189126.4964833
 }
