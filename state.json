@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|ab3582fa-a2f7-331a-926c-d85f97e6ef10",
-    "Watchlist|ca6a865b-6c95-37eb-9555-6166f97757f9",
-    "Watchlist|ab3582fa-a2f7-331a-926c-d85f97e6ef10",
-    "SG Banks|https://www.channelnewsasia.com/business/ai-powered-stock-funds-bet-bots-can-pick-stocks-faster-and-better-humans-6460471",
     "AI|c331b760-d854-4f13-b6ac-44e3d0721bf5",
     "Watchlist|c331b760-d854-4f13-b6ac-44e3d0721bf5",
     "AI|fb30269b-b74d-3c2c-ad8a-155be1af2758",
@@ -5000,7 +4996,11 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/isq-global-fund-ii-gp-director-sells-1095m-kinetik-holdings-stock-93CH-4952977",
     "Watchlist|https://www.investing.com/news/stock-market-news/strive-prices-upsized-ipo-of-preferred-stock-at-90-per-share-432SI-4952961",
     "Watchlist|https://www.investing.com/news/stock-market-news/singapore-nonoil-exports-jump-biggerthanexpected-684-in-september-93CH-4952972",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/isq-global-fund-ii-gp-director-sells-1095m-kinetik-holdings-stock-93CH-4952977"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/isq-global-fund-ii-gp-director-sells-1095m-kinetik-holdings-stock-93CH-4952977",
+    "Crypto|88296a32-34bb-37fc-9f7f-134f09d38c9b",
+    "AI|e93a9974-2834-3d1d-96ca-8cbc7e11fdf8",
+    "Watchlist|e93a9974-2834-3d1d-96ca-8cbc7e11fdf8",
+    "SG Banks|https://www.straitstimes.com/business/fund-managers-quit-to-trade-their-own-money-in-taiwan-stock-boom"
   ],
   "topic_error": "",
   "last_digest": "2026-10-16",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792118558.6091962
+  "last_check": 1792119465.4797158
 }
