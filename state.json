@@ -1,21 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|ea5b7a3e-49f7-3703-8a3c-43d5e290da46",
-    "AI|b7569300-e095-3290-b206-f778aa5d3973",
-    "AI|27933f59-c872-35cd-aded-8de0eab15d99",
-    "AI|ea5b7a3e-49f7-3703-8a3c-43d5e290da46",
-    "Watchlist|b7569300-e095-3290-b206-f778aa5d3973",
-    "Watchlist|27933f59-c872-35cd-aded-8de0eab15d99",
-    "Cybersecurity|bb452154-00d8-388f-9fe1-b56656b4abce",
-    "AI|085dafd8-7e14-420e-b445-e30686556132",
-    "Crypto|085dafd8-7e14-420e-b445-e30686556132",
-    "SG Banks|https://www.channelnewsasia.com/business/red-hot-cpi-report-fuels-ai-rout-6460506",
-    "Watchlist|085dafd8-7e14-420e-b445-e30686556132",
-    "AI|785a86bc-3ed5-39b2-b0fb-11eb3f9830c2",
-    "Watchlist|785a86bc-3ed5-39b2-b0fb-11eb3f9830c2",
-    "AI|https://www.investing.com/news/insider-trading-news/verizon-evp-kyle-malady-sells-47223-in-common-stock-93CH-4949871",
-    "AI|https://www.investing.com/news/stock-market-news/globalfoundries-options-surge-on-21b-usjapan-chip-deal-93CH-4949872",
     "AI|https://www.investing.com/news/stock-market-news/why-is-wolfspeed-stock-sliding-today-93CH-4949875",
     "AI|https://www.investing.com/news/economy-news/red-hot-cpi-report-fuels-ai-rout-4949874",
     "AI|https://www.investing.com/news/stock-market-news/why-is-nvidia-stock-sliding-today-93CH-4949876",
@@ -5000,7 +4985,22 @@
     "Watchlist|https://www.investing.com/news/economy-news/japan-core-inflation-likely-exceeded-boj-target-for-first-time-since-december-4953015",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-shift-stock-surging-today-93CH-4953016",
     "SG Banks|/companies-markets/telcos-media-tech/cracks-grow-across-ai-trade-memory-chip-stocks-tumble",
-    "Watchlist|/companies-markets/telcos-media-tech/cracks-grow-across-ai-trade-memory-chip-stocks-tumble"
+    "Watchlist|/companies-markets/telcos-media-tech/cracks-grow-across-ai-trade-memory-chip-stocks-tumble",
+    "AI|f1c30607-dba3-330d-8f89-980147ef5e90",
+    "AI|2ca015f7-67c2-332d-9576-04f274622391",
+    "Watchlist|2ca015f7-67c2-332d-9576-04f274622391",
+    "Watchlist|fa677e8b-c111-3248-992f-109dc03d3292",
+    "War|https://www.investing.com/news/commodities-news/mideast-war-alters-global-bunker-buying-patterns-industry-execs-say-4953018",
+    "AI|https://www.investing.com/news/commodities-news/mideast-war-alters-global-bunker-buying-patterns-industry-execs-say-4953018",
+    "AI|https://www.investing.com/news/company-news/cotec-completes-20m-convertible-debenture-offering-93CH-4953028",
+    "Cybersecurity|https://www.investing.com/news/commodities-news/mideast-war-alters-global-bunker-buying-patterns-industry-execs-say-4953018",
+    "Cybersecurity|https://www.investing.com/news/company-news/cotec-completes-20m-convertible-debenture-offering-93CH-4953028",
+    "SG Banks|https://www.investing.com/news/commodities-news/mideast-war-alters-global-bunker-buying-patterns-industry-execs-say-4953018",
+    "SG Banks|https://www.investing.com/news/company-news/cotec-completes-20m-convertible-debenture-offering-93CH-4953028",
+    "Watchlist|https://www.investing.com/news/commodities-news/mideast-war-alters-global-bunker-buying-patterns-industry-execs-say-4953018",
+    "Watchlist|https://www.investing.com/news/company-news/cotec-completes-20m-convertible-debenture-offering-93CH-4953028",
+    "Cybersecurity|bb452154-00d8-388f-9fe1-b56656b4abce",
+    "War|d7587f54-b86d-3011-91cf-b78d392aec84"
   ],
   "topic_error": "",
   "last_digest": "2026-10-16",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792121297.085484
+  "last_check": 1792122204.98131
 }
