@@ -1,21 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|790c3758-5c95-36fc-81a1-c296de574de3",
-    "Watchlist|bc9fe400-07c1-3123-b569-0f6bc1776397",
-    "Watchlist|3aeab2ae-1e54-3c5a-8d6e-86fec42f7a86",
-    "War|29e91980-b386-3d6b-82f1-8d0532b5dc57",
-    "Cybersecurity|e4f85f1f-e6a7-33ca-b9b0-1fa12353cd9f",
-    "Cybersecurity|790c3758-5c95-36fc-81a1-c296de574de3",
-    "SG Banks|https://www.channelnewsasia.com/business/anthropics-q3-revenue-surges-45-nearly-17-billion-6460776",
-    "War|WP-MKTW-0005288033",
-    "AI|WP-MKTW-0005288033",
-    "Cybersecurity|WP-MKTW-0005288033",
-    "War|f8f40eb8-34d7-4eff-84ad-a769ac721048",
-    "SG Banks|/companies-markets/tesla-spacex-deal-news-possible-2026-barclays-analyst-says",
-    "Watchlist|/companies-markets/tesla-spacex-deal-news-possible-2026-barclays-analyst-says",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-comtech-q4-2026-loss-narrows-but-revenue-misses-93CH-4950201",
-    "AI|https://www.investing.com/news/insider-trading-news/meta-coo-javier-olivan-sells-115m-in-meta-shares-93CH-4950211",
     "AI|https://www.investing.com/news/stock-market-news/anthropics-q3-revenue-surges-45-to-nearly-17-billion-4950208",
     "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-comtech-q4-2026-loss-narrows-but-revenue-misses-93CH-4950201",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/meta-coo-javier-olivan-sells-115m-in-meta-shares-93CH-4950211",
@@ -5000,7 +4985,22 @@
     "AI|67c77240-35a4-3762-bc13-28a6f3bba61f",
     "AI|f9b6d8eb-8384-32c5-a5a1-d877e14fc37b",
     "Watchlist|67c77240-35a4-3762-bc13-28a6f3bba61f",
-    "Watchlist|f9b6d8eb-8384-32c5-a5a1-d877e14fc37b"
+    "Watchlist|f9b6d8eb-8384-32c5-a5a1-d877e14fc37b",
+    "Watchlist|dac5d4bb-6baa-319f-ada0-ed2f99d02e88",
+    "SG Banks|/companies-markets/singapores-high-sulphur-marine-fuel-market-seeing-supply-squeeze-argus",
+    "SG Banks|https://www.channelnewsasia.com/business/aws-microsoft-can-do-more-address-cloud-services-barriers-uk-competition-watchdog-says-6465506",
+    "Watchlist|/companies-markets/singapores-high-sulphur-marine-fuel-market-seeing-supply-squeeze-argus",
+    "War|9680d4d1-4e33-3e80-bca9-661d02e0abe5",
+    "AI|43d958d9-4a57-3947-b604-c4236f3808bf",
+    "AI|f70ab203-2be5-3ec3-a0cd-7ebc857d3fed",
+    "AI|7c3707c0-b872-37a7-826d-20fb4adfe760",
+    "Watchlist|43d958d9-4a57-3947-b604-c4236f3808bf",
+    "Watchlist|f70ab203-2be5-3ec3-a0cd-7ebc857d3fed",
+    "Watchlist|7c3707c0-b872-37a7-826d-20fb4adfe760",
+    "Cybersecurity|790c3758-5c95-36fc-81a1-c296de574de3",
+    "SG Banks|/companies-markets/tesla-spacex-deal-news-possible-2026-barclays-analyst-says",
+    "SG Banks|https://www.channelnewsasia.com/business/stablecoin-issuer-circle-push-40-new-markets-ceo-says-6465526",
+    "Watchlist|/companies-markets/tesla-spacex-deal-news-possible-2026-barclays-analyst-says"
   ],
   "topic_error": "",
   "last_digest": "2026-10-16",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792142377.4922547
+  "last_check": 1792143285.9169016
 }
