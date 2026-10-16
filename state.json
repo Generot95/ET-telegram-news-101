@@ -1,22 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/bloom-energy-options-signal-9-move-on-oct-22-earnings-93CH-4952191",
-    "AI|https://www.investing.com/news/company-news/sdcl-efficiency-income-trust-adds-two-directors-to-board-93CH-4952157",
-    "AI|https://www.investing.com/news/company-news/us-bancorp-q3-2026-slides-record-revenue-raised-guidance-93CH-4952169",
-    "AI|https://www.investing.com/news/company-news/avatrade-accelerates-global-growth-with-acquisition-of-forex-pioneer-fxcm-4952180",
-    "AI|https://www.investing.com/news/company-news/hdfc-life-h1-fy27-presentation-12-vnb-growth-strong-margins-93CH-4952184",
-    "AI|https://www.investing.com/news/company-news/atkore-stock-hits-52week-high-at-9494-usd-93CH-4952190",
-    "Cybersecurity|https://www.investing.com/news/company-news/gigacloud-technology-stock-hits-52week-high-at-5827-usd-93CH-4952193",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/arista-lam-research-among-market-cap-stock-movers-on-thursday-93CH-4952194",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-bank7-tops-q3-eps-forecast-as-merger-plans-advance-93CH-4952197",
-    "Cybersecurity|https://www.investing.com/news/company-news/unum-group-declares-0505-quarterly-dividend-per-share-93CH-4952196",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/johnson--johnson-outlook-bull-and-bear-cases-after-q3-earnings-93CH-4952198",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/da-davidson-cuts-kura-sushi-stock-price-target-on-traffic-volatility-93CH-4952201",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-workday-stock-rating-on-ai-growth-outlook-93CH-4952200",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-msa-safety-stock-buy-rating-ahead-of-results-93CH-4952199",
-    "Cybersecurity|https://www.investing.com/news/economy-news/us-jobless-claims-edge-up-to-199000-in-latest-week-93CH-4952202",
-    "Cybersecurity|https://www.investing.com/news/economy-news/china-state-buyers-purchase-up-to-13-us-soybean-cargoes-93CH-4952203",
     "Cybersecurity|https://www.investing.com/news/company-news/sdcl-efficiency-income-trust-adds-two-directors-to-board-93CH-4952157",
     "Cybersecurity|https://www.investing.com/news/company-news/us-bancorp-q3-2026-slides-record-revenue-raised-guidance-93CH-4952169",
     "Cybersecurity|https://www.investing.com/news/company-news/avatrade-accelerates-global-growth-with-acquisition-of-forex-pioneer-fxcm-4952180",
@@ -5000,7 +4984,23 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/maplight-therapeutics-kreitzer-sells-96024-in-common-stock-93CH-4954888",
     "Watchlist|https://www.investing.com/news/stock-market-news/la-restaurant-group-used-60000-dodgers-bet-to-hedge-playoff-risk-kalshi-says-4954890",
     "Watchlist|https://www.investing.com/news/company-news/eqb-appoints-vivian-abdelmessih-to-board-of-directors-93CH-4954891",
-    "Watchlist|https://www.investing.com/news/company-news/gabriel-resources-closes-initial-c329m-private-placement-93CH-4954894"
+    "Watchlist|https://www.investing.com/news/company-news/gabriel-resources-closes-initial-c329m-private-placement-93CH-4954894",
+    "SG Banks|/companies-markets/anthropic-works-bring-frontier-ai-models-soil-singapore-signs-government-pact",
+    "SG Banks|/companies-markets/singapore-airlines-flight-returns-san-francisco-after-unruly-passenger-incident",
+    "Watchlist|/companies-markets/anthropic-works-bring-frontier-ai-models-soil-singapore-signs-government-pact",
+    "Watchlist|/companies-markets/singapore-airlines-flight-returns-san-francisco-after-unruly-passenger-incident",
+    "Watchlist|5e2b35a9-e843-3c8c-8d0b-bdbeeb42c42c",
+    "Watchlist|7ff3d047-3db9-3d42-a1fe-d82d9f7fb9fe",
+    "Watchlist|4bb318f2-4454-3ac1-90a4-ce812b615d44",
+    "AI|7ff3d047-3db9-3d42-a1fe-d82d9f7fb9fe",
+    "AI|4bb318f2-4454-3ac1-90a4-ce812b615d44",
+    "AI|5e2b35a9-e843-3c8c-8d0b-bdbeeb42c42c",
+    "War|99e61dd6-664a-3ad5-8372-46d666c845a6",
+    "Crypto|99e61dd6-664a-3ad5-8372-46d666c845a6",
+    "Watchlist|63b890d9-5f30-3057-bbed-34cdca285ffd",
+    "War|WP-MKTW-0005292665",
+    "AI|WP-MKTW-0005292665",
+    "Cybersecurity|WP-MKTW-0005292665"
   ],
   "topic_error": "",
   "last_digest": "2026-10-16",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792187280.40893
+  "last_check": 1792188217.6281562
 }
