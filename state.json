@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/why-is-wolfspeed-stock-sliding-today-93CH-4949875",
-    "AI|https://www.investing.com/news/economy-news/red-hot-cpi-report-fuels-ai-rout-4949874",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-nvidia-stock-sliding-today-93CH-4949876",
-    "Crypto|3eb26bae-e2c2-3bbf-b002-1a95e24cd05c",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/verizon-evp-kyle-malady-sells-47223-in-common-stock-93CH-4949871",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/globalfoundries-options-surge-on-21b-usjapan-chip-deal-93CH-4949872",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-wolfspeed-stock-sliding-today-93CH-4949875",
     "Cybersecurity|https://www.investing.com/news/economy-news/red-hot-cpi-report-fuels-ai-rout-4949874",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-nvidia-stock-sliding-today-93CH-4949876",
     "SG Banks|https://www.investing.com/news/insider-trading-news/verizon-evp-kyle-malady-sells-47223-in-common-stock-93CH-4949871",
@@ -5000,7 +4993,14 @@
     "Watchlist|https://www.investing.com/news/commodities-news/mideast-war-alters-global-bunker-buying-patterns-industry-execs-say-4953018",
     "Watchlist|https://www.investing.com/news/company-news/cotec-completes-20m-convertible-debenture-offering-93CH-4953028",
     "Cybersecurity|bb452154-00d8-388f-9fe1-b56656b4abce",
-    "War|d7587f54-b86d-3011-91cf-b78d392aec84"
+    "War|d7587f54-b86d-3011-91cf-b78d392aec84",
+    "SG Banks|https://www.channelnewsasia.com/business/indonesia-stocks-msci-weigh-market-reclassification-6464081",
+    "SG Banks|https://www.straitstimes.com/business/msci-weighs-downgrading-indonesia-to-standalone-market-status",
+    "War|8f053736-3e68-3f52-aaa8-f6a3a6c3e3c3",
+    "AI|https://www.investing.com/news/stock-market-news/asia-stocks-rebound-as-chipmakers-recover-while-indonesia-rout-deepens-4953029",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/asia-stocks-rebound-as-chipmakers-recover-while-indonesia-rout-deepens-4953029",
+    "SG Banks|https://www.investing.com/news/stock-market-news/asia-stocks-rebound-as-chipmakers-recover-while-indonesia-rout-deepens-4953029",
+    "Watchlist|https://www.investing.com/news/stock-market-news/asia-stocks-rebound-as-chipmakers-recover-while-indonesia-rout-deepens-4953029"
   ],
   "topic_error": "",
   "last_digest": "2026-10-16",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792122204.98131
+  "last_check": 1792123136.4415035
 }
