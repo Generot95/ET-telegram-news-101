@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/economy-news/us-proposes-unfreezing-russian-assets-to-restart-ukraine-peace-talks-ft-4950270",
-    "AI|295272c6-18ad-35f0-a729-d8f4fa70a4d0",
-    "Watchlist|295272c6-18ad-35f0-a729-d8f4fa70a4d0",
-    "SG Banks|https://www.straitstimes.com/business/nvidia-ceo-says-he-would-cut-off-buyers-who-build-unsafe-ai",
-    "War|e3ae5514-1f21-3061-9b6d-dedfff32deeb",
-    "SG Banks|/companies-markets/nvidia-ceo-says-he-would-cut-buyers-who-build-unsafe-ai-bubble-fears-overdone",
-    "Watchlist|/companies-markets/nvidia-ceo-says-he-would-cut-buyers-who-build-unsafe-ai-bubble-fears-overdone",
-    "SG Banks|https://www.channelnewsasia.com/business/new-world-expects-issue-189-million-new-notes-after-early-debt-exchange-results-6460896",
     "War|fb2e49ec-7478-4498-9ca3-693ab95e18dd",
     "SG Banks|3040f550-1ed8-30ab-aa37-33f8e53a0440",
     "AI|https://www.investing.com/news/insider-trading-news/blackstone-holdings-iii-gp-management-sells-979m-of-bumble-stock-93CH-4950276",
@@ -5000,7 +4992,15 @@
     "War|https://www.investing.com/news/world-news/lula-defends-cutting-brazils-criminal-responsibility-age-to-16-for-heinous-crimes-4952946",
     "War|https://www.investing.com/news/world-news/3m-to-argue-australias-14-billion-forever-chemicals-lawsuit-legally-flawed-court-hears-4953005",
     "War|https://www.investing.com/news/world-news/israeli-settlers-burn-olive-trees-injure-journalist-in-west-bank-attack-4953461",
-    "War|fea20fbf-ce96-3565-988a-e4bc858feedd"
+    "War|fea20fbf-ce96-3565-988a-e4bc858feedd",
+    "SG Banks|https://www.channelnewsasia.com/business/coreweave-bond-rout-tests-markets-math-ai-buildout-6465646",
+    "SG Banks|https://www.channelnewsasia.com/business/ai-rally-wobbles-stock-markets-spotlight-turns-earnings-6465661",
+    "SG Banks|https://www.channelnewsasia.com/business/blue-origin-targets-multiple-new-glenn-launches-weekly-end-decade-6465656",
+    "Crypto|1fd811c0-5292-3406-93eb-452fb341c5ef",
+    "SG Banks|https://www.straitstimes.com/business/nvidia-ceo-says-he-would-cut-off-buyers-who-build-unsafe-ai",
+    "SG Banks|https://www.channelnewsasia.com/business/coreweave-shares-bonds-headed-steep-weekly-losses-ai-borrowing-concerns-mount-6465686",
+    "AI|c44c5b85-a51a-39d8-859f-3d207c597c33",
+    "Watchlist|c44c5b85-a51a-39d8-859f-3d207c597c33"
   ],
   "topic_error": "",
   "last_digest": "2026-10-16",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792145111.271646
+  "last_check": 1792146040.965363
 }
