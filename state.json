@@ -1,20 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/progressive-earnings-analysis-questions-answered-and-next-catalysts-93CH-4949817",
-    "AI|https://www.investing.com/news/stock-market-news/anduril-allows-staff-to-sell-shares-at-90-billion-valuation--report-4949821",
-    "AI|https://www.investing.com/news/company-news/utz-brands-announces-death-of-longtime-leader-michael-rice-93CH-4949822",
-    "Crypto|af554d68-08ea-328e-931a-1c91b39a5dfe",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/bank-of-america-earnings-analysis-questions-answered-and-next-catalysts-93CH-4949814",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/fastenal-earnings-analysis-questions-answered-and-next-catalysts-93CH-4949816",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/progressive-earnings-analysis-questions-answered-and-next-catalysts-93CH-4949817",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/anduril-allows-staff-to-sell-shares-at-90-billion-valuation--report-4949821",
-    "Cybersecurity|https://www.investing.com/news/company-news/utz-brands-announces-death-of-longtime-leader-michael-rice-93CH-4949822",
-    "SG Banks|https://www.investing.com/news/stock-market-news/bank-of-america-earnings-analysis-questions-answered-and-next-catalysts-93CH-4949814",
-    "SG Banks|https://www.investing.com/news/stock-market-news/fastenal-earnings-analysis-questions-answered-and-next-catalysts-93CH-4949816",
-    "SG Banks|https://www.investing.com/news/stock-market-news/progressive-earnings-analysis-questions-answered-and-next-catalysts-93CH-4949817",
-    "SG Banks|https://www.investing.com/news/stock-market-news/anduril-allows-staff-to-sell-shares-at-90-billion-valuation--report-4949821",
-    "SG Banks|https://www.investing.com/news/company-news/utz-brands-announces-death-of-longtime-leader-michael-rice-93CH-4949822",
     "Watchlist|d940f3be-29c4-3630-ac38-ae9b608496ad",
     "Watchlist|https://www.investing.com/news/stock-market-news/bank-of-america-earnings-analysis-questions-answered-and-next-catalysts-93CH-4949814",
     "Watchlist|https://www.investing.com/news/stock-market-news/fastenal-earnings-analysis-questions-answered-and-next-catalysts-93CH-4949816",
@@ -5000,7 +4986,21 @@
     "Watchlist|https://www.investing.com/news/earnings/loop-industries-earnings-missed-by-002-revenue-fell-short-of-estimates-4952881",
     "Watchlist|https://www.investing.com/news/stock-market-news/white-house-ordered-spacex-to-limit-ukraine-satellite-service-reuters-reports-93CH-4952891",
     "Watchlist|https://www.investing.com/news/insider-trading-news/terrestrial-energy-director-pardee-buys-22125-in-company-stock-93CH-4952892",
-    "SG Banks|https://www.straitstimes.com/business/chinas-plan-to-make-renminbi-a-global-currency-enters-faster-phase"
+    "SG Banks|https://www.straitstimes.com/business/chinas-plan-to-make-renminbi-a-global-currency-enters-faster-phase",
+    "SG Banks|/companies-markets/capital-markets-currencies/stocks-watch-sia-capitaland-india-trust-first-resources",
+    "Watchlist|/companies-markets/capital-markets-currencies/stocks-watch-sia-capitaland-india-trust-first-resources",
+    "AI|https://www.investing.com/news/insider-trading-news/tko-director-nick-khan-sells-168m-in-company-stock-93CH-4952902",
+    "AI|https://www.investing.com/news/insider-trading-news/talos-energy-10-owner-sells-518m-in-shares-93CH-4952903",
+    "AI|https://www.investing.com/news/insider-trading-news/crowdstrike-president-and-ceo-george-kurtz-sells-515m-in-stock-93CH-4952904",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/tko-director-nick-khan-sells-168m-in-company-stock-93CH-4952902",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/talos-energy-10-owner-sells-518m-in-shares-93CH-4952903",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/crowdstrike-president-and-ceo-george-kurtz-sells-515m-in-stock-93CH-4952904",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/tko-director-nick-khan-sells-168m-in-company-stock-93CH-4952902",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/talos-energy-10-owner-sells-518m-in-shares-93CH-4952903",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/crowdstrike-president-and-ceo-george-kurtz-sells-515m-in-stock-93CH-4952904",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/tko-director-nick-khan-sells-168m-in-company-stock-93CH-4952902",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/talos-energy-10-owner-sells-518m-in-shares-93CH-4952903",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/crowdstrike-president-and-ceo-george-kurtz-sells-515m-in-stock-93CH-4952904"
   ],
   "topic_error": "",
   "last_digest": "2026-10-16",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792110288.187379
+  "last_check": 1792111217.5584345
 }
