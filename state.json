@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/company-news/acv-auctions-stock-hits-52week-high-at-1051-93CH-4952470",
-    "AI|57fef264-2220-309b-a8bb-2d3e2b4a58ba",
     "Watchlist|57fef264-2220-309b-a8bb-2d3e2b4a58ba",
     "War|WP-MKTW-0005289567",
     "AI|WP-MKTW-0005289567",
@@ -5000,7 +4998,9 @@
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/ferguson-coo-thees-sells-127125-of-ferg-stock-93CH-4955433",
     "SG Banks|https://www.investing.com/news/insider-trading-news/ferguson-coo-thees-sells-127125-of-ferg-stock-93CH-4955433",
     "Watchlist|1c347f1a-b560-3d21-9140-ec4a7631467a",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/ferguson-coo-thees-sells-127125-of-ferg-stock-93CH-4955433"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/ferguson-coo-thees-sells-127125-of-ferg-stock-93CH-4955433",
+    "AI|7725ffbe-56f8-310d-a1c8-e1426dd71886",
+    "Watchlist|7725ffbe-56f8-310d-a1c8-e1426dd71886"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792244973.6535413
+  "last_check": 1792245879.0326178
 }
