@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-jio-financial-posts-strong-q2-2027-growth-as-stock-stays-flat-93CH-4952285",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/tether-global-investments-fund-buys-27m-in-goldcom-stock-93CH-4952286",
-    "Watchlist|https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-008-4952279",
     "Watchlist|https://www.investing.com/news/company-news/tomtom-q3-2026-slides-margins-rise-despite-revenue-decline-93CH-4952281",
     "Watchlist|https://www.investing.com/news/analyst-ratings/william-blair-cuts-clarivate-stock-rating-on-takeprivate-deal-93CH-4952282",
     "Watchlist|https://www.investing.com/news/company-news/xpeng-to-integrate-google-play-into-vehicles-in-early-2027-93CH-4952283",
@@ -5000,7 +4997,10 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/kingsway-president-and-ceo-john-fitzgerald-acquires-3477-of-common-stock-93CH-4955096",
     "SG Banks|https://www.investing.com/news/insider-trading-news/kingsway-cfo-kent-hansen-buys-1558-in-company-stock-93CH-4955097",
     "Watchlist|https://www.investing.com/news/insider-trading-news/kingsway-president-and-ceo-john-fitzgerald-acquires-3477-of-common-stock-93CH-4955096",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/kingsway-cfo-kent-hansen-buys-1558-in-company-stock-93CH-4955097"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/kingsway-cfo-kent-hansen-buys-1558-in-company-stock-93CH-4955097",
+    "Cybersecurity|275ffc14-941a-35e2-816b-8fc0fadab70b",
+    "SG Banks|/companies-markets/global-hedge-funds-hammered-ai-sell-week-asia-managers-lead-losses",
+    "Watchlist|/companies-markets/global-hedge-funds-hammered-ai-sell-week-asia-managers-lead-losses"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792201927.135998
+  "last_check": 1792202850.0889633
 }
