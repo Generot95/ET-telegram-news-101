@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/company-news/caspian-sunrise-completes-taucen-acquisition-for-07m-93CH-4952258",
-    "Watchlist|https://www.investing.com/news/company-news/pnc-q3-2026-presentation-strong-execution-drives-balanced-growth-93CH-4952265",
-    "Watchlist|https://www.investing.com/news/stock-market-news/equinix-outlook-upgraded-to-positive-at-fitch-on-capital-discipline-scale-4952266",
-    "Watchlist|https://www.investing.com/news/company-news/software-circle-share-premium-cancellation-creates-256m-reserves-93CH-4952268",
-    "Watchlist|https://www.investing.com/news/stock-market-news/eu-court-adviser-sides-witheu-regulators-against-tiktok-in-fight-over-tech-label-4950797",
-    "Watchlist|https://www.investing.com/news/stock-market-news/southwest-revamps-loyalty-program-with-new-premium-tiers-4952269",
-    "Watchlist|https://www.investing.com/news/commodities-news/analysishow-the-houthis-are-helping-iran-turn-saudi-arabia-into-a-pressure-point-4951973",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-tomtom-q3-2026-profit-gains-offset-revenue-decline-93CH-4952272",
-    "AI|e896b229-2ba6-368e-8768-ae8016124ce3",
-    "Watchlist|e896b229-2ba6-368e-8768-ae8016124ce3",
-    "SG Banks|/companies-markets/capital-markets-currencies/europes-stoxx-600-ends-higher-bank-stocks-cushion-oil-price-hit",
-    "Watchlist|/companies-markets/capital-markets-currencies/europes-stoxx-600-ends-higher-bank-stocks-cushion-oil-price-hit",
-    "SG Banks|https://www.channelnewsasia.com/business/coreweaves-slump-spotlights-growing-burden-debt-behind-ai-boom-6462286",
     "Watchlist|WP-MKTW-0003041256",
     "Watchlist|WP-MKTW-0003055784",
     "AI|11055c8b-5b99-3308-b828-2c8d982cdce4",
@@ -5000,7 +4987,20 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/beam-therapeutics-ceo-john-evans-sells-119m-in-company-stock-93CH-4955042",
     "SG Banks|/companies-markets/europe-shares-close-out-best-week-june-earnings-soften-blow-tech-sell",
     "Watchlist|/companies-markets/europe-shares-close-out-best-week-june-earnings-soften-blow-tech-sell",
-    "War|3c3b5204-892b-3d10-aee8-2540bfb70fa3"
+    "War|3c3b5204-892b-3d10-aee8-2540bfb70fa3",
+    "Watchlist|62c3833b-83a8-3a2c-a367-a0e039bdaa75",
+    "AI|https://www.investing.com/news/insider-trading-news/planet-labs-director-kristen-robinson-sells-565560-in-stock-93CH-4955052",
+    "AI|https://www.investing.com/news/insider-trading-news/star-equity-holdings-ceo-sells-27409-in-preferred-stock-93CH-4955053",
+    "AI|https://www.investing.com/news/stock-market-news/will-starlink-mobile-matter-for-apple-4955056",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/planet-labs-director-kristen-robinson-sells-565560-in-stock-93CH-4955052",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/star-equity-holdings-ceo-sells-27409-in-preferred-stock-93CH-4955053",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/will-starlink-mobile-matter-for-apple-4955056",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/planet-labs-director-kristen-robinson-sells-565560-in-stock-93CH-4955052",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/star-equity-holdings-ceo-sells-27409-in-preferred-stock-93CH-4955053",
+    "SG Banks|https://www.investing.com/news/stock-market-news/will-starlink-mobile-matter-for-apple-4955056",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/planet-labs-director-kristen-robinson-sells-565560-in-stock-93CH-4955052",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/star-equity-holdings-ceo-sells-27409-in-preferred-stock-93CH-4955053",
+    "Watchlist|https://www.investing.com/news/stock-market-news/will-starlink-mobile-matter-for-apple-4955056"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792197359.0329092
+  "last_check": 1792198272.182719
 }
