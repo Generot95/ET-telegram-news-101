@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|9dc3d217-2cd6-3a92-a2f4-984f6fadb85d",
-    "AI|bc6d65af-974f-3fc8-a3e3-1c69b29ecc5d",
-    "Watchlist|bc6d65af-974f-3fc8-a3e3-1c69b29ecc5d",
-    "SG Banks|/companies-markets/telcos-media-tech/ai-models-may-soon-self-replicate-without-access-data-centres-anthropic-warns",
-    "War|d600ccae-bc1c-37df-b62a-fec3940d781c",
-    "War|https://www.investing.com/news/commodities-news/us-plan-to-ease-shadow-fleet-sanctions-unlikely-to-free-up-many-tankers-analysts-say-4952464",
-    "AI|https://www.investing.com/news/stock-market-news/google-demonstrates-quantum-computing-breakthrough-cuts-errors-40fold-4952450",
-    "AI|https://www.investing.com/news/company-news/standard-uranium-gets-deadline-extension-for-3m-private-placement-93CH-4952455",
-    "AI|https://www.investing.com/news/company-news/pursuit-attractions-stock-hits-52week-high-at-5652-usd-93CH-4952457",
-    "AI|https://www.investing.com/news/company-news/medline-plans-800000-sq-ft-distribution-center-in-michigan-93CH-4952458",
     "AI|https://www.investing.com/news/stock-market-news/private-credit-faces-deployment-squeeze-as-fundraising-hits-record-4952463",
     "AI|https://www.investing.com/news/commodities-news/us-plan-to-ease-shadow-fleet-sanctions-unlikely-to-free-up-many-tankers-analysts-say-4952464",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/google-demonstrates-quantum-computing-breakthrough-cuts-errors-40fold-4952450",
@@ -5000,7 +4990,17 @@
     "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-hdfc-bank-q2-2026-margin-pressure-eases-as-growth-stays-firm-93CH-4955400",
     "SG Banks|https://www.investing.com/news/stock-market-news/chip-index-sox-posts-longest-losing-streak-since-2008-as-ai-worries-deepen-4955401",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-hdfc-bank-q2-2026-margin-pressure-eases-as-growth-stays-firm-93CH-4955400",
-    "Watchlist|https://www.investing.com/news/stock-market-news/chip-index-sox-posts-longest-losing-streak-since-2008-as-ai-worries-deepen-4955401"
+    "Watchlist|https://www.investing.com/news/stock-market-news/chip-index-sox-posts-longest-losing-streak-since-2008-as-ai-worries-deepen-4955401",
+    "Watchlist|feec59e6-25b4-3a40-b5bc-23f8724a71d0",
+    "AI|feec59e6-25b4-3a40-b5bc-23f8724a71d0",
+    "Watchlist|00708178-f0a6-3cb2-a23c-c5ba2081680e",
+    "AI|00708178-f0a6-3cb2-a23c-c5ba2081680e",
+    "War|WP-MKTW-0005290155",
+    "AI|de338992-5b8b-3f01-82a4-561a011a47c5",
+    "AI|WP-MKTW-0005290155",
+    "Cybersecurity|WP-MKTW-0005290155",
+    "SG Banks|https://www.straitstimes.com/singapore/jobs/sm-lee-calls-for-renewed-tripartite-ties-to-safeguard-port-jobs-amid-ai-trade-headwinds",
+    "Watchlist|de338992-5b8b-3f01-82a4-561a011a47c5"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792239473.8322747
+  "last_check": 1792240392.7909698
 }
