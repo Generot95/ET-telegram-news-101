@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|/companies-markets/banking-finance/us-stocks-wall-street-opens-lower-after-hot-cpi-data-fuels-rate-hike-bets",
-    "Iran|https://www.iranintl.com/en/202610142337",
-    "SG Banks|/companies-markets/telcos-media-tech/netflix-cuts-about-6-jobs-biggest-layoff-2022-wsj-reports",
-    "Watchlist|/companies-markets/telcos-media-tech/netflix-cuts-about-6-jobs-biggest-layoff-2022-wsj-reports",
-    "AI|https://www.investing.com/news/stock-market-news/nasdaq-100-breaks-cloud-support-at-30935-live-levels-93CH-4944778",
-    "War|ddf642a1-54c2-358f-9015-62cf9e2a217f",
-    "War|a022bd23-06e7-4ec7-8160-c72b2e7ed051",
-    "AI|4c8a2913-0cee-3eda-8084-6162a927e1ac",
-    "Crypto|190e3fd5-f072-39ba-821f-0ea028d1862a",
-    "AI|46e94253-1b48-338a-bdd5-8d5fa80bcd42",
-    "AI|3344103e-41be-3095-98e2-c479de4f4d09",
-    "AI|99e4148b-2e30-3da5-812c-6d410fe63118",
     "AI|4740321b-9fd6-3d97-b8b6-fbd6334c078a",
     "Watchlist|3344103e-41be-3095-98e2-c479de4f4d09",
     "Watchlist|99e4148b-2e30-3da5-812c-6d410fe63118",
@@ -5000,7 +4988,19 @@
     "SG Banks|/companies-markets/banking-finance/australia-central-bank-saw-upside-risks-inflation-lingering-after-september-rate-hike",
     "SG Banks|/companies-markets/banking-finance/us-stocks-wall-street-opens-lower-after-hot-cpi-data-fuels-rate-hike-bets",
     "AI|b53319f0-413b-3aed-966a-e70e6cf35652",
-    "Watchlist|b53319f0-413b-3aed-966a-e70e6cf35652"
+    "Watchlist|b53319f0-413b-3aed-966a-e70e6cf35652",
+    "War|WP-MKTW-0005284969",
+    "AI|WP-MKTW-0005284969",
+    "Cybersecurity|WP-MKTW-0005284969",
+    "Iran|https://www.iranintl.com/en/202610142337",
+    "SG Banks|/companies-markets/telcos-media-tech/netflix-cuts-about-6-jobs-biggest-layoff-2022-wsj-reports",
+    "Watchlist|/companies-markets/banking-finance/us-stocks-wall-street-opens-lower-after-hot-cpi-data-fuels-rate-hike-bets",
+    "AI|d9e0ab6b-750b-351b-977f-df292bcdd878",
+    "Cybersecurity|0e7c1d43-3bb9-332c-9de6-3345b806ed26",
+    "Watchlist|0e7c1d43-3bb9-332c-9de6-3345b806ed26",
+    "Watchlist|/companies-markets/telcos-media-tech/netflix-cuts-about-6-jobs-biggest-layoff-2022-wsj-reports",
+    "AI|89fd8bdc-9a6e-3159-97fd-797eab7ff556",
+    "Watchlist|89fd8bdc-9a6e-3159-97fd-797eab7ff556"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792263292.8405216
+  "last_check": 1792264195.9134662
 }
