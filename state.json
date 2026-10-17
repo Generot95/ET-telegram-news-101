@@ -1,7 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/france-stocks-higher-at-close-of-trade-cac-40-up-078-4952335",
     "AI|https://www.investing.com/news/stock-market-news/germany-stocks-mixed-at-close-of-trade-dax-up-027-4952336",
     "AI|https://www.investing.com/news/stock-market-news/italy-stocks-lower-at-close-of-trade-investingcom-italy-40-down-072-4952337",
     "AI|https://www.investing.com/news/stock-market-news/netherlands-stocks-lower-at-close-of-trade-aex-down-040-4952338",
@@ -5000,7 +4999,8 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/marqeta-cao-crystal-sells-23448-in-company-stock-93CH-4955134",
     "Watchlist|https://www.investing.com/news/economy-news/brazils-flavio-bolsonaro-pledges-fiscal-adjustment-rejects-cuts-to-social-spending-4955137",
     "Iran|https://www.iranintl.com/en/202610126090",
-    "Watchlist|cdc1b343-d3bb-35ba-a5f3-c41f29847822"
+    "Watchlist|cdc1b343-d3bb-35ba-a5f3-c41f29847822",
+    "War|32ebcab2-1f18-3efd-8918-290e9149d760"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792204669.305344
+  "last_check": 1792205583.0993216
 }
