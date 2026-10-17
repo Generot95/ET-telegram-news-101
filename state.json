@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/fortune-brands-to-sell-fiberon-decking-unit-to-inteplast-93CH-4952578",
-    "AI|https://www.investing.com/news/company-news/macrogenics-doses-first-patient-in-mgc030-cancer-trial-93CH-4952580",
-    "AI|https://www.investing.com/news/company-news/albertsons-adds-harmit-singh-to-board-of-directors-93CH-4952581",
-    "AI|https://www.investing.com/news/transcripts/evolve-royalties-at-precious-metals--critical-minerals-virtual-investor-conference-growth-plan-93CH-4952582",
-    "AI|https://www.investing.com/news/stock-market-news/college-football-playoff-nears-deal-to-expand-to-24team-format-by-2027--espn-4952522",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-kinross-gold-stock-rallying-today-93CH-4952533",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-waste-connections-stock-surging-today-93CH-4952537",
-    "AI|https://www.investing.com/news/company-news/opus-genetics-reports-early-trial-results-for-gene-therapies-93CH-4952557",
-    "AI|https://www.investing.com/news/company-news/mdxhealth-misses-q3-revenue-target-suspends-2026-guidance-93CH-4952559",
-    "AI|https://www.investing.com/news/company-news/alcoa-declares-010-quarterly-dividend-per-share-93CH-4952573",
-    "Cybersecurity|https://www.investing.com/news/company-news/genpact-board-declares-01875-quarterly-dividend-93CH-4952574",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/yemens-houthis-hit-palace-in-aden-coalition-details-attacks-on-saudi-infrastructure-4952575",
     "Cybersecurity|https://www.investing.com/news/company-news/fvcbankcorp-declares-007-quarterly-dividend-93CH-4952577",
     "Cybersecurity|https://www.investing.com/news/company-news/frazier-life-sciences-spac-raises-75m-in-nasdaq-ipo-93CH-4952576",
     "Cybersecurity|https://www.investing.com/news/company-news/nyxoah-presents-12month-data-for-sleep-apnea-device-study-93CH-4952579",
@@ -5000,7 +4988,19 @@
     "Watchlist|https://www.investing.com/news/economy-news/citi-says-interest-rates-may-matter-more-for-economy-than-stock-valuations-4955545",
     "War|f4e82b74-5332-3225-90d9-8bbc309bc257",
     "AI|4ad7c862-d5ec-3314-b75e-cea0ecf509a2",
-    "Watchlist|4ad7c862-d5ec-3314-b75e-cea0ecf509a2"
+    "Watchlist|4ad7c862-d5ec-3314-b75e-cea0ecf509a2",
+    "AI|dad06987-5f44-3487-910b-5060fa31346e",
+    "AI|2fbfe5a0-090a-3e5f-a0fa-4fa40e210b93",
+    "Watchlist|dad06987-5f44-3487-910b-5060fa31346e",
+    "Watchlist|2fbfe5a0-090a-3e5f-a0fa-4fa40e210b93",
+    "AI|https://www.investing.com/news/insider-trading-news/powell-industries-vp-mauney-sells-56488-in-stock-93CH-4955554",
+    "AI|https://www.investing.com/news/insider-trading-news/on-semiconductor-group-president-sudhir-gopalswamy-sells-125m-in-shares-93CH-4955555",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/powell-industries-vp-mauney-sells-56488-in-stock-93CH-4955554",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/on-semiconductor-group-president-sudhir-gopalswamy-sells-125m-in-shares-93CH-4955555",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/powell-industries-vp-mauney-sells-56488-in-stock-93CH-4955554",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/on-semiconductor-group-president-sudhir-gopalswamy-sells-125m-in-shares-93CH-4955555",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/powell-industries-vp-mauney-sells-56488-in-stock-93CH-4955554",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/on-semiconductor-group-president-sudhir-gopalswamy-sells-125m-in-shares-93CH-4955555"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792268763.1585684
+  "last_check": 1792269681.623601
 }
