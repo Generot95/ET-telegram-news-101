@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|21bae948-d204-3c45-9467-aa12ef141848",
-    "AI|c30ef34e-bec5-3db5-9e11-7e9f78ff74d1",
-    "Watchlist|c30ef34e-bec5-3db5-9e11-7e9f78ff74d1",
-    "Crypto|dee42d3c-5c9e-491a-935f-0932f2868f98",
-    "AI|4903e23f-7dfe-396c-a73d-8d1b059ee0f1",
-    "AI|db729c9d-2309-352b-bb36-96118f7d273f",
-    "Watchlist|4903e23f-7dfe-396c-a73d-8d1b059ee0f1",
-    "Watchlist|db729c9d-2309-352b-bb36-96118f7d273f",
-    "AI|f0373c70-0bd2-3eea-923a-1664399d7df2",
     "SG Banks|https://www.straitstimes.com/business/kfc-signs-coca-cola-on-as-new-beverage-partner-ditching-pepsico",
     "Watchlist|f0373c70-0bd2-3eea-923a-1664399d7df2",
     "SG Banks|/companies-markets/energy-commodities/oil-falls-russian-diesel-supply-prospects-counter-gulf-supply-risks",
@@ -5000,7 +4991,16 @@
     "Watchlist|57ccf265-8c2e-3e1c-8039-905267d33a05",
     "Watchlist|a77e9d51-e8c0-36c1-9517-786477712a44",
     "Watchlist|d30d40ac-af52-3fac-9622-662dbad1a32e",
-    "AI|e726fde3-ecf7-3517-96f9-a5e1164d8d4d"
+    "AI|e726fde3-ecf7-3517-96f9-a5e1164d8d4d",
+    "AI|6589cca9-8b39-3c26-8b93-86f9de864b59",
+    "Watchlist|6589cca9-8b39-3c26-8b93-86f9de864b59",
+    "AI|9a5f4f04-8e23-3539-9a29-3647950a1d7c",
+    "Watchlist|9a5f4f04-8e23-3539-9a29-3647950a1d7c",
+    "Iran|https://www.iranintl.com/en/202610176185",
+    "War|1d8a521d-691c-3f0b-91e5-f7414f14b53e",
+    "AI|6e33ba2e-49f2-33fd-b2e4-5457ba1f2076",
+    "Watchlist|6e33ba2e-49f2-33fd-b2e4-5457ba1f2076",
+    "AI|af53c5be-ad69-3ef7-b613-9b9bc1b6a72b"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792258709.2775764
+  "last_check": 1792259614.5566547
 }
