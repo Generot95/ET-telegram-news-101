@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/cocacola-declares-quarterly-dividend-of-53-cents-per-share-93CH-4952443",
-    "SG Banks|https://www.investing.com/news/stock-market-news/arista-networks-lam-research-among-market-cap-stock-movers-on-thursday-93CH-4952444",
-    "SG Banks|https://www.investing.com/news/company-news/rush-enterprises-stock-hits-alltime-high-at-5813-usd-93CH-4952445",
-    "SG Banks|https://www.investing.com/news/stock-market-news/italys-unicredit-wins-ecb-approval-to-control-germanys-commerzbank-4952446",
-    "SG Banks|https://www.investing.com/news/stock-market-news/openai-and-meta-warn-us-judicial-panel-about-deepfake-evidence-4952449",
-    "Watchlist|https://www.investing.com/news/press-releases/aienhanced-erp-adding-forecasting-and-anomaly-detection-to-core-business-systems-4952437",
     "Watchlist|https://www.investing.com/news/stock-market-news/rig-count-industrial-production-and-trade-prices-among-economic-data-due-friday-93CH-4952438",
     "Watchlist|https://www.investing.com/news/stock-market-news/eu-plans-to-fasttrack-antitrust-approval-of-spacex-rival-4952440",
     "Watchlist|https://www.investing.com/news/earnings/westamerica-bancorporation-earnings-beat-by-005-revenue-topped-estimates-4952442",
@@ -5000,7 +4994,13 @@
     "Watchlist|d9d1c9ea-7c16-3137-b4be-2b104d1edac0",
     "War|WP-MKTW-0005292632",
     "AI|WP-MKTW-0005292632",
-    "Cybersecurity|WP-MKTW-0005292632"
+    "Cybersecurity|WP-MKTW-0005292632",
+    "War|1a17b06b-d81d-3a82-804e-4d1600f30988",
+    "Crypto|1a17b06b-d81d-3a82-804e-4d1600f30988",
+    "AI|37fd3fc1-25f8-3a8b-9ea5-455a2006db3b",
+    "Watchlist|37fd3fc1-25f8-3a8b-9ea5-455a2006db3b",
+    "War|https://www.investing.com/news/world-news/analysistrumpzelenskiy-rift-threatens-vital-support-for-kyiv-4955375",
+    "War|https://www.investing.com/news/world-news/exotic-species-appear-off-california-thanks-to-an-unusually-strong-el-nino-4955374"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792236726.6899276
+  "last_check": 1792237636.4075723
 }
