@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.straitstimes.com/business/us-consumer-prices-accelerate-in-september-on-costlier-petrol-core-cpi-firmer",
-    "AI|6ae4d4a7-d440-4965-ac7f-571ab84b5df3",
-    "Crypto|4cd0b688-505d-340e-aefb-a77468fdd8b4",
-    "War|https://www.investing.com/news/world-news/analysishow-are-yemens-houthis-attacking-saudi-arabia-so-effectively-4952350",
-    "War|https://www.investing.com/news/world-news/peru-august-economic-activity-rises-323-as-construction-and-trade-drive-growth-4952381",
-    "War|https://www.investing.com/news/world-news/afghan-un-mission-reports-arbitrary-detentions-illtreatment-by-taliban-4952385",
-    "War|https://www.investing.com/news/world-news/hezbollah-says-it-owned-confiscated-explosives-meant-to-attack-israel-4952430",
-    "War|https://www.investing.com/news/world-news/trump-says-military-execution-ewill-not-be-livestreamed-4952154",
-    "War|https://www.investing.com/news/world-news/trump-says-he-wants-death-penalty-for-anyone-who-kills-a-firefighter-4952428",
     "War|https://www.investing.com/news/world-news/eu-leaders-to-discuss-black-sea-civilian-ship-attack-moratorium-93CH-4952465",
     "AI|48904671-4716-3160-90b4-bc946f0253f0",
     "AI|5f157bb6-7661-3a47-917c-118f88970fce",
@@ -5000,80 +4991,89 @@
     "SG Banks|/companies-markets/banking-finance/visa-approved-prepare-domestic-payments-business-china",
     "SG Banks|/companies-markets/banking-finance/greenback-jumps-stocks-bonds-dented-hot-us-inflation-data",
     "War|cf03a4d5-5fc8-488d-8964-895fefa46a3e",
-    "Watchlist|/companies-markets/banking-finance/greenback-jumps-stocks-bonds-dented-hot-us-inflation-data"
+    "Watchlist|/companies-markets/banking-finance/greenback-jumps-stocks-bonds-dented-hot-us-inflation-data",
+    "War|cb172614-bd67-3a57-b5ed-07ee3381f6ae",
+    "AI|cb172614-bd67-3a57-b5ed-07ee3381f6ae",
+    "Watchlist|cb172614-bd67-3a57-b5ed-07ee3381f6ae",
+    "AI|a914df13-5a84-3178-81de-9c5299841f01",
+    "Watchlist|a914df13-5a84-3178-81de-9c5299841f01",
+    "Watchlist|4ac1c030-30d2-366c-824e-0f54f8a9bd82",
+    "AI|4ac1c030-30d2-366c-824e-0f54f8a9bd82",
+    "AI|1e664b8e-716a-3948-8572-dab84579e48c",
+    "Watchlist|1e664b8e-716a-3948-8572-dab84579e48c"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
   "earnings": {
     "AMD": {
       "ts": 1793736000,
-      "fetched": 1792163268.9966476
+      "fetched": 1792249723.5944052
     },
     "NVDA": {
       "ts": 1794945600,
-      "fetched": 1792163268.9966476
+      "fetched": 1792249723.5944052
     },
     "CRWD": {
       "ts": 1796155200,
-      "fetched": 1792163268.9966476
+      "fetched": 1792249723.5944052
     },
     "MSFT": {
       "ts": 1793217600,
-      "fetched": 1792163268.9966476
+      "fetched": 1792249723.5944052
     },
     "INTU": {
       "ts": 1795118400,
-      "fetched": 1792163268.9966476
+      "fetched": 1792249723.5944052
     },
     "BRK-B": {
       "ts": 1794081600,
-      "fetched": 1792163268.9966476
+      "fetched": 1792249723.5944052
     },
     "AMZN": {
       "ts": 1793304000,
-      "fetched": 1792163268.9966476
+      "fetched": 1792249723.5944052
     },
     "GOOG": {
       "ts": 1793217600,
-      "fetched": 1792163268.9966476
+      "fetched": 1792249723.5944052
     },
     "ZTS": {
       "ts": 1793881800,
-      "fetched": 1792163268.9966476
+      "fetched": 1792249723.5944052
     },
     "LIN": {
       "ts": 1793277000,
-      "fetched": 1792163268.9966476
+      "fetched": 1792249723.5944052
     },
     "VLO": {
       "ts": 1792672200,
-      "fetched": 1792163268.9966476
+      "fetched": 1792249723.5944052
     },
     "D05.SI": {
       "ts": 1793869200,
-      "fetched": 1792163268.9966476
+      "fetched": 1792249723.5944052
     },
     "O39.SI": {
       "ts": 1793955600,
-      "fetched": 1792163268.9966476
+      "fetched": 1792249723.5944052
     },
     "U11.SI": {
       "ts": 1793782800,
-      "fetched": 1792163268.9966476
+      "fetched": 1792249723.5944052
     },
     "A17U.SI": {
       "ts": 1785920400,
-      "fetched": 1792163268.9966476
+      "fetched": 1792249723.5944052
     },
     "HMN.SI": {
       "ts": 1785229200,
-      "fetched": 1792163268.9966476
+      "fetched": 1792249723.5944052
     },
     "JYEU.SI": {
       "ts": null,
-      "fetched": 1792163268.9966476
+      "fetched": 1792249723.5944052
     }
   },
   "earnings_notified": [],
-  "last_check": 1792249533.9043133
+  "last_check": 1792250460.0758307
 }
