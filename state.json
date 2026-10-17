@@ -1,23 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|e212822e-65a6-3de1-a6c1-5a1e1723e7a4",
-    "AI|130d6f45-3770-3dfd-bed7-a889f0b0735b",
-    "AI|a3b73a51-eb58-3d3d-ab82-f6f541db72d4",
-    "AI|d337682d-bd8b-3b9c-9501-b2128a355448",
-    "Watchlist|d337682d-bd8b-3b9c-9501-b2128a355448",
-    "Watchlist|130d6f45-3770-3dfd-bed7-a889f0b0735b",
-    "War|7c8a640e-498b-38d7-b35e-2fe8df245c5f",
-    "Iran|https://www.iranintl.com/en/202610126090",
-    "SG Banks|/companies-markets/applied-materials-will-double-sales-not-headcount-thanks-ai",
-    "Crypto|2d101b04-5ff7-3b81-901a-24393246bd4b",
-    "Watchlist|/companies-markets/applied-materials-will-double-sales-not-headcount-thanks-ai",
-    "AI|https://www.investing.com/news/economic-indicators/iea-to-speed-up-oil-stocks-release-including-over-20-million-barrels-of-diesel-4952328",
-    "AI|https://www.investing.com/news/earnings/brunello-cucinelli-raises-2026-growth-guidance-after-q3-revenue-beat-4952330",
-    "AI|https://www.investing.com/news/stock-market-news/nasdaq-reports-network-disruption-us-equities-data-feeds-impacted-4952331",
-    "AI|https://www.investing.com/news/economic-indicators/crude-oil-inventories-show-significant-decline-surpassing-expectations-93CH-4952332",
-    "AI|https://www.investing.com/news/stock-market-news/sp-revises-prudentials-outlook-to-negative-on-japan-headwinds-4952333",
-    "AI|https://www.investing.com/news/stock-market-news/belgium-stocks-higher-at-close-of-trade-bel-20-up-081-4952334",
     "AI|https://www.investing.com/news/stock-market-news/france-stocks-higher-at-close-of-trade-cac-40-up-078-4952335",
     "AI|https://www.investing.com/news/stock-market-news/germany-stocks-mixed-at-close-of-trade-dax-up-027-4952336",
     "AI|https://www.investing.com/news/stock-market-news/italy-stocks-lower-at-close-of-trade-investingcom-italy-40-down-072-4952337",
@@ -5000,7 +4983,24 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/grabagun-digital-coo-matthew-vittitow-sells-3805-in-shares-93CH-4955108",
     "Watchlist|https://www.investing.com/news/insider-trading-news/grabagun-ceo-nemati-sells-7600-in-shares-for-tax-obligations-93CH-4955109",
     "Watchlist|https://www.investing.com/news/company-news/anthropic-offers-blackstone-over-10-yield-in-60b-ai-chip-financing--ft-reports-4955122",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/natera-executive-chairman-matthew-rabinowitz-sells-201m-in-stock-93CH-4955123"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/natera-executive-chairman-matthew-rabinowitz-sells-201m-in-stock-93CH-4955123",
+    "War|19f1dc59-0228-3ea4-8695-7fd31afbb543",
+    "Crypto|b762a6eb-58b6-3eee-9591-f91f93e9dc4b",
+    "War|709b264b-7a82-3e8f-ad65-800e619c567e",
+    "AI|9a7b59a2-d680-3a39-8b8e-a76275513982",
+    "Watchlist|9a7b59a2-d680-3a39-8b8e-a76275513982",
+    "AI|https://www.investing.com/news/insider-trading-news/marqeta-cao-crystal-sells-23448-in-company-stock-93CH-4955134",
+    "AI|https://www.investing.com/news/economy-news/brazils-flavio-bolsonaro-pledges-fiscal-adjustment-rejects-cuts-to-social-spending-4955137",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/marqeta-cao-crystal-sells-23448-in-company-stock-93CH-4955134",
+    "Cybersecurity|https://www.investing.com/news/economy-news/brazils-flavio-bolsonaro-pledges-fiscal-adjustment-rejects-cuts-to-social-spending-4955137",
+    "SG Banks|/companies-markets/eu-carmakers-hail-deal-emissions-opens-door-uk",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/marqeta-cao-crystal-sells-23448-in-company-stock-93CH-4955134",
+    "SG Banks|https://www.investing.com/news/economy-news/brazils-flavio-bolsonaro-pledges-fiscal-adjustment-rejects-cuts-to-social-spending-4955137",
+    "Watchlist|/companies-markets/eu-carmakers-hail-deal-emissions-opens-door-uk",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/marqeta-cao-crystal-sells-23448-in-company-stock-93CH-4955134",
+    "Watchlist|https://www.investing.com/news/economy-news/brazils-flavio-bolsonaro-pledges-fiscal-adjustment-rejects-cuts-to-social-spending-4955137",
+    "Iran|https://www.iranintl.com/en/202610126090",
+    "Watchlist|cdc1b343-d3bb-35ba-a5f3-c41f29847822"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792203764.0622907
+  "last_check": 1792204669.305344
 }
