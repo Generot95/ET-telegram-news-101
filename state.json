@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.straitstimes.com/business/kfc-signs-coca-cola-on-as-new-beverage-partner-ditching-pepsico",
-    "Watchlist|f0373c70-0bd2-3eea-923a-1664399d7df2",
-    "SG Banks|/companies-markets/energy-commodities/oil-falls-russian-diesel-supply-prospects-counter-gulf-supply-risks",
-    "AI|https://www.investing.com/news/transcripts/actelis-networks-at-the-thinkequity-conference-recovery-and-federal-push-93CH-4952510",
-    "AI|https://www.investing.com/news/company-news/kfc-us-switches-beverage-partnership-to-cocacola-93CH-4952511",
-    "AI|https://www.investing.com/news/stock-market-news/kfc-nears-deal-to-switch-us-beverage-provider-to-cocacola-from-pepsi--wsj-4952512",
-    "AI|https://www.investing.com/news/stock-market-news/kfc-to-sign-cocacola-on-as-beverage-partner-ditching-pepsico-wsj-reports-4952509",
-    "AI|https://www.investing.com/news/insider-trading-news/saba-capital-buys-658k-in-ellsworth-growth--income-fund-shares-93CH-4952517",
-    "AI|https://www.investing.com/news/company-news/sweetgreen-stock-hits-52week-high-at-1064-usd-93CH-4952518",
-    "AI|https://www.investing.com/news/economy-news/brazil-candidates-focus-fiscal-plans-on-voterfriendly-measures-before-runoff-4952519",
-    "Cybersecurity|https://www.investing.com/news/transcripts/actelis-networks-at-the-thinkequity-conference-recovery-and-federal-push-93CH-4952510",
-    "Cybersecurity|https://www.investing.com/news/company-news/kfc-us-switches-beverage-partnership-to-cocacola-93CH-4952511",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/kfc-nears-deal-to-switch-us-beverage-provider-to-cocacola-from-pepsi--wsj-4952512",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/kfc-to-sign-cocacola-on-as-beverage-partner-ditching-pepsico-wsj-reports-4952509",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/saba-capital-buys-658k-in-ellsworth-growth--income-fund-shares-93CH-4952517",
     "Cybersecurity|https://www.investing.com/news/company-news/sweetgreen-stock-hits-52week-high-at-1064-usd-93CH-4952518",
@@ -5000,7 +4987,20 @@
     "War|1d8a521d-691c-3f0b-91e5-f7414f14b53e",
     "AI|6e33ba2e-49f2-33fd-b2e4-5457ba1f2076",
     "Watchlist|6e33ba2e-49f2-33fd-b2e4-5457ba1f2076",
-    "AI|af53c5be-ad69-3ef7-b613-9b9bc1b6a72b"
+    "AI|af53c5be-ad69-3ef7-b613-9b9bc1b6a72b",
+    "AI|https://www.investing.com/news/insider-trading-news/pedevco-director-simon-kukes-buys-191m-in-company-stock-93CH-4955519",
+    "AI|https://www.investing.com/news/stock-market-news/mercedes-unveils-electric-suv-as-it-expands-premium-ev-lineup-4955521",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/pedevco-director-simon-kukes-buys-191m-in-company-stock-93CH-4955519",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/mercedes-unveils-electric-suv-as-it-expands-premium-ev-lineup-4955521",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/pedevco-director-simon-kukes-buys-191m-in-company-stock-93CH-4955519",
+    "SG Banks|https://www.investing.com/news/stock-market-news/mercedes-unveils-electric-suv-as-it-expands-premium-ev-lineup-4955521",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/pedevco-director-simon-kukes-buys-191m-in-company-stock-93CH-4955519",
+    "Watchlist|https://www.investing.com/news/stock-market-news/mercedes-unveils-electric-suv-as-it-expands-premium-ev-lineup-4955521",
+    "SG Banks|https://www.straitstimes.com/business/kfc-signs-coca-cola-on-as-new-beverage-partner-ditching-pepsico",
+    "Watchlist|7d909744-89ff-35aa-9fd4-d2f226ab9676",
+    "AI|ac10e5be-73bf-39ba-9fbc-1ec34409f07e",
+    "Crypto|ac10e5be-73bf-39ba-9fbc-1ec34409f07e",
+    "Watchlist|ac10e5be-73bf-39ba-9fbc-1ec34409f07e"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792259614.5566547
+  "last_check": 1792260542.785501
 }
