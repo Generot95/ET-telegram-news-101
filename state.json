@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|25b3cac7-c5e5-3fb8-99ce-98c05daab93b",
-    "Watchlist|99bb151d-436f-3a86-9b96-25ad36b1eb66",
-    "Watchlist|45b16156-7b0b-38e7-b3a7-f9c74b6dad28",
     "Watchlist|99e96c41-65a8-33bd-ab29-8ce372b5a56e",
     "Cybersecurity|WP-MKTW-0005284576",
     "Watchlist|161d32d3-cc84-31af-9649-3d818fd4dea9",
@@ -5000,7 +4997,10 @@
     "Cybersecurity|WP-MKTW-0005289890",
     "Cybersecurity|WP-MKTW-0005285328",
     "SG Banks|https://www.investing.com/news/company-news/icici-bank-q22027-slides-23-profit-growth-amid-margin-pressure-93CH-4955420",
-    "Watchlist|https://www.investing.com/news/company-news/icici-bank-q22027-slides-23-profit-growth-amid-margin-pressure-93CH-4955420"
+    "Watchlist|https://www.investing.com/news/company-news/icici-bank-q22027-slides-23-profit-growth-amid-margin-pressure-93CH-4955420",
+    "Crypto|30c85cf3-d067-33c1-a199-693422916487",
+    "AI|9f1255e4-504e-3eec-99ee-2c870396947e",
+    "Watchlist|9f1255e4-504e-3eec-99ee-2c870396947e"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792242233.0480466
+  "last_check": 1792243144.9714646
 }
