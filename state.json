@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/ubs-exploring-options-abroad-in-case-swiss-rules-prove-intolerable-sources-say-4952392",
-    "Watchlist|https://www.investing.com/news/company-news/prologis-q3-2026-slides-strong-rent-growth-amid-market-caution-93CH-4952393",
     "Watchlist|https://www.investing.com/news/stock-market-news/cnn-and-google-announce-multiyear-partnership-deal-93CH-4952396",
     "Watchlist|https://www.investing.com/news/stock-market-news/cnn-signs-multiyear-ai-partnership-with-google-4952397",
     "Watchlist|https://www.investing.com/news/analyst-ratings/truist-reiterates-buy-on-digitalocean-stock-cites-ai-ease-of-use-93CH-4952398",
@@ -5000,7 +4998,9 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/hippo-holdings-ceo-spinnaker-torben-ostergaard-sells-40955-in-shares-93CH-4955303",
     "Watchlist|https://www.investing.com/news/company-news/dlf-q2fy27-slides-strong-cash-flow-masks-revenue-recognition-lag-93CH-4955305",
     "Watchlist|https://www.investing.com/news/insider-trading-news/marvell-ceo-matthew-murphy-reports-177-million-marvell-stock-sale-93CH-4955311",
-    "Watchlist|https://www.investing.com/news/economy-news/china-ai-supplychain-ipos-hold-firm-despite-valuation-pullback-citi-says-4955300"
+    "Watchlist|https://www.investing.com/news/economy-news/china-ai-supplychain-ipos-hold-firm-despite-valuation-pullback-citi-says-4955300",
+    "Watchlist|a3d16e7d-1c7d-35d9-b9f4-0c125b0af6f6",
+    "AI|a3d16e7d-1c7d-35d9-b9f4-0c125b0af6f6"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792223900.8530996
+  "last_check": 1792224815.1829572
 }
