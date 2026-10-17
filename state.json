@@ -1,17 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/top-biotech-stock-guggenheim-names-surrozen-as-best-pick-4952431",
-    "Watchlist|https://www.investing.com/news/stock-market-news/target-says-it-does-not-use-customer-data-to-raise-prices-4952432",
-    "SG Banks|/companies-markets/banking-finance/cgsi-upgrades-dbs-add-raises-target-price-s79-50",
-    "Watchlist|/companies-markets/banking-finance/cgsi-upgrades-dbs-add-raises-target-price-s79-50",
-    "Crypto|71ce74bd-76ef-322e-9b66-d9db40dd75bc",
-    "AI|43d8f723-1e37-4e57-b503-7830b40ebfa9",
-    "AI|bf35377a-e0b9-3679-bb9d-43cd56d396dd",
-    "AI|11af99ec-6339-3ca6-8c0e-1267ed45606f",
-    "Watchlist|11af99ec-6339-3ca6-8c0e-1267ed45606f",
-    "AI|7c16b9f9-d3eb-3f57-9134-c2ddb5ab892a",
-    "Watchlist|8d7bcd33-da25-3012-a514-25becfb3e47d",
     "Watchlist|7c16b9f9-d3eb-3f57-9134-c2ddb5ab892a",
     "AI|ee779e50-ec92-33a9-affd-c039a207c14c",
     "AI|8d7bcd33-da25-3012-a514-25becfb3e47d",
@@ -5000,7 +4989,18 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/nwpx-infrastructure-director-roman-sells-387k-in-stock-93CH-4955371",
     "Watchlist|https://www.investing.com/news/economy-news/german-minister-seeks-debt-brake-exemption-to-maintain-ukraine-aid-4955372",
     "AI|966e9e57-28fe-3cee-aa9c-56a2a6a12fc2",
-    "Watchlist|966e9e57-28fe-3cee-aa9c-56a2a6a12fc2"
+    "Watchlist|966e9e57-28fe-3cee-aa9c-56a2a6a12fc2",
+    "War|a35971cd-b5ba-3443-9724-51f259218dc1",
+    "AI|a35971cd-b5ba-3443-9724-51f259218dc1",
+    "AI|6fe7fb1c-8751-3dc9-af23-8ca0194f282b",
+    "Watchlist|a35971cd-b5ba-3443-9724-51f259218dc1",
+    "SG Banks|/companies-markets/banking-finance/cgsi-upgrades-dbs-add-raises-target-price-s79-50",
+    "Watchlist|6fe7fb1c-8751-3dc9-af23-8ca0194f282b",
+    "Crypto|4f6c2e42-3883-3c0c-8005-6cba0bc0ae3b",
+    "AI|23b62c8e-3bc7-332c-9c50-52f4f30a5102",
+    "AI|eb363a31-1abe-339c-b001-83e77acac15e",
+    "Watchlist|eb363a31-1abe-339c-b001-83e77acac15e",
+    "Watchlist|23b62c8e-3bc7-332c-9c50-52f4f30a5102"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792233071.552546
+  "last_check": 1792233967.60234
 }
