@@ -1,22 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|d737714b-9205-3616-b85c-2762b3f20d04",
-    "Watchlist|bd6a8760-3cc5-3d94-be25-b357d39cf932",
-    "AI|da344490-8e7d-3d9b-a4aa-79065aa630f5",
-    "Watchlist|da344490-8e7d-3d9b-a4aa-79065aa630f5",
-    "AI|3cc13758-adae-3a95-87f9-ae0fd7f64f23",
-    "Watchlist|3cc13758-adae-3a95-87f9-ae0fd7f64f23",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-taketwo-interactive-stock-rallying-4-today-93CH-4952408",
-    "AI|https://www.investing.com/news/analyst-ratings/bmo-reiterates-gogold-resources-stock-rating-on-strong-production-93CH-4952410",
-    "AI|https://www.investing.com/news/stock-market-news/anthropic-grants-employee-access-to-metr-for-ai-safety-review-93CH-4952411",
-    "AI|https://www.investing.com/news/stock-market-news/perplexity-to-open-source-tool-used-to-contain-ai-agents-4952412",
-    "AI|https://www.investing.com/news/company-news/nuburu-completes-tekne-acquisition-adding-a-93-million-defense--dualuse-program-portfolio-and-advancing-expansion-across-nato-and-allied-markets-4952416",
-    "AI|https://www.investing.com/news/press-releases/sectora-foundation-announces-final-testing-of-four-products-and-sect-token-availability-on-uniswap-4952417",
-    "AI|https://www.investing.com/news/analyst-ratings/jefferies-raises-dt-midstream-stock-price-target-on-project-outlook-93CH-4952418",
-    "AI|https://www.investing.com/news/stock-market-news/volvo-cars-expands-nvidia-partnership-for-selfdriving-tech-93CH-4952419",
-    "Crypto|ccbaa2a6-9104-3b17-90b4-bc98b638e2ca",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-taketwo-interactive-stock-rallying-4-today-93CH-4952408",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/bmo-reiterates-gogold-resources-stock-rating-on-strong-production-93CH-4952410",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/anthropic-grants-employee-access-to-metr-for-ai-safety-review-93CH-4952411",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/perplexity-to-open-source-tool-used-to-contain-ai-agents-4952412",
@@ -5000,7 +4984,23 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/moderna-president-stephen-hoge-sells-17m-in-stock-93CH-4955328",
     "Watchlist|https://www.investing.com/news/forex-news/whats-the-likelihood-of-yen-carry-trade-reversing-4955329",
     "Iran|https://www.iranintl.com/en/202610139592",
-    "SG Banks|https://www.straitstimes.com/business/gold-rebounds-on-weaker-dollar-yield-drop"
+    "SG Banks|https://www.straitstimes.com/business/gold-rebounds-on-weaker-dollar-yield-drop",
+    "War|42e5738d-c45a-3f6e-9f26-560b10ab89e0",
+    "War|bbd4ed1d-14d7-37ee-825e-0b2329c2a467",
+    "AI|95a4048d-5478-335c-8540-6a10be1c4c2e",
+    "Watchlist|95a4048d-5478-335c-8540-6a10be1c4c2e",
+    "AI|d7132fe8-f650-368b-9790-d6a50ebfb74c",
+    "Watchlist|d7132fe8-f650-368b-9790-d6a50ebfb74c",
+    "AI|https://www.investing.com/news/insider-trading-news/beta-bionics-cco-mark-hopman-sells-13446-in-shares-93CH-4955337",
+    "AI|https://www.investing.com/news/stock-market-news/explainercould-hackers-get-inside-my-fridge-4955339",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/beta-bionics-cco-mark-hopman-sells-13446-in-shares-93CH-4955337",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/explainercould-hackers-get-inside-my-fridge-4955339",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/beta-bionics-cco-mark-hopman-sells-13446-in-shares-93CH-4955337",
+    "SG Banks|https://www.investing.com/news/stock-market-news/explainercould-hackers-get-inside-my-fridge-4955339",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/beta-bionics-cco-mark-hopman-sells-13446-in-shares-93CH-4955337",
+    "Watchlist|https://www.investing.com/news/stock-market-news/explainercould-hackers-get-inside-my-fridge-4955339",
+    "AI|32723169-c204-38a9-9434-21bbe136c29a",
+    "Watchlist|32723169-c204-38a9-9434-21bbe136c29a"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792225730.092888
+  "last_check": 1792226659.7174513
 }
