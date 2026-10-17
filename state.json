@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|cd7a21fa-7c0f-3aa1-bbaa-7d453c547d78",
-    "AI|https://www.investing.com/news/economy-news/china-central-bank-chief-urges-broader-view-on-global-imbalances-93CH-4952494",
-    "AI|https://www.investing.com/news/company-news/home-bancshares-q3-2026-slides-record-profit-efficiency-gains-93CH-4952495",
     "AI|https://www.investing.com/news/stock-market-news/catalio-capital-seeks-500-million-for-ai-healthcare-startups--bloomberg-93CH-4952496",
     "AI|https://www.investing.com/news/forex-news/argentina-halts-local-dollar-bond-sales-as-yields-surge-93CH-4952498",
     "AI|https://www.investing.com/news/stock-market-news/explainerwhy-coreweaves-troubles-are-rattling-the-ai-boom-4952500",
@@ -5000,7 +4997,10 @@
     "Watchlist|6507740a-c465-3268-a6d9-938d5162f981",
     "Watchlist|https://www.investing.com/news/insider-trading-news/gic-private-ltd-sells-2748-million-in-medline-mdln-shares-93CH-4955458",
     "AI|06354a21-62cb-341e-b888-1ce98753a8a3",
-    "Watchlist|06354a21-62cb-341e-b888-1ce98753a8a3"
+    "Watchlist|06354a21-62cb-341e-b888-1ce98753a8a3",
+    "AI|7b58d951-8d7e-3d5c-9386-fc9eb435fb79",
+    "Watchlist|7b58d951-8d7e-3d5c-9386-fc9eb435fb79",
+    "Crypto|abe5c5db-b065-366e-a93e-43f93634e3d7"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792251363.6718812
+  "last_check": 1792252291.8002253
 }
