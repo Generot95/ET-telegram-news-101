@@ -1,21 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/private-credit-faces-deployment-squeeze-as-fundraising-hits-record-4952463",
-    "AI|https://www.investing.com/news/commodities-news/us-plan-to-ease-shadow-fleet-sanctions-unlikely-to-free-up-many-tankers-analysts-say-4952464",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/google-demonstrates-quantum-computing-breakthrough-cuts-errors-40fold-4952450",
-    "Cybersecurity|https://www.investing.com/news/company-news/standard-uranium-gets-deadline-extension-for-3m-private-placement-93CH-4952455",
-    "Cybersecurity|https://www.investing.com/news/company-news/pursuit-attractions-stock-hits-52week-high-at-5652-usd-93CH-4952457",
-    "Cybersecurity|https://www.investing.com/news/company-news/medline-plans-800000-sq-ft-distribution-center-in-michigan-93CH-4952458",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/private-credit-faces-deployment-squeeze-as-fundraising-hits-record-4952463",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/us-plan-to-ease-shadow-fleet-sanctions-unlikely-to-free-up-many-tankers-analysts-say-4952464",
-    "SG Banks|https://www.investing.com/news/stock-market-news/google-demonstrates-quantum-computing-breakthrough-cuts-errors-40fold-4952450",
-    "SG Banks|https://www.investing.com/news/company-news/standard-uranium-gets-deadline-extension-for-3m-private-placement-93CH-4952455",
-    "SG Banks|https://www.investing.com/news/company-news/pursuit-attractions-stock-hits-52week-high-at-5652-usd-93CH-4952457",
-    "SG Banks|https://www.investing.com/news/company-news/medline-plans-800000-sq-ft-distribution-center-in-michigan-93CH-4952458",
-    "SG Banks|https://www.investing.com/news/stock-market-news/private-credit-faces-deployment-squeeze-as-fundraising-hits-record-4952463",
-    "SG Banks|https://www.investing.com/news/commodities-news/us-plan-to-ease-shadow-fleet-sanctions-unlikely-to-free-up-many-tankers-analysts-say-4952464",
-    "Watchlist|d600ccae-bc1c-37df-b62a-fec3940d781c",
     "Watchlist|/companies-markets/telcos-media-tech/ai-models-may-soon-self-replicate-without-access-data-centres-anthropic-warns",
     "Watchlist|https://www.investing.com/news/stock-market-news/google-demonstrates-quantum-computing-breakthrough-cuts-errors-40fold-4952450",
     "Watchlist|https://www.investing.com/news/company-news/standard-uranium-gets-deadline-extension-for-3m-private-placement-93CH-4952455",
@@ -5000,7 +4985,22 @@
     "AI|WP-MKTW-0005290155",
     "Cybersecurity|WP-MKTW-0005290155",
     "SG Banks|https://www.straitstimes.com/singapore/jobs/sm-lee-calls-for-renewed-tripartite-ties-to-safeguard-port-jobs-amid-ai-trade-headwinds",
-    "Watchlist|de338992-5b8b-3f01-82a4-561a011a47c5"
+    "Watchlist|de338992-5b8b-3f01-82a4-561a011a47c5",
+    "Iran|https://www.iranintl.com/en/202610176508",
+    "AI|2a746732-a8b6-3b0f-a183-3889b755de07",
+    "AI|853f592e-33d3-33e4-9532-2a16777b0190",
+    "Watchlist|2a746732-a8b6-3b0f-a183-3889b755de07",
+    "Watchlist|853f592e-33d3-33e4-9532-2a16777b0190",
+    "AI|https://www.investing.com/news/company-news/hdfc-bank-q2-fy27-slides-deposits-surge-19-margins-stabilize-93CH-4955409",
+    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-icici-bank-posts-strong-q2-2026-profit-growth-shares-flat-93CH-4955418",
+    "Cybersecurity|https://www.investing.com/news/company-news/hdfc-bank-q2-fy27-slides-deposits-surge-19-margins-stabilize-93CH-4955409",
+    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-icici-bank-posts-strong-q2-2026-profit-growth-shares-flat-93CH-4955418",
+    "SG Banks|https://www.investing.com/news/company-news/hdfc-bank-q2-fy27-slides-deposits-surge-19-margins-stabilize-93CH-4955409",
+    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-icici-bank-posts-strong-q2-2026-profit-growth-shares-flat-93CH-4955418",
+    "Watchlist|https://www.investing.com/news/company-news/hdfc-bank-q2-fy27-slides-deposits-surge-19-margins-stabilize-93CH-4955409",
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-icici-bank-posts-strong-q2-2026-profit-growth-shares-flat-93CH-4955418",
+    "Crypto|6d075f02-5bfb-338a-a770-3d556e7e4ad0",
+    "Crypto|170f924f-e024-3d38-abd7-563cb950471f"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792240392.7909698
+  "last_check": 1792241308.4609017
 }
