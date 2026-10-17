@@ -1,23 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|85eda056-69f4-367b-90f2-87c1581b8590",
-    "AI|10c579cd-877c-380f-96f0-389f633c3ae0",
-    "AI|9ae2e68f-1b0a-34d0-aa6c-77629be52768",
-    "AI|ad7af7a4-7f10-3eb6-ba38-a9da27b6c1b5",
-    "AI|c3d4a036-663c-320e-ba3f-b3efef72d1e7",
-    "AI|83cf47f4-d5cb-3c5f-a1d4-91a4e5fbbe72",
-    "AI|f41f7c3d-9d62-30bc-bbe6-d4a53d132412",
-    "Crypto|9a00c808-6757-3aca-88a9-f3ad4d1a76d9",
-    "Watchlist|9ae2e68f-1b0a-34d0-aa6c-77629be52768",
-    "Watchlist|83cf47f4-d5cb-3c5f-a1d4-91a4e5fbbe72",
-    "Watchlist|ad7af7a4-7f10-3eb6-ba38-a9da27b6c1b5",
-    "Watchlist|c3d4a036-663c-320e-ba3f-b3efef72d1e7",
-    "Watchlist|f41f7c3d-9d62-30bc-bbe6-d4a53d132412",
-    "Watchlist|efa4134d-15dc-3bbd-9108-e2e853d888e4",
-    "AI|253b504b-1899-3054-82c5-6332795f7e83",
-    "AI|efa4134d-15dc-3bbd-9108-e2e853d888e4",
-    "Watchlist|253b504b-1899-3054-82c5-6332795f7e83",
     "AI|https://www.investing.com/news/stock-market-news/american-airlines-names-new-network-planning-chief-in-fresh-management-shakeup-4952372",
     "AI|https://www.investing.com/news/stock-market-news/pennsylvania-secures-4-billion-in-investments-governor-says-4952374",
     "AI|https://www.investing.com/news/company-news/international-paper-evaluates-bids-for-emea-packaging-unit-93CH-4952376",
@@ -5000,7 +4983,24 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/eeme-energy-spv-i-buys-142m-in-xcf-global-stock-93CH-4955244",
     "Watchlist|https://www.investing.com/news/company-news/arrested-openai-engineer-seeks-bail-denies-plans-to-flee-us-4955246",
     "AI|29e4633c-fe52-3576-9a86-06acb320107f",
-    "Watchlist|29e4633c-fe52-3576-9a86-06acb320107f"
+    "Watchlist|29e4633c-fe52-3576-9a86-06acb320107f",
+    "War|https://www.investing.com/news/world-news/indias-cockroach-movement-founder-arrested-after-detention-media-reports-say-4955223",
+    "AI|https://www.investing.com/news/world-news/indias-cockroach-movement-founder-arrested-after-detention-media-reports-say-4955223",
+    "AI|https://www.investing.com/news/insider-trading-news/aptera-coceo-anthony-lee-sells-60182-in-stock-for-tax-obligations-93CH-4955249",
+    "AI|https://www.investing.com/news/insider-trading-news/marvell-technology-president-sells-865864-in-shares-93CH-4955250",
+    "Cybersecurity|https://www.investing.com/news/world-news/indias-cockroach-movement-founder-arrested-after-detention-media-reports-say-4955223",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/aptera-coceo-anthony-lee-sells-60182-in-stock-for-tax-obligations-93CH-4955249",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/marvell-technology-president-sells-865864-in-shares-93CH-4955250",
+    "SG Banks|https://www.investing.com/news/world-news/indias-cockroach-movement-founder-arrested-after-detention-media-reports-say-4955223",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/aptera-coceo-anthony-lee-sells-60182-in-stock-for-tax-obligations-93CH-4955249",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/marvell-technology-president-sells-865864-in-shares-93CH-4955250",
+    "Watchlist|https://www.investing.com/news/world-news/indias-cockroach-movement-founder-arrested-after-detention-media-reports-say-4955223",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/aptera-coceo-anthony-lee-sells-60182-in-stock-for-tax-obligations-93CH-4955249",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/marvell-technology-president-sells-865864-in-shares-93CH-4955250",
+    "AI|https://www.investing.com/news/insider-trading-news/everpure-director-scott-dietzen-sells-85m-in-company-stock-93CH-4955252",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/everpure-director-scott-dietzen-sells-85m-in-company-stock-93CH-4955252",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/everpure-director-scott-dietzen-sells-85m-in-company-stock-93CH-4955252",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/everpure-director-scott-dietzen-sells-85m-in-company-stock-93CH-4955252"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792215671.1048434
+  "last_check": 1792216576.0797322
 }
