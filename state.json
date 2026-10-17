@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|fe576c7b-6599-32e9-8e78-28502835e593",
-    "War|WP-MKTW-0005289572",
-    "AI|WP-MKTW-0005289572",
-    "Cybersecurity|WP-MKTW-0005289572",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-brunello-cucinelli-lifts-2026-outlook-in-q3-2026-93CH-4952423",
     "AI|https://www.investing.com/news/stock-market-news/unicredit-gets-ecb-approval-to-raise-commerzbank-stake-past-30-4952425",
     "AI|https://www.investing.com/news/stock-market-news/factboxcoreweaves-ai-contracts-and-the-lenders-financing-its-buildout-4952427",
     "AI|https://www.investing.com/news/stock-market-news/amazon-launches-two-new-portable-ai-listening-devices-4952429",
@@ -5000,7 +4995,12 @@
     "SG Banks|https://www.investing.com/news/economy-news/russia-says-it-struck-ukrainian-steel-plants-and-power-infrastructure-4955358",
     "SG Banks|https://www.investing.com/news/economy-news/anthropics-clark-says-ais-impact-accelerating-quickly-and-could-vastly-boost-us-gdp-4955359",
     "Watchlist|https://www.investing.com/news/economy-news/russia-says-it-struck-ukrainian-steel-plants-and-power-infrastructure-4955358",
-    "Watchlist|https://www.investing.com/news/economy-news/anthropics-clark-says-ais-impact-accelerating-quickly-and-could-vastly-boost-us-gdp-4955359"
+    "Watchlist|https://www.investing.com/news/economy-news/anthropics-clark-says-ais-impact-accelerating-quickly-and-could-vastly-boost-us-gdp-4955359",
+    "AI|9d939eff-be6a-3e76-b907-c3553a5d85e1",
+    "Watchlist|9d939eff-be6a-3e76-b907-c3553a5d85e1",
+    "War|WP-MKTW-0005289572",
+    "AI|WP-MKTW-0005289572",
+    "Cybersecurity|WP-MKTW-0005289572"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792229395.2955086
+  "last_check": 1792230318.8280287
 }
