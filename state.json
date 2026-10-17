@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/southwest-revamps-loyalty-program-with-new-premium-tiers-4952269",
-    "AI|https://www.investing.com/news/commodities-news/analysishow-the-houthis-are-helping-iran-turn-saudi-arabia-into-a-pressure-point-4951973",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-tomtom-q3-2026-profit-gains-offset-revenue-decline-93CH-4952272",
-    "AI|https://www.investing.com/news/stock-market-news/quest-diagnostics-shares-may-shift-44-on-oct-22-earnings-93CH-4952253",
     "AI|https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-001-4952256",
     "AI|https://www.investing.com/news/company-news/freedom-holding-corp-stock-hits-52week-high-at-17809-usd-93CH-4952254",
     "AI|https://www.investing.com/news/company-news/first-horizon-q3-2026-slides-mortgage-sale-to-boost-returns-150bps-93CH-4952255",
@@ -5000,7 +4996,11 @@
     "War|a5d82d92-5a19-3427-896b-ddcdd100ba8c",
     "SG Banks|/companies-markets/deluge-ipo-3-86-times-subscribed-ahead-sgx-debut",
     "Watchlist|/companies-markets/deluge-ipo-3-86-times-subscribed-ahead-sgx-debut",
-    "War|7dcec238-dd1e-31ce-8fe9-07abc45280f5"
+    "War|7dcec238-dd1e-31ce-8fe9-07abc45280f5",
+    "AI|ae48b743-62fc-3b4c-abc0-5805682d0c97",
+    "Watchlist|ae48b743-62fc-3b4c-abc0-5805682d0c97",
+    "SG Banks|/companies-markets/us-wall-street-ends-down-sharply-worries-about-ai-trade-high-oil-prices-weigh",
+    "Watchlist|/companies-markets/us-wall-street-ends-down-sharply-worries-about-ai-trade-high-oil-prices-weigh"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792195532.8372936
+  "last_check": 1792196450.6863785
 }
