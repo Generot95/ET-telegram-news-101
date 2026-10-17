@@ -1,17 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/earnings/cohen-steers-earnings-missed-by-003-revenue-fell-short-of-estimates-4952623",
-    "AI|https://www.investing.com/news/transcripts/lantern-pharma-at-thinkequity-conference-ai-drug-push-gains-pace-93CH-4952625",
-    "AI|https://www.investing.com/news/company-news/daily-journal-acquires-digital-evidence-software-firm-revir-93CH-4952626",
-    "AI|https://www.investing.com/news/company-news/boreal-gold-closes-final-tranche-of-private-placement-at-154200-93CH-4952627",
-    "AI|https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-106-4952628",
-    "AI|https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-155-4952636",
-    "AI|https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-108-4952637",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-jb-hunt-transport-stock-sliding-today-93CH-4952641",
-    "AI|https://www.investing.com/news/stock-market-news/uks-streeting-says-he-and-hegseth-welcomed-starlink-restoration-in-ukraine-4952602",
-    "AI|https://www.investing.com/news/stock-market-news/diamondback-expand-energy-named-top-picks-at-scotiabank-4952614",
-    "AI|https://www.investing.com/news/stock-market-news/varonis-stock-climbs-on-63-billion-proofpoint-deal-4952619",
     "AI|https://www.investing.com/news/company-news/vistra-redeems-1-billion-in-preferred-stock-93CH-4952595",
     "AI|https://www.investing.com/news/company-news/dow-declares-quarterly-dividend-of-35-cents-per-share-93CH-4952608",
     "AI|https://www.investing.com/news/company-news/rocky-shore-gold-closes-c52m-private-placement-93CH-4952610",
@@ -5000,7 +4989,18 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/protagonist-cfo-ali-asif-sells-83-million-in-company-stock-93CH-4955634",
     "AI|37208995-092a-39ba-805d-fee63a13a14f",
     "AI|f13fa7c0-cbf1-3df0-afd2-73c0b272c81d",
-    "Watchlist|f13fa7c0-cbf1-3df0-afd2-73c0b272c81d"
+    "Watchlist|f13fa7c0-cbf1-3df0-afd2-73c0b272c81d",
+    "AI|8b37eece-0bae-3096-9485-dbfb1001914a",
+    "Watchlist|8b37eece-0bae-3096-9485-dbfb1001914a",
+    "War|https://www.investing.com/news/commodities-news/venezuela-expects-nearly-76-billion-in-oil-investment-over-five-years-acting-president-says-4955647",
+    "AI|https://www.investing.com/news/insider-trading-news/limoneira-vp-cfo-hamm-sells-11905-of-common-stock-93CH-4955645",
+    "AI|https://www.investing.com/news/commodities-news/venezuela-expects-nearly-76-billion-in-oil-investment-over-five-years-acting-president-says-4955647",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/limoneira-vp-cfo-hamm-sells-11905-of-common-stock-93CH-4955645",
+    "Cybersecurity|https://www.investing.com/news/commodities-news/venezuela-expects-nearly-76-billion-in-oil-investment-over-five-years-acting-president-says-4955647",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/limoneira-vp-cfo-hamm-sells-11905-of-common-stock-93CH-4955645",
+    "SG Banks|https://www.investing.com/news/commodities-news/venezuela-expects-nearly-76-billion-in-oil-investment-over-five-years-acting-president-says-4955647",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/limoneira-vp-cfo-hamm-sells-11905-of-common-stock-93CH-4955645",
+    "Watchlist|https://www.investing.com/news/commodities-news/venezuela-expects-nearly-76-billion-in-oil-investment-over-five-years-acting-president-says-4955647"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792276999.5305488
+  "last_check": 1792277901.899194
 }
