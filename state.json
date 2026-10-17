@@ -1,23 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/suzan-k-delbene-of-washingtons-1st-district-trades-in-government-securities-93CH-4952485",
-    "Watchlist|https://www.investing.com/news/economy-news/anthropic-grants-ai-evaluator-metr-employeelevel-access-to-its-models-4952420",
-    "Watchlist|https://www.investing.com/news/company-news/atlassian-stock-hits-52week-high-at-21479-usd-93CH-4952479",
-    "Watchlist|https://www.investing.com/news/company-news/richard-dean-dr-mccormick-purchases-berkshire-hathaway-incs-common-stock-93CH-4952480",
-    "Watchlist|https://www.investing.com/news/company-news/richard-w-allen-of-ga12-sells-shares-in-autozone-and-costco-93CH-4952481",
-    "Watchlist|https://www.investing.com/news/stock-market-news/air-global-sets-firstever-dividend-100m-buyback-amid-business-cash-strength-4952482",
-    "Watchlist|https://www.investing.com/news/commodities-news/northwest-european-gasoline-margins-jump-9-after-monthly-low-93CH-4952483",
-    "Watchlist|https://www.investing.com/news/economic-indicators/diesels-surge-is-starting-to-push-other-prices-around-heres-how-4952484",
-    "Watchlist|https://www.investing.com/news/company-news/suzan-k-delbene-of-washingtons-1st-district-trades-in-government-securities-93CH-4952485",
-    "Iran|https://www.iranintl.com/en/202610138563",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-below-84k-as-tech-selldown-weighs-4945552",
-    "SG Banks|/companies-markets/banking-finance/visa-approved-prepare-domestic-payments-business-china",
-    "Watchlist|/companies-markets/banking-finance/visa-approved-prepare-domestic-payments-business-china",
-    "SG Banks|/companies-markets/banking-finance/greenback-jumps-stocks-bonds-dented-hot-us-inflation-data",
-    "Watchlist|/companies-markets/banking-finance/greenback-jumps-stocks-bonds-dented-hot-us-inflation-data",
-    "War|3fbbffa6-d28b-391a-94da-272381870848",
-    "War|1e65f589-f885-3c32-9d60-7fbea7c5ec5a",
     "SG Banks|https://www.straitstimes.com/business/us-consumer-prices-accelerate-in-september-on-costlier-petrol-core-cpi-firmer",
     "AI|6ae4d4a7-d440-4965-ac7f-571ab84b5df3",
     "Crypto|4cd0b688-505d-340e-aefb-a77468fdd8b4",
@@ -5000,7 +4983,24 @@
     "AI|af5f57fd-5729-3c8c-9f02-bdf60321ac8e",
     "Watchlist|af5f57fd-5729-3c8c-9f02-bdf60321ac8e",
     "AI|4e30a88e-8d6e-304c-a0bf-79b1082c1640",
-    "Watchlist|4e30a88e-8d6e-304c-a0bf-79b1082c1640"
+    "Watchlist|4e30a88e-8d6e-304c-a0bf-79b1082c1640",
+    "AI|369b390a-7f79-3ddd-8727-b935f3b58d25",
+    "Watchlist|369b390a-7f79-3ddd-8727-b935f3b58d25",
+    "AI|https://www.investing.com/news/insider-trading-news/saba-capital-sells-675333-in-blackrock-ecat-shares-93CH-4955451",
+    "AI|https://www.investing.com/news/economy-news/analysishigh-debt-growing-strains-put-focus-on-need-for-new-development-approaches-4955453",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/saba-capital-sells-675333-in-blackrock-ecat-shares-93CH-4955451",
+    "Cybersecurity|https://www.investing.com/news/economy-news/analysishigh-debt-growing-strains-put-focus-on-need-for-new-development-approaches-4955453",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/saba-capital-sells-675333-in-blackrock-ecat-shares-93CH-4955451",
+    "SG Banks|https://www.investing.com/news/economy-news/analysishigh-debt-growing-strains-put-focus-on-need-for-new-development-approaches-4955453",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/saba-capital-sells-675333-in-blackrock-ecat-shares-93CH-4955451",
+    "Watchlist|https://www.investing.com/news/economy-news/analysishigh-debt-growing-strains-put-focus-on-need-for-new-development-approaches-4955453",
+    "Iran|https://www.iranintl.com/en/202610138563",
+    "AI|4f08d5f6-195e-371a-ba2d-5c92ead1c27e",
+    "Watchlist|4f08d5f6-195e-371a-ba2d-5c92ead1c27e",
+    "SG Banks|/companies-markets/banking-finance/visa-approved-prepare-domestic-payments-business-china",
+    "SG Banks|/companies-markets/banking-finance/greenback-jumps-stocks-bonds-dented-hot-us-inflation-data",
+    "War|cf03a4d5-5fc8-488d-8964-895fefa46a3e",
+    "Watchlist|/companies-markets/banking-finance/greenback-jumps-stocks-bonds-dented-hot-us-inflation-data"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792248635.6646698
+  "last_check": 1792249533.9043133
 }
