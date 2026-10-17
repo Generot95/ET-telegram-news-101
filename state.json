@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|46e94253-1b48-338a-bdd5-8d5fa80bcd42",
-    "War|0da13ef1-bfae-36c6-b087-4e259743dee6",
     "AI|dc65e9b2-e80c-3e59-8eb4-70fe28206e0b",
     "AI|2ed45881-500e-393f-952a-7d28880f861c",
     "AI|fffa5567-6d8b-3e79-b2d9-bc78451e5373",
@@ -5000,7 +4998,9 @@
     "AI|e5dbb34a-3e19-335d-9abc-0e046b866286",
     "Watchlist|e5dbb34a-3e19-335d-9abc-0e046b866286",
     "AI|a17d39f1-a560-3554-a11e-99ee8f2739e6",
-    "Watchlist|a17d39f1-a560-3554-a11e-99ee8f2739e6"
+    "Watchlist|a17d39f1-a560-3554-a11e-99ee8f2739e6",
+    "AI|7a1555c3-a587-38ae-bd98-03532f8ce073",
+    "War|4d9d6c2a-d81b-42d8-ad16-e88388073b59"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792266017.307949
+  "last_check": 1792266938.890905
 }
