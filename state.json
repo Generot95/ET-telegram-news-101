@@ -1,20 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/kfc-to-sign-cocacola-on-as-beverage-partner-ditching-pepsico-wsj-reports-4952509",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/saba-capital-buys-658k-in-ellsworth-growth--income-fund-shares-93CH-4952517",
-    "Cybersecurity|https://www.investing.com/news/company-news/sweetgreen-stock-hits-52week-high-at-1064-usd-93CH-4952518",
-    "Cybersecurity|https://www.investing.com/news/economy-news/brazil-candidates-focus-fiscal-plans-on-voterfriendly-measures-before-runoff-4952519",
-    "SG Banks|https://www.investing.com/news/transcripts/actelis-networks-at-the-thinkequity-conference-recovery-and-federal-push-93CH-4952510",
-    "SG Banks|https://www.investing.com/news/company-news/kfc-us-switches-beverage-partnership-to-cocacola-93CH-4952511",
-    "SG Banks|https://www.investing.com/news/stock-market-news/kfc-nears-deal-to-switch-us-beverage-provider-to-cocacola-from-pepsi--wsj-4952512",
-    "SG Banks|https://www.investing.com/news/stock-market-news/kfc-to-sign-cocacola-on-as-beverage-partner-ditching-pepsico-wsj-reports-4952509",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/saba-capital-buys-658k-in-ellsworth-growth--income-fund-shares-93CH-4952517",
-    "SG Banks|https://www.investing.com/news/company-news/sweetgreen-stock-hits-52week-high-at-1064-usd-93CH-4952518",
-    "SG Banks|https://www.investing.com/news/economy-news/brazil-candidates-focus-fiscal-plans-on-voterfriendly-measures-before-runoff-4952519",
-    "Watchlist|https://www.investing.com/news/transcripts/actelis-networks-at-the-thinkequity-conference-recovery-and-federal-push-93CH-4952510",
-    "Watchlist|https://www.investing.com/news/company-news/kfc-us-switches-beverage-partnership-to-cocacola-93CH-4952511",
-    "Watchlist|https://www.investing.com/news/stock-market-news/kfc-nears-deal-to-switch-us-beverage-provider-to-cocacola-from-pepsi--wsj-4952512",
     "Watchlist|https://www.investing.com/news/stock-market-news/kfc-to-sign-cocacola-on-as-beverage-partner-ditching-pepsico-wsj-reports-4952509",
     "Watchlist|https://www.investing.com/news/insider-trading-news/saba-capital-buys-658k-in-ellsworth-growth--income-fund-shares-93CH-4952517",
     "Watchlist|https://www.investing.com/news/company-news/sweetgreen-stock-hits-52week-high-at-1064-usd-93CH-4952518",
@@ -5000,7 +4986,21 @@
     "Watchlist|7d909744-89ff-35aa-9fd4-d2f226ab9676",
     "AI|ac10e5be-73bf-39ba-9fbc-1ec34409f07e",
     "Crypto|ac10e5be-73bf-39ba-9fbc-1ec34409f07e",
-    "Watchlist|ac10e5be-73bf-39ba-9fbc-1ec34409f07e"
+    "Watchlist|ac10e5be-73bf-39ba-9fbc-1ec34409f07e",
+    "Crypto|67ea4b4a-bc33-32a7-a434-f05c5f840300",
+    "AI|https://www.investing.com/news/insider-trading-news/anterix-cfo-elena-marquez-sells-400606-of-stock-from-8000-to-8250-93CH-4955522",
+    "AI|https://www.investing.com/news/cryptocurrency-news/eos-climbs-18-in-a-green-day-4955523",
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/eos-climbs-18-in-a-green-day-4955523",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/anterix-cfo-elena-marquez-sells-400606-of-stock-from-8000-to-8250-93CH-4955522",
+    "Cybersecurity|https://www.investing.com/news/cryptocurrency-news/eos-climbs-18-in-a-green-day-4955523",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/anterix-cfo-elena-marquez-sells-400606-of-stock-from-8000-to-8250-93CH-4955522",
+    "SG Banks|https://www.investing.com/news/cryptocurrency-news/eos-climbs-18-in-a-green-day-4955523",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/anterix-cfo-elena-marquez-sells-400606-of-stock-from-8000-to-8250-93CH-4955522",
+    "Watchlist|https://www.investing.com/news/cryptocurrency-news/eos-climbs-18-in-a-green-day-4955523",
+    "War|b21075c0-0a85-4b7c-899b-cf27d731f887",
+    "AI|103888d0-d4c6-3dd6-81d2-ad9b3a39deb8",
+    "Watchlist|103888d0-d4c6-3dd6-81d2-ad9b3a39deb8",
+    "War|e3d319f8-ccf9-4a8f-add9-0bfb0cd6b89f"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792260542.785501
+  "last_check": 1792261436.6614096
 }
