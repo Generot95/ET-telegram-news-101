@@ -1,22 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/insider-trading-news/blue-biofuels-director-chris-kneppers-sells-10000-in-stock-93CH-4952469",
-    "AI|https://www.investing.com/news/company-news/acv-auctions-stock-hits-52week-high-at-1051-93CH-4952470",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/semtech-options-activity-call-buyers-dominate-as-stock-drops-12-93CH-4952466",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/godfather-star-al-pacino-to-receive-life-achievement-award-from-actors-guild-4952467",
-    "Cybersecurity|https://www.investing.com/news/transcripts/founders-metals-at-precious-metals-conference-drilling-fuels-growth-case-93CH-4952468",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/blue-biofuels-director-chris-kneppers-sells-10000-in-stock-93CH-4952469",
-    "Cybersecurity|https://www.investing.com/news/company-news/acv-auctions-stock-hits-52week-high-at-1051-93CH-4952470",
-    "SG Banks|https://www.investing.com/news/stock-market-news/semtech-options-activity-call-buyers-dominate-as-stock-drops-12-93CH-4952466",
-    "SG Banks|https://www.investing.com/news/stock-market-news/godfather-star-al-pacino-to-receive-life-achievement-award-from-actors-guild-4952467",
-    "SG Banks|https://www.investing.com/news/transcripts/founders-metals-at-precious-metals-conference-drilling-fuels-growth-case-93CH-4952468",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/blue-biofuels-director-chris-kneppers-sells-10000-in-stock-93CH-4952469",
-    "SG Banks|https://www.investing.com/news/company-news/acv-auctions-stock-hits-52week-high-at-1051-93CH-4952470",
-    "Watchlist|https://www.investing.com/news/stock-market-news/semtech-options-activity-call-buyers-dominate-as-stock-drops-12-93CH-4952466",
-    "Watchlist|https://www.investing.com/news/stock-market-news/godfather-star-al-pacino-to-receive-life-achievement-award-from-actors-guild-4952467",
-    "Watchlist|https://www.investing.com/news/transcripts/founders-metals-at-precious-metals-conference-drilling-fuels-growth-case-93CH-4952468",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/blue-biofuels-director-chris-kneppers-sells-10000-in-stock-93CH-4952469",
     "Watchlist|https://www.investing.com/news/company-news/acv-auctions-stock-hits-52week-high-at-1051-93CH-4952470",
     "AI|57fef264-2220-309b-a8bb-2d3e2b4a58ba",
     "Watchlist|57fef264-2220-309b-a8bb-2d3e2b4a58ba",
@@ -5000,7 +4984,23 @@
     "AI|https://www.investing.com/news/stock-market-news/which-company-has-the-worlds-highest-earnings-the-answer-may-surprise-you-4955422",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/which-company-has-the-worlds-highest-earnings-the-answer-may-surprise-you-4955422",
     "SG Banks|https://www.investing.com/news/stock-market-news/which-company-has-the-worlds-highest-earnings-the-answer-may-surprise-you-4955422",
-    "Watchlist|https://www.investing.com/news/stock-market-news/which-company-has-the-worlds-highest-earnings-the-answer-may-surprise-you-4955422"
+    "Watchlist|https://www.investing.com/news/stock-market-news/which-company-has-the-worlds-highest-earnings-the-answer-may-surprise-you-4955422",
+    "War|35de0103-6115-3ca5-ae6a-cbc4731f1105",
+    "AI|821b3300-2f38-3656-a9ed-9e09d8678fa9",
+    "AI|35de0103-6115-3ca5-ae6a-cbc4731f1105",
+    "Watchlist|821b3300-2f38-3656-a9ed-9e09d8678fa9",
+    "Watchlist|35de0103-6115-3ca5-ae6a-cbc4731f1105",
+    "War|5f1a8077-d773-42ce-a003-32017fe7a894",
+    "Crypto|3aa6b966-4ec8-3bd6-b914-5e3186b3cd3e",
+    "War|02d09c92-e543-38d9-b121-e742af40208b",
+    "AI|273d3531-2ed2-3e26-a9db-9ea70853bf7a",
+    "Watchlist|273d3531-2ed2-3e26-a9db-9ea70853bf7a",
+    "AI|1c347f1a-b560-3d21-9140-ec4a7631467a",
+    "AI|https://www.investing.com/news/insider-trading-news/ferguson-coo-thees-sells-127125-of-ferg-stock-93CH-4955433",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/ferguson-coo-thees-sells-127125-of-ferg-stock-93CH-4955433",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/ferguson-coo-thees-sells-127125-of-ferg-stock-93CH-4955433",
+    "Watchlist|1c347f1a-b560-3d21-9140-ec4a7631467a",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/ferguson-coo-thees-sells-127125-of-ferg-stock-93CH-4955433"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792244061.5423055
+  "last_check": 1792244973.6535413
 }
