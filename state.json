@@ -1,20 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|f5c213aa-57b0-38f1-bae5-f7e2dbb746ab",
-    "Watchlist|f5c213aa-57b0-38f1-bae5-f7e2dbb746ab",
-    "AI|7aea6b1c-c26f-342e-a4a7-04bc0044facc",
-    "Watchlist|7aea6b1c-c26f-342e-a4a7-04bc0044facc",
-    "AI|8c90cdf9-8356-41cd-88fd-45a748360f7f",
-    "Watchlist|8c90cdf9-8356-41cd-88fd-45a748360f7f",
-    "Iran|https://www.iranintl.com/en/202610114328",
-    "Watchlist|e5c09798-235e-34ae-940c-1375ba6ae907",
-    "SG Banks|/companies-markets/capital-markets-currencies/european-shares-edge-higher-lower-oil-prices-lift-sentiment",
-    "Watchlist|/companies-markets/capital-markets-currencies/european-shares-edge-higher-lower-oil-prices-lift-sentiment",
-    "War|8b560d26-2f99-3c07-bfe2-cc2043f2cc83",
-    "War|https://www.investing.com/news/commodities-news/td-cowen-raises-oil-forecasts-sees-canadian-producers-gain-as-wcs-discounts-widen-4952607",
-    "AI|https://www.investing.com/news/company-news/halliburton-appoints-hunt-consolidated-president-to-board-93CH-4952621",
-    "AI|https://www.investing.com/news/earnings/prologis-tops-third-quarter-estimates-on-strong-demand-4952622",
     "AI|https://www.investing.com/news/earnings/cohen-steers-earnings-missed-by-003-revenue-fell-short-of-estimates-4952623",
     "AI|https://www.investing.com/news/transcripts/lantern-pharma-at-thinkequity-conference-ai-drug-push-gains-pace-93CH-4952625",
     "AI|https://www.investing.com/news/company-news/daily-journal-acquires-digital-evidence-software-firm-revir-93CH-4952626",
@@ -5000,7 +4986,21 @@
     "Watchlist|8fb7bc98-89cf-31ce-abc0-d34e2cbe10d5",
     "AI|fc125406-83b6-3133-a4d6-c6a1dde51081",
     "AI|8fb7bc98-89cf-31ce-abc0-d34e2cbe10d5",
-    "War|221ea2b0-bc19-3111-9194-381153d00cd7"
+    "War|221ea2b0-bc19-3111-9194-381153d00cd7",
+    "War|83e5f3a9-28c9-318b-a2e4-7c5068b40767",
+    "AI|156cfc1e-9bae-3193-b3c1-a915b1ac3553",
+    "Watchlist|156cfc1e-9bae-3193-b3c1-a915b1ac3553",
+    "AI|https://www.investing.com/news/insider-trading-news/dropbox-cao-sarah-schubach-sells-65893-of-stock-93CH-4955624",
+    "AI|https://www.investing.com/news/insider-trading-news/protagonist-cfo-ali-asif-sells-83-million-in-company-stock-93CH-4955634",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/dropbox-cao-sarah-schubach-sells-65893-of-stock-93CH-4955624",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/protagonist-cfo-ali-asif-sells-83-million-in-company-stock-93CH-4955634",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/dropbox-cao-sarah-schubach-sells-65893-of-stock-93CH-4955624",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/protagonist-cfo-ali-asif-sells-83-million-in-company-stock-93CH-4955634",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/dropbox-cao-sarah-schubach-sells-65893-of-stock-93CH-4955624",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/protagonist-cfo-ali-asif-sells-83-million-in-company-stock-93CH-4955634",
+    "AI|37208995-092a-39ba-805d-fee63a13a14f",
+    "AI|f13fa7c0-cbf1-3df0-afd2-73c0b272c81d",
+    "Watchlist|f13fa7c0-cbf1-3df0-afd2-73c0b272c81d"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792276078.7368345
+  "last_check": 1792276999.5305488
 }
