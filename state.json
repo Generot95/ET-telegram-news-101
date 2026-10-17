@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|WP-MKTW-0005285289",
-    "Watchlist|f41a16c5-3058-3301-88ba-4efd4d784b3d",
-    "Watchlist|bf9681ca-800d-38b4-a46b-c09fca7bcdfb",
-    "Watchlist|51cae880-22df-3597-9241-de71aae77d67",
-    "AI|eb98af2a-6161-3945-b6df-d4a031e27bd1",
-    "Watchlist|eb98af2a-6161-3945-b6df-d4a031e27bd1",
-    "Crypto|64be29d3-d97d-30d0-83e5-9cefe13781b6",
-    "SG Banks|https://www.channelnewsasia.com/business/cnn-signs-multi-year-ai-partnership-google-6463246",
-    "War|8f8f9626-0725-372c-9319-1e16bd50ac5b",
-    "War|WP-MKTW-0005281433",
-    "AI|d9f0877b-4d98-34be-9a41-8cafc4e28743",
-    "AI|50c08fbc-4af7-34e2-8aff-6e63c80d6230",
     "AI|WP-MKTW-0005281433",
     "Cybersecurity|WP-MKTW-0005281433",
     "Watchlist|d9f0877b-4d98-34be-9a41-8cafc4e28743",
@@ -5000,7 +4988,19 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/paylocity-executive-chairman-steven-beauchamp-sells-248m-in-stock-93CH-4955278",
     "SG Banks|https://www.channelnewsasia.com/business/anthropic-quietly-pitches-its-own-ai-safety-bill-us-lawmakers-6467581",
     "AI|73310bc6-27c6-3b11-b1e4-b97ee9a68aed",
-    "Watchlist|73310bc6-27c6-3b11-b1e4-b97ee9a68aed"
+    "Watchlist|73310bc6-27c6-3b11-b1e4-b97ee9a68aed",
+    "AI|https://www.investing.com/news/insider-trading-news/transdigm-cocoo-joel-reiss-sells-46m-in-shares-93CH-4955285",
+    "AI|https://www.investing.com/news/insider-trading-news/verisk-analytics-cfo-elizabeth-mann-sells-73940-in-stock-93CH-4955289",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/transdigm-cocoo-joel-reiss-sells-46m-in-shares-93CH-4955285",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/verisk-analytics-cfo-elizabeth-mann-sells-73940-in-stock-93CH-4955289",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/transdigm-cocoo-joel-reiss-sells-46m-in-shares-93CH-4955285",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/verisk-analytics-cfo-elizabeth-mann-sells-73940-in-stock-93CH-4955289",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/transdigm-cocoo-joel-reiss-sells-46m-in-shares-93CH-4955285",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/verisk-analytics-cfo-elizabeth-mann-sells-73940-in-stock-93CH-4955289",
+    "SG Banks|/companies-markets/foreign-holdings-us-treasuries-rise-almost-1-year-low",
+    "Watchlist|/companies-markets/foreign-holdings-us-treasuries-rise-almost-1-year-low",
+    "Crypto|1fb2f809-f2b7-342b-b233-cfe34815a49d",
+    "Crypto|f690eefd-78f0-3d88-9448-7edc92043512"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792221159.5038528
+  "last_check": 1792222075.0899851
 }
