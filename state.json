@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/nyxoah-presents-12month-data-for-sleep-apnea-device-study-93CH-4952579",
-    "Cybersecurity|https://www.investing.com/news/company-news/fortune-brands-to-sell-fiberon-decking-unit-to-inteplast-93CH-4952578",
-    "Cybersecurity|https://www.investing.com/news/company-news/macrogenics-doses-first-patient-in-mgc030-cancer-trial-93CH-4952580",
     "Cybersecurity|https://www.investing.com/news/company-news/albertsons-adds-harmit-singh-to-board-of-directors-93CH-4952581",
     "Cybersecurity|https://www.investing.com/news/transcripts/evolve-royalties-at-precious-metals--critical-minerals-virtual-investor-conference-growth-plan-93CH-4952582",
     "Cybersecurity|https://www.investing.com/news/company-news/opus-genetics-reports-early-trial-results-for-gene-therapies-93CH-4952557",
@@ -5000,7 +4997,10 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/powell-industries-vp-mauney-sells-56488-in-stock-93CH-4955554",
     "Watchlist|https://www.investing.com/news/insider-trading-news/on-semiconductor-group-president-sudhir-gopalswamy-sells-125m-in-shares-93CH-4955555",
     "AI|1486a742-324d-3550-bf12-93a0141ef14c",
-    "Watchlist|1486a742-324d-3550-bf12-93a0141ef14c"
+    "Watchlist|1486a742-324d-3550-bf12-93a0141ef14c",
+    "SG Banks|https://www.straitstimes.com/business/invest/from-the-navy-to-bullion-trading-start-up-founder-builds-wealth-through-precious-metals-discipline",
+    "SG Banks|https://www.straitstimes.com/business/invest/gambled-all-his-pay-he-earned-28k-monthly-but-his-losses-were-30k",
+    "Crypto|0977af7f-959e-3030-9453-be0a1f1f19c2"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792270592.3342013
+  "last_check": 1792271502.9184368
 }
