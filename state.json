@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|dc65e9b2-e80c-3e59-8eb4-70fe28206e0b",
-    "AI|2ed45881-500e-393f-952a-7d28880f861c",
-    "AI|fffa5567-6d8b-3e79-b2d9-bc78451e5373",
-    "Watchlist|dc65e9b2-e80c-3e59-8eb4-70fe28206e0b",
-    "Watchlist|2ed45881-500e-393f-952a-7d28880f861c",
-    "Watchlist|fffa5567-6d8b-3e79-b2d9-bc78451e5373",
-    "War|https://www.investing.com/news/commodities-news/ukraine-hits-russian-refinery-as-zelenskiy-says-were-done-with-trumps-energy-truce-4952528",
-    "War|https://www.investing.com/news/commodities-news/yemens-houthis-hit-palace-in-aden-coalition-details-attacks-on-saudi-infrastructure-4952575",
-    "AI|https://www.investing.com/news/company-news/genpact-board-declares-01875-quarterly-dividend-93CH-4952574",
-    "AI|https://www.investing.com/news/commodities-news/yemens-houthis-hit-palace-in-aden-coalition-details-attacks-on-saudi-infrastructure-4952575",
     "AI|https://www.investing.com/news/company-news/fvcbankcorp-declares-007-quarterly-dividend-93CH-4952577",
     "AI|https://www.investing.com/news/company-news/frazier-life-sciences-spac-raises-75m-in-nasdaq-ipo-93CH-4952576",
     "AI|https://www.investing.com/news/company-news/nyxoah-presents-12month-data-for-sleep-apnea-device-study-93CH-4952579",
@@ -5000,7 +4990,17 @@
     "AI|a17d39f1-a560-3554-a11e-99ee8f2739e6",
     "Watchlist|a17d39f1-a560-3554-a11e-99ee8f2739e6",
     "AI|7a1555c3-a587-38ae-bd98-03532f8ce073",
-    "War|4d9d6c2a-d81b-42d8-ad16-e88388073b59"
+    "War|4d9d6c2a-d81b-42d8-ad16-e88388073b59",
+    "AI|27aa89f5-8c19-3211-a3f4-5d75f858c264",
+    "Watchlist|27aa89f5-8c19-3211-a3f4-5d75f858c264",
+    "AI|https://www.investing.com/news/insider-trading-news/gilead-chairman--ceo-oday-sells-22m-in-stock-93CH-4955543",
+    "AI|https://www.investing.com/news/economy-news/citi-says-interest-rates-may-matter-more-for-economy-than-stock-valuations-4955545",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/gilead-chairman--ceo-oday-sells-22m-in-stock-93CH-4955543",
+    "Cybersecurity|https://www.investing.com/news/economy-news/citi-says-interest-rates-may-matter-more-for-economy-than-stock-valuations-4955545",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/gilead-chairman--ceo-oday-sells-22m-in-stock-93CH-4955543",
+    "SG Banks|https://www.investing.com/news/economy-news/citi-says-interest-rates-may-matter-more-for-economy-than-stock-valuations-4955545",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/gilead-chairman--ceo-oday-sells-22m-in-stock-93CH-4955543",
+    "Watchlist|https://www.investing.com/news/economy-news/citi-says-interest-rates-may-matter-more-for-economy-than-stock-valuations-4955545"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792266938.890905
+  "last_check": 1792267843.7342157
 }
