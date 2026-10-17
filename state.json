@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/company-news/home-bancshares-q3-2026-slides-record-profit-efficiency-gains-93CH-4952495",
-    "Watchlist|https://www.investing.com/news/stock-market-news/catalio-capital-seeks-500-million-for-ai-healthcare-startups--bloomberg-93CH-4952496",
-    "Watchlist|https://www.investing.com/news/forex-news/argentina-halts-local-dollar-bond-sales-as-yields-surge-93CH-4952498",
-    "Watchlist|https://www.investing.com/news/stock-market-news/explainerwhy-coreweaves-troubles-are-rattling-the-ai-boom-4952500",
     "Watchlist|https://www.investing.com/news/insider-trading-news/saba-capital-management-sells-43070-in-pimco-dynamic-income-strategy-fund-93CH-4952501",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-nexgen-energy-stock-rallying-today-93CH-4952502",
     "Watchlist|https://www.investing.com/news/company-news/reinsurance-group-of-america-stock-hits-alltime-high-at-26527-usd-93CH-4952503",
@@ -5000,7 +4996,11 @@
     "AI|da478984-2c59-32f6-b138-6278c6b6204d",
     "Watchlist|dafa2022-096d-3328-b249-55631f7fb95d",
     "Watchlist|dfdd7869-7942-3b10-922a-fbcf69738967",
-    "Watchlist|da478984-2c59-32f6-b138-6278c6b6204d"
+    "Watchlist|da478984-2c59-32f6-b138-6278c6b6204d",
+    "AI|d20b7904-c463-308c-ad4e-63de6a9c679e",
+    "Watchlist|d20b7904-c463-308c-ad4e-63de6a9c679e",
+    "AI|2bb668f3-4972-31d2-bb7d-cf828b406e14",
+    "Watchlist|2bb668f3-4972-31d2-bb7d-cf828b406e14"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792255949.3588061
+  "last_check": 1792256857.480623
 }
