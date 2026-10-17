@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/germany-stocks-mixed-at-close-of-trade-dax-up-027-4952336",
-    "AI|https://www.investing.com/news/stock-market-news/italy-stocks-lower-at-close-of-trade-investingcom-italy-40-down-072-4952337",
-    "AI|https://www.investing.com/news/stock-market-news/netherlands-stocks-lower-at-close-of-trade-aex-down-040-4952338",
-    "AI|https://www.investing.com/news/stock-market-news/nvidia-ceo-says-coreweave-needs-no-backstop-as-shares-extend-slide-4952315",
-    "AI|https://www.investing.com/news/stock-market-news/finland-stocks-lower-at-close-of-trade-omx-helsinki-25-down-166-4952318",
-    "AI|https://www.investing.com/news/stock-market-news/sweden-stocks-lower-at-close-of-trade-omx-stockholm-30-down-062-4952327",
-    "AI|https://www.investing.com/news/company-news/ct-global-managed-portfolio-trust-issues-100000-income-shares-93CH-4952316",
-    "AI|https://www.investing.com/news/company-news/jio-financial-q2-fy27-slides-132-income-growth-stock-flat-at-219-93CH-4952317",
-    "Crypto|579c2060-1f6f-3f7e-9ab2-227d0b97af3a",
     "Cybersecurity|https://www.investing.com/news/economic-indicators/iea-to-speed-up-oil-stocks-release-including-over-20-million-barrels-of-diesel-4952328",
     "Cybersecurity|https://www.investing.com/news/earnings/brunello-cucinelli-raises-2026-growth-guidance-after-q3-revenue-beat-4952330",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/nasdaq-reports-network-disruption-us-equities-data-feeds-impacted-4952331",
@@ -5000,7 +4991,16 @@
     "Watchlist|https://www.investing.com/news/economy-news/brazils-flavio-bolsonaro-pledges-fiscal-adjustment-rejects-cuts-to-social-spending-4955137",
     "Iran|https://www.iranintl.com/en/202610126090",
     "Watchlist|cdc1b343-d3bb-35ba-a5f3-c41f29847822",
-    "War|32ebcab2-1f18-3efd-8918-290e9149d760"
+    "War|32ebcab2-1f18-3efd-8918-290e9149d760",
+    "AI|c8693b97-aae0-363f-b29c-5b9b9d54a1b3",
+    "AI|https://www.investing.com/news/economic-indicators/striking-unions-at-antofagastas-centinela-copper-mine-reach-preliminary-deal-ending-strike-4955155",
+    "Cybersecurity|https://www.investing.com/news/economic-indicators/striking-unions-at-antofagastas-centinela-copper-mine-reach-preliminary-deal-ending-strike-4955155",
+    "SG Banks|https://www.investing.com/news/economic-indicators/striking-unions-at-antofagastas-centinela-copper-mine-reach-preliminary-deal-ending-strike-4955155",
+    "Watchlist|https://www.investing.com/news/economic-indicators/striking-unions-at-antofagastas-centinela-copper-mine-reach-preliminary-deal-ending-strike-4955155",
+    "AI|6dbb56a4-a857-3cbe-b2d5-5b606a3dcd6a",
+    "Watchlist|6dbb56a4-a857-3cbe-b2d5-5b606a3dcd6a",
+    "AI|7b8c2931-821f-33f7-8855-8d4f63cd8c38",
+    "Watchlist|7b8c2931-821f-33f7-8855-8d4f63cd8c38"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792205583.0993216
+  "last_check": 1792206507.1549633
 }
