@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/cmc-q4-fy2026-slides-margins-expand-tag-program-beats-targets-93CH-4952352",
-    "AI|https://www.investing.com/news/stock-market-news/us-bancorp-earnings-analysis-questions-answered-and-next-catalysts-93CH-4952353",
-    "AI|https://www.investing.com/news/stock-market-news/tsmc-earnings-analysis-questions-answered-and-next-catalysts-93CH-4952354",
-    "AI|https://www.investing.com/news/stock-market-news/fmc-earnings-analysis-questions-answered-and-next-catalysts-93CH-4952356",
-    "AI|https://www.investing.com/news/stock-market-news/wipro-earnings-analysis-questions-answered-and-next-catalysts-93CH-4952357",
-    "AI|https://www.investing.com/news/stock-market-news/microsoft-ai-unveils-28-trillionparameter-model-claims-efficiency-gains-4952355",
-    "AI|https://www.investing.com/news/stock-market-news/manpowergroup-earnings-analysis-questions-answered-and-next-catalysts-93CH-4952358",
-    "AI|https://www.investing.com/news/company-news/bny-mellon-q3-2026-slides-24-eps-growth-margins-expand-to-39-93CH-4952360",
-    "AI|https://www.investing.com/news/stock-market-news/analysisasmls-sold-out-outlook-forces-investors-to-look-beyond-demand-4952288",
-    "AI|https://www.investing.com/news/stock-market-news/pnc-financial-earnings-analysis-questions-answered-and-next-catalysts-93CH-4952362",
-    "AI|https://www.investing.com/news/stock-market-news/marsh-mclennan-earnings-analysis-questions-answered-and-next-catalysts-93CH-4952363",
-    "AI|https://www.investing.com/news/company-news/crucible-clarity-fund-increases-stake-in-lendinvest-to-514-93CH-4952342",
-    "AI|https://www.investing.com/news/company-news/equity-bancshares-q3-2026-slides-profitability-holds-amid-margin-squeeze-93CH-4952351",
     "Cybersecurity|https://www.investing.com/news/company-news/cmc-q4-fy2026-slides-margins-expand-tag-program-beats-targets-93CH-4952352",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/us-bancorp-earnings-analysis-questions-answered-and-next-catalysts-93CH-4952353",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/tsmc-earnings-analysis-questions-answered-and-next-catalysts-93CH-4952354",
@@ -5000,7 +4987,20 @@
     "AI|https://www.investing.com/news/insider-trading-news/qualcomm-evp-ann-chaplin-sells-319268-in-common-stock-93CH-4955188",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/qualcomm-evp-ann-chaplin-sells-319268-in-common-stock-93CH-4955188",
     "SG Banks|https://www.investing.com/news/insider-trading-news/qualcomm-evp-ann-chaplin-sells-319268-in-common-stock-93CH-4955188",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/qualcomm-evp-ann-chaplin-sells-319268-in-common-stock-93CH-4955188"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/qualcomm-evp-ann-chaplin-sells-319268-in-common-stock-93CH-4955188",
+    "SG Banks|/companies-markets/chinese-stocks-turn-biggest-losers-global-ai-trade-stumbles",
+    "Watchlist|/companies-markets/chinese-stocks-turn-biggest-losers-global-ai-trade-stumbles",
+    "AI|https://www.investing.com/news/insider-trading-news/grail-ceo-joshua-ofman-sells-274m-in-company-stock-93CH-4955196",
+    "AI|https://www.investing.com/news/insider-trading-news/aptera-motors-director-todd-butz-sells-32940-in-company-stock-93CH-4955197",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/grail-ceo-joshua-ofman-sells-274m-in-company-stock-93CH-4955196",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/aptera-motors-director-todd-butz-sells-32940-in-company-stock-93CH-4955197",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/grail-ceo-joshua-ofman-sells-274m-in-company-stock-93CH-4955196",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/aptera-motors-director-todd-butz-sells-32940-in-company-stock-93CH-4955197",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/grail-ceo-joshua-ofman-sells-274m-in-company-stock-93CH-4955196",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/aptera-motors-director-todd-butz-sells-32940-in-company-stock-93CH-4955197",
+    "War|d3a9e2d4-6a4c-3501-89d3-74235b83acdc",
+    "AI|191c9de8-6923-3cfd-8915-af94710de397",
+    "SG Banks|https://www.channelnewsasia.com/business/major-development-banks-step-up-support-critical-minerals-value-chains-6467911"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792210178.2819765
+  "last_check": 1792211094.6713736
 }
