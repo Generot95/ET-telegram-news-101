@@ -1,7 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/fortune-brands-to-sell-fiberon-decking-unit-to-inteplast-93CH-4952578",
     "SG Banks|https://www.investing.com/news/company-news/macrogenics-doses-first-patient-in-mgc030-cancer-trial-93CH-4952580",
     "SG Banks|https://www.investing.com/news/company-news/albertsons-adds-harmit-singh-to-board-of-directors-93CH-4952581",
     "SG Banks|https://www.investing.com/news/transcripts/evolve-royalties-at-precious-metals--critical-minerals-virtual-investor-conference-growth-plan-93CH-4952582",
@@ -5000,7 +4999,8 @@
     "AI|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4955590",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4955590",
     "SG Banks|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4955590",
-    "Watchlist|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4955590"
+    "Watchlist|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4955590",
+    "Crypto|2f52a819-7511-34ae-8653-9162ecf5a948"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792273340.3974092
+  "last_check": 1792274248.7047372
 }
