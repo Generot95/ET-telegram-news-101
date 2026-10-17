@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/bmo-reiterates-gogold-resources-stock-rating-on-strong-production-93CH-4952410",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/anthropic-grants-employee-access-to-metr-for-ai-safety-review-93CH-4952411",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/perplexity-to-open-source-tool-used-to-contain-ai-agents-4952412",
     "Cybersecurity|https://www.investing.com/news/company-news/nuburu-completes-tekne-acquisition-adding-a-93-million-defense--dualuse-program-portfolio-and-advancing-expansion-across-nato-and-allied-markets-4952416",
     "Cybersecurity|https://www.investing.com/news/press-releases/sectora-foundation-announces-final-testing-of-four-products-and-sect-token-availability-on-uniswap-4952417",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/jefferies-raises-dt-midstream-stock-price-target-on-project-outlook-93CH-4952418",
@@ -5000,7 +4997,10 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/beta-bionics-cco-mark-hopman-sells-13446-in-shares-93CH-4955337",
     "Watchlist|https://www.investing.com/news/stock-market-news/explainercould-hackers-get-inside-my-fridge-4955339",
     "AI|32723169-c204-38a9-9434-21bbe136c29a",
-    "Watchlist|32723169-c204-38a9-9434-21bbe136c29a"
+    "Watchlist|32723169-c204-38a9-9434-21bbe136c29a",
+    "AI|9b5a3c77-587f-3045-986a-8dc50ca738ae",
+    "Watchlist|9b5a3c77-587f-3045-986a-8dc50ca738ae",
+    "Iran|https://www.iranintl.com/en/202610178912"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792226659.7174513
+  "last_check": 1792227575.4871938
 }
