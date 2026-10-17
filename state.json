@@ -1,23 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|/companies-markets/telcos-media-tech/ai-models-may-soon-self-replicate-without-access-data-centres-anthropic-warns",
-    "Watchlist|https://www.investing.com/news/stock-market-news/google-demonstrates-quantum-computing-breakthrough-cuts-errors-40fold-4952450",
-    "Watchlist|https://www.investing.com/news/company-news/standard-uranium-gets-deadline-extension-for-3m-private-placement-93CH-4952455",
-    "Watchlist|https://www.investing.com/news/company-news/pursuit-attractions-stock-hits-52week-high-at-5652-usd-93CH-4952457",
-    "Watchlist|https://www.investing.com/news/company-news/medline-plans-800000-sq-ft-distribution-center-in-michigan-93CH-4952458",
-    "Watchlist|https://www.investing.com/news/stock-market-news/private-credit-faces-deployment-squeeze-as-fundraising-hits-record-4952463",
-    "Watchlist|https://www.investing.com/news/commodities-news/us-plan-to-ease-shadow-fleet-sanctions-unlikely-to-free-up-many-tankers-analysts-say-4952464",
-    "AI|cd5ea3e5-d8b9-3f29-8ecf-67cf3a410476",
-    "AI|cbe472b4-b417-33f4-9a19-e5fa03775791",
-    "Watchlist|cbe472b4-b417-33f4-9a19-e5fa03775791",
-    "War|WP-MKTW-0005284576",
-    "Watchlist|5e2e4201-3569-386d-9470-2ace0463ffe3",
-    "AI|99bb151d-436f-3a86-9b96-25ad36b1eb66",
-    "AI|25b3cac7-c5e5-3fb8-99ce-98c05daab93b",
-    "AI|45b16156-7b0b-38e7-b3a7-f9c74b6dad28",
-    "AI|99e96c41-65a8-33bd-ab29-8ce372b5a56e",
-    "AI|WP-MKTW-0005284576",
     "Watchlist|25b3cac7-c5e5-3fb8-99ce-98c05daab93b",
     "Watchlist|99bb151d-436f-3a86-9b96-25ad36b1eb66",
     "Watchlist|45b16156-7b0b-38e7-b3a7-f9c74b6dad28",
@@ -5000,7 +4983,24 @@
     "Watchlist|https://www.investing.com/news/company-news/hdfc-bank-q2-fy27-slides-deposits-surge-19-margins-stabilize-93CH-4955409",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-icici-bank-posts-strong-q2-2026-profit-growth-shares-flat-93CH-4955418",
     "Crypto|6d075f02-5bfb-338a-a770-3d556e7e4ad0",
-    "Crypto|170f924f-e024-3d38-abd7-563cb950471f"
+    "Crypto|170f924f-e024-3d38-abd7-563cb950471f",
+    "War|652b9351-7c8f-389a-8b73-61f840825393",
+    "AI|652b9351-7c8f-389a-8b73-61f840825393",
+    "Watchlist|652b9351-7c8f-389a-8b73-61f840825393",
+    "AI|d52ac2da-a7a8-3a9d-a344-009a31147f46",
+    "Watchlist|d52ac2da-a7a8-3a9d-a344-009a31147f46",
+    "War|de0c174d-918b-329a-9fa5-dfa329f28ef7",
+    "War|6d06c41b-a5f5-330f-b725-0e5786b206cb",
+    "War|WP-MKTW-0005289890",
+    "War|WP-MKTW-0005285328",
+    "AI|https://www.investing.com/news/company-news/icici-bank-q22027-slides-23-profit-growth-amid-margin-pressure-93CH-4955420",
+    "AI|WP-MKTW-0005289890",
+    "AI|WP-MKTW-0005285328",
+    "Cybersecurity|https://www.investing.com/news/company-news/icici-bank-q22027-slides-23-profit-growth-amid-margin-pressure-93CH-4955420",
+    "Cybersecurity|WP-MKTW-0005289890",
+    "Cybersecurity|WP-MKTW-0005285328",
+    "SG Banks|https://www.investing.com/news/company-news/icici-bank-q22027-slides-23-profit-growth-amid-margin-pressure-93CH-4955420",
+    "Watchlist|https://www.investing.com/news/company-news/icici-bank-q22027-slides-23-profit-growth-amid-margin-pressure-93CH-4955420"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792241308.4609017
+  "last_check": 1792242233.0480466
 }
