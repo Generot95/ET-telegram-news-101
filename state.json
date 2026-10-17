@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/fvcbankcorp-declares-007-quarterly-dividend-93CH-4952577",
-    "Cybersecurity|https://www.investing.com/news/company-news/frazier-life-sciences-spac-raises-75m-in-nasdaq-ipo-93CH-4952576",
     "Cybersecurity|https://www.investing.com/news/company-news/nyxoah-presents-12month-data-for-sleep-apnea-device-study-93CH-4952579",
     "Cybersecurity|https://www.investing.com/news/company-news/fortune-brands-to-sell-fiberon-decking-unit-to-inteplast-93CH-4952578",
     "Cybersecurity|https://www.investing.com/news/company-news/macrogenics-doses-first-patient-in-mgc030-cancer-trial-93CH-4952580",
@@ -5000,7 +4998,9 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/powell-industries-vp-mauney-sells-56488-in-stock-93CH-4955554",
     "SG Banks|https://www.investing.com/news/insider-trading-news/on-semiconductor-group-president-sudhir-gopalswamy-sells-125m-in-shares-93CH-4955555",
     "Watchlist|https://www.investing.com/news/insider-trading-news/powell-industries-vp-mauney-sells-56488-in-stock-93CH-4955554",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/on-semiconductor-group-president-sudhir-gopalswamy-sells-125m-in-shares-93CH-4955555"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/on-semiconductor-group-president-sudhir-gopalswamy-sells-125m-in-shares-93CH-4955555",
+    "AI|1486a742-324d-3550-bf12-93a0141ef14c",
+    "Watchlist|1486a742-324d-3550-bf12-93a0141ef14c"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792269681.623601
+  "last_check": 1792270592.3342013
 }
