@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/american-airlines-names-new-network-planning-chief-in-fresh-management-shakeup-4952372",
-    "AI|https://www.investing.com/news/stock-market-news/pennsylvania-secures-4-billion-in-investments-governor-says-4952374",
     "AI|https://www.investing.com/news/company-news/international-paper-evaluates-bids-for-emea-packaging-unit-93CH-4952376",
     "AI|https://www.investing.com/news/economy-news/us-issues-fresh-iranrelated-sanctions-treasury-website-shows-4952378",
     "AI|https://www.investing.com/news/stock-market-news/stellantis-tests-dieselhybrid-powertrain-for-commercial-vans-93CH-4952379",
@@ -5000,7 +4998,9 @@
     "AI|https://www.investing.com/news/insider-trading-news/everpure-director-scott-dietzen-sells-85m-in-company-stock-93CH-4955252",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/everpure-director-scott-dietzen-sells-85m-in-company-stock-93CH-4955252",
     "SG Banks|https://www.investing.com/news/insider-trading-news/everpure-director-scott-dietzen-sells-85m-in-company-stock-93CH-4955252",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/everpure-director-scott-dietzen-sells-85m-in-company-stock-93CH-4955252"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/everpure-director-scott-dietzen-sells-85m-in-company-stock-93CH-4955252",
+    "AI|0f4bceb8-bdc4-394f-b1f2-2591a099f77c",
+    "Watchlist|0f4bceb8-bdc4-394f-b1f2-2591a099f77c"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792216576.0797322
+  "last_check": 1792217503.6318405
 }
