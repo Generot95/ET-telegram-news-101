@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/genpact-board-declares-01875-quarterly-dividend-93CH-4952574",
-    "SG Banks|https://www.investing.com/news/commodities-news/yemens-houthis-hit-palace-in-aden-coalition-details-attacks-on-saudi-infrastructure-4952575",
-    "SG Banks|https://www.investing.com/news/company-news/fvcbankcorp-declares-007-quarterly-dividend-93CH-4952577",
-    "SG Banks|https://www.investing.com/news/company-news/frazier-life-sciences-spac-raises-75m-in-nasdaq-ipo-93CH-4952576",
-    "SG Banks|https://www.investing.com/news/company-news/nyxoah-presents-12month-data-for-sleep-apnea-device-study-93CH-4952579",
     "SG Banks|https://www.investing.com/news/company-news/fortune-brands-to-sell-fiberon-decking-unit-to-inteplast-93CH-4952578",
     "SG Banks|https://www.investing.com/news/company-news/macrogenics-doses-first-patient-in-mgc030-cancer-trial-93CH-4952580",
     "SG Banks|https://www.investing.com/news/company-news/albertsons-adds-harmit-singh-to-board-of-directors-93CH-4952581",
@@ -5000,7 +4995,12 @@
     "War|ecb4b6e2-9538-3cad-a7e7-ba57bd3347db",
     "AI|6fbe7ae1-1df3-31c4-9fd6-69d0113a85ee",
     "Crypto|80d25737-f741-3c3c-a5df-2a70f6fa8ffb",
-    "Watchlist|6fbe7ae1-1df3-31c4-9fd6-69d0113a85ee"
+    "Watchlist|6fbe7ae1-1df3-31c4-9fd6-69d0113a85ee",
+    "Iran|https://www.iranintl.com/en/202610172959",
+    "AI|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4955590",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4955590",
+    "SG Banks|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4955590",
+    "Watchlist|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4955590"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792272427.195505
+  "last_check": 1792273340.3974092
 }
