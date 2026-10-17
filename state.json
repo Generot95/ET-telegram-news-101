@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/company-news/reinsurance-group-of-america-stock-hits-alltime-high-at-26527-usd-93CH-4952503",
-    "Watchlist|https://www.investing.com/news/company-news/global-net-lease-stock-hits-52week-low-at-748-93CH-4952504",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/eos-climbs-10-as-investors-gain-confidence-4949545",
-    "Watchlist|8a588edb-0a37-33f4-8fb3-7d0406734206",
-    "AI|5ad9e2be-8650-38db-aaca-31ba738a1ccf",
-    "Watchlist|5ad9e2be-8650-38db-aaca-31ba738a1ccf",
-    "Watchlist|98ef200b-5983-3bd0-b900-2aac1af1ae58",
-    "AI|21bae948-d204-3c45-9467-aa12ef141848",
     "Watchlist|21bae948-d204-3c45-9467-aa12ef141848",
     "AI|c30ef34e-bec5-3db5-9e11-7e9f78ff74d1",
     "Watchlist|c30ef34e-bec5-3db5-9e11-7e9f78ff74d1",
@@ -5000,7 +4992,15 @@
     "AI|2bb668f3-4972-31d2-bb7d-cf828b406e14",
     "Watchlist|2bb668f3-4972-31d2-bb7d-cf828b406e14",
     "AI|6e06cff1-131d-346b-98e0-fb2178c14143",
-    "Watchlist|6e06cff1-131d-346b-98e0-fb2178c14143"
+    "Watchlist|6e06cff1-131d-346b-98e0-fb2178c14143",
+    "Crypto|a711cebe-1208-37ec-984d-22e433c8dfca",
+    "AI|57ccf265-8c2e-3e1c-8039-905267d33a05",
+    "AI|a77e9d51-e8c0-36c1-9517-786477712a44",
+    "Crypto|6ba0d954-0bde-3b56-acad-8dc8f79977e3",
+    "Watchlist|57ccf265-8c2e-3e1c-8039-905267d33a05",
+    "Watchlist|a77e9d51-e8c0-36c1-9517-786477712a44",
+    "Watchlist|d30d40ac-af52-3fac-9622-662dbad1a32e",
+    "AI|e726fde3-ecf7-3517-96f9-a5e1164d8d4d"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792257777.4972982
+  "last_check": 1792258709.2775764
 }
