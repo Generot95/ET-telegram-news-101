@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|b648b344-cecf-3c31-ac54-9b972987126e",
-    "War|aca91031-788a-4cb3-8237-2692960d6c2e",
-    "War|https://www.investing.com/news/commodities-news/northwest-european-gasoline-margins-jump-9-after-monthly-low-93CH-4952483",
-    "AI|https://www.investing.com/news/economy-news/anthropic-grants-ai-evaluator-metr-employeelevel-access-to-its-models-4952420",
-    "AI|https://www.investing.com/news/company-news/atlassian-stock-hits-52week-high-at-21479-usd-93CH-4952479",
-    "AI|https://www.investing.com/news/company-news/richard-dean-dr-mccormick-purchases-berkshire-hathaway-incs-common-stock-93CH-4952480",
-    "AI|https://www.investing.com/news/company-news/richard-w-allen-of-ga12-sells-shares-in-autozone-and-costco-93CH-4952481",
     "AI|https://www.investing.com/news/stock-market-news/air-global-sets-firstever-dividend-100m-buyback-amid-business-cash-strength-4952482",
     "AI|https://www.investing.com/news/commodities-news/northwest-european-gasoline-margins-jump-9-after-monthly-low-93CH-4952483",
     "AI|https://www.investing.com/news/economic-indicators/diesels-surge-is-starting-to-push-other-prices-around-heres-how-4952484",
@@ -5000,7 +4993,14 @@
     "Cybersecurity|https://www.investing.com/news/economy-news/bank-of-canada-sees-sharply-higher-inflation-outlook-as-oil-surges-macklem-says-4955437",
     "SG Banks|https://www.investing.com/news/economy-news/bank-of-canada-sees-sharply-higher-inflation-outlook-as-oil-surges-macklem-says-4955437",
     "Watchlist|https://www.investing.com/news/economy-news/bank-of-canada-sees-sharply-higher-inflation-outlook-as-oil-surges-macklem-says-4955437",
-    "Crypto|4b5038ff-d07d-35a6-ae84-c56d666d076e"
+    "Crypto|4b5038ff-d07d-35a6-ae84-c56d666d076e",
+    "War|686454da-f3df-35ee-bffe-55b2db049bb2",
+    "Crypto|e040cc04-799c-3234-af23-93e4277599d7",
+    "AI|63467081-3a3e-3eed-a3b3-e9c369a00da0",
+    "AI|6118f6d4-e3af-3c95-9131-b38ee92f7463",
+    "Watchlist|63467081-3a3e-3eed-a3b3-e9c369a00da0",
+    "Watchlist|6118f6d4-e3af-3c95-9131-b38ee92f7463",
+    "Watchlist|9f237809-1fd1-4cd8-855b-eac7a4f9af05"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792246799.8054085
+  "last_check": 1792247722.9397247
 }
