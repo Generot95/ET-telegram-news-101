@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|a7265b5b-08e0-302e-a922-690f66b2fba0",
-    "War|bf9681ca-800d-38b4-a46b-c09fca7bcdfb",
-    "War|WP-MKTW-0005285289",
-    "AI|f41a16c5-3058-3301-88ba-4efd4d784b3d",
-    "AI|bf9681ca-800d-38b4-a46b-c09fca7bcdfb",
     "AI|51cae880-22df-3597-9241-de71aae77d67",
     "AI|WP-MKTW-0005285289",
     "Cybersecurity|WP-MKTW-0005285289",
@@ -5000,7 +4995,12 @@
     "Watchlist|ea24951f-ce52-3522-96d1-1066e9caf9a2",
     "War|6a1b9ec0-ce44-3bb9-b054-9db0f9f9d221",
     "AI|ea24951f-ce52-3522-96d1-1066e9caf9a2",
-    "Crypto|8a1dbd39-2e6c-3cde-bcb6-44cc65da704c"
+    "Crypto|8a1dbd39-2e6c-3cde-bcb6-44cc65da704c",
+    "AI|https://www.investing.com/news/insider-trading-news/paylocity-executive-chairman-steven-beauchamp-sells-248m-in-stock-93CH-4955278",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/paylocity-executive-chairman-steven-beauchamp-sells-248m-in-stock-93CH-4955278",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/paylocity-executive-chairman-steven-beauchamp-sells-248m-in-stock-93CH-4955278",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/paylocity-executive-chairman-steven-beauchamp-sells-248m-in-stock-93CH-4955278",
+    "SG Banks|https://www.channelnewsasia.com/business/anthropic-quietly-pitches-its-own-ai-safety-bill-us-lawmakers-6467581"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792219321.083971
+  "last_check": 1792220239.422427
 }
