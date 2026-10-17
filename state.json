@@ -1,22 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|8fb2b657-dc4e-3570-a6e6-dcdbd264d460",
-    "AI|b95b8e30-4d7d-39a7-80b2-ca9a84c598c2",
-    "Watchlist|fd76eda7-d111-30f3-aaae-d3003ee4662e",
-    "Watchlist|b95b8e30-4d7d-39a7-80b2-ca9a84c598c2",
-    "Watchlist|1f47bfa5-2a8c-3311-86de-f0a644996604",
-    "War|WP-MKTW-0005289228",
-    "AI|1f47bfa5-2a8c-3311-86de-f0a644996604",
-    "AI|WP-MKTW-0005289228",
-    "Cybersecurity|WP-MKTW-0005289228",
-    "War|45a9ae7d-80e2-31e4-b7b6-528f48cb082a",
-    "War|ed6c2aec-1335-38d5-a9f8-bbf024c94b21",
-    "Crypto|df042861-a0fa-3db2-9157-6559fe2d6881",
-    "Watchlist|e570eec3-4bbb-3c33-a755-3dc109260e83",
-    "Watchlist|a5829aaa-b33d-3618-a8d7-1620561b898f",
-    "War|32164085-05ea-4630-9dc8-5234468e2164",
-    "AI|85eda056-69f4-367b-90f2-87c1581b8590",
     "Watchlist|85eda056-69f4-367b-90f2-87c1581b8590",
     "AI|10c579cd-877c-380f-96f0-389f633c3ae0",
     "AI|9ae2e68f-1b0a-34d0-aa6c-77629be52768",
@@ -5000,7 +4984,23 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/united-therapeutics-chairperson--ceo-sells-519m-in-stock-93CH-4955240",
     "Watchlist|https://www.investing.com/news/insider-trading-news/united-therapeutics-chairperson--ceo-sells-519m-in-stock-93CH-4955240",
     "AI|c0baf1d6-1d4f-32e2-908b-7be4ab6524da",
-    "Watchlist|c0baf1d6-1d4f-32e2-908b-7be4ab6524da"
+    "Watchlist|c0baf1d6-1d4f-32e2-908b-7be4ab6524da",
+    "AI|298b7cf9-09da-3751-b9e4-2ed421bf53ea",
+    "AI|d894c6ea-4c89-39fc-b4d8-a436a8b5f755",
+    "Watchlist|298b7cf9-09da-3751-b9e4-2ed421bf53ea",
+    "Watchlist|d894c6ea-4c89-39fc-b4d8-a436a8b5f755",
+    "AI|7bcda51e-d771-3abf-ad2d-ebef081c593b",
+    "Watchlist|7bcda51e-d771-3abf-ad2d-ebef081c593b",
+    "AI|https://www.investing.com/news/insider-trading-news/eeme-energy-spv-i-buys-142m-in-xcf-global-stock-93CH-4955244",
+    "AI|https://www.investing.com/news/company-news/arrested-openai-engineer-seeks-bail-denies-plans-to-flee-us-4955246",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/eeme-energy-spv-i-buys-142m-in-xcf-global-stock-93CH-4955244",
+    "Cybersecurity|https://www.investing.com/news/company-news/arrested-openai-engineer-seeks-bail-denies-plans-to-flee-us-4955246",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/eeme-energy-spv-i-buys-142m-in-xcf-global-stock-93CH-4955244",
+    "SG Banks|https://www.investing.com/news/company-news/arrested-openai-engineer-seeks-bail-denies-plans-to-flee-us-4955246",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/eeme-energy-spv-i-buys-142m-in-xcf-global-stock-93CH-4955244",
+    "Watchlist|https://www.investing.com/news/company-news/arrested-openai-engineer-seeks-bail-denies-plans-to-flee-us-4955246",
+    "AI|29e4633c-fe52-3576-9a86-06acb320107f",
+    "Watchlist|29e4633c-fe52-3576-9a86-06acb320107f"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792214740.6184716
+  "last_check": 1792215671.1048434
 }
