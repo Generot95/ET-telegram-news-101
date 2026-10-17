@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/unicredit-gets-ecb-approval-to-raise-commerzbank-stake-past-30-4952425",
-    "AI|https://www.investing.com/news/stock-market-news/factboxcoreweaves-ai-contracts-and-the-lenders-financing-its-buildout-4952427",
-    "AI|https://www.investing.com/news/stock-market-news/amazon-launches-two-new-portable-ai-listening-devices-4952429",
-    "AI|https://www.investing.com/news/stock-market-news/top-biotech-stock-guggenheim-names-surrozen-as-best-pick-4952431",
-    "AI|https://www.investing.com/news/stock-market-news/target-says-it-does-not-use-customer-data-to-raise-prices-4952432",
-    "AI|https://www.investing.com/news/stock-market-news/volvo-cars-expands-automated-driving-partnership-with-nvidia-4952421",
-    "AI|https://www.investing.com/news/company-news/thermo-fisher-scientific-stock-hits-alltime-high-at-69433-usd-93CH-4952424",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-brunello-cucinelli-lifts-2026-outlook-in-q3-2026-93CH-4952423",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/unicredit-gets-ecb-approval-to-raise-commerzbank-stake-past-30-4952425",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/factboxcoreweaves-ai-contracts-and-the-lenders-financing-its-buildout-4952427",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/amazon-launches-two-new-portable-ai-listening-devices-4952429",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/top-biotech-stock-guggenheim-names-surrozen-as-best-pick-4952431",
@@ -5000,7 +4991,16 @@
     "Watchlist|9d939eff-be6a-3e76-b907-c3553a5d85e1",
     "War|WP-MKTW-0005289572",
     "AI|WP-MKTW-0005289572",
-    "Cybersecurity|WP-MKTW-0005289572"
+    "Cybersecurity|WP-MKTW-0005289572",
+    "Crypto|88bf0a8a-4112-3449-b152-87abc3f5986e",
+    "AI|https://www.investing.com/news/insider-trading-news/nuveen-municipal-credit-fund-trustee-toth-sells-71811-in-shares-93CH-4955363",
+    "AI|https://www.investing.com/news/insider-trading-news/idt-director-judah-schorr-sells-112m-in-class-b-common-stock-93CH-4955364",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/nuveen-municipal-credit-fund-trustee-toth-sells-71811-in-shares-93CH-4955363",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/idt-director-judah-schorr-sells-112m-in-class-b-common-stock-93CH-4955364",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/nuveen-municipal-credit-fund-trustee-toth-sells-71811-in-shares-93CH-4955363",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/idt-director-judah-schorr-sells-112m-in-class-b-common-stock-93CH-4955364",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/nuveen-municipal-credit-fund-trustee-toth-sells-71811-in-shares-93CH-4955363",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/idt-director-judah-schorr-sells-112m-in-class-b-common-stock-93CH-4955364"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792230318.8280287
+  "last_check": 1792231223.7902775
 }
