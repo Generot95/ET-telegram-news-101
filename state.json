@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Crypto|ed45c648-811a-4626-bf43-1fe1c9339ed4",
-    "Cybersecurity|3f408a70-f2f1-305a-a47c-1427ff8220a4",
-    "Watchlist|f06023a8-b554-3b25-aa5b-603394c2f2bb",
-    "SG Banks|https://www.channelnewsasia.com/business/germany-plans-ai-cooperation-deal-nvidia-handelsblatt-says-6463176",
     "AI|https://www.investing.com/news/company-news/cmc-q4-fy2026-slides-margins-expand-tag-program-beats-targets-93CH-4952352",
     "AI|https://www.investing.com/news/stock-market-news/us-bancorp-earnings-analysis-questions-answered-and-next-catalysts-93CH-4952353",
     "AI|https://www.investing.com/news/stock-market-news/tsmc-earnings-analysis-questions-answered-and-next-catalysts-93CH-4952354",
@@ -5000,7 +4996,11 @@
     "Watchlist|https://www.investing.com/news/world-news/mexican-judge-gives-three-men-158-years-in-australian-us-surfers-murders-4955145",
     "Watchlist|https://www.investing.com/news/world-news/hacker-gets-data-on-millions-of-california-students-state-education-department-says-4955148",
     "SG Banks|b2d2ccef-91a4-3830-9ed8-b5a8cf0a30b0",
-    "SG Banks|/international/global/hsbc-moves-wall-street-bonus-model-cuts-fixed-pay-deals"
+    "SG Banks|/international/global/hsbc-moves-wall-street-bonus-model-cuts-fixed-pay-deals",
+    "AI|https://www.investing.com/news/insider-trading-news/qualcomm-evp-ann-chaplin-sells-319268-in-common-stock-93CH-4955188",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/qualcomm-evp-ann-chaplin-sells-319268-in-common-stock-93CH-4955188",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/qualcomm-evp-ann-chaplin-sells-319268-in-common-stock-93CH-4955188",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/qualcomm-evp-ann-chaplin-sells-319268-in-common-stock-93CH-4955188"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792209257.9618866
+  "last_check": 1792210178.2819765
 }
