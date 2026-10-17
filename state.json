@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/forex-news/argentina-halts-local-dollar-bond-sales-as-yields-surge-93CH-4952498",
-    "SG Banks|https://www.investing.com/news/stock-market-news/explainerwhy-coreweaves-troubles-are-rattling-the-ai-boom-4952500",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/saba-capital-management-sells-43070-in-pimco-dynamic-income-strategy-fund-93CH-4952501",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-nexgen-energy-stock-rallying-today-93CH-4952502",
-    "SG Banks|https://www.investing.com/news/company-news/reinsurance-group-of-america-stock-hits-alltime-high-at-26527-usd-93CH-4952503",
-    "SG Banks|https://www.investing.com/news/company-news/global-net-lease-stock-hits-52week-low-at-748-93CH-4952504",
-    "Watchlist|https://www.investing.com/news/economy-news/china-central-bank-chief-urges-broader-view-on-global-imbalances-93CH-4952494",
     "Watchlist|https://www.investing.com/news/company-news/home-bancshares-q3-2026-slides-record-profit-efficiency-gains-93CH-4952495",
     "Watchlist|https://www.investing.com/news/stock-market-news/catalio-capital-seeks-500-million-for-ai-healthcare-startups--bloomberg-93CH-4952496",
     "Watchlist|https://www.investing.com/news/forex-news/argentina-halts-local-dollar-bond-sales-as-yields-surge-93CH-4952498",
@@ -5000,7 +4993,14 @@
     "AI|https://www.investing.com/news/stock-market-news/memory-stocks-is-the-wall-of-worry-justified-4955476",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/memory-stocks-is-the-wall-of-worry-justified-4955476",
     "SG Banks|https://www.investing.com/news/stock-market-news/memory-stocks-is-the-wall-of-worry-justified-4955476",
-    "Watchlist|https://www.investing.com/news/stock-market-news/memory-stocks-is-the-wall-of-worry-justified-4955476"
+    "Watchlist|https://www.investing.com/news/stock-market-news/memory-stocks-is-the-wall-of-worry-justified-4955476",
+    "War|230f6fa5-5859-4bed-8af8-e748a3022ecc",
+    "AI|dafa2022-096d-3328-b249-55631f7fb95d",
+    "AI|dfdd7869-7942-3b10-922a-fbcf69738967",
+    "AI|da478984-2c59-32f6-b138-6278c6b6204d",
+    "Watchlist|dafa2022-096d-3328-b249-55631f7fb95d",
+    "Watchlist|dfdd7869-7942-3b10-922a-fbcf69738967",
+    "Watchlist|da478984-2c59-32f6-b138-6278c6b6204d"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792255050.2344089
+  "last_check": 1792255949.3588061
 }
