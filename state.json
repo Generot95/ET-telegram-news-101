@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|51cae880-22df-3597-9241-de71aae77d67",
-    "AI|WP-MKTW-0005285289",
     "Cybersecurity|WP-MKTW-0005285289",
     "Watchlist|f41a16c5-3058-3301-88ba-4efd4d784b3d",
     "Watchlist|bf9681ca-800d-38b4-a46b-c09fca7bcdfb",
@@ -5000,7 +4998,9 @@
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/paylocity-executive-chairman-steven-beauchamp-sells-248m-in-stock-93CH-4955278",
     "SG Banks|https://www.investing.com/news/insider-trading-news/paylocity-executive-chairman-steven-beauchamp-sells-248m-in-stock-93CH-4955278",
     "Watchlist|https://www.investing.com/news/insider-trading-news/paylocity-executive-chairman-steven-beauchamp-sells-248m-in-stock-93CH-4955278",
-    "SG Banks|https://www.channelnewsasia.com/business/anthropic-quietly-pitches-its-own-ai-safety-bill-us-lawmakers-6467581"
+    "SG Banks|https://www.channelnewsasia.com/business/anthropic-quietly-pitches-its-own-ai-safety-bill-us-lawmakers-6467581",
+    "AI|73310bc6-27c6-3b11-b1e4-b97ee9a68aed",
+    "Watchlist|73310bc6-27c6-3b11-b1e4-b97ee9a68aed"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792220239.422427
+  "last_check": 1792221159.5038528
 }
