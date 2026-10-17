@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/catalio-capital-seeks-500-million-for-ai-healthcare-startups--bloomberg-93CH-4952496",
-    "AI|https://www.investing.com/news/forex-news/argentina-halts-local-dollar-bond-sales-as-yields-surge-93CH-4952498",
-    "AI|https://www.investing.com/news/stock-market-news/explainerwhy-coreweaves-troubles-are-rattling-the-ai-boom-4952500",
     "AI|https://www.investing.com/news/insider-trading-news/saba-capital-management-sells-43070-in-pimco-dynamic-income-strategy-fund-93CH-4952501",
     "AI|https://www.investing.com/news/stock-market-news/why-is-nexgen-energy-stock-rallying-today-93CH-4952502",
     "AI|https://www.investing.com/news/company-news/reinsurance-group-of-america-stock-hits-alltime-high-at-26527-usd-93CH-4952503",
@@ -5000,7 +4997,10 @@
     "Watchlist|06354a21-62cb-341e-b888-1ce98753a8a3",
     "AI|7b58d951-8d7e-3d5c-9386-fc9eb435fb79",
     "Watchlist|7b58d951-8d7e-3d5c-9386-fc9eb435fb79",
-    "Crypto|abe5c5db-b065-366e-a93e-43f93634e3d7"
+    "Crypto|abe5c5db-b065-366e-a93e-43f93634e3d7",
+    "AI|162c17f7-7a0b-314d-aa5c-974a3afc17aa",
+    "Watchlist|162c17f7-7a0b-314d-aa5c-974a3afc17aa",
+    "Crypto|95d4cdff-1442-3eba-bf80-4ba49c05a7cb"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792252291.8002253
+  "last_check": 1792253203.35802
 }
