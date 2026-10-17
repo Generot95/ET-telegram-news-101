@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|/companies-markets/jardine-matheson-raises-2026-earnings-guidance-high-us5-65-share",
-    "SG Banks|/companies-markets/meta-says-new-muse-model-reaches-ai-frontier-after-aggressive-push",
-    "SG Banks|/companies-markets/capital-markets-currencies/south-korea-shares-fall-asian-stocks-decline-tracking-us-chip-losses",
-    "SG Banks|https://www.straitstimes.com/business/getty-images-to-go-private-under-prepackaged-bankruptcy",
-    "Watchlist|05512390-910b-3ce4-943a-3cf9a65824dc",
-    "Watchlist|/international/global/hsbc-moves-wall-street-bonus-model-cuts-fixed-pay-deals",
-    "Watchlist|/companies-markets/energy-commodities/gold-edges-down-traders-monitor-oil-prices-fed-rate-outlook",
-    "Watchlist|/companies-markets/stocks-watch-jardine-matheson-frasers-property-advanced-systems-automation-southern-alliance-mining",
-    "Watchlist|/companies-markets/jardine-matheson-raises-2026-earnings-guidance-high-us5-65-share",
     "Watchlist|/companies-markets/meta-says-new-muse-model-reaches-ai-frontier-after-aggressive-push",
     "Watchlist|/companies-markets/capital-markets-currencies/south-korea-shares-fall-asian-stocks-decline-tracking-us-chip-losses",
     "AI|b06a2d36-5dbf-3acc-a1bc-fa04c68a535b",
@@ -5000,7 +4991,16 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/oildri-group-vp-christopher-lamson-sells-561890-in-stock-93CH-4955217",
     "Watchlist|https://www.investing.com/news/insider-trading-news/oildri-director-amy-ryan-sells-86680-in-company-stock-93CH-4955218",
     "Watchlist|https://www.investing.com/news/insider-trading-news/progyny-coo-melissa-cummings-sells-52612-in-shares-93CH-4955219",
-    "Iran|https://www.iranintl.com/en/202610100942"
+    "Iran|https://www.iranintl.com/en/202610100942",
+    "War|7b9bd6c9-e6f0-384d-b8aa-9cdebaaef509",
+    "AI|https://www.investing.com/news/economy-news/what-would-superintelligence-look-and-feel-like-4955224",
+    "AI|https://www.investing.com/news/economy-news/boj-may-need-to-tighten-faster-if-inflation-beats-forecast-imf-says-4955234",
+    "Cybersecurity|https://www.investing.com/news/economy-news/what-would-superintelligence-look-and-feel-like-4955224",
+    "Cybersecurity|https://www.investing.com/news/economy-news/boj-may-need-to-tighten-faster-if-inflation-beats-forecast-imf-says-4955234",
+    "SG Banks|https://www.investing.com/news/economy-news/what-would-superintelligence-look-and-feel-like-4955224",
+    "SG Banks|https://www.investing.com/news/economy-news/boj-may-need-to-tighten-faster-if-inflation-beats-forecast-imf-says-4955234",
+    "Watchlist|https://www.investing.com/news/economy-news/what-would-superintelligence-look-and-feel-like-4955224",
+    "Watchlist|https://www.investing.com/news/economy-news/boj-may-need-to-tighten-faster-if-inflation-beats-forecast-imf-says-4955234"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792212015.6168718
+  "last_check": 1792212910.0055342
 }
