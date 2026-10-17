@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/factboxcoreweaves-ai-contracts-and-the-lenders-financing-its-buildout-4952427",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/amazon-launches-two-new-portable-ai-listening-devices-4952429",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/top-biotech-stock-guggenheim-names-surrozen-as-best-pick-4952431",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/target-says-it-does-not-use-customer-data-to-raise-prices-4952432",
-    "Cybersecurity|https://www.investing.com/news/company-news/thermo-fisher-scientific-stock-hits-alltime-high-at-69433-usd-93CH-4952424",
     "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-brunello-cucinelli-lifts-2026-outlook-in-q3-2026-93CH-4952423",
     "SG Banks|https://www.investing.com/news/stock-market-news/unicredit-gets-ecb-approval-to-raise-commerzbank-stake-past-30-4952425",
     "SG Banks|https://www.investing.com/news/stock-market-news/factboxcoreweaves-ai-contracts-and-the-lenders-financing-its-buildout-4952427",
@@ -5000,7 +4995,12 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/nuveen-municipal-credit-fund-trustee-toth-sells-71811-in-shares-93CH-4955363",
     "SG Banks|https://www.investing.com/news/insider-trading-news/idt-director-judah-schorr-sells-112m-in-class-b-common-stock-93CH-4955364",
     "Watchlist|https://www.investing.com/news/insider-trading-news/nuveen-municipal-credit-fund-trustee-toth-sells-71811-in-shares-93CH-4955363",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/idt-director-judah-schorr-sells-112m-in-class-b-common-stock-93CH-4955364"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/idt-director-judah-schorr-sells-112m-in-class-b-common-stock-93CH-4955364",
+    "AI|2096fa51-cef5-4d96-b062-1545abbe91b8",
+    "AI|228c921c-b3b5-3c38-9086-ae696aff4774",
+    "AI|485d2033-697c-35a4-b02c-0f7a860dc0b0",
+    "Watchlist|485d2033-697c-35a4-b02c-0f7a860dc0b0",
+    "Watchlist|228c921c-b3b5-3c38-9086-ae696aff4774"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792231223.7902775
+  "last_check": 1792232150.7123468
 }
