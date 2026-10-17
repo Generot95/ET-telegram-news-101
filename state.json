@@ -1,20 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/cnn-and-google-announce-multiyear-partnership-deal-93CH-4952396",
-    "Watchlist|https://www.investing.com/news/stock-market-news/cnn-signs-multiyear-ai-partnership-with-google-4952397",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/truist-reiterates-buy-on-digitalocean-stock-cites-ai-ease-of-use-93CH-4952398",
-    "Watchlist|https://www.investing.com/news/company-news/international-paper-evaluates-sale-of-emea-packaging-unit-93CH-4952406",
-    "Iran|https://www.iranintl.com/en/202610139592",
-    "SG Banks|/companies-markets/asean-needs-come-together-single-market-continue-attracting-investments-pm-wong",
-    "SG Banks|https://www.straitstimes.com/business/gold-rebounds-on-weaker-dollar-yield-drop",
-    "Watchlist|/companies-markets/asean-needs-come-together-single-market-continue-attracting-investments-pm-wong",
-    "Watchlist|815d8fcb-74dd-370b-bc29-85c3c1b3323c",
-    "Watchlist|2d375078-e7b3-38a5-ae05-ca909c6f2866",
-    "Watchlist|91b1e9b9-17a7-3989-8a3e-f76d17d2e122",
-    "AI|7304d7ba-f5d5-3002-a573-1e714b8777c0",
-    "AI|d737714b-9205-3616-b85c-2762b3f20d04",
-    "Watchlist|7304d7ba-f5d5-3002-a573-1e714b8777c0",
     "Watchlist|d737714b-9205-3616-b85c-2762b3f20d04",
     "Watchlist|bd6a8760-3cc5-3d94-be25-b357d39cf932",
     "AI|da344490-8e7d-3d9b-a4aa-79065aa630f5",
@@ -5000,7 +4986,21 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/marvell-ceo-matthew-murphy-reports-177-million-marvell-stock-sale-93CH-4955311",
     "Watchlist|https://www.investing.com/news/economy-news/china-ai-supplychain-ipos-hold-firm-despite-valuation-pullback-citi-says-4955300",
     "Watchlist|a3d16e7d-1c7d-35d9-b9f4-0c125b0af6f6",
-    "AI|a3d16e7d-1c7d-35d9-b9f4-0c125b0af6f6"
+    "AI|a3d16e7d-1c7d-35d9-b9f4-0c125b0af6f6",
+    "AI|https://www.investing.com/news/economy-news/ecbs-lagarde-says-bond-selloff-will-slow-inflation-4955322",
+    "AI|https://www.investing.com/news/insider-trading-news/moderna-president-stephen-hoge-sells-17m-in-stock-93CH-4955328",
+    "AI|https://www.investing.com/news/forex-news/whats-the-likelihood-of-yen-carry-trade-reversing-4955329",
+    "Cybersecurity|https://www.investing.com/news/economy-news/ecbs-lagarde-says-bond-selloff-will-slow-inflation-4955322",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/moderna-president-stephen-hoge-sells-17m-in-stock-93CH-4955328",
+    "Cybersecurity|https://www.investing.com/news/forex-news/whats-the-likelihood-of-yen-carry-trade-reversing-4955329",
+    "SG Banks|https://www.investing.com/news/economy-news/ecbs-lagarde-says-bond-selloff-will-slow-inflation-4955322",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/moderna-president-stephen-hoge-sells-17m-in-stock-93CH-4955328",
+    "SG Banks|https://www.investing.com/news/forex-news/whats-the-likelihood-of-yen-carry-trade-reversing-4955329",
+    "Watchlist|https://www.investing.com/news/economy-news/ecbs-lagarde-says-bond-selloff-will-slow-inflation-4955322",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/moderna-president-stephen-hoge-sells-17m-in-stock-93CH-4955328",
+    "Watchlist|https://www.investing.com/news/forex-news/whats-the-likelihood-of-yen-carry-trade-reversing-4955329",
+    "Iran|https://www.iranintl.com/en/202610139592",
+    "SG Banks|https://www.straitstimes.com/business/gold-rebounds-on-weaker-dollar-yield-drop"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792224815.1829572
+  "last_check": 1792225730.092888
 }
