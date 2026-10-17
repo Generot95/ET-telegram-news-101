@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/xpeng-to-integrate-google-play-into-vehicles-in-early-2027-93CH-4952283",
-    "Cybersecurity|https://www.investing.com/news/transcripts/innoviz-at-the-thinkequity-conference-defense-push-broadens-lidar-case-93CH-4952284",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-jio-financial-posts-strong-q2-2027-growth-as-stock-stays-flat-93CH-4952285",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/tether-global-investments-fund-buys-27m-in-goldcom-stock-93CH-4952286",
-    "Cybersecurity|https://www.investing.com/news/company-news/allied-critical-metals-secures-major-european-union-strategic-designation-for-its-flagship-borralha-tungsten-project-4952276",
-    "SG Banks|https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-008-4952279",
-    "SG Banks|https://www.investing.com/news/company-news/tomtom-q3-2026-slides-margins-rise-despite-revenue-decline-93CH-4952281",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/william-blair-cuts-clarivate-stock-rating-on-takeprivate-deal-93CH-4952282",
-    "SG Banks|https://www.investing.com/news/company-news/xpeng-to-integrate-google-play-into-vehicles-in-early-2027-93CH-4952283",
-    "SG Banks|https://www.investing.com/news/transcripts/innoviz-at-the-thinkequity-conference-defense-push-broadens-lidar-case-93CH-4952284",
     "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-jio-financial-posts-strong-q2-2027-growth-as-stock-stays-flat-93CH-4952285",
     "SG Banks|https://www.investing.com/news/insider-trading-news/tether-global-investments-fund-buys-27m-in-goldcom-stock-93CH-4952286",
     "Watchlist|https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-008-4952279",
@@ -5000,7 +4990,17 @@
     "SG Banks|https://www.straitstimes.com/business/travel-booking-platform-klook-technology-files-to-withdraw-us-listing",
     "AI|a883ca70-6fcb-38b8-b822-90a1d8afcb44",
     "Watchlist|a883ca70-6fcb-38b8-b822-90a1d8afcb44",
-    "War|bd6e2b67-a98c-36ac-ae38-d8448db3c019"
+    "War|bd6e2b67-a98c-36ac-ae38-d8448db3c019",
+    "AI|ac0dd3e3-5d47-3fdb-9b03-7b340f3cf911",
+    "SG Banks|5c294f8b-d991-340f-84a4-665acfffe175",
+    "AI|https://www.investing.com/news/insider-trading-news/kingsway-president-and-ceo-john-fitzgerald-acquires-3477-of-common-stock-93CH-4955096",
+    "AI|https://www.investing.com/news/insider-trading-news/kingsway-cfo-kent-hansen-buys-1558-in-company-stock-93CH-4955097",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/kingsway-president-and-ceo-john-fitzgerald-acquires-3477-of-common-stock-93CH-4955096",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/kingsway-cfo-kent-hansen-buys-1558-in-company-stock-93CH-4955097",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/kingsway-president-and-ceo-john-fitzgerald-acquires-3477-of-common-stock-93CH-4955096",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/kingsway-cfo-kent-hansen-buys-1558-in-company-stock-93CH-4955097",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/kingsway-president-and-ceo-john-fitzgerald-acquires-3477-of-common-stock-93CH-4955096",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/kingsway-cfo-kent-hansen-buys-1558-in-company-stock-93CH-4955097"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792201022.7665963
+  "last_check": 1792201927.135998
 }
