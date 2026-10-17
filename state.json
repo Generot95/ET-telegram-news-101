@@ -1,27 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|f9f01149-21d8-34ce-b8c4-ed28a682713c",
-    "Watchlist|e32b966b-25ba-3cd4-91ea-bf2954bd9c12",
-    "Crypto|50dd0c4d-1840-30d5-b4e1-819b32c67889",
-    "War|0d6528c9-88c6-3167-8b93-900bb8422e33",
-    "War|50c51098-045f-3924-bf15-b63a371bd2a8",
-    "War|ec7e0da1-ae70-41f8-bf83-9eb65a6839c9",
-    "AI|4dc6f52e-e0b8-38fb-82c7-1217465e9540",
-    "AI|3f02d9b5-4149-3d83-8111-7a2e246fe926",
-    "AI|00c1dd8d-3e66-3db1-890c-d2dace7b94a3",
-    "AI|279c9525-2368-32d6-87e3-1a27965a8d92",
-    "AI|2167e9ce-3104-3e95-b0f7-c2a7a8fc65c8",
-    "Watchlist|3f02d9b5-4149-3d83-8111-7a2e246fe926",
-    "Watchlist|00c1dd8d-3e66-3db1-890c-d2dace7b94a3",
-    "Watchlist|279c9525-2368-32d6-87e3-1a27965a8d92",
-    "Watchlist|2167e9ce-3104-3e95-b0f7-c2a7a8fc65c8",
-    "SG Banks|/companies-markets/deluge-ipo-3-86-times-subscribed-ahead-sgx-debut",
-    "Watchlist|/companies-markets/deluge-ipo-3-86-times-subscribed-ahead-sgx-debut",
-    "AI|https://www.investing.com/news/company-news/caspian-sunrise-completes-taucen-acquisition-for-07m-93CH-4952258",
-    "AI|https://www.investing.com/news/company-news/pnc-q3-2026-presentation-strong-execution-drives-balanced-growth-93CH-4952265",
-    "AI|https://www.investing.com/news/stock-market-news/equinix-outlook-upgraded-to-positive-at-fitch-on-capital-discipline-scale-4952266",
-    "AI|https://www.investing.com/news/company-news/software-circle-share-premium-cancellation-creates-256m-reserves-93CH-4952268",
     "AI|https://www.investing.com/news/stock-market-news/southwest-revamps-loyalty-program-with-new-premium-tiers-4952269",
     "AI|https://www.investing.com/news/commodities-news/analysishow-the-houthis-are-helping-iran-turn-saudi-arabia-into-a-pressure-point-4951973",
     "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-tomtom-q3-2026-profit-gains-offset-revenue-decline-93CH-4952272",
@@ -5000,10 +4979,31 @@
     "Watchlist|105aa821-d157-3b0f-a86e-56417fc3a9b9",
     "Watchlist|0e9891f3-88b2-3275-9632-d7962bb5c578",
     "AI|596af860-67ee-3c68-a208-bfcfadf6a215",
-    "Watchlist|596af860-67ee-3c68-a208-bfcfadf6a215"
+    "Watchlist|596af860-67ee-3c68-a208-bfcfadf6a215",
+    "AI|https://www.investing.com/news/economy-news/iran-war-missiles-target-saudi-oil-hub-as-yemen-conflict-escalates-4955004",
+    "AI|https://www.investing.com/news/insider-trading-news/zone-frontier-ceo-tyler-hassen-buys-55150-in-common-stock-93CH-4955013",
+    "AI|https://www.investing.com/news/insider-trading-news/adaptive-biotechnologies-president--coo-rubinstein-sells-897k-stock-93CH-4955015",
+    "AI|https://www.investing.com/news/company-news/goldcana-plans-c1-million-flowthrough-private-placement-93CH-4955016",
+    "Cybersecurity|https://www.investing.com/news/economy-news/iran-war-missiles-target-saudi-oil-hub-as-yemen-conflict-escalates-4955004",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/zone-frontier-ceo-tyler-hassen-buys-55150-in-common-stock-93CH-4955013",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/adaptive-biotechnologies-president--coo-rubinstein-sells-897k-stock-93CH-4955015",
+    "Cybersecurity|https://www.investing.com/news/company-news/goldcana-plans-c1-million-flowthrough-private-placement-93CH-4955016",
+    "SG Banks|https://www.investing.com/news/economy-news/iran-war-missiles-target-saudi-oil-hub-as-yemen-conflict-escalates-4955004",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/zone-frontier-ceo-tyler-hassen-buys-55150-in-common-stock-93CH-4955013",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/adaptive-biotechnologies-president--coo-rubinstein-sells-897k-stock-93CH-4955015",
+    "SG Banks|https://www.investing.com/news/company-news/goldcana-plans-c1-million-flowthrough-private-placement-93CH-4955016",
+    "Watchlist|1b30f58f-c6f1-3c9e-a7a3-eebb1dcf0764",
+    "Watchlist|https://www.investing.com/news/economy-news/iran-war-missiles-target-saudi-oil-hub-as-yemen-conflict-escalates-4955004",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/zone-frontier-ceo-tyler-hassen-buys-55150-in-common-stock-93CH-4955013",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/adaptive-biotechnologies-president--coo-rubinstein-sells-897k-stock-93CH-4955015",
+    "Watchlist|https://www.investing.com/news/company-news/goldcana-plans-c1-million-flowthrough-private-placement-93CH-4955016",
+    "War|a5d82d92-5a19-3427-896b-ddcdd100ba8c",
+    "SG Banks|/companies-markets/deluge-ipo-3-86-times-subscribed-ahead-sgx-debut",
+    "Watchlist|/companies-markets/deluge-ipo-3-86-times-subscribed-ahead-sgx-debut",
+    "War|7dcec238-dd1e-31ce-8fe9-07abc45280f5"
   ],
   "topic_error": "",
-  "last_digest": "2026-10-16",
+  "last_digest": "2026-10-17",
   "earnings": {
     "AMD": {
       "ts": 1793736000,
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792194621.3552945
+  "last_check": 1792195532.8372936
 }
