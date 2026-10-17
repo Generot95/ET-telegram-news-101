@@ -1,22 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/company-news/tomtom-q3-2026-slides-margins-rise-despite-revenue-decline-93CH-4952281",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/william-blair-cuts-clarivate-stock-rating-on-takeprivate-deal-93CH-4952282",
-    "Watchlist|https://www.investing.com/news/company-news/xpeng-to-integrate-google-play-into-vehicles-in-early-2027-93CH-4952283",
-    "Watchlist|https://www.investing.com/news/transcripts/innoviz-at-the-thinkequity-conference-defense-push-broadens-lidar-case-93CH-4952284",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-jio-financial-posts-strong-q2-2027-growth-as-stock-stays-flat-93CH-4952285",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/tether-global-investments-fund-buys-27m-in-goldcom-stock-93CH-4952286",
-    "AI|80563cda-1ec9-3366-a757-8a51465e8434",
-    "Watchlist|80563cda-1ec9-3366-a757-8a51465e8434",
-    "AI|fe047957-437a-35e9-a9ae-b20a34148344",
-    "Watchlist|4811ff41-648b-313a-8869-d371c23584a0",
-    "Watchlist|e72b9c04-6a5a-3a8a-a869-d5b76a39f31f",
-    "AI|257dddeb-ac9f-4e7b-833a-ff37d5b8939c",
-    "AI|463a219b-52a1-3ad6-903d-93fe48adaebd",
-    "Watchlist|463a219b-52a1-3ad6-903d-93fe48adaebd",
-    "Watchlist|257dddeb-ac9f-4e7b-833a-ff37d5b8939c",
-    "Crypto|79272255-3443-4e5c-bc00-8865cdbbd13e",
     "War|e212822e-65a6-3de1-a6c1-5a1e1723e7a4",
     "AI|130d6f45-3770-3dfd-bed7-a889f0b0735b",
     "AI|a3b73a51-eb58-3d3d-ab82-f6f541db72d4",
@@ -5000,7 +4984,23 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/kingsway-cfo-kent-hansen-buys-1558-in-company-stock-93CH-4955097",
     "Cybersecurity|275ffc14-941a-35e2-816b-8fc0fadab70b",
     "SG Banks|/companies-markets/global-hedge-funds-hammered-ai-sell-week-asia-managers-lead-losses",
-    "Watchlist|/companies-markets/global-hedge-funds-hammered-ai-sell-week-asia-managers-lead-losses"
+    "Watchlist|/companies-markets/global-hedge-funds-hammered-ai-sell-week-asia-managers-lead-losses",
+    "AI|https://www.investing.com/news/insider-trading-news/grabagun-digital-coo-matthew-vittitow-sells-3805-in-shares-93CH-4955108",
+    "AI|https://www.investing.com/news/insider-trading-news/grabagun-ceo-nemati-sells-7600-in-shares-for-tax-obligations-93CH-4955109",
+    "AI|https://www.investing.com/news/company-news/anthropic-offers-blackstone-over-10-yield-in-60b-ai-chip-financing--ft-reports-4955122",
+    "AI|https://www.investing.com/news/insider-trading-news/natera-executive-chairman-matthew-rabinowitz-sells-201m-in-stock-93CH-4955123",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/grabagun-digital-coo-matthew-vittitow-sells-3805-in-shares-93CH-4955108",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/grabagun-ceo-nemati-sells-7600-in-shares-for-tax-obligations-93CH-4955109",
+    "Cybersecurity|https://www.investing.com/news/company-news/anthropic-offers-blackstone-over-10-yield-in-60b-ai-chip-financing--ft-reports-4955122",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/natera-executive-chairman-matthew-rabinowitz-sells-201m-in-stock-93CH-4955123",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/grabagun-digital-coo-matthew-vittitow-sells-3805-in-shares-93CH-4955108",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/grabagun-ceo-nemati-sells-7600-in-shares-for-tax-obligations-93CH-4955109",
+    "SG Banks|https://www.investing.com/news/company-news/anthropic-offers-blackstone-over-10-yield-in-60b-ai-chip-financing--ft-reports-4955122",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/natera-executive-chairman-matthew-rabinowitz-sells-201m-in-stock-93CH-4955123",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/grabagun-digital-coo-matthew-vittitow-sells-3805-in-shares-93CH-4955108",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/grabagun-ceo-nemati-sells-7600-in-shares-for-tax-obligations-93CH-4955109",
+    "Watchlist|https://www.investing.com/news/company-news/anthropic-offers-blackstone-over-10-yield-in-60b-ai-chip-financing--ft-reports-4955122",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/natera-executive-chairman-matthew-rabinowitz-sells-201m-in-stock-93CH-4955123"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792202850.0889633
+  "last_check": 1792203764.0622907
 }
