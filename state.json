@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|4740321b-9fd6-3d97-b8b6-fbd6334c078a",
-    "Watchlist|3344103e-41be-3095-98e2-c479de4f4d09",
-    "Watchlist|99e4148b-2e30-3da5-812c-6d410fe63118",
-    "Watchlist|4740321b-9fd6-3d97-b8b6-fbd6334c078a",
     "Watchlist|ae1cf62e-30be-3112-9ec5-4181307e9b31",
     "Watchlist|210278c9-cc57-37f7-b326-a3246dacd3ec",
     "Watchlist|46e94253-1b48-338a-bdd5-8d5fa80bcd42",
@@ -5000,7 +4996,11 @@
     "Watchlist|0e7c1d43-3bb9-332c-9de6-3345b806ed26",
     "Watchlist|/companies-markets/telcos-media-tech/netflix-cuts-about-6-jobs-biggest-layoff-2022-wsj-reports",
     "AI|89fd8bdc-9a6e-3159-97fd-797eab7ff556",
-    "Watchlist|89fd8bdc-9a6e-3159-97fd-797eab7ff556"
+    "Watchlist|89fd8bdc-9a6e-3159-97fd-797eab7ff556",
+    "Watchlist|0f871b32-86ed-30d6-9b7c-38ca57e50aba",
+    "AI|0f871b32-86ed-30d6-9b7c-38ca57e50aba",
+    "AI|e5dbb34a-3e19-335d-9abc-0e046b866286",
+    "Watchlist|e5dbb34a-3e19-335d-9abc-0e046b866286"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792264195.9134662
+  "last_check": 1792265113.9814625
 }
