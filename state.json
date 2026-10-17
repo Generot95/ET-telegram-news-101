@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/vistra-redeems-1-billion-in-preferred-stock-93CH-4952595",
-    "AI|https://www.investing.com/news/company-news/dow-declares-quarterly-dividend-of-35-cents-per-share-93CH-4952608",
-    "AI|https://www.investing.com/news/company-news/rocky-shore-gold-closes-c52m-private-placement-93CH-4952610",
-    "AI|https://www.investing.com/news/company-news/colony-bankcorp-shareholders-approve-first-reliance-acquisition-93CH-4952609",
     "AI|https://www.investing.com/news/company-news/crescent-biopharma-advances-cancer-drug-trials-across-portfolio-93CH-4952612",
     "AI|https://www.investing.com/news/company-news/proofpoint-to-acquire-varonis-for-63-billion-in-cash-93CH-4952611",
     "AI|https://www.investing.com/news/company-news/texas-instruments-declares-quarterly-dividend-of-152-93CH-4952620",
@@ -5000,7 +4996,11 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/limoneira-vp-cfo-hamm-sells-11905-of-common-stock-93CH-4955645",
     "SG Banks|https://www.investing.com/news/commodities-news/venezuela-expects-nearly-76-billion-in-oil-investment-over-five-years-acting-president-says-4955647",
     "Watchlist|https://www.investing.com/news/insider-trading-news/limoneira-vp-cfo-hamm-sells-11905-of-common-stock-93CH-4955645",
-    "Watchlist|https://www.investing.com/news/commodities-news/venezuela-expects-nearly-76-billion-in-oil-investment-over-five-years-acting-president-says-4955647"
+    "Watchlist|https://www.investing.com/news/commodities-news/venezuela-expects-nearly-76-billion-in-oil-investment-over-five-years-acting-president-says-4955647",
+    "AI|https://www.investing.com/news/economy-news/could-another-france-downgrade-put-the-eus-credit-rating-at-risk-4955657",
+    "Cybersecurity|https://www.investing.com/news/economy-news/could-another-france-downgrade-put-the-eus-credit-rating-at-risk-4955657",
+    "SG Banks|https://www.investing.com/news/economy-news/could-another-france-downgrade-put-the-eus-credit-rating-at-risk-4955657",
+    "Watchlist|https://www.investing.com/news/economy-news/could-another-france-downgrade-put-the-eus-credit-rating-at-risk-4955657"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792278832.1488948
+  "last_check": 1792279726.9932172
 }
