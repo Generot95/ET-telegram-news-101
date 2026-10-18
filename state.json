@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/white-house-ordered-spacex-to-limit-ukraine-satellite-service-reuters-reports-93CH-4952891",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/terrestrial-energy-director-pardee-buys-22125-in-company-stock-93CH-4952892",
-    "SG Banks|https://www.investing.com/news/commodities-news/oil-prices-edge-lower-on-improving-supplies-wti-set-for-strong-week-4952863",
     "SG Banks|https://www.investing.com/news/company-news/prime-drink-group-launches-c4m-financing-closes-c200k-placement-93CH-4952874",
     "SG Banks|https://www.investing.com/news/company-news/mongolian-mining-reports-q3-coal-sales-drop-gold-output-rises-93CH-4952876",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-pls-stock-rising-today-93CH-4952877",
@@ -5000,7 +4997,10 @@
     "Crypto|47eebb9f-f215-360f-8284-d7f3d9aad61f",
     "AI|20cce852-d8f3-3b31-810c-eae02705cdf1",
     "Watchlist|20cce852-d8f3-3b31-810c-eae02705cdf1",
-    "AI|ed0989bc-7f86-3159-bfe5-8576369b8065"
+    "AI|ed0989bc-7f86-3159-bfe5-8576369b8065",
+    "Crypto|27a69291-80c4-3aa9-9032-d961551b64ff",
+    "AI|53c68f35-26ab-3aa9-9d71-bf90d9697bb9",
+    "Watchlist|53c68f35-26ab-3aa9-9d71-bf90d9697bb9"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792345640.9758818
+  "last_check": 1792346553.0987232
 }
