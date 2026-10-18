@@ -1,24 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/company-news/mongolian-mining-reports-q3-coal-sales-drop-gold-output-rises-93CH-4952876",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-pls-stock-rising-today-93CH-4952877",
-    "Watchlist|https://www.investing.com/news/company-news/cathie-woods-ark-sells-amazon-stock-buys-coreweave-and-iambic-93CH-4952878",
-    "Watchlist|https://www.investing.com/news/earnings/lcnb-earnings-beat-by-004-revenue-topped-estimates-4952879",
-    "Watchlist|https://www.investing.com/news/commodities-news/progress-toward-a-usmexico-tariff-deal-has-stalled-wsj-reports-4952880",
-    "Watchlist|https://www.investing.com/news/earnings/loop-industries-earnings-missed-by-002-revenue-fell-short-of-estimates-4952881",
-    "Watchlist|https://www.investing.com/news/stock-market-news/white-house-ordered-spacex-to-limit-ukraine-satellite-service-reuters-reports-93CH-4952891",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/terrestrial-energy-director-pardee-buys-22125-in-company-stock-93CH-4952892",
-    "SG Banks|https://www.straitstimes.com/business/chinas-plan-to-make-renminbi-a-global-currency-enters-faster-phase",
-    "SG Banks|/companies-markets/capital-markets-currencies/stocks-watch-sia-capitaland-india-trust-first-resources",
-    "Watchlist|/companies-markets/capital-markets-currencies/stocks-watch-sia-capitaland-india-trust-first-resources",
-    "AI|https://www.investing.com/news/insider-trading-news/tko-director-nick-khan-sells-168m-in-company-stock-93CH-4952902",
-    "AI|https://www.investing.com/news/insider-trading-news/talos-energy-10-owner-sells-518m-in-shares-93CH-4952903",
-    "AI|https://www.investing.com/news/insider-trading-news/crowdstrike-president-and-ceo-george-kurtz-sells-515m-in-stock-93CH-4952904",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/tko-director-nick-khan-sells-168m-in-company-stock-93CH-4952902",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/talos-energy-10-owner-sells-518m-in-shares-93CH-4952903",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/crowdstrike-president-and-ceo-george-kurtz-sells-515m-in-stock-93CH-4952904",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/tko-director-nick-khan-sells-168m-in-company-stock-93CH-4952902",
     "SG Banks|https://www.investing.com/news/insider-trading-news/talos-energy-10-owner-sells-518m-in-shares-93CH-4952903",
     "SG Banks|https://www.investing.com/news/insider-trading-news/crowdstrike-president-and-ceo-george-kurtz-sells-515m-in-stock-93CH-4952904",
     "Watchlist|https://www.investing.com/news/insider-trading-news/tko-director-nick-khan-sells-168m-in-company-stock-93CH-4952902",
@@ -5000,7 +4982,25 @@
     "AI|f59ad3de-3599-32a2-b351-77d2d2ae2864",
     "SG Banks|https://www.channelnewsasia.com/business/anthropic-commit-5-stake-new-public-benefit-fund-6470326",
     "Crypto|765e5e68-67d6-3b43-899d-a03066953395",
-    "Crypto|18d5909d-7b18-37dd-90c8-1bec670dd33e"
+    "Crypto|18d5909d-7b18-37dd-90c8-1bec670dd33e",
+    "Crypto|27bf8319-cc8b-3911-bd8b-615be8e4f372",
+    "AI|8c53b8c8-7150-3aec-a8fc-0c2001d7a1f1",
+    "AI|https://www.investing.com/news/stock-market-news/anthropic-to-commit-5-stake-to-new-public-benefit-fund-4956031",
+    "AI|https://www.investing.com/news/stock-market-news/anthropic-commits-5-of-shares-to-new-public-benefit-fund-4956032",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/anthropic-to-commit-5-stake-to-new-public-benefit-fund-4956031",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/anthropic-commits-5-of-shares-to-new-public-benefit-fund-4956032",
+    "SG Banks|https://www.investing.com/news/stock-market-news/anthropic-to-commit-5-stake-to-new-public-benefit-fund-4956031",
+    "SG Banks|https://www.investing.com/news/stock-market-news/anthropic-commits-5-of-shares-to-new-public-benefit-fund-4956032",
+    "Watchlist|https://www.investing.com/news/stock-market-news/anthropic-to-commit-5-stake-to-new-public-benefit-fund-4956031",
+    "Watchlist|https://www.investing.com/news/stock-market-news/anthropic-commits-5-of-shares-to-new-public-benefit-fund-4956032",
+    "SG Banks|/companies-markets/capital-markets-currencies/stocks-watch-sia-capitaland-india-trust-first-resources",
+    "Watchlist|/companies-markets/capital-markets-currencies/stocks-watch-sia-capitaland-india-trust-first-resources",
+    "Iran|https://www.iranintl.com/en/202610181490",
+    "War|0d2de407-7de3-37c3-a3fb-ca939cf0d8a7",
+    "AI|973b509b-0bbc-3d07-9024-4b29d3ac32c8",
+    "AI|5853fb03-6fe4-3885-9d21-1880ec0108ec",
+    "Watchlist|5853fb03-6fe4-3885-9d21-1880ec0108ec",
+    "War|973b509b-0bbc-3d07-9024-4b29d3ac32c8"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792348385.0522265
+  "last_check": 1792349317.2694352
 }
