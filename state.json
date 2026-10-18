@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Crypto|48152376-e3d7-3146-939c-20973cfd8ee9",
-    "Watchlist|d81c7c26-6bf6-373c-9f7b-0e85e9f2bedf",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-interactive-brokers-posts-q3-2026-revenue-beat-93CH-4952716",
-    "AI|https://www.investing.com/news/company-news/msci-freezes-index-changes-for-turkish-equities-amid-trading-concerns-93CH-4952718",
-    "AI|https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-131-4952719",
-    "AI|https://www.investing.com/news/cryptocurrency-news/changenow-announces-now-ai-after-resolving-website-integration-vulnerability-4952721",
-    "AI|https://www.investing.com/news/press-releases/stx-q3-ecosystem-report-735-btc-enters-bitcoin-staking-as-stx-staked-climbs-more-than-25-after-pox5-4952722",
     "AI|https://www.investing.com/news/company-news/wise-q2-fy2027-slides-revenue-diversification-hits-52-milestone-93CH-4952727",
     "AI|https://www.investing.com/news/stock-market-news/why-is-alcoa-stock-climbing-today-93CH-4952728",
     "AI|https://www.investing.com/news/stock-market-news/why-is-varonis-stock-rallying-today-93CH-4952729",
@@ -5000,7 +4993,14 @@
     "AI|3182b35b-f40f-39e9-b17f-004aa84e4bc3",
     "Watchlist|3182b35b-f40f-39e9-b17f-004aa84e4bc3",
     "AI|03398f63-f575-31c3-8a8f-15d1be3f1d5c",
-    "Watchlist|03398f63-f575-31c3-8a8f-15d1be3f1d5c"
+    "Watchlist|03398f63-f575-31c3-8a8f-15d1be3f1d5c",
+    "AI|https://www.investing.com/news/economy-news/russia-hits-ukraines-energy-sector-76-times-in-a-week-zelenskiy-says-4955841",
+    "Cybersecurity|https://www.investing.com/news/economy-news/russia-hits-ukraines-energy-sector-76-times-in-a-week-zelenskiy-says-4955841",
+    "SG Banks|https://www.investing.com/news/economy-news/russia-hits-ukraines-energy-sector-76-times-in-a-week-zelenskiy-says-4955841",
+    "Watchlist|https://www.investing.com/news/economy-news/russia-hits-ukraines-energy-sector-76-times-in-a-week-zelenskiy-says-4955841",
+    "SG Banks|/opinion-features/sec-should-protect-investors-not-private-funds",
+    "War|4a8c9814-abae-3c65-b216-c9b9b7723ddd",
+    "Watchlist|/opinion-features/sec-should-protect-investors-not-private-funds"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792313626.2520392
+  "last_check": 1792314541.6018674
 }
