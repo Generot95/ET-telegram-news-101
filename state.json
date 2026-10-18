@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/faraday-copper-completes-acquisition-of-bhps-san-manuel-project-93CH-4952849",
-    "Cybersecurity|https://www.investing.com/news/economy-news/feds-goolsbee-on-inflation-discouraging-but-still-some-optimism-4952861",
-    "SG Banks|https://www.investing.com/news/company-news/lng-energy-group-completes-second-tranche-of-private-placement-93CH-4952843",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/td-synnex-chair-polk-sells-629k-in-common-stock-93CH-4952844",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/bjs-wholesale-club-president--ceo-robert-eddy-sells-197-million-in-stock-93CH-4952845",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/samsara-evp-cto-john-bicket-sells-11-million-in-stock-93CH-4952847",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/samsara-ceo-sanjit-biswas-sells-11m-in-shares-in-october-93CH-4952846",
-    "SG Banks|https://www.investing.com/news/economy-news/analysismarket-selloff-rising-rates-test-ai-data-centre-deal-boom-4951734",
     "SG Banks|https://www.investing.com/news/company-news/faraday-copper-completes-acquisition-of-bhps-san-manuel-project-93CH-4952849",
     "SG Banks|https://www.investing.com/news/economy-news/feds-goolsbee-on-inflation-discouraging-but-still-some-optimism-4952861",
     "Watchlist|https://www.investing.com/news/company-news/lng-energy-group-completes-second-tranche-of-private-placement-93CH-4952843",
@@ -5000,7 +4992,15 @@
     "AI|242c83fb-6a2b-395a-ad11-800f9df051a0",
     "Watchlist|242c83fb-6a2b-395a-ad11-800f9df051a0",
     "Crypto|d68db0ef-fca4-3cc8-b467-a95a120fca88",
-    "Crypto|47ab7ddf-59be-30a9-acd5-0ceb6ebce8ac"
+    "Crypto|47ab7ddf-59be-30a9-acd5-0ceb6ebce8ac",
+    "AI|3a08c803-e3fa-30de-88c2-ab57dc58fa06",
+    "Crypto|3f0fed6b-d83c-3d4c-8f18-f2e472107832",
+    "Crypto|f8456fdb-3070-3a56-9f5c-ba8882b91093",
+    "Watchlist|3a08c803-e3fa-30de-88c2-ab57dc58fa06",
+    "AI|https://www.investing.com/news/economy-news/midterms-ubs-assigns-a-50-probability-to-a-democratic-sweep-4955971",
+    "Cybersecurity|https://www.investing.com/news/economy-news/midterms-ubs-assigns-a-50-probability-to-a-democratic-sweep-4955971",
+    "SG Banks|https://www.investing.com/news/economy-news/midterms-ubs-assigns-a-50-probability-to-a-democratic-sweep-4955971",
+    "Watchlist|https://www.investing.com/news/economy-news/midterms-ubs-assigns-a-50-probability-to-a-democratic-sweep-4955971"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792336512.6366334
+  "last_check": 1792337422.9778886
 }
