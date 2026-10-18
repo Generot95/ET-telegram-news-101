@@ -1,17 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-interactive-brokers-posts-q3-2026-revenue-beat-93CH-4952716",
-    "Watchlist|https://www.investing.com/news/company-news/msci-freezes-index-changes-for-turkish-equities-amid-trading-concerns-93CH-4952718",
-    "Watchlist|https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-131-4952719",
-    "Watchlist|https://www.investing.com/news/cryptocurrency-news/changenow-announces-now-ai-after-resolving-website-integration-vulnerability-4952721",
-    "Watchlist|https://www.investing.com/news/press-releases/stx-q3-ecosystem-report-735-btc-enters-bitcoin-staking-as-stx-staked-climbs-more-than-25-after-pox5-4952722",
-    "Watchlist|https://www.investing.com/news/company-news/wise-q2-fy2027-slides-revenue-diversification-hits-52-milestone-93CH-4952727",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-alcoa-stock-climbing-today-93CH-4952728",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-varonis-stock-rallying-today-93CH-4952729",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-cohen--steers-stock-surging-today-93CH-4952730",
-    "War|89a24aad-201e-3790-afd7-3d7884269bed",
-    "War|06d1f855-2300-4970-a47b-eb5749b77390",
     "Iran|https://www.iranintl.com/en/202610114699",
     "Iran|https://www.iranintl.com/en/202610138522",
     "Crypto|52a2aba5-01f1-32a7-a986-4c13f32fa97a",
@@ -5000,7 +4989,18 @@
     "AI|af186189-14fd-3a59-9667-50333cb29ff4",
     "Watchlist|af186189-14fd-3a59-9667-50333cb29ff4",
     "AI|4afa26d2-0bd2-38df-a44a-3b1fff036226",
-    "Watchlist|4afa26d2-0bd2-38df-a44a-3b1fff036226"
+    "Watchlist|4afa26d2-0bd2-38df-a44a-3b1fff036226",
+    "AI|https://www.investing.com/news/economy-news/microsoft-pulls-out-of-uk-data-centre-deal-with-nscale-telegraph-reports-4955855",
+    "Cybersecurity|https://www.investing.com/news/economy-news/microsoft-pulls-out-of-uk-data-centre-deal-with-nscale-telegraph-reports-4955855",
+    "SG Banks|https://www.investing.com/news/economy-news/microsoft-pulls-out-of-uk-data-centre-deal-with-nscale-telegraph-reports-4955855",
+    "Watchlist|https://www.investing.com/news/economy-news/microsoft-pulls-out-of-uk-data-centre-deal-with-nscale-telegraph-reports-4955855",
+    "AI|a4b5ca10-2e00-3ddc-9682-0418b433ab60",
+    "AI|123133d8-485a-32ee-92fe-b150f24aced0",
+    "Watchlist|a4b5ca10-2e00-3ddc-9682-0418b433ab60",
+    "Watchlist|123133d8-485a-32ee-92fe-b150f24aced0",
+    "AI|0066be54-5d34-3cd3-9977-bb68bd062146",
+    "Watchlist|0066be54-5d34-3cd3-9977-bb68bd062146",
+    "SG Banks|https://www.channelnewsasia.com/business/microsoft-pulls-out-uk-data-center-deal-nscale-telegraph-reports-6469486"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792317283.4875476
+  "last_check": 1792318207.1340299
 }
