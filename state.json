@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|/companies-markets/energy-commodities/gold-eases-after-climbing-over-1-previous-session",
-    "SG Banks|https://www.straitstimes.com/business/singapores-key-exports-rise-more-than-expected-in-september-driven-by-non-electronics",
-    "AI|71630b18-03c8-336b-8fde-18e48039afc1",
-    "Watchlist|71630b18-03c8-336b-8fde-18e48039afc1",
     "War|https://www.investing.com/news/commodities-news/oil-edges-down-as-investors-weigh-possible-us-sanctions-on-shadow-fleet-4952926",
     "AI|https://www.investing.com/news/insider-trading-news/idt-cao--controller-mitch-silberman-sells-stock-worth-255k-93CH-4952927",
     "AI|https://www.investing.com/news/stock-market-news/sk-hynix-oversold-near-support-after-15-slide-live-levels-93CH-4942961",
@@ -5000,7 +4996,11 @@
     "SG Banks|bef8f6f8-3827-3538-bedc-00f712f590ce",
     "Watchlist|bf0152ed-4278-3586-b496-28b1208c57cf",
     "SG Banks|/companies-markets/fintech-platform-icapital-plans-more-singapore-hires-even-ai-takes-75-coding-work",
-    "Watchlist|/companies-markets/fintech-platform-icapital-plans-more-singapore-hires-even-ai-takes-75-coding-work"
+    "Watchlist|/companies-markets/fintech-platform-icapital-plans-more-singapore-hires-even-ai-takes-75-coding-work",
+    "AI|https://www.investing.com/news/insider-trading-news/park-ohio-holdings-clo-vilsack-sells-207112-in-common-stock-93CH-4956066",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/park-ohio-holdings-clo-vilsack-sells-207112-in-common-stock-93CH-4956066",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/park-ohio-holdings-clo-vilsack-sells-207112-in-common-stock-93CH-4956066",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/park-ohio-holdings-clo-vilsack-sells-207112-in-common-stock-93CH-4956066"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792355725.3394156
+  "last_check": 1792356625.8904774
 }
