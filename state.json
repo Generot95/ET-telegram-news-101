@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/site-centers-stock-surges-on-3-special-dividend-4952700",
-    "AI|https://www.investing.com/news/stock-market-news/exclusiveinvestors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-slowdown-sources-say-4952698",
-    "AI|https://www.investing.com/news/insider-trading-news/hims--hers-chief-legal-officer-sells-100576-in-stock-93CH-4952706",
-    "AI|https://www.investing.com/news/analyst-ratings/rosenblatt-reiterates-buy-on-super-micro-stock-after-cfo-hire-93CH-4952707",
     "AI|https://www.investing.com/news/company-news/con-edison-declares-quarterly-dividend-of-8875-cents-93CH-4952675",
     "AI|https://www.investing.com/news/company-news/geopark-reports-26-production-increase-in-third-quarter-93CH-4952676",
     "AI|https://www.investing.com/news/company-news/alliant-energy-declares-05350-quarterly-dividend-93CH-4952691",
@@ -5000,7 +4996,11 @@
     "SG Banks|https://www.investing.com/news/cryptocurrency-news/ledger-crypto-wallets-compromised-in-hardware-attack-linked-to-90m-theft-4955797",
     "Watchlist|https://www.investing.com/news/cryptocurrency-news/ledger-crypto-wallets-compromised-in-hardware-attack-linked-to-90m-theft-4955797",
     "AI|0dcde4d4-42a6-3b0c-a987-07c6c15a08e0",
-    "Watchlist|0dcde4d4-42a6-3b0c-a987-07c6c15a08e0"
+    "Watchlist|0dcde4d4-42a6-3b0c-a987-07c6c15a08e0",
+    "AI|f653eec0-2ad9-3175-aac5-25351014e559",
+    "Watchlist|f653eec0-2ad9-3175-aac5-25351014e559",
+    "Watchlist|dd45bfed-5017-35c3-bb08-bc9067c28e5e",
+    "AI|dd45bfed-5017-35c3-bb08-bc9067c28e5e"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792304467.1658092
+  "last_check": 1792305376.3950756
 }
