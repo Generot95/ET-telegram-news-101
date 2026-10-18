@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|https://www.investing.com/news/commodities-news/oil-edges-down-as-investors-weigh-possible-us-sanctions-on-shadow-fleet-4952926",
-    "AI|https://www.investing.com/news/insider-trading-news/idt-cao--controller-mitch-silberman-sells-stock-worth-255k-93CH-4952927",
-    "AI|https://www.investing.com/news/stock-market-news/sk-hynix-oversold-near-support-after-15-slide-live-levels-93CH-4942961",
-    "AI|https://www.investing.com/news/stock-market-news/nikkei-225-coiled-in-ichimoku-cloud-live-levels-93CH-4942960",
-    "AI|https://www.investing.com/news/stock-market-news/nasdaq-futures-edge-lower-as-ai-spending-fed-rate-concerns-weigh-4952930",
     "AI|https://www.investing.com/news/commodities-news/oil-edges-down-as-investors-weigh-possible-us-sanctions-on-shadow-fleet-4952926",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/idt-cao--controller-mitch-silberman-sells-stock-worth-255k-93CH-4952927",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/sk-hynix-oversold-near-support-after-15-slide-live-levels-93CH-4942961",
@@ -5000,7 +4995,12 @@
     "AI|https://www.investing.com/news/insider-trading-news/park-ohio-holdings-clo-vilsack-sells-207112-in-common-stock-93CH-4956066",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/park-ohio-holdings-clo-vilsack-sells-207112-in-common-stock-93CH-4956066",
     "SG Banks|https://www.investing.com/news/insider-trading-news/park-ohio-holdings-clo-vilsack-sells-207112-in-common-stock-93CH-4956066",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/park-ohio-holdings-clo-vilsack-sells-207112-in-common-stock-93CH-4956066"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/park-ohio-holdings-clo-vilsack-sells-207112-in-common-stock-93CH-4956066",
+    "Crypto|e783d4f0-a239-3391-bebe-3a89c1f94711",
+    "AI|03d68fc2-1a9e-3404-b724-549635a2c6bb",
+    "Watchlist|03d68fc2-1a9e-3404-b724-549635a2c6bb",
+    "SG Banks|https://www.straitstimes.com/singapore/jobs/askst-jobs-my-boss-takes-credit-for-my-ideas-and-achievements-what-can-i-do",
+    "Crypto|4667debb-0dfa-39e2-b0fe-088aed8cf4cf"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792356625.8904774
+  "last_check": 1792357553.3381608
 }
