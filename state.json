@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/wise-q2-fy2027-slides-revenue-diversification-hits-52-milestone-93CH-4952727",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-alcoa-stock-climbing-today-93CH-4952728",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-varonis-stock-rallying-today-93CH-4952729",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-cohen--steers-stock-surging-today-93CH-4952730",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-interactive-brokers-posts-q3-2026-revenue-beat-93CH-4952716",
     "Watchlist|https://www.investing.com/news/company-news/msci-freezes-index-changes-for-turkish-equities-amid-trading-concerns-93CH-4952718",
     "Watchlist|https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-131-4952719",
@@ -5000,7 +4996,11 @@
     "AI|4631808d-b8e7-3c1d-af9f-be8158a2ed10",
     "AI|680d5127-3ffa-3ee8-8807-7750cb1d5678",
     "Watchlist|4631808d-b8e7-3c1d-af9f-be8158a2ed10",
-    "Watchlist|680d5127-3ffa-3ee8-8807-7750cb1d5678"
+    "Watchlist|680d5127-3ffa-3ee8-8807-7750cb1d5678",
+    "AI|af186189-14fd-3a59-9667-50333cb29ff4",
+    "Watchlist|af186189-14fd-3a59-9667-50333cb29ff4",
+    "AI|4afa26d2-0bd2-38df-a44a-3b1fff036226",
+    "Watchlist|4afa26d2-0bd2-38df-a44a-3b1fff036226"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792316364.9913673
+  "last_check": 1792317283.4875476
 }
