@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/company-news/transocean-amends-credit-facility-retires-165m-in-notes-93CH-4952732",
-    "Watchlist|https://www.investing.com/news/company-news/wf-holding-closes-18-million-registered-direct-offering-93CH-4952731",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/william-blair-initiates-cytokinetics-stock-coverage-with-outperform-rating-93CH-4952733",
-    "Watchlist|https://www.investing.com/news/transcripts/lakewoodamedex-at-thinkequity-conference-betting-on-topical-antimicrobials-93CH-4952734",
     "Watchlist|https://www.investing.com/news/transcripts/atlasclear-holdings-at-the-thinkequity-conference-building-a-niche-finance-platform-93CH-4952735",
     "Watchlist|https://www.investing.com/news/economy-news/feds-hammack-warns-inflation-expectations-deterioration-could-require-fed-response-4952736",
     "Watchlist|https://www.investing.com/news/insider-trading-news/qualys-ceo-sumedh-thakar-sells-609147-in-company-stock-93CH-4952739",
@@ -5000,7 +4996,11 @@
     "AI|d554d41d-7936-3e02-ab4f-facdc9d9c1c2",
     "Crypto|d554d41d-7936-3e02-ab4f-facdc9d9c1c2",
     "Watchlist|6a0ee69a-ad89-32c2-8bcc-8b54542daa93",
-    "Watchlist|d554d41d-7936-3e02-ab4f-facdc9d9c1c2"
+    "Watchlist|d554d41d-7936-3e02-ab4f-facdc9d9c1c2",
+    "SG Banks|https://www.channelnewsasia.com/business/accenture-looks-sell-chinese-operations-up-15-billion-ft-reports-6469506",
+    "AI|42f01c0c-e7e6-39d3-9dcb-757e989a0ebd",
+    "Watchlist|42f01c0c-e7e6-39d3-9dcb-757e989a0ebd",
+    "AI|a0f49b98-58f9-36fe-9362-6a90d793ed05"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792319121.0749173
+  "last_check": 1792320046.0258322
 }
