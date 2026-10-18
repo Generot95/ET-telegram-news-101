@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|ce1a04ac-f15e-3057-a279-12f3f24bc697",
-    "SG Banks|https://www.straitstimes.com/business/invest/the-intangible-economy-is-making-everyone-miserable",
-    "Watchlist|ce1a04ac-f15e-3057-a279-12f3f24bc697",
-    "AI|b51bae29-4d93-3cf8-9e0b-a7a2756e47cf",
-    "Watchlist|b51bae29-4d93-3cf8-9e0b-a7a2756e47cf",
-    "SG Banks|https://www.straitstimes.com/business/invest/5-things-to-know-about-paying-for-elderly-parents-expenses",
-    "War|47757a06-56d7-38e1-9ad0-e2a552052bc6",
-    "War|7309a926-d119-3de7-b317-ca5a9e639e36",
-    "AI|51e429cc-0731-310a-8e87-8f2c5a3bceeb",
-    "Cybersecurity|51e429cc-0731-310a-8e87-8f2c5a3bceeb",
     "Watchlist|51e429cc-0731-310a-8e87-8f2c5a3bceeb",
     "AI|a94da924-155d-3d0e-831c-866f16f5f4b2",
     "Watchlist|a94da924-155d-3d0e-831c-866f16f5f4b2",
@@ -5000,7 +4990,17 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/standex-director-thomas-chorman-sells-13569-in-stock-93CH-4955769",
     "Iran|https://www.iranintl.com/en/202610122248",
     "AI|3452d81b-7b85-3490-8190-0df6e30c28da",
-    "Watchlist|3452d81b-7b85-3490-8190-0df6e30c28da"
+    "Watchlist|3452d81b-7b85-3490-8190-0df6e30c28da",
+    "SG Banks|/companies-markets/consumer-healthcare/7-eleven-adds-hot-food-counters-16-singapore-stores-dfi-retail-sharpens-growth-focus",
+    "Watchlist|/companies-markets/consumer-healthcare/7-eleven-adds-hot-food-counters-16-singapore-stores-dfi-retail-sharpens-growth-focus",
+    "AI|df140fbf-82c7-33d8-99b2-c4e07f6559a3",
+    "Watchlist|df140fbf-82c7-33d8-99b2-c4e07f6559a3",
+    "AI|https://www.investing.com/news/stock-market-news/antofagastas-centinela-strike-ends-after-deal-with-unions-4955771",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/antofagastas-centinela-strike-ends-after-deal-with-unions-4955771",
+    "SG Banks|https://www.investing.com/news/stock-market-news/antofagastas-centinela-strike-ends-after-deal-with-unions-4955771",
+    "Watchlist|https://www.investing.com/news/stock-market-news/antofagastas-centinela-strike-ends-after-deal-with-unions-4955771",
+    "SG Banks|/international/global/ai-funding-fears-puncture-rally-asias-high-flying-picks-and-shovels-stocks",
+    "Watchlist|/international/global/ai-funding-fears-puncture-rally-asias-high-flying-picks-and-shovels-stocks"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792298962.310611
+  "last_check": 1792299886.231703
 }
