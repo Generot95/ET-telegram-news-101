@@ -1,22 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/citi-spots-ai-upside-in-two-software-stocks-despite-earnings-and-execution-risks-4952965",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/hang-seng-presses-cloud-resistance-at-24372-live-levels-93CH-4943001",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/tesla-unveils-new-roadster-with-flight-capabilities-set-for-production-in-2028-4952962",
-    "Cybersecurity|https://www.investing.com/news/economy-news/ai-selloff-hammers-hedge-funds-this-week-asia-managers-lead-losses-4952963",
-    "Cybersecurity|https://www.investing.com/news/company-news/strive-prices-630-million-preferred-stock-offering-at-90-93CH-4952964",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/citi-spots-ai-upside-in-two-software-stocks-despite-earnings-and-execution-risks-4952965",
-    "SG Banks|https://www.investing.com/news/stock-market-news/hang-seng-presses-cloud-resistance-at-24372-live-levels-93CH-4943001",
-    "SG Banks|https://www.investing.com/news/stock-market-news/tesla-unveils-new-roadster-with-flight-capabilities-set-for-production-in-2028-4952962",
-    "SG Banks|https://www.investing.com/news/economy-news/ai-selloff-hammers-hedge-funds-this-week-asia-managers-lead-losses-4952963",
-    "SG Banks|https://www.investing.com/news/company-news/strive-prices-630-million-preferred-stock-offering-at-90-93CH-4952964",
-    "SG Banks|https://www.investing.com/news/stock-market-news/citi-spots-ai-upside-in-two-software-stocks-despite-earnings-and-execution-risks-4952965",
-    "Watchlist|https://www.investing.com/news/stock-market-news/hang-seng-presses-cloud-resistance-at-24372-live-levels-93CH-4943001",
-    "Watchlist|https://www.investing.com/news/stock-market-news/tesla-unveils-new-roadster-with-flight-capabilities-set-for-production-in-2028-4952962",
-    "Watchlist|https://www.investing.com/news/economy-news/ai-selloff-hammers-hedge-funds-this-week-asia-managers-lead-losses-4952963",
-    "Watchlist|https://www.investing.com/news/company-news/strive-prices-630-million-preferred-stock-offering-at-90-93CH-4952964",
-    "Watchlist|https://www.investing.com/news/stock-market-news/citi-spots-ai-upside-in-two-software-stocks-despite-earnings-and-execution-risks-4952965",
     "AI|045d15a8-3e43-342c-95f4-b7c2773d5cfb",
     "Watchlist|045d15a8-3e43-342c-95f4-b7c2773d5cfb",
     "AI|4a01fc8e-804d-3c4e-94a8-ada52e90a26a",
@@ -5000,7 +4984,23 @@
     "Watchlist|/companies-markets/debt-funding-s-e-asia-startups-ticks-it-gets-tough-raise-money-exits-equity",
     "Watchlist|/companies-markets/philadelphia-semiconductor-indexs-bullish-momentum-stalling",
     "War|87d2ca5f-928d-369f-840c-337138f5ba2b",
-    "SG Banks|https://www.straitstimes.com/business/australias-challenger-gets-takeover-bid-from-unit-of-japans-daiichi-life"
+    "SG Banks|https://www.straitstimes.com/business/australias-challenger-gets-takeover-bid-from-unit-of-japans-daiichi-life",
+    "AI|0153b912-fe0c-351f-8eca-af285259d975",
+    "AI|https://www.investing.com/news/economy-news/uk-housing-market-showing-signs-of-mortgage-rates-impact-rightmove-says-4956121",
+    "AI|https://www.investing.com/news/economy-news/chinas-q3-gdp-growth-set-to-pick-up-as-exports-power-ahead-4956122",
+    "AI|https://www.investing.com/news/insider-trading-news/xpo-cfo-kyle-wismans-sells-131602-in-company-stock-93CH-4956124",
+    "Cybersecurity|https://www.investing.com/news/economy-news/uk-housing-market-showing-signs-of-mortgage-rates-impact-rightmove-says-4956121",
+    "Cybersecurity|https://www.investing.com/news/economy-news/chinas-q3-gdp-growth-set-to-pick-up-as-exports-power-ahead-4956122",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/xpo-cfo-kyle-wismans-sells-131602-in-company-stock-93CH-4956124",
+    "SG Banks|https://www.investing.com/news/economy-news/uk-housing-market-showing-signs-of-mortgage-rates-impact-rightmove-says-4956121",
+    "SG Banks|https://www.investing.com/news/economy-news/chinas-q3-gdp-growth-set-to-pick-up-as-exports-power-ahead-4956122",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/xpo-cfo-kyle-wismans-sells-131602-in-company-stock-93CH-4956124",
+    "Watchlist|https://www.investing.com/news/economy-news/uk-housing-market-showing-signs-of-mortgage-rates-impact-rightmove-says-4956121",
+    "Watchlist|https://www.investing.com/news/economy-news/chinas-q3-gdp-growth-set-to-pick-up-as-exports-power-ahead-4956122",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/xpo-cfo-kyle-wismans-sells-131602-in-company-stock-93CH-4956124",
+    "War|662cd973-b8a5-338a-9c12-88070fd61f3e",
+    "AI|40f43dc3-f32b-351b-89b6-b53fd8c786cc",
+    "Watchlist|40f43dc3-f32b-351b-89b6-b53fd8c786cc"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792365808.5408127
+  "last_check": 1792366701.0233047
 }
