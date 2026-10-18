@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/insider-trading-news/ajb-investment-fund-ii-buys-13473-in-jewett-cameron-trading-co-ltd-93CH-4952780",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-jb-hunt-q3-2026-revenue-beats-stock-slips-after-hours-93CH-4952769",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/guardant-health-director-alex-m-azar-ii-sells-11032-in-stock-93CH-4952778",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/reddit-ceo--president-steve-huffman-sells-274m-in-rddt-shares-93CH-4952779",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/ajb-investment-fund-ii-buys-13473-in-jewett-cameron-trading-co-ltd-93CH-4952780",
     "AI|5afcac39-2b52-3139-b4a1-4aa7140728fa",
     "AI|d57f99c7-4762-3b72-b9fe-9de5fa7b3c6d",
     "Watchlist|d57f99c7-4762-3b72-b9fe-9de5fa7b3c6d",
@@ -5000,7 +4995,12 @@
     "War|WP-MKTW-0005293372",
     "AI|6dc9daf9-e7c0-4a83-a242-bfc76ebc62ce",
     "AI|WP-MKTW-0005293372",
-    "Cybersecurity|WP-MKTW-0005293372"
+    "Cybersecurity|WP-MKTW-0005293372",
+    "AI|bec1fdfc-265d-3f15-ae02-9f4fe6e3e17d",
+    "AI|b563bb8c-7985-3635-9aa2-ac59203914b1",
+    "Watchlist|bec1fdfc-265d-3f15-ae02-9f4fe6e3e17d",
+    "Watchlist|b563bb8c-7985-3635-9aa2-ac59203914b1",
+    "SG Banks|https://www.channelnewsasia.com/business/samsung-use-tsmc-technology-nvidias-next-generation-memory-chips-seoul-newspaper-reports-6469576"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792325511.221243
+  "last_check": 1792326445.527686
 }
