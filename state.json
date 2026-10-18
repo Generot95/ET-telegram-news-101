@@ -1,21 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|/international/global/imf-cites-ai-slowdown-spiking-yields-looming-global-market-risks",
-    "SG Banks|/international/global/indias-rupee-recovery-faces-test-oil-prices-capital-outflows",
-    "SG Banks|/companies-markets/telcos-media-tech/apple-rolls-out-new-phones-and-smart-home-devices-revive-pricey-stock",
-    "Watchlist|3b3113d5-9245-3965-a347-79fb96d62752",
-    "Watchlist|/international/global/imf-cites-ai-slowdown-spiking-yields-looming-global-market-risks",
-    "Watchlist|/international/global/indias-rupee-recovery-faces-test-oil-prices-capital-outflows",
-    "Watchlist|/companies-markets/telcos-media-tech/apple-rolls-out-new-phones-and-smart-home-devices-revive-pricey-stock",
-    "War|WP-MKTW-0005283692",
-    "AI|WP-MKTW-0005283692",
-    "Cybersecurity|WP-MKTW-0005283692",
-    "War|WP-MKTW-0005289648",
-    "AI|WP-MKTW-0005289648",
-    "Cybersecurity|WP-MKTW-0005289648",
-    "Iran|https://www.iranintl.com/en/202610157665",
-    "SG Banks|https://www.channelnewsasia.com/business/meta-releases-open-weight-muse-spark-model-coding-agentic-tasks-6464096",
     "War|f85c02f9-e4f8-313f-a9fa-6d41213daba8",
     "AI|2eeb40cb-9307-3e31-b903-e507e61cab14",
     "Watchlist|2eeb40cb-9307-3e31-b903-e507e61cab14",
@@ -5000,7 +4985,22 @@
     "Watchlist|https://www.investing.com/news/economy-news/china-proposes-export-curbs-on-12-key-solar-manufacturing-technologies-4955825",
     "SG Banks|/companies-markets/capital-markets-currencies/greenback-falls-fed-hike-bets-fade-ai-jitters-linger",
     "Watchlist|/companies-markets/capital-markets-currencies/greenback-falls-fed-hike-bets-fade-ai-jitters-linger",
-    "Iran|https://www.iranintl.com/en/202610139633"
+    "Iran|https://www.iranintl.com/en/202610139633",
+    "Cybersecurity|420d01f2-cdd9-3154-bd21-1e8185593194",
+    "AI|e079366f-a1dc-3dc2-bd1d-2a125ea65d31",
+    "SG Banks|/international/global/imf-cites-ai-slowdown-spiking-yields-looming-global-market-risks",
+    "Watchlist|e079366f-a1dc-3dc2-bd1d-2a125ea65d31",
+    "Watchlist|b83cf25a-9ee7-3957-a5a9-e8e775a3a54c",
+    "Watchlist|d92ca397-6e84-3b4b-a767-fcf2a859b41b",
+    "AI|82f8d719-b89d-361b-989f-cb818dbfa1be",
+    "AI|d92ca397-6e84-3b4b-a767-fcf2a859b41b",
+    "AI|b83cf25a-9ee7-3957-a5a9-e8e775a3a54c",
+    "Watchlist|82f8d719-b89d-361b-989f-cb818dbfa1be",
+    "War|35704c33-2218-358c-bfd8-45144b9c9449",
+    "AI|https://www.investing.com/news/insider-trading-news/olesen-value-fund-sells-716664-of-solitron-devices-stock-93CH-4955832",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/olesen-value-fund-sells-716664-of-solitron-devices-stock-93CH-4955832",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/olesen-value-fund-sells-716664-of-solitron-devices-stock-93CH-4955832",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/olesen-value-fund-sells-716664-of-solitron-devices-stock-93CH-4955832"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792311800.7847638
+  "last_check": 1792312709.3779166
 }
