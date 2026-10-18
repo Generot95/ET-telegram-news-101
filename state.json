@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/buenaventura-reports-q3-2026-production-revises-guidance-93CH-4952694",
-    "SG Banks|https://www.investing.com/news/stock-market-news/some-investors-push-anthropic-to-cut-ipo-valuation-to-15-trillion--report-4952696",
-    "SG Banks|https://www.investing.com/news/economy-news/global-tech-rout-loses-steam-4952697",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/tigress-financial-raises-costco-stock-price-target-on-membership-growth-93CH-4952699",
-    "SG Banks|https://www.investing.com/news/stock-market-news/site-centers-stock-surges-on-3-special-dividend-4952700",
-    "SG Banks|https://www.investing.com/news/stock-market-news/exclusiveinvestors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-slowdown-sources-say-4952698",
     "SG Banks|https://www.investing.com/news/stock-market-news/volvo-cars-expands-automated-driving-partnership-with-nvidia-4952421",
     "SG Banks|https://www.investing.com/news/insider-trading-news/hims--hers-chief-legal-officer-sells-100576-in-stock-93CH-4952706",
     "SG Banks|https://www.investing.com/news/analyst-ratings/rosenblatt-reiterates-buy-on-super-micro-stock-after-cfo-hire-93CH-4952707",
@@ -5000,7 +4994,13 @@
     "Watchlist|/companies-markets/capital-markets-currencies/weak-links-start-show-ai-borrowing",
     "SG Banks|/companies-markets/capital-markets-currencies/cracks-emerge-ai-borrowing-boom-coreweave-oracle-and-softbank-debt-worries-grow",
     "Watchlist|/companies-markets/capital-markets-currencies/cracks-emerge-ai-borrowing-boom-coreweave-oracle-and-softbank-debt-worries-grow",
-    "Crypto|b493b559-452d-363c-b8a8-aa210c3075d8"
+    "Crypto|b493b559-452d-363c-b8a8-aa210c3075d8",
+    "AI|https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-meta-gets-streethigh-pt-salesforce-double-upgraded-4955491",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-meta-gets-streethigh-pt-salesforce-double-upgraded-4955491",
+    "SG Banks|https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-meta-gets-streethigh-pt-salesforce-double-upgraded-4955491",
+    "Watchlist|https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-meta-gets-streethigh-pt-salesforce-double-upgraded-4955491",
+    "AI|eea2f087-1358-3864-88a6-cf59ecc84bb0",
+    "Watchlist|eea2f087-1358-3864-88a6-cf59ecc84bb0"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792308144.0831356
+  "last_check": 1792309048.6394868
 }
