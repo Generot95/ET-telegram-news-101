@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/economy-news/lula-pledges-free-weekend-transit-nationwide-as-brazil-runoff-nears-4952797",
-    "AI|https://www.investing.com/news/stock-market-news/tesla-energy-executive-snyder-steps-down-wsj-reports-4952800",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/rotting-meat-smell-sparks-protest-at-mexicos-screwworm-sterilefly-plant-4952785",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/oruka-therapeutics-cmo-joana-goncalves-sells-523647-in-stock-93CH-4952794",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/fermi-director-toby-neugebauer-sells-143m-in-common-stock-93CH-4952795",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/netflix-names-former-disney-executive-rice-as-new-content-chief-as-bajaria-departs-4952796",
     "Cybersecurity|https://www.investing.com/news/economy-news/lula-pledges-free-weekend-transit-nationwide-as-brazil-runoff-nears-4952797",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/tesla-energy-executive-snyder-steps-down-wsj-reports-4952800",
@@ -5000,7 +4995,12 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/buy-these-2-stocks-amid-ai-financing-concerns-analyst-4955896",
     "Watchlist|https://www.investing.com/news/insider-trading-news/mid-penn-bancorp-director-albert-evans-buys-9982-in-shares-93CH-4955900",
     "Watchlist|https://www.investing.com/news/commodities-news/analysiscarneys-pipeline-push-is-unlikely-to-bring-back-canadas-oil-jobs-boom-4955902",
-    "Iran|https://www.iranintl.com/en/202610152228"
+    "Iran|https://www.iranintl.com/en/202610152228",
+    "AI|8eacd3ad-efc6-3de6-af6b-be282bbfd78c",
+    "Watchlist|8eacd3ad-efc6-3de6-af6b-be282bbfd78c",
+    "AI|61681d9d-4011-3f54-b77f-2fc7dbe4940b",
+    "Crypto|ea142357-aac0-35f1-b792-ed797ed6d2ae",
+    "Watchlist|61681d9d-4011-3f54-b77f-2fc7dbe4940b"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792327351.0604713
+  "last_check": 1792328263.9614463
 }
