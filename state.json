@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/transcripts/optimi-health-at-the-thinkequity-conference-natural-psilocybin-push-93CH-4952666",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/freedom-broker-upgrades-jpmorgan-stock-rating-to-buy-on-valuation-93CH-4952669",
     "Watchlist|https://www.investing.com/news/earnings/cohen--steers-stock-leaps-over-5-on-strong-inflows-despite-q3-miss-93CH-4952671",
     "Watchlist|https://www.investing.com/news/company-news/idacorp-declares-090-quarterly-dividend-93CH-4952673",
     "Iran|https://www.iranintl.com/en/202610122248",
@@ -5000,7 +4998,9 @@
     "AI|https://www.investing.com/news/earnings/nexttrip-earnings-missed-by-011-revenue-fell-short-of-estimates-4955760",
     "Cybersecurity|https://www.investing.com/news/earnings/nexttrip-earnings-missed-by-011-revenue-fell-short-of-estimates-4955760",
     "SG Banks|https://www.investing.com/news/earnings/nexttrip-earnings-missed-by-011-revenue-fell-short-of-estimates-4955760",
-    "Watchlist|https://www.investing.com/news/earnings/nexttrip-earnings-missed-by-011-revenue-fell-short-of-estimates-4955760"
+    "Watchlist|https://www.investing.com/news/earnings/nexttrip-earnings-missed-by-011-revenue-fell-short-of-estimates-4955760",
+    "AI|2beff6b7-1ce2-30e1-8415-01d4f21b9504",
+    "Watchlist|2beff6b7-1ce2-30e1-8415-01d4f21b9504"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792297141.6145692
+  "last_check": 1792298052.3676085
 }
