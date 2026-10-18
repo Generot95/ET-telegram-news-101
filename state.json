@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|c5025247-c5ec-3f7f-9dfa-318df2b2bb4c",
-    "Crypto|8e3ac4de-3a40-3504-af98-95b3f9179eb3",
-    "War|https://www.investing.com/news/commodities-news/gold-steadies-near-4160-as-stock-selloff-drives-bond-rally-treasury-yields-fall-4952940",
-    "AI|https://www.investing.com/news/insider-trading-news/ajb-investment-fund-ii-lp-buys-2565-of-jewett-cameron-trading-co-shares-93CH-4952935",
-    "AI|https://www.investing.com/news/insider-trading-news/nurix-therapeutics-cso-gwenn-hansen-sells-36300-in-common-stock-93CH-4952936",
     "AI|https://www.investing.com/news/economy-news/euro-gets-muchneeded-reprieve-as-ai-wobbles-rock-the-dollar-4952939",
     "AI|https://www.investing.com/news/commodities-news/gold-steadies-near-4160-as-stock-selloff-drives-bond-rally-treasury-yields-fall-4952940",
     "AI|https://www.investing.com/news/insider-trading-news/applied-digital-director-nottenburg-sells-682500-in-apld-shares-93CH-4952944",
@@ -5000,7 +4995,12 @@
     "Watchlist|426adbe5-7cd9-3d27-bbf3-673635f8c765",
     "Crypto|21f8759a-4dd4-37b0-9bb3-60fdf80fee66",
     "AI|abcf774e-1672-3fca-bdca-d107da658d1f",
-    "Watchlist|abcf774e-1672-3fca-bdca-d107da658d1f"
+    "Watchlist|abcf774e-1672-3fca-bdca-d107da658d1f",
+    "SG Banks|https://www.channelnewsasia.com/business/australias-challenger-gets-takeover-bid-unit-japans-daiichi-life-6470476",
+    "War|6f492db9-b914-3d9d-9fe8-70ea434d4ba0",
+    "SG Banks|/companies-markets/anthropic-shift-some-shares-new-public-good-fund",
+    "Watchlist|/companies-markets/anthropic-shift-some-shares-new-public-good-fund",
+    "War|https://www.investing.com/news/commodities-news/gold-steadies-near-4160-as-stock-selloff-drives-bond-rally-treasury-yields-fall-4952940"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792360294.1271973
+  "last_check": 1792361210.5876732
 }
