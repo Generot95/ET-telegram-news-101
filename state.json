@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-alcoa-stock-climbing-today-93CH-4952728",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-varonis-stock-rallying-today-93CH-4952729",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-cohen--steers-stock-surging-today-93CH-4952730",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-interactive-brokers-posts-q3-2026-revenue-beat-93CH-4952716",
-    "SG Banks|https://www.investing.com/news/company-news/msci-freezes-index-changes-for-turkish-equities-amid-trading-concerns-93CH-4952718",
-    "SG Banks|https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-131-4952719",
-    "SG Banks|https://www.investing.com/news/cryptocurrency-news/changenow-announces-now-ai-after-resolving-website-integration-vulnerability-4952721",
-    "SG Banks|https://www.investing.com/news/press-releases/stx-q3-ecosystem-report-735-btc-enters-bitcoin-staking-as-stx-staked-climbs-more-than-25-after-pox5-4952722",
     "SG Banks|https://www.investing.com/news/company-news/wise-q2-fy2027-slides-revenue-diversification-hits-52-milestone-93CH-4952727",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-alcoa-stock-climbing-today-93CH-4952728",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-varonis-stock-rallying-today-93CH-4952729",
@@ -5000,7 +4992,15 @@
     "Crypto|https://www.investing.com/news/cryptocurrency-news/eos-falls-11-in-rout-4955850",
     "Cybersecurity|https://www.investing.com/news/cryptocurrency-news/eos-falls-11-in-rout-4955850",
     "SG Banks|https://www.investing.com/news/cryptocurrency-news/eos-falls-11-in-rout-4955850",
-    "Watchlist|https://www.investing.com/news/cryptocurrency-news/eos-falls-11-in-rout-4955850"
+    "Watchlist|https://www.investing.com/news/cryptocurrency-news/eos-falls-11-in-rout-4955850",
+    "AI|941260dd-99cf-3fea-be58-1cc2cf7baf8c",
+    "Watchlist|941260dd-99cf-3fea-be58-1cc2cf7baf8c",
+    "SG Banks|/international/microsoft-scraps-uk-data-centre-deal-nscale-telegraph-says",
+    "Watchlist|/international/microsoft-scraps-uk-data-centre-deal-nscale-telegraph-says",
+    "AI|4631808d-b8e7-3c1d-af9f-be8158a2ed10",
+    "AI|680d5127-3ffa-3ee8-8807-7750cb1d5678",
+    "Watchlist|4631808d-b8e7-3c1d-af9f-be8158a2ed10",
+    "Watchlist|680d5127-3ffa-3ee8-8807-7750cb1d5678"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792315459.381749
+  "last_check": 1792316364.9913673
 }
