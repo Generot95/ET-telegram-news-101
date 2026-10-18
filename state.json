@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|https://www.investing.com/news/stock-market-news/us-opens-missile-base-in-poland-as-trump-presidency-looms-over-nato-3718740",
-    "War|https://www.investing.com/news/world-news/quinoa-ceviche-and-chinese-fusion-on-menu-as-peru-hosts-biden-xi-3720035",
-    "War|https://www.investing.com/news/world-news/lebanon-awaits-truce-proposals-after-us-envoy-expresses-hope-3719089",
-    "War|https://www.investing.com/news/world-news/israel-questions-icc-judges-impartiality-in-netanyahu-arrest-case-3720345",
-    "War|https://www.investing.com/news/world-news/us-senate-republicans-to-pick-new-leader-amid-pressure-from-trump-allies-3719272",
     "War|https://www.investing.com/news/world-news/uk-southport-murder-suspect-due-to-go-on-trial-in-january-3720359",
     "War|https://www.investing.com/news/world-news/argentina-appeals-court-confirms-guilty-verdict-for-former-president-cristina-kirchner-3720259",
     "War|https://www.investing.com/news/world-news/israel-rejects-aid-groups-gaza-report-says-it-relies-on-partial-information-3720445",
@@ -5000,7 +4995,12 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/mid-penn-bancorp-director-mowery-buys-1982-in-common-stock-93CH-4955914",
     "Watchlist|/companies-markets/telcos-media-tech/netflix-names-ex-disney-tv-chair-peter-rice-content-chief",
     "Crypto|c9c57fb6-dd13-3257-bbe8-dbf2fa050f07",
-    "Watchlist|5eea52bc-73ea-3644-b613-9c9c7bf7e0be"
+    "Watchlist|5eea52bc-73ea-3644-b613-9c9c7bf7e0be",
+    "AI|5eea52bc-73ea-3644-b613-9c9c7bf7e0be",
+    "SG Banks|/opinion-features/mas-sgx-must-address-our-ipo-problem",
+    "Watchlist|/opinion-features/mas-sgx-must-address-our-ipo-problem",
+    "AI|0a4f42f6-a1df-3080-b526-fe534c4623ad",
+    "Watchlist|0a4f42f6-a1df-3080-b526-fe534c4623ad"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792329176.3237455
+  "last_check": 1792330096.9037993
 }
