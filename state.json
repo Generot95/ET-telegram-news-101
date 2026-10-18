@@ -1,20 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|/companies-markets/transport-logistics/malaysias-firefly-extends-seletar-subang-flight-cancellations",
-    "SG Banks|/companies-markets/kfc-picks-coca-cola-us-soda-supplier-ditches-longtime-partner-pepsico",
-    "Watchlist|/companies-markets/kfc-picks-coca-cola-us-soda-supplier-ditches-longtime-partner-pepsico",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-jb-hunt-q3-2026-revenue-beats-stock-slips-after-hours-93CH-4952769",
-    "AI|https://www.investing.com/news/insider-trading-news/guardant-health-director-alex-m-azar-ii-sells-11032-in-stock-93CH-4952778",
-    "AI|https://www.investing.com/news/insider-trading-news/reddit-ceo--president-steve-huffman-sells-274m-in-rddt-shares-93CH-4952779",
-    "AI|https://www.investing.com/news/insider-trading-news/ajb-investment-fund-ii-buys-13473-in-jewett-cameron-trading-co-ltd-93CH-4952780",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-jb-hunt-q3-2026-revenue-beats-stock-slips-after-hours-93CH-4952769",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/guardant-health-director-alex-m-azar-ii-sells-11032-in-stock-93CH-4952778",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/reddit-ceo--president-steve-huffman-sells-274m-in-rddt-shares-93CH-4952779",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/ajb-investment-fund-ii-buys-13473-in-jewett-cameron-trading-co-ltd-93CH-4952780",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-jb-hunt-q3-2026-revenue-beats-stock-slips-after-hours-93CH-4952769",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/guardant-health-director-alex-m-azar-ii-sells-11032-in-stock-93CH-4952778",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/reddit-ceo--president-steve-huffman-sells-274m-in-rddt-shares-93CH-4952779",
     "SG Banks|https://www.investing.com/news/insider-trading-news/ajb-investment-fund-ii-buys-13473-in-jewett-cameron-trading-co-ltd-93CH-4952780",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-jb-hunt-q3-2026-revenue-beats-stock-slips-after-hours-93CH-4952769",
     "Watchlist|https://www.investing.com/news/insider-trading-news/guardant-health-director-alex-m-azar-ii-sells-11032-in-stock-93CH-4952778",
@@ -5000,7 +4986,21 @@
     "AI|f9d1361f-8eb2-3fa5-b4d9-da3bc1537111",
     "AI|efb8587f-17ef-3d6d-be94-615c2b280017",
     "Watchlist|efb8587f-17ef-3d6d-be94-615c2b280017",
-    "Watchlist|f9d1361f-8eb2-3fa5-b4d9-da3bc1537111"
+    "Watchlist|f9d1361f-8eb2-3fa5-b4d9-da3bc1537111",
+    "AI|https://www.investing.com/news/company-news/forbes-travel-guideendorsed-le-must-brings-plasticfree-luxury-condiments-to-the-uae-4955887",
+    "AI|https://www.investing.com/news/insider-trading-news/princeton-bancorp-director-martin-tuchman-sells-95160-in-shares-93CH-4955888",
+    "Cybersecurity|https://www.investing.com/news/company-news/forbes-travel-guideendorsed-le-must-brings-plasticfree-luxury-condiments-to-the-uae-4955887",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/princeton-bancorp-director-martin-tuchman-sells-95160-in-shares-93CH-4955888",
+    "SG Banks|https://www.investing.com/news/company-news/forbes-travel-guideendorsed-le-must-brings-plasticfree-luxury-condiments-to-the-uae-4955887",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/princeton-bancorp-director-martin-tuchman-sells-95160-in-shares-93CH-4955888",
+    "Watchlist|https://www.investing.com/news/company-news/forbes-travel-guideendorsed-le-must-brings-plasticfree-luxury-condiments-to-the-uae-4955887",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/princeton-bancorp-director-martin-tuchman-sells-95160-in-shares-93CH-4955888",
+    "SG Banks|/companies-markets/kfc-picks-coca-cola-us-soda-supplier-ditches-longtime-partner-pepsico",
+    "Watchlist|/companies-markets/kfc-picks-coca-cola-us-soda-supplier-ditches-longtime-partner-pepsico",
+    "War|WP-MKTW-0005293372",
+    "AI|6dc9daf9-e7c0-4a83-a242-bfc76ebc62ce",
+    "AI|WP-MKTW-0005293372",
+    "Cybersecurity|WP-MKTW-0005293372"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792324606.2189505
+  "last_check": 1792325511.221243
 }
