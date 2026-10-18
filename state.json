@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/insider-trading-news/nippon-life-insurance-co-acquires-88-million-corebridge-financial-shares-93CH-4952664",
-    "AI|https://www.investing.com/news/stock-market-news/coreweave-three-cofounders-sold-33-billion-in-shares-since-ipo-4952665",
-    "AI|https://www.investing.com/news/transcripts/optimi-health-at-the-thinkequity-conference-natural-psilocybin-push-93CH-4952666",
-    "AI|https://www.investing.com/news/analyst-ratings/freedom-broker-upgrades-jpmorgan-stock-rating-to-buy-on-valuation-93CH-4952669",
-    "AI|https://www.investing.com/news/earnings/cohen--steers-stock-leaps-over-5-on-strong-inflows-despite-q3-miss-93CH-4952671",
-    "AI|https://www.investing.com/news/company-news/idacorp-declares-090-quarterly-dividend-93CH-4952673",
-    "AI|https://www.investing.com/news/stock-market-news/hain-celestial-weighs-chapter-11-filing-as-debt-pressures-build--bloomberg-4952659",
     "AI|https://www.investing.com/news/company-news/carriage-services-declares-quarterly-dividend-of-1125-cents-93CH-4952648",
     "AI|https://www.investing.com/news/company-news/capital-southwest-reports-q2-preliminary-results-schedules-call-93CH-4952649",
     "AI|https://www.investing.com/news/company-news/22nd-century-reports-161-sales-jump-for-cigarette-brands-93CH-4952651",
@@ -5000,7 +4993,14 @@
     "Watchlist|https://www.investing.com/news/economy-news/venezuela-expects-76-billion-oil-investment-boost-amid-us-cooperation-4955719",
     "Iran|https://www.iranintl.com/en/202610157450",
     "SG Banks|/companies-markets/us-stocks-wall-street-ends-down-sharply-worries-about-ai-trade-high-oil-prices-weigh",
-    "Watchlist|/companies-markets/us-stocks-wall-street-ends-down-sharply-worries-about-ai-trade-high-oil-prices-weigh"
+    "Watchlist|/companies-markets/us-stocks-wall-street-ends-down-sharply-worries-about-ai-trade-high-oil-prices-weigh",
+    "SG Banks|/companies-markets/capital-markets-currencies/ai-trade-reversal-pierces-asias-star-picks-and-shovels-stocks",
+    "Watchlist|/companies-markets/capital-markets-currencies/ai-trade-reversal-pierces-asias-star-picks-and-shovels-stocks",
+    "AI|c449bc27-2dfa-32b3-9044-c21a98d829b8",
+    "Crypto|c449bc27-2dfa-32b3-9044-c21a98d829b8",
+    "SG Banks|/companies-markets/capital-markets-currencies/ai-funding-fears-puncture-rally-asias-high-flying-picks-and-shovels-stocks",
+    "Watchlist|/companies-markets/capital-markets-currencies/ai-funding-fears-puncture-rally-asias-high-flying-picks-and-shovels-stocks",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/ai-trade-reversal-pierces-asias-star-picks-and-shovels-stocks"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792287968.8774374
+  "last_check": 1792288906.8182847
 }
