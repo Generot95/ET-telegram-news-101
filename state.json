@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Crypto|a9974e7a-dbb1-34ee-b892-005656cb0a97",
-    "War|65f73a2c-a1d0-3896-98af-0535bd171a00",
-    "AI|528f1285-29ee-3dc3-a31b-079612b0f79f",
-    "AI|https://www.investing.com/news/company-news/lng-energy-group-completes-second-tranche-of-private-placement-93CH-4952843",
-    "AI|https://www.investing.com/news/insider-trading-news/td-synnex-chair-polk-sells-629k-in-common-stock-93CH-4952844",
-    "AI|https://www.investing.com/news/insider-trading-news/bjs-wholesale-club-president--ceo-robert-eddy-sells-197-million-in-stock-93CH-4952845",
-    "AI|https://www.investing.com/news/insider-trading-news/samsara-evp-cto-john-bicket-sells-11-million-in-stock-93CH-4952847",
-    "AI|https://www.investing.com/news/insider-trading-news/samsara-ceo-sanjit-biswas-sells-11m-in-shares-in-october-93CH-4952846",
-    "AI|https://www.investing.com/news/economy-news/analysismarket-selloff-rising-rates-test-ai-data-centre-deal-boom-4951734",
-    "AI|https://www.investing.com/news/company-news/faraday-copper-completes-acquisition-of-bhps-san-manuel-project-93CH-4952849",
-    "AI|https://www.investing.com/news/economy-news/feds-goolsbee-on-inflation-discouraging-but-still-some-optimism-4952861",
-    "Cybersecurity|https://www.investing.com/news/company-news/lng-energy-group-completes-second-tranche-of-private-placement-93CH-4952843",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/td-synnex-chair-polk-sells-629k-in-common-stock-93CH-4952844",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/bjs-wholesale-club-president--ceo-robert-eddy-sells-197-million-in-stock-93CH-4952845",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/samsara-evp-cto-john-bicket-sells-11-million-in-stock-93CH-4952847",
@@ -5000,7 +4988,19 @@
     "AI|662f49c4-92a7-3969-b2ff-bf59a74fd40c",
     "Crypto|eaaa926c-d3b7-30ba-bb9b-a95b77d43e6b",
     "SG Banks|/companies-markets/capital-markets-currencies/chinas-plan-make-yuan-global-currency-enters-faster-phase",
-    "Watchlist|/companies-markets/capital-markets-currencies/chinas-plan-make-yuan-global-currency-enters-faster-phase"
+    "Watchlist|/companies-markets/capital-markets-currencies/chinas-plan-make-yuan-global-currency-enters-faster-phase",
+    "AI|a99d3f42-3220-394a-9cf0-2a2b77c898e5",
+    "AI|c8a1e026-d7e8-3a0e-99da-39e38a0814ae",
+    "AI|9995f929-4223-3ac7-9712-ca36c8a6e444",
+    "AI|62f2b731-34d1-3b37-836f-9af5810b0821",
+    "Watchlist|c8a1e026-d7e8-3a0e-99da-39e38a0814ae",
+    "Watchlist|9995f929-4223-3ac7-9712-ca36c8a6e444",
+    "Watchlist|ecb6b9db-b9ae-319a-abe6-91b4a0fa26f1",
+    "Watchlist|a99d3f42-3220-394a-9cf0-2a2b77c898e5",
+    "AI|19ae1e4b-a19e-3bd8-b9fa-5033bc0fef34",
+    "Watchlist|19ae1e4b-a19e-3bd8-b9fa-5033bc0fef34",
+    "AI|59cfc6ca-6619-3c40-90e3-44a26f76d058",
+    "Watchlist|59cfc6ca-6619-3c40-90e3-44a26f76d058"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792334680.974007
+  "last_check": 1792335605.1856043
 }
