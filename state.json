@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/carriage-services-declares-quarterly-dividend-of-1125-cents-93CH-4952648",
-    "AI|https://www.investing.com/news/company-news/capital-southwest-reports-q2-preliminary-results-schedules-call-93CH-4952649",
-    "AI|https://www.investing.com/news/company-news/22nd-century-reports-161-sales-jump-for-cigarette-brands-93CH-4952651",
-    "AI|https://www.investing.com/news/company-news/delphx-capital-markets-names-emily-richardson-as-cfo-93CH-4952650",
-    "AI|https://www.investing.com/news/company-news/loop-industries-scales-back-india-facility-to-45-kilotonnes-93CH-4952652",
     "AI|https://www.investing.com/news/company-news/conexeu-sciences-closes-5-million-private-placement-93CH-4952653",
     "AI|https://www.investing.com/news/company-news/hysteryale-names-matthew-cornell-as-chief-financial-officer-93CH-4952656",
     "AI|https://www.investing.com/news/company-news/vogenx-initiates-phase-2b-trial-for-postbariatric-hypoglycemia-93CH-4952657",
@@ -5000,7 +4995,12 @@
     "Crypto|c449bc27-2dfa-32b3-9044-c21a98d829b8",
     "SG Banks|/companies-markets/capital-markets-currencies/ai-funding-fears-puncture-rally-asias-high-flying-picks-and-shovels-stocks",
     "Watchlist|/companies-markets/capital-markets-currencies/ai-funding-fears-puncture-rally-asias-high-flying-picks-and-shovels-stocks",
-    "SG Banks|https://www.straitstimes.com/business/companies-markets/ai-trade-reversal-pierces-asias-star-picks-and-shovels-stocks"
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/ai-trade-reversal-pierces-asias-star-picks-and-shovels-stocks",
+    "War|dfa84529-31c9-3326-a200-8298f92c1559",
+    "AI|https://www.investing.com/news/stock-market-news/asian-ai-stocks-fall-as-rising-financing-costs-threaten-spending-boom--bloomberg-4955727",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/asian-ai-stocks-fall-as-rising-financing-costs-threaten-spending-boom--bloomberg-4955727",
+    "SG Banks|https://www.investing.com/news/stock-market-news/asian-ai-stocks-fall-as-rising-financing-costs-threaten-spending-boom--bloomberg-4955727",
+    "Watchlist|https://www.investing.com/news/stock-market-news/asian-ai-stocks-fall-as-rising-financing-costs-threaten-spending-boom--bloomberg-4955727"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792288906.8182847
+  "last_check": 1792289827.2236798
 }
