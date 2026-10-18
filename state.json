@@ -1,7 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/site-centers-sells-joint-venture-stake-declares-3-special-dividend-93CH-4952693",
     "SG Banks|https://www.investing.com/news/company-news/buenaventura-reports-q3-2026-production-revises-guidance-93CH-4952694",
     "SG Banks|https://www.investing.com/news/stock-market-news/some-investors-push-anthropic-to-cut-ipo-valuation-to-15-trillion--report-4952696",
     "SG Banks|https://www.investing.com/news/economy-news/global-tech-rout-loses-steam-4952697",
@@ -5000,7 +4999,8 @@
     "SG Banks|/companies-markets/capital-markets-currencies/weak-links-start-show-ai-borrowing",
     "Watchlist|/companies-markets/capital-markets-currencies/weak-links-start-show-ai-borrowing",
     "SG Banks|/companies-markets/capital-markets-currencies/cracks-emerge-ai-borrowing-boom-coreweave-oracle-and-softbank-debt-worries-grow",
-    "Watchlist|/companies-markets/capital-markets-currencies/cracks-emerge-ai-borrowing-boom-coreweave-oracle-and-softbank-debt-worries-grow"
+    "Watchlist|/companies-markets/capital-markets-currencies/cracks-emerge-ai-borrowing-boom-coreweave-oracle-and-softbank-debt-worries-grow",
+    "Crypto|b493b559-452d-363c-b8a8-aa210c3075d8"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792307226.5752633
+  "last_check": 1792308144.0831356
 }
