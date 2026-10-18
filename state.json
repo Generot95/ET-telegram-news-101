@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/economy-news/global-tech-rout-loses-steam-4952697",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/tigress-financial-raises-costco-stock-price-target-on-membership-growth-93CH-4952699",
-    "Watchlist|https://www.investing.com/news/stock-market-news/site-centers-stock-surges-on-3-special-dividend-4952700",
     "Watchlist|https://www.investing.com/news/stock-market-news/exclusiveinvestors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-slowdown-sources-say-4952698",
     "Watchlist|https://www.investing.com/news/stock-market-news/volvo-cars-expands-automated-driving-partnership-with-nvidia-4952421",
     "Watchlist|https://www.investing.com/news/insider-trading-news/hims--hers-chief-legal-officer-sells-100576-in-stock-93CH-4952706",
@@ -5000,7 +4997,10 @@
     "AI|https://www.investing.com/news/stock-market-news/nestle-unilever-face-regulatory-action-in-india-over-misleading-health-claims-4955820",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/nestle-unilever-face-regulatory-action-in-india-over-misleading-health-claims-4955820",
     "SG Banks|https://www.investing.com/news/stock-market-news/nestle-unilever-face-regulatory-action-in-india-over-misleading-health-claims-4955820",
-    "Watchlist|https://www.investing.com/news/stock-market-news/nestle-unilever-face-regulatory-action-in-india-over-misleading-health-claims-4955820"
+    "Watchlist|https://www.investing.com/news/stock-market-news/nestle-unilever-face-regulatory-action-in-india-over-misleading-health-claims-4955820",
+    "AI|8c3f5312-4c8f-3dec-a239-a51dcf2a5232",
+    "Watchlist|a8431c9a-f5ea-3697-8ea8-4e2babed84d5",
+    "AI|a8431c9a-f5ea-3697-8ea8-4e2babed84d5"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792309964.7213783
+  "last_check": 1792310876.9828928
 }
