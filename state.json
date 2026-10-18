@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.channelnewsasia.com/business/thoma-bravos-proofpoint-buy-varonis-systems-in-63-billion-all-cash-deal-6463991",
-    "Watchlist|d9758db7-3317-387e-8a82-93248788f575",
-    "Watchlist|0702353d-6d00-32b1-869b-4078d0acc9a1",
-    "AI|15369f2d-b8b1-3a52-ac07-8260ca5c4004",
-    "Crypto|d58a9455-849b-37bf-957a-ba8e7f4ec407",
-    "Watchlist|9e632ab6-d4d9-39f4-82e9-f984abfbc306",
-    "Crypto|88251629-717c-321c-8afc-e56ed118eb19",
-    "AI|a2a9fe00-cbb4-3a14-b553-0d44d3c9774f",
     "AI|fa620f67-ffb6-3828-b360-b409da059085",
     "Watchlist|a2a9fe00-cbb4-3a14-b553-0d44d3c9774f",
     "Watchlist|fa620f67-ffb6-3828-b360-b409da059085",
@@ -5000,7 +4992,15 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/edward-meyercord-extreme-networks-ceo-sells-109m-in-shares-93CH-4955704",
     "Watchlist|https://www.investing.com/news/insider-trading-news/clover-health-ceo-andrew-toy-sells-13m-in-shares-93CH-4955703",
     "Watchlist|https://www.investing.com/news/insider-trading-news/edward-meyercord-extreme-networks-ceo-sells-109m-in-shares-93CH-4955704",
-    "Watchlist|711e8a28-c396-3dd7-a389-64ebb7c02b72"
+    "Watchlist|711e8a28-c396-3dd7-a389-64ebb7c02b72",
+    "AI|9596be02-5f76-3801-8e73-352bf6409215",
+    "Watchlist|9596be02-5f76-3801-8e73-352bf6409215",
+    "AI|https://www.investing.com/news/company-news/softbank-in-early-talks-to-acquire-allied-universal-for-up-to-18-billion--wsj-4955709",
+    "Cybersecurity|https://www.investing.com/news/company-news/softbank-in-early-talks-to-acquire-allied-universal-for-up-to-18-billion--wsj-4955709",
+    "SG Banks|https://www.investing.com/news/company-news/softbank-in-early-talks-to-acquire-allied-universal-for-up-to-18-billion--wsj-4955709",
+    "Watchlist|https://www.investing.com/news/company-news/softbank-in-early-talks-to-acquire-allied-universal-for-up-to-18-billion--wsj-4955709",
+    "AI|541e72a7-3755-35d3-a52d-573008e5569b",
+    "Watchlist|541e72a7-3755-35d3-a52d-573008e5569b"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792284313.1731298
+  "last_check": 1792285228.2601895
 }
