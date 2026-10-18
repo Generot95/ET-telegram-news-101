@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|https://www.investing.com/news/world-news/uk-southport-murder-suspect-due-to-go-on-trial-in-january-3720359",
-    "War|https://www.investing.com/news/world-news/argentina-appeals-court-confirms-guilty-verdict-for-former-president-cristina-kirchner-3720259",
-    "War|https://www.investing.com/news/world-news/israel-rejects-aid-groups-gaza-report-says-it-relies-on-partial-information-3720445",
-    "SG Banks|https://www.straitstimes.com/business/netflix-names-former-disney-executive-rice-as-new-content-chief-as-bajaria-departs",
-    "AI|https://www.investing.com/news/insider-trading-news/apple-svp-newstead-sells-827655-in-shares-93CH-4952809",
-    "AI|https://www.investing.com/news/insider-trading-news/etsy-executive-chair-josh-silverman-sells-91629-in-company-stock-93CH-4952810",
     "AI|https://www.investing.com/news/company-news/hertz-energy-announces-investor-participation-in-private-placement-93CH-4952815",
     "AI|https://www.investing.com/news/world-news/exclusiveorder-to-limit-starshield-for-ukraine-came-from-inside-white-house-sources-say-4952816",
     "AI|https://www.investing.com/news/economic-indicators/globalev-sales-fall-2-in-september-ending-sixmonth-growth-streak-4952814",
@@ -5000,7 +4994,13 @@
     "SG Banks|/opinion-features/mas-sgx-must-address-our-ipo-problem",
     "Watchlist|/opinion-features/mas-sgx-must-address-our-ipo-problem",
     "AI|0a4f42f6-a1df-3080-b526-fe534c4623ad",
-    "Watchlist|0a4f42f6-a1df-3080-b526-fe534c4623ad"
+    "Watchlist|0a4f42f6-a1df-3080-b526-fe534c4623ad",
+    "SG Banks|/international/samsung-use-tsmc-tech-nvidias-next-generation-memory-chips-says-seoul-newspaper",
+    "Watchlist|/international/samsung-use-tsmc-tech-nvidias-next-generation-memory-chips-says-seoul-newspaper",
+    "Watchlist|17b4bacc-ecfd-354e-8a05-9132fc6a7878",
+    "AI|e987369e-60be-3187-8252-84717f608013",
+    "Watchlist|e987369e-60be-3187-8252-84717f608013",
+    "Iran|https://www.iranintl.com/en/202610180983"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792330096.9037993
+  "last_check": 1792331013.0490031
 }
