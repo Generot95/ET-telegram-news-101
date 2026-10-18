@@ -1,17 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/economy-news/euro-gets-muchneeded-reprieve-as-ai-wobbles-rock-the-dollar-4952939",
-    "AI|https://www.investing.com/news/commodities-news/gold-steadies-near-4160-as-stock-selloff-drives-bond-rally-treasury-yields-fall-4952940",
-    "AI|https://www.investing.com/news/insider-trading-news/applied-digital-director-nottenburg-sells-682500-in-apld-shares-93CH-4952944",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/ajb-investment-fund-ii-lp-buys-2565-of-jewett-cameron-trading-co-shares-93CH-4952935",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/nurix-therapeutics-cso-gwenn-hansen-sells-36300-in-common-stock-93CH-4952936",
-    "Cybersecurity|https://www.investing.com/news/economy-news/euro-gets-muchneeded-reprieve-as-ai-wobbles-rock-the-dollar-4952939",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/gold-steadies-near-4160-as-stock-selloff-drives-bond-rally-treasury-yields-fall-4952940",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/applied-digital-director-nottenburg-sells-682500-in-apld-shares-93CH-4952944",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/ajb-investment-fund-ii-lp-buys-2565-of-jewett-cameron-trading-co-shares-93CH-4952935",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/nurix-therapeutics-cso-gwenn-hansen-sells-36300-in-common-stock-93CH-4952936",
-    "SG Banks|https://www.investing.com/news/economy-news/euro-gets-muchneeded-reprieve-as-ai-wobbles-rock-the-dollar-4952939",
     "SG Banks|https://www.investing.com/news/commodities-news/gold-steadies-near-4160-as-stock-selloff-drives-bond-rally-treasury-yields-fall-4952940",
     "SG Banks|https://www.investing.com/news/insider-trading-news/applied-digital-director-nottenburg-sells-682500-in-apld-shares-93CH-4952944",
     "Watchlist|https://www.investing.com/news/insider-trading-news/ajb-investment-fund-ii-lp-buys-2565-of-jewett-cameron-trading-co-shares-93CH-4952935",
@@ -5000,7 +4989,18 @@
     "War|6f492db9-b914-3d9d-9fe8-70ea434d4ba0",
     "SG Banks|/companies-markets/anthropic-shift-some-shares-new-public-good-fund",
     "Watchlist|/companies-markets/anthropic-shift-some-shares-new-public-good-fund",
-    "War|https://www.investing.com/news/commodities-news/gold-steadies-near-4160-as-stock-selloff-drives-bond-rally-treasury-yields-fall-4952940"
+    "War|https://www.investing.com/news/commodities-news/gold-steadies-near-4160-as-stock-selloff-drives-bond-rally-treasury-yields-fall-4952940",
+    "AI|https://www.investing.com/news/stock-market-news/australias-challenger-gets-takeover-bid-from-unit-of-japans-daiichi-life-4956101",
+    "AI|https://www.investing.com/news/company-news/veradermics-to-present-phase-3-hair-loss-trial-results-monday-93CH-4956109",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/australias-challenger-gets-takeover-bid-from-unit-of-japans-daiichi-life-4956101",
+    "Cybersecurity|https://www.investing.com/news/company-news/veradermics-to-present-phase-3-hair-loss-trial-results-monday-93CH-4956109",
+    "SG Banks|https://www.investing.com/news/stock-market-news/australias-challenger-gets-takeover-bid-from-unit-of-japans-daiichi-life-4956101",
+    "SG Banks|https://www.investing.com/news/company-news/veradermics-to-present-phase-3-hair-loss-trial-results-monday-93CH-4956109",
+    "Watchlist|https://www.investing.com/news/stock-market-news/australias-challenger-gets-takeover-bid-from-unit-of-japans-daiichi-life-4956101",
+    "Watchlist|https://www.investing.com/news/company-news/veradermics-to-present-phase-3-hair-loss-trial-results-monday-93CH-4956109",
+    "AI|6d7de36e-5075-3938-8c49-fb57d46f29d4",
+    "Cybersecurity|6d7de36e-5075-3938-8c49-fb57d46f29d4",
+    "Watchlist|6d7de36e-5075-3938-8c49-fb57d46f29d4"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792361210.5876732
+  "last_check": 1792362138.3736544
 }
