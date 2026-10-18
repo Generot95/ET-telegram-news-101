@@ -1,17 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|fa620f67-ffb6-3828-b360-b409da059085",
-    "Watchlist|a2a9fe00-cbb4-3a14-b553-0d44d3c9774f",
-    "Watchlist|fa620f67-ffb6-3828-b360-b409da059085",
-    "Iran|https://www.iranintl.com/en/202610118579",
-    "Watchlist|7d40a322-4708-3ce5-86b2-c05a80730d9e",
-    "SG Banks|https://www.channelnewsasia.com/business/dollar-recedes-18-month-high-bond-rally-tempers-impact-hot-inflation-data-6461011",
-    "Iran|https://www.iranintl.com/en/202610157450",
-    "AI|604cfd22-3e7c-3727-a1e5-f06cc473c183",
-    "Watchlist|f0380f0d-7420-3378-9837-d0198de957d2",
-    "Watchlist|604cfd22-3e7c-3727-a1e5-f06cc473c183",
-    "AI|https://www.investing.com/news/earnings/first-financial-bankshares-reports-inline-q3-earnings-but-revenue-misses-estimates-93CH-4952662",
     "AI|https://www.investing.com/news/insider-trading-news/nippon-life-insurance-co-acquires-88-million-corebridge-financial-shares-93CH-4952664",
     "AI|https://www.investing.com/news/stock-market-news/coreweave-three-cofounders-sold-33-billion-in-shares-since-ipo-4952665",
     "AI|https://www.investing.com/news/transcripts/optimi-health-at-the-thinkequity-conference-natural-psilocybin-push-93CH-4952666",
@@ -5000,7 +4989,18 @@
     "SG Banks|https://www.investing.com/news/company-news/softbank-in-early-talks-to-acquire-allied-universal-for-up-to-18-billion--wsj-4955709",
     "Watchlist|https://www.investing.com/news/company-news/softbank-in-early-talks-to-acquire-allied-universal-for-up-to-18-billion--wsj-4955709",
     "AI|541e72a7-3755-35d3-a52d-573008e5569b",
-    "Watchlist|541e72a7-3755-35d3-a52d-573008e5569b"
+    "Watchlist|541e72a7-3755-35d3-a52d-573008e5569b",
+    "AI|843d0d0a-3a53-3635-be68-fb1f8e9e2484",
+    "Watchlist|843d0d0a-3a53-3635-be68-fb1f8e9e2484",
+    "AI|94bf0a75-3196-376f-9b4c-ee8c2bd24aec",
+    "Watchlist|94bf0a75-3196-376f-9b4c-ee8c2bd24aec",
+    "AI|https://www.investing.com/news/economy-news/venezuela-expects-76-billion-oil-investment-boost-amid-us-cooperation-4955719",
+    "Cybersecurity|https://www.investing.com/news/economy-news/venezuela-expects-76-billion-oil-investment-boost-amid-us-cooperation-4955719",
+    "SG Banks|https://www.investing.com/news/economy-news/venezuela-expects-76-billion-oil-investment-boost-amid-us-cooperation-4955719",
+    "Watchlist|https://www.investing.com/news/economy-news/venezuela-expects-76-billion-oil-investment-boost-amid-us-cooperation-4955719",
+    "Iran|https://www.iranintl.com/en/202610157450",
+    "SG Banks|/companies-markets/us-stocks-wall-street-ends-down-sharply-worries-about-ai-trade-high-oil-prices-weigh",
+    "Watchlist|/companies-markets/us-stocks-wall-street-ends-down-sharply-worries-about-ai-trade-high-oil-prices-weigh"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792287068.8989527
+  "last_check": 1792287968.8774374
 }
