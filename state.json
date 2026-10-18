@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/crowdstrike-president-and-ceo-george-kurtz-sells-515m-in-stock-93CH-4952904",
-    "AI|631fcf85-e47c-3d95-9e0e-4b9415e4d073",
-    "Watchlist|631fcf85-e47c-3d95-9e0e-4b9415e4d073",
     "War|fe6c3027-4bb8-3a53-9335-f72f2557a1cd",
     "AI|https://www.investing.com/news/stock-market-news/pls-group-shares-rise-3-as-it-approves-13-billion-lithium-expansion-4952908",
     "AI|https://www.investing.com/news/insider-trading-news/micron-svp-chief-legal-officer-michael-ray-sells-37891-in-stock-93CH-4952917",
@@ -5000,7 +4997,10 @@
     "Crypto|8caeb620-fc3f-393d-b19d-10721c012616",
     "Crypto|e376829d-36b9-3450-b820-91414919f735",
     "AI|1958f030-ef1e-3ed0-8d69-3e2dda182c91",
-    "Watchlist|1958f030-ef1e-3ed0-8d69-3e2dda182c91"
+    "Watchlist|1958f030-ef1e-3ed0-8d69-3e2dda182c91",
+    "AI|97c2b45a-6681-3031-a56d-3cc911d5c980",
+    "Watchlist|97c2b45a-6681-3031-a56d-3cc911d5c980",
+    "Watchlist|a7a0882f-ef95-39a2-967e-3d614d224c35"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792351138.4806962
+  "last_check": 1792352054.356051
 }
