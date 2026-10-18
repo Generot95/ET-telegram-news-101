@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/economy-news/analysismarket-selloff-rising-rates-test-ai-data-centre-deal-boom-4951734",
-    "Watchlist|https://www.investing.com/news/company-news/faraday-copper-completes-acquisition-of-bhps-san-manuel-project-93CH-4952849",
-    "Watchlist|https://www.investing.com/news/economy-news/feds-goolsbee-on-inflation-discouraging-but-still-some-optimism-4952861",
     "Iran|https://www.iranintl.com/en/202610118708",
     "SG Banks|/companies-markets/we-were-born-very-privileged-what-do-we-do-next-gen-heirs-want-more-say-family-offices",
     "Watchlist|/companies-markets/we-were-born-very-privileged-what-do-we-do-next-gen-heirs-want-more-say-family-offices",
@@ -5000,7 +4997,10 @@
     "AI|7cc1a175-f570-3956-b78d-fa7d2a6bf02d",
     "Watchlist|7cc1a175-f570-3956-b78d-fa7d2a6bf02d",
     "AI|43460ef5-5d50-4700-8eb0-a1ed54152598",
-    "Watchlist|43460ef5-5d50-4700-8eb0-a1ed54152598"
+    "Watchlist|43460ef5-5d50-4700-8eb0-a1ed54152598",
+    "War|eb72bb29-19f0-4cb0-8ceb-1f46f6ace570",
+    "Watchlist|c10b69fb-9bef-3718-8124-300f655c29a5",
+    "AI|c10b69fb-9bef-3718-8124-300f655c29a5"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792339250.6099806
+  "last_check": 1792340170.6548264
 }
