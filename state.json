@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|4fb558a0-6333-302d-a1c6-fd2ce8ed8984",
-    "Watchlist|a3e7d0f1-f12d-3fcf-be06-44a435263577",
     "AI|4fb558a0-6333-302d-a1c6-fd2ce8ed8984",
     "AI|b042180d-d91f-3f1c-ae01-f7a21898b08d",
     "AI|https://www.investing.com/news/company-news/site-centers-sells-joint-venture-stake-declares-3-special-dividend-93CH-4952693",
@@ -5000,7 +4998,9 @@
     "Watchlist|https://www.investing.com/news/company-news/woodside-halts-work-at-scarborough-gas-project-after-greenpeace-protest-4955780",
     "Watchlist|https://www.investing.com/news/stock-market-news/rubio-heads-to-central-asia-while-other-us-officials-hit-foreign-policy-hot-spots-4955781",
     "AI|d79d7c1f-2a42-388d-9666-b1931649c856",
-    "Watchlist|d79d7c1f-2a42-388d-9666-b1931649c856"
+    "Watchlist|d79d7c1f-2a42-388d-9666-b1931649c856",
+    "AI|358c313a-d30d-3826-9625-ccedcd107125",
+    "Watchlist|358c313a-d30d-3826-9625-ccedcd107125"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792301708.5177438
+  "last_check": 1792302644.6275203
 }
