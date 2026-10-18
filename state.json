@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/conexeu-sciences-closes-5-million-private-placement-93CH-4952653",
-    "AI|https://www.investing.com/news/company-news/hysteryale-names-matthew-cornell-as-chief-financial-officer-93CH-4952656",
     "AI|https://www.investing.com/news/company-news/vogenx-initiates-phase-2b-trial-for-postbariatric-hypoglycemia-93CH-4952657",
     "Cybersecurity|https://www.investing.com/news/earnings/first-financial-bankshares-reports-inline-q3-earnings-but-revenue-misses-estimates-93CH-4952662",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/nippon-life-insurance-co-acquires-88-million-corebridge-financial-shares-93CH-4952664",
@@ -5000,7 +4998,9 @@
     "AI|https://www.investing.com/news/stock-market-news/asian-ai-stocks-fall-as-rising-financing-costs-threaten-spending-boom--bloomberg-4955727",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/asian-ai-stocks-fall-as-rising-financing-costs-threaten-spending-boom--bloomberg-4955727",
     "SG Banks|https://www.investing.com/news/stock-market-news/asian-ai-stocks-fall-as-rising-financing-costs-threaten-spending-boom--bloomberg-4955727",
-    "Watchlist|https://www.investing.com/news/stock-market-news/asian-ai-stocks-fall-as-rising-financing-costs-threaten-spending-boom--bloomberg-4955727"
+    "Watchlist|https://www.investing.com/news/stock-market-news/asian-ai-stocks-fall-as-rising-financing-costs-threaten-spending-boom--bloomberg-4955727",
+    "AI|497d1605-aa5c-38fd-9a8a-95d42c0efac6",
+    "Watchlist|497d1605-aa5c-38fd-9a8a-95d42c0efac6"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792289827.2236798
+  "last_check": 1792290730.9512515
 }
