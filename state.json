@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/earnings/lcnb-earnings-beat-by-004-revenue-topped-estimates-4952879",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/progress-toward-a-usmexico-tariff-deal-has-stalled-wsj-reports-4952880",
-    "Cybersecurity|https://www.investing.com/news/earnings/loop-industries-earnings-missed-by-002-revenue-fell-short-of-estimates-4952881",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/white-house-ordered-spacex-to-limit-ukraine-satellite-service-reuters-reports-93CH-4952891",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/terrestrial-energy-director-pardee-buys-22125-in-company-stock-93CH-4952892",
     "SG Banks|https://www.investing.com/news/commodities-news/oil-prices-edge-lower-on-improving-supplies-wti-set-for-strong-week-4952863",
@@ -5000,7 +4997,10 @@
     "War|WP-MKTW-0005283692",
     "AI|WP-MKTW-0005283692",
     "Cybersecurity|WP-MKTW-0005283692",
-    "Crypto|47eebb9f-f215-360f-8284-d7f3d9aad61f"
+    "Crypto|47eebb9f-f215-360f-8284-d7f3d9aad61f",
+    "AI|20cce852-d8f3-3b31-810c-eae02705cdf1",
+    "Watchlist|20cce852-d8f3-3b31-810c-eae02705cdf1",
+    "AI|ed0989bc-7f86-3159-bfe5-8576369b8065"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792343816.875103
+  "last_check": 1792344740.7064056
 }
