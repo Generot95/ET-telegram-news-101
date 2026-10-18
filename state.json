@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|f85c02f9-e4f8-313f-a9fa-6d41213daba8",
-    "AI|2eeb40cb-9307-3e31-b903-e507e61cab14",
-    "Watchlist|2eeb40cb-9307-3e31-b903-e507e61cab14",
-    "War|4ad255d3-f1cf-3b61-8695-6c6602e00f93",
-    "AI|d81c7c26-6bf6-373c-9f7b-0e85e9f2bedf",
     "Crypto|48152376-e3d7-3146-939c-20973cfd8ee9",
     "Watchlist|d81c7c26-6bf6-373c-9f7b-0e85e9f2bedf",
     "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-interactive-brokers-posts-q3-2026-revenue-beat-93CH-4952716",
@@ -5000,7 +4995,12 @@
     "AI|https://www.investing.com/news/insider-trading-news/olesen-value-fund-sells-716664-of-solitron-devices-stock-93CH-4955832",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/olesen-value-fund-sells-716664-of-solitron-devices-stock-93CH-4955832",
     "SG Banks|https://www.investing.com/news/insider-trading-news/olesen-value-fund-sells-716664-of-solitron-devices-stock-93CH-4955832",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/olesen-value-fund-sells-716664-of-solitron-devices-stock-93CH-4955832"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/olesen-value-fund-sells-716664-of-solitron-devices-stock-93CH-4955832",
+    "Iran|https://www.iranintl.com/en/202610157665",
+    "AI|3182b35b-f40f-39e9-b17f-004aa84e4bc3",
+    "Watchlist|3182b35b-f40f-39e9-b17f-004aa84e4bc3",
+    "AI|03398f63-f575-31c3-8a8f-15d1be3f1d5c",
+    "Watchlist|03398f63-f575-31c3-8a8f-15d1be3f1d5c"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792312709.3779166
+  "last_check": 1792313626.2520392
 }
