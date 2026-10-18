@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/micron-technology-svp-michael-ray-sells-58-million-in-stock-93CH-4952918",
-    "SG Banks|https://www.investing.com/news/stock-market-news/pls-group-shares-rise-3-as-it-approves-13-billion-lithium-expansion-4952908",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/micron-svp-chief-legal-officer-michael-ray-sells-37891-in-stock-93CH-4952917",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/micron-technology-svp-michael-ray-sells-58-million-in-stock-93CH-4952918",
-    "Watchlist|https://www.investing.com/news/stock-market-news/pls-group-shares-rise-3-as-it-approves-13-billion-lithium-expansion-4952908",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/micron-svp-chief-legal-officer-michael-ray-sells-37891-in-stock-93CH-4952917",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/micron-technology-svp-michael-ray-sells-58-million-in-stock-93CH-4952918",
-    "SG Banks|bef8f6f8-3827-3538-bedc-00f712f590ce",
-    "SG Banks|/companies-markets/fintech-platform-icapital-plans-more-singapore-hires-even-ai-takes-75-coding-work",
-    "Watchlist|/companies-markets/fintech-platform-icapital-plans-more-singapore-hires-even-ai-takes-75-coding-work",
-    "AI|c90dd8f3-8334-360d-adc4-19111693df54",
-    "SG Banks|/companies-markets/energy-commodities/gold-eases-after-climbing-over-1-previous-session",
-    "Watchlist|c90dd8f3-8334-360d-adc4-19111693df54",
     "Watchlist|/companies-markets/energy-commodities/gold-eases-after-climbing-over-1-previous-session",
     "SG Banks|https://www.straitstimes.com/business/singapores-key-exports-rise-more-than-expected-in-september-driven-by-non-electronics",
     "AI|71630b18-03c8-336b-8fde-18e48039afc1",
@@ -5000,7 +4987,20 @@
     "Watchlist|5875f170-045f-3d3c-bb50-0a763a5e36b8",
     "Crypto|fd051575-77b3-3915-a34d-e4c817d67e01",
     "AI|05b8ed8f-ad2d-3bcc-bea4-dd976f092e62",
-    "Watchlist|05b8ed8f-ad2d-3bcc-bea4-dd976f092e62"
+    "Watchlist|05b8ed8f-ad2d-3bcc-bea4-dd976f092e62",
+    "Watchlist|901cf85d-6694-3a50-9fa5-ed442eb6258b",
+    "AI|48664293-fad0-31aa-9b59-9f0f597f1e48",
+    "AI|901cf85d-6694-3a50-9fa5-ed442eb6258b",
+    "AI|https://www.investing.com/news/insider-trading-news/park-ohio-secretary--clo-vilsack-sells-148000-in-common-stock-93CH-4956057",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/park-ohio-secretary--clo-vilsack-sells-148000-in-common-stock-93CH-4956057",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/park-ohio-secretary--clo-vilsack-sells-148000-in-common-stock-93CH-4956057",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/park-ohio-secretary--clo-vilsack-sells-148000-in-common-stock-93CH-4956057",
+    "Crypto|9a2569e1-c2d6-3905-a6c0-1cb6a4f6de75",
+    "AI|bf0152ed-4278-3586-b496-28b1208c57cf",
+    "SG Banks|bef8f6f8-3827-3538-bedc-00f712f590ce",
+    "Watchlist|bf0152ed-4278-3586-b496-28b1208c57cf",
+    "SG Banks|/companies-markets/fintech-platform-icapital-plans-more-singapore-hires-even-ai-takes-75-coding-work",
+    "Watchlist|/companies-markets/fintech-platform-icapital-plans-more-singapore-hires-even-ai-takes-75-coding-work"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792354794.677624
+  "last_check": 1792355725.3394156
 }
