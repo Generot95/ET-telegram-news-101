@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|WP-MKTW-0005290699",
-    "Cybersecurity|WP-MKTW-0005290699",
-    "Crypto|39de23aa-8667-349e-a51a-1859069debe0",
-    "Crypto|4a6b0897-f212-3a75-b44e-9a70709b32cb",
-    "AI|4fa350c7-d2cc-39ec-8800-5a0d9cb5300a",
-    "Watchlist|4fa350c7-d2cc-39ec-8800-5a0d9cb5300a",
-    "Crypto|633f1ae7-cc95-31c5-93f2-612784720c00",
-    "SG Banks|/companies-markets/capital-markets-currencies/chinas-plan-make-yuan-global-currency-enters-faster-phase",
-    "Watchlist|/companies-markets/capital-markets-currencies/chinas-plan-make-yuan-global-currency-enters-faster-phase",
-    "War|c918ac25-3e02-49aa-b3ea-73ab3221907c",
     "Crypto|a9974e7a-dbb1-34ee-b892-005656cb0a97",
     "War|65f73a2c-a1d0-3896-98af-0535bd171a00",
     "AI|528f1285-29ee-3dc3-a31b-079612b0f79f",
@@ -5000,7 +4990,17 @@
     "AI|https://www.investing.com/news/commodities-news/romanian-f16-fighter-jets-shoot-down-two-drones-over-romanian-territorial-waters-4955946",
     "Cybersecurity|https://www.investing.com/news/commodities-news/romanian-f16-fighter-jets-shoot-down-two-drones-over-romanian-territorial-waters-4955946",
     "SG Banks|https://www.investing.com/news/commodities-news/romanian-f16-fighter-jets-shoot-down-two-drones-over-romanian-territorial-waters-4955946",
-    "Watchlist|https://www.investing.com/news/commodities-news/romanian-f16-fighter-jets-shoot-down-two-drones-over-romanian-territorial-waters-4955946"
+    "Watchlist|https://www.investing.com/news/commodities-news/romanian-f16-fighter-jets-shoot-down-two-drones-over-romanian-territorial-waters-4955946",
+    "AI|92960808-5d61-35d1-8382-a2cf2e1c6089",
+    "Watchlist|92960808-5d61-35d1-8382-a2cf2e1c6089",
+    "AI|https://www.investing.com/news/analyst-ratings/jpmorgan-raises-icici-bank-stock-price-target-on-strong-earnings-93CH-4955968",
+    "Cybersecurity|https://www.investing.com/news/analyst-ratings/jpmorgan-raises-icici-bank-stock-price-target-on-strong-earnings-93CH-4955968",
+    "SG Banks|https://www.investing.com/news/analyst-ratings/jpmorgan-raises-icici-bank-stock-price-target-on-strong-earnings-93CH-4955968",
+    "Watchlist|https://www.investing.com/news/analyst-ratings/jpmorgan-raises-icici-bank-stock-price-target-on-strong-earnings-93CH-4955968",
+    "AI|662f49c4-92a7-3969-b2ff-bf59a74fd40c",
+    "Crypto|eaaa926c-d3b7-30ba-bb9b-a95b77d43e6b",
+    "SG Banks|/companies-markets/capital-markets-currencies/chinas-plan-make-yuan-global-currency-enters-faster-phase",
+    "Watchlist|/companies-markets/capital-markets-currencies/chinas-plan-make-yuan-global-currency-enters-faster-phase"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792333772.7944608
+  "last_check": 1792334680.974007
 }
