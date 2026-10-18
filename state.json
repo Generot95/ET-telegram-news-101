@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/prime-drink-group-launches-c4m-financing-closes-c200k-placement-93CH-4952874",
-    "SG Banks|https://www.investing.com/news/company-news/mongolian-mining-reports-q3-coal-sales-drop-gold-output-rises-93CH-4952876",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-pls-stock-rising-today-93CH-4952877",
-    "SG Banks|https://www.investing.com/news/company-news/cathie-woods-ark-sells-amazon-stock-buys-coreweave-and-iambic-93CH-4952878",
-    "SG Banks|https://www.investing.com/news/earnings/lcnb-earnings-beat-by-004-revenue-topped-estimates-4952879",
-    "SG Banks|https://www.investing.com/news/commodities-news/progress-toward-a-usmexico-tariff-deal-has-stalled-wsj-reports-4952880",
     "SG Banks|https://www.investing.com/news/earnings/loop-industries-earnings-missed-by-002-revenue-fell-short-of-estimates-4952881",
     "SG Banks|https://www.investing.com/news/stock-market-news/white-house-ordered-spacex-to-limit-ukraine-satellite-service-reuters-reports-93CH-4952891",
     "SG Banks|https://www.investing.com/news/insider-trading-news/terrestrial-energy-director-pardee-buys-22125-in-company-stock-93CH-4952892",
@@ -5000,7 +4994,13 @@
     "AI|ed0989bc-7f86-3159-bfe5-8576369b8065",
     "Crypto|27a69291-80c4-3aa9-9032-d961551b64ff",
     "AI|53c68f35-26ab-3aa9-9d71-bf90d9697bb9",
-    "Watchlist|53c68f35-26ab-3aa9-9d71-bf90d9697bb9"
+    "Watchlist|53c68f35-26ab-3aa9-9d71-bf90d9697bb9",
+    "AI|7ea393c2-35e1-3ae6-867c-b0823a4d2075",
+    "Watchlist|7ea393c2-35e1-3ae6-867c-b0823a4d2075",
+    "AI|https://www.investing.com/news/stock-market-news/european-earnings-preview-can-q3-results-meet-high-expectations-4956029",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/european-earnings-preview-can-q3-results-meet-high-expectations-4956029",
+    "SG Banks|https://www.investing.com/news/stock-market-news/european-earnings-preview-can-q3-results-meet-high-expectations-4956029",
+    "Watchlist|https://www.investing.com/news/stock-market-news/european-earnings-preview-can-q3-results-meet-high-expectations-4956029"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792346553.0987232
+  "last_check": 1792347486.3631208
 }
