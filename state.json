@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/prime-drink-group-launches-c4m-financing-closes-c200k-placement-93CH-4952874",
-    "Cybersecurity|https://www.investing.com/news/company-news/mongolian-mining-reports-q3-coal-sales-drop-gold-output-rises-93CH-4952876",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-pls-stock-rising-today-93CH-4952877",
-    "Cybersecurity|https://www.investing.com/news/company-news/cathie-woods-ark-sells-amazon-stock-buys-coreweave-and-iambic-93CH-4952878",
     "Cybersecurity|https://www.investing.com/news/earnings/lcnb-earnings-beat-by-004-revenue-topped-estimates-4952879",
     "Cybersecurity|https://www.investing.com/news/commodities-news/progress-toward-a-usmexico-tariff-deal-has-stalled-wsj-reports-4952880",
     "Cybersecurity|https://www.investing.com/news/earnings/loop-industries-earnings-missed-by-002-revenue-fell-short-of-estimates-4952881",
@@ -5000,7 +4996,11 @@
     "AI|https://www.investing.com/news/commodities-news/captain-of-flydubai-planedescribes-blocking-axe-blows-as-copilot-attacked-4956008",
     "Cybersecurity|https://www.investing.com/news/commodities-news/captain-of-flydubai-planedescribes-blocking-axe-blows-as-copilot-attacked-4956008",
     "SG Banks|https://www.investing.com/news/commodities-news/captain-of-flydubai-planedescribes-blocking-axe-blows-as-copilot-attacked-4956008",
-    "Watchlist|https://www.investing.com/news/commodities-news/captain-of-flydubai-planedescribes-blocking-axe-blows-as-copilot-attacked-4956008"
+    "Watchlist|https://www.investing.com/news/commodities-news/captain-of-flydubai-planedescribes-blocking-axe-blows-as-copilot-attacked-4956008",
+    "War|WP-MKTW-0005283692",
+    "AI|WP-MKTW-0005283692",
+    "Cybersecurity|WP-MKTW-0005283692",
+    "Crypto|47eebb9f-f215-360f-8284-d7f3d9aad61f"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792342909.9111125
+  "last_check": 1792343816.875103
 }
