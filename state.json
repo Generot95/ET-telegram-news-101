@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|/companies-markets/energy-commodities/brent-steady-us-weighs-easing-sanctions-global-shadow-fleet",
-    "SG Banks|/companies-markets/singapore-shares-rise-0-3-tuesday-jardine-matheson-banks-gain",
-    "SG Banks|/companies-markets/transport-logistics/malaysias-firefly-extends-seletar-subang-flight-cancellations",
-    "War|ec4d37db-bfce-3205-80bf-51efa402a925",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-alcoa-tops-q3-2026-eps-forecast-as-revenue-misses-93CH-4952743",
-    "AI|https://www.investing.com/news/company-news/msci-proposes-downgrading-indonesia-to-standalone-market-status-93CH-4952751",
-    "AI|https://www.investing.com/news/stock-market-news/elon-musk-agrees-to-settle-lawsuits-over-2024-election-lottery-4952753",
-    "AI|https://www.investing.com/news/company-news/alcoa-q3-2026-slides-strong-operations-offset-metal-price-pressure-93CH-4952756",
-    "AI|https://www.investing.com/news/stock-market-news/exclusiveun-chief-frontrunner-rebeca-grynspan-says-un-has-become-too-riskaverse-4952757",
-    "AI|https://www.investing.com/news/stock-market-news/anthropic-to-add-us-voting-information-to-claude-before-midterms-oct-14-4952758",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-alcoa-tops-q3-2026-eps-forecast-as-revenue-misses-93CH-4952743",
-    "Cybersecurity|https://www.investing.com/news/company-news/msci-proposes-downgrading-indonesia-to-standalone-market-status-93CH-4952751",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/elon-musk-agrees-to-settle-lawsuits-over-2024-election-lottery-4952753",
     "Cybersecurity|https://www.investing.com/news/company-news/alcoa-q3-2026-slides-strong-operations-offset-metal-price-pressure-93CH-4952756",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/exclusiveun-chief-frontrunner-rebeca-grynspan-says-un-has-become-too-riskaverse-4952757",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/anthropic-to-add-us-voting-information-to-claude-before-midterms-oct-14-4952758",
@@ -5000,7 +4987,20 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/rgc-resources-senior-vp-lawrence-oliver-buys-200-in-stock-93CH-4955874",
     "SG Banks|/startups-tech/technology/market-sell-rising-rates-test-ai-data-centre-deal-boom",
     "Watchlist|/startups-tech/technology/market-sell-rising-rates-test-ai-data-centre-deal-boom",
-    "SG Banks|/companies-markets/energy-commodities/brent-steady-us-weighs-easing-sanctions-global-shadow-fleet"
+    "SG Banks|/companies-markets/energy-commodities/brent-steady-us-weighs-easing-sanctions-global-shadow-fleet",
+    "AI|https://www.investing.com/news/economy-news/analysisimfworld-bank-meetings-leave-developing-countries-with-more-questions-than-answers-4955879",
+    "AI|https://www.investing.com/news/investment-ideas/investingpros-fair-value-spotted-infleqtions-52-drop-in-advance-93CH-4955881",
+    "Cybersecurity|https://www.investing.com/news/economy-news/analysisimfworld-bank-meetings-leave-developing-countries-with-more-questions-than-answers-4955879",
+    "Cybersecurity|https://www.investing.com/news/investment-ideas/investingpros-fair-value-spotted-infleqtions-52-drop-in-advance-93CH-4955881",
+    "SG Banks|https://www.investing.com/news/economy-news/analysisimfworld-bank-meetings-leave-developing-countries-with-more-questions-than-answers-4955879",
+    "SG Banks|https://www.investing.com/news/investment-ideas/investingpros-fair-value-spotted-infleqtions-52-drop-in-advance-93CH-4955881",
+    "Watchlist|https://www.investing.com/news/economy-news/analysisimfworld-bank-meetings-leave-developing-countries-with-more-questions-than-answers-4955879",
+    "Watchlist|https://www.investing.com/news/investment-ideas/investingpros-fair-value-spotted-infleqtions-52-drop-in-advance-93CH-4955881",
+    "Watchlist|/companies-markets/energy-commodities/brent-steady-us-weighs-easing-sanctions-global-shadow-fleet",
+    "AI|6091bb23-3a85-364f-a74e-010641368ea9",
+    "AI|544433e0-7862-3c90-8f47-3bd53de4c3d8",
+    "Watchlist|6091bb23-3a85-364f-a74e-010641368ea9",
+    "Watchlist|544433e0-7862-3c90-8f47-3bd53de4c3d8"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792320958.7219386
+  "last_check": 1792321852.4686341
 }
