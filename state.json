@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/volvo-cars-expands-automated-driving-partnership-with-nvidia-4952421",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/hims--hers-chief-legal-officer-sells-100576-in-stock-93CH-4952706",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/rosenblatt-reiterates-buy-on-super-micro-stock-after-cfo-hire-93CH-4952707",
-    "Watchlist|https://www.investing.com/news/company-news/site-centers-sells-joint-venture-stake-declares-3-special-dividend-93CH-4952693",
-    "Watchlist|https://www.investing.com/news/company-news/buenaventura-reports-q3-2026-production-revises-guidance-93CH-4952694",
-    "Watchlist|https://www.investing.com/news/stock-market-news/some-investors-push-anthropic-to-cut-ipo-valuation-to-15-trillion--report-4952696",
     "Watchlist|https://www.investing.com/news/economy-news/global-tech-rout-loses-steam-4952697",
     "Watchlist|https://www.investing.com/news/analyst-ratings/tigress-financial-raises-costco-stock-price-target-on-membership-growth-93CH-4952699",
     "Watchlist|https://www.investing.com/news/stock-market-news/site-centers-stock-surges-on-3-special-dividend-4952700",
@@ -5000,7 +4994,13 @@
     "SG Banks|https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-meta-gets-streethigh-pt-salesforce-double-upgraded-4955491",
     "Watchlist|https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-meta-gets-streethigh-pt-salesforce-double-upgraded-4955491",
     "AI|eea2f087-1358-3864-88a6-cf59ecc84bb0",
-    "Watchlist|eea2f087-1358-3864-88a6-cf59ecc84bb0"
+    "Watchlist|eea2f087-1358-3864-88a6-cf59ecc84bb0",
+    "AI|a5f6b589-8621-31bc-a73d-66866dafb04d",
+    "Watchlist|a5f6b589-8621-31bc-a73d-66866dafb04d",
+    "AI|https://www.investing.com/news/stock-market-news/nestle-unilever-face-regulatory-action-in-india-over-misleading-health-claims-4955820",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/nestle-unilever-face-regulatory-action-in-india-over-misleading-health-claims-4955820",
+    "SG Banks|https://www.investing.com/news/stock-market-news/nestle-unilever-face-regulatory-action-in-india-over-misleading-health-claims-4955820",
+    "Watchlist|https://www.investing.com/news/stock-market-news/nestle-unilever-face-regulatory-action-in-india-over-misleading-health-claims-4955820"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792309048.6394868
+  "last_check": 1792309964.7213783
 }
