@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|045d15a8-3e43-342c-95f4-b7c2773d5cfb",
-    "Watchlist|045d15a8-3e43-342c-95f4-b7c2773d5cfb",
-    "AI|4a01fc8e-804d-3c4e-94a8-ada52e90a26a",
-    "Watchlist|4a01fc8e-804d-3c4e-94a8-ada52e90a26a",
-    "War|48541ea9-9e6c-32ee-913e-f68135537811",
-    "AI|2b02d90e-cb03-3ca0-8439-6711ebbd3d9b",
-    "Watchlist|2b02d90e-cb03-3ca0-8439-6711ebbd3d9b",
-    "AI|https://www.investing.com/news/stock-market-news/strive-prices-upsized-ipo-of-preferred-stock-at-90-per-share-432SI-4952961",
-    "AI|https://www.investing.com/news/stock-market-news/singapore-nonoil-exports-jump-biggerthanexpected-684-in-september-93CH-4952972",
-    "AI|https://www.investing.com/news/insider-trading-news/isq-global-fund-ii-gp-director-sells-1095m-kinetik-holdings-stock-93CH-4952977",
-    "AI|https://www.investing.com/news/stock-market-news/taiwan-plans-4-bln-texas-park-to-support-nvidias-ai-supply-chain--bloomberg-4952979",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/strive-prices-upsized-ipo-of-preferred-stock-at-90-per-share-432SI-4952961",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/singapore-nonoil-exports-jump-biggerthanexpected-684-in-september-93CH-4952972",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/isq-global-fund-ii-gp-director-sells-1095m-kinetik-holdings-stock-93CH-4952977",
     "SG Banks|https://www.investing.com/news/stock-market-news/strive-prices-upsized-ipo-of-preferred-stock-at-90-per-share-432SI-4952961",
     "SG Banks|https://www.investing.com/news/stock-market-news/singapore-nonoil-exports-jump-biggerthanexpected-684-in-september-93CH-4952972",
@@ -5000,7 +4987,20 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/xpo-cfo-kyle-wismans-sells-131602-in-company-stock-93CH-4956124",
     "War|662cd973-b8a5-338a-9c12-88070fd61f3e",
     "AI|40f43dc3-f32b-351b-89b6-b53fd8c786cc",
-    "Watchlist|40f43dc3-f32b-351b-89b6-b53fd8c786cc"
+    "Watchlist|40f43dc3-f32b-351b-89b6-b53fd8c786cc",
+    "SG Banks|/companies-markets/kioxia-shares-face-headwinds-margin-buying-gone-wrong",
+    "Watchlist|/companies-markets/kioxia-shares-face-headwinds-margin-buying-gone-wrong",
+    "SG Banks|https://www.straitstimes.com/business/anthropic-to-commit-5-stake-to-new-public-benefit-fund",
+    "War|48664293-fad0-31aa-9b59-9f0f597f1e48",
+    "War|68ed7e84-aa9f-3f06-8196-b7ce04f1a454",
+    "AI|https://www.investing.com/news/stock-market-news/australias-ampol-thirdquarter-lytton-refining-margin-more-than-doubles-4956132",
+    "AI|https://www.investing.com/news/stock-market-news/putin-proposes-summit-with-trump-and-xi-on-ukraine-wsj-93CH-4956133",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/australias-ampol-thirdquarter-lytton-refining-margin-more-than-doubles-4956132",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/putin-proposes-summit-with-trump-and-xi-on-ukraine-wsj-93CH-4956133",
+    "SG Banks|https://www.investing.com/news/stock-market-news/australias-ampol-thirdquarter-lytton-refining-margin-more-than-doubles-4956132",
+    "SG Banks|https://www.investing.com/news/stock-market-news/putin-proposes-summit-with-trump-and-xi-on-ukraine-wsj-93CH-4956133",
+    "Watchlist|https://www.investing.com/news/stock-market-news/australias-ampol-thirdquarter-lytton-refining-margin-more-than-doubles-4956132",
+    "Watchlist|https://www.investing.com/news/stock-market-news/putin-proposes-summit-with-trump-and-xi-on-ukraine-wsj-93CH-4956133"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792366701.0233047
+  "last_check": 1792367630.9745438
 }
