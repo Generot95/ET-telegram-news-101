@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/transcripts/lantern-pharma-at-thinkequity-conference-ai-drug-push-gains-pace-93CH-4952625",
-    "SG Banks|https://www.investing.com/news/company-news/daily-journal-acquires-digital-evidence-software-firm-revir-93CH-4952626",
-    "SG Banks|https://www.investing.com/news/company-news/boreal-gold-closes-final-tranche-of-private-placement-at-154200-93CH-4952627",
-    "SG Banks|https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-106-4952628",
-    "SG Banks|https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-155-4952636",
-    "SG Banks|https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-108-4952637",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-jb-hunt-transport-stock-sliding-today-93CH-4952641",
-    "Watchlist|https://www.investing.com/news/company-news/halliburton-appoints-hunt-consolidated-president-to-board-93CH-4952621",
-    "Watchlist|https://www.investing.com/news/earnings/prologis-tops-third-quarter-estimates-on-strong-demand-4952622",
     "Watchlist|https://www.investing.com/news/earnings/cohen-steers-earnings-missed-by-003-revenue-fell-short-of-estimates-4952623",
     "Watchlist|https://www.investing.com/news/transcripts/lantern-pharma-at-thinkequity-conference-ai-drug-push-gains-pace-93CH-4952625",
     "Watchlist|https://www.investing.com/news/company-news/daily-journal-acquires-digital-evidence-software-firm-revir-93CH-4952626",
@@ -5000,7 +4991,16 @@
     "SG Banks|/international/global/we-were-born-very-privileged-what-do-we-do-next-gen-heirs-want-more-say-family-offices",
     "Watchlist|/international/global/we-were-born-very-privileged-what-do-we-do-next-gen-heirs-want-more-say-family-offices",
     "AI|c7ba7c33-4127-3d5f-9e0d-8313a8bd6d5c",
-    "Watchlist|c7ba7c33-4127-3d5f-9e0d-8313a8bd6d5c"
+    "Watchlist|c7ba7c33-4127-3d5f-9e0d-8313a8bd6d5c",
+    "Iran|https://www.iranintl.com/en/202610152591",
+    "AI|https://www.investing.com/news/economy-news/us-urges-israel-to-curb-settler-violence-in-west-bank-rubio-says-4955694",
+    "Cybersecurity|https://www.investing.com/news/economy-news/us-urges-israel-to-curb-settler-violence-in-west-bank-rubio-says-4955694",
+    "SG Banks|https://www.investing.com/news/economy-news/us-urges-israel-to-curb-settler-violence-in-west-bank-rubio-says-4955694",
+    "Watchlist|https://www.investing.com/news/economy-news/us-urges-israel-to-curb-settler-violence-in-west-bank-rubio-says-4955694",
+    "AI|98f7e400-cc49-3636-9dde-86ec6842b48a",
+    "AI|75b8d364-0f7b-3509-a0da-c58e31bedd20",
+    "Watchlist|98f7e400-cc49-3636-9dde-86ec6842b48a",
+    "Watchlist|75b8d364-0f7b-3509-a0da-c58e31bedd20"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792282487.8095746
+  "last_check": 1792283392.3072376
 }
