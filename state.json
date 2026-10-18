@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.channelnewsasia.com/business/investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-slowdown-sources-say-6464056",
-    "AI|https://www.investing.com/news/insider-trading-news/stonex-ceo-philip-smith-sells-26m-in-company-stock-93CH-4952826",
-    "AI|https://www.investing.com/news/insider-trading-news/brc-inc-founder-evan-hafer-sells-166729-in-common-stock-93CH-4952827",
-    "AI|https://www.investing.com/news/insider-trading-news/zeff-capital-sells-236k-of-butler-national-stock-in-october-93CH-4952840",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/stonex-ceo-philip-smith-sells-26m-in-company-stock-93CH-4952826",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/brc-inc-founder-evan-hafer-sells-166729-in-common-stock-93CH-4952827",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/zeff-capital-sells-236k-of-butler-national-stock-in-october-93CH-4952840",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/stonex-ceo-philip-smith-sells-26m-in-company-stock-93CH-4952826",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/brc-inc-founder-evan-hafer-sells-166729-in-common-stock-93CH-4952827",
     "SG Banks|https://www.investing.com/news/insider-trading-news/zeff-capital-sells-236k-of-butler-national-stock-in-october-93CH-4952840",
     "Watchlist|https://www.investing.com/news/insider-trading-news/stonex-ceo-philip-smith-sells-26m-in-company-stock-93CH-4952826",
     "Watchlist|https://www.investing.com/news/insider-trading-news/brc-inc-founder-evan-hafer-sells-166729-in-common-stock-93CH-4952827",
@@ -5000,7 +4991,16 @@
     "Watchlist|https://www.investing.com/news/earnings/metrocity-bankshares-earnings-in-spotlight-after-q2-miss-93CH-4955923",
     "Watchlist|https://www.investing.com/news/company-news/spyre-presents-clinical-data-on-ibd-antibody-therapies-93CH-4955924",
     "AI|0b8362db-a3fb-3be9-938c-2681c50d409c",
-    "Watchlist|0b8362db-a3fb-3be9-938c-2681c50d409c"
+    "Watchlist|0b8362db-a3fb-3be9-938c-2681c50d409c",
+    "War|WP-MKTW-0005292823",
+    "AI|WP-MKTW-0005292823",
+    "Cybersecurity|WP-MKTW-0005292823",
+    "AI|cf68e160-62a0-3f81-aae0-bc5f6ac76f74",
+    "SG Banks|/international/ai-rally-wobbles-stock-markets-spotlight-turns-earnings",
+    "Watchlist|/international/ai-rally-wobbles-stock-markets-spotlight-turns-earnings",
+    "Crypto|fd6bd9a0-d83e-30b8-95c3-3efbdca1a56d",
+    "AI|ae475c3f-752c-307b-bffb-d03fb27642c0",
+    "Watchlist|ae475c3f-752c-307b-bffb-d03fb27642c0"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792331932.5167022
+  "last_check": 1792332843.3380284
 }
