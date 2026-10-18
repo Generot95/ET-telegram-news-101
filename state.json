@@ -1,21 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|/companies-markets/blackstone-backed-airtrunk-delays-singapore-reit-ipo-amid-ai-stock-sell-sources-say",
-    "Watchlist|/companies-markets/blackstone-backed-airtrunk-delays-singapore-reit-ipo-amid-ai-stock-sell-sources-say",
-    "Iran|https://www.iranintl.com/en/202610147510",
-    "SG Banks|https://www.straitstimes.com/business/capital-worlds-ability-to-keep-operating-depends-on-completing-mustafa-mall-deal-auditors-say",
-    "AI|https://www.investing.com/news/stock-market-news/msci-freezes-certain-turkey-index-changes-warns-of-potential-market-downgrade-4952952",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/msci-freezes-certain-turkey-index-changes-warns-of-potential-market-downgrade-4952952",
-    "SG Banks|https://www.investing.com/news/stock-market-news/msci-freezes-certain-turkey-index-changes-warns-of-potential-market-downgrade-4952952",
-    "Watchlist|https://www.investing.com/news/stock-market-news/msci-freezes-certain-turkey-index-changes-warns-of-potential-market-downgrade-4952952",
-    "AI|0dac0726-5667-396f-b3ac-9b4036f2732b",
-    "Watchlist|0dac0726-5667-396f-b3ac-9b4036f2732b",
-    "SG Banks|/companies-markets/energy-commodities/palm-oil-stocks-slide-after-singapore-begins-looking-which-firms-responsible-haze",
-    "Watchlist|/companies-markets/energy-commodities/palm-oil-stocks-slide-after-singapore-begins-looking-which-firms-responsible-haze",
-    "AI|4940768b-7f56-3e5b-9ab9-cac7d9645de9",
-    "War|b50295aa-cd46-35d3-b6b7-7c5e0661a822",
-    "Crypto|f407b8c9-d161-3b74-8d87-d0017e8d8024",
     "Watchlist|4940768b-7f56-3e5b-9ab9-cac7d9645de9",
     "AI|290fa1c3-b20a-302a-8275-12c7f18a976b",
     "AI|1e650364-02e6-3991-b2ac-a591c10fa7cf",
@@ -5000,7 +4985,22 @@
     "SG Banks|/companies-markets/energy-commodities/oil-slips-trumps-sanction-waiver-may-lead-more-russian-fuel-supplies",
     "Watchlist|2c0c2cbf-9fcc-30c5-81a7-c17e739f24c4",
     "Watchlist|/companies-markets/energy-commodities/oil-slips-trumps-sanction-waiver-may-lead-more-russian-fuel-supplies",
-    "Watchlist|8210f96d-162c-30ed-aba1-6bbb0bd5c658"
+    "Watchlist|8210f96d-162c-30ed-aba1-6bbb0bd5c658",
+    "Crypto|5f8b8bef-ae0a-3832-bee8-0d7778f74d6e",
+    "AI|f6fc884e-084c-32e4-8b2f-7bf09a292c3e",
+    "Watchlist|f6fc884e-084c-32e4-8b2f-7bf09a292c3e",
+    "Iran|https://www.iranintl.com/en/202610147510",
+    "War|https://www.investing.com/news/commodities-news/oil-slips-as-trumps-sanction-waiver-may-lead-to-more-russian-fuel-supplies-4956112",
+    "AI|https://www.investing.com/news/commodities-news/oil-slips-as-trumps-sanction-waiver-may-lead-to-more-russian-fuel-supplies-4956112",
+    "AI|https://www.investing.com/news/economy-news/boj-may-need-to-tighten-faster-if-inflation-beats-forecast-imf-says-4956113",
+    "Cybersecurity|https://www.investing.com/news/commodities-news/oil-slips-as-trumps-sanction-waiver-may-lead-to-more-russian-fuel-supplies-4956112",
+    "Cybersecurity|https://www.investing.com/news/economy-news/boj-may-need-to-tighten-faster-if-inflation-beats-forecast-imf-says-4956113",
+    "SG Banks|https://www.investing.com/news/commodities-news/oil-slips-as-trumps-sanction-waiver-may-lead-to-more-russian-fuel-supplies-4956112",
+    "SG Banks|https://www.investing.com/news/economy-news/boj-may-need-to-tighten-faster-if-inflation-beats-forecast-imf-says-4956113",
+    "Watchlist|https://www.investing.com/news/commodities-news/oil-slips-as-trumps-sanction-waiver-may-lead-to-more-russian-fuel-supplies-4956112",
+    "Watchlist|https://www.investing.com/news/economy-news/boj-may-need-to-tighten-faster-if-inflation-beats-forecast-imf-says-4956113",
+    "SG Banks|/companies-markets/energy-commodities/palm-oil-stocks-slide-after-singapore-begins-looking-which-firms-responsible-haze",
+    "Watchlist|/companies-markets/energy-commodities/palm-oil-stocks-slide-after-singapore-begins-looking-which-firms-responsible-haze"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792363035.7779264
+  "last_check": 1792363956.0665386
 }
