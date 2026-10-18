@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/idacorp-declares-090-quarterly-dividend-93CH-4952673",
-    "Watchlist|https://www.investing.com/news/earnings/first-financial-bankshares-reports-inline-q3-earnings-but-revenue-misses-estimates-93CH-4952662",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/nippon-life-insurance-co-acquires-88-million-corebridge-financial-shares-93CH-4952664",
-    "Watchlist|https://www.investing.com/news/stock-market-news/coreweave-three-cofounders-sold-33-billion-in-shares-since-ipo-4952665",
     "Watchlist|https://www.investing.com/news/transcripts/optimi-health-at-the-thinkequity-conference-natural-psilocybin-push-93CH-4952666",
     "Watchlist|https://www.investing.com/news/analyst-ratings/freedom-broker-upgrades-jpmorgan-stock-rating-to-buy-on-valuation-93CH-4952669",
     "Watchlist|https://www.investing.com/news/earnings/cohen--steers-stock-leaps-over-5-on-strong-inflows-despite-q3-miss-93CH-4952671",
@@ -5000,7 +4996,11 @@
     "SG Banks|https://www.straitstimes.com/business/7-eleven-adds-hot-food-counters-at-16-singapore-stores-as-dfi-retail-sharpens-growth-focus",
     "Watchlist|/companies-markets/s-reits-commence-q3-earnings-season-interest-rates-remain-focus",
     "Watchlist|/companies-markets/insider-stakes-rise-alongside-s40-million-buybacks",
-    "Watchlist|/companies-markets/assembly-place-expands-beyond-co-living-it-targets-10000-keys-2030"
+    "Watchlist|/companies-markets/assembly-place-expands-beyond-co-living-it-targets-10000-keys-2030",
+    "AI|https://www.investing.com/news/earnings/nexttrip-earnings-missed-by-011-revenue-fell-short-of-estimates-4955760",
+    "Cybersecurity|https://www.investing.com/news/earnings/nexttrip-earnings-missed-by-011-revenue-fell-short-of-estimates-4955760",
+    "SG Banks|https://www.investing.com/news/earnings/nexttrip-earnings-missed-by-011-revenue-fell-short-of-estimates-4955760",
+    "Watchlist|https://www.investing.com/news/earnings/nexttrip-earnings-missed-by-011-revenue-fell-short-of-estimates-4955760"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792296228.7175314
+  "last_check": 1792297141.6145692
 }
