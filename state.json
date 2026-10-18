@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/elon-musk-agrees-to-settle-lawsuits-over-2024-election-lottery-4952753",
-    "SG Banks|https://www.investing.com/news/company-news/alcoa-q3-2026-slides-strong-operations-offset-metal-price-pressure-93CH-4952756",
-    "SG Banks|https://www.investing.com/news/stock-market-news/exclusiveun-chief-frontrunner-rebeca-grynspan-says-un-has-become-too-riskaverse-4952757",
-    "SG Banks|https://www.investing.com/news/stock-market-news/anthropic-to-add-us-voting-information-to-claude-before-midterms-oct-14-4952758",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-alcoa-tops-q3-2026-eps-forecast-as-revenue-misses-93CH-4952743",
-    "Watchlist|https://www.investing.com/news/company-news/msci-proposes-downgrading-indonesia-to-standalone-market-status-93CH-4952751",
-    "Watchlist|https://www.investing.com/news/stock-market-news/elon-musk-agrees-to-settle-lawsuits-over-2024-election-lottery-4952753",
     "Watchlist|https://www.investing.com/news/company-news/alcoa-q3-2026-slides-strong-operations-offset-metal-price-pressure-93CH-4952756",
     "Watchlist|https://www.investing.com/news/stock-market-news/exclusiveun-chief-frontrunner-rebeca-grynspan-says-un-has-become-too-riskaverse-4952757",
     "Watchlist|https://www.investing.com/news/stock-market-news/anthropic-to-add-us-voting-information-to-claude-before-midterms-oct-14-4952758",
@@ -5000,7 +4993,14 @@
     "Watchlist|802c6339-39fe-3aba-9808-30a65693a648",
     "AI|c35679b5-4cb1-3d09-a022-a9ddf3369eb7",
     "Watchlist|c35679b5-4cb1-3d09-a022-a9ddf3369eb7",
-    "War|4a750b63-5ab8-36c0-9a1f-c51e1136e678"
+    "War|4a750b63-5ab8-36c0-9a1f-c51e1136e678",
+    "AI|https://www.investing.com/news/investment-ideas/kelly-services-delivers-67-return-after-fair-value-signal-93CH-4955882",
+    "Cybersecurity|https://www.investing.com/news/investment-ideas/kelly-services-delivers-67-return-after-fair-value-signal-93CH-4955882",
+    "SG Banks|https://www.investing.com/news/investment-ideas/kelly-services-delivers-67-return-after-fair-value-signal-93CH-4955882",
+    "Watchlist|https://www.investing.com/news/investment-ideas/kelly-services-delivers-67-return-after-fair-value-signal-93CH-4955882",
+    "AI|d0e6ba23-bc87-3638-bf9b-db7950ec19b0",
+    "Watchlist|d0e6ba23-bc87-3638-bf9b-db7950ec19b0",
+    "Crypto|8b784173-e1b8-3404-bb80-d2f50cfea1cd"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792322774.5169988
+  "last_check": 1792323692.081256
 }
