@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/commodities-news/gold-steadies-near-4160-as-stock-selloff-drives-bond-rally-treasury-yields-fall-4952940",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/applied-digital-director-nottenburg-sells-682500-in-apld-shares-93CH-4952944",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/ajb-investment-fund-ii-lp-buys-2565-of-jewett-cameron-trading-co-shares-93CH-4952935",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/nurix-therapeutics-cso-gwenn-hansen-sells-36300-in-common-stock-93CH-4952936",
-    "Watchlist|https://www.investing.com/news/economy-news/euro-gets-muchneeded-reprieve-as-ai-wobbles-rock-the-dollar-4952939",
-    "Watchlist|https://www.investing.com/news/commodities-news/gold-steadies-near-4160-as-stock-selloff-drives-bond-rally-treasury-yields-fall-4952940",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/applied-digital-director-nottenburg-sells-682500-in-apld-shares-93CH-4952944",
     "SG Banks|/companies-markets/blackstone-backed-airtrunk-delays-singapore-reit-ipo-amid-ai-stock-sell-sources-say",
     "Watchlist|/companies-markets/blackstone-backed-airtrunk-delays-singapore-reit-ipo-amid-ai-stock-sell-sources-say",
     "Iran|https://www.iranintl.com/en/202610147510",
@@ -5000,7 +4993,14 @@
     "Watchlist|https://www.investing.com/news/company-news/veradermics-to-present-phase-3-hair-loss-trial-results-monday-93CH-4956109",
     "AI|6d7de36e-5075-3938-8c49-fb57d46f29d4",
     "Cybersecurity|6d7de36e-5075-3938-8c49-fb57d46f29d4",
-    "Watchlist|6d7de36e-5075-3938-8c49-fb57d46f29d4"
+    "Watchlist|6d7de36e-5075-3938-8c49-fb57d46f29d4",
+    "SG Banks|/international/bond-markets-big-short-bet-gets-wakeup-call-ai-trade-wobbles",
+    "Watchlist|/international/bond-markets-big-short-bet-gets-wakeup-call-ai-trade-wobbles",
+    "AI|2c0c2cbf-9fcc-30c5-81a7-c17e739f24c4",
+    "SG Banks|/companies-markets/energy-commodities/oil-slips-trumps-sanction-waiver-may-lead-more-russian-fuel-supplies",
+    "Watchlist|2c0c2cbf-9fcc-30c5-81a7-c17e739f24c4",
+    "Watchlist|/companies-markets/energy-commodities/oil-slips-trumps-sanction-waiver-may-lead-more-russian-fuel-supplies",
+    "Watchlist|8210f96d-162c-30ed-aba1-6bbb0bd5c658"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792362138.3736544
+  "last_check": 1792363035.7779264
 }
