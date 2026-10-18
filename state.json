@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/crescent-biopharma-advances-cancer-drug-trials-across-portfolio-93CH-4952612",
-    "Cybersecurity|https://www.investing.com/news/company-news/proofpoint-to-acquire-varonis-for-63-billion-in-cash-93CH-4952611",
-    "Cybersecurity|https://www.investing.com/news/company-news/texas-instruments-declares-quarterly-dividend-of-152-93CH-4952620",
-    "SG Banks|https://www.investing.com/news/company-news/halliburton-appoints-hunt-consolidated-president-to-board-93CH-4952621",
-    "SG Banks|https://www.investing.com/news/earnings/prologis-tops-third-quarter-estimates-on-strong-demand-4952622",
-    "SG Banks|https://www.investing.com/news/earnings/cohen-steers-earnings-missed-by-003-revenue-fell-short-of-estimates-4952623",
     "SG Banks|https://www.investing.com/news/transcripts/lantern-pharma-at-thinkequity-conference-ai-drug-push-gains-pace-93CH-4952625",
     "SG Banks|https://www.investing.com/news/company-news/daily-journal-acquires-digital-evidence-software-firm-revir-93CH-4952626",
     "SG Banks|https://www.investing.com/news/company-news/boreal-gold-closes-final-tranche-of-private-placement-at-154200-93CH-4952627",
@@ -5000,10 +4994,16 @@
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/maze-therapeutics-ceo-jason-coloma-sells-932259-in-maze-shares-93CH-4955685",
     "SG Banks|https://www.investing.com/news/insider-trading-news/maze-therapeutics-ceo-jason-coloma-sells-932259-in-maze-shares-93CH-4955685",
     "Watchlist|https://www.investing.com/news/insider-trading-news/maze-therapeutics-ceo-jason-coloma-sells-932259-in-maze-shares-93CH-4955685",
-    "War|da9b9576-f8f0-39e1-8351-6f5f1c9f8516"
+    "War|da9b9576-f8f0-39e1-8351-6f5f1c9f8516",
+    "Watchlist|ebf034a5-e757-3e5e-a8b9-9f32f1608a36",
+    "AI|ebf034a5-e757-3e5e-a8b9-9f32f1608a36",
+    "SG Banks|/international/global/we-were-born-very-privileged-what-do-we-do-next-gen-heirs-want-more-say-family-offices",
+    "Watchlist|/international/global/we-were-born-very-privileged-what-do-we-do-next-gen-heirs-want-more-say-family-offices",
+    "AI|c7ba7c33-4127-3d5f-9e0d-8313a8bd6d5c",
+    "Watchlist|c7ba7c33-4127-3d5f-9e0d-8313a8bd6d5c"
   ],
   "topic_error": "",
-  "last_digest": "2026-10-17",
+  "last_digest": "2026-10-18",
   "earnings": {
     "AMD": {
       "ts": 1793736000,
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792281575.7888842
+  "last_check": 1792282487.8095746
 }
