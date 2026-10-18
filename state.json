@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/earnings/loop-industries-earnings-missed-by-002-revenue-fell-short-of-estimates-4952881",
-    "SG Banks|https://www.investing.com/news/stock-market-news/white-house-ordered-spacex-to-limit-ukraine-satellite-service-reuters-reports-93CH-4952891",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/terrestrial-energy-director-pardee-buys-22125-in-company-stock-93CH-4952892",
-    "Watchlist|https://www.investing.com/news/commodities-news/oil-prices-edge-lower-on-improving-supplies-wti-set-for-strong-week-4952863",
-    "Watchlist|https://www.investing.com/news/company-news/prime-drink-group-launches-c4m-financing-closes-c200k-placement-93CH-4952874",
     "Watchlist|https://www.investing.com/news/company-news/mongolian-mining-reports-q3-coal-sales-drop-gold-output-rises-93CH-4952876",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-pls-stock-rising-today-93CH-4952877",
     "Watchlist|https://www.investing.com/news/company-news/cathie-woods-ark-sells-amazon-stock-buys-coreweave-and-iambic-93CH-4952878",
@@ -5000,7 +4995,12 @@
     "AI|https://www.investing.com/news/stock-market-news/european-earnings-preview-can-q3-results-meet-high-expectations-4956029",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/european-earnings-preview-can-q3-results-meet-high-expectations-4956029",
     "SG Banks|https://www.investing.com/news/stock-market-news/european-earnings-preview-can-q3-results-meet-high-expectations-4956029",
-    "Watchlist|https://www.investing.com/news/stock-market-news/european-earnings-preview-can-q3-results-meet-high-expectations-4956029"
+    "Watchlist|https://www.investing.com/news/stock-market-news/european-earnings-preview-can-q3-results-meet-high-expectations-4956029",
+    "Watchlist|f59ad3de-3599-32a2-b351-77d2d2ae2864",
+    "AI|f59ad3de-3599-32a2-b351-77d2d2ae2864",
+    "SG Banks|https://www.channelnewsasia.com/business/anthropic-commit-5-stake-new-public-benefit-fund-6470326",
+    "Crypto|765e5e68-67d6-3b43-899d-a03066953395",
+    "Crypto|18d5909d-7b18-37dd-90c8-1bec670dd33e"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792347486.3631208
+  "last_check": 1792348385.0522265
 }
