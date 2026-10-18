@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/earnings/cohen--steers-stock-leaps-over-5-on-strong-inflows-despite-q3-miss-93CH-4952671",
-    "Watchlist|https://www.investing.com/news/company-news/idacorp-declares-090-quarterly-dividend-93CH-4952673",
-    "Iran|https://www.iranintl.com/en/202610122248",
-    "SG Banks|/companies-markets/telcos-media-tech/aem-shares-down-8-global-chip-stocks-slide",
-    "SG Banks|/singapore/business-judgement-ai-proficiency-key-cyber-defender-roles-evolve-new-professional-standards-being",
-    "Watchlist|/companies-markets/telcos-media-tech/aem-shares-down-8-global-chip-stocks-slide",
-    "Watchlist|/singapore/business-judgement-ai-proficiency-key-cyber-defender-roles-evolve-new-professional-standards-being",
     "AI|ce1a04ac-f15e-3057-a279-12f3f24bc697",
     "SG Banks|https://www.straitstimes.com/business/invest/the-intangible-economy-is-making-everyone-miserable",
     "Watchlist|ce1a04ac-f15e-3057-a279-12f3f24bc697",
@@ -5000,7 +4993,14 @@
     "SG Banks|https://www.investing.com/news/earnings/nexttrip-earnings-missed-by-011-revenue-fell-short-of-estimates-4955760",
     "Watchlist|https://www.investing.com/news/earnings/nexttrip-earnings-missed-by-011-revenue-fell-short-of-estimates-4955760",
     "AI|2beff6b7-1ce2-30e1-8415-01d4f21b9504",
-    "Watchlist|2beff6b7-1ce2-30e1-8415-01d4f21b9504"
+    "Watchlist|2beff6b7-1ce2-30e1-8415-01d4f21b9504",
+    "AI|https://www.investing.com/news/insider-trading-news/standex-director-thomas-chorman-sells-13569-in-stock-93CH-4955769",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/standex-director-thomas-chorman-sells-13569-in-stock-93CH-4955769",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/standex-director-thomas-chorman-sells-13569-in-stock-93CH-4955769",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/standex-director-thomas-chorman-sells-13569-in-stock-93CH-4955769",
+    "Iran|https://www.iranintl.com/en/202610122248",
+    "AI|3452d81b-7b85-3490-8190-0df6e30c28da",
+    "Watchlist|3452d81b-7b85-3490-8190-0df6e30c28da"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792298052.3676085
+  "last_check": 1792298962.310611
 }
