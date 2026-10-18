@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/insider-trading-news/crowdstrike-president-and-ceo-george-kurtz-sells-515m-in-stock-93CH-4952904",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/tko-director-nick-khan-sells-168m-in-company-stock-93CH-4952902",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/talos-energy-10-owner-sells-518m-in-shares-93CH-4952903",
     "Watchlist|https://www.investing.com/news/insider-trading-news/crowdstrike-president-and-ceo-george-kurtz-sells-515m-in-stock-93CH-4952904",
     "AI|631fcf85-e47c-3d95-9e0e-4b9415e4d073",
     "Watchlist|631fcf85-e47c-3d95-9e0e-4b9415e4d073",
@@ -5000,7 +4997,10 @@
     "AI|5853fb03-6fe4-3885-9d21-1880ec0108ec",
     "Watchlist|5853fb03-6fe4-3885-9d21-1880ec0108ec",
     "War|973b509b-0bbc-3d07-9024-4b29d3ac32c8",
-    "Crypto|8caeb620-fc3f-393d-b19d-10721c012616"
+    "Crypto|8caeb620-fc3f-393d-b19d-10721c012616",
+    "Crypto|e376829d-36b9-3450-b820-91414919f735",
+    "AI|1958f030-ef1e-3ed0-8d69-3e2dda182c91",
+    "Watchlist|1958f030-ef1e-3ed0-8d69-3e2dda182c91"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792350232.5685775
+  "last_check": 1792351138.4806962
 }
