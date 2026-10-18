@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/company-news/alcoa-q3-2026-slides-strong-operations-offset-metal-price-pressure-93CH-4952756",
-    "Watchlist|https://www.investing.com/news/stock-market-news/exclusiveun-chief-frontrunner-rebeca-grynspan-says-un-has-become-too-riskaverse-4952757",
-    "Watchlist|https://www.investing.com/news/stock-market-news/anthropic-to-add-us-voting-information-to-claude-before-midterms-oct-14-4952758",
-    "Watchlist|/companies-markets/singapore-shares-rise-0-3-tuesday-jardine-matheson-banks-gain",
     "Watchlist|/companies-markets/transport-logistics/malaysias-firefly-extends-seletar-subang-flight-cancellations",
     "SG Banks|/companies-markets/kfc-picks-coca-cola-us-soda-supplier-ditches-longtime-partner-pepsico",
     "Watchlist|/companies-markets/kfc-picks-coca-cola-us-soda-supplier-ditches-longtime-partner-pepsico",
@@ -5000,7 +4996,11 @@
     "Watchlist|https://www.investing.com/news/investment-ideas/kelly-services-delivers-67-return-after-fair-value-signal-93CH-4955882",
     "AI|d0e6ba23-bc87-3638-bf9b-db7950ec19b0",
     "Watchlist|d0e6ba23-bc87-3638-bf9b-db7950ec19b0",
-    "Crypto|8b784173-e1b8-3404-bb80-d2f50cfea1cd"
+    "Crypto|8b784173-e1b8-3404-bb80-d2f50cfea1cd",
+    "AI|f9d1361f-8eb2-3fa5-b4d9-da3bc1537111",
+    "AI|efb8587f-17ef-3d6d-be94-615c2b280017",
+    "Watchlist|efb8587f-17ef-3d6d-be94-615c2b280017",
+    "Watchlist|f9d1361f-8eb2-3fa5-b4d9-da3bc1537111"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792323692.081256
+  "last_check": 1792324606.2189505
 }
