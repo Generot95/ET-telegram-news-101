@@ -1,7 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/strive-prices-630-million-preferred-stock-offering-at-90-93CH-4952964",
     "AI|https://www.investing.com/news/stock-market-news/citi-spots-ai-upside-in-two-software-stocks-despite-earnings-and-execution-risks-4952965",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/hang-seng-presses-cloud-resistance-at-24372-live-levels-93CH-4943001",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/tesla-unveils-new-roadster-with-flight-capabilities-set-for-production-in-2028-4952962",
@@ -5000,7 +4999,8 @@
     "SG Banks|/companies-markets/philadelphia-semiconductor-indexs-bullish-momentum-stalling",
     "Watchlist|/companies-markets/debt-funding-s-e-asia-startups-ticks-it-gets-tough-raise-money-exits-equity",
     "Watchlist|/companies-markets/philadelphia-semiconductor-indexs-bullish-momentum-stalling",
-    "War|87d2ca5f-928d-369f-840c-337138f5ba2b"
+    "War|87d2ca5f-928d-369f-840c-337138f5ba2b",
+    "SG Banks|https://www.straitstimes.com/business/australias-challenger-gets-takeover-bid-from-unit-of-japans-daiichi-life"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792364902.913993
+  "last_check": 1792365808.5408127
 }
