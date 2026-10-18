@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/td-synnex-chair-polk-sells-629k-in-common-stock-93CH-4952844",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/bjs-wholesale-club-president--ceo-robert-eddy-sells-197-million-in-stock-93CH-4952845",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/samsara-evp-cto-john-bicket-sells-11-million-in-stock-93CH-4952847",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/samsara-ceo-sanjit-biswas-sells-11m-in-shares-in-october-93CH-4952846",
     "Watchlist|https://www.investing.com/news/economy-news/analysismarket-selloff-rising-rates-test-ai-data-centre-deal-boom-4951734",
     "Watchlist|https://www.investing.com/news/company-news/faraday-copper-completes-acquisition-of-bhps-san-manuel-project-93CH-4952849",
     "Watchlist|https://www.investing.com/news/economy-news/feds-goolsbee-on-inflation-discouraging-but-still-some-optimism-4952861",
@@ -5000,7 +4996,11 @@
     "Watchlist|https://www.investing.com/news/economy-news/midterms-ubs-assigns-a-50-probability-to-a-democratic-sweep-4955971",
     "AI|5523cab2-6ecf-3f6e-b38f-a426410850fb",
     "Watchlist|5523cab2-6ecf-3f6e-b38f-a426410850fb",
-    "Crypto|549b62bf-bcf7-3fa3-8f2e-64c4aa160b85"
+    "Crypto|549b62bf-bcf7-3fa3-8f2e-64c4aa160b85",
+    "AI|7cc1a175-f570-3956-b78d-fa7d2a6bf02d",
+    "Watchlist|7cc1a175-f570-3956-b78d-fa7d2a6bf02d",
+    "AI|43460ef5-5d50-4700-8eb0-a1ed54152598",
+    "Watchlist|43460ef5-5d50-4700-8eb0-a1ed54152598"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792338341.1916285
+  "last_check": 1792339250.6099806
 }
