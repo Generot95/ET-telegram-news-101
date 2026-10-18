@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|51e429cc-0731-310a-8e87-8f2c5a3bceeb",
-    "AI|a94da924-155d-3d0e-831c-866f16f5f4b2",
-    "Watchlist|a94da924-155d-3d0e-831c-866f16f5f4b2",
-    "SG Banks|https://www.channelnewsasia.com/business/exclusive-investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-slowdown-sources-say-6464056",
-    "AI|70bb35ce-7927-3442-994d-a814a887ee38",
-    "Watchlist|70bb35ce-7927-3442-994d-a814a887ee38",
-    "AI|57caad90-5f6f-3df9-96fa-2da765633cfc",
-    "SG Banks|https://www.channelnewsasia.com/business/global-tech-rout-loses-steam-6464066",
     "Watchlist|57caad90-5f6f-3df9-96fa-2da765633cfc",
     "Watchlist|b042180d-d91f-3f1c-ae01-f7a21898b08d",
     "Watchlist|4fb558a0-6333-302d-a1c6-fd2ce8ed8984",
@@ -5000,7 +4992,15 @@
     "SG Banks|https://www.investing.com/news/stock-market-news/antofagastas-centinela-strike-ends-after-deal-with-unions-4955771",
     "Watchlist|https://www.investing.com/news/stock-market-news/antofagastas-centinela-strike-ends-after-deal-with-unions-4955771",
     "SG Banks|/international/global/ai-funding-fears-puncture-rally-asias-high-flying-picks-and-shovels-stocks",
-    "Watchlist|/international/global/ai-funding-fears-puncture-rally-asias-high-flying-picks-and-shovels-stocks"
+    "Watchlist|/international/global/ai-funding-fears-puncture-rally-asias-high-flying-picks-and-shovels-stocks",
+    "AI|https://www.investing.com/news/company-news/woodside-halts-work-at-scarborough-gas-project-after-greenpeace-protest-4955780",
+    "AI|https://www.investing.com/news/stock-market-news/rubio-heads-to-central-asia-while-other-us-officials-hit-foreign-policy-hot-spots-4955781",
+    "Cybersecurity|https://www.investing.com/news/company-news/woodside-halts-work-at-scarborough-gas-project-after-greenpeace-protest-4955780",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/rubio-heads-to-central-asia-while-other-us-officials-hit-foreign-policy-hot-spots-4955781",
+    "SG Banks|https://www.investing.com/news/company-news/woodside-halts-work-at-scarborough-gas-project-after-greenpeace-protest-4955780",
+    "SG Banks|https://www.investing.com/news/stock-market-news/rubio-heads-to-central-asia-while-other-us-officials-hit-foreign-policy-hot-spots-4955781",
+    "Watchlist|https://www.investing.com/news/company-news/woodside-halts-work-at-scarborough-gas-project-after-greenpeace-protest-4955780",
+    "Watchlist|https://www.investing.com/news/stock-market-news/rubio-heads-to-central-asia-while-other-us-officials-hit-foreign-policy-hot-spots-4955781"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792299886.231703
+  "last_check": 1792300797.1893752
 }
