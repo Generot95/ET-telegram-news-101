@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/transcripts/optimi-health-at-the-thinkequity-conference-natural-psilocybin-push-93CH-4952666",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/freedom-broker-upgrades-jpmorgan-stock-rating-to-buy-on-valuation-93CH-4952669",
-    "Cybersecurity|https://www.investing.com/news/earnings/cohen--steers-stock-leaps-over-5-on-strong-inflows-despite-q3-miss-93CH-4952671",
-    "Cybersecurity|https://www.investing.com/news/company-news/idacorp-declares-090-quarterly-dividend-93CH-4952673",
     "Cybersecurity|https://www.investing.com/news/company-news/carriage-services-declares-quarterly-dividend-of-1125-cents-93CH-4952648",
     "Cybersecurity|https://www.investing.com/news/company-news/capital-southwest-reports-q2-preliminary-results-schedules-call-93CH-4952649",
     "Cybersecurity|https://www.investing.com/news/company-news/22nd-century-reports-161-sales-jump-for-cigarette-brands-93CH-4952651",
@@ -5000,7 +4996,11 @@
     "War|96114d0d-c58f-3adc-a690-0d29758e6f22",
     "AI|26753cd5-186c-3445-b1ea-ee75aaa13998",
     "Watchlist|26753cd5-186c-3445-b1ea-ee75aaa13998",
-    "War|4f4e5f2f-4900-3ece-b9e5-48c1d480c6b6"
+    "War|4f4e5f2f-4900-3ece-b9e5-48c1d480c6b6",
+    "AI|https://www.investing.com/news/economy-news/iran-war-tankers-hit-near-hormuz-as-tehran-offers-us-reopening-plan-4955749",
+    "Cybersecurity|https://www.investing.com/news/economy-news/iran-war-tankers-hit-near-hormuz-as-tehran-offers-us-reopening-plan-4955749",
+    "SG Banks|https://www.investing.com/news/economy-news/iran-war-tankers-hit-near-hormuz-as-tehran-offers-us-reopening-plan-4955749",
+    "Watchlist|https://www.investing.com/news/economy-news/iran-war-tankers-hit-near-hormuz-as-tehran-offers-us-reopening-plan-4955749"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792294397.130605
+  "last_check": 1792295299.4449713
 }
