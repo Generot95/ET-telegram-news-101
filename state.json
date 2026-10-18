@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|4940768b-7f56-3e5b-9ab9-cac7d9645de9",
-    "AI|290fa1c3-b20a-302a-8275-12c7f18a976b",
-    "AI|1e650364-02e6-3991-b2ac-a591c10fa7cf",
-    "Watchlist|290fa1c3-b20a-302a-8275-12c7f18a976b",
-    "Watchlist|1e650364-02e6-3991-b2ac-a591c10fa7cf",
-    "AI|https://www.investing.com/news/stock-market-news/hang-seng-presses-cloud-resistance-at-24372-live-levels-93CH-4943001",
-    "AI|https://www.investing.com/news/stock-market-news/tesla-unveils-new-roadster-with-flight-capabilities-set-for-production-in-2028-4952962",
-    "AI|https://www.investing.com/news/economy-news/ai-selloff-hammers-hedge-funds-this-week-asia-managers-lead-losses-4952963",
     "AI|https://www.investing.com/news/company-news/strive-prices-630-million-preferred-stock-offering-at-90-93CH-4952964",
     "AI|https://www.investing.com/news/stock-market-news/citi-spots-ai-upside-in-two-software-stocks-despite-earnings-and-execution-risks-4952965",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/hang-seng-presses-cloud-resistance-at-24372-live-levels-93CH-4943001",
@@ -5000,7 +4992,15 @@
     "Watchlist|https://www.investing.com/news/commodities-news/oil-slips-as-trumps-sanction-waiver-may-lead-to-more-russian-fuel-supplies-4956112",
     "Watchlist|https://www.investing.com/news/economy-news/boj-may-need-to-tighten-faster-if-inflation-beats-forecast-imf-says-4956113",
     "SG Banks|/companies-markets/energy-commodities/palm-oil-stocks-slide-after-singapore-begins-looking-which-firms-responsible-haze",
-    "Watchlist|/companies-markets/energy-commodities/palm-oil-stocks-slide-after-singapore-begins-looking-which-firms-responsible-haze"
+    "Watchlist|/companies-markets/energy-commodities/palm-oil-stocks-slide-after-singapore-begins-looking-which-firms-responsible-haze",
+    "SG Banks|https://www.channelnewsasia.com/business/japans-daiichi-life-unit-tables-offer-take-over-australias-challenger-6470476",
+    "SG Banks|/companies-markets/ai-cloud-firm-nscale-faces-investor-pushback-over-ipo-valuation",
+    "Watchlist|/companies-markets/ai-cloud-firm-nscale-faces-investor-pushback-over-ipo-valuation",
+    "SG Banks|/companies-markets/debt-funding-s-e-asia-startups-ticks-it-gets-tough-raise-money-exits-equity",
+    "SG Banks|/companies-markets/philadelphia-semiconductor-indexs-bullish-momentum-stalling",
+    "Watchlist|/companies-markets/debt-funding-s-e-asia-startups-ticks-it-gets-tough-raise-money-exits-equity",
+    "Watchlist|/companies-markets/philadelphia-semiconductor-indexs-bullish-momentum-stalling",
+    "War|87d2ca5f-928d-369f-840c-337138f5ba2b"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792363956.0665386
+  "last_check": 1792364902.913993
 }
