@@ -1,20 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/wise-q2-fy2027-slides-revenue-diversification-hits-52-milestone-93CH-4952727",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-alcoa-stock-climbing-today-93CH-4952728",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-varonis-stock-rallying-today-93CH-4952729",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-cohen--steers-stock-surging-today-93CH-4952730",
-    "AI|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-122-4952710",
-    "AI|https://www.investing.com/news/stock-market-news/meta-releases-openweight-muse-spark-model-for-coding-agentic-tasks-4952713",
-    "AI|https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-007-4952714",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/changenow-announces-now-ai-after-resolving-website-integration-vulnerability-4952721",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-interactive-brokers-posts-q3-2026-revenue-beat-93CH-4952716",
-    "Cybersecurity|https://www.investing.com/news/company-news/msci-freezes-index-changes-for-turkish-equities-amid-trading-concerns-93CH-4952718",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-131-4952719",
-    "Cybersecurity|https://www.investing.com/news/cryptocurrency-news/changenow-announces-now-ai-after-resolving-website-integration-vulnerability-4952721",
-    "Cybersecurity|https://www.investing.com/news/press-releases/stx-q3-ecosystem-report-735-btc-enters-bitcoin-staking-as-stx-staked-climbs-more-than-25-after-pox5-4952722",
-    "Cybersecurity|https://www.investing.com/news/company-news/wise-q2-fy2027-slides-revenue-diversification-hits-52-milestone-93CH-4952727",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-alcoa-stock-climbing-today-93CH-4952728",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-varonis-stock-rallying-today-93CH-4952729",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-cohen--steers-stock-surging-today-93CH-4952730",
@@ -5000,7 +4986,21 @@
     "Watchlist|https://www.investing.com/news/economy-news/russia-hits-ukraines-energy-sector-76-times-in-a-week-zelenskiy-says-4955841",
     "SG Banks|/opinion-features/sec-should-protect-investors-not-private-funds",
     "War|4a8c9814-abae-3c65-b216-c9b9b7723ddd",
-    "Watchlist|/opinion-features/sec-should-protect-investors-not-private-funds"
+    "Watchlist|/opinion-features/sec-should-protect-investors-not-private-funds",
+    "AI|17fee183-1ab2-3997-b207-a7c90c0e0cf2",
+    "Watchlist|17fee183-1ab2-3997-b207-a7c90c0e0cf2",
+    "AI|06a39c7d-1987-3f0b-8c77-43822f1a0a76",
+    "AI|3d194f45-599a-30fb-be39-3604431b7785",
+    "AI|9ea2acaf-ce28-3368-ab02-ea64853ba9a9",
+    "Watchlist|3d194f45-599a-30fb-be39-3604431b7785",
+    "Watchlist|06a39c7d-1987-3f0b-8c77-43822f1a0a76",
+    "Watchlist|9ea2acaf-ce28-3368-ab02-ea64853ba9a9",
+    "Watchlist|146ab25f-e085-3207-bbe3-43c01ae89393",
+    "AI|https://www.investing.com/news/cryptocurrency-news/eos-falls-11-in-rout-4955850",
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/eos-falls-11-in-rout-4955850",
+    "Cybersecurity|https://www.investing.com/news/cryptocurrency-news/eos-falls-11-in-rout-4955850",
+    "SG Banks|https://www.investing.com/news/cryptocurrency-news/eos-falls-11-in-rout-4955850",
+    "Watchlist|https://www.investing.com/news/cryptocurrency-news/eos-falls-11-in-rout-4955850"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792314541.6018674
+  "last_check": 1792315459.381749
 }
