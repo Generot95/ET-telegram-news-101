@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-jb-hunt-transport-stock-sliding-today-93CH-4952641",
-    "Cybersecurity|https://www.investing.com/news/company-news/vistra-redeems-1-billion-in-preferred-stock-93CH-4952595",
-    "Cybersecurity|https://www.investing.com/news/company-news/dow-declares-quarterly-dividend-of-35-cents-per-share-93CH-4952608",
-    "Cybersecurity|https://www.investing.com/news/company-news/rocky-shore-gold-closes-c52m-private-placement-93CH-4952610",
-    "Cybersecurity|https://www.investing.com/news/company-news/colony-bankcorp-shareholders-approve-first-reliance-acquisition-93CH-4952609",
     "Cybersecurity|https://www.investing.com/news/company-news/crescent-biopharma-advances-cancer-drug-trials-across-portfolio-93CH-4952612",
     "Cybersecurity|https://www.investing.com/news/company-news/proofpoint-to-acquire-varonis-for-63-billion-in-cash-93CH-4952611",
     "Cybersecurity|https://www.investing.com/news/company-news/texas-instruments-declares-quarterly-dividend-of-152-93CH-4952620",
@@ -5000,7 +4995,12 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/first-guaranty-bancshares-director-smith-buys-822013-in-stock-93CH-4955666",
     "Watchlist|https://www.investing.com/news/insider-trading-news/pagerduty-executive-chair-jennifer-tejada-sells-16-million-in-shares-93CH-4955675",
     "War|4e7655f6-e60b-3d3f-9cf0-89a64a66351e",
-    "Watchlist|211ab5d4-ca21-3560-8e3f-759cca099185"
+    "Watchlist|211ab5d4-ca21-3560-8e3f-759cca099185",
+    "AI|https://www.investing.com/news/insider-trading-news/maze-therapeutics-ceo-jason-coloma-sells-932259-in-maze-shares-93CH-4955685",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/maze-therapeutics-ceo-jason-coloma-sells-932259-in-maze-shares-93CH-4955685",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/maze-therapeutics-ceo-jason-coloma-sells-932259-in-maze-shares-93CH-4955685",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/maze-therapeutics-ceo-jason-coloma-sells-932259-in-maze-shares-93CH-4955685",
+    "War|da9b9576-f8f0-39e1-8351-6f5f1c9f8516"
   ],
   "topic_error": "",
   "last_digest": "2026-10-17",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792280654.8253624
+  "last_check": 1792281575.7888842
 }
