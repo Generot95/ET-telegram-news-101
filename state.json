@@ -1,17 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|54b0a38b-13ff-31ee-ac7e-a2f4cb180802",
-    "Watchlist|54b0a38b-13ff-31ee-ac7e-a2f4cb180802",
-    "SG Banks|/international/asean/first-resources-blames-el-nino-outside-fires-kalimantan-hotspots-amid-haze-scrutiny",
-    "SG Banks|/companies-markets/investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-slowdown-sources",
-    "Watchlist|/international/asean/first-resources-blames-el-nino-outside-fires-kalimantan-hotspots-amid-haze-scrutiny",
-    "Watchlist|/companies-markets/investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-slowdown-sources",
-    "War|3f343c86-8efc-36a2-b4b6-549d635728b6",
-    "AI|338e2e4b-c203-30a6-8467-061726941119",
-    "AI|eae8be25-a492-3419-88cc-2a8909a806b7",
-    "SG Banks|/companies-markets/banking-finance/jpmorgan-goldman-boost-yield-volta-ai-loan-lure-investors",
-    "Watchlist|eae8be25-a492-3419-88cc-2a8909a806b7",
     "Watchlist|/companies-markets/banking-finance/jpmorgan-goldman-boost-yield-volta-ai-loan-lure-investors",
     "War|https://www.investing.com/news/commodities-news/oil-prices-edge-lower-on-improving-supplies-wti-set-for-strong-week-4952863",
     "War|https://www.investing.com/news/commodities-news/progress-toward-a-usmexico-tariff-deal-has-stalled-wsj-reports-4952880",
@@ -5000,7 +4989,18 @@
     "AI|c10b69fb-9bef-3718-8124-300f655c29a5",
     "AI|df72130e-2ad2-3939-a3bc-48aa353f69e5",
     "Crypto|df72130e-2ad2-3939-a3bc-48aa353f69e5",
-    "Watchlist|df72130e-2ad2-3939-a3bc-48aa353f69e5"
+    "Watchlist|df72130e-2ad2-3939-a3bc-48aa353f69e5",
+    "AI|c60d17bf-5950-3770-99a1-a3d3146fa861",
+    "Watchlist|c60d17bf-5950-3770-99a1-a3d3146fa861",
+    "AI|fdd9e68b-6886-3b62-a74e-90ccc4d2e8bf",
+    "Watchlist|fdd9e68b-6886-3b62-a74e-90ccc4d2e8bf",
+    "SG Banks|/international/asean/first-resources-blames-el-nino-outside-fires-kalimantan-hotspots-amid-haze-scrutiny",
+    "SG Banks|/companies-markets/investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-slowdown-sources",
+    "Watchlist|/international/asean/first-resources-blames-el-nino-outside-fires-kalimantan-hotspots-amid-haze-scrutiny",
+    "Watchlist|/companies-markets/investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-slowdown-sources",
+    "AI|3eedead4-e9d5-3a53-83c6-e635b01db1b8",
+    "Watchlist|3eedead4-e9d5-3a53-83c6-e635b01db1b8",
+    "SG Banks|/companies-markets/banking-finance/jpmorgan-goldman-boost-yield-volta-ai-loan-lure-investors"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792341085.0195396
+  "last_check": 1792341999.1686876
 }
