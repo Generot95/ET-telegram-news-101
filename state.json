@@ -1,17 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/earnings/cohen-steers-earnings-missed-by-003-revenue-fell-short-of-estimates-4952623",
-    "Watchlist|https://www.investing.com/news/transcripts/lantern-pharma-at-thinkequity-conference-ai-drug-push-gains-pace-93CH-4952625",
-    "Watchlist|https://www.investing.com/news/company-news/daily-journal-acquires-digital-evidence-software-firm-revir-93CH-4952626",
-    "Watchlist|https://www.investing.com/news/company-news/boreal-gold-closes-final-tranche-of-private-placement-at-154200-93CH-4952627",
-    "Watchlist|https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-106-4952628",
-    "Watchlist|https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-155-4952636",
-    "Watchlist|https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-108-4952637",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-jb-hunt-transport-stock-sliding-today-93CH-4952641",
-    "War|fa2c1a36-dc5e-3afb-b12f-cd43f3fe517e",
-    "AI|d9758db7-3317-387e-8a82-93248788f575",
-    "AI|0702353d-6d00-32b1-869b-4078d0acc9a1",
     "SG Banks|https://www.channelnewsasia.com/business/thoma-bravos-proofpoint-buy-varonis-systems-in-63-billion-all-cash-deal-6463991",
     "Watchlist|d9758db7-3317-387e-8a82-93248788f575",
     "Watchlist|0702353d-6d00-32b1-869b-4078d0acc9a1",
@@ -5000,7 +4989,18 @@
     "AI|98f7e400-cc49-3636-9dde-86ec6842b48a",
     "AI|75b8d364-0f7b-3509-a0da-c58e31bedd20",
     "Watchlist|98f7e400-cc49-3636-9dde-86ec6842b48a",
-    "Watchlist|75b8d364-0f7b-3509-a0da-c58e31bedd20"
+    "Watchlist|75b8d364-0f7b-3509-a0da-c58e31bedd20",
+    "War|e5a75423-7c5c-3a76-ad42-eada7febe0f1",
+    "War|b81872db-638f-3d19-9243-d92f1d1cfd5c",
+    "AI|https://www.investing.com/news/insider-trading-news/clover-health-ceo-andrew-toy-sells-13m-in-shares-93CH-4955703",
+    "AI|https://www.investing.com/news/insider-trading-news/edward-meyercord-extreme-networks-ceo-sells-109m-in-shares-93CH-4955704",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/clover-health-ceo-andrew-toy-sells-13m-in-shares-93CH-4955703",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/edward-meyercord-extreme-networks-ceo-sells-109m-in-shares-93CH-4955704",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/clover-health-ceo-andrew-toy-sells-13m-in-shares-93CH-4955703",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/edward-meyercord-extreme-networks-ceo-sells-109m-in-shares-93CH-4955704",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/clover-health-ceo-andrew-toy-sells-13m-in-shares-93CH-4955703",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/edward-meyercord-extreme-networks-ceo-sells-109m-in-shares-93CH-4955704",
+    "Watchlist|711e8a28-c396-3dd7-a389-64ebb7c02b72"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792283392.3072376
+  "last_check": 1792284313.1731298
 }
