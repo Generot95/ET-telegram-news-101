@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|fe6c3027-4bb8-3a53-9335-f72f2557a1cd",
-    "AI|https://www.investing.com/news/stock-market-news/pls-group-shares-rise-3-as-it-approves-13-billion-lithium-expansion-4952908",
-    "AI|https://www.investing.com/news/insider-trading-news/micron-svp-chief-legal-officer-michael-ray-sells-37891-in-stock-93CH-4952917",
-    "AI|https://www.investing.com/news/insider-trading-news/micron-technology-svp-michael-ray-sells-58-million-in-stock-93CH-4952918",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/pls-group-shares-rise-3-as-it-approves-13-billion-lithium-expansion-4952908",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/micron-svp-chief-legal-officer-michael-ray-sells-37891-in-stock-93CH-4952917",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/micron-technology-svp-michael-ray-sells-58-million-in-stock-93CH-4952918",
@@ -5000,7 +4996,11 @@
     "Watchlist|1958f030-ef1e-3ed0-8d69-3e2dda182c91",
     "AI|97c2b45a-6681-3031-a56d-3cc911d5c980",
     "Watchlist|97c2b45a-6681-3031-a56d-3cc911d5c980",
-    "Watchlist|a7a0882f-ef95-39a2-967e-3d614d224c35"
+    "Watchlist|a7a0882f-ef95-39a2-967e-3d614d224c35",
+    "AI|5875f170-045f-3d3c-bb50-0a763a5e36b8",
+    "Iran|https://www.iranintl.com/en/202610181933",
+    "Watchlist|5875f170-045f-3d3c-bb50-0a763a5e36b8",
+    "Crypto|fd051575-77b3-3915-a34d-e4c817d67e01"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792352968.9999344
+  "last_check": 1792353889.5613077
 }
