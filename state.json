@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/commodities-news/oil-edges-down-as-investors-weigh-possible-us-sanctions-on-shadow-fleet-4952926",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/idt-cao--controller-mitch-silberman-sells-stock-worth-255k-93CH-4952927",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/sk-hynix-oversold-near-support-after-15-slide-live-levels-93CH-4942961",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/nikkei-225-coiled-in-ichimoku-cloud-live-levels-93CH-4942960",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/nasdaq-futures-edge-lower-as-ai-spending-fed-rate-concerns-weigh-4952930",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/oil-edges-down-as-investors-weigh-possible-us-sanctions-on-shadow-fleet-4952926",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/idt-cao--controller-mitch-silberman-sells-stock-worth-255k-93CH-4952927",
-    "SG Banks|https://www.investing.com/news/stock-market-news/sk-hynix-oversold-near-support-after-15-slide-live-levels-93CH-4942961",
-    "SG Banks|https://www.investing.com/news/stock-market-news/nikkei-225-coiled-in-ichimoku-cloud-live-levels-93CH-4942960",
-    "SG Banks|https://www.investing.com/news/stock-market-news/nasdaq-futures-edge-lower-as-ai-spending-fed-rate-concerns-weigh-4952930",
     "SG Banks|https://www.investing.com/news/commodities-news/oil-edges-down-as-investors-weigh-possible-us-sanctions-on-shadow-fleet-4952926",
     "Watchlist|6810fc47-c043-3bec-ab06-291ba7482175",
     "Watchlist|https://www.investing.com/news/insider-trading-news/idt-cao--controller-mitch-silberman-sells-stock-worth-255k-93CH-4952927",
@@ -5000,7 +4990,17 @@
     "AI|03d68fc2-1a9e-3404-b724-549635a2c6bb",
     "Watchlist|03d68fc2-1a9e-3404-b724-549635a2c6bb",
     "SG Banks|https://www.straitstimes.com/singapore/jobs/askst-jobs-my-boss-takes-credit-for-my-ideas-and-achievements-what-can-i-do",
-    "Crypto|4667debb-0dfa-39e2-b0fe-088aed8cf4cf"
+    "Crypto|4667debb-0dfa-39e2-b0fe-088aed8cf4cf",
+    "AI|https://www.investing.com/news/insider-trading-news/mink-brook-asset-management-10-owner-rebalances-736666-in-dlh-stock-93CH-4956076",
+    "AI|https://www.investing.com/news/company-news/disc-medicine-to-present-phase-3-trial-results-for-bitopertin-93CH-4956077",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/mink-brook-asset-management-10-owner-rebalances-736666-in-dlh-stock-93CH-4956076",
+    "Cybersecurity|https://www.investing.com/news/company-news/disc-medicine-to-present-phase-3-trial-results-for-bitopertin-93CH-4956077",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/mink-brook-asset-management-10-owner-rebalances-736666-in-dlh-stock-93CH-4956076",
+    "SG Banks|https://www.investing.com/news/company-news/disc-medicine-to-present-phase-3-trial-results-for-bitopertin-93CH-4956077",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/mink-brook-asset-management-10-owner-rebalances-736666-in-dlh-stock-93CH-4956076",
+    "Watchlist|https://www.investing.com/news/company-news/disc-medicine-to-present-phase-3-trial-results-for-bitopertin-93CH-4956077",
+    "AI|3ced0223-079f-3448-9405-47e4de0c882a",
+    "Watchlist|3ced0223-079f-3448-9405-47e4de0c882a"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792357553.3381608
+  "last_check": 1792358462.7777522
 }
