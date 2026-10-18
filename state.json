@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Iran|https://www.iranintl.com/en/202610118708",
-    "SG Banks|/companies-markets/we-were-born-very-privileged-what-do-we-do-next-gen-heirs-want-more-say-family-offices",
-    "Watchlist|/companies-markets/we-were-born-very-privileged-what-do-we-do-next-gen-heirs-want-more-say-family-offices",
     "AI|54b0a38b-13ff-31ee-ac7e-a2f4cb180802",
     "Watchlist|54b0a38b-13ff-31ee-ac7e-a2f4cb180802",
     "SG Banks|/international/asean/first-resources-blames-el-nino-outside-fires-kalimantan-hotspots-amid-haze-scrutiny",
@@ -5000,7 +4997,10 @@
     "Watchlist|43460ef5-5d50-4700-8eb0-a1ed54152598",
     "War|eb72bb29-19f0-4cb0-8ceb-1f46f6ace570",
     "Watchlist|c10b69fb-9bef-3718-8124-300f655c29a5",
-    "AI|c10b69fb-9bef-3718-8124-300f655c29a5"
+    "AI|c10b69fb-9bef-3718-8124-300f655c29a5",
+    "AI|df72130e-2ad2-3939-a3bc-48aa353f69e5",
+    "Crypto|df72130e-2ad2-3939-a3bc-48aa353f69e5",
+    "Watchlist|df72130e-2ad2-3939-a3bc-48aa353f69e5"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792340170.6548264
+  "last_check": 1792341085.0195396
 }
