@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/commodities-news/oil-edges-down-as-investors-weigh-possible-us-sanctions-on-shadow-fleet-4952926",
-    "Watchlist|6810fc47-c043-3bec-ab06-291ba7482175",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/idt-cao--controller-mitch-silberman-sells-stock-worth-255k-93CH-4952927",
-    "Watchlist|https://www.investing.com/news/stock-market-news/sk-hynix-oversold-near-support-after-15-slide-live-levels-93CH-4942961",
-    "Watchlist|https://www.investing.com/news/stock-market-news/nikkei-225-coiled-in-ichimoku-cloud-live-levels-93CH-4942960",
-    "Watchlist|https://www.investing.com/news/stock-market-news/nasdaq-futures-edge-lower-as-ai-spending-fed-rate-concerns-weigh-4952930",
     "Watchlist|https://www.investing.com/news/commodities-news/oil-edges-down-as-investors-weigh-possible-us-sanctions-on-shadow-fleet-4952926",
     "AI|6810fc47-c043-3bec-ab06-291ba7482175",
     "AI|c5025247-c5ec-3f7f-9dfa-318df2b2bb4c",
@@ -5000,7 +4994,13 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/mink-brook-asset-management-10-owner-rebalances-736666-in-dlh-stock-93CH-4956076",
     "Watchlist|https://www.investing.com/news/company-news/disc-medicine-to-present-phase-3-trial-results-for-bitopertin-93CH-4956077",
     "AI|3ced0223-079f-3448-9405-47e4de0c882a",
-    "Watchlist|3ced0223-079f-3448-9405-47e4de0c882a"
+    "Watchlist|3ced0223-079f-3448-9405-47e4de0c882a",
+    "AI|426adbe5-7cd9-3d27-bbf3-673635f8c765",
+    "AI|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4956082",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4956082",
+    "SG Banks|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4956082",
+    "Watchlist|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4956082",
+    "Watchlist|426adbe5-7cd9-3d27-bbf3-673635f8c765"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792358462.7777522
+  "last_check": 1792359373.4397626
 }
