@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/insider-trading-news/zeff-capital-sells-236k-of-butler-national-stock-in-october-93CH-4952840",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/stonex-ceo-philip-smith-sells-26m-in-company-stock-93CH-4952826",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/brc-inc-founder-evan-hafer-sells-166729-in-common-stock-93CH-4952827",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/zeff-capital-sells-236k-of-butler-national-stock-in-october-93CH-4952840",
-    "War|WP-MKTW-0005290699",
     "AI|WP-MKTW-0005290699",
     "Cybersecurity|WP-MKTW-0005290699",
     "Crypto|39de23aa-8667-349e-a51a-1859069debe0",
@@ -5000,7 +4995,12 @@
     "Watchlist|/international/ai-rally-wobbles-stock-markets-spotlight-turns-earnings",
     "Crypto|fd6bd9a0-d83e-30b8-95c3-3efbdca1a56d",
     "AI|ae475c3f-752c-307b-bffb-d03fb27642c0",
-    "Watchlist|ae475c3f-752c-307b-bffb-d03fb27642c0"
+    "Watchlist|ae475c3f-752c-307b-bffb-d03fb27642c0",
+    "War|https://www.investing.com/news/commodities-news/romanian-f16-fighter-jets-shoot-down-two-drones-over-romanian-territorial-waters-4955946",
+    "AI|https://www.investing.com/news/commodities-news/romanian-f16-fighter-jets-shoot-down-two-drones-over-romanian-territorial-waters-4955946",
+    "Cybersecurity|https://www.investing.com/news/commodities-news/romanian-f16-fighter-jets-shoot-down-two-drones-over-romanian-territorial-waters-4955946",
+    "SG Banks|https://www.investing.com/news/commodities-news/romanian-f16-fighter-jets-shoot-down-two-drones-over-romanian-territorial-waters-4955946",
+    "Watchlist|https://www.investing.com/news/commodities-news/romanian-f16-fighter-jets-shoot-down-two-drones-over-romanian-territorial-waters-4955946"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792332843.3380284
+  "last_check": 1792333772.7944608
 }
