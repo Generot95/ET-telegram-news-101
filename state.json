@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/exclusiveinvestors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-slowdown-sources-say-4952698",
-    "Watchlist|https://www.investing.com/news/stock-market-news/volvo-cars-expands-automated-driving-partnership-with-nvidia-4952421",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/hims--hers-chief-legal-officer-sells-100576-in-stock-93CH-4952706",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/rosenblatt-reiterates-buy-on-super-micro-stock-after-cfo-hire-93CH-4952707",
-    "Iran|https://www.iranintl.com/en/202610139633",
-    "AI|3b3113d5-9245-3965-a347-79fb96d62752",
-    "SG Banks|/companies-markets/banking-finance/world-bank-talks-dozens-countries-about-crisis-aid-banga",
     "SG Banks|/international/global/imf-cites-ai-slowdown-spiking-yields-looming-global-market-risks",
     "SG Banks|/international/global/indias-rupee-recovery-faces-test-oil-prices-capital-outflows",
     "SG Banks|/companies-markets/telcos-media-tech/apple-rolls-out-new-phones-and-smart-home-devices-revive-pricey-stock",
@@ -5000,7 +4993,14 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/nestle-unilever-face-regulatory-action-in-india-over-misleading-health-claims-4955820",
     "AI|8c3f5312-4c8f-3dec-a239-a51dcf2a5232",
     "Watchlist|a8431c9a-f5ea-3697-8ea8-4e2babed84d5",
-    "AI|a8431c9a-f5ea-3697-8ea8-4e2babed84d5"
+    "AI|a8431c9a-f5ea-3697-8ea8-4e2babed84d5",
+    "AI|https://www.investing.com/news/economy-news/china-proposes-export-curbs-on-12-key-solar-manufacturing-technologies-4955825",
+    "Cybersecurity|https://www.investing.com/news/economy-news/china-proposes-export-curbs-on-12-key-solar-manufacturing-technologies-4955825",
+    "SG Banks|https://www.investing.com/news/economy-news/china-proposes-export-curbs-on-12-key-solar-manufacturing-technologies-4955825",
+    "Watchlist|https://www.investing.com/news/economy-news/china-proposes-export-curbs-on-12-key-solar-manufacturing-technologies-4955825",
+    "SG Banks|/companies-markets/capital-markets-currencies/greenback-falls-fed-hike-bets-fade-ai-jitters-linger",
+    "Watchlist|/companies-markets/capital-markets-currencies/greenback-falls-fed-hike-bets-fade-ai-jitters-linger",
+    "Iran|https://www.iranintl.com/en/202610139633"
   ],
   "topic_error": "",
   "last_digest": "2026-10-18",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792310876.9828928
+  "last_check": 1792311800.7847638
 }
