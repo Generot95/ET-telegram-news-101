@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|7c140000-c485-454a-89fc-5476aa950a08",
-    "War|https://www.investing.com/news/world-news/hegseths-tv-instincts-backfire-as-trump-rejects-execution-livestream-4953580",
-    "War|https://www.investing.com/news/world-news/indian-police-warn-cockroach-movement-founder-overprotest-local-media-says-4953652",
-    "War|https://www.investing.com/news/world-news/major-hurricane-trudy-keeps-strengthening-as-it-nears-mexicos-pacific-coast-4953658",
-    "War|https://www.investing.com/news/world-news/russian-drones-kill-3-people-in-ukraine-cut-power-to-hundreds-of-thousands-4953713",
-    "Iran|https://www.iranintl.com/en/202610168133",
-    "AI|cb30cc88-bede-3712-a9e5-6455750777b5",
-    "Watchlist|cb30cc88-bede-3712-a9e5-6455750777b5",
-    "AI|eba47b8e-2368-3cc0-95ba-b81f4bdfe56a",
-    "Watchlist|eba47b8e-2368-3cc0-95ba-b81f4bdfe56a",
     "War|528c0317-c1da-31c1-b7ba-4e25bc8f2fb3",
     "Watchlist|e4a5f4a7-7edd-3cf0-8a4d-5c24bf6ef1c4",
     "War|https://www.investing.com/news/commodities-news/morning-bid-tipping-point-4953827",
@@ -5000,7 +4990,17 @@
     "War|e9e0e2a6-d975-4a2e-92fa-7349ffc63668",
     "AI|553c121a-b721-373d-8f15-3a7292f6044f",
     "AI|e9e0e2a6-d975-4a2e-92fa-7349ffc63668",
-    "Watchlist|ce543c50-4d9b-3018-a7a8-1c640df1ccb1"
+    "Watchlist|ce543c50-4d9b-3018-a7a8-1c640df1ccb1",
+    "SG Banks|/singapore/asia-pulp-paper-tied-haze-linked-suppliers-given-temporary-restrictions-sec",
+    "Watchlist|/singapore/asia-pulp-paper-tied-haze-linked-suppliers-given-temporary-restrictions-sec",
+    "AI|69b1d633-8d25-3a02-abae-ff8fd41eb9ed",
+    "Watchlist|69b1d633-8d25-3a02-abae-ff8fd41eb9ed",
+    "Watchlist|6ef63929-bd8e-3ba4-a95b-0775c9e0de19",
+    "War|02892ecd-1208-3644-aa37-c1c9ee70010f",
+    "Iran|https://www.iranintl.com/en/202610168133",
+    "AI|9d03437b-8db0-3393-8cfc-a22ed514fdb6",
+    "Crypto|b48b4c32-3d94-3cec-8118-1d8a57371e62",
+    "Watchlist|9d03437b-8db0-3393-8cfc-a22ed514fdb6"
   ],
   "topic_error": "",
   "last_digest": "2026-10-19",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792404262.3901088
+  "last_check": 1792405187.2938378
 }
