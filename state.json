@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/coreweave-bond-rout-tests-markets-math-on-ai-buildout-4953576",
-    "AI|https://www.investing.com/news/analyst-ratings/rocket-lab-shares-price-target-maintained-at-120-by-needham-after-neutron-delay-93CH-4953602",
-    "AI|https://www.investing.com/news/analyst-ratings/bmo-cuts-netflix-stock-price-target-on-engagement-concerns-93CH-4953604",
-    "AI|https://www.investing.com/news/stock-market-news/nestle-upgraded-at-jpmorgan-as-fy27-is-shaping-up-as-a-vintage-year-4953541",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-alcoa-stock-climbing-today-93CH-4953554",
-    "AI|https://www.investing.com/news/stock-market-news/as-ai-rally-wobbles-stock-markets-spotlight-turns-to-earnings-4953575",
-    "AI|https://www.investing.com/news/stock-market-news/barclays-cau-says-the-best-of-the-ai-trade-may-be-over-4953587",
-    "AI|https://www.investing.com/news/stock-market-news/blue-origin-targets-multiple-new-glenn-launches-weekly-by-end-of-decade-4953590",
-    "AI|https://www.investing.com/news/stock-market-news/canadian-steelmakers-offset-some-us-tariff-pain-with-domestic-demand-4953572",
-    "AI|https://www.investing.com/news/stock-market-news/jefferies-highlights-top-midcap-biotech-stocks-ahead-of-earnings-4953605",
-    "AI|https://www.investing.com/news/company-news/gooch--housego-acquisition-by-arlington-capital-completes-93CH-4953552",
-    "AI|https://www.investing.com/news/company-news/vertical-aerospace-signs-suppliers-for-valo-aircraft-seating-navigation-93CH-4953566",
     "AI|https://www.investing.com/news/company-news/jinkosolar-subsidiary-reports-estimated-ninemonth-loss-93CH-4953567",
     "AI|https://www.investing.com/news/company-news/hon-hai-subsidiaries-announce-dividend-distributions-totaling-790m-93CH-4953569",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/jefferies-lowers-sp-global-stock-price-target-on-revenue-outlook-93CH-4953592",
@@ -5000,7 +4988,19 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/serica-energy-falls-4-as-triton-restart-delay-trims-2026-output-outlook-4956671",
     "Watchlist|https://www.investing.com/news/stock-market-news/as-france-reels-from-violence-macron-points-to-security-failings-4956666",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-bawag-group-tops-q3-2026-eps-forecast-as-stock-slips-93CH-4956672",
-    "SG Banks|748aea4f-0f31-3b75-a69e-23a9911de52c"
+    "SG Banks|748aea4f-0f31-3b75-a69e-23a9911de52c",
+    "AI|e5dec474-6f0b-3b91-a6ba-c620e828fc26",
+    "Watchlist|e5dec474-6f0b-3b91-a6ba-c620e828fc26",
+    "SG Banks|https://www.channelnewsasia.com/business/albert-heijn-online-deliveries-stay-offline-until-least-thursday-after-cyber-incident-6471341",
+    "SG Banks|https://www.investing.com/news/company-news/lilly-reports-positive-pediatric-ulcerative-colitis-trial-data-93CH-4956673",
+    "Watchlist|https://www.investing.com/news/company-news/lilly-reports-positive-pediatric-ulcerative-colitis-trial-data-93CH-4956673",
+    "War|cab520aa-5677-3b08-baf9-f6eade5db4cb",
+    "Crypto|cab520aa-5677-3b08-baf9-f6eade5db4cb",
+    "War|WP-MKTW-0005292174",
+    "AI|WP-MKTW-0005292174",
+    "Cybersecurity|WP-MKTW-0005292174",
+    "AI|a8b8a40e-df33-3aec-ba05-001c7333b6cc",
+    "Watchlist|a8b8a40e-df33-3aec-ba05-001c7333b6cc"
   ],
   "topic_error": "",
   "last_digest": "2026-10-19",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792399669.570612
+  "last_check": 1792400589.8039858
 }
