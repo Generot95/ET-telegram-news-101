@@ -1,23 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-spdr-sp-500-etf-trust-sliding-today-93CH-4954719",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/kaltura-officer-eynav-azaria-sells-15220-in-shares-93CH-4954721",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-ishares-russell-2000-etf-sliding-today-93CH-4954722",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-vaneck-semiconductor-etf-sliding-today-93CH-4954725",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-direxion-daily-semiconductor-bull-3x-shares-tumbling-today-93CH-4954726",
-    "SG Banks|https://www.investing.com/news/stock-market-news/air-canada-united-airlines-to-expand-canadaus-network-with-new-summer-routes-4954727",
-    "SG Banks|https://www.investing.com/news/stock-market-news/mexico-limits-tariffs-break-to-established-local-carmakers-4954728",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/aquestive-therapeutics-ceo-sells-105600-in-shares-93CH-4954735",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-invesco-qqq-trust-sliding-today-93CH-4954717",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-spdr-sp-500-etf-trust-sliding-today-93CH-4954719",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/kaltura-officer-eynav-azaria-sells-15220-in-shares-93CH-4954721",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-ishares-russell-2000-etf-sliding-today-93CH-4954722",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-vaneck-semiconductor-etf-sliding-today-93CH-4954725",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-direxion-daily-semiconductor-bull-3x-shares-tumbling-today-93CH-4954726",
-    "Watchlist|https://www.investing.com/news/stock-market-news/air-canada-united-airlines-to-expand-canadaus-network-with-new-summer-routes-4954727",
-    "Watchlist|https://www.investing.com/news/stock-market-news/mexico-limits-tariffs-break-to-established-local-carmakers-4954728",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/aquestive-therapeutics-ceo-sells-105600-in-shares-93CH-4954735",
     "Iran|https://www.iranintl.com/en/202610151313",
     "SG Banks|/companies-markets/banking-finance/greenback-eases-18-month-high-us-treasury-yields-fall-fed-hike-bets-ease",
     "Watchlist|/international/kamala-harris-warns-window-closing-ai-safeguards-urges-us-china-cooperation",
@@ -5000,7 +4983,24 @@
     "Watchlist|1ca354eb-a5d3-3adb-a132-de031e61a4b6",
     "Crypto|fe60b84d-ed6e-3d47-9b66-c084c5f5eb09",
     "Crypto|f978232d-2674-4331-bc20-a6fd4bce8fbc",
-    "AI|64a6402c-647c-37bc-a076-2c94c459ec1a"
+    "AI|64a6402c-647c-37bc-a076-2c94c459ec1a",
+    "War|cfce6c58-170e-374f-a0f2-16a00a5e0a55",
+    "AI|https://www.investing.com/news/company-news/amazon-unveils-tool-to-run-ai-code-on-custom-chips-93CH-4958084",
+    "AI|https://www.investing.com/news/stock-market-news/truist-previews-lodging-sector-earnings-adjusts-estimates-4958085",
+    "AI|https://www.investing.com/news/company-news/blue-owl-capital-corp-stock-hits-52week-low-at-981-usd-93CH-4958087",
+    "Cybersecurity|https://www.investing.com/news/company-news/amazon-unveils-tool-to-run-ai-code-on-custom-chips-93CH-4958084",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/truist-previews-lodging-sector-earnings-adjusts-estimates-4958085",
+    "Cybersecurity|https://www.investing.com/news/company-news/blue-owl-capital-corp-stock-hits-52week-low-at-981-usd-93CH-4958087",
+    "SG Banks|https://www.investing.com/news/company-news/amazon-unveils-tool-to-run-ai-code-on-custom-chips-93CH-4958084",
+    "SG Banks|https://www.investing.com/news/stock-market-news/truist-previews-lodging-sector-earnings-adjusts-estimates-4958085",
+    "SG Banks|https://www.investing.com/news/company-news/blue-owl-capital-corp-stock-hits-52week-low-at-981-usd-93CH-4958087",
+    "Watchlist|https://www.investing.com/news/company-news/amazon-unveils-tool-to-run-ai-code-on-custom-chips-93CH-4958084",
+    "Watchlist|https://www.investing.com/news/stock-market-news/truist-previews-lodging-sector-earnings-adjusts-estimates-4958085",
+    "Watchlist|https://www.investing.com/news/company-news/blue-owl-capital-corp-stock-hits-52week-low-at-981-usd-93CH-4958087",
+    "AI|1de3e2fd-8000-3c89-a42b-6a5eafe5f20b",
+    "Watchlist|1de3e2fd-8000-3c89-a42b-6a5eafe5f20b",
+    "AI|49a93fc1-dd57-377a-8583-380662c2e0c2",
+    "Watchlist|49a93fc1-dd57-377a-8583-380662c2e0c2"
   ],
   "topic_error": "",
   "last_digest": "2026-10-19",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792429159.4733303
+  "last_check": 1792430064.4508007
 }
