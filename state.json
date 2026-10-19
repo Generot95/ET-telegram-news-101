@@ -1,7 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/world-news/3m-to-argue-australias-14-billion-forever-chemicals-lawsuit-legally-flawed-court-hears-4953005",
     "SG Banks|https://www.investing.com/news/insider-trading-news/everpure-chief-product-officer-ajay-singh-sells-28m-in-company-shares-93CH-4953014",
     "SG Banks|https://www.investing.com/news/economy-news/japan-core-inflation-likely-exceeded-boj-target-for-first-time-since-december-4953015",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-shift-stock-surging-today-93CH-4953016",
@@ -5000,7 +4999,8 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-fleetpartners-stock-surging-today-93CH-4956177",
     "Iran|https://www.iranintl.com/en/202610161883",
     "SG Banks|/companies-markets/transport-logistics/tesla-showcases-long-awaited-roadster-aerial-tricks",
-    "Watchlist|/companies-markets/transport-logistics/tesla-showcases-long-awaited-roadster-aerial-tricks"
+    "Watchlist|/companies-markets/transport-logistics/tesla-showcases-long-awaited-roadster-aerial-tricks",
+    "War|a40845c2-1762-3953-9d38-7d7a9b755b84"
   ],
   "topic_error": "",
   "last_digest": "2026-10-19",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792371289.9056087
+  "last_check": 1792372210.4150057
 }
