@@ -1,17 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|6d9ccbf6-dc92-3f27-b28e-63520bc199f1",
-    "Crypto|395224bb-07ca-3b34-a9cd-828051b5e56e",
-    "Crypto|1b78ffa4-a614-4175-9a1a-ebe56327b81b",
-    "SG Banks|/companies-markets/telcos-media-tech/singapore-semiconductors-slide-continues-global-chip-stock-rout-deepens",
-    "Watchlist|/companies-markets/telcos-media-tech/singapore-semiconductors-slide-continues-global-chip-stock-rout-deepens",
-    "AI|https://www.investing.com/news/company-news/airiq-names-doris-lai-yuen-tam-as-interim-cfo-93CH-4953875",
-    "AI|https://www.investing.com/news/company-news/zenta-group-signs-mou-to-acquire-stake-in-china-tech-firm-93CH-4953877",
-    "AI|https://www.investing.com/news/company-news/perimeter-solutions-to-rebrand-as-perimeter-group-inc-93CH-4953879",
-    "AI|https://www.investing.com/news/company-news/ironwood-names-tammi-gaskins-ceo-mccourt-to-retire-93CH-4953878",
-    "AI|https://www.investing.com/news/company-news/future-mineral-amends-deal-terms-for-poland-project-acquisition-93CH-4953880",
-    "AI|https://www.investing.com/news/company-news/actinium-pharmaceuticals-names-sean-maenpaa-business-head-93CH-4953881",
     "AI|https://www.investing.com/news/company-news/organon-presents-6year-data-for-hormonefree-iud-miudella-93CH-4953882",
     "Cybersecurity|https://www.investing.com/news/company-news/airiq-names-doris-lai-yuen-tam-as-interim-cfo-93CH-4953875",
     "Cybersecurity|https://www.investing.com/news/company-news/zenta-group-signs-mou-to-acquire-stake-in-china-tech-firm-93CH-4953877",
@@ -5000,7 +4989,18 @@
     "War|d8627a23-a783-3b06-a04b-1ea41bab8502",
     "Crypto|793e4896-f442-3507-a36b-abbe6368e03a",
     "Watchlist|/companies-markets/wee-hur-enters-singapore-student-housing-market-1398-bed-ntu-project",
-    "War|f2662a06-6a7d-338b-bbb7-fe020c86c245"
+    "War|f2662a06-6a7d-338b-bbb7-fe020c86c245",
+    "AI|67d7be3d-470f-36ee-a54d-5e5286bdb3a1",
+    "Watchlist|67d7be3d-470f-36ee-a54d-5e5286bdb3a1",
+    "AI|b88296d0-c7d0-3f39-a629-3fc212f57256",
+    "Crypto|bea4cf0f-70aa-3045-8879-348c50c40e86",
+    "Crypto|94d0bba6-0b56-30d1-a415-8615a958b907",
+    "Watchlist|b88296d0-c7d0-3f39-a629-3fc212f57256",
+    "War|404c3306-dfcc-3b1a-83b3-0f1daa993ff5",
+    "SG Banks|/companies-markets/telcos-media-tech/singapore-semiconductors-slide-continues-global-chip-stock-rout-deepens",
+    "Watchlist|/companies-markets/telcos-media-tech/singapore-semiconductors-slide-continues-global-chip-stock-rout-deepens",
+    "SG Banks|/companies-markets/capital-markets-currencies/singapore-shares-fall-local-banks-end-mixed-sti-down-0-11",
+    "Watchlist|/companies-markets/capital-markets-currencies/singapore-shares-fall-local-banks-end-mixed-sti-down-0-11"
   ],
   "topic_error": "",
   "last_digest": "2026-10-19",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792406088.609247
+  "last_check": 1792406991.463664
 }
