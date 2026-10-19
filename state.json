@@ -1,28 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/alphabet-stock-analysis-stalled-near-200day-average-ahead-of-q3-earnings-93CH-4954685",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/cruise-stocks-outlook-rcl-leads-a-cautiously-constructive-setup-93CH-4954686",
-    "Cybersecurity|https://www.investing.com/news/forex-news/swiss-finance-minister-warns-steep-european-debt-could-trigger-euro-crisis-4954687",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/novartis-ends-midstage-trial-for-fabhalta-in-lupus-nephritis-93CH-4954691",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/california-reports-12000-ev-purchases-under-new-rebate-program-93CH-4954692",
-    "SG Banks|https://www.investing.com/news/company-news/punjab-national-bank-q2-fy27-slides-profit-jumps-13-nim-tops-guidance-93CH-4954679",
-    "SG Banks|https://www.investing.com/news/commodities-news/trump-says-neither-he-nor-musk-responsible-for-ukraine-starlink-access-4954681",
-    "SG Banks|https://www.investing.com/news/economy-news/fed-market-review-hot-inflation-data-raises-october-hike-odds-ahead-of-fomc-93CH-4954682",
-    "SG Banks|https://www.investing.com/news/stock-market-news/tesla-analysis-stock-falls-after-roadster-reveal-fails-to-hold-gains-93CH-4954683",
-    "SG Banks|https://www.investing.com/news/stock-market-news/teslaspacex-merger-barclays-calls-it-feasible-but-timing-and-approval-uncertain-93CH-4954684",
-    "SG Banks|https://www.investing.com/news/stock-market-news/alphabet-stock-analysis-stalled-near-200day-average-ahead-of-q3-earnings-93CH-4954685",
-    "SG Banks|https://www.investing.com/news/stock-market-news/cruise-stocks-outlook-rcl-leads-a-cautiously-constructive-setup-93CH-4954686",
-    "SG Banks|https://www.investing.com/news/forex-news/swiss-finance-minister-warns-steep-european-debt-could-trigger-euro-crisis-4954687",
-    "SG Banks|https://www.investing.com/news/stock-market-news/novartis-ends-midstage-trial-for-fabhalta-in-lupus-nephritis-93CH-4954691",
-    "SG Banks|https://www.investing.com/news/stock-market-news/california-reports-12000-ev-purchases-under-new-rebate-program-93CH-4954692",
-    "Watchlist|https://www.investing.com/news/company-news/punjab-national-bank-q2-fy27-slides-profit-jumps-13-nim-tops-guidance-93CH-4954679",
-    "Watchlist|https://www.investing.com/news/commodities-news/trump-says-neither-he-nor-musk-responsible-for-ukraine-starlink-access-4954681",
-    "Watchlist|https://www.investing.com/news/economy-news/fed-market-review-hot-inflation-data-raises-october-hike-odds-ahead-of-fomc-93CH-4954682",
-    "Watchlist|https://www.investing.com/news/stock-market-news/tesla-analysis-stock-falls-after-roadster-reveal-fails-to-hold-gains-93CH-4954683",
-    "Watchlist|https://www.investing.com/news/stock-market-news/teslaspacex-merger-barclays-calls-it-feasible-but-timing-and-approval-uncertain-93CH-4954684",
-    "Watchlist|https://www.investing.com/news/stock-market-news/alphabet-stock-analysis-stalled-near-200day-average-ahead-of-q3-earnings-93CH-4954685",
-    "Watchlist|https://www.investing.com/news/stock-market-news/cruise-stocks-outlook-rcl-leads-a-cautiously-constructive-setup-93CH-4954686",
     "Watchlist|https://www.investing.com/news/forex-news/swiss-finance-minister-warns-steep-european-debt-could-trigger-euro-crisis-4954687",
     "Watchlist|https://www.investing.com/news/stock-market-news/novartis-ends-midstage-trial-for-fabhalta-in-lupus-nephritis-93CH-4954691",
     "Watchlist|https://www.investing.com/news/stock-market-news/california-reports-12000-ev-purchases-under-new-rebate-program-93CH-4954692",
@@ -5000,7 +4978,29 @@
     "Crypto|d260c838-b3e3-3e3b-ad44-e5cbfb81cf37",
     "Watchlist|d260c838-b3e3-3e3b-ad44-e5cbfb81cf37",
     "Watchlist|89595e38-4731-32b1-b3cb-592283f94d2e",
-    "Watchlist|f12b2545-e63a-3aee-8fbb-d9eec46303b7"
+    "Watchlist|f12b2545-e63a-3aee-8fbb-d9eec46303b7",
+    "Crypto|d1cbbd4c-4c4c-35d5-85ca-9ddcae78c888",
+    "Iran|https://www.iranintl.com/en/202610192000",
+    "AI|18809e7f-5109-3fbd-9de4-00b072a37687",
+    "Watchlist|18809e7f-5109-3fbd-9de4-00b072a37687",
+    "Crypto|8a4b83cc-3617-3042-85b6-79e8f9dfe21c",
+    "Crypto|f50b5e18-e7b6-4388-8569-9ca2e07628a6",
+    "AI|c9fafec2-6555-3ea7-a4d8-6b9b7cd0f58e",
+    "AI|80ce11a6-e455-3fc3-9b76-4c27e8e20594",
+    "Crypto|0a81d9c5-68df-3ff1-be73-b2871890f81e",
+    "AI|06e50caf-63a7-30ff-bc4f-a443c50b5240",
+    "AI|a5bf740c-ee72-3537-ad43-e5c8e662e8cf",
+    "AI|c48341ec-b155-3cee-9458-5db9f5d5549c",
+    "Watchlist|c48341ec-b155-3cee-9458-5db9f5d5549c",
+    "Watchlist|a5bf740c-ee72-3537-ad43-e5c8e662e8cf",
+    "Watchlist|80ce11a6-e455-3fc3-9b76-4c27e8e20594",
+    "Watchlist|06e50caf-63a7-30ff-bc4f-a443c50b5240",
+    "War|e7a432e8-4f75-3fa0-9f8f-561146b7225c",
+    "AI|c0432259-df4a-3690-8311-b90b63aaf3c0",
+    "Watchlist|c0432259-df4a-3690-8311-b90b63aaf3c0",
+    "War|41cf5842-e46d-3802-ae4a-087fec3ef6be",
+    "War|f233d13e-a6f7-3760-a3ad-e2b0d49da2b3",
+    "Crypto|f233d13e-a6f7-3760-a3ad-e2b0d49da2b3"
   ],
   "topic_error": "",
   "last_digest": "2026-10-19",
@@ -5074,6 +5074,8 @@
       "fetched": 1792422584.7517684
     }
   },
-  "earnings_notified": [],
-  "last_check": 1792425481.8182852
+  "earnings_notified": [
+    "VLO|2026-10-22"
+  ],
+  "last_check": 1792426404.0496352
 }
