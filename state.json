@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/commodities-news/silver-tests-61706220-resistance-in-macro-downtrend-live-levels-93CH-4943300",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/crude-oil-wti-stuck-in-tight-range-near-91-live-levels-93CH-4943297",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/gold-rejects-at-4245-resistance-on-5h-chart-live-levels-93CH-4943295",
-    "Cybersecurity|https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/indonesia-gets-a-wakeup-call-as-msci-prepares-to-expel-it-from-global-indexes-4953255",
     "SG Banks|https://www.investing.com/news/commodities-news/brent-oil-stuck-in-1025010600-range-live-levels-93CH-4943298",
     "SG Banks|https://www.investing.com/news/commodities-news/silver-tests-61706220-resistance-in-macro-downtrend-live-levels-93CH-4943300",
     "SG Banks|https://www.investing.com/news/commodities-news/crude-oil-wti-stuck-in-tight-range-near-91-live-levels-93CH-4943297",
@@ -5000,7 +4995,12 @@
     "Watchlist|https://www.investing.com/news/company-news/allegiance-resources-adds-metallurgy-expert-to-advisory-board-93CH-4956366",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-axis-bank-stock-falling-today-93CH-4956380",
     "Watchlist|https://www.investing.com/news/stock-market-news/panic-selling-hits-indonesian-markets-on-msci-expulsion-threat-4956386",
-    "Watchlist|https://www.investing.com/news/stock-market-news/boe-probes-barclays-handling-of-private-credit-risks-ft-reports-4956387"
+    "Watchlist|https://www.investing.com/news/stock-market-news/boe-probes-barclays-handling-of-private-credit-risks-ft-reports-4956387",
+    "SG Banks|https://www.straitstimes.com/business/national-wages-council-recommends-6-to-8-pay-rise-for-lower-wage-workers",
+    "SG Banks|https://www.channelnewsasia.com/singapore/salary-guidelines-lower-wage-workers-ai-6469841",
+    "War|daab79de-b968-3b94-8a54-92166a4ffba5",
+    "SG Banks|/startups-tech/technology/robot-will-deliver-your-food-if-it-doesnt-get-smashed-first",
+    "Watchlist|/startups-tech/technology/robot-will-deliver-your-food-if-it-doesnt-get-smashed-first"
   ],
   "topic_error": "",
   "last_digest": "2026-10-19",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792389618.6638863
+  "last_check": 1792390522.1197453
 }
