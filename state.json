@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/insider-trading-news/grabagun-ceo-nemati-sells-7600-in-shares-for-tax-obligations-93CH-4955109",
-    "SG Banks|https://www.investing.com/news/company-news/anthropic-offers-blackstone-over-10-yield-in-60b-ai-chip-financing--ft-reports-4955122",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/natera-executive-chairman-matthew-rabinowitz-sells-201m-in-stock-93CH-4955123",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/grabagun-digital-coo-matthew-vittitow-sells-3805-in-shares-93CH-4955108",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/grabagun-ceo-nemati-sells-7600-in-shares-for-tax-obligations-93CH-4955109",
-    "Watchlist|https://www.investing.com/news/company-news/anthropic-offers-blackstone-over-10-yield-in-60b-ai-chip-financing--ft-reports-4955122",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/natera-executive-chairman-matthew-rabinowitz-sells-201m-in-stock-93CH-4955123",
     "War|19f1dc59-0228-3ea4-8695-7fd31afbb543",
     "Crypto|b762a6eb-58b6-3eee-9591-f91f93e9dc4b",
     "War|709b264b-7a82-3e8f-ad65-800e619c567e",
@@ -5000,7 +4993,14 @@
     "Watchlist|WP-MKTW-0004179843",
     "Watchlist|WP-MKTW-0004255367",
     "SG Banks|/companies-markets/global-hedge-funds-hammered-ai-sell-week-asia-managers-lead-losses",
-    "Watchlist|/companies-markets/global-hedge-funds-hammered-ai-sell-week-asia-managers-lead-losses"
+    "Watchlist|/companies-markets/global-hedge-funds-hammered-ai-sell-week-asia-managers-lead-losses",
+    "Iran|https://www.iranintl.com/en/202610197573",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/nasdaq-climbs-as-us-chip-and-ai-linked-stocks-bounce-back",
+    "War|09721937-494c-30f1-bc14-71e292ddad4f",
+    "AI|209d87f4-e8ea-310c-a55d-1f7dafa84c3f",
+    "Watchlist|209d87f4-e8ea-310c-a55d-1f7dafa84c3f",
+    "AI|737882cd-d0c2-3cdf-9baf-e986325c4386",
+    "Watchlist|737882cd-d0c2-3cdf-9baf-e986325c4386"
   ],
   "topic_error": "",
   "last_digest": "2026-10-19",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792444742.554327
+  "last_check": 1792445662.7628088
 }
