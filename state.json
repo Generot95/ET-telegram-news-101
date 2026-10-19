@@ -1,24 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|eb796b90-db8a-3def-9020-3c0820e472f1",
-    "SG Banks|https://www.channelnewsasia.com/business/anthropic-quietly-pitches-its-own-ai-safety-bill-lawmakers-politico-reports-6467581",
-    "Watchlist|e1db34a8-3209-3814-b470-6a1c31b1a70f",
-    "War|a9ca3028-c7c7-4354-8190-02d679e08ff7",
-    "AI|5f57636c-b39f-393d-88ec-daac724b259c",
-    "Watchlist|5f57636c-b39f-393d-88ec-daac724b259c",
-    "AI|https://www.investing.com/news/insider-trading-news/pacs-group-ceo-hulse-sells-56m-in-pacs-stock-93CH-4954932",
-    "AI|https://www.investing.com/news/insider-trading-news/primoris-services-director-terry-mccallister-buys-1719-in-company-stock-93CH-4954933",
-    "AI|https://www.investing.com/news/insider-trading-news/pacs-group-president--coo-joshua-jergensen-sells-178m-in-stock-93CH-4954934",
-    "AI|https://www.investing.com/news/insider-trading-news/williams-sonoma-director-anne-finucane-sells-200197-in-stock-93CH-4954935",
-    "AI|https://www.investing.com/news/company-news/lqr-house-names-leo-chen-ceo-as-dollinger-steps-down-93CH-4954942",
-    "AI|https://www.investing.com/news/stock-market-news/anthropic-quietly-pitches-its-own-ai-safety-bill-to-lawmakers-politico-reports-4954941",
-    "AI|https://www.investing.com/news/insider-trading-news/corcept-therapeutics-director-wilson-sells-115-million-in-shares-93CH-4954952",
-    "AI|https://www.investing.com/news/insider-trading-news/urban-outfitters-director-cherken-sells-435310-in-common-stock-93CH-4954951",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/pacs-group-ceo-hulse-sells-56m-in-pacs-stock-93CH-4954932",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/primoris-services-director-terry-mccallister-buys-1719-in-company-stock-93CH-4954933",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/pacs-group-president--coo-joshua-jergensen-sells-178m-in-stock-93CH-4954934",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/williams-sonoma-director-anne-finucane-sells-200197-in-stock-93CH-4954935",
     "Cybersecurity|https://www.investing.com/news/company-news/lqr-house-names-leo-chen-ceo-as-dollinger-steps-down-93CH-4954942",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/anthropic-quietly-pitches-its-own-ai-safety-bill-to-lawmakers-politico-reports-4954941",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/corcept-therapeutics-director-wilson-sells-115-million-in-shares-93CH-4954952",
@@ -5000,7 +4982,25 @@
     "Watchlist|https://www.investing.com/news/company-news/mineralys-appoints-two-directors-ahead-of-drug-launch-93CH-4958238",
     "Watchlist|https://www.investing.com/news/company-news/solventum-gets-fda-clearance-for-combined-wound-care-therapy-93CH-4958239",
     "Watchlist|https://www.investing.com/news/company-news/fortrea-completes-45m-acquisition-of-early-phase-services-unit-93CH-4958240",
-    "Watchlist|https://www.investing.com/news/earnings/washington-trust-earnings-beat-by-163-revenue-topped-estimates-4958243"
+    "Watchlist|https://www.investing.com/news/earnings/washington-trust-earnings-beat-by-163-revenue-topped-estimates-4958243",
+    "War|ab87723f-1171-395a-91f1-2e5dfe3c882e",
+    "SG Banks|/companies-markets/ubs-barclays-uob-among-private-banks-growing-singapore-talent-pool-wealth-sector-booms",
+    "SG Banks|/companies-markets/banking-finance/fed-governor-cooks-lawyer-denounces-trumps-latest-attempt-remove-her",
+    "War|5ffd7213-c693-3be1-864f-1532978d657f",
+    "Watchlist|5ffd7213-c693-3be1-864f-1532978d657f",
+    "Watchlist|337ec358-35b1-3b64-8916-559ffc6e89d9",
+    "Crypto|f7c8cac9-7f0d-3a90-a51f-4ba9d4714f22",
+    "War|1206bc3b-9b30-3023-aeba-75390001c4ce",
+    "AI|ee605120-62eb-30b1-a64a-31b3873ec89b",
+    "Watchlist|ee605120-62eb-30b1-a64a-31b3873ec89b",
+    "SG Banks|https://www.channelnewsasia.com/business/nscale-anthropic-in-talks-45-billion-ai-cloud-computing-deal-bloomberg-news-reports-6473376",
+    "AI|6965ec0a-b6df-3888-86ae-78223b9da901",
+    "AI|2edb55fb-1645-3fd1-bb69-034004e0b613",
+    "Watchlist|6965ec0a-b6df-3888-86ae-78223b9da901",
+    "Iran|https://www.iranintl.com/en/202610192309",
+    "AI|4666c0f1-b449-3f01-ae66-2b440e593d58",
+    "Watchlist|4666c0f1-b449-3f01-ae66-2b440e593d58",
+    "War|526bfb94-0b5e-40d5-b6ba-81b5bb0b6793"
   ],
   "topic_error": "",
   "last_digest": "2026-10-19",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792441074.5561316
+  "last_check": 1792441997.1785493
 }
