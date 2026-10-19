@@ -1,23 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/analysischinas-superrich-scramble-to-exit-offshore-trusts-raise-cash-as-taxman-knocks-4953051",
-    "SG Banks|https://www.investing.com/news/economy-news/malaysias-economy-grows-53-on-year-in-q3-official-advance-estimate-shows-4953056",
-    "SG Banks|https://www.investing.com/news/stock-market-news/usmexico-tariff-deal-stalls-over-lutnick-objections-wsj-reports-93CH-4953055",
-    "SG Banks|https://www.investing.com/news/economy-news/imf-urges-latin-america-to-cut-debt-lift-productivity-while-tailwinds-last-4953052",
-    "SG Banks|https://www.investing.com/news/earnings/wafd-inc-earnings-missed-by-008-revenue-topped-estimates-4953058",
-    "Watchlist|https://www.investing.com/news/stock-market-news/gift-nifty-50-stalls-below-22693-resistance-live-levels-93CH-4943050",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-the-jakarta-stock-exchange-composite-index-collapsing-today-93CH-4953050",
-    "Watchlist|https://www.investing.com/news/economy-news/feds-warsh-gives-no-hint-on-october-policy-decision-4953046",
-    "Watchlist|https://www.investing.com/news/earnings/northrim-earnings-missed-by-010-revenue-topped-estimates-4953053",
-    "Watchlist|https://www.investing.com/news/economy-news/us-treasury-says-japan-no-longer-faces-deflationary-environment-yen-level-must-change-4953054",
-    "Watchlist|https://www.investing.com/news/stock-market-news/analysischinas-superrich-scramble-to-exit-offshore-trusts-raise-cash-as-taxman-knocks-4953051",
-    "Watchlist|https://www.investing.com/news/economy-news/malaysias-economy-grows-53-on-year-in-q3-official-advance-estimate-shows-4953056",
-    "Watchlist|https://www.investing.com/news/stock-market-news/usmexico-tariff-deal-stalls-over-lutnick-objections-wsj-reports-93CH-4953055",
-    "Watchlist|https://www.investing.com/news/economy-news/imf-urges-latin-america-to-cut-debt-lift-productivity-while-tailwinds-last-4953052",
-    "Watchlist|https://www.investing.com/news/earnings/wafd-inc-earnings-missed-by-008-revenue-topped-estimates-4953058",
-    "Iran|https://www.iranintl.com/en/202610113518",
-    "AI|36cc0c93-f15b-34b4-8d59-ca8741222a7c",
     "Watchlist|36cc0c93-f15b-34b4-8d59-ca8741222a7c",
     "SG Banks|https://www.channelnewsasia.com/business/malaysia-economy-growth-q3-official-advance-estimate-6464966",
     "SG Banks|/singapore/mazda-opens-dedicated-ev-showroom-singapore",
@@ -5000,7 +4983,24 @@
     "SG Banks|/lifestyle/layoffs-and-firing-netflix-hurries-rewrite-its-narrative",
     "Watchlist|/lifestyle/layoffs-and-firing-netflix-hurries-rewrite-its-narrative",
     "AI|a4dfeddc-b5b1-3319-90a8-a9d5d504d622",
-    "Watchlist|a4dfeddc-b5b1-3319-90a8-a9d5d504d622"
+    "Watchlist|a4dfeddc-b5b1-3319-90a8-a9d5d504d622",
+    "AI|https://www.investing.com/news/stock-market-news/fleetpartners-shares-hit-record-high-after-agreeing-to-787-mln-sg-fleet-offer-4956206",
+    "AI|https://www.investing.com/news/stock-market-news/hang-seng-rejected-at-241075-with-bear-flag-forming-live-93CH-4956207",
+    "AI|https://www.investing.com/news/economy-news/chinas-q3-gdp-growth-accelerates-to-45-beating-forecast-4956208",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/fleetpartners-shares-hit-record-high-after-agreeing-to-787-mln-sg-fleet-offer-4956206",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/hang-seng-rejected-at-241075-with-bear-flag-forming-live-93CH-4956207",
+    "Cybersecurity|https://www.investing.com/news/economy-news/chinas-q3-gdp-growth-accelerates-to-45-beating-forecast-4956208",
+    "SG Banks|https://www.investing.com/news/stock-market-news/fleetpartners-shares-hit-record-high-after-agreeing-to-787-mln-sg-fleet-offer-4956206",
+    "SG Banks|https://www.investing.com/news/stock-market-news/hang-seng-rejected-at-241075-with-bear-flag-forming-live-93CH-4956207",
+    "SG Banks|https://www.investing.com/news/economy-news/chinas-q3-gdp-growth-accelerates-to-45-beating-forecast-4956208",
+    "Watchlist|https://www.investing.com/news/stock-market-news/fleetpartners-shares-hit-record-high-after-agreeing-to-787-mln-sg-fleet-offer-4956206",
+    "Watchlist|https://www.investing.com/news/stock-market-news/hang-seng-rejected-at-241075-with-bear-flag-forming-live-93CH-4956207",
+    "Watchlist|https://www.investing.com/news/economy-news/chinas-q3-gdp-growth-accelerates-to-45-beating-forecast-4956208",
+    "SG Banks|https://www.channelnewsasia.com/business/subaru-targets-software-defined-vehicle-launch-late-2020s-plans-cut-development-times-40-6470721",
+    "SG Banks|https://www.channelnewsasia.com/business/china-gdp-growth-data-september-2026-6470736",
+    "AI|660182cb-3f29-3fb4-8af5-e0a11f635419",
+    "SG Banks|https://www.straitstimes.com/business/temasek-director-lee-theng-kiat-joins-sia-board",
+    "Watchlist|660182cb-3f29-3fb4-8af5-e0a11f635419"
   ],
   "topic_error": "",
   "last_digest": "2026-10-19",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792375871.7987492
+  "last_check": 1792376780.0145643
 }
