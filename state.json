@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/economy-news/imf-chief-says-ai-risks-may-exceed-opportunities-without-safeguards-and-ethical-framework-4953345",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-tesla-stock-surging-today-93CH-4953351",
-    "AI|https://www.investing.com/news/commodities-news/european-gas-consolidates-near-2022-peaks-to-lock-in-3rd-weekly-gain-4953342",
-    "AI|https://www.investing.com/news/stock-market-news/helix-exploration-jumps-as-regulator-approves-rudyard-facility-operations-restart-4953306",
     "AI|https://www.investing.com/news/stock-market-news/ofwat-proposes-280000-package-after-hafren-dyfrdwy-sewage-breaches-93CH-4953323",
     "AI|https://www.investing.com/news/stock-market-news/ofwat-proposes-280000-package-after-hafren-dyfrdwy-sewage-breaches-93CH-4953322",
     "AI|https://www.investing.com/news/company-news/oil-and-gas-development-company-approves-60-final-dividend-93CH-4953328",
@@ -5000,7 +4996,11 @@
     "Watchlist|https://www.investing.com/news/company-news/advancedadvt-buys-back-552000-shares-for-102-million-93CH-4956452",
     "Watchlist|https://www.investing.com/news/company-news/central-bank-of-india-q2-202627-slides-advances-surge-30-npas-fall-93CH-4956453",
     "Watchlist|https://www.investing.com/news/stock-market-news/these-two-stocks-are-bofas-preferred-picks-among-european-smid-chipmakers-4956455",
-    "Watchlist|https://www.investing.com/news/company-news/faron-to-present-final-melanoma-survival-data-at-esmo-congress-93CH-4956456"
+    "Watchlist|https://www.investing.com/news/company-news/faron-to-present-final-melanoma-survival-data-at-esmo-congress-93CH-4956456",
+    "War|35be2f9a-f35c-3e29-9140-ac3831e358a1",
+    "Crypto|35be2f9a-f35c-3e29-9140-ac3831e358a1",
+    "SG Banks|/companies-markets/banking-finance/australia-central-banker-sees-signs-labour-market-easing",
+    "Watchlist|/companies-markets/banking-finance/australia-central-banker-sees-signs-labour-market-easing"
   ],
   "topic_error": "",
   "last_digest": "2026-10-19",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792393264.2369406
+  "last_check": 1792394176.115424
 }
