@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/isq-global-fund-ii-gp-director-sells-1095m-kinetik-holdings-stock-93CH-4952977",
-    "SG Banks|https://www.investing.com/news/stock-market-news/strive-prices-upsized-ipo-of-preferred-stock-at-90-per-share-432SI-4952961",
-    "SG Banks|https://www.investing.com/news/stock-market-news/singapore-nonoil-exports-jump-biggerthanexpected-684-in-september-93CH-4952972",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/isq-global-fund-ii-gp-director-sells-1095m-kinetik-holdings-stock-93CH-4952977",
-    "Watchlist|https://www.investing.com/news/stock-market-news/strive-prices-upsized-ipo-of-preferred-stock-at-90-per-share-432SI-4952961",
-    "Watchlist|https://www.investing.com/news/stock-market-news/singapore-nonoil-exports-jump-biggerthanexpected-684-in-september-93CH-4952972",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/isq-global-fund-ii-gp-director-sells-1095m-kinetik-holdings-stock-93CH-4952977",
-    "Crypto|88296a32-34bb-37fc-9f7f-134f09d38c9b",
     "AI|e93a9974-2834-3d1d-96ca-8cbc7e11fdf8",
     "Watchlist|e93a9974-2834-3d1d-96ca-8cbc7e11fdf8",
     "SG Banks|https://www.straitstimes.com/business/fund-managers-quit-to-trade-their-own-money-in-taiwan-stock-boom",
@@ -5000,10 +4992,18 @@
     "SG Banks|https://www.investing.com/news/stock-market-news/australias-ampol-thirdquarter-lytton-refining-margin-more-than-doubles-4956132",
     "SG Banks|https://www.investing.com/news/stock-market-news/putin-proposes-summit-with-trump-and-xi-on-ukraine-wsj-93CH-4956133",
     "Watchlist|https://www.investing.com/news/stock-market-news/australias-ampol-thirdquarter-lytton-refining-margin-more-than-doubles-4956132",
-    "Watchlist|https://www.investing.com/news/stock-market-news/putin-proposes-summit-with-trump-and-xi-on-ukraine-wsj-93CH-4956133"
+    "Watchlist|https://www.investing.com/news/stock-market-news/putin-proposes-summit-with-trump-and-xi-on-ukraine-wsj-93CH-4956133",
+    "AI|1f6f8ca0-6687-342c-b96f-1c901b0fca9f",
+    "AI|https://www.investing.com/news/insider-trading-news/royce-microcap-trust-ceo-clark-acquires-13400-in-rmt-stock-93CH-4956142",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/royce-microcap-trust-ceo-clark-acquires-13400-in-rmt-stock-93CH-4956142",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/royce-microcap-trust-ceo-clark-acquires-13400-in-rmt-stock-93CH-4956142",
+    "Watchlist|1f6f8ca0-6687-342c-b96f-1c901b0fca9f",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/royce-microcap-trust-ceo-clark-acquires-13400-in-rmt-stock-93CH-4956142",
+    "SG Banks|/international/sydneys-new-us4-billion-airport-opens-barely-any-flights",
+    "Watchlist|/international/sydneys-new-us4-billion-airport-opens-barely-any-flights"
   ],
   "topic_error": "",
-  "last_digest": "2026-10-18",
+  "last_digest": "2026-10-19",
   "earnings": {
     "AMD": {
       "ts": 1793736000,
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792367630.9745438
+  "last_check": 1792368544.326485
 }
