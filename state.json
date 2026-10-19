@@ -1,22 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/economy-news/g7-to-launch-exercises-to-guard-against-ai-cyber-attacks-4953109",
-    "Cybersecurity|https://www.investing.com/news/economy-news/how-healeys-first-uk-budget-could-ripple-through-markets-4953110",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-100-4953115",
-    "Cybersecurity|https://www.investing.com/news/economy-news/analysisindia-widens-rupee-defence-to-rates-but-cautiously-4953121",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/hyundai-recalls-94622-vehicles-in-us-over-fire-risk-93CH-4953122",
-    "SG Banks|https://www.investing.com/news/economy-news/feds-warsh-says-ai-boom-could-boost-growth-but-warns-of-bumpy-transition-4953102",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/myomo-cmo-harry-kovelman-sells-20136-in-company-stock-93CH-4953103",
-    "SG Banks|https://www.investing.com/news/economy-news/g7-to-launch-exercises-to-guard-against-ai-cyber-attacks-4953109",
-    "SG Banks|https://www.investing.com/news/economy-news/how-healeys-first-uk-budget-could-ripple-through-markets-4953110",
-    "SG Banks|https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-100-4953115",
-    "SG Banks|https://www.investing.com/news/economy-news/analysisindia-widens-rupee-defence-to-rates-but-cautiously-4953121",
-    "SG Banks|https://www.investing.com/news/stock-market-news/hyundai-recalls-94622-vehicles-in-us-over-fire-risk-93CH-4953122",
-    "Watchlist|https://www.investing.com/news/economy-news/feds-warsh-says-ai-boom-could-boost-growth-but-warns-of-bumpy-transition-4953102",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/myomo-cmo-harry-kovelman-sells-20136-in-company-stock-93CH-4953103",
-    "Watchlist|https://www.investing.com/news/economy-news/g7-to-launch-exercises-to-guard-against-ai-cyber-attacks-4953109",
-    "Watchlist|https://www.investing.com/news/economy-news/how-healeys-first-uk-budget-could-ripple-through-markets-4953110",
     "Watchlist|https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-100-4953115",
     "Watchlist|https://www.investing.com/news/economy-news/analysisindia-widens-rupee-defence-to-rates-but-cautiously-4953121",
     "Watchlist|https://www.investing.com/news/stock-market-news/hyundai-recalls-94622-vehicles-in-us-over-fire-risk-93CH-4953122",
@@ -5000,7 +4984,23 @@
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-mitchell-services-posts-record-q1-2026-on-stronger-output-93CH-4956252",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-weebit-nano-q1-2026-shares-fall-as-cash-stays-strong-93CH-4956253",
     "SG Banks|/companies-markets/telcos-media-tech/reliance-pushes-back-musk-questions-starlinks-delay-india",
-    "Watchlist|/companies-markets/telcos-media-tech/reliance-pushes-back-musk-questions-starlinks-delay-india"
+    "Watchlist|/companies-markets/telcos-media-tech/reliance-pushes-back-musk-questions-starlinks-delay-india",
+    "SG Banks|https://www.straitstimes.com/business/chinas-q3-growth-narrowly-beats-forecasts",
+    "Watchlist|c2908fa1-8600-33bc-be0a-0307696d897e",
+    "SG Banks|https://www.channelnewsasia.com/business/indonesia-stocks-six-year-low-msci-warning-6470606",
+    "AI|80c6d18c-559e-337d-b81a-a1f48bdfd0d2",
+    "AI|561dc7cd-b6c8-361e-8d57-9cf67f272c15",
+    "AI|https://www.investing.com/news/stock-market-news/up-10-in-october-an-aipicked-stock-defied-asias-2-trillion-chip-rout-4956262",
+    "AI|https://www.investing.com/news/company-news/weebit-nano-q1-fy27-slides-reram-qualified-targets-hit-stock-falls-93CH-4956263",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/up-10-in-october-an-aipicked-stock-defied-asias-2-trillion-chip-rout-4956262",
+    "Cybersecurity|https://www.investing.com/news/company-news/weebit-nano-q1-fy27-slides-reram-qualified-targets-hit-stock-falls-93CH-4956263",
+    "SG Banks|https://www.investing.com/news/stock-market-news/up-10-in-october-an-aipicked-stock-defied-asias-2-trillion-chip-rout-4956262",
+    "SG Banks|https://www.investing.com/news/company-news/weebit-nano-q1-fy27-slides-reram-qualified-targets-hit-stock-falls-93CH-4956263",
+    "Watchlist|561dc7cd-b6c8-361e-8d57-9cf67f272c15",
+    "Watchlist|80c6d18c-559e-337d-b81a-a1f48bdfd0d2",
+    "Watchlist|https://www.investing.com/news/stock-market-news/up-10-in-october-an-aipicked-stock-defied-asias-2-trillion-chip-rout-4956262",
+    "Watchlist|https://www.investing.com/news/company-news/weebit-nano-q1-fy27-slides-reram-qualified-targets-hit-stock-falls-93CH-4956263",
+    "SG Banks|https://www.straitstimes.com/business/indonesian-stocks-slide-to-six-year-low-as-msci-warning-weighs"
   ],
   "topic_error": "",
   "last_digest": "2026-10-19",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792380456.141312
+  "last_check": 1792381383.0254455
 }
