@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/why-is-wipro-stock-surging-today-93CH-4953127",
-    "AI|https://www.investing.com/news/stock-market-news/schneider-electric-raises-2026-targets-again-on-booming-data-centre-demand-4953128",
-    "AI|https://www.investing.com/news/insider-trading-news/mongodb-director-archana-agrawal-sells-400000-in-shares-93CH-4953135",
-    "AI|https://www.investing.com/news/earnings/wipro-shares-hit-twomonth-high-as-revenue-beat-offsets-weak-deal-bookings-4953138",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-sterling-and-wilson-renewable-q2-2026-profit-improves-93CH-4953141",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-wipro-stock-surging-today-93CH-4953127",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/schneider-electric-raises-2026-targets-again-on-booming-data-centre-demand-4953128",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/mongodb-director-archana-agrawal-sells-400000-in-shares-93CH-4953135",
     "Cybersecurity|https://www.investing.com/news/earnings/wipro-shares-hit-twomonth-high-as-revenue-beat-offsets-weak-deal-bookings-4953138",
@@ -5000,7 +4994,13 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/castellum-ceo-ives-acquires-909-in-common-stock-93CH-4956280",
     "Iran|https://www.iranintl.com/en/202610149262",
     "SG Banks|/companies-markets/energy-commodities/oil-falls-five-month-high-supply-intact-despite-fighting",
-    "Watchlist|/companies-markets/energy-commodities/oil-falls-five-month-high-supply-intact-despite-fighting"
+    "Watchlist|/companies-markets/energy-commodities/oil-falls-five-month-high-supply-intact-despite-fighting",
+    "SG Banks|https://www.channelnewsasia.com/business/asian-stocks-slip-wall-st-and-bonds-benefit-oil-skid-6470601",
+    "SG Banks|/companies-markets/transport-logistics/changi-airport-handles-17-4-million-passengers-q3-0-4-year",
+    "Watchlist|/companies-markets/transport-logistics/changi-airport-handles-17-4-million-passengers-q3-0-4-year",
+    "SG Banks|/companies-markets/transport-logistics/changi-airport-handles-17-4-million-passengers-q3-0-4-year-year",
+    "SG Banks|https://www.straitstimes.com/business/japan-pm-takaichi-denies-shes-driving-weak-yen-high-rates",
+    "Watchlist|/companies-markets/transport-logistics/changi-airport-handles-17-4-million-passengers-q3-0-4-year-year"
   ],
   "topic_error": "",
   "last_digest": "2026-10-19",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792382294.4717462
+  "last_check": 1792383197.8911648
 }
