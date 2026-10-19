@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/fda-approves-enspryng-for-thyroid-eye-disease-treatment-93CH-4953094",
-    "SG Banks|https://www.investing.com/news/economy-news/analysiseuropes-bond-market-turmoil-shines-a-spotlight-on-hedge-funds-role-in-key-markets-4953095",
     "SG Banks|https://www.investing.com/news/stock-market-news/malaysia-q3-gdp-grows-53-slows-from-q2-93CH-4953096",
     "Watchlist|https://www.investing.com/news/stock-market-news/nidec-says-considering-legal-action-against-executives-over-accounting-scandal-4953093",
     "Watchlist|https://www.investing.com/news/company-news/fda-approves-enspryng-for-thyroid-eye-disease-treatment-93CH-4953094",
@@ -5000,7 +4998,9 @@
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-new-hope-stock-rallying-today-93CH-4956239",
     "Watchlist|https://www.investing.com/news/economy-news/chinas-new-home-prices-fall-again-in-september-as-recovery-stays-elusive-4956237",
     "Watchlist|https://www.investing.com/news/stock-market-news/starboard-sees-big-upside-in-skyworks-after-qorvo-merger-bloomberg-reports-4956238",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-new-hope-stock-rallying-today-93CH-4956239"
+    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-new-hope-stock-rallying-today-93CH-4956239",
+    "AI|82ae948d-b7e9-3e9d-829c-28cf5a34b569",
+    "Watchlist|82ae948d-b7e9-3e9d-829c-28cf5a34b569"
   ],
   "topic_error": "",
   "last_digest": "2026-10-19",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792378627.168989
+  "last_check": 1792379528.8422983
 }
