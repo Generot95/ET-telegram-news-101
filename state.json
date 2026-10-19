@@ -1,17 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-100-4953115",
-    "Watchlist|https://www.investing.com/news/economy-news/analysisindia-widens-rupee-defence-to-rates-but-cautiously-4953121",
-    "Watchlist|https://www.investing.com/news/stock-market-news/hyundai-recalls-94622-vehicles-in-us-over-fire-risk-93CH-4953122",
-    "Iran|https://www.iranintl.com/en/202610149262",
-    "SG Banks|/companies-markets/banking-finance/us-10-year-treasury-yield-risks-hitting-6-first-time-2000-pimco",
-    "AI|de30844f-bb68-31d0-a9e7-a050d7dbd079",
-    "Watchlist|4190845a-3079-3bb5-9b81-bae475098873",
-    "Watchlist|de30844f-bb68-31d0-a9e7-a050d7dbd079",
-    "AI|4190845a-3079-3bb5-9b81-bae475098873",
-    "Crypto|5818d89d-38c5-376a-aaa3-41b79f151db9",
-    "AI|d4156703-bcf9-3d0d-811d-5c2c13cb8bd4",
     "AI|https://www.investing.com/news/stock-market-news/why-is-wipro-stock-surging-today-93CH-4953127",
     "AI|https://www.investing.com/news/stock-market-news/schneider-electric-raises-2026-targets-again-on-booming-data-centre-demand-4953128",
     "AI|https://www.investing.com/news/insider-trading-news/mongodb-director-archana-agrawal-sells-400000-in-shares-93CH-4953135",
@@ -5000,7 +4989,18 @@
     "Watchlist|80c6d18c-559e-337d-b81a-a1f48bdfd0d2",
     "Watchlist|https://www.investing.com/news/stock-market-news/up-10-in-october-an-aipicked-stock-defied-asias-2-trillion-chip-rout-4956262",
     "Watchlist|https://www.investing.com/news/company-news/weebit-nano-q1-fy27-slides-reram-qualified-targets-hit-stock-falls-93CH-4956263",
-    "SG Banks|https://www.straitstimes.com/business/indonesian-stocks-slide-to-six-year-low-as-msci-warning-weighs"
+    "SG Banks|https://www.straitstimes.com/business/indonesian-stocks-slide-to-six-year-low-as-msci-warning-weighs",
+    "AI|https://www.investing.com/news/economy-news/iran-urges-us-to-accept-hormuz-reopening-proposal-4956273",
+    "AI|https://www.investing.com/news/insider-trading-news/castellum-ceo-ives-acquires-909-in-common-stock-93CH-4956280",
+    "Cybersecurity|https://www.investing.com/news/economy-news/iran-urges-us-to-accept-hormuz-reopening-proposal-4956273",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/castellum-ceo-ives-acquires-909-in-common-stock-93CH-4956280",
+    "SG Banks|https://www.investing.com/news/economy-news/iran-urges-us-to-accept-hormuz-reopening-proposal-4956273",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/castellum-ceo-ives-acquires-909-in-common-stock-93CH-4956280",
+    "Watchlist|https://www.investing.com/news/economy-news/iran-urges-us-to-accept-hormuz-reopening-proposal-4956273",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/castellum-ceo-ives-acquires-909-in-common-stock-93CH-4956280",
+    "Iran|https://www.iranintl.com/en/202610149262",
+    "SG Banks|/companies-markets/energy-commodities/oil-falls-five-month-high-supply-intact-despite-fighting",
+    "Watchlist|/companies-markets/energy-commodities/oil-falls-five-month-high-supply-intact-despite-fighting"
   ],
   "topic_error": "",
   "last_digest": "2026-10-19",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792381383.0254455
+  "last_check": 1792382294.4717462
 }
