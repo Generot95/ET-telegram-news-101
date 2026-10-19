@@ -1,72 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|7f8db6c6-eb03-3d8c-a7cd-54eb6b42588c",
-    "War|fbe27d85-4779-3b31-a18c-741278adaff2",
-    "AI|ce57c069-a055-3842-bb84-590212726506",
-    "AI|7c42cb67-01cb-322e-9d9d-06d2011c3198",
-    "SG Banks|/companies-markets/singapore-build-digital-bunkering-data-ecosystem",
-    "Watchlist|ce57c069-a055-3842-bb84-590212726506",
-    "Watchlist|aa33bb3b-90e9-368c-a0a8-06c2068783eb",
-    "Watchlist|/companies-markets/singapore-build-digital-bunkering-data-ecosystem",
-    "AI|dad39c27-240e-35b3-baed-cc19172c54c2",
-    "AI|5d5cd3bd-b177-3a13-b644-fc5933aee092",
-    "AI|2eaeabbf-163b-30cc-9585-bd06cb38fedb",
-    "Watchlist|5d5cd3bd-b177-3a13-b644-fc5933aee092",
-    "Watchlist|dad39c27-240e-35b3-baed-cc19172c54c2",
-    "AI|d55a97a8-7421-3667-8e70-80ccf75f2e10",
-    "SG Banks|/international/capitaland-india-trust-unveils-us203-2-million-chennai-data-centre",
-    "Watchlist|d55a97a8-7421-3667-8e70-80ccf75f2e10",
-    "Watchlist|/international/capitaland-india-trust-unveils-us203-2-million-chennai-data-centre",
-    "Crypto|0f2a0462-8607-474f-9771-6a799d3b9afc",
-    "AI|28bd2c27-cd7c-30c2-9fa2-2401b2239002",
-    "Watchlist|28bd2c27-cd7c-30c2-9fa2-2401b2239002",
-    "War|WP-MKTW-0005291582",
-    "AI|WP-MKTW-0005291582",
-    "Cybersecurity|WP-MKTW-0005291582",
-    "War|933fd243-9e19-4818-8ea2-418aa9af7890",
-    "AI|cdbfedfa-fd53-3f80-bb53-5a6af029955b",
-    "Crypto|b6893e58-8587-3fbc-b9fa-e5b83b960b0e",
-    "Watchlist|cdbfedfa-fd53-3f80-bb53-5a6af029955b",
-    "AI|cc26e5db-490d-3238-87cb-0a3568950d43",
-    "Watchlist|cc26e5db-490d-3238-87cb-0a3568950d43",
-    "Iran|https://www.iranintl.com/en/202610168685",
-    "AI|https://www.investing.com/news/company-news/mitsubishi-heavy-industries-ingeteam-form-us-data-center-alliance-93CH-4954627",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-nisource-stock-rallying-today-93CH-4954628",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-corporacion-america-airports-stock-climbing-today-93CH-4954629",
-    "AI|https://www.investing.com/news/company-news/thames-water-reaches-deal-with-class-b-creditors-on-debt-terms-93CH-4954630",
-    "Crypto|837d6b7a-a865-33e7-816e-54b0da1a2d7e",
-    "Cybersecurity|https://www.investing.com/news/company-news/mitsubishi-heavy-industries-ingeteam-form-us-data-center-alliance-93CH-4954627",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-nisource-stock-rallying-today-93CH-4954628",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-corporacion-america-airports-stock-climbing-today-93CH-4954629",
-    "Cybersecurity|https://www.investing.com/news/company-news/thames-water-reaches-deal-with-class-b-creditors-on-debt-terms-93CH-4954630",
-    "SG Banks|https://www.investing.com/news/company-news/mitsubishi-heavy-industries-ingeteam-form-us-data-center-alliance-93CH-4954627",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-nisource-stock-rallying-today-93CH-4954628",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-corporacion-america-airports-stock-climbing-today-93CH-4954629",
-    "SG Banks|https://www.investing.com/news/company-news/thames-water-reaches-deal-with-class-b-creditors-on-debt-terms-93CH-4954630",
-    "Watchlist|https://www.investing.com/news/company-news/mitsubishi-heavy-industries-ingeteam-form-us-data-center-alliance-93CH-4954627",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-nisource-stock-rallying-today-93CH-4954628",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-corporacion-america-airports-stock-climbing-today-93CH-4954629",
-    "Watchlist|https://www.investing.com/news/company-news/thames-water-reaches-deal-with-class-b-creditors-on-debt-terms-93CH-4954630",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/eos-falls-10-in-rout-4951244",
-    "AI|67a8a69e-c7d4-319b-bb45-d7c88c6ae15e",
-    "AI|4c2e6c30-4331-3c02-9c08-47327a0ed795",
-    "SG Banks|https://www.channelnewsasia.com/business/coreweaves-ceo-sold-nearly-1-billion-stock-ipo-filings-show-6466916",
-    "Watchlist|67a8a69e-c7d4-319b-bb45-d7c88c6ae15e",
-    "Watchlist|4c2e6c30-4331-3c02-9c08-47327a0ed795",
-    "Cybersecurity|a764bc3f-d121-374d-982b-6a1e478db235",
-    "Watchlist|a764bc3f-d121-374d-982b-6a1e478db235",
-    "Cybersecurity|e7860f48-635b-3f2e-9d85-eb204dd9ca0a",
-    "AI|de81e38c-5180-3b74-b4bc-df207c537f5b",
-    "AI|85689de7-b6ce-3de5-8760-b3e6f3f90718",
-    "AI|427f1283-9c81-3cf5-8ce6-e5cb529e0c0e",
-    "Watchlist|85689de7-b6ce-3de5-8760-b3e6f3f90718",
-    "Watchlist|427f1283-9c81-3cf5-8ce6-e5cb529e0c0e",
-    "Watchlist|de81e38c-5180-3b74-b4bc-df207c537f5b",
-    "Watchlist|85dbdc0a-a571-3101-9600-151968ed75ed",
-    "War|235d6c5d-1705-3fb0-8023-79812fc6bba0",
-    "AI|0ae76654-752b-32e9-9528-213819bc58f9",
-    "AI|1a4e765f-36a2-369b-a9fe-53a4d0608b20",
     "AI|8cb5837f-fc27-3215-a920-c6d40bd4f264",
     "AI|dfbccae4-f1bd-3343-ad3a-28a845a2139f",
     "AI|de1ce10a-a3a7-32eb-a957-5b4794e670cd",
@@ -5000,80 +4934,146 @@
     "Watchlist|bac8d5c4-ac52-34f2-98c6-2e874fdff074",
     "SG Banks|https://www.channelnewsasia.com/business/ex-openai-employee-accused-planting-device-appears-have-saudi-backing-us-prosecutors-say-6472471",
     "SG Banks|/international/asean/indofood-agri-tracking-hot-spots-says-no-legal-notices-received-over-haze",
-    "Watchlist|/international/asean/indofood-agri-tracking-hot-spots-says-no-legal-notices-received-over-haze"
+    "Watchlist|/international/asean/indofood-agri-tracking-hot-spots-says-no-legal-notices-received-over-haze",
+    "Crypto|1281752a-c18d-332d-bf6a-6b5471caea0e",
+    "AI|7815a21a-adf1-45f7-9c3e-8ef8faaa3d9b",
+    "AI|759058e0-f6d5-384d-aec7-8034bc9e8b49",
+    "Watchlist|8c70db44-a896-3ec6-a8bd-d51d69dca2ac",
+    "Watchlist|759058e0-f6d5-384d-aec7-8034bc9e8b49",
+    "Watchlist|81a4deae-1e16-3913-a37f-3c4abe680ee4",
+    "Watchlist|7815a21a-adf1-45f7-9c3e-8ef8faaa3d9b",
+    "War|b3ea6bec-8a79-32e3-b01a-189175958151",
+    "AI|bc99e22b-5876-39fa-9011-1ad5119c2ea5",
+    "Watchlist|bc99e22b-5876-39fa-9011-1ad5119c2ea5",
+    "Watchlist|85923027-8e83-37ca-8657-1de3b69d1a82",
+    "AI|d6c0b5e2-f29f-31e3-96bd-0c5c440b6cae",
+    "AI|96a9ec6d-fe52-3e46-9be6-60a410359ea2",
+    "Watchlist|d6c0b5e2-f29f-31e3-96bd-0c5c440b6cae",
+    "Watchlist|96a9ec6d-fe52-3e46-9be6-60a410359ea2",
+    "SG Banks|/international/capitaland-india-trust-unveils-us203-2-million-chennai-data-centre",
+    "Watchlist|a4ce65a1-84ac-3f2e-9560-558bb785c996",
+    "AI|2f97ec1c-ba61-4047-bdbc-1acbed95085e",
+    "Watchlist|/international/capitaland-india-trust-unveils-us203-2-million-chennai-data-centre",
+    "Watchlist|d304934d-a5dd-316c-9ce2-d2fddd7155e3",
+    "Watchlist|515cd0e5-cf92-312b-9595-78e3b9a48dfb",
+    "AI|d304934d-a5dd-316c-9ce2-d2fddd7155e3",
+    "AI|https://www.investing.com/news/stock-market-news/israel-stocks-lower-at-close-of-trade-ta-35-down-045-4957989",
+    "AI|https://www.investing.com/news/stock-market-news/morgan-stanley-names-amazon-top-pick-amid-aws-strength-4957990",
+    "AI|https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-000-4957992",
+    "AI|https://www.investing.com/news/stock-market-news/factboxtop-cases-on-the-us-supreme-courts-docket-4957994",
+    "AI|https://www.investing.com/news/company-news/electrica-schedules-shareholder-meeting-for-december-10-93CH-4957995",
+    "AI|https://www.investing.com/news/analyst-ratings/bmo-raises-disc-medicine-stock-price-target-on-positive-trial-data-93CH-4958001",
+    "AI|https://www.investing.com/news/company-news/aibotics-completes-acquisition-of-novacore-labs-assets-93CH-4958002",
+    "AI|https://www.investing.com/news/company-news/richardson-electronics-launches-ecommerce-for-laser-products-93CH-4958003",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-palantir-technologies-stock-rallying-today-93CH-4957965",
+    "AI|https://www.investing.com/news/stock-market-news/greece-stocks-lower-at-close-of-trade-athens-general-composite-down-039-4957975",
+    "AI|https://www.investing.com/news/stock-market-news/top-fintech-and-crypto-stocks-moness-crespi-hardts-picks-4958004",
+    "AI|https://www.investing.com/news/company-news/fifth-third-q3-2026-slides-postmerger-profitability-soars-rotce-hits-206-93CH-4957973",
+    "AI|https://www.investing.com/news/company-news/dynex-q3-2026-slides-show-portfolio-growth-amid-book-value-pressure-93CH-4957986",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/israel-stocks-lower-at-close-of-trade-ta-35-down-045-4957989",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/morgan-stanley-names-amazon-top-pick-amid-aws-strength-4957990",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-000-4957992",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/factboxtop-cases-on-the-us-supreme-courts-docket-4957994",
+    "Cybersecurity|https://www.investing.com/news/company-news/electrica-schedules-shareholder-meeting-for-december-10-93CH-4957995",
+    "Cybersecurity|https://www.investing.com/news/analyst-ratings/bmo-raises-disc-medicine-stock-price-target-on-positive-trial-data-93CH-4958001",
+    "Cybersecurity|https://www.investing.com/news/company-news/aibotics-completes-acquisition-of-novacore-labs-assets-93CH-4958002",
+    "Cybersecurity|https://www.investing.com/news/company-news/richardson-electronics-launches-ecommerce-for-laser-products-93CH-4958003",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/trump-to-create-new-nih-division-task-force-for-womens-health-4957691",
+    "Cybersecurity|https://www.investing.com/news/company-news/fifth-third-q3-2026-slides-postmerger-profitability-soars-rotce-hits-206-93CH-4957973",
+    "Cybersecurity|https://www.investing.com/news/company-news/dynex-q3-2026-slides-show-portfolio-growth-amid-book-value-pressure-93CH-4957986",
+    "SG Banks|/companies-markets/mi-material-focusing-things-we-can-control-it-launches-s215-million-sgx-ipo",
+    "SG Banks|https://www.investing.com/news/stock-market-news/israel-stocks-lower-at-close-of-trade-ta-35-down-045-4957989",
+    "SG Banks|https://www.investing.com/news/stock-market-news/morgan-stanley-names-amazon-top-pick-amid-aws-strength-4957990",
+    "SG Banks|https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-000-4957992",
+    "SG Banks|https://www.investing.com/news/stock-market-news/factboxtop-cases-on-the-us-supreme-courts-docket-4957994",
+    "SG Banks|https://www.investing.com/news/company-news/electrica-schedules-shareholder-meeting-for-december-10-93CH-4957995",
+    "SG Banks|https://www.investing.com/news/analyst-ratings/bmo-raises-disc-medicine-stock-price-target-on-positive-trial-data-93CH-4958001",
+    "SG Banks|https://www.investing.com/news/company-news/aibotics-completes-acquisition-of-novacore-labs-assets-93CH-4958002",
+    "SG Banks|https://www.investing.com/news/company-news/richardson-electronics-launches-ecommerce-for-laser-products-93CH-4958003",
+    "SG Banks|https://www.investing.com/news/stock-market-news/trump-to-create-new-nih-division-task-force-for-womens-health-4957691",
+    "Watchlist|/companies-markets/mi-material-focusing-things-we-can-control-it-launches-s215-million-sgx-ipo",
+    "Watchlist|https://www.investing.com/news/stock-market-news/israel-stocks-lower-at-close-of-trade-ta-35-down-045-4957989",
+    "Watchlist|https://www.investing.com/news/stock-market-news/morgan-stanley-names-amazon-top-pick-amid-aws-strength-4957990",
+    "Watchlist|https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-000-4957992",
+    "Watchlist|https://www.investing.com/news/stock-market-news/factboxtop-cases-on-the-us-supreme-courts-docket-4957994",
+    "Watchlist|https://www.investing.com/news/company-news/electrica-schedules-shareholder-meeting-for-december-10-93CH-4957995",
+    "Watchlist|https://www.investing.com/news/analyst-ratings/bmo-raises-disc-medicine-stock-price-target-on-positive-trial-data-93CH-4958001",
+    "Watchlist|https://www.investing.com/news/company-news/aibotics-completes-acquisition-of-novacore-labs-assets-93CH-4958002",
+    "Watchlist|https://www.investing.com/news/company-news/richardson-electronics-launches-ecommerce-for-laser-products-93CH-4958003",
+    "Watchlist|https://www.investing.com/news/stock-market-news/trump-to-create-new-nih-division-task-force-for-womens-health-4957691"
   ],
   "topic_error": "",
   "last_digest": "2026-10-19",
   "earnings": {
     "AMD": {
       "ts": 1793736000,
-      "fetched": 1792336143.3192956
+      "fetched": 1792422584.7517684
     },
     "NVDA": {
       "ts": 1794945600,
-      "fetched": 1792336143.3192956
+      "fetched": 1792422584.7517684
     },
     "CRWD": {
       "ts": 1796155200,
-      "fetched": 1792336143.3192956
+      "fetched": 1792422584.7517684
     },
     "MSFT": {
       "ts": 1793217600,
-      "fetched": 1792336143.3192956
+      "fetched": 1792422584.7517684
     },
     "INTU": {
       "ts": 1795118400,
-      "fetched": 1792336143.3192956
+      "fetched": 1792422584.7517684
     },
     "BRK-B": {
       "ts": 1794081600,
-      "fetched": 1792336143.3192956
+      "fetched": 1792422584.7517684
     },
     "AMZN": {
       "ts": 1793304000,
-      "fetched": 1792336143.3192956
+      "fetched": 1792422584.7517684
     },
     "GOOG": {
       "ts": 1793217600,
-      "fetched": 1792336143.3192956
+      "fetched": 1792422584.7517684
     },
     "ZTS": {
       "ts": 1793881800,
-      "fetched": 1792336143.3192956
+      "fetched": 1792422584.7517684
     },
     "LIN": {
       "ts": 1793277000,
-      "fetched": 1792336143.3192956
+      "fetched": 1792422584.7517684
     },
     "VLO": {
       "ts": 1792672200,
-      "fetched": 1792336143.3192956
+      "fetched": 1792422584.7517684
     },
     "D05.SI": {
       "ts": 1793869200,
-      "fetched": 1792336143.3192956
+      "fetched": 1792422584.7517684
     },
     "O39.SI": {
       "ts": 1793955600,
-      "fetched": 1792336143.3192956
+      "fetched": 1792422584.7517684
     },
     "U11.SI": {
       "ts": 1793782800,
-      "fetched": 1792336143.3192956
+      "fetched": 1792422584.7517684
     },
     "A17U.SI": {
       "ts": 1785920400,
-      "fetched": 1792336143.3192956
+      "fetched": 1792422584.7517684
     },
     "HMN.SI": {
       "ts": 1785229200,
-      "fetched": 1792336143.3192956
+      "fetched": 1792422584.7517684
     },
     "JYEU.SI": {
       "ts": null,
-      "fetched": 1792336143.3192956
+      "fetched": 1792422584.7517684
     }
   },
   "earnings_notified": [],
-  "last_check": 1792421668.3667293
+  "last_check": 1792422584.7512681
 }
