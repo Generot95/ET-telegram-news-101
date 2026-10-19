@@ -1,24 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|36cc0c93-f15b-34b4-8d59-ca8741222a7c",
-    "SG Banks|https://www.channelnewsasia.com/business/malaysia-economy-growth-q3-official-advance-estimate-6464966",
-    "SG Banks|/singapore/mazda-opens-dedicated-ev-showroom-singapore",
-    "Watchlist|/singapore/mazda-opens-dedicated-ev-showroom-singapore",
-    "AI|https://www.investing.com/news/stock-market-news/which-stocks-will-benefit-from-ai-power-demand-going-nuclear-93CH-4953057",
-    "AI|https://www.investing.com/news/insider-trading-news/oklo-cpo-alexandra-renner-sells-21156-in-shares-on-oct-14-93CH-4953066",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-sourcenext-stock-sliding-today-93CH-4953067",
-    "AI|https://www.investing.com/news/stock-market-news/indonesia-stocks-suffer-biggest-daily-slump-since-1998-as-msci-weighs-downgrade-4953068",
-    "AI|https://www.investing.com/news/forex-news/asia-fx-subdued-dollar-weakens-after-bond-rally-rupee-set-for-2-weekly-jump-4953070",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/which-stocks-will-benefit-from-ai-power-demand-going-nuclear-93CH-4953057",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/oklo-cpo-alexandra-renner-sells-21156-in-shares-on-oct-14-93CH-4953066",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-sourcenext-stock-sliding-today-93CH-4953067",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/indonesia-stocks-suffer-biggest-daily-slump-since-1998-as-msci-weighs-downgrade-4953068",
-    "Cybersecurity|https://www.investing.com/news/forex-news/asia-fx-subdued-dollar-weakens-after-bond-rally-rupee-set-for-2-weekly-jump-4953070",
-    "SG Banks|https://www.investing.com/news/stock-market-news/which-stocks-will-benefit-from-ai-power-demand-going-nuclear-93CH-4953057",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/oklo-cpo-alexandra-renner-sells-21156-in-shares-on-oct-14-93CH-4953066",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-sourcenext-stock-sliding-today-93CH-4953067",
-    "SG Banks|https://www.investing.com/news/stock-market-news/indonesia-stocks-suffer-biggest-daily-slump-since-1998-as-msci-weighs-downgrade-4953068",
     "SG Banks|https://www.investing.com/news/forex-news/asia-fx-subdued-dollar-weakens-after-bond-rally-rupee-set-for-2-weekly-jump-4953070",
     "Watchlist|https://www.investing.com/news/stock-market-news/which-stocks-will-benefit-from-ai-power-demand-going-nuclear-93CH-4953057",
     "Watchlist|https://www.investing.com/news/insider-trading-news/oklo-cpo-alexandra-renner-sells-21156-in-shares-on-oct-14-93CH-4953066",
@@ -5000,7 +4982,25 @@
     "SG Banks|https://www.channelnewsasia.com/business/china-gdp-growth-data-september-2026-6470736",
     "AI|660182cb-3f29-3fb4-8af5-e0a11f635419",
     "SG Banks|https://www.straitstimes.com/business/temasek-director-lee-theng-kiat-joins-sia-board",
-    "Watchlist|660182cb-3f29-3fb4-8af5-e0a11f635419"
+    "Watchlist|660182cb-3f29-3fb4-8af5-e0a11f635419",
+    "Watchlist|00088f5d-3c9b-3b85-959a-dd8166c8a381",
+    "AI|172d4b7d-b54e-3fca-b1f3-a5515bb75217",
+    "Watchlist|172d4b7d-b54e-3fca-b1f3-a5515bb75217",
+    "SG Banks|/singapore/mazda-opens-dedicated-ev-showroom-singapore",
+    "Watchlist|/singapore/mazda-opens-dedicated-ev-showroom-singapore",
+    "AI|https://www.investing.com/news/economic-indicators/china-q3-gdp-grows-45-slightly-more-than-expected-4956217",
+    "AI|https://www.investing.com/news/economy-news/chinas-economic-growth-picks-up-in-third-quarter-beating-expectations-4956218",
+    "AI|https://www.investing.com/news/economic-indicators/china-industrial-output-retail-sales-beat-forecasts-in-september-4956219",
+    "Cybersecurity|https://www.investing.com/news/economic-indicators/china-q3-gdp-grows-45-slightly-more-than-expected-4956217",
+    "Cybersecurity|https://www.investing.com/news/economy-news/chinas-economic-growth-picks-up-in-third-quarter-beating-expectations-4956218",
+    "Cybersecurity|https://www.investing.com/news/economic-indicators/china-industrial-output-retail-sales-beat-forecasts-in-september-4956219",
+    "SG Banks|https://www.investing.com/news/economic-indicators/china-q3-gdp-grows-45-slightly-more-than-expected-4956217",
+    "SG Banks|https://www.investing.com/news/economy-news/chinas-economic-growth-picks-up-in-third-quarter-beating-expectations-4956218",
+    "SG Banks|https://www.investing.com/news/economic-indicators/china-industrial-output-retail-sales-beat-forecasts-in-september-4956219",
+    "Watchlist|https://www.investing.com/news/economic-indicators/china-q3-gdp-grows-45-slightly-more-than-expected-4956217",
+    "Watchlist|https://www.investing.com/news/economy-news/chinas-economic-growth-picks-up-in-third-quarter-beating-expectations-4956218",
+    "Watchlist|https://www.investing.com/news/economic-indicators/china-industrial-output-retail-sales-beat-forecasts-in-september-4956219",
+    "SG Banks|https://www.straitstimes.com/business/bond-markets-big-short-bet-gets-wakeup-call-as-ai-trade-wobbles"
   ],
   "topic_error": "",
   "last_digest": "2026-10-19",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792376780.0145643
+  "last_check": 1792377707.7645793
 }
