@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/dolce--gabbana-beauty-unit-sees-doubledigit-growth-in-2026-4953165",
-    "AI|https://www.investing.com/news/stock-market-news/bernstein-names-top-pick-in-us-waste-sector-4953169",
-    "AI|https://www.investing.com/news/company-news/europa-oil--gas-secures-12month-extension-for-eg08-block-93CH-4953164",
-    "AI|https://www.investing.com/news/company-news/helix-exploration-gets-approval-to-restart-rudyard-facility-93CH-4953171",
     "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-82k-but-set-for-second-week-in-red-4953175",
     "Cybersecurity|https://www.investing.com/news/company-news/iofina-commissions-io12-iodine-plant-in-permian-basin-93CH-4953174",
     "Cybersecurity|https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-82k-but-set-for-second-week-in-red-4953175",
@@ -5000,7 +4996,11 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/asia-stocks-edge-lower-despite-stronger-china-growth-as-ai-jitters-persist-4956316",
     "Watchlist|https://www.investing.com/news/economy-news/morning-bid-markets-left-to-figure-out-sanctions-4956314",
     "Watchlist|https://www.investing.com/news/stock-market-news/these-tech-stocks-held-up-during-the-earlyoct-ai-selloff-93CH-4956327",
-    "SG Banks|/companies-markets/banking-finance/jpmorgan-posts-surprise-drop-fixed-income-trading-revenue"
+    "SG Banks|/companies-markets/banking-finance/jpmorgan-posts-surprise-drop-fixed-income-trading-revenue",
+    "Watchlist|72315bed-97a9-3720-a14b-261e1838aeb7",
+    "AI|72315bed-97a9-3720-a14b-261e1838aeb7",
+    "AI|60fdd1e6-891d-34f6-88b6-544953886104",
+    "Watchlist|60fdd1e6-891d-34f6-88b6-544953886104"
   ],
   "topic_error": "",
   "last_digest": "2026-10-19",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792385936.9674952
+  "last_check": 1792386859.6717489
 }
