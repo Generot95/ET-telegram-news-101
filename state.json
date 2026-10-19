@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|cef69333-e35a-39b9-bc66-04e01e6f0093",
-    "AI|https://www.investing.com/news/insider-trading-news/hippo-holdings-ceo-spinnaker-torben-ostergaard-sells-40955-in-shares-93CH-4955303",
-    "AI|https://www.investing.com/news/company-news/dlf-q2fy27-slides-strong-cash-flow-masks-revenue-recognition-lag-93CH-4955305",
-    "AI|https://www.investing.com/news/insider-trading-news/marvell-ceo-matthew-murphy-reports-177-million-marvell-stock-sale-93CH-4955311",
     "AI|https://www.investing.com/news/economy-news/china-ai-supplychain-ipos-hold-firm-despite-valuation-pullback-citi-says-4955300",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/hippo-holdings-ceo-spinnaker-torben-ostergaard-sells-40955-in-shares-93CH-4955303",
     "Cybersecurity|https://www.investing.com/news/company-news/dlf-q2fy27-slides-strong-cash-flow-masks-revenue-recognition-lag-93CH-4955305",
@@ -5000,7 +4996,11 @@
     "SG Banks|/companies-markets/foreign-holdings-us-treasuries-rise-almost-1-year-low",
     "Watchlist|/companies-markets/foreign-holdings-us-treasuries-rise-almost-1-year-low",
     "SG Banks|/companies-markets/anthropic-pitches-ai-safety-bill-lawmakers",
-    "Watchlist|/companies-markets/anthropic-pitches-ai-safety-bill-lawmakers"
+    "Watchlist|/companies-markets/anthropic-pitches-ai-safety-bill-lawmakers",
+    "SG Banks|https://www.channelnewsasia.com/business/exclusive-openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say-6473766",
+    "Watchlist|29306018-a063-3717-af27-a0708d6ffdce",
+    "AI|cf956c82-b88e-331f-9829-f7834fe26154",
+    "Watchlist|cf956c82-b88e-331f-9829-f7834fe26154"
   ],
   "topic_error": "",
   "last_digest": "2026-10-19",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792452079.3377366
+  "last_check": 1792452991.3560212
 }
