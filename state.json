@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/eeme-energy-spv-i-buys-142m-in-xcf-global-stock-93CH-4955244",
-    "Cybersecurity|https://www.investing.com/news/company-news/arrested-openai-engineer-seeks-bail-denies-plans-to-flee-us-4955246",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/eeme-energy-spv-i-buys-142m-in-xcf-global-stock-93CH-4955244",
-    "SG Banks|https://www.investing.com/news/company-news/arrested-openai-engineer-seeks-bail-denies-plans-to-flee-us-4955246",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/eeme-energy-spv-i-buys-142m-in-xcf-global-stock-93CH-4955244",
-    "Watchlist|https://www.investing.com/news/company-news/arrested-openai-engineer-seeks-bail-denies-plans-to-flee-us-4955246",
-    "AI|29e4633c-fe52-3576-9a86-06acb320107f",
-    "Watchlist|29e4633c-fe52-3576-9a86-06acb320107f",
-    "War|https://www.investing.com/news/world-news/indias-cockroach-movement-founder-arrested-after-detention-media-reports-say-4955223",
     "AI|https://www.investing.com/news/world-news/indias-cockroach-movement-founder-arrested-after-detention-media-reports-say-4955223",
     "AI|https://www.investing.com/news/insider-trading-news/aptera-coceo-anthony-lee-sells-60182-in-stock-for-tax-obligations-93CH-4955249",
     "AI|https://www.investing.com/news/insider-trading-news/marvell-technology-president-sells-865864-in-shares-93CH-4955250",
@@ -5000,7 +4991,16 @@
     "Watchlist|https://www.investing.com/news/company-news/platinum-equity-to-acquire-majority-stake-in-italian-equipment-maker-trime-93CH-4958433",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-w-r-berkley-tops-eps-in-q3-2026-but-misses-revenue-93CH-4958434",
     "SG Banks|/companies-markets/apple-says-iphone-duo-demand-extraordinary-after-delivery-delays",
-    "Watchlist|/companies-markets/apple-says-iphone-duo-demand-extraordinary-after-delivery-delays"
+    "Watchlist|/companies-markets/apple-says-iphone-duo-demand-extraordinary-after-delivery-delays",
+    "Cybersecurity|7fa6466c-abd5-330e-9c89-b3cb2dc27d79",
+    "SG Banks|https://www.channelnewsasia.com/business/former-google-ceo-schmidt-owns-1-stake-in-anthropic-bloomberg-reports-6473661",
+    "SG Banks|https://www.channelnewsasia.com/business/3m-expands-amazon-data-center-partnership-shares-gain-6473656",
+    "AI|f19a3504-37bd-3147-95ff-d86f10ee2b25",
+    "AI|4116c49c-1632-375f-afdf-23d0834ecf9d",
+    "AI|4952a395-d927-3659-ba55-2ab1814f9763",
+    "Watchlist|f19a3504-37bd-3147-95ff-d86f10ee2b25",
+    "Watchlist|4116c49c-1632-375f-afdf-23d0834ecf9d",
+    "Watchlist|4952a395-d927-3659-ba55-2ab1814f9763"
   ],
   "topic_error": "",
   "last_digest": "2026-10-19",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792448440.5773337
+  "last_check": 1792449338.5030794
 }
