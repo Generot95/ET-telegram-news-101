@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/collective-metals-announces-private-placement-of-up-to-c515000-93CH-4953049",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/gift-nifty-50-stalls-below-22693-resistance-live-levels-93CH-4943050",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-the-jakarta-stock-exchange-composite-index-collapsing-today-93CH-4953050",
     "Cybersecurity|https://www.investing.com/news/economy-news/feds-warsh-gives-no-hint-on-october-policy-decision-4953046",
     "Cybersecurity|https://www.investing.com/news/earnings/northrim-earnings-missed-by-010-revenue-topped-estimates-4953053",
@@ -5000,7 +4998,9 @@
     "SG Banks|/companies-markets/fund-managers-quit-trade-their-own-money-taiwan-stock-boom",
     "SG Banks|/companies-markets/capital-markets-currencies/asian-stocks-skid-wall-street-and-bonds-aided-oil-slip",
     "Watchlist|/companies-markets/fund-managers-quit-trade-their-own-money-taiwan-stock-boom",
-    "Watchlist|/companies-markets/capital-markets-currencies/asian-stocks-skid-wall-street-and-bonds-aided-oil-slip"
+    "Watchlist|/companies-markets/capital-markets-currencies/asian-stocks-skid-wall-street-and-bonds-aided-oil-slip",
+    "War|fdd2b034-75c5-3172-8a85-f16f555a433d",
+    "SG Banks|https://www.straitstimes.com/business/weak-links-start-to-show-in-ai-borrowing"
   ],
   "topic_error": "",
   "last_digest": "2026-10-19",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792374050.4564087
+  "last_check": 1792374947.2979896
 }
