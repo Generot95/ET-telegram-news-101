@@ -1,21 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/element-to-manage-waymos-autonomous-fleet-in-toronto-launch-93CH-4953663",
-    "AI|https://www.investing.com/news/stock-market-news/can-ai-avoid-the-boomandbust-fate-of-past-capital-cycles-bofa-weighs-in-4953613",
-    "AI|https://www.investing.com/news/stock-market-news/india-stocks-higher-at-close-of-trade-nifty-50-up-065-4953629",
-    "AI|https://www.investing.com/news/stock-market-news/ubs-bullish-on-bouygues-as-cash-flow-cushions-french-fiscal-risks-4953642",
-    "AI|https://www.investing.com/news/company-news/european-regulators-reject-omeros-tatma-treatment-application-93CH-4953609",
-    "AI|https://www.investing.com/news/company-news/tnl-mediagene-regains-nasdaq-bid-price-compliance-93CH-4953653",
-    "AI|https://www.investing.com/news/company-news/hyperscale-data-tokenizes-5000-ounces-of-silver-on-blockchain-93CH-4953654",
-    "Cybersecurity|https://www.investing.com/news/company-news/hon-hai-subsidiary-acquires-50-stake-in-mitsubishi-electric-mobility-93CH-4953655",
-    "Cybersecurity|https://www.investing.com/news/economy-news/on-the-campaign-trail-jb-pritzker-courts-farmers-like-hes-running-for-president-4953577",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/stay-riskoff-as-higher-real-yields-and-ai-volatility-threaten-stocks-hartnett-4953610",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/turkey-stock-index-drops-over-3-after-msci-freezes-changes-93CH-4953659",
-    "Cybersecurity|https://www.investing.com/news/earnings/truist-shares-edge-down-on-revenue-miss-despite-earnings-beat-4953660",
-    "Cybersecurity|https://www.investing.com/news/economy-news/germany-raises-taxes-on-cigarettes-sugary-drinks-and-alcohol-93CH-4953662",
-    "Cybersecurity|https://www.investing.com/news/company-news/element-to-manage-waymos-autonomous-fleet-in-toronto-launch-93CH-4953663",
-    "Cybersecurity|https://www.investing.com/news/company-news/european-regulators-reject-omeros-tatma-treatment-application-93CH-4953609",
     "Cybersecurity|https://www.investing.com/news/company-news/tnl-mediagene-regains-nasdaq-bid-price-compliance-93CH-4953653",
     "Cybersecurity|https://www.investing.com/news/company-news/hyperscale-data-tokenizes-5000-ounces-of-silver-on-blockchain-93CH-4953654",
     "SG Banks|https://www.investing.com/news/company-news/hon-hai-subsidiary-acquires-50-stake-in-mitsubishi-electric-mobility-93CH-4953655",
@@ -5000,7 +4985,22 @@
     "Watchlist|929f5880-3190-3082-9217-b6d9abd510bd",
     "Watchlist|/singapore/singapore-use-every-legal-and-regulatory-lever-against-companies-linked-haze-shanmugam",
     "AI|929f5880-3190-3082-9217-b6d9abd510bd",
-    "Cybersecurity|929f5880-3190-3082-9217-b6d9abd510bd"
+    "Cybersecurity|929f5880-3190-3082-9217-b6d9abd510bd",
+    "AI|c8c23434-6b5e-3183-b604-bb0bd26c08b7",
+    "Watchlist|c8c23434-6b5e-3183-b604-bb0bd26c08b7",
+    "AI|07149089-b5e5-3e53-9f3d-26d35dbb479f",
+    "Watchlist|07149089-b5e5-3e53-9f3d-26d35dbb479f",
+    "Crypto|bc83b875-461c-3a71-9770-7516d88a1592",
+    "Crypto|4545646c-c0e6-3aa2-afbb-bd768823a611",
+    "War|d92adce8-67d3-387b-b86b-f600ae1122d6",
+    "SG Banks|/singapore/nea-issues-notices-three-more-companies-indonesia-over-haze-role",
+    "Watchlist|/singapore/nea-issues-notices-three-more-companies-indonesia-over-haze-role",
+    "War|WP-MKTW-0005293767",
+    "AI|WP-MKTW-0005293767",
+    "Cybersecurity|WP-MKTW-0005293767",
+    "Watchlist|43320afc-64d5-3d17-84be-b1ba0ab6b2d8",
+    "Watchlist|866800c8-0742-32f4-9da7-fcc5b23d2b4e",
+    "Watchlist|88469594-b252-3283-9631-bc0e3fdee37a"
   ],
   "topic_error": "",
   "last_digest": "2026-10-19",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792401494.4654737
+  "last_check": 1792402426.6809914
 }
