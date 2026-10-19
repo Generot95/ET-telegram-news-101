@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|f70ab203-2be5-3ec3-a0cd-7ebc857d3fed",
-    "Watchlist|7c3707c0-b872-37a7-826d-20fb4adfe760",
-    "Cybersecurity|790c3758-5c95-36fc-81a1-c296de574de3",
-    "SG Banks|/companies-markets/tesla-spacex-deal-news-possible-2026-barclays-analyst-says",
-    "SG Banks|https://www.channelnewsasia.com/business/stablecoin-issuer-circle-push-40-new-markets-ceo-says-6465526",
-    "Watchlist|/companies-markets/tesla-spacex-deal-news-possible-2026-barclays-analyst-says",
-    "AI|87ba6f1e-e365-390b-872a-24c62e4c5594",
-    "AI|e7e2b3f7-69ec-311e-a580-f485792d01a0",
-    "Watchlist|87ba6f1e-e365-390b-872a-24c62e4c5594",
     "Watchlist|e7e2b3f7-69ec-311e-a580-f485792d01a0",
     "AI|https://www.investing.com/news/economy-news/investors-bought-stocks-and-bonds-shed-cash-in-past-week-say-bofa-4953449",
     "AI|https://www.investing.com/news/stock-market-news/aws-microsoft-can-do-more-to-address-cloud-services-barriers-uk-competition-watchdog-says-4953452",
@@ -5000,7 +4991,16 @@
     "Watchlist|https://www.investing.com/news/company-news/aira-q3-2026-slides-strategic-pivot-to-fortnox-integration-93CH-4956530",
     "Watchlist|https://www.investing.com/news/stock-market-news/bank-of-england-probes-barclays-over-private-credit-loans--report-4956531",
     "Watchlist|https://www.investing.com/news/analyst-ratings/jpmorgan-raises-bm-european-value-retail-price-target-on-cost-concerns-93CH-4956532",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/citizens-initiates-resideo-stock-with-outperform-on-market-position-93CH-4956533"
+    "Watchlist|https://www.investing.com/news/analyst-ratings/citizens-initiates-resideo-stock-with-outperform-on-market-position-93CH-4956533",
+    "War|WP-MKTW-0005289493",
+    "AI|WP-MKTW-0005289493",
+    "Cybersecurity|WP-MKTW-0005289493",
+    "SG Banks|/companies-markets/singapores-high-sulphur-marine-fuel-market-seeing-supply-squeeze-argus",
+    "Watchlist|/companies-markets/singapores-high-sulphur-marine-fuel-market-seeing-supply-squeeze-argus",
+    "AI|be150942-d359-33e1-ace4-05cba1b73bce",
+    "Watchlist|be150942-d359-33e1-ace4-05cba1b73bce",
+    "War|eed6bafe-192a-43e1-9832-73362512b59c",
+    "AI|78e5d72e-da93-31c4-af65-322812173406"
   ],
   "topic_error": "",
   "last_digest": "2026-10-19",
@@ -5075,5 +5075,5 @@
     }
   },
   "earnings_notified": [],
-  "last_check": 1792396002.118827
+  "last_check": 1792396919.284219
 }
