@@ -1,21 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|0b8362db-a3fb-3be9-938c-2681c50d409c",
-    "War|WP-MKTW-0005292823",
-    "AI|WP-MKTW-0005292823",
-    "Cybersecurity|WP-MKTW-0005292823",
-    "AI|cf68e160-62a0-3f81-aae0-bc5f6ac76f74",
-    "SG Banks|/international/ai-rally-wobbles-stock-markets-spotlight-turns-earnings",
-    "Watchlist|/international/ai-rally-wobbles-stock-markets-spotlight-turns-earnings",
-    "Crypto|fd6bd9a0-d83e-30b8-95c3-3efbdca1a56d",
-    "AI|ae475c3f-752c-307b-bffb-d03fb27642c0",
-    "Watchlist|ae475c3f-752c-307b-bffb-d03fb27642c0",
-    "War|https://www.investing.com/news/commodities-news/romanian-f16-fighter-jets-shoot-down-two-drones-over-romanian-territorial-waters-4955946",
-    "AI|https://www.investing.com/news/commodities-news/romanian-f16-fighter-jets-shoot-down-two-drones-over-romanian-territorial-waters-4955946",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/romanian-f16-fighter-jets-shoot-down-two-drones-over-romanian-territorial-waters-4955946",
-    "SG Banks|https://www.investing.com/news/commodities-news/romanian-f16-fighter-jets-shoot-down-two-drones-over-romanian-territorial-waters-4955946",
-    "Watchlist|https://www.investing.com/news/commodities-news/romanian-f16-fighter-jets-shoot-down-two-drones-over-romanian-territorial-waters-4955946",
     "AI|92960808-5d61-35d1-8382-a2cf2e1c6089",
     "Watchlist|92960808-5d61-35d1-8382-a2cf2e1c6089",
     "AI|https://www.investing.com/news/analyst-ratings/jpmorgan-raises-icici-bank-stock-price-target-on-strong-earnings-93CH-4955968",
@@ -5000,7 +4985,22 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/alvotech-shares-jump-premarket-after-fda-approves-new-simlandi-process-4959209",
     "Watchlist|https://www.investing.com/news/forex-news/sterling-today-pound-edges-up-as-dollar-consolidates-4959210",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-exsitec-posts-strong-q3-2026-growth-as-stock-edges-higher-93CH-4959211",
-    "Watchlist|https://www.investing.com/news/stock-market-news/eni-launches-gas-project-to-boost-egypt-production-capacity-93CH-4959212"
+    "Watchlist|https://www.investing.com/news/stock-market-news/eni-launches-gas-project-to-boost-egypt-production-capacity-93CH-4959212",
+    "Iran|https://www.iranintl.com/en/202610180983",
+    "SG Banks|/opinion-features/mas-sgx-must-address-our-ipo-problem",
+    "SG Banks|/international/samsung-use-tsmc-tech-nvidias-next-generation-memory-chips-says-seoul-newspaper",
+    "Watchlist|/opinion-features/mas-sgx-must-address-our-ipo-problem",
+    "Watchlist|/international/samsung-use-tsmc-tech-nvidias-next-generation-memory-chips-says-seoul-newspaper",
+    "War|WP-MKTW-0005292245",
+    "AI|WP-MKTW-0005292245",
+    "Cybersecurity|WP-MKTW-0005292245",
+    "SG Banks|/international/ai-rally-wobbles-stock-markets-spotlight-turns-earnings",
+    "Watchlist|/international/ai-rally-wobbles-stock-markets-spotlight-turns-earnings",
+    "War|d9336c60-8e54-3ee1-a042-d930abc1a024",
+    "AI|9d3e511d-355d-3c86-909e-149439eed97a",
+    "Watchlist|9d3e511d-355d-3c86-909e-149439eed97a",
+    "SG Banks|https://www.channelnewsasia.com/business/essilorluxotticas-smart-glasses-boom-runs-tougher-regulatory-scrutiny-6475056",
+    "Cybersecurity|99998925-3e55-3b54-82ef-09b1f696e657"
   ],
   "topic_error": "",
   "last_digest": "2026-10-20",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792486890.9436266
+  "last_check": 1792487812.2552772
 }
