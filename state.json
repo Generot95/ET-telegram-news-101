@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/economy-news/german-minister-seeks-debt-brake-exemption-to-maintain-ukraine-aid-4955372",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/nwpx-infrastructure-director-roman-sells-387k-in-stock-93CH-4955371",
-    "Watchlist|https://www.investing.com/news/economy-news/german-minister-seeks-debt-brake-exemption-to-maintain-ukraine-aid-4955372",
-    "AI|966e9e57-28fe-3cee-aa9c-56a2a6a12fc2",
     "Watchlist|966e9e57-28fe-3cee-aa9c-56a2a6a12fc2",
     "War|a35971cd-b5ba-3443-9724-51f259218dc1",
     "AI|a35971cd-b5ba-3443-9724-51f259218dc1",
@@ -5000,7 +4996,11 @@
     "Watchlist|https://www.investing.com/news/company-news/black-pearl-q2-fy27-slides-34-closer-to-profit-ai-lead-widens-93CH-4958569",
     "Watchlist|https://www.investing.com/news/insider-trading-news/palantir-director-alexander-moore-sells-31m-in-shares-93CH-4958577",
     "Watchlist|https://www.investing.com/news/insider-trading-news/crowdstrike-director-johanna-flower-disposes-of-227m-in-stock-93CH-4958579",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-shares-worth-47-million-93CH-4958578"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-shares-worth-47-million-93CH-4958578",
+    "AI|502f9707-fad8-38c6-9920-a3113a7ff7be",
+    "Watchlist|502f9707-fad8-38c6-9920-a3113a7ff7be",
+    "SG Banks|https://www.channelnewsasia.com/business/south-korea-central-bank-hold-rates-october-22-hike-in-november-reuters-poll-6473951",
+    "SG Banks|https://www.straitstimes.com/business/uniqlo-to-raise-average-selling-prices-by-about-4"
   ],
   "topic_error": "",
   "last_digest": "2026-10-20",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792456668.3933833
+  "last_check": 1792457566.3960466
 }
