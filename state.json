@@ -1,24 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|0e7c1d43-3bb9-332c-9de6-3345b806ed26",
-    "Watchlist|/companies-markets/telcos-media-tech/netflix-cuts-about-6-jobs-biggest-layoff-2022-wsj-reports",
-    "AI|89fd8bdc-9a6e-3159-97fd-797eab7ff556",
-    "Watchlist|89fd8bdc-9a6e-3159-97fd-797eab7ff556",
-    "Watchlist|0f871b32-86ed-30d6-9b7c-38ca57e50aba",
-    "AI|0f871b32-86ed-30d6-9b7c-38ca57e50aba",
-    "AI|e5dbb34a-3e19-335d-9abc-0e046b866286",
-    "Watchlist|e5dbb34a-3e19-335d-9abc-0e046b866286",
-    "AI|a17d39f1-a560-3554-a11e-99ee8f2739e6",
-    "Watchlist|a17d39f1-a560-3554-a11e-99ee8f2739e6",
-    "AI|7a1555c3-a587-38ae-bd98-03532f8ce073",
-    "War|4d9d6c2a-d81b-42d8-ad16-e88388073b59",
-    "AI|27aa89f5-8c19-3211-a3f4-5d75f858c264",
-    "Watchlist|27aa89f5-8c19-3211-a3f4-5d75f858c264",
-    "AI|https://www.investing.com/news/insider-trading-news/gilead-chairman--ceo-oday-sells-22m-in-stock-93CH-4955543",
-    "AI|https://www.investing.com/news/economy-news/citi-says-interest-rates-may-matter-more-for-economy-than-stock-valuations-4955545",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/gilead-chairman--ceo-oday-sells-22m-in-stock-93CH-4955543",
-    "Cybersecurity|https://www.investing.com/news/economy-news/citi-says-interest-rates-may-matter-more-for-economy-than-stock-valuations-4955545",
     "SG Banks|https://www.investing.com/news/insider-trading-news/gilead-chairman--ceo-oday-sells-22m-in-stock-93CH-4955543",
     "SG Banks|https://www.investing.com/news/economy-news/citi-says-interest-rates-may-matter-more-for-economy-than-stock-valuations-4955545",
     "Watchlist|https://www.investing.com/news/insider-trading-news/gilead-chairman--ceo-oday-sells-22m-in-stock-93CH-4955543",
@@ -5000,7 +4982,25 @@
     "Iran|https://www.iranintl.com/en/202610142337",
     "AI|d7c3bbf9-6e19-331a-a9ef-e05de480b1ad",
     "Watchlist|d7c3bbf9-6e19-331a-a9ef-e05de480b1ad",
-    "SG Banks|https://www.straitstimes.com/business/sea-plans-ipo-for-financial-services-arm-monee-memo-says"
+    "SG Banks|https://www.straitstimes.com/business/sea-plans-ipo-for-financial-services-arm-monee-memo-says",
+    "AI|https://www.investing.com/news/insider-trading-news/arcutis-biotherapeutics-director-welgus-sells-127325-in-stock-93CH-4958758",
+    "AI|https://www.investing.com/news/insider-trading-news/smartstop-director-david-mueller-sells-14441-in-sma-stock-93CH-4958759",
+    "AI|https://www.investing.com/news/stock-market-news/seas-ceo-says-financial-services-arm-monee-could-go-public-wsj-reports-4958762",
+    "AI|https://www.investing.com/news/economy-news/morning-bid-korean-canary-in-the-ai-coalmine-4958763",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/arcutis-biotherapeutics-director-welgus-sells-127325-in-stock-93CH-4958758",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/smartstop-director-david-mueller-sells-14441-in-sma-stock-93CH-4958759",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/seas-ceo-says-financial-services-arm-monee-could-go-public-wsj-reports-4958762",
+    "Cybersecurity|https://www.investing.com/news/economy-news/morning-bid-korean-canary-in-the-ai-coalmine-4958763",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/arcutis-biotherapeutics-director-welgus-sells-127325-in-stock-93CH-4958758",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/smartstop-director-david-mueller-sells-14441-in-sma-stock-93CH-4958759",
+    "SG Banks|https://www.investing.com/news/stock-market-news/seas-ceo-says-financial-services-arm-monee-could-go-public-wsj-reports-4958762",
+    "SG Banks|https://www.investing.com/news/economy-news/morning-bid-korean-canary-in-the-ai-coalmine-4958763",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/arcutis-biotherapeutics-director-welgus-sells-127325-in-stock-93CH-4958758",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/smartstop-director-david-mueller-sells-14441-in-sma-stock-93CH-4958759",
+    "Watchlist|https://www.investing.com/news/stock-market-news/seas-ceo-says-financial-services-arm-monee-could-go-public-wsj-reports-4958762",
+    "Watchlist|https://www.investing.com/news/economy-news/morning-bid-korean-canary-in-the-ai-coalmine-4958763",
+    "War|880d5e6b-367b-3133-8195-ecfac137c502",
+    "SG Banks|https://www.channelnewsasia.com/business/sea-ipo-monee-forrest-li-6474506"
   ],
   "topic_error": "",
   "last_digest": "2026-10-20",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792471310.6441472
+  "last_check": 1792472227.5086625
 }
