@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|75b8d364-0f7b-3509-a0da-c58e31bedd20",
-    "Watchlist|98f7e400-cc49-3636-9dde-86ec6842b48a",
-    "Watchlist|75b8d364-0f7b-3509-a0da-c58e31bedd20",
-    "War|e5a75423-7c5c-3a76-ad42-eada7febe0f1",
     "War|b81872db-638f-3d19-9243-d92f1d1cfd5c",
     "AI|https://www.investing.com/news/insider-trading-news/clover-health-ceo-andrew-toy-sells-13m-in-shares-93CH-4955703",
     "AI|https://www.investing.com/news/insider-trading-news/edward-meyercord-extreme-networks-ceo-sells-109m-in-shares-93CH-4955704",
@@ -5000,7 +4996,11 @@
     "Iran|https://www.iranintl.com/en/202610152591",
     "SG Banks|/international/global/we-were-born-very-privileged-what-do-we-do-next-gen-heirs-want-more-say-family-offices",
     "Watchlist|/international/global/we-were-born-very-privileged-what-do-we-do-next-gen-heirs-want-more-say-family-offices",
-    "SG Banks|https://www.channelnewsasia.com/business/abb-posts-record-quarterly-orders-helped-data-centre-boom-6474581"
+    "SG Banks|https://www.channelnewsasia.com/business/abb-posts-record-quarterly-orders-helped-data-centre-boom-6474581",
+    "War|225cb27a-0b70-302e-babf-170510df823d",
+    "SG Banks|/international/global/japan-pursues-chip-industry-reboot-its-being-pressed-build-americas",
+    "Watchlist|/international/global/japan-pursues-chip-industry-reboot-its-being-pressed-build-americas",
+    "SG Banks|https://www.channelnewsasia.com/asia/airasia-malaysia-financing-support-ministry-6474051"
   ],
   "topic_error": "",
   "last_digest": "2026-10-20",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792476808.3289251
+  "last_check": 1792477719.6612303
 }
