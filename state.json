@@ -1,21 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|4207df03-8e70-310c-8b3c-bf32f9bc89a7",
-    "War|https://www.investing.com/news/commodities-news/captain-of-flydubai-planedescribes-blocking-axe-blows-as-copilot-attacked-4956008",
-    "AI|https://www.investing.com/news/commodities-news/captain-of-flydubai-planedescribes-blocking-axe-blows-as-copilot-attacked-4956008",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/captain-of-flydubai-planedescribes-blocking-axe-blows-as-copilot-attacked-4956008",
-    "SG Banks|https://www.investing.com/news/commodities-news/captain-of-flydubai-planedescribes-blocking-axe-blows-as-copilot-attacked-4956008",
-    "Watchlist|https://www.investing.com/news/commodities-news/captain-of-flydubai-planedescribes-blocking-axe-blows-as-copilot-attacked-4956008",
-    "War|WP-MKTW-0005283692",
-    "AI|WP-MKTW-0005283692",
-    "Cybersecurity|WP-MKTW-0005283692",
-    "Crypto|47eebb9f-f215-360f-8284-d7f3d9aad61f",
-    "AI|20cce852-d8f3-3b31-810c-eae02705cdf1",
-    "Watchlist|20cce852-d8f3-3b31-810c-eae02705cdf1",
-    "AI|ed0989bc-7f86-3159-bfe5-8576369b8065",
-    "Crypto|27a69291-80c4-3aa9-9032-d961551b64ff",
-    "AI|53c68f35-26ab-3aa9-9d71-bf90d9697bb9",
     "Watchlist|53c68f35-26ab-3aa9-9d71-bf90d9697bb9",
     "AI|7ea393c2-35e1-3ae6-867c-b0823a4d2075",
     "Watchlist|7ea393c2-35e1-3ae6-867c-b0823a4d2075",
@@ -5000,7 +4985,22 @@
     "AI|437558a4-2c78-32f2-b9ba-534c8bb3b8fb",
     "AI|b4fe0544-afcc-34e9-8542-1245e20f2236",
     "Watchlist|437558a4-2c78-32f2-b9ba-534c8bb3b8fb",
-    "Watchlist|b4fe0544-afcc-34e9-8542-1245e20f2236"
+    "Watchlist|b4fe0544-afcc-34e9-8542-1245e20f2236",
+    "War|WP-MKTW-0005295986",
+    "War|WP-MKTW-0005294280",
+    "AI|WP-MKTW-0005295986",
+    "AI|WP-MKTW-0005294280",
+    "Cybersecurity|WP-MKTW-0005295986",
+    "Cybersecurity|WP-MKTW-0005294280",
+    "SG Banks|https://www.channelnewsasia.com/business/google-cloud-services-face-outage-in-london-revolut-services-down-too-6475076",
+    "AI|8ddcf82c-896c-3a1b-9531-0d4478f7bdcf",
+    "Crypto|fe3a00c0-32b3-33b4-9fdf-630ef8f234ad",
+    "Watchlist|8ddcf82c-896c-3a1b-9531-0d4478f7bdcf",
+    "SG Banks|/companies-markets/telcos-media-tech/bytedance-alibaba-tencent-place-over-us35-billion-worth-nvidia-chip-orders",
+    "Watchlist|/companies-markets/telcos-media-tech/bytedance-alibaba-tencent-place-over-us35-billion-worth-nvidia-chip-orders",
+    "SG Banks|/companies-markets/singtel-fined-s1-million-over-march-outages-affecting-720000-subscribers",
+    "SG Banks|https://www.channelnewsasia.com/business/amazon-invest-over-eu16-billion-in-germany-next-year-6475146",
+    "Watchlist|/companies-markets/singtel-fined-s1-million-over-march-outages-affecting-720000-subscribers"
   ],
   "topic_error": "",
   "last_digest": "2026-10-20",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792488725.4477334
+  "last_check": 1792489643.8310766
 }
