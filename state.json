@@ -1,21 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|e287f78b-2e26-3c00-be95-79b23a597fb7",
-    "AI|e8be8375-3c75-38c9-b9bf-03a2832ab177",
-    "Watchlist|e8be8375-3c75-38c9-b9bf-03a2832ab177",
-    "Watchlist|e287f78b-2e26-3c00-be95-79b23a597fb7",
-    "Watchlist|7002370f-93a6-314b-b88c-a78bb5afe604",
-    "Crypto|2ae0ad10-5353-3e3b-8f60-eb815b186da9",
-    "War|7dfc998c-ccec-3dcd-99ab-b055b4b785cb",
-    "AI|678b4ca8-5591-30c8-b169-618fb0f6d747",
-    "Watchlist|678b4ca8-5591-30c8-b169-618fb0f6d747",
-    "AI|e8223afa-7847-33c4-bc12-957ef3bb2d7d",
-    "Watchlist|e8223afa-7847-33c4-bc12-957ef3bb2d7d",
-    "Watchlist|cbd0a317-dd5a-3c3d-9048-fda6f5868acf",
-    "AI|cbd0a317-dd5a-3c3d-9048-fda6f5868acf",
-    "AI|https://www.investing.com/news/stock-market-news/memory-stocks-is-the-wall-of-worry-justified-4955476",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/memory-stocks-is-the-wall-of-worry-justified-4955476",
     "SG Banks|https://www.investing.com/news/stock-market-news/memory-stocks-is-the-wall-of-worry-justified-4955476",
     "Watchlist|https://www.investing.com/news/stock-market-news/memory-stocks-is-the-wall-of-worry-justified-4955476",
     "War|230f6fa5-5859-4bed-8af8-e748a3022ecc",
@@ -5000,7 +4985,22 @@
     "AI|6e7bb59f-1946-3a1c-aa43-c9545ddfad06",
     "SG Banks|/international/asean/malaysia-has-made-no-commitment-provide-financing-support-airasia-ministry-says",
     "Watchlist|6e7bb59f-1946-3a1c-aa43-c9545ddfad06",
-    "Watchlist|/international/asean/malaysia-has-made-no-commitment-provide-financing-support-airasia-ministry-says"
+    "Watchlist|/international/asean/malaysia-has-made-no-commitment-provide-financing-support-airasia-ministry-says",
+    "War|493f5e96-29ba-301d-a3ed-014d3c7926be",
+    "AI|493f5e96-29ba-301d-a3ed-014d3c7926be",
+    "Watchlist|493f5e96-29ba-301d-a3ed-014d3c7926be",
+    "Crypto|8fa47c5d-3ba0-3134-96ce-db08359d7cc8",
+    "War|https://www.investing.com/news/world-news/bangladesh-is-battling-measles-its-a-real-warning-to-other-nations-4955110",
+    "War|https://www.investing.com/news/world-news/hacker-gets-data-on-millions-of-california-students-state-education-department-says-4955148",
+    "War|https://www.investing.com/news/world-news/mexican-judge-gives-three-men-158-years-in-australian-us-surfers-murders-4955145",
+    "War|https://www.investing.com/news/world-news/indias-cockroach-movement-founder-arrested-after-detention-media-reports-say-4955223",
+    "War|https://www.investing.com/news/world-news/police-seek-answers-after-children-killed-in-oregon-school-shooting-4954639",
+    "War|https://www.investing.com/news/world-news/teacher-tackled-and-fought-oregon-school-shooter-4954922",
+    "War|https://www.investing.com/news/world-news/our-land-our-albania-young-lawmaker-demands-new-future-as-protests-rage-4955350",
+    "War|https://www.investing.com/news/world-news/students-trade-unions-and-yellow-vests-set-to-protest-across-france-4955251",
+    "War|https://www.investing.com/news/world-news/analysistrumpzelenskiy-rift-threatens-vital-support-for-kyiv-4955375",
+    "War|https://www.investing.com/news/world-news/exotic-species-appear-off-california-thanks-to-an-unusually-strong-el-nino-4955374",
+    "Watchlist|8374b6ba-f213-3a58-ac12-51ef4269208e"
   ],
   "topic_error": "",
   "last_digest": "2026-10-20",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792466717.758939
+  "last_check": 1792467632.7760448
 }
