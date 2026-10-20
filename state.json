@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|966e9e57-28fe-3cee-aa9c-56a2a6a12fc2",
-    "War|a35971cd-b5ba-3443-9724-51f259218dc1",
-    "AI|a35971cd-b5ba-3443-9724-51f259218dc1",
-    "AI|6fe7fb1c-8751-3dc9-af23-8ca0194f282b",
-    "Watchlist|a35971cd-b5ba-3443-9724-51f259218dc1",
-    "SG Banks|/companies-markets/banking-finance/cgsi-upgrades-dbs-add-raises-target-price-s79-50",
-    "Watchlist|6fe7fb1c-8751-3dc9-af23-8ca0194f282b",
     "Crypto|4f6c2e42-3883-3c0c-8005-6cba0bc0ae3b",
     "AI|23b62c8e-3bc7-332c-9c50-52f4f30a5102",
     "AI|eb363a31-1abe-339c-b001-83e77acac15e",
@@ -5000,7 +4993,14 @@
     "AI|502f9707-fad8-38c6-9920-a3113a7ff7be",
     "Watchlist|502f9707-fad8-38c6-9920-a3113a7ff7be",
     "SG Banks|https://www.channelnewsasia.com/business/south-korea-central-bank-hold-rates-october-22-hike-in-november-reuters-poll-6473951",
-    "SG Banks|https://www.straitstimes.com/business/uniqlo-to-raise-average-selling-prices-by-about-4"
+    "SG Banks|https://www.straitstimes.com/business/uniqlo-to-raise-average-selling-prices-by-about-4",
+    "AI|a185d62c-c380-345d-949c-d5a2c2dfb39a",
+    "Watchlist|a185d62c-c380-345d-949c-d5a2c2dfb39a",
+    "SG Banks|https://www.channelnewsasia.com/business/oil-eases-markets-assess-potential-waiver-russian-energy-middle-east-supply-risks-6473976",
+    "AI|0e68146c-b83b-3272-ba07-727b428d3137",
+    "SG Banks|https://www.straitstimes.com/business/keppel-reit-to-buy-51-stake-in-keppel-south-central-for-610-9-million",
+    "AI|f13b8aba-50f7-3d5a-93e1-b6e63d8c050b",
+    "Watchlist|f13b8aba-50f7-3d5a-93e1-b6e63d8c050b"
   ],
   "topic_error": "",
   "last_digest": "2026-10-20",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792457566.3960466
+  "last_check": 1792458494.7835622
 }
