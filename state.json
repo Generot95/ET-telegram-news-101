@@ -1,22 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/commodities-news/rubio-says-trump-to-take-up-to-60-days-to-weigh-russia-sanctions-4955750",
-    "SG Banks|/companies-markets/s-reits-commence-q3-earnings-season-interest-rates-remain-focus",
-    "SG Banks|/companies-markets/insider-stakes-rise-alongside-s40-million-buybacks",
-    "SG Banks|/companies-markets/assembly-place-expands-beyond-co-living-it-targets-10000-keys-2030",
-    "SG Banks|https://www.straitstimes.com/business/companies-markets/palm-oil-stocks-tumble-as-spore-looks-for-firms-responsible-for-haze-markets-this-week",
-    "SG Banks|https://www.straitstimes.com/business/7-eleven-adds-hot-food-counters-at-16-singapore-stores-as-dfi-retail-sharpens-growth-focus",
-    "Watchlist|/companies-markets/s-reits-commence-q3-earnings-season-interest-rates-remain-focus",
-    "Watchlist|/companies-markets/insider-stakes-rise-alongside-s40-million-buybacks",
-    "Watchlist|/companies-markets/assembly-place-expands-beyond-co-living-it-targets-10000-keys-2030",
-    "AI|https://www.investing.com/news/earnings/nexttrip-earnings-missed-by-011-revenue-fell-short-of-estimates-4955760",
-    "Cybersecurity|https://www.investing.com/news/earnings/nexttrip-earnings-missed-by-011-revenue-fell-short-of-estimates-4955760",
-    "SG Banks|https://www.investing.com/news/earnings/nexttrip-earnings-missed-by-011-revenue-fell-short-of-estimates-4955760",
-    "Watchlist|https://www.investing.com/news/earnings/nexttrip-earnings-missed-by-011-revenue-fell-short-of-estimates-4955760",
-    "AI|2beff6b7-1ce2-30e1-8415-01d4f21b9504",
-    "Watchlist|2beff6b7-1ce2-30e1-8415-01d4f21b9504",
-    "AI|https://www.investing.com/news/insider-trading-news/standex-director-thomas-chorman-sells-13569-in-stock-93CH-4955769",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/standex-director-thomas-chorman-sells-13569-in-stock-93CH-4955769",
     "SG Banks|https://www.investing.com/news/insider-trading-news/standex-director-thomas-chorman-sells-13569-in-stock-93CH-4955769",
     "Watchlist|https://www.investing.com/news/insider-trading-news/standex-director-thomas-chorman-sells-13569-in-stock-93CH-4955769",
@@ -5000,7 +4984,23 @@
     "Watchlist|https://www.investing.com/news/company-news/galliford-try-wins-place-on-5bn-pagabo-construction-framework-93CH-4958914",
     "Watchlist|https://www.investing.com/news/earnings/comet-lifts-2026-outlook-after-thirdquarter-orders-jump-170-4958916",
     "Watchlist|https://www.investing.com/news/company-news/quantum-helium-ninemonth-oil-revenue-surpasses-2025-total-93CH-4958923",
-    "Watchlist|https://www.investing.com/news/earnings/anglo-american-q3-copper-output-falls-5-on-chile-weather-diamond-outlook-raised-4958898"
+    "Watchlist|https://www.investing.com/news/earnings/anglo-american-q3-copper-output-falls-5-on-chile-weather-diamond-outlook-raised-4958898",
+    "Iran|https://www.iranintl.com/en/202610157450",
+    "SG Banks|/companies-markets/us-stocks-wall-street-ends-down-sharply-worries-about-ai-trade-high-oil-prices-weigh",
+    "Watchlist|/companies-markets/us-stocks-wall-street-ends-down-sharply-worries-about-ai-trade-high-oil-prices-weigh",
+    "SG Banks|/companies-markets/s-reits-commence-q3-earnings-season-interest-rates-remain-focus",
+    "SG Banks|/companies-markets/insider-stakes-rise-alongside-s40-million-buybacks",
+    "SG Banks|/companies-markets/assembly-place-expands-beyond-co-living-it-targets-10000-keys-2030",
+    "SG Banks|/companies-markets/sea-starts-enterprise-cloud-foray-while-eyeing-fintech-arm-ipo",
+    "Watchlist|/companies-markets/sea-starts-enterprise-cloud-foray-while-eyeing-fintech-arm-ipo",
+    "Watchlist|/companies-markets/s-reits-commence-q3-earnings-season-interest-rates-remain-focus",
+    "Watchlist|/companies-markets/insider-stakes-rise-alongside-s40-million-buybacks",
+    "Watchlist|/companies-markets/assembly-place-expands-beyond-co-living-it-targets-10000-keys-2030",
+    "AI|2470de50-e9eb-36ba-8f9e-e1904e688ff9",
+    "Watchlist|2470de50-e9eb-36ba-8f9e-e1904e688ff9",
+    "War|49a4ef1a-361a-3fbc-ad36-f2ad2b2c3cf1",
+    "SG Banks|/companies-markets/taobao-plans-deepens-its-presence-singapore-injects-100-million-yuan-local-marketing-push",
+    "Watchlist|/companies-markets/taobao-plans-deepens-its-presence-singapore-injects-100-million-yuan-local-marketing-push"
   ],
   "topic_error": "",
   "last_digest": "2026-10-20",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792478633.0193613
+  "last_check": 1792479561.8832242
 }
