@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|WP-MKTW-0005294609",
-    "War|https://www.investing.com/news/commodities-news/venezuela-oilfield-hiring-picks-up-as-first-wave-of-investment-builds-4958083",
-    "AI|https://www.investing.com/news/stock-market-news/evaxion-stock-surges-on-3year-melanoma-vaccine-trial-data-4958076",
-    "AI|https://www.investing.com/news/stock-market-news/christiane-amanpour-to-leave-cnn-after-four-decades-as-ellison-era-begins-4958080",
-    "AI|https://www.investing.com/news/stock-market-news/clevelandcliffs-options-activity-after-q3-earnings-beat-93CH-4958081",
-    "AI|https://www.investing.com/news/commodities-news/venezuela-oilfield-hiring-picks-up-as-first-wave-of-investment-builds-4958083",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/evaxion-stock-surges-on-3year-melanoma-vaccine-trial-data-4958076",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/christiane-amanpour-to-leave-cnn-after-four-decades-as-ellison-era-begins-4958080",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/clevelandcliffs-options-activity-after-q3-earnings-beat-93CH-4958081",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/venezuela-oilfield-hiring-picks-up-as-first-wave-of-investment-builds-4958083",
     "SG Banks|https://www.investing.com/news/stock-market-news/evaxion-stock-surges-on-3year-melanoma-vaccine-trial-data-4958076",
     "SG Banks|https://www.investing.com/news/stock-market-news/christiane-amanpour-to-leave-cnn-after-four-decades-as-ellison-era-begins-4958080",
     "SG Banks|https://www.investing.com/news/stock-market-news/clevelandcliffs-options-activity-after-q3-earnings-beat-93CH-4958081",
@@ -5000,7 +4990,17 @@
     "SG Banks|4c32b0d1-a277-3900-80a8-7026ea0771af",
     "SG Banks|c5031fde-fef4-3b79-aa30-05302dc64235",
     "SG Banks|https://www.channelnewsasia.com/business/netflix-issues-weak-fourth-quarter-forecast-shares-drop-6476696",
-    "Watchlist|4c32b0d1-a277-3900-80a8-7026ea0771af"
+    "Watchlist|4c32b0d1-a277-3900-80a8-7026ea0771af",
+    "War|9a4bd0b6-402a-4788-8d2d-8109318cac1a",
+    "Cybersecurity|74a2028f-7715-310b-b259-b2152376fb49",
+    "War|6c3e4c11-614d-390c-ac8a-c6233bf7516d",
+    "AI|5e36784c-e959-3c33-9118-a309a3dbf1f0",
+    "Crypto|0afd804b-3d5a-3b52-8ff8-bf909489c085",
+    "Watchlist|5e36784c-e959-3c33-9118-a309a3dbf1f0",
+    "Crypto|adc03248-e637-4f77-aedd-51812bc184cf",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/dow-leads-wall-street-higher-investors-focus-on-health-care-stocks",
+    "War|40378091-9f13-35f6-a4eb-65961ef4434c",
+    "AI|40378091-9f13-35f6-a4eb-65961ef4434c"
   ],
   "topic_error": "",
   "last_digest": "2026-10-20",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792530019.3153439
+  "last_check": 1792530921.6370294
 }
