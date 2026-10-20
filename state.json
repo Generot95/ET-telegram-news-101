@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Crypto|4f6c2e42-3883-3c0c-8005-6cba0bc0ae3b",
-    "AI|23b62c8e-3bc7-332c-9c50-52f4f30a5102",
-    "AI|eb363a31-1abe-339c-b001-83e77acac15e",
     "Watchlist|eb363a31-1abe-339c-b001-83e77acac15e",
     "Watchlist|23b62c8e-3bc7-332c-9c50-52f4f30a5102",
     "War|WP-MKTW-0005292862",
@@ -5000,7 +4997,10 @@
     "AI|0e68146c-b83b-3272-ba07-727b428d3137",
     "SG Banks|https://www.straitstimes.com/business/keppel-reit-to-buy-51-stake-in-keppel-south-central-for-610-9-million",
     "AI|f13b8aba-50f7-3d5a-93e1-b6e63d8c050b",
-    "Watchlist|f13b8aba-50f7-3d5a-93e1-b6e63d8c050b"
+    "Watchlist|f13b8aba-50f7-3d5a-93e1-b6e63d8c050b",
+    "SG Banks|/companies-markets/banking-finance/cgsi-upgrades-dbs-add-raises-target-price-s79-50",
+    "SG Banks|/companies-markets/two-horse-race-openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say",
+    "Watchlist|/companies-markets/two-horse-race-openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say"
   ],
   "topic_error": "",
   "last_digest": "2026-10-20",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792458494.7835622
+  "last_check": 1792459413.8614569
 }
