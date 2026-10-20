@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|e67aad31-e6b0-3a45-bbe0-c9a88a34e7df",
-    "AI|c8dd1069-f9de-396e-87cd-5c3a8b75bd73",
-    "AI|cbe6d527-3fd3-3791-9ad5-cdde3259cbab",
-    "AI|f258422f-a650-3230-881b-251b31b8cb26",
-    "Cybersecurity|d250965d-5a49-3b04-b125-ae27147d3854",
-    "Watchlist|e67aad31-e6b0-3a45-bbe0-c9a88a34e7df",
-    "Watchlist|c8dd1069-f9de-396e-87cd-5c3a8b75bd73",
-    "Watchlist|f258422f-a650-3230-881b-251b31b8cb26",
-    "AI|f535a781-b445-3d54-bc9a-c6a548622183",
-    "AI|ebf0c54f-5c8e-30b5-bc04-63a215f27fbb",
     "Watchlist|f535a781-b445-3d54-bc9a-c6a548622183",
     "War|e0772113-a975-3766-a011-7147cb4dae30",
     "AI|c7095802-bbde-33b9-ad33-eeb77e6b759a",
@@ -5000,7 +4990,17 @@
     "Watchlist|https://www.investing.com/news/transcripts/omniq-at-ld-micro-20th-annual-main-event-conference-scaling-ai-93CH-4961338",
     "Watchlist|10d11cce-985a-4a89-aaef-46fcd303e279",
     "War|30959135-37ad-4b04-b345-aad974c8d1f7",
-    "SG Banks|https://www.straitstimes.com/business/musk-calls-tesla-spacex-merger-a-good-idea-as-spacex-posts-first-profit-as-a-public-company"
+    "SG Banks|https://www.straitstimes.com/business/musk-calls-tesla-spacex-merger-a-good-idea-as-spacex-posts-first-profit-as-a-public-company",
+    "AI|dc0151d3-b908-3640-80d0-5e1af1509322",
+    "Watchlist|dc0151d3-b908-3640-80d0-5e1af1509322",
+    "AI|d122c0f1-bea0-34f4-8201-37a7e456dd4b",
+    "AI|a75a7c7b-8ca0-3f03-8fda-821be2b36036",
+    "Watchlist|d122c0f1-bea0-34f4-8201-37a7e456dd4b",
+    "Watchlist|a75a7c7b-8ca0-3f03-8fda-821be2b36036",
+    "Crypto|e4722f71-47ad-38f6-922c-fa927643d540",
+    "Cybersecurity|7e126e83-175f-385a-801e-fd614b965250",
+    "Watchlist|3811292f-32e1-3285-9f0f-eb79d13615c6",
+    "AI|375c05ea-11a3-3e02-92c5-95b5b01acd13"
   ],
   "topic_error": "",
   "last_digest": "2026-10-20",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792538251.0712597
+  "last_check": 1792539168.4349391
 }
