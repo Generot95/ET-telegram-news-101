@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|7b58d951-8d7e-3d5c-9386-fc9eb435fb79",
-    "Crypto|abe5c5db-b065-366e-a93e-43f93634e3d7",
-    "AI|162c17f7-7a0b-314d-aa5c-974a3afc17aa",
-    "Watchlist|162c17f7-7a0b-314d-aa5c-974a3afc17aa",
-    "Crypto|95d4cdff-1442-3eba-bf80-4ba49c05a7cb",
     "AI|e287f78b-2e26-3c00-be95-79b23a597fb7",
     "AI|e8be8375-3c75-38c9-b9bf-03a2832ab177",
     "Watchlist|e8be8375-3c75-38c9-b9bf-03a2832ab177",
@@ -5000,7 +4995,12 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/guardant-health-director-tariq-musa-sells-19242-in-stock-93CH-4958716",
     "Watchlist|https://www.investing.com/news/insider-trading-news/wayfair-president-blotner-sells-60060-in-company-stock-93CH-4958706",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-regis-resources-posts-strong-cash-flow-in-q1-2026-93CH-4958709",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/guardant-health-director-tariq-musa-sells-19242-in-stock-93CH-4958716"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/guardant-health-director-tariq-musa-sells-19242-in-stock-93CH-4958716",
+    "AI|acdc3ed5-efdd-356a-bd24-ef63a2e872de",
+    "AI|6e7bb59f-1946-3a1c-aa43-c9545ddfad06",
+    "SG Banks|/international/asean/malaysia-has-made-no-commitment-provide-financing-support-airasia-ministry-says",
+    "Watchlist|6e7bb59f-1946-3a1c-aa43-c9545ddfad06",
+    "Watchlist|/international/asean/malaysia-has-made-no-commitment-provide-financing-support-airasia-ministry-says"
   ],
   "topic_error": "",
   "last_digest": "2026-10-20",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792465813.897674
+  "last_check": 1792466717.758939
 }
