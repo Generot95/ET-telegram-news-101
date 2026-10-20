@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/vaxart-appoints-former-defense-health-agency-director-to-board-93CH-4957315",
-    "Cybersecurity|https://www.investing.com/news/company-news/quantinuum-reports-quantum-errorcorrection-breakthrough-93CH-4957314",
-    "Cybersecurity|https://www.investing.com/news/company-news/argenx-reports-positive-phase-3-results-for-myositis-treatment-93CH-4957316",
-    "Cybersecurity|https://www.investing.com/news/company-news/enlivex-cuts-workforce-60-to-focus-on-phase-2b-trial-93CH-4957318",
-    "Cybersecurity|https://www.investing.com/news/company-news/atossa-shares-begin-trading-with-stapled-contingent-value-rights-93CH-4957317",
-    "Cybersecurity|https://www.investing.com/news/company-news/osiris-one-metals-acquires-option-for-vancouver-island-copper-project-93CH-4957319",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-piramal-finance-posts-67-profit-jump-in-q2-2027-93CH-4957330",
-    "SG Banks|https://www.investing.com/news/economy-news/why-bofa-still-sees-an-october-fed-rate-hike-4957331",
-    "SG Banks|https://www.investing.com/news/company-news/huntington-bank-launches-ai-platform-for-small-businesses-93CH-4957332",
-    "SG Banks|https://www.investing.com/news/stock-market-news/south-africa-set-for-brighter-fiscal-outlook-in-wednesdays-midterm-budget-4957338",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-lowers-liftoff-mobile-stock-price-target-to-22-93CH-4957341",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-lowers-jumia-stock-price-target-on-macro-concerns-93CH-4957340",
     "SG Banks|https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-raises-godaddy-stock-price-target-on-platform-expansion-93CH-4957339",
     "SG Banks|https://www.investing.com/news/stock-market-news/chinas-minimax-launches-updated-ai-model-m31-flash-claims-major-improvements-4957342",
     "SG Banks|https://www.investing.com/news/company-news/cocacola-europacific-partners-buys-back-187946-shares-93CH-4957355",
@@ -5000,7 +4988,19 @@
     "AI|e1c294fa-e837-30b9-927e-7b88fe4a502a",
     "AI|c139bf5e-efc1-358f-bb1a-fbfa3c8ae139",
     "Crypto|c9882239-c853-38d2-950e-be623238bb18",
-    "Watchlist|e1c294fa-e837-30b9-927e-7b88fe4a502a"
+    "Watchlist|e1c294fa-e837-30b9-927e-7b88fe4a502a",
+    "Crypto|28d9c21a-5d79-35aa-84cf-896bc151cb27",
+    "Watchlist|c9882239-c853-38d2-950e-be623238bb18",
+    "AI|c9882239-c853-38d2-950e-be623238bb18",
+    "AI|175d7388-32fb-3814-8ec5-39aa3d5cd4c8",
+    "AI|7852f434-4c3d-3ad8-adbb-1ce5289940bf",
+    "Crypto|fe4e7415-f29f-32d2-a3fa-872754fad949",
+    "Watchlist|175d7388-32fb-3814-8ec5-39aa3d5cd4c8",
+    "Watchlist|7852f434-4c3d-3ad8-adbb-1ce5289940bf",
+    "Watchlist|a94dbffc-2969-3f88-8be8-120677b66f9c",
+    "Watchlist|785ccfcf-0586-34d4-97e9-e463ac618b54",
+    "AI|d4531d6c-5d2c-3aea-99b5-b46ccd89b88d",
+    "Watchlist|d4531d6c-5d2c-3aea-99b5-b46ccd89b88d"
   ],
   "topic_error": "",
   "last_digest": "2026-10-20",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792512588.374086
+  "last_check": 1792513504.2152274
 }
