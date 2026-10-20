@@ -1,85 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|d26bf628-fd0b-3332-95e4-1950941562ab",
-    "AI|https://www.investing.com/news/economy-news/trumps-russia-sanctions-waiver-eases-indias-energy-woes-lifts-trade-deal-chances-4957111",
-    "AI|https://www.investing.com/news/economy-news/under-trump-deficits-remain-high-while-borrowing-costs-escalate-4956841",
-    "AI|https://www.investing.com/news/insider-trading-news/applied-digital-president-jason-zhang-buys-56m-in-company-stock-93CH-4957112",
-    "AI|https://www.investing.com/news/insider-trading-news/applied-digital-ceo-wes-cummins-buys-101m-in-company-stock-93CH-4957116",
-    "AI|https://www.investing.com/news/insider-trading-news/elite-pharmaceuticals-director-barry-dash-buys-25979-in-common-stock-93CH-4957120",
-    "AI|https://www.investing.com/news/company-news/major-european-telcos-explore-joint-satellite-spectrum-bid-93CH-4957129",
-    "AI|https://www.investing.com/news/economy-news/italy-achieves-only-15-of-2030-energy-transition-goals-93CH-4957131",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-silgan-holdings-stock-surging-today-93CH-4957076",
-    "AI|https://www.investing.com/news/stock-market-news/kkr-to-sell-railcarleasing-company-infinity-to-ares-for-29-billion-4957093",
-    "AI|https://www.investing.com/news/stock-market-news/intel-jumps-on-jpmorgan-upgrade-datadog-rallies-4957102",
-    "AI|https://www.investing.com/news/stock-market-news/disc-medicine-surge-60-on-positive-phase-3-trial-for-rare-sunlight-disorder-4957090",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-disc-medicine-stock-surging-today-93CH-4957105",
-    "AI|https://www.investing.com/news/stock-market-news/jpmorgan-lifts-intel-rating-as-execution-under-tan-has-been-solid-4957134",
-    "AI|https://www.investing.com/news/company-news/owlting-group-reports-15fold-payment-volume-growth-93CH-4957045",
-    "AI|https://www.investing.com/news/company-news/agility-robotics-adds-former-ups-president-to-board-93CH-4957044",
-    "AI|https://www.investing.com/news/company-news/glenveagh-properties-plans-delisting-from-london-stock-exchange-93CH-4957049",
-    "AI|https://www.investing.com/news/company-news/arkadian-completes-sampling-at-clogau-gold-mine-in-wales-93CH-4957070",
-    "AI|https://www.investing.com/news/company-news/ani-pharmaceuticals-launches-generic-duloxetine-capsules-93CH-4957078",
-    "AI|https://www.investing.com/news/company-news/geo-group-completes-650-million-note-redemption-93CH-4957079",
-    "AI|https://www.investing.com/news/company-news/eyepoint-to-cut-53-of-workforce-after-phase-3-trial-miss-93CH-4957080",
-    "AI|https://www.investing.com/news/company-news/oberoi-realty-q2fy27-slides-strong-operations-offset-earnings-miss-93CH-4957081",
-    "AI|https://www.investing.com/news/company-news/firstenergy-pennsylvania-extends-bond-exchange-offer-to-oct-30-93CH-4957092",
-    "Cybersecurity|https://www.investing.com/news/economy-news/trumps-russia-sanctions-waiver-eases-indias-energy-woes-lifts-trade-deal-chances-4957111",
-    "Cybersecurity|https://www.investing.com/news/economy-news/under-trump-deficits-remain-high-while-borrowing-costs-escalate-4956841",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/applied-digital-president-jason-zhang-buys-56m-in-company-stock-93CH-4957112",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/applied-digital-ceo-wes-cummins-buys-101m-in-company-stock-93CH-4957116",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/elite-pharmaceuticals-director-barry-dash-buys-25979-in-common-stock-93CH-4957120",
-    "Cybersecurity|https://www.investing.com/news/company-news/major-european-telcos-explore-joint-satellite-spectrum-bid-93CH-4957129",
-    "Cybersecurity|https://www.investing.com/news/economy-news/italy-achieves-only-15-of-2030-energy-transition-goals-93CH-4957131",
-    "Cybersecurity|https://www.investing.com/news/company-news/owlting-group-reports-15fold-payment-volume-growth-93CH-4957045",
-    "Cybersecurity|https://www.investing.com/news/company-news/agility-robotics-adds-former-ups-president-to-board-93CH-4957044",
-    "Cybersecurity|https://www.investing.com/news/company-news/glenveagh-properties-plans-delisting-from-london-stock-exchange-93CH-4957049",
-    "Cybersecurity|https://www.investing.com/news/company-news/arkadian-completes-sampling-at-clogau-gold-mine-in-wales-93CH-4957070",
-    "Cybersecurity|https://www.investing.com/news/company-news/ani-pharmaceuticals-launches-generic-duloxetine-capsules-93CH-4957078",
-    "Cybersecurity|https://www.investing.com/news/company-news/geo-group-completes-650-million-note-redemption-93CH-4957079",
-    "Cybersecurity|https://www.investing.com/news/company-news/eyepoint-to-cut-53-of-workforce-after-phase-3-trial-miss-93CH-4957080",
-    "Cybersecurity|https://www.investing.com/news/company-news/oberoi-realty-q2fy27-slides-strong-operations-offset-earnings-miss-93CH-4957081",
-    "Cybersecurity|https://www.investing.com/news/company-news/firstenergy-pennsylvania-extends-bond-exchange-offer-to-oct-30-93CH-4957092",
-    "SG Banks|https://www.investing.com/news/economy-news/trumps-russia-sanctions-waiver-eases-indias-energy-woes-lifts-trade-deal-chances-4957111",
-    "SG Banks|https://www.investing.com/news/economy-news/under-trump-deficits-remain-high-while-borrowing-costs-escalate-4956841",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/applied-digital-president-jason-zhang-buys-56m-in-company-stock-93CH-4957112",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/applied-digital-ceo-wes-cummins-buys-101m-in-company-stock-93CH-4957116",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/elite-pharmaceuticals-director-barry-dash-buys-25979-in-common-stock-93CH-4957120",
-    "SG Banks|https://www.investing.com/news/company-news/major-european-telcos-explore-joint-satellite-spectrum-bid-93CH-4957129",
-    "SG Banks|https://www.investing.com/news/economy-news/italy-achieves-only-15-of-2030-energy-transition-goals-93CH-4957131",
-    "Watchlist|https://www.investing.com/news/economy-news/trumps-russia-sanctions-waiver-eases-indias-energy-woes-lifts-trade-deal-chances-4957111",
-    "Watchlist|https://www.investing.com/news/economy-news/under-trump-deficits-remain-high-while-borrowing-costs-escalate-4956841",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/applied-digital-president-jason-zhang-buys-56m-in-company-stock-93CH-4957112",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/applied-digital-ceo-wes-cummins-buys-101m-in-company-stock-93CH-4957116",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/elite-pharmaceuticals-director-barry-dash-buys-25979-in-common-stock-93CH-4957120",
-    "Watchlist|https://www.investing.com/news/company-news/major-european-telcos-explore-joint-satellite-spectrum-bid-93CH-4957129",
-    "Watchlist|https://www.investing.com/news/economy-news/italy-achieves-only-15-of-2030-energy-transition-goals-93CH-4957131",
-    "Iran|https://www.iranintl.com/en/202610147703",
-    "SG Banks|/companies-markets/capital-markets-currencies/tsmc-sk-hynix-among-5-new-sdrs-be-launched-sgx",
-    "Watchlist|/companies-markets/capital-markets-currencies/tsmc-sk-hynix-among-5-new-sdrs-be-launched-sgx",
-    "War|7bf2df72-f0e2-392a-8ccc-684bb27ab759",
-    "War|2dab40d8-b1b8-313b-b931-1713c1bcf5c3",
-    "War|a28a002f-46d2-3f6f-a6db-5779098dda84",
-    "War|a9bccdb7-2777-3ea6-a9d0-bead98ce3165",
-    "War|d33b3d21-2cbd-4f2f-b9e5-4498b5625180",
-    "AI|35f4705d-06b0-3b31-ad2b-5a0c59eb1cea",
-    "AI|b622c3d5-c178-3526-a0e3-6e6b014aba42",
-    "AI|7d3861ab-d4db-3f66-bbb7-2df2632a2f80",
-    "AI|ed74282c-34d6-33da-93a9-f1431f1a33ff",
-    "Crypto|427bb748-fb0c-351a-9633-9d50f963d612",
-    "Watchlist|35f4705d-06b0-3b31-ad2b-5a0c59eb1cea",
-    "Watchlist|b622c3d5-c178-3526-a0e3-6e6b014aba42",
-    "Watchlist|7d3861ab-d4db-3f66-bbb7-2df2632a2f80",
-    "Watchlist|ed74282c-34d6-33da-93a9-f1431f1a33ff",
-    "Watchlist|2682e7e9-ee88-3ec1-a257-ab789b7248b1",
-    "War|7d1da2f0-a1b6-3543-803f-2792282a368b",
-    "AI|fb46a948-1ebe-3caa-86a5-107eec7587ac",
-    "SG Banks|https://www.channelnewsasia.com/business/trumps-russia-sanctions-waiver-eases-indias-energy-woes-lifts-trade-deal-chances-6471846",
-    "AI|99122043-95e4-3bbd-9b22-fe62e31c58a1",
-    "Watchlist|99122043-95e4-3bbd-9b22-fe62e31c58a1",
-    "War|9c32b95c-6bb5-4905-ac05-cdb129ad1475",
-    "Crypto|9c32b95c-6bb5-4905-ac05-cdb129ad1475",
-    "SG Banks|https://www.channelnewsasia.com/business/ai-chip-startup-tenstorrent-more-doubles-its-valuation-62-billion-in-funding-round-6471861",
     "War|5f3d4bb7-31fa-3762-b23f-d963f6583bc2",
     "AI|5f3d4bb7-31fa-3762-b23f-d963f6583bc2",
     "SG Banks|/companies-markets/telcos-media-tech/ai-agents-targeted-1200-websites-and-compromised-more-100-report",
@@ -5000,82 +4921,161 @@
     "AI|ae19b951-467a-3112-8727-a19d3b517a6a",
     "AI|a9fe1227-ceda-3926-ad1e-ac61f96de4c3",
     "Watchlist|ae19b951-467a-3112-8727-a19d3b517a6a",
-    "Watchlist|a9fe1227-ceda-3926-ad1e-ac61f96de4c3"
+    "Watchlist|a9fe1227-ceda-3926-ad1e-ac61f96de4c3",
+    "AI|77405df5-c4ff-39d4-9a4c-b1afc7d8c767",
+    "AI|2ef89fe8-b5f0-364a-ad98-2a3e6026a32b",
+    "AI|https://www.investing.com/news/company-news/ternium-sa-adr-stock-hits-alltime-high-at-5933-usd-93CH-4960603",
+    "AI|https://www.investing.com/news/sec-filings/xterax-corp-ii-shareholders-approve-company-name-change-and-bylaw-amendment-93CH-4960608",
+    "AI|https://www.investing.com/news/company-news/old-mutual-share-trusts-purchase-4-million-shares-for-incentive-plans-93CH-4960609",
+    "AI|https://www.investing.com/news/company-news/host-digital-authorizes-15-million-share-buyback-program-4960610",
+    "AI|https://www.investing.com/news/company-news/smartfinancial-q3-2026-slides-record-revenue-15-loan-growth-93CH-4960611",
+    "AI|https://www.investing.com/news/company-news/equifax-q3-2026-slides-ai-drives-margins-up-130-bps-stock-jumps-11-93CH-4960613",
+    "AI|https://www.investing.com/news/analyst-ratings/truist-reiterates-rapport-therapeutics-stock-rating-on-trial-data-93CH-4960614",
+    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-aeromexico-posts-record-q3-2026-revenue-as-shares-fall-93CH-4960617",
+    "AI|https://www.investing.com/news/stock-market-news/greece-stocks-higher-at-close-of-trade-athens-general-composite-up-032-4960586",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-united-airlines-stock-rallying-today-93CH-4960587",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-artivion-stock-rallying-today-93CH-4960595",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-southwest-airlines-stock-surging-today-93CH-4960594",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-climb-bio-stock-surging-today-93CH-4960596",
+    "AI|https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-020-4960597",
+    "AI|https://www.investing.com/news/stock-market-news/norway-stocks-lower-at-close-of-trade-oslo-obx-down-059-4960601",
+    "AI|https://www.investing.com/news/company-news/american-electric-power-raises-quarterly-dividend-to-97-cents-93CH-4960582",
+    "AI|https://www.investing.com/news/company-news/northrop-grumman-q3-2026-slides-record-backlog-raised-guidance-93CH-4960585",
+    "AI|https://www.investing.com/news/company-news/heartflow-inc-stock-hits-alltime-high-at-5435-usd-93CH-4960589",
+    "AI|https://www.investing.com/news/company-news/ibm-ventures-invests-in-enterprise-ai-firm-leena-ai-93CH-4960598",
+    "AI|https://www.investing.com/news/company-news/uk-to-auction-45-billion-of-treasury-gilts-on-october-27-93CH-4960599",
+    "Cybersecurity|https://www.investing.com/news/company-news/ternium-sa-adr-stock-hits-alltime-high-at-5933-usd-93CH-4960603",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/nasdaq-futures-dip-as-oil-prices-climb-earnings-loom-4959413",
+    "Cybersecurity|https://www.investing.com/news/sec-filings/xterax-corp-ii-shareholders-approve-company-name-change-and-bylaw-amendment-93CH-4960608",
+    "Cybersecurity|https://www.investing.com/news/company-news/old-mutual-share-trusts-purchase-4-million-shares-for-incentive-plans-93CH-4960609",
+    "Cybersecurity|https://www.investing.com/news/company-news/host-digital-authorizes-15-million-share-buyback-program-4960610",
+    "Cybersecurity|https://www.investing.com/news/company-news/smartfinancial-q3-2026-slides-record-revenue-15-loan-growth-93CH-4960611",
+    "Cybersecurity|https://www.investing.com/news/company-news/equifax-q3-2026-slides-ai-drives-margins-up-130-bps-stock-jumps-11-93CH-4960613",
+    "Cybersecurity|https://www.investing.com/news/analyst-ratings/truist-reiterates-rapport-therapeutics-stock-rating-on-trial-data-93CH-4960614",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/gms-core-profit-rises-22-on-strength-of-pickuptruck-business-4959524",
+    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-aeromexico-posts-record-q3-2026-revenue-as-shares-fall-93CH-4960617",
+    "Cybersecurity|https://www.investing.com/news/company-news/american-electric-power-raises-quarterly-dividend-to-97-cents-93CH-4960582",
+    "Cybersecurity|https://www.investing.com/news/company-news/northrop-grumman-q3-2026-slides-record-backlog-raised-guidance-93CH-4960585",
+    "Cybersecurity|https://www.investing.com/news/company-news/heartflow-inc-stock-hits-alltime-high-at-5435-usd-93CH-4960589",
+    "Cybersecurity|https://www.investing.com/news/company-news/ibm-ventures-invests-in-enterprise-ai-firm-leena-ai-93CH-4960598",
+    "Cybersecurity|https://www.investing.com/news/company-news/uk-to-auction-45-billion-of-treasury-gilts-on-october-27-93CH-4960599",
+    "SG Banks|https://www.investing.com/news/company-news/ternium-sa-adr-stock-hits-alltime-high-at-5933-usd-93CH-4960603",
+    "SG Banks|https://www.investing.com/news/stock-market-news/nasdaq-futures-dip-as-oil-prices-climb-earnings-loom-4959413",
+    "SG Banks|https://www.investing.com/news/sec-filings/xterax-corp-ii-shareholders-approve-company-name-change-and-bylaw-amendment-93CH-4960608",
+    "SG Banks|https://www.investing.com/news/company-news/old-mutual-share-trusts-purchase-4-million-shares-for-incentive-plans-93CH-4960609",
+    "SG Banks|https://www.investing.com/news/company-news/host-digital-authorizes-15-million-share-buyback-program-4960610",
+    "SG Banks|https://www.investing.com/news/company-news/smartfinancial-q3-2026-slides-record-revenue-15-loan-growth-93CH-4960611",
+    "SG Banks|https://www.investing.com/news/company-news/equifax-q3-2026-slides-ai-drives-margins-up-130-bps-stock-jumps-11-93CH-4960613",
+    "SG Banks|https://www.investing.com/news/analyst-ratings/truist-reiterates-rapport-therapeutics-stock-rating-on-trial-data-93CH-4960614",
+    "SG Banks|https://www.investing.com/news/stock-market-news/gms-core-profit-rises-22-on-strength-of-pickuptruck-business-4959524",
+    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-aeromexico-posts-record-q3-2026-revenue-as-shares-fall-93CH-4960617",
+    "Watchlist|77405df5-c4ff-39d4-9a4c-b1afc7d8c767",
+    "Watchlist|2ef89fe8-b5f0-364a-ad98-2a3e6026a32b",
+    "Watchlist|https://www.investing.com/news/company-news/ternium-sa-adr-stock-hits-alltime-high-at-5933-usd-93CH-4960603",
+    "Watchlist|https://www.investing.com/news/stock-market-news/nasdaq-futures-dip-as-oil-prices-climb-earnings-loom-4959413",
+    "Watchlist|https://www.investing.com/news/sec-filings/xterax-corp-ii-shareholders-approve-company-name-change-and-bylaw-amendment-93CH-4960608",
+    "Watchlist|https://www.investing.com/news/company-news/old-mutual-share-trusts-purchase-4-million-shares-for-incentive-plans-93CH-4960609",
+    "Watchlist|https://www.investing.com/news/company-news/host-digital-authorizes-15-million-share-buyback-program-4960610",
+    "Watchlist|https://www.investing.com/news/company-news/smartfinancial-q3-2026-slides-record-revenue-15-loan-growth-93CH-4960611",
+    "Watchlist|https://www.investing.com/news/company-news/equifax-q3-2026-slides-ai-drives-margins-up-130-bps-stock-jumps-11-93CH-4960613",
+    "Watchlist|https://www.investing.com/news/analyst-ratings/truist-reiterates-rapport-therapeutics-stock-rating-on-trial-data-93CH-4960614",
+    "Watchlist|https://www.investing.com/news/stock-market-news/gms-core-profit-rises-22-on-strength-of-pickuptruck-business-4959524",
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-aeromexico-posts-record-q3-2026-revenue-as-shares-fall-93CH-4960617",
+    "Iran|https://www.iranintl.com/en/202610147703",
+    "AI|1b38ba8e-1ffd-3edf-ab35-68e7409b06a5",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/amazon-to-hire-over-300000-workers-for-holiday-season-up-20-from-2025",
+    "Watchlist|4e5a183d-357e-35ad-9481-595814982441",
+    "War|56a7a00d-e93c-3bce-9a1c-005b8f6b4702",
+    "AI|c8a5c2e4-69c1-3ce4-a39d-fdbcd1a92a50",
+    "Crypto|635300c7-aad8-30fd-b8f8-538995a3e69c",
+    "Watchlist|c8a5c2e4-69c1-3ce4-a39d-fdbcd1a92a50",
+    "War|WP-MKTW-0005295059",
+    "AI|a3cabcf8-b815-3b94-bddb-066937a4b68e",
+    "AI|5da53e58-e409-30f9-8497-2303c42dd7dd",
+    "AI|WP-MKTW-0005295059",
+    "Cybersecurity|WP-MKTW-0005295059",
+    "Watchlist|a3cabcf8-b815-3b94-bddb-066937a4b68e",
+    "Watchlist|5da53e58-e409-30f9-8497-2303c42dd7dd",
+    "AI|d2cb8955-2dc2-39d5-8530-8a4af732c5c5",
+    "Watchlist|d2cb8955-2dc2-39d5-8530-8a4af732c5c5",
+    "War|78cf7c74-3fc3-4eab-938b-5f8a1d58dcd9",
+    "AI|30ee88a4-6ea2-3c8d-b45b-58d3175e4cfd",
+    "Watchlist|30ee88a4-6ea2-3c8d-b45b-58d3175e4cfd"
   ],
   "topic_error": "",
   "last_digest": "2026-10-20",
   "earnings": {
     "AMD": {
       "ts": 1793736000,
-      "fetched": 1792422584.7517684
+      "fetched": 1792509038.8762383
     },
     "NVDA": {
       "ts": 1794945600,
-      "fetched": 1792422584.7517684
+      "fetched": 1792509038.8762383
     },
     "CRWD": {
       "ts": 1796155200,
-      "fetched": 1792422584.7517684
+      "fetched": 1792509038.8762383
     },
     "MSFT": {
       "ts": 1793217600,
-      "fetched": 1792422584.7517684
+      "fetched": 1792509038.8762383
     },
     "INTU": {
       "ts": 1795118400,
-      "fetched": 1792422584.7517684
+      "fetched": 1792509038.8762383
     },
     "BRK-B": {
       "ts": 1794081600,
-      "fetched": 1792422584.7517684
+      "fetched": 1792509038.8762383
     },
     "AMZN": {
       "ts": 1793304000,
-      "fetched": 1792422584.7517684
+      "fetched": 1792509038.8762383
     },
     "GOOG": {
       "ts": 1793217600,
-      "fetched": 1792422584.7517684
+      "fetched": 1792509038.8762383
     },
     "ZTS": {
       "ts": 1793881800,
-      "fetched": 1792422584.7517684
+      "fetched": 1792509038.8762383
     },
     "LIN": {
       "ts": 1793277000,
-      "fetched": 1792422584.7517684
+      "fetched": 1792509038.8762383
     },
     "VLO": {
       "ts": 1792672200,
-      "fetched": 1792422584.7517684
+      "fetched": 1792509038.8762383
     },
     "D05.SI": {
       "ts": 1793869200,
-      "fetched": 1792422584.7517684
+      "fetched": 1792509038.8762383
     },
     "O39.SI": {
       "ts": 1793955600,
-      "fetched": 1792422584.7517684
+      "fetched": 1792509038.8762383
     },
     "U11.SI": {
       "ts": 1793782800,
-      "fetched": 1792422584.7517684
+      "fetched": 1792509038.8762383
     },
     "A17U.SI": {
       "ts": 1785920400,
-      "fetched": 1792422584.7517684
+      "fetched": 1792509038.8762383
     },
     "HMN.SI": {
       "ts": 1785229200,
-      "fetched": 1792422584.7517684
+      "fetched": 1792509038.8762383
     },
     "JYEU.SI": {
       "ts": null,
-      "fetched": 1792422584.7517684
+      "fetched": 1792509038.8762383
     }
   },
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792508899.0656686
+  "last_check": 1792509823.7581246
 }
