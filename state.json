@@ -1,20 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|9f1255e4-504e-3eec-99ee-2c870396947e",
-    "Watchlist|9f1255e4-504e-3eec-99ee-2c870396947e",
-    "AI|b797cdc1-0171-3c33-a918-764f6e80a446",
-    "Watchlist|b797cdc1-0171-3c33-a918-764f6e80a446",
-    "AI|https://www.investing.com/news/stock-market-news/which-company-has-the-worlds-highest-earnings-the-answer-may-surprise-you-4955422",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/which-company-has-the-worlds-highest-earnings-the-answer-may-surprise-you-4955422",
-    "SG Banks|https://www.investing.com/news/stock-market-news/which-company-has-the-worlds-highest-earnings-the-answer-may-surprise-you-4955422",
-    "Watchlist|https://www.investing.com/news/stock-market-news/which-company-has-the-worlds-highest-earnings-the-answer-may-surprise-you-4955422",
-    "War|35de0103-6115-3ca5-ae6a-cbc4731f1105",
-    "AI|821b3300-2f38-3656-a9ed-9e09d8678fa9",
-    "AI|35de0103-6115-3ca5-ae6a-cbc4731f1105",
-    "Watchlist|821b3300-2f38-3656-a9ed-9e09d8678fa9",
-    "Watchlist|35de0103-6115-3ca5-ae6a-cbc4731f1105",
-    "War|5f1a8077-d773-42ce-a003-32017fe7a894",
     "Crypto|3aa6b966-4ec8-3bd6-b914-5e3186b3cd3e",
     "War|02d09c92-e543-38d9-b121-e742af40208b",
     "AI|273d3531-2ed2-3e26-a9db-9ea70853bf7a",
@@ -5000,7 +4986,21 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/ionis-pharma-evp-devers-sells-59081-in-stock-93CH-4958665",
     "AI|39eecf05-dd98-33e2-bfb9-67dc3b26419b",
     "Watchlist|39eecf05-dd98-33e2-bfb9-67dc3b26419b",
-    "Crypto|e64f000d-fe1b-3008-8a48-f783adebcc21"
+    "Crypto|e64f000d-fe1b-3008-8a48-f783adebcc21",
+    "AI|https://www.investing.com/news/insider-trading-news/glenbrook-capital-management-director-buys-706k-senestech-stock-93CH-4958666",
+    "AI|https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-115839-of-ellsworth-growth--income-fund-93CH-4958667",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/glenbrook-capital-management-director-buys-706k-senestech-stock-93CH-4958666",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-115839-of-ellsworth-growth--income-fund-93CH-4958667",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/glenbrook-capital-management-director-buys-706k-senestech-stock-93CH-4958666",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-115839-of-ellsworth-growth--income-fund-93CH-4958667",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/glenbrook-capital-management-director-buys-706k-senestech-stock-93CH-4958666",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-115839-of-ellsworth-growth--income-fund-93CH-4958667",
+    "SG Banks|https://www.channelnewsasia.com/business/philippines-gcash-mynt-shares-ipo-6474091",
+    "AI|1cd258df-39a5-3909-b537-49c38ca86ab0",
+    "Watchlist|1cd258df-39a5-3909-b537-49c38ca86ab0",
+    "SG Banks|https://www.channelnewsasia.com/business/asian-shares-tumble-oil-rises-markets-await-ai-sector-results-6474216",
+    "SG Banks|/singapore/most-singapore-households-expect-inflation-rise-over-next-year-survey",
+    "Watchlist|/singapore/most-singapore-households-expect-inflation-rise-over-next-year-survey"
   ],
   "topic_error": "",
   "last_digest": "2026-10-20",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792462159.4779313
+  "last_check": 1792463057.1635253
 }
