@@ -1,21 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|a914df13-5a84-3178-81de-9c5299841f01",
-    "Watchlist|a914df13-5a84-3178-81de-9c5299841f01",
-    "Watchlist|4ac1c030-30d2-366c-824e-0f54f8a9bd82",
-    "AI|4ac1c030-30d2-366c-824e-0f54f8a9bd82",
-    "AI|1e664b8e-716a-3948-8572-dab84579e48c",
-    "Watchlist|1e664b8e-716a-3948-8572-dab84579e48c",
-    "AI|6507740a-c465-3268-a6d9-938d5162f981",
-    "AI|https://www.investing.com/news/insider-trading-news/gic-private-ltd-sells-2748-million-in-medline-mdln-shares-93CH-4955458",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/gic-private-ltd-sells-2748-million-in-medline-mdln-shares-93CH-4955458",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/gic-private-ltd-sells-2748-million-in-medline-mdln-shares-93CH-4955458",
-    "Watchlist|6507740a-c465-3268-a6d9-938d5162f981",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/gic-private-ltd-sells-2748-million-in-medline-mdln-shares-93CH-4955458",
-    "AI|06354a21-62cb-341e-b888-1ce98753a8a3",
-    "Watchlist|06354a21-62cb-341e-b888-1ce98753a8a3",
-    "AI|7b58d951-8d7e-3d5c-9386-fc9eb435fb79",
     "Watchlist|7b58d951-8d7e-3d5c-9386-fc9eb435fb79",
     "Crypto|abe5c5db-b065-366e-a93e-43f93634e3d7",
     "AI|162c17f7-7a0b-314d-aa5c-974a3afc17aa",
@@ -5000,7 +4985,22 @@
     "Watchlist|bd4021cb-411e-3db3-965b-8a023f56f628",
     "SG Banks|/international/asean/gcash-parent-mynt-rises-market-debut-after-s-e-asias-top-2026-ipo",
     "SG Banks|https://www.straitstimes.com/business/hong-kongs-rail-company-mtr-bets-6-3-billion-on-a-city-that-doesnt-exist-yet",
-    "Watchlist|/international/asean/gcash-parent-mynt-rises-market-debut-after-s-e-asias-top-2026-ipo"
+    "Watchlist|/international/asean/gcash-parent-mynt-rises-market-debut-after-s-e-asias-top-2026-ipo",
+    "AI|fd6a86dc-03f7-339e-9531-dca31604aebf",
+    "Watchlist|fd6a86dc-03f7-339e-9531-dca31604aebf",
+    "War|3de9c673-5971-3d42-92bf-d5240b56fccb",
+    "AI|https://www.investing.com/news/insider-trading-news/wayfair-president-blotner-sells-60060-in-company-stock-93CH-4958706",
+    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-regis-resources-posts-strong-cash-flow-in-q1-2026-93CH-4958709",
+    "AI|https://www.investing.com/news/insider-trading-news/guardant-health-director-tariq-musa-sells-19242-in-stock-93CH-4958716",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/wayfair-president-blotner-sells-60060-in-company-stock-93CH-4958706",
+    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-regis-resources-posts-strong-cash-flow-in-q1-2026-93CH-4958709",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/guardant-health-director-tariq-musa-sells-19242-in-stock-93CH-4958716",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/wayfair-president-blotner-sells-60060-in-company-stock-93CH-4958706",
+    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-regis-resources-posts-strong-cash-flow-in-q1-2026-93CH-4958709",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/guardant-health-director-tariq-musa-sells-19242-in-stock-93CH-4958716",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/wayfair-president-blotner-sells-60060-in-company-stock-93CH-4958706",
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-regis-resources-posts-strong-cash-flow-in-q1-2026-93CH-4958709",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/guardant-health-director-tariq-musa-sells-19242-in-stock-93CH-4958716"
   ],
   "topic_error": "",
   "last_digest": "2026-10-20",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792464892.9985554
+  "last_check": 1792465813.897674
 }
