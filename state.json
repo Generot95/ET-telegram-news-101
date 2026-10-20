@@ -1,21 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/insider-trading-news/gilead-chief-comm--corp-aff-officer-sells-468660-in-gild-shares-93CH-4955348",
-    "SG Banks|https://www.investing.com/news/economy-news/delegates-walked-out-of-imf-steering-committee-meeting-when-russian-official-spoke-sources-say-4955349",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/bjs-wholesale-evp-cfo-felice-sells-887k-in-shares-93CH-4955356",
-    "Watchlist|https://www.investing.com/news/stock-market-news/citi-sees-resilient-demand-for-chinese-ai-ipos-despite-valuation-concerns-4955340",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/taketwo-interactive-director-siminoff-sells-67775-in-common-stock-93CH-4955347",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/gilead-chief-comm--corp-aff-officer-sells-468660-in-gild-shares-93CH-4955348",
-    "Watchlist|https://www.investing.com/news/economy-news/delegates-walked-out-of-imf-steering-committee-meeting-when-russian-official-spoke-sources-say-4955349",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/bjs-wholesale-evp-cfo-felice-sells-887k-in-shares-93CH-4955356",
-    "AI|7fae402f-002d-3de1-9059-99fafcf35974",
-    "AI|3312495c-e86e-3d6c-a79c-f5ec08c97b60",
-    "Crypto|a6cf8491-6b5a-3de0-98a0-0cfdd6d810ea",
-    "Watchlist|7fae402f-002d-3de1-9059-99fafcf35974",
-    "Watchlist|3312495c-e86e-3d6c-a79c-f5ec08c97b60",
-    "SG Banks|https://www.channelnewsasia.com/business/anthropics-clark-says-ais-impact-accelerating-quickly-and-could-vastly-boost-us-gdp-6468116",
-    "AI|6d526c72-1155-3030-913f-341188841277",
     "Cybersecurity|de864818-081e-3b72-b7d9-7406cb02163f",
     "Watchlist|6d526c72-1155-3030-913f-341188841277",
     "War|https://www.investing.com/news/world-news/students-trade-unions-and-yellow-vests-set-to-protest-across-france-4955251",
@@ -5000,7 +4985,22 @@
     "War|c1a5aeb5-a62f-4bae-b48d-c31a611cb1ba",
     "AI|6f96e052-ec02-3b46-8ee2-a4d31f147518",
     "SG Banks|https://www.straitstimes.com/business/banking/national-australia-bank-to-cut-2500-jobs-in-cost-overhaul-as-credit-growth-slows",
-    "Watchlist|6f96e052-ec02-3b46-8ee2-a4d31f147518"
+    "Watchlist|6f96e052-ec02-3b46-8ee2-a4d31f147518",
+    "Iran|https://www.iranintl.com/en/202610196705",
+    "SG Banks|https://www.straitstimes.com/business/openai-seeks-to-accelerate-fundraising-ahead-of-anthropic-ipo-sources-say",
+    "AI|https://www.investing.com/news/company-news/cathie-woods-ark-sells-palantir-and-shopify-stock-buys-coreweave-93CH-4958554",
+    "AI|https://www.investing.com/news/earnings/agnc-investment-earnings-missed-revenue-topped-estimates-4958555",
+    "AI|https://www.investing.com/news/stock-market-news/honeywell-aerospace-sees-business-aviation-growth-on-rising-aircraft-use-4958553",
+    "Cybersecurity|https://www.investing.com/news/company-news/cathie-woods-ark-sells-palantir-and-shopify-stock-buys-coreweave-93CH-4958554",
+    "Cybersecurity|https://www.investing.com/news/earnings/agnc-investment-earnings-missed-revenue-topped-estimates-4958555",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/honeywell-aerospace-sees-business-aviation-growth-on-rising-aircraft-use-4958553",
+    "SG Banks|https://www.investing.com/news/company-news/cathie-woods-ark-sells-palantir-and-shopify-stock-buys-coreweave-93CH-4958554",
+    "SG Banks|https://www.investing.com/news/earnings/agnc-investment-earnings-missed-revenue-topped-estimates-4958555",
+    "SG Banks|https://www.investing.com/news/stock-market-news/honeywell-aerospace-sees-business-aviation-growth-on-rising-aircraft-use-4958553",
+    "Watchlist|https://www.investing.com/news/company-news/cathie-woods-ark-sells-palantir-and-shopify-stock-buys-coreweave-93CH-4958554",
+    "Watchlist|https://www.investing.com/news/earnings/agnc-investment-earnings-missed-revenue-topped-estimates-4958555",
+    "Watchlist|https://www.investing.com/news/stock-market-news/honeywell-aerospace-sees-business-aviation-growth-on-rising-aircraft-use-4958553",
+    "Crypto|aa9399e7-636e-3cd2-9fb4-994a98299b13"
   ],
   "topic_error": "",
   "last_digest": "2026-10-20",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792454833.41041
+  "last_check": 1792455757.6025324
 }
