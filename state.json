@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4955590",
-    "SG Banks|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4955590",
-    "Watchlist|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4955590",
-    "Crypto|2f52a819-7511-34ae-8653-9162ecf5a948",
-    "AI|b7d08584-3bc8-37f5-a966-cb7a1856ecce",
     "Watchlist|b7d08584-3bc8-37f5-a966-cb7a1856ecce",
     "SG Banks|https://www.channelnewsasia.com/commentary/fossil-fuels-easy-money-international-islamic-trade-finance-corp-6465576",
     "AI|f4d3a12c-b5e0-3f5b-a1f0-d1f80147c170",
@@ -5000,7 +4995,12 @@
     "SG Banks|/companies-markets/data-centre-infrastructure-firm-elices-33-plunge-ugly-debut-rekindles-ai-spending-doubts",
     "SG Banks|https://www.investing.com/news/forex-news/asian-currencies-firm-asdollar-retreats-yuan-hits-fouryear-high-4958775",
     "Watchlist|/companies-markets/data-centre-infrastructure-firm-elices-33-plunge-ugly-debut-rekindles-ai-spending-doubts",
-    "Watchlist|https://www.investing.com/news/forex-news/asian-currencies-firm-asdollar-retreats-yuan-hits-fouryear-high-4958775"
+    "Watchlist|https://www.investing.com/news/forex-news/asian-currencies-firm-asdollar-retreats-yuan-hits-fouryear-high-4958775",
+    "Iran|https://www.iranintl.com/en/202610172959",
+    "SG Banks|https://www.straitstimes.com/business/software-upgrades-eat-nearly-a-third-of-companies-it-budgets-survey-finds",
+    "AI|abd0125d-946b-3a0a-ba2d-3d450f889f53",
+    "Crypto|00f1a0be-070c-33de-971f-9d48ee7131cb",
+    "Watchlist|abd0125d-946b-3a0a-ba2d-3d450f889f53"
   ],
   "topic_error": "",
   "last_digest": "2026-10-20",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792474044.394406
+  "last_check": 1792474961.6629622
 }
