@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Crypto|0977af7f-959e-3030-9453-be0a1f1f19c2",
-    "War|5ac8fb0b-9954-3b99-aa40-edbb5fbb3f5b",
-    "War|ecb4b6e2-9538-3cad-a7e7-ba57bd3347db",
-    "AI|6fbe7ae1-1df3-31c4-9fd6-69d0113a85ee",
-    "Crypto|80d25737-f741-3c3c-a5df-2a70f6fa8ffb",
-    "Watchlist|6fbe7ae1-1df3-31c4-9fd6-69d0113a85ee",
-    "Iran|https://www.iranintl.com/en/202610172959",
-    "AI|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4955590",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4955590",
     "SG Banks|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4955590",
     "Watchlist|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4955590",
@@ -5000,7 +4992,15 @@
     "Watchlist|https://www.investing.com/news/economic-indicators/analysisas-japan-pursues-a-chipindustry-reboot-its-being-pressed-to-build-americas-4958769",
     "Watchlist|https://www.investing.com/news/stock-market-news/volkswagen-bet-on-xpeng-to-save-its-china-business-its-not-going-to-plan-4958774",
     "SG Banks|https://www.channelnewsasia.com/business/ovhcloud-meets-2026-targets-posts-first-positive-cash-flow-ipo-6474586",
-    "SG Banks|https://www.channelnewsasia.com/business/abb-says-data-centre-business-booming-q3-figures-in-line-forecasts-6474581"
+    "SG Banks|https://www.channelnewsasia.com/business/abb-says-data-centre-business-booming-q3-figures-in-line-forecasts-6474581",
+    "AI|0dac6b16-d3a1-3932-8534-25cb33ea1d9f",
+    "Watchlist|0dac6b16-d3a1-3932-8534-25cb33ea1d9f",
+    "AI|https://www.investing.com/news/forex-news/asian-currencies-firm-asdollar-retreats-yuan-hits-fouryear-high-4958775",
+    "Cybersecurity|https://www.investing.com/news/forex-news/asian-currencies-firm-asdollar-retreats-yuan-hits-fouryear-high-4958775",
+    "SG Banks|/companies-markets/data-centre-infrastructure-firm-elices-33-plunge-ugly-debut-rekindles-ai-spending-doubts",
+    "SG Banks|https://www.investing.com/news/forex-news/asian-currencies-firm-asdollar-retreats-yuan-hits-fouryear-high-4958775",
+    "Watchlist|/companies-markets/data-centre-infrastructure-firm-elices-33-plunge-ugly-debut-rekindles-ai-spending-doubts",
+    "Watchlist|https://www.investing.com/news/forex-news/asian-currencies-firm-asdollar-retreats-yuan-hits-fouryear-high-4958775"
   ],
   "topic_error": "",
   "last_digest": "2026-10-20",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792473122.4343815
+  "last_check": 1792474044.394406
 }
