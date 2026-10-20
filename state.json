@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|97708298-2e9e-3175-8dbb-d0d9f8ba7cf7",
-    "Watchlist|97708298-2e9e-3175-8dbb-d0d9f8ba7cf7",
-    "AI|https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-80k-as-whale-transfers-signal-mixed-outlook-4955806",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-80k-as-whale-transfers-signal-mixed-outlook-4955806",
-    "Cybersecurity|https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-80k-as-whale-transfers-signal-mixed-outlook-4955806",
-    "SG Banks|https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-80k-as-whale-transfers-signal-mixed-outlook-4955806",
-    "Watchlist|https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-80k-as-whale-transfers-signal-mixed-outlook-4955806",
-    "SG Banks|/companies-markets/capital-markets-currencies/weak-links-start-show-ai-borrowing",
     "Watchlist|/companies-markets/capital-markets-currencies/weak-links-start-show-ai-borrowing",
     "SG Banks|/companies-markets/capital-markets-currencies/cracks-emerge-ai-borrowing-boom-coreweave-oracle-and-softbank-debt-worries-grow",
     "Watchlist|/companies-markets/capital-markets-currencies/cracks-emerge-ai-borrowing-boom-coreweave-oracle-and-softbank-debt-worries-grow",
@@ -5000,7 +4992,15 @@
     "SG Banks|https://www.channelnewsasia.com/business/half-ovhcloud-capacity-available-ai-model-launching-in-early-2027-ceo-says-6474791",
     "Watchlist|/international/global/ai-funding-fears-puncture-rally-asias-high-flying-picks-and-shovels-stocks",
     "Watchlist|/companies-markets/consumer-healthcare/7-eleven-adds-hot-food-counters-16-singapore-stores-dfi-retail-sharpens-growth-focus",
-    "Watchlist|/companies-markets/taobao-deepens-singapore-presence-us14-9-million-marketing-push"
+    "Watchlist|/companies-markets/taobao-deepens-singapore-presence-us14-9-million-marketing-push",
+    "AI|6f3ff5c2-81b4-3789-bb2b-4680d782335b",
+    "AI|59cf7675-5aa4-3f85-9eb8-498facd1e1d5",
+    "AI|b253d4bc-e38f-3f40-b1a8-376f89a67f1b",
+    "Watchlist|59cf7675-5aa4-3f85-9eb8-498facd1e1d5",
+    "Watchlist|b253d4bc-e38f-3f40-b1a8-376f89a67f1b",
+    "AI|651ec439-ebb5-384c-aab4-2651e2031d63",
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-80k-as-whale-transfers-signal-mixed-outlook-4955806",
+    "Watchlist|651ec439-ebb5-384c-aab4-2651e2031d63"
   ],
   "topic_error": "",
   "last_digest": "2026-10-20",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792480469.068544
+  "last_check": 1792481377.3057764
 }
