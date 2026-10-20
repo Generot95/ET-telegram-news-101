@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/cryptocurrency-news/eos-climbs-18-in-a-green-day-4955523",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/eos-climbs-18-in-a-green-day-4955523",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/anterix-cfo-elena-marquez-sells-400606-of-stock-from-8000-to-8250-93CH-4955522",
-    "Cybersecurity|https://www.investing.com/news/cryptocurrency-news/eos-climbs-18-in-a-green-day-4955523",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/anterix-cfo-elena-marquez-sells-400606-of-stock-from-8000-to-8250-93CH-4955522",
-    "SG Banks|https://www.investing.com/news/cryptocurrency-news/eos-climbs-18-in-a-green-day-4955523",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/anterix-cfo-elena-marquez-sells-400606-of-stock-from-8000-to-8250-93CH-4955522",
     "Watchlist|https://www.investing.com/news/cryptocurrency-news/eos-climbs-18-in-a-green-day-4955523",
     "War|b21075c0-0a85-4b7c-899b-cf27d731f887",
     "AI|103888d0-d4c6-3dd6-81d2-ad9b3a39deb8",
@@ -5000,7 +4993,14 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/mark-parkinson-ensign-group-director-sells-17962-in-shares-93CH-4958741",
     "Watchlist|https://www.investing.com/news/insider-trading-news/red-cat-holdings-ceo-thompson-sells-676500-of-common-stock-93CH-4958743",
     "Watchlist|https://www.investing.com/news/stock-market-news/elice-shares-plunge-28-on-debut-as-investor-doubts-over-ai-trade-deepen-4958744",
-    "Iran|https://www.iranintl.com/en/202610176185"
+    "Iran|https://www.iranintl.com/en/202610176185",
+    "SG Banks|https://www.channelnewsasia.com/business/how-safe-havens-stack-up-tech-energy-and-france-fears-grip-markets-6474496",
+    "War|2bea39e1-1f9f-33cb-aa9f-f81a3ca22c58",
+    "AI|6519b9d9-00ab-36d6-bc2d-89b98b7e38b7",
+    "Watchlist|6519b9d9-00ab-36d6-bc2d-89b98b7e38b7",
+    "SG Banks|https://www.channelnewsasia.com/business/software-upgrades-eat-nearly-third-companies-it-budgets-survey-finds-6474511",
+    "SG Banks|/companies-markets/energy-commodities/oil-wavers-near-five-month-high-irans-hormuz-threats-vie-flows",
+    "Watchlist|/companies-markets/energy-commodities/oil-wavers-near-five-month-high-irans-hormuz-threats-vie-flows"
   ],
   "topic_error": "",
   "last_digest": "2026-10-20",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792469458.7099621
+  "last_check": 1792470388.1736178
 }
