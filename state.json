@@ -1,17 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|c47ad07f-ae2a-3660-a807-fe233909a268",
-    "Iran|https://www.iranintl.com/en/202610147742",
-    "SG Banks|/companies-markets/capital-markets-currencies/sp-500-ends-higher-traders-shift-ai-healthcare",
-    "Watchlist|/companies-markets/capital-markets-currencies/sp-500-ends-higher-traders-shift-ai-healthcare",
-    "AI|https://www.investing.com/news/stock-market-news/street-calls-of-the-week-93CH-4953774",
-    "AI|https://www.investing.com/news/economy-news/iran-appoints-new-defence-minister-amid-escalating-tensions-with-us-4955858",
-    "AI|https://www.investing.com/news/stock-market-news/microsoft-pulls-out-of-uk-data-center-deal-with-nscale-telegraph-reports-4955864",
-    "AI|https://www.investing.com/news/earnings/icici-bank-adr-earnings-missed-revenue-was-in-line-with-estimates-4955865",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/street-calls-of-the-week-93CH-4953774",
-    "Cybersecurity|https://www.investing.com/news/economy-news/iran-appoints-new-defence-minister-amid-escalating-tensions-with-us-4955858",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/microsoft-pulls-out-of-uk-data-center-deal-with-nscale-telegraph-reports-4955864",
     "Cybersecurity|https://www.investing.com/news/earnings/icici-bank-adr-earnings-missed-revenue-was-in-line-with-estimates-4955865",
     "SG Banks|https://www.investing.com/news/stock-market-news/street-calls-of-the-week-93CH-4953774",
     "SG Banks|https://www.investing.com/news/economy-news/iran-appoints-new-defence-minister-amid-escalating-tensions-with-us-4955858",
@@ -5000,7 +4989,18 @@
     "Watchlist|/companies-markets/capital-markets-currencies/european-stocks-extend-slide-french-protests-dent-risk-appetite",
     "Iran|https://www.iranintl.com/en/202610188034",
     "SG Banks|/lifestyle/rich-flyers-splurges-are-saving-airlines-margin-collapse",
-    "Watchlist|/lifestyle/rich-flyers-splurges-are-saving-airlines-margin-collapse"
+    "Watchlist|/lifestyle/rich-flyers-splurges-are-saving-airlines-margin-collapse",
+    "AI|e6eea178-f3d8-38de-88ad-10321815693e",
+    "Watchlist|e6eea178-f3d8-38de-88ad-10321815693e",
+    "Iran|https://www.iranintl.com/en/202610147742",
+    "AI|7caf99c3-816b-36f3-8b90-e08fea22398d",
+    "Watchlist|7caf99c3-816b-36f3-8b90-e08fea22398d",
+    "AI|947a55a7-3696-3fe0-93b8-422e93ad5ed5",
+    "AI|25f31cfe-80bd-3ed8-a010-da934086d735",
+    "Watchlist|25f31cfe-80bd-3ed8-a010-da934086d735",
+    "War|WP-MKTW-0005295944",
+    "AI|WP-MKTW-0005295944",
+    "Cybersecurity|WP-MKTW-0005295944"
   ],
   "topic_error": "",
   "last_digest": "2026-10-20",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792483214.8151293
+  "last_check": 1792484122.5181122
 }
