@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/putin-proposes-summit-with-trump-and-xi-on-ukraine-wsj-93CH-4956133",
-    "SG Banks|https://www.investing.com/news/stock-market-news/australias-ampol-thirdquarter-lytton-refining-margin-more-than-doubles-4956132",
-    "SG Banks|https://www.investing.com/news/stock-market-news/putin-proposes-summit-with-trump-and-xi-on-ukraine-wsj-93CH-4956133",
-    "Watchlist|https://www.investing.com/news/stock-market-news/australias-ampol-thirdquarter-lytton-refining-margin-more-than-doubles-4956132",
-    "Watchlist|https://www.investing.com/news/stock-market-news/putin-proposes-summit-with-trump-and-xi-on-ukraine-wsj-93CH-4956133",
-    "AI|1f6f8ca0-6687-342c-b96f-1c901b0fca9f",
-    "AI|https://www.investing.com/news/insider-trading-news/royce-microcap-trust-ceo-clark-acquires-13400-in-rmt-stock-93CH-4956142",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/royce-microcap-trust-ceo-clark-acquires-13400-in-rmt-stock-93CH-4956142",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/royce-microcap-trust-ceo-clark-acquires-13400-in-rmt-stock-93CH-4956142",
-    "Watchlist|1f6f8ca0-6687-342c-b96f-1c901b0fca9f",
     "Watchlist|https://www.investing.com/news/insider-trading-news/royce-microcap-trust-ceo-clark-acquires-13400-in-rmt-stock-93CH-4956142",
     "SG Banks|/international/sydneys-new-us4-billion-airport-opens-barely-any-flights",
     "Watchlist|/international/sydneys-new-us4-billion-airport-opens-barely-any-flights",
@@ -5000,7 +4990,17 @@
     "Cybersecurity|WP-MKTW-0005295902",
     "Watchlist|/companies-markets/kioxia-shares-face-headwinds-margin-buying-gone-wrong",
     "SG Banks|https://www.straitstimes.com/business/anthropic-to-commit-5-stake-to-new-public-benefit-fund",
-    "SG Banks|https://www.straitstimes.com/business/companies-markets/netflix-hunts-for-its-next-big-hit-after-us135b-stock-market-wipeout"
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/netflix-hunts-for-its-next-big-hit-after-us135b-stock-market-wipeout",
+    "SG Banks|https://www.channelnewsasia.com/business/metas-ai-spending-muse-assistant-adoption-in-focus-quarterly-results-6475231",
+    "War|254ca124-85a6-3a36-a35a-75667b4b81c8",
+    "War|fe04d70c-2974-31e5-8657-7f2b0754803d",
+    "AI|230903cb-021b-37c2-900b-1bafbb70ee89",
+    "Watchlist|230903cb-021b-37c2-900b-1bafbb70ee89",
+    "War|05563be2-3f4b-380f-ad04-6f77178256a5",
+    "SG Banks|https://www.channelnewsasia.com/business/ai-worries-weigh-abb-shares-despite-record-orders-6474581",
+    "War|WP-MKTW-0005295669",
+    "AI|WP-MKTW-0005295669",
+    "Cybersecurity|WP-MKTW-0005295669"
   ],
   "topic_error": "",
   "last_digest": "2026-10-20",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792491472.9672217
+  "last_check": 1792492406.7219222
 }
