@@ -1,20 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|b42a1a0b-7cad-361c-98a5-a616906062a3",
-    "AI|23279083-18ce-3deb-a54e-e6fa88464bad",
-    "Watchlist|07298508-84fa-300d-ad47-8acaf4a86847",
-    "Watchlist|b42a1a0b-7cad-361c-98a5-a616906062a3",
-    "Watchlist|23279083-18ce-3deb-a54e-e6fa88464bad",
-    "AI|b3aae98d-4a73-4839-9b91-6ff08b190427",
-    "Watchlist|b3aae98d-4a73-4839-9b91-6ff08b190427",
-    "AI|9c328c9e-5590-3cfd-a4e7-dc003aabe2af",
-    "Watchlist|9c328c9e-5590-3cfd-a4e7-dc003aabe2af",
-    "War|2a2ddb49-c01a-341d-892b-0fabda62a593",
-    "War|WP-MKTW-0005294430",
-    "AI|a20b7d63-3674-37b1-a5ef-1ea822e3e4e8",
-    "AI|bc5afe60-6bde-38cb-bb8a-2d760ef85e4c",
-    "AI|5df2278e-7390-37f5-834a-a5716d739537",
     "AI|WP-MKTW-0005294430",
     "Crypto|bc5afe60-6bde-38cb-bb8a-2d760ef85e4c",
     "Cybersecurity|WP-MKTW-0005294430",
@@ -5000,7 +4986,21 @@
     "Watchlist|https://www.investing.com/news/company-news/itm-power-applies-for-block-listing-of-299638-shares-on-aim-93CH-4963705",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-qcr-holdings-tops-q3-2026-eps-forecast-shares-slip-93CH-4963706",
     "Watchlist|https://www.investing.com/news/company-news/tds-stock-hits-52week-low-at-315-usd-93CH-4963707",
-    "Watchlist|https://www.investing.com/news/economy-news/micron-taiwan-union-sign-deal-withdraw-from-mediation-4961824"
+    "Watchlist|https://www.investing.com/news/economy-news/micron-taiwan-union-sign-deal-withdraw-from-mediation-4961824",
+    "Iran|https://www.iranintl.com/en/202610194944",
+    "SG Banks|/international/global/china-signals-overnight-rate-set-become-main-policy-benchmark",
+    "Watchlist|/international/global/china-signals-overnight-rate-set-become-main-policy-benchmark",
+    "AI|336daff5-95ef-3590-9f02-06ef4d7e73a7",
+    "AI|b902e672-3fb9-3efa-aab9-06cd9c6bbb7d",
+    "Watchlist|336daff5-95ef-3590-9f02-06ef4d7e73a7",
+    "Watchlist|b902e672-3fb9-3efa-aab9-06cd9c6bbb7d",
+    "War|e09417dc-330e-382c-8c0b-9ebe5df6efe6",
+    "Watchlist|2e85c8f8-b03b-3797-a865-336686422722",
+    "Crypto|55762631-2687-3955-8a1b-4276cee5faa2",
+    "AI|https://www.investing.com/news/stock-market-news/philip-morris-earnings-analysis-questions-answered-and-next-catalysts-93CH-4963716",
+    "AI|https://www.investing.com/news/stock-market-news/abbott-laboratories-earnings-analysis-questions-answered-and-next-catalysts-93CH-4963717",
+    "AI|https://www.investing.com/news/stock-market-news/cme-group-earnings-analysis-questions-answered-and-next-catalysts-93CH-4963718",
+    "AI|https://www.investing.com/news/stock-market-news/teledyne-technologies-earnings-analysis-questions-answered-and-next-catalysts-93CH-4963719"
   ],
   "topic_error": "",
   "last_digest": "2026-10-21",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792600616.2852147
+  "last_check": 1792601541.8647704
 }
