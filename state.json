@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-crown-stock-sliding-afterhours-today-93CH-4958380",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/germanys-merz-urges-ai-investment-ahead-of-nvidia-deal-4958229",
-    "Cybersecurity|https://www.investing.com/news/company-news/standex-appoints-samantha-stoddard-as-cfo-effective-dec-1-93CH-4958382",
-    "Cybersecurity|https://www.investing.com/news/company-news/belgravia-hartford-plans-1for10-reverse-stock-split-93CH-4958366",
-    "Cybersecurity|https://www.investing.com/news/company-news/maximus-to-acquire-agile-defense-for-660-million-in-cash-93CH-4958367",
     "Cybersecurity|https://www.investing.com/news/company-news/axion-minerals-begins-exploration-at-cranberry-creek-ree-property-93CH-4958370",
     "Cybersecurity|https://www.investing.com/news/company-news/vivos-therapeutics-acquires-stake-in-sod-sciences-93CH-4958383",
     "SG Banks|https://www.investing.com/news/company-news/firstservices-century-fire-acquires-aa-fire-protection-93CH-4958369",
@@ -5000,7 +4995,12 @@
     "War|f380530c-4aac-3c22-908e-637c507cf544",
     "AI|f710442c-3953-34f5-ac89-210605b1b72c",
     "SG Banks|https://www.channelnewsasia.com/business/state-bank-india-reports-cyberattack-involving-customer-records-6477746",
-    "AI|ece55e13-87ab-34d9-aa91-4606ae016fd3"
+    "AI|ece55e13-87ab-34d9-aa91-4606ae016fd3",
+    "War|f2ea59be-2df6-364b-ace5-68c127e4e18a",
+    "AI|e0b76cbf-11f5-3c6b-a1cf-46531a742cf4",
+    "Watchlist|e0b76cbf-11f5-3c6b-a1cf-46531a742cf4",
+    "AI|d56d532d-216d-3199-9f00-cf74f3c44034",
+    "Watchlist|d56d532d-216d-3199-9f00-cf74f3c44034"
   ],
   "topic_error": "",
   "last_digest": "2026-10-21",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792554730.2443402
+  "last_check": 1792555667.087169
 }
