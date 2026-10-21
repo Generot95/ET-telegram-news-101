@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/waymo-to-launch-autonomous-ridehailing-in-madrid-next-year-4960146",
-    "SG Banks|https://www.investing.com/news/stock-market-news/arcus-stock-tumbles-6-after-unveiling-casdatifan-trial-data-4960153",
-    "SG Banks|https://www.investing.com/news/stock-market-news/mondays-insider-activity-big-buys-at-applied-digital-sells-at-wayfair-93CH-4960154",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-klaviyo-stock-surging-today-93CH-4960161",
-    "SG Banks|https://www.investing.com/news/press-releases/over-100m-lost-to-copypaste-crypto-mistakes-upcx-swaps-wallet-addresses-for-phone-numbers-4960162",
-    "SG Banks|https://www.investing.com/news/sec-filings/beazer-homes-completes-merger-with-dream-finders-homes-plans-nyse-delisting-93CH-4960163",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-washington-trust-beats-q3-2026-estimates-as-stock-rises-65-93CH-4960175",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-myriad-genetics-stock-surging-today-93CH-4960179",
-    "Watchlist|/companies-markets/consumer-healthcare/hasbro-raises-annual-revenue-forecast-strong-demand-digital-games",
-    "Watchlist|https://www.investing.com/news/company-news/scinai-secures-cdmo-deal-raises-53m-in-financing-93CH-4960144",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/isabella-bank-director-jill-bourland-buys-300-in-company-stock-93CH-4960145",
-    "Watchlist|https://www.investing.com/news/stock-market-news/waymo-to-launch-autonomous-ridehailing-in-madrid-next-year-4960146",
-    "Watchlist|https://www.investing.com/news/stock-market-news/arcus-stock-tumbles-6-after-unveiling-casdatifan-trial-data-4960153",
     "Watchlist|https://www.investing.com/news/stock-market-news/mondays-insider-activity-big-buys-at-applied-digital-sells-at-wayfair-93CH-4960154",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-klaviyo-stock-surging-today-93CH-4960161",
     "Watchlist|https://www.investing.com/news/press-releases/over-100m-lost-to-copypaste-crypto-mistakes-upcx-swaps-wallet-addresses-for-phone-numbers-4960162",
@@ -5000,7 +4987,20 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/ebay-to-cut-9-of-workforce-in-strategic-operational-push-reuters-reports-4963455",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-datadog-stock-surging-today-93CH-4963456",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-agree-realty-beats-q3-2026-estimates-as-shares-slip-93CH-4963457",
-    "Watchlist|https://www.investing.com/news/stock-market-news/dollar-index-doubletop-below-20sma-eyes-10140-live-levels-93CH-4957919"
+    "Watchlist|https://www.investing.com/news/stock-market-news/dollar-index-doubletop-below-20sma-eyes-10140-live-levels-93CH-4957919",
+    "AI|1aa17eb4-8489-422c-9258-7cb8ab9f43e2",
+    "SG Banks|/companies-markets/consumer-healthcare/hasbro-raises-annual-revenue-forecast-strong-demand-digital-games",
+    "Watchlist|1aa17eb4-8489-422c-9258-7cb8ab9f43e2",
+    "AI|6c444572-a10f-38e2-ae44-758232cf3f92",
+    "Watchlist|6c444572-a10f-38e2-ae44-758232cf3f92",
+    "War|6a21ee00-67b8-39f0-9586-f523416f56f2",
+    "AI|92c3ddd9-1001-38e0-8607-94ed63f6fa98",
+    "Watchlist|92c3ddd9-1001-38e0-8607-94ed63f6fa98",
+    "War|484626e7-efa2-37e6-aa77-4e75f0c6e416",
+    "War|WP-MKTW-0005297501",
+    "AI|77506df0-50b3-3bfc-9cbc-46c836ede032",
+    "AI|WP-MKTW-0005297501",
+    "Cybersecurity|WP-MKTW-0005297501"
   ],
   "topic_error": "",
   "last_digest": "2026-10-21",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792592363.0490685
+  "last_check": 1792593283.2599573
 }
