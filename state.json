@@ -1,26 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|29366be3-efbe-31f9-b237-febec6307d47",
-    "War|606d3839-02e0-3d30-aa3c-964f1fff0123",
-    "AI|29366be3-efbe-31f9-b237-febec6307d47",
-    "AI|8ae1809f-ce4c-38b5-ae5f-9573a5bcf383",
-    "Watchlist|8ae1809f-ce4c-38b5-ae5f-9573a5bcf383",
-    "Crypto|711c500c-e4aa-350e-9e74-f7d8bcdce74f",
-    "AI|898f8ddd-42fd-3226-92c9-445b965f05d2",
-    "AI|https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-010-4958389",
-    "AI|https://www.investing.com/news/stock-market-news/california-settles-23andme-data-breach-claims-for-6-million-4958392",
-    "AI|https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-175-4958393",
-    "AI|https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-012-4958394",
-    "AI|https://www.investing.com/news/economy-news/trading-day-ai-storm-abates-4958391",
-    "AI|https://www.investing.com/news/analyst-ratings/rosenblatt-initiates-sitime-stock-coverage-with-buy-rating-on-mems-tech-93CH-4958402",
-    "AI|https://www.investing.com/news/insider-trading-news/everquote-chief-accounting-officer-sells-9570-in-shares-93CH-4958403",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-rocky-mountain-chocolate-factory-posts-mixed-q2-2027-results-93CH-4958404",
-    "AI|https://www.investing.com/news/insider-trading-news/roku-cfo--coo-jedda-dan-sells-107-million-in-stock-93CH-4958407",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-bitdeer-technologies-stock-rallying-after-the-close-today-93CH-4958384",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-tradeweb-markets-stock-rising-afterhours-today-93CH-4958385",
-    "Cybersecurity|898f8ddd-42fd-3226-92c9-445b965f05d2",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-010-4958389",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/california-settles-23andme-data-breach-claims-for-6-million-4958392",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-175-4958393",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-012-4958394",
@@ -5000,7 +4980,27 @@
     "SG Banks|/companies-markets/global-hedge-funds-hammered-ai-sell-week-asia-managers-lead-losses",
     "SG Banks|https://www.straitstimes.com/business/companies-markets/nasdaq-climbs-as-us-chip-and-ai-linked-stocks-bounce-back",
     "Watchlist|WP-MKTW-0004255367",
-    "SG Banks|https://www.channelnewsasia.com/business/japan-wage-driven-inflation-phase-6477281"
+    "SG Banks|https://www.channelnewsasia.com/business/japan-wage-driven-inflation-phase-6477281",
+    "War|21e9ee4c-de0a-3608-8807-825832cb8595",
+    "AI|3fd4fa7d-6bd5-3b0c-8f77-6ef7366b1f45",
+    "AI|263cac7d-b1ec-34a3-8620-ab83c2cceedf",
+    "Watchlist|263cac7d-b1ec-34a3-8620-ab83c2cceedf",
+    "AI|https://www.investing.com/news/stock-market-news/align-partners-discloses-15-stake-in-sk-flags-75-valuation-discount--report-4961538",
+    "AI|https://www.investing.com/news/economy-news/rba-nov-rate-hike-bets-surge-to-over-50-after-hauser-warning-on-inflation-4961541",
+    "AI|https://www.investing.com/news/stock-market-news/starbucks-china-to-require-purchases-for-seating-report-says-93CH-4961542",
+    "AI|https://www.investing.com/news/economy-news/morning-bid-tesla-may-get-rocket-boosters-for-real-this-time-4961543",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/align-partners-discloses-15-stake-in-sk-flags-75-valuation-discount--report-4961538",
+    "Cybersecurity|https://www.investing.com/news/economy-news/rba-nov-rate-hike-bets-surge-to-over-50-after-hauser-warning-on-inflation-4961541",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/starbucks-china-to-require-purchases-for-seating-report-says-93CH-4961542",
+    "Cybersecurity|https://www.investing.com/news/economy-news/morning-bid-tesla-may-get-rocket-boosters-for-real-this-time-4961543",
+    "SG Banks|https://www.investing.com/news/stock-market-news/align-partners-discloses-15-stake-in-sk-flags-75-valuation-discount--report-4961538",
+    "SG Banks|https://www.investing.com/news/economy-news/rba-nov-rate-hike-bets-surge-to-over-50-after-hauser-warning-on-inflation-4961541",
+    "SG Banks|https://www.investing.com/news/stock-market-news/starbucks-china-to-require-purchases-for-seating-report-says-93CH-4961542",
+    "SG Banks|https://www.investing.com/news/economy-news/morning-bid-tesla-may-get-rocket-boosters-for-real-this-time-4961543",
+    "Watchlist|https://www.investing.com/news/stock-market-news/align-partners-discloses-15-stake-in-sk-flags-75-valuation-discount--report-4961538",
+    "Watchlist|https://www.investing.com/news/economy-news/rba-nov-rate-hike-bets-surge-to-over-50-after-hauser-warning-on-inflation-4961541",
+    "Watchlist|https://www.investing.com/news/stock-market-news/starbucks-china-to-require-purchases-for-seating-report-says-93CH-4961542",
+    "Watchlist|https://www.investing.com/news/economy-news/morning-bid-tesla-may-get-rocket-boosters-for-real-this-time-4961543"
   ],
   "topic_error": "",
   "last_digest": "2026-10-21",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792557475.0928025
+  "last_check": 1792558397.4300468
 }
