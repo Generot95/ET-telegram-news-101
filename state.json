@@ -1,17 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|WP-MKTW-0005294198",
-    "AI|WP-MKTW-0005294198",
-    "Cybersecurity|WP-MKTW-0005294198",
-    "War|WP-MKTW-0005295035",
-    "Iran|https://www.iranintl.com/en/202610163777",
-    "AI|WP-MKTW-0005295035",
-    "Cybersecurity|WP-MKTW-0005295035",
-    "AI|182682bb-dbc4-3bd4-b60c-22a5894e3685",
-    "SG Banks|e5d9f713-2271-3aca-a403-04c4f36c7aa5",
-    "Watchlist|182682bb-dbc4-3bd4-b60c-22a5894e3685",
-    "Watchlist|24ab7e27-a0cf-398e-9555-b48ce007067f",
     "SG Banks|WP-MKTW-0003041256",
     "AI|fd47deec-0d2c-3d85-af71-8e0a59c76bf7",
     "Crypto|dc42a4d5-033b-38e8-967c-cef9cfdccf4a",
@@ -5000,7 +4989,18 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/ferguson-enterprises-cso-jake-schlicher-sells-118369-in-stock-93CH-4961392",
     "Watchlist|https://www.investing.com/news/company-news/29metals-q3-2026-slides-output-falls-costs-rise-amid-transition-93CH-4961394",
     "Watchlist|https://www.investing.com/news/earnings/alaska-air-earnings-missed-by-006-revenue-was-in-line-with-estimates-4961395",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-coils-at-81908-live-levels-93CH-4958174"
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-coils-at-81908-live-levels-93CH-4958174",
+    "SG Banks|https://www.channelnewsasia.com/business/musk-says-spacex-tesla-merger-good-idea-companies-form-deal-committees-6476721",
+    "War|a8c036f1-c532-3cd9-b852-1f5556750342",
+    "SG Banks|/companies-markets/stocks-watch-singtel-wee-hur",
+    "SG Banks|/companies-markets/dbs-says-parent-jardine-matheson-better-buy-it-downgrades-jmsea",
+    "Watchlist|/companies-markets/stocks-watch-singtel-wee-hur",
+    "Watchlist|/companies-markets/dbs-says-parent-jardine-matheson-better-buy-it-downgrades-jmsea",
+    "Iran|https://www.iranintl.com/en/202610163777",
+    "AI|1d41689d-713a-37c0-8897-a90f9490a37b",
+    "Watchlist|1d41689d-713a-37c0-8897-a90f9490a37b",
+    "War|3a0bb122-e339-3440-80c8-1c0e62b1bc71",
+    "SG Banks|e5d9f713-2271-3aca-a403-04c4f36c7aa5"
   ],
   "topic_error": "",
   "last_digest": "2026-10-21",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792541908.2432487
+  "last_check": 1792542829.5464785
 }
