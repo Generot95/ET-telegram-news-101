@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/laurel-lee-from-floridas-15th-district-sells-bank-of-america-stocks-buys-nokia-93CH-4958376",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/3m-stock-rises-3-on-6b-amazon-data-center-deal-4958375",
-    "Cybersecurity|https://www.investing.com/news/earnings/smartfinancial-inc-earnings-beat-by-014-revenue-fell-short-of-estimates-4958378",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-steel-dynamics-stock-sliding-today-93CH-4958379",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-crown-stock-sliding-afterhours-today-93CH-4958380",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/germanys-merz-urges-ai-investment-ahead-of-nvidia-deal-4958229",
     "Cybersecurity|https://www.investing.com/news/company-news/standex-appoints-samantha-stoddard-as-cfo-effective-dec-1-93CH-4958382",
@@ -5000,7 +4996,11 @@
     "SG Banks|/companies-markets/telcos-media-tech/will-monee-ipo-spinoff-fatten-wallets-sea-investors-dbs-weighs",
     "Watchlist|/companies-markets/telcos-media-tech/will-monee-ipo-spinoff-fatten-wallets-sea-investors-dbs-weighs",
     "SG Banks|/companies-markets/reits-property/positive-pivot-or-premature-analysts-split-keppel-reits-s610-9-million-buy",
-    "Watchlist|/companies-markets/reits-property/positive-pivot-or-premature-analysts-split-keppel-reits-s610-9-million-buy"
+    "Watchlist|/companies-markets/reits-property/positive-pivot-or-premature-analysts-split-keppel-reits-s610-9-million-buy",
+    "War|f380530c-4aac-3c22-908e-637c507cf544",
+    "AI|f710442c-3953-34f5-ac89-210605b1b72c",
+    "SG Banks|https://www.channelnewsasia.com/business/state-bank-india-reports-cyberattack-involving-customer-records-6477746",
+    "AI|ece55e13-87ab-34d9-aa91-4606ae016fd3"
   ],
   "topic_error": "",
   "last_digest": "2026-10-21",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792553816.0022857
+  "last_check": 1792554730.2443402
 }
