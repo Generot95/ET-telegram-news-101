@@ -1,23 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|6d7a2fb0-90a7-3ac1-b8ec-1dc48b1c88ac",
-    "Watchlist|aa62a300-4fb8-319d-9d9c-884e166009b3",
-    "Watchlist|087a1dc0-343c-3f97-a056-9f4f8ceb268c",
-    "Watchlist|6d7a2fb0-90a7-3ac1-b8ec-1dc48b1c88ac",
-    "AI|d8d6090b-3a8b-32ae-abe3-fa09afc778db",
-    "Crypto|2f956869-3866-3961-9637-8310c132f85c",
-    "Cybersecurity|61c5b9a7-cbb5-3e87-856c-f21a234e8a59",
-    "Watchlist|d8d6090b-3a8b-32ae-abe3-fa09afc778db",
-    "AI|08dabc3d-aea4-33db-a962-d09322af6120",
-    "Watchlist|08dabc3d-aea4-33db-a962-d09322af6120",
-    "AI|725870ea-bebd-3a3c-8b9a-9fc8abe84090",
-    "Watchlist|725870ea-bebd-3a3c-8b9a-9fc8abe84090",
-    "Iran|https://www.iranintl.com/en/202610205886",
-    "AI|4663403e-e24f-3c1b-b21f-ed965c71a04f",
-    "AI|https://www.investing.com/news/stock-market-news/italys-top-court-reviews-steelworks-shutdown-case-93CH-4959157",
-    "AI|https://www.investing.com/news/stock-market-news/investors-hedge-ai-boom-with-credit-default-swaps-on-tech-debt-93CH-4959158",
-    "AI|https://www.investing.com/news/company-news/tele2-q3-2026-slides-record-cash-flow-offsets-earnings-miss-93CH-4959159",
     "AI|https://www.investing.com/news/stock-market-news/why-is-schneider-electric-stock-sliding-today-93CH-4959160",
     "AI|https://www.investing.com/news/company-news/fda-approves-new-manufacturing-process-for-alvotech-biosimilar-93CH-4959161",
     "AI|https://www.investing.com/news/analyst-ratings/jefferies-cuts-xcel-energy-stock-price-target-on-regulatory-risks-93CH-4959162",
@@ -5000,7 +4983,24 @@
     "AI|7caf99c3-816b-36f3-8b90-e08fea22398d",
     "SG Banks|/companies-markets/capital-markets-currencies/singapore-shares-end-higher-led-gains-local-banks-sti-0-6",
     "Watchlist|/companies-markets/capital-markets-currencies/singapore-shares-end-higher-led-gains-local-banks-sti-0-6",
-    "Watchlist|a1499496-1c47-3836-b644-5be22a7fa72b"
+    "Watchlist|a1499496-1c47-3836-b644-5be22a7fa72b",
+    "AI|437788e7-5fdc-34bb-8c41-344dabfea348",
+    "AI|a6f53aae-372e-3736-922a-3658e5f6661c",
+    "AI|daf3c6cb-24ae-3130-8a3c-85140f745237",
+    "AI|7485b722-3ce9-3482-b2a1-a8587e1d3357",
+    "Watchlist|437788e7-5fdc-34bb-8c41-344dabfea348",
+    "Watchlist|a6f53aae-372e-3736-922a-3658e5f6661c",
+    "Watchlist|daf3c6cb-24ae-3130-8a3c-85140f745237",
+    "Watchlist|7485b722-3ce9-3482-b2a1-a8587e1d3357",
+    "SG Banks|https://www.channelnewsasia.com/business/att-raises-annual-profit-forecast-strong-demand-bundled-plans-6478646",
+    "AI|59a9bf54-8526-3f9f-8406-6f981012116d",
+    "Watchlist|59a9bf54-8526-3f9f-8406-6f981012116d",
+    "SG Banks|https://www.channelnewsasia.com/business/tesla-spacex-deal-wall-st-says-inevitable-musk-says-its-not-certain-6478671",
+    "War|e69e6fd1-c022-383b-b591-9d90a17cc641",
+    "Crypto|72f72964-c15b-3001-b8df-9b084db4657e",
+    "Iran|https://www.iranintl.com/en/202610205886",
+    "AI|55c60282-a3d0-3be4-af3e-e538841f05c1",
+    "Watchlist|55c60282-a3d0-3be4-af3e-e538841f05c1"
   ],
   "topic_error": "",
   "last_digest": "2026-10-21",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792578582.672964
+  "last_check": 1792579504.4614403
 }
