@@ -1,17 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/lois-zabrocky-international-seaways-ceo-sells-228k-in-stock-93CH-4958674",
-    "Cybersecurity|https://www.investing.com/news/economic-indicators/chinas-september-us-soybean-imports-rebound-from-zero-a-year-earlier-data-shows-4958675",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/exclusiveindia-probingpernod-diageo-scotch-imports-under-indiauk-trade-pact-sources-say-4957842",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/micron-union-in-taiwan-to-launch-strike-as-bonus-dispute-escalates-4958678",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/retail-sold-off-in-q3-but-this-aipicked-apparel-stock-is-up-1881-4958679",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/us-to-launch-8-billion-support-program-for-farmers-to-offset-diesel-costs-trump-says-4958688",
-    "Cybersecurity|https://www.investing.com/news/economy-news/asian-shares-tumble-oil-rises-as-markets-await-ai-sector-results-4958677",
-    "SG Banks|https://www.investing.com/news/stock-market-news/starboard-targets-solstice-with-100-million-costcut-push-after-failed-deal--ft-4958668",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/lois-zabrocky-international-seaways-ceo-sells-228k-in-stock-93CH-4958674",
-    "SG Banks|https://www.investing.com/news/economic-indicators/chinas-september-us-soybean-imports-rebound-from-zero-a-year-earlier-data-shows-4958675",
-    "SG Banks|https://www.investing.com/news/stock-market-news/exclusiveindia-probingpernod-diageo-scotch-imports-under-indiauk-trade-pact-sources-say-4957842",
     "SG Banks|https://www.investing.com/news/stock-market-news/micron-union-in-taiwan-to-launch-strike-as-bonus-dispute-escalates-4958678",
     "SG Banks|https://www.investing.com/news/stock-market-news/retail-sold-off-in-q3-but-this-aipicked-apparel-stock-is-up-1881-4958679",
     "SG Banks|https://www.investing.com/news/commodities-news/us-to-launch-8-billion-support-program-for-farmers-to-offset-diesel-costs-trump-says-4958688",
@@ -5000,7 +4989,18 @@
     "SG Banks|https://www.straitstimes.com/business/companies-markets/spore-listed-first-resources-pledges-cooperation-with-authorities-over-haze",
     "SG Banks|https://www.straitstimes.com/business/honeywell-aerospace-sees-business-aviation-growth-on-rising-aircraft-use",
     "Watchlist|/companies-markets/capital-markets-currencies/south-korea-japan-shares-fall-asian-stocks-decline-break-us-chip-rally",
-    "Watchlist|/singapore/most-singapore-households-expect-inflation-rise-over-next-year-survey"
+    "Watchlist|/singapore/most-singapore-households-expect-inflation-rise-over-next-year-survey",
+    "AI|e7d76932-ae37-3ca9-9bad-ef5351ecd57b",
+    "Watchlist|e7d76932-ae37-3ca9-9bad-ef5351ecd57b",
+    "SG Banks|/companies-markets/telcos-media-tech/taiwan-regulator-blocks-grabs-purchase-foodpanda-delivery-business-taiwan",
+    "Watchlist|/companies-markets/telcos-media-tech/taiwan-regulator-blocks-grabs-purchase-foodpanda-delivery-business-taiwan",
+    "AI|28d94bfc-df84-353a-986b-1adb73898a0e",
+    "AI|e80e4fc0-fd56-3b61-9473-3cc521444518",
+    "AI|c541c16e-d53f-3a78-bacb-7ac6447c9596",
+    "Crypto|4ce05a6f-c849-3cd9-8fbd-9c82ce70bec5",
+    "Watchlist|28d94bfc-df84-353a-986b-1adb73898a0e",
+    "Watchlist|e80e4fc0-fd56-3b61-9473-3cc521444518",
+    "Watchlist|c541c16e-d53f-3a78-bacb-7ac6447c9596"
   ],
   "topic_error": "",
   "last_digest": "2026-10-21",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792570289.1272259
+  "last_check": 1792571210.070465
 }
