@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|06f3ff5b-3833-346b-a07c-37383cfc8f51",
-    "Crypto|9150eea2-28c4-3e3b-8501-f2cc4336efec",
-    "Crypto|4ceaa332-1f79-3be9-9665-b04af313e46c",
-    "Watchlist|e45a9c72-97a6-3a69-bd0e-cc03c5144984",
-    "Watchlist|8d651072-39ba-33a2-a8e9-7281b6e14b31",
-    "Watchlist|06f3ff5b-3833-346b-a07c-37383cfc8f51",
-    "War|73646546-79a1-33af-be7c-7b15938dfb82",
-    "Crypto|60fb3f6c-aaa2-3473-ac54-1b93e60070a4",
-    "AI|bd268b0e-f566-30fa-a0a3-7e11763456bb",
-    "War|1bfa4abd-0346-329e-ba4a-a25eb7c67875",
     "War|532fed2f-b605-3284-ae16-9bb1b9b6daaa",
     "AI|ea16d93d-c60d-3d99-890d-24de8d46d153",
     "Watchlist|ea16d93d-c60d-3d99-890d-24de8d46d153",
@@ -5000,7 +4990,17 @@
     "Cybersecurity|317a470d-199c-3e8e-afe4-687dac9a5ae2",
     "SG Banks|/companies-markets/capital-markets-currencies/euro-drops-amid-high-energy-prices-and-street-riots-france",
     "Watchlist|/companies-markets/capital-markets-currencies/euro-drops-amid-high-energy-prices-and-street-riots-france",
-    "AI|0710b4ba-f68f-39b9-8903-e5783748db10"
+    "AI|0710b4ba-f68f-39b9-8903-e5783748db10",
+    "AI|c433650a-2dbf-342c-ae54-71ca42639fce",
+    "Watchlist|c433650a-2dbf-342c-ae54-71ca42639fce",
+    "AI|a40c2984-e6f6-38e1-9259-3c16f97f8496",
+    "AI|cc5ad021-95c6-3bb1-b00c-c20c3c5860dd",
+    "Watchlist|cc5ad021-95c6-3bb1-b00c-c20c3c5860dd",
+    "War|7ec245f7-da57-34ca-aee1-811d65512709",
+    "Crypto|8540f77f-c037-3563-a307-ffd9fb7feadc",
+    "Watchlist|20851175-285d-396c-aa41-c21f9df49f45",
+    "AI|04d88928-0791-3060-adff-8d7fc04b948d",
+    "Watchlist|04d88928-0791-3060-adff-8d7fc04b948d"
   ],
   "topic_error": "",
   "last_digest": "2026-10-21",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792611601.848953
+  "last_check": 1792612502.7268693
 }
