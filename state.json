@@ -1,21 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/tradeweb-stock-tumbles-11-on-197-billion-trumid-deal-4958331",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/clover-health-ceo-sells-85517-in-stock-for-tax-obligations-93CH-4958338",
-    "Watchlist|https://www.investing.com/news/forex-news/colombias-peso-hits-onemonth-high-on-rate-outlook-93CH-4958339",
-    "Watchlist|https://www.investing.com/news/earnings/fnb-corp-falls-3-after-posting-inline-q3-earnings-as-expenses-rise-93CH-4958341",
-    "Watchlist|https://www.investing.com/news/stock-market-news/us-treasury-yields-rise-as-ai-stock-worries-ease-93CH-4958342",
-    "Watchlist|https://www.investing.com/news/earnings/wintrust-earnings-beat-by-006-revenue-topped-estimates-4958345",
-    "Watchlist|https://www.investing.com/news/company-news/freightcar-cuts-2026-outlook-after-removing-tank-car-order-93CH-4958346",
-    "Watchlist|https://www.investing.com/news/earnings/bok-financial-beats-q3-earnings-estimates-as-net-interest-income-increases-93CH-4958347",
-    "AI|9394095c-76f3-388c-a801-ec864dc245fe",
-    "AI|b2ce6003-676d-3c3f-8d01-5c0b3fb17410",
-    "AI|90c5b379-816b-345a-856b-aeef23f59e12",
-    "SG Banks|/companies-markets/deluge-ipo-3-86-times-subscribed-ahead-sgx-debut",
-    "Watchlist|9394095c-76f3-388c-a801-ec864dc245fe",
-    "Watchlist|b2ce6003-676d-3c3f-8d01-5c0b3fb17410",
-    "Watchlist|90c5b379-816b-345a-856b-aeef23f59e12",
     "Watchlist|9371fc34-50ed-3c07-ae8e-fb5e894e386d",
     "Watchlist|600418d0-68b4-3242-99ca-46e76af0a621",
     "Watchlist|c8ce77c9-9742-37f7-8f85-c76c131be7d8",
@@ -5000,7 +4985,22 @@
     "SG Banks|/companies-markets/capital-markets-currencies/south-korea-japan-shares-rise-asian-stocks-climb-strong-earnings-buoy-wall-street",
     "Watchlist|/companies-markets/capital-markets-currencies/south-korea-japan-shares-rise-asian-stocks-climb-strong-earnings-buoy-wall-street",
     "AI|415ab0a2-fa87-3c0d-9f5e-57f134ddea14",
-    "Watchlist|415ab0a2-fa87-3c0d-9f5e-57f134ddea14"
+    "Watchlist|415ab0a2-fa87-3c0d-9f5e-57f134ddea14",
+    "AI|https://www.investing.com/news/stock-market-news/openai-says-its-ai-agents-weakened-internal-monitoring-system-4961503",
+    "AI|https://www.investing.com/news/stock-market-news/tesla-supplier-catl-shares-plunge-after-disappointing-q3-results-4961507",
+    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-westgold-resources-lifts-output-in-q1-2026-as-stock-rises-93CH-4961508",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/openai-says-its-ai-agents-weakened-internal-monitoring-system-4961503",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/tesla-supplier-catl-shares-plunge-after-disappointing-q3-results-4961507",
+    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-westgold-resources-lifts-output-in-q1-2026-as-stock-rises-93CH-4961508",
+    "SG Banks|https://www.investing.com/news/company-news/alpha-teknova-prices-40-million-stock-offering-at-5share-93CH-4961501",
+    "SG Banks|https://www.investing.com/news/stock-market-news/openai-says-its-ai-agents-weakened-internal-monitoring-system-4961503",
+    "SG Banks|https://www.investing.com/news/stock-market-news/tesla-supplier-catl-shares-plunge-after-disappointing-q3-results-4961507",
+    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-westgold-resources-lifts-output-in-q1-2026-as-stock-rises-93CH-4961508",
+    "Watchlist|https://www.investing.com/news/company-news/alpha-teknova-prices-40-million-stock-offering-at-5share-93CH-4961501",
+    "Watchlist|https://www.investing.com/news/stock-market-news/openai-says-its-ai-agents-weakened-internal-monitoring-system-4961503",
+    "Watchlist|https://www.investing.com/news/stock-market-news/tesla-supplier-catl-shares-plunge-after-disappointing-q3-results-4961507",
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-westgold-resources-lifts-output-in-q1-2026-as-stock-rises-93CH-4961508",
+    "SG Banks|https://www.straitstimes.com/business/singapores-dayone-said-to-weigh-options-for-us-ipo-after-data-centre-rout"
   ],
   "topic_error": "",
   "last_digest": "2026-10-21",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792551062.398196
+  "last_check": 1792551990.6588702
 }
