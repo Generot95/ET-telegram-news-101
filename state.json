@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/ball-names-new-presidents-for-beverage-packaging-units-93CH-4958315",
-    "AI|https://www.investing.com/news/company-news/jeldwen-cfo-to-resign-names-interim-replacement-93CH-4958316",
-    "AI|https://www.investing.com/news/company-news/bitdeer-secures-17b-in-ai-data-center-contracts-in-malaysia-93CH-4958317",
-    "AI|https://www.investing.com/news/company-news/tradeweb-to-acquire-trumid-for-197-billion-in-cash-and-equity-93CH-4958328",
-    "AI|https://www.investing.com/news/company-news/home-bancorp-ceo-bordelon-to-retire-guidry-to-succeed-him-93CH-4958329",
     "AI|https://www.investing.com/news/company-news/karooooo-reports-25-revenue-growth-in-second-quarter-93CH-4958330",
     "Crypto|f21795d4-f2e3-3651-b5de-6f4ab4297198",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/tradeweb-stock-tumbles-11-on-197-billion-trumid-deal-4958331",
@@ -5000,7 +4995,12 @@
     "Iran|https://www.iranintl.com/en/202610152920",
     "SG Banks|https://www.straitstimes.com/business/ambanis-jio-seeks-historic-ipo-a-decade-after-disrupting-india-telecom",
     "SG Banks|/companies-markets/energy-commodities/oil-rises-middle-east-supply-worries-iran-ship-attacks-spread-beyond-hormuz",
-    "Watchlist|/companies-markets/energy-commodities/oil-rises-middle-east-supply-worries-iran-ship-attacks-spread-beyond-hormuz"
+    "Watchlist|/companies-markets/energy-commodities/oil-rises-middle-east-supply-worries-iran-ship-attacks-spread-beyond-hormuz",
+    "AI|20c7234f-8159-304f-bd56-53f6c7c9f063",
+    "Watchlist|20c7234f-8159-304f-bd56-53f6c7c9f063",
+    "War|74d24529-703c-39b6-90e6-8d22c6a6e4d8",
+    "AI|b98be1d0-1676-32b7-bf25-a319349e0acf",
+    "Watchlist|b98be1d0-1676-32b7-bf25-a319349e0acf"
   ],
   "topic_error": "",
   "last_digest": "2026-10-21",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792549228.5411768
+  "last_check": 1792550155.9615357
 }
