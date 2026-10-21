@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/maximus-to-acquire-agile-defense-for-660-million-in-cash-93CH-4958367",
-    "AI|https://www.investing.com/news/company-news/axion-minerals-begins-exploration-at-cranberry-creek-ree-property-93CH-4958370",
-    "AI|https://www.investing.com/news/company-news/vivos-therapeutics-acquires-stake-in-sod-sciences-93CH-4958383",
-    "Cybersecurity|https://www.investing.com/news/company-news/firstservices-century-fire-acquires-aa-fire-protection-93CH-4958369",
-    "Cybersecurity|https://www.investing.com/news/company-news/northern-discovery-metals-announces-private-placement-of-up-to-c15m-93CH-4958368",
-    "Cybersecurity|https://www.investing.com/news/earnings/zions-earnings-beat-by-012-revenue-fell-short-of-estimates-4958372",
     "Cybersecurity|https://www.investing.com/news/company-news/laurel-lee-from-floridas-15th-district-sells-bank-of-america-stocks-buys-nokia-93CH-4958376",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/3m-stock-rises-3-on-6b-amazon-data-center-deal-4958375",
     "Cybersecurity|https://www.investing.com/news/earnings/smartfinancial-inc-earnings-beat-by-014-revenue-fell-short-of-estimates-4958378",
@@ -5000,7 +4994,13 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-surging-today-93CH-4961515",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-minimax-stock-climbing-today-93CH-4961516",
     "Watchlist|https://www.investing.com/news/stock-market-news/woodside-energy-cuts-2026-production-forecast-q3-revenue-rises-93CH-4961517",
-    "SG Banks|https://www.channelnewsasia.com/east-asia/china-deepseek-us-ban-ai-government-systems-6477686"
+    "SG Banks|https://www.channelnewsasia.com/east-asia/china-deepseek-us-ban-ai-government-systems-6477686",
+    "SG Banks|/companies-markets/banking-finance/dbs-paylah-rolls-out-qr-payments-taiwan",
+    "Watchlist|/companies-markets/banking-finance/dbs-paylah-rolls-out-qr-payments-taiwan",
+    "SG Banks|/companies-markets/telcos-media-tech/will-monee-ipo-spinoff-fatten-wallets-sea-investors-dbs-weighs",
+    "Watchlist|/companies-markets/telcos-media-tech/will-monee-ipo-spinoff-fatten-wallets-sea-investors-dbs-weighs",
+    "SG Banks|/companies-markets/reits-property/positive-pivot-or-premature-analysts-split-keppel-reits-s610-9-million-buy",
+    "Watchlist|/companies-markets/reits-property/positive-pivot-or-premature-analysts-split-keppel-reits-s610-9-million-buy"
   ],
   "topic_error": "",
   "last_digest": "2026-10-21",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792552909.4575913
+  "last_check": 1792553816.0022857
 }
