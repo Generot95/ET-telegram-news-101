@@ -1,21 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/earnings/anglo-american-q3-copper-output-falls-5-on-chile-weather-diamond-outlook-raised-4958898",
-    "Iran|https://www.iranintl.com/en/202610157450",
-    "SG Banks|/companies-markets/us-stocks-wall-street-ends-down-sharply-worries-about-ai-trade-high-oil-prices-weigh",
-    "Watchlist|/companies-markets/us-stocks-wall-street-ends-down-sharply-worries-about-ai-trade-high-oil-prices-weigh",
-    "SG Banks|/companies-markets/s-reits-commence-q3-earnings-season-interest-rates-remain-focus",
-    "SG Banks|/companies-markets/insider-stakes-rise-alongside-s40-million-buybacks",
-    "SG Banks|/companies-markets/assembly-place-expands-beyond-co-living-it-targets-10000-keys-2030",
-    "SG Banks|/companies-markets/sea-starts-enterprise-cloud-foray-while-eyeing-fintech-arm-ipo",
-    "Watchlist|/companies-markets/sea-starts-enterprise-cloud-foray-while-eyeing-fintech-arm-ipo",
-    "Watchlist|/companies-markets/s-reits-commence-q3-earnings-season-interest-rates-remain-focus",
-    "Watchlist|/companies-markets/insider-stakes-rise-alongside-s40-million-buybacks",
-    "Watchlist|/companies-markets/assembly-place-expands-beyond-co-living-it-targets-10000-keys-2030",
-    "AI|2470de50-e9eb-36ba-8f9e-e1904e688ff9",
-    "Watchlist|2470de50-e9eb-36ba-8f9e-e1904e688ff9",
-    "War|49a4ef1a-361a-3fbc-ad36-f2ad2b2c3cf1",
     "SG Banks|/companies-markets/taobao-plans-deepens-its-presence-singapore-injects-100-million-yuan-local-marketing-push",
     "Watchlist|/companies-markets/taobao-plans-deepens-its-presence-singapore-injects-100-million-yuan-local-marketing-push",
     "War|1b9e14e3-e878-342b-a367-6d65391a178d",
@@ -5000,7 +4985,22 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/evercore-comments-on-amazon-day-takeaways-93CH-4962100",
     "Watchlist|https://www.investing.com/news/economy-news/french-10year-bond-yields-hit-5-highest-since-2002-4962104",
     "Watchlist|https://www.investing.com/news/earnings/riyad-bank-posts-9-earnings-beat-on-strong-fee-income-growth-shares-gain-93CH-4962105",
-    "War|https://www.investing.com/news/commodities-news/as-france-erupts-europes-far-right-gains-from-fuelprice-anger-ahead-of-elections-4958835"
+    "War|https://www.investing.com/news/commodities-news/as-france-erupts-europes-far-right-gains-from-fuelprice-anger-ahead-of-elections-4958835",
+    "SG Banks|https://www.straitstimes.com/business/ocbc-to-let-customers-hold-malaysian-ringgit-in-singapore-savings-accounts-from-oct-23",
+    "War|0bce3b69-4bef-33d1-b724-2de17d936197",
+    "Iran|https://www.iranintl.com/en/202610157450",
+    "AI|b71247b7-cd36-3e14-a91a-d20827e4ebad",
+    "Watchlist|b71247b7-cd36-3e14-a91a-d20827e4ebad",
+    "AI|c11658e2-6384-3dc4-a218-428b3e23ccd2",
+    "AI|2c35e00c-f7b3-3a55-8a98-f50ff7dc018d",
+    "AI|141e5e87-94ef-35ce-b323-94d510f77fde",
+    "AI|a305f150-b72d-3c1f-a2fd-280a302ee7f7",
+    "Watchlist|2c35e00c-f7b3-3a55-8a98-f50ff7dc018d",
+    "Watchlist|141e5e87-94ef-35ce-b323-94d510f77fde",
+    "Watchlist|a305f150-b72d-3c1f-a2fd-280a302ee7f7",
+    "Watchlist|58591454-a715-3dda-8aa8-1a32e8779a92",
+    "SG Banks|/companies-markets/sea-starts-enterprise-cloud-foray-while-eyeing-fintech-arm-ipo",
+    "Watchlist|/companies-markets/sea-starts-enterprise-cloud-foray-while-eyeing-fintech-arm-ipo"
   ],
   "topic_error": "",
   "last_digest": "2026-10-21",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792574911.9723933
+  "last_check": 1792575821.5729198
 }
