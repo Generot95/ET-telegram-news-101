@@ -1,23 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/citadel-securities-considers-fixedincome-expansion-to-fill-gaps--bloomberg-93CH-4960706",
-    "SG Banks|https://www.investing.com/news/stock-market-news/brazils-azul-sees-longer-recovery-as-fuel-costs-squeeze-margins-after-chapter-11-4959241",
-    "SG Banks|https://www.investing.com/news/company-news/steel-dynamics-q3-2026-slides-record-shipments-aluminum-ramp-ongoing-93CH-4960710",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-msci-tops-q3-2026-estimates-as-stock-rises-41-93CH-4960711",
-    "Watchlist|https://www.investing.com/news/earnings/michelin-maintains-guidance-as-price-hikes-and-highvalue-mix-offset-oe-drop-4960699",
-    "Watchlist|https://www.investing.com/news/company-news/accenture-acquires-construction-tech-consultancy-avicado-93CH-4960700",
-    "Watchlist|https://www.investing.com/news/company-news/wintrust-q3-2026-slides-record-profit-streak-hits-seven-quarters-93CH-4960704",
-    "Watchlist|https://www.investing.com/news/stock-market-news/citadel-securities-considers-fixedincome-expansion-to-fill-gaps--bloomberg-93CH-4960706",
-    "Watchlist|https://www.investing.com/news/stock-market-news/brazils-azul-sees-longer-recovery-as-fuel-costs-squeeze-margins-after-chapter-11-4959241",
-    "Watchlist|https://www.investing.com/news/company-news/steel-dynamics-q3-2026-slides-record-shipments-aluminum-ramp-ongoing-93CH-4960710",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-msci-tops-q3-2026-estimates-as-stock-rises-41-93CH-4960711",
-    "SG Banks|/companies-markets/banking-finance/fed-sees-ai-boom-adding-inflation-headache",
-    "Watchlist|/companies-markets/banking-finance/fed-sees-ai-boom-adding-inflation-headache",
-    "AI|6c1f2ce5-9ba5-3b9f-841b-20ad20e7e3b6",
-    "Watchlist|6c1f2ce5-9ba5-3b9f-841b-20ad20e7e3b6",
-    "Crypto|02288c86-de8b-3612-97fe-7ffd43268a21",
-    "Crypto|6b062324-f934-379d-a171-873f2f8c444e",
     "Crypto|3225aa97-0e16-41fd-aff1-81eba55e0ed6",
     "AI|4382ce70-c174-3f7f-866b-2c3fd382c825",
     "Watchlist|4382ce70-c174-3f7f-866b-2c3fd382c825",
@@ -5000,7 +4983,24 @@
     "Watchlist|https://www.investing.com/news/transcripts/ten-holdings-at-ld-micro-20th-annual-main-event-conference-saas-push-93CH-4963812",
     "Watchlist|https://www.investing.com/news/stock-market-news/blackrock-adds-robotics-etf-to-growing-ranks-of-aithemed-products-4963809",
     "Watchlist|https://www.investing.com/news/stock-market-news/britain-regulator-ends-home-reit-probe-defers-to-fraud-office-93CH-4963814",
-    "Watchlist|https://www.investing.com/news/press-releases/lmscapitalgroup-announces-advances-in-trading-execution-through-unified-data-layers-and-ai-automation-4963816"
+    "Watchlist|https://www.investing.com/news/press-releases/lmscapitalgroup-announces-advances-in-trading-execution-through-unified-data-layers-and-ai-automation-4963816",
+    "Crypto|3bfc64f0-2f24-3d88-8cac-e1636283dadb",
+    "Watchlist|3cb9e8ae-4da0-30bd-9cec-6a0531abd9df",
+    "AI|05f3069d-b550-36a1-a404-e68c4eb850d4",
+    "Watchlist|05f3069d-b550-36a1-a404-e68c4eb850d4",
+    "Crypto|7828e71d-b358-306e-8b2a-45af2eedb3e5",
+    "Watchlist|9b7ad2cf-e7b2-3e0e-916f-aa4f829b4230",
+    "Watchlist|ade5dc22-e5e5-376f-bf2e-acfb2c64f576",
+    "War|f1aed4a7-d210-3723-b86a-29b34694d437",
+    "AI|9b7ad2cf-e7b2-3e0e-916f-aa4f829b4230",
+    "AI|ade5dc22-e5e5-376f-bf2e-acfb2c64f576",
+    "Crypto|3956bd12-245c-3d78-85b2-5e97427c0320",
+    "AI|bfa0b3ec-8c39-33cb-87bf-966bea041642",
+    "SG Banks|/companies-markets/banking-finance/fed-sees-ai-boom-adding-inflation-headache",
+    "SG Banks|https://www.channelnewsasia.com/business/ea-shutter-bioware-studio-cut-jobs-it-narrows-game-slate-6480136",
+    "Watchlist|/companies-markets/banking-finance/fed-sees-ai-boom-adding-inflation-headache",
+    "AI|77164f06-aafa-3689-b0a4-6f34f2d9302c",
+    "Watchlist|77164f06-aafa-3689-b0a4-6f34f2d9302c"
   ],
   "topic_error": "",
   "last_digest": "2026-10-21",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792607952.7448285
+  "last_check": 1792608856.372354
 }
