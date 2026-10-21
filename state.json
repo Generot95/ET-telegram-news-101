@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/commodities-news/oil-holds-near-fivemonth-high-as-hormuz-attacks-threaten-supply-recovery-4958615",
-    "AI|https://www.investing.com/news/economic-indicators/china-keeps-benchmark-lending-rates-steady-for-17th-straight-month-in-oct-4958616",
-    "AI|https://www.investing.com/news/economy-news/dollar-and-euro-drift-yen-slips-as-markets-seek-direction-4958627",
-    "AI|https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-street-rebounds-on-tech-recovery-4958596",
-    "Cybersecurity|https://www.investing.com/news/company-news/bci-q3-2026-slides-mardie-salt-project-90-done-revenue-nearing-93CH-4958598",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/oil-eases-as-markets-assess-potential-waiver-on-russian-energy-middle-east-supply-risks-4958607",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/dolphin-entertainment-ceo-william-odowd-iv-buys-4916-in-shares-93CH-4958609",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/lindblad-expeditions-director-sells-56m-in-stock-93CH-4958610",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/openai-races-to-raise-30-bln-ahead-of-anthropic-ipo-reuters-reports-4958611",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/oil-holds-near-fivemonth-high-as-hormuz-attacks-threaten-supply-recovery-4958615",
-    "Cybersecurity|https://www.investing.com/news/economic-indicators/china-keeps-benchmark-lending-rates-steady-for-17th-straight-month-in-oct-4958616",
-    "Cybersecurity|https://www.investing.com/news/economy-news/dollar-and-euro-drift-yen-slips-as-markets-seek-direction-4958627",
-    "SG Banks|https://www.investing.com/news/company-news/bci-q3-2026-slides-mardie-salt-project-90-done-revenue-nearing-93CH-4958598",
     "SG Banks|https://www.investing.com/news/commodities-news/oil-eases-as-markets-assess-potential-waiver-on-russian-energy-middle-east-supply-risks-4958607",
     "SG Banks|https://www.investing.com/news/insider-trading-news/dolphin-entertainment-ceo-william-odowd-iv-buys-4916-in-shares-93CH-4958609",
     "SG Banks|https://www.investing.com/news/insider-trading-news/lindblad-expeditions-director-sells-56m-in-stock-93CH-4958610",
@@ -5000,7 +4987,20 @@
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-archer-q3-2026-results-lift-shares-as-debt-worries-grow-93CH-4961757",
     "Watchlist|https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-uk-inflation-quickens-to-35-4961773",
     "Watchlist|https://www.investing.com/news/stock-market-news/raymond-james-names-top-3-picks-in-beauty-stocks-4961774",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/morgan-stanley-downgrades-carrefour-stock-rating-on-french-unrest-impact-93CH-4961775"
+    "Watchlist|https://www.investing.com/news/analyst-ratings/morgan-stanley-downgrades-carrefour-stock-rating-on-french-unrest-impact-93CH-4961775",
+    "SG Banks|/companies-markets/energy-commodities/gold-declines-bond-yields-stay-elevated-despite-oil-drop",
+    "SG Banks|/companies-markets/two-horse-race-openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say",
+    "SG Banks|https://www.straitstimes.com/business/uniqlo-to-raise-average-selling-prices-by-about-4",
+    "SG Banks|https://www.straitstimes.com/business/keppel-reit-to-buy-51-stake-in-keppel-south-central-for-610-9-million",
+    "Watchlist|/companies-markets/energy-commodities/gold-declines-bond-yields-stay-elevated-despite-oil-drop",
+    "Watchlist|/companies-markets/two-horse-race-openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say",
+    "War|cd370fbc-9b30-3419-aedc-3ac46e3fb5eb",
+    "AI|fe862718-68d3-3fbc-bc07-045bfaf89f1e",
+    "Crypto|cd370fbc-9b30-3419-aedc-3ac46e3fb5eb",
+    "SG Banks|https://www.channelnewsasia.com/business/eu-agency-warns-websites-may-need-be-taken-offline-php-prepares-patches-vulnerabilities-6478206",
+    "AI|45c33b81-69be-38de-baf5-df81d60531d4",
+    "Watchlist|45c33b81-69be-38de-baf5-df81d60531d4",
+    "Watchlist|fe862718-68d3-3fbc-bc07-045bfaf89f1e"
   ],
   "topic_error": "",
   "last_digest": "2026-10-21",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792567540.5689898
+  "last_check": 1792568474.6647022
 }
