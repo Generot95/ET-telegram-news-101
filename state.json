@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/eat-well-investment-group-names-matthew-anderson-as-cfo-93CH-4960994",
-    "AI|https://www.investing.com/news/stock-market-news/spacex-quarterly-revenue-jumps-beats-estimates-as-ai-business-surges-4960995",
-    "AI|https://www.investing.com/news/company-news/alpha-teknova-launches-public-offering-of-common-stock-93CH-4960996",
-    "AI|https://www.investing.com/news/sec-filings/tempest-therapeutics-adjourns-special-meeting-sets-reconvened-date-for-november-93CH-4960997",
-    "AI|https://www.investing.com/news/stock-market-news/united-airlines-forecasts-fourthquarter-profit-below-estimates-as-fuel-costs-bite-4960998",
-    "AI|https://www.investing.com/news/stock-market-news/sp-downgrades-dream-finders-to-b-following-22b-acquisition-of-beazer-homes-4960935",
-    "AI|https://www.investing.com/news/stock-market-news/netflix-issues-weak-fourthquarter-forecast-as-company-seeks-to-kickstart-growth-4960954",
-    "AI|https://www.investing.com/news/stock-market-news/united-airlines-falls-on-weak-fourth-quarter-guidance-4960956",
-    "AI|https://www.investing.com/news/stock-market-news/spacex-tops-q3-estimates-as-revenue-surges-161-on-starlink-ai-compute-expansion-4960964",
-    "AI|https://www.investing.com/news/company-news/inhibikase-appoints-scott-wasserman-to-board-of-directors-93CH-4960948",
-    "AI|https://www.investing.com/news/company-news/getty-realty-raises-quarterly-dividend-31-to-050-per-share-93CH-4960987",
-    "AI|https://www.investing.com/news/company-news/inovio-secures-804-million-judgment-against-vgxi-geneone-93CH-4960989",
-    "AI|https://www.investing.com/news/company-news/rollins-increases-quarterly-dividend-by-10-93CH-4960988",
     "Cybersecurity|https://www.investing.com/news/company-news/teknova-reports-preliminary-q3-revenue-of-125127-million-93CH-4960990",
     "Cybersecurity|https://www.investing.com/news/company-news/genedx-plans-to-add-longread-genome-sequencing-to-portfolio-93CH-4960992",
     "Cybersecurity|https://www.investing.com/news/company-news/marsh-prices-12-billion-senior-notes-offering-93CH-4960991",
@@ -5000,7 +4987,20 @@
     "SG Banks|https://www.straitstimes.com/business/companies-markets/data-applications-computing-power-get-the-network-wrong-and-ai-adoption-stalls-tata-communications",
     "Watchlist|/companies-markets/mi-material-focusing-things-we-can-control-it-launches-s215-million-sgx-ipo",
     "SG Banks|https://www.channelnewsasia.com/business/judge-orders-meta-pay-us25-bn-new-mexico-in-cambridge-analytica-case-6479776",
-    "Crypto|8dbc2da3-251d-3a9a-a7fd-3e11cc6857b7"
+    "Crypto|8dbc2da3-251d-3a9a-a7fd-3e11cc6857b7",
+    "AI|c44db3b0-9892-33c2-863f-74b6dc616fdd",
+    "War|WP-MKTW-0005300366",
+    "AI|WP-MKTW-0005300366",
+    "Crypto|20bae8b4-48b2-3983-a085-a2354dafcc4e",
+    "Cybersecurity|WP-MKTW-0005300366",
+    "Watchlist|c44db3b0-9892-33c2-863f-74b6dc616fdd",
+    "AI|de45fa40-a9f8-3ce2-8206-6f76dd6ebdc5",
+    "SG Banks|/companies-markets/capital-markets-currencies/nasdaq-leads-wall-street-gains-spacex-super-micro-boost-ai-sentiment",
+    "Watchlist|/companies-markets/capital-markets-currencies/nasdaq-leads-wall-street-gains-spacex-super-micro-boost-ai-sentiment",
+    "AI|a376a7c9-02de-3e2d-8adf-955550115641",
+    "Watchlist|a376a7c9-02de-3e2d-8adf-955550115641",
+    "Watchlist|5fddf903-0275-387b-8939-f5ff9d6b7fd8",
+    "AI|5fddf903-0275-387b-8939-f5ff9d6b7fd8"
   ],
   "topic_error": "",
   "last_digest": "2026-10-21",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792618937.7334054
+  "last_check": 1792619847.8197103
 }
