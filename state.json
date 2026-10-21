@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/jonathan-jackson-from-illinoiss-1st-congressional-district-invests-in-datadog-and-estee-lauder-93CH-4961169",
-    "AI|https://www.investing.com/news/company-news/michael-rulli-sells-stocks-in-alphabet-inc-and-wesbanco-inc-from-his-roth-ira-93CH-4961173",
-    "AI|https://www.investing.com/news/company-news/l3harris-opens-rocket-motor-facility-in-camden-arkansas-93CH-4961179",
-    "AI|https://www.investing.com/news/company-news/newegg-closes-100-million-credit-facility-with-east-west-bank-93CH-4961180",
-    "AI|https://www.investing.com/news/company-news/surrozen-closes-951-million-financing-tranche-93CH-4961181",
-    "Cybersecurity|https://www.investing.com/news/economy-news/trading-day-oil-reversal-lifts-spirits-4961184",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-msci-stock-price-target-on-strong-quarterly-results-93CH-4961185",
-    "Cybersecurity|https://www.investing.com/news/transcripts/strawberry-fields-at-ld-micro-steady-growth-meets-valuation-gap-93CH-4961186",
-    "Cybersecurity|https://www.investing.com/news/company-news/silvia-announces-costcutting-plan-targeting-10m-in-savings-93CH-4961187",
-    "Cybersecurity|https://www.investing.com/news/company-news/galleon-gold-upsizes-private-placement-with-pan-american-silver-93CH-4961188",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/helsing-nears-investment-in-destinus-stock-at-67-billion-valuation--bloomberg-93CH-4961199",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/musk-ordered-starlink-slowdown-that-blindsided-ukraine-wsj-reports-4961200",
     "Cybersecurity|https://www.investing.com/news/sec-filings/aehr-test-systems-shareholders-elect-directors-and-approve-proposals-at-annual-meeting-93CH-4961201",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/wedbushs-ives-reiterates-outperform-on-spacex-stock-citing-si-growth-93CH-4961202",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/wedbushs-ives-reiterates-in-line-rating-on-netflix-stock-at-75-93CH-4961203",
@@ -5000,7 +4988,19 @@
     "SG Banks|https://www.channelnewsasia.com/business/meta-puts-muse-agent-heart-ai-strategy-plans-new-stock-power-investments-6480286",
     "AI|afe92582-b08f-3326-9a92-f92893deb0b8",
     "AI|c77a728b-a84d-3794-b0ee-61547d530a32",
-    "Watchlist|c77a728b-a84d-3794-b0ee-61547d530a32"
+    "Watchlist|c77a728b-a84d-3794-b0ee-61547d530a32",
+    "AI|https://www.investing.com/news/insider-trading-news/adaptive-biotechnologies-president-and-coo-julie-rubinstein-sells-879088-in-shares-93CH-4964395",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/adaptive-biotechnologies-president-and-coo-julie-rubinstein-sells-879088-in-shares-93CH-4964395",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/adaptive-biotechnologies-president-and-coo-julie-rubinstein-sells-879088-in-shares-93CH-4964395",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/adaptive-biotechnologies-president-and-coo-julie-rubinstein-sells-879088-in-shares-93CH-4964395",
+    "AI|16c7b6fd-f3ee-33c1-a5b5-78bc0b3d6bc0",
+    "AI|9be44bca-813c-38eb-86bf-00939c119108",
+    "Watchlist|9be44bca-813c-38eb-86bf-00939c119108",
+    "AI|346ad053-8902-3cab-adfd-29d821f79257",
+    "Watchlist|346ad053-8902-3cab-adfd-29d821f79257",
+    "AI|dc9e6f51-e12d-3fb9-bd0c-358878c52b81",
+    "Watchlist|dc9e6f51-e12d-3fb9-bd0c-358878c52b81",
+    "AI|d4b78ea1-e64d-3b51-885c-cee23fce9b14"
   ],
   "topic_error": "",
   "last_digest": "2026-10-21",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792624419.1504471
+  "last_check": 1792625346.1690316
 }
