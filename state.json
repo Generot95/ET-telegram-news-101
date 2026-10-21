@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|6965ec0a-b6df-3888-86ae-78223b9da901",
-    "AI|2edb55fb-1645-3fd1-bb69-034004e0b613",
-    "Watchlist|6965ec0a-b6df-3888-86ae-78223b9da901",
-    "Iran|https://www.iranintl.com/en/202610192309",
-    "AI|4666c0f1-b449-3f01-ae66-2b440e593d58",
-    "Watchlist|4666c0f1-b449-3f01-ae66-2b440e593d58",
-    "War|526bfb94-0b5e-40d5-b6ba-81b5bb0b6793",
-    "War|WP-MKTW-0005291604",
-    "AI|WP-MKTW-0005291604",
-    "Cybersecurity|WP-MKTW-0005291604",
-    "War|52f9e69b-6339-340a-bb6e-cf27ccc313c9",
-    "AI|11ed1d1d-8118-39a9-8729-04b9f9a88c55",
     "AI|5538c431-5259-37e0-903e-31920466a486",
     "AI|78fec295-4fd7-3508-9bfb-2082f224a474",
     "AI|https://www.investing.com/news/earnings/western-alliance-earnings-beat-by-002-revenue-topped-estimates-4958279",
@@ -5000,7 +4988,19 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/sk-hynix-crashes-206-below-20period-ma-live-levels-93CH-4956188",
     "Watchlist|https://www.investing.com/news/economy-news/brazils-lula-challenges-flavio-bolsonaro-to-make-financial-records-public-ahead-of-election-4960755",
     "Watchlist|https://www.investing.com/news/stock-market-news/nikkei-225-teeters-above-635725-support-live-levels-93CH-4956186",
-    "SG Banks|/companies-markets/banking-finance/fed-governor-cooks-lawyer-denounces-trumps-latest-attempt-remove-her"
+    "SG Banks|/companies-markets/banking-finance/fed-governor-cooks-lawyer-denounces-trumps-latest-attempt-remove-her",
+    "Cybersecurity|d54399f8-3be7-3ad1-8764-e4f1d5ff73ea",
+    "SG Banks|https://www.straitstimes.com/business/ai-data-centre-projects-boost-us-warehouse-demand-and-rents-real-estate-company-jll-says",
+    "Watchlist|2cc0e699-63ff-393a-946d-e36fef22a359",
+    "War|65167a17-243a-3d66-a7be-d0c45294870e",
+    "AI|2cc0e699-63ff-393a-946d-e36fef22a359",
+    "SG Banks|https://www.straitstimes.com/business/south-koreas-export-boom-stays-strong-ahead-of-central-bank-rate-decision",
+    "SG Banks|https://www.straitstimes.com/business/australian-central-banker-says-inflation-outlook-worse-unsure-about-november-rate-hike",
+    "Iran|https://www.iranintl.com/en/202610192309",
+    "SG Banks|/companies-markets/energy-commodities/gold-slips-investors-await-fed-rate-signals",
+    "SG Banks|https://www.channelnewsasia.com/business/australian-ai-data-centre-operator-nextdc-shares-shed-44-revenue-delay-6477371",
+    "SG Banks|https://www.channelnewsasia.com/business/india-jio-platforms-ipo-opens-reliance-ambani-6476976",
+    "Watchlist|/companies-markets/energy-commodities/gold-slips-investors-await-fed-rate-signals"
   ],
   "topic_error": "",
   "last_digest": "2026-10-21",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792545592.3573427
+  "last_check": 1792546485.4124823
 }
