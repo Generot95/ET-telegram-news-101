@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/california-settles-23andme-data-breach-claims-for-6-million-4958392",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-175-4958393",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-012-4958394",
     "Cybersecurity|https://www.investing.com/news/economy-news/trading-day-ai-storm-abates-4958391",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/rosenblatt-initiates-sitime-stock-coverage-with-buy-rating-on-mems-tech-93CH-4958402",
@@ -5000,7 +4998,9 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/align-partners-discloses-15-stake-in-sk-flags-75-valuation-discount--report-4961538",
     "Watchlist|https://www.investing.com/news/economy-news/rba-nov-rate-hike-bets-surge-to-over-50-after-hauser-warning-on-inflation-4961541",
     "Watchlist|https://www.investing.com/news/stock-market-news/starbucks-china-to-require-purchases-for-seating-report-says-93CH-4961542",
-    "Watchlist|https://www.investing.com/news/economy-news/morning-bid-tesla-may-get-rocket-boosters-for-real-this-time-4961543"
+    "Watchlist|https://www.investing.com/news/economy-news/morning-bid-tesla-may-get-rocket-boosters-for-real-this-time-4961543",
+    "SG Banks|https://www.channelnewsasia.com/business/anthropic-logged-net-loss-over-80-billion-in-first-half-2026-6476676",
+    "SG Banks|https://www.channelnewsasia.com/business/bojs-himino-signals-readiness-raise-borrowing-costs-6477911"
   ],
   "topic_error": "",
   "last_digest": "2026-10-21",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792558397.4300468
+  "last_check": 1792559314.6453152
 }
