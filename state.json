@@ -1,107 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|2bc214e6-be61-3520-afbf-4453e34f6a4e",
-    "Crypto|23edc506-a09f-3b5c-9b2b-9286850d2cfb",
-    "War|153dc1df-d6ed-3f57-ae15-bcf270d6dfa4",
-    "AI|b6ecc776-4f0a-3a4c-8b0d-7eca3f1b60f3",
-    "AI|153dc1df-d6ed-3f57-ae15-bcf270d6dfa4",
-    "Watchlist|b6ecc776-4f0a-3a4c-8b0d-7eca3f1b60f3",
-    "Watchlist|153dc1df-d6ed-3f57-ae15-bcf270d6dfa4",
-    "War|43e347ae-fa5f-3779-879d-24cf8b81a739",
-    "War|8d8178f3-6dcb-30cd-b445-074514b84218",
-    "AI|205f024f-34b1-30bd-b5c6-170005d77543",
-    "SG Banks|https://www.channelnewsasia.com/business/google-cloud-services-largely-back-up-in-uk-6475891",
-    "Watchlist|205f024f-34b1-30bd-b5c6-170005d77543",
-    "War|ae86024b-202e-409b-b694-8bd8b5c5ff2f",
-    "AI|4f511e59-ccb1-3016-93aa-f96a3bb2e671",
-    "AI|07129ab0-ed38-3656-b0bc-a235de24d90e",
-    "Watchlist|4f511e59-ccb1-3016-93aa-f96a3bb2e671",
-    "Watchlist|07129ab0-ed38-3656-b0bc-a235de24d90e",
-    "Watchlist|ae19f517-3e3d-301d-89be-75941027047d",
-    "War|49f3858e-0a14-3928-9166-d8b25eeca439",
-    "War|f722c890-6f6b-31fc-ab3e-a0c2a72aff96",
-    "War|9a16a0b3-50ab-3724-b846-92ff7966c375",
-    "Watchlist|3b21b157-1949-30be-90ee-1228571e51d1",
-    "War|edc161a7-c1e1-4e70-b045-b0ff7a25634c",
-    "Iran|https://www.iranintl.com/en/202610201460",
-    "AI|edc161a7-c1e1-4e70-b045-b0ff7a25634c",
-    "Watchlist|edc161a7-c1e1-4e70-b045-b0ff7a25634c",
-    "Watchlist|39067fb6-8468-33be-beaa-aac2c92382d0",
-    "SG Banks|3040f550-1ed8-30ab-aa37-33f8e53a0440",
-    "War|ee51e2c5-caf0-3dd1-9544-9a2579234f23",
-    "AI|baeb959b-7454-3f08-9b35-828dbf3eaa9a",
-    "AI|d967b04f-008c-3f18-8d4c-cee3c76d2bf9",
-    "AI|c929dbc1-8856-3e7d-94b8-bb0acc6fc7e9",
-    "Crypto|baeb959b-7454-3f08-9b35-828dbf3eaa9a",
-    "Watchlist|baeb959b-7454-3f08-9b35-828dbf3eaa9a",
-    "Watchlist|d967b04f-008c-3f18-8d4c-cee3c76d2bf9",
-    "Watchlist|c929dbc1-8856-3e7d-94b8-bb0acc6fc7e9",
-    "SG Banks|/international/china-moves-prop-equity-market-selling-curbs-buybacks",
-    "SG Banks|https://www.channelnewsasia.com/business/salesforce-deepens-ai-bets-566-billion-braze-deal-6475576",
-    "Watchlist|efb62e65-7e22-37f1-be92-42706852245d",
-    "War|WP-MKTW-0005296652",
-    "AI|50d1b78a-cea4-3cd7-9d05-2332783e0b36",
-    "AI|WP-MKTW-0005296652",
-    "Cybersecurity|WP-MKTW-0005296652",
-    "Watchlist|/international/china-moves-prop-equity-market-selling-curbs-buybacks",
-    "AI|d14ac23b-5cbc-3268-8731-07b701c410ac",
-    "AI|06f321a2-5526-3314-9dfd-83a68ac81389",
-    "SG Banks|/singapore/singapore-use-every-legal-and-regulatory-lever-against-companies-linked-haze-shanmugam",
-    "SG Banks|/companies-markets/lindt-ousts-ceo-after-poor-european-results-two-outlook-cuts",
-    "Watchlist|d14ac23b-5cbc-3268-8731-07b701c410ac",
-    "Watchlist|06f321a2-5526-3314-9dfd-83a68ac81389",
-    "Watchlist|75ecf09d-0174-351b-aa6b-b85b3d4b8e6f",
-    "Watchlist|3d70af3a-aaba-3deb-b1ce-4d1b4a87c337",
-    "Watchlist|/companies-markets/lindt-ousts-ceo-after-poor-european-results-two-outlook-cuts",
-    "War|c79e82af-9178-33a5-ae4f-23a6d86223fc",
-    "AI|b63d8808-0b7b-324d-bf7b-9566379606ee",
-    "Watchlist|b63d8808-0b7b-324d-bf7b-9566379606ee",
-    "Watchlist|/singapore/singapore-use-every-legal-and-regulatory-lever-against-companies-linked-haze-shanmugam",
-    "War|WP-MKTW-0005295158",
-    "AI|WP-MKTW-0005295158",
-    "Cybersecurity|309ea92d-daf2-33d5-9654-7e1a9c81d05d",
-    "Cybersecurity|WP-MKTW-0005295158",
-    "War|5275f1f8-c779-351d-9596-233e9edf71f9",
-    "War|dc037553-453f-3124-baa4-38308e945523",
-    "Cybersecurity|95f52bdf-a9b6-3f98-b5c6-d142448ede68",
-    "War|ace4f40a-d8fd-36b4-a486-d0680d7dea6c",
-    "Watchlist|b00bfe3c-868d-3d2a-98b7-97e2b5b35b41",
-    "AI|b00bfe3c-868d-3d2a-98b7-97e2b5b35b41",
-    "AI|https://www.investing.com/news/stock-market-news/housing-starts-drop-9-in-september-miss-expectations-truist-comments-93CH-4960410",
-    "AI|https://www.investing.com/news/economic-indicators/bessent-says-a-democratled-congress-could-do-little-to-stop-trump-agenda-4960411",
-    "AI|https://www.investing.com/news/stock-market-news/us-judge-dismisses-sam-altmans-sisters-sexual-abuse-lawsuit-4960297",
-    "AI|https://www.investing.com/news/earnings/marten-transport-earnings-up-next-can-margins-follow-rates-93CH-4960412",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-hasbro-stock-surging-today-93CH-4960415",
-    "AI|https://www.investing.com/news/earnings/equity-lifestyle-earnings-up-next-can-mh-offset-rv-headwinds-93CH-4960416",
-    "AI|https://www.investing.com/news/earnings/westinghouse-air-brake-faces-earnings-test-on-margin-expansion-93CH-4960417",
-    "AI|https://www.investing.com/news/transcripts/lexeo-at-chardan-healthcare-conference-pipeline-advances-cash-runway-93CH-4960418",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-iren-stock-sliding-today-93CH-4960380",
-    "AI|https://www.investing.com/news/stock-market-news/how-should-you-protect-your-portfolio-during-ongoing-stock-market-volatility-93CH-4960381",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-northrop-grumman-stock-surging-today-93CH-4960390",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-ge-aerospace-stock-sliding-today-93CH-4960392",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-bloom-energy-stock-sliding-today-93CH-4960406",
-    "AI|https://www.investing.com/news/company-news/agnc-q3-2026-slides-book-value-falls-17-amid-bond-market-stress-93CH-4960369",
-    "AI|https://www.investing.com/news/company-news/gpc-q3-2026-slides-industrial-strength-offsets-automotive-pressure-93CH-4960375",
-    "AI|https://www.investing.com/news/company-news/aaon-stock-hits-52week-low-at-7317-usd-93CH-4960379",
-    "AI|https://www.investing.com/news/company-news/biogen-stock-hits-52week-high-at-24100-93CH-4960383",
-    "AI|https://www.investing.com/news/company-news/hasbro-q3-2026-slides-magic-hits-record-margins-surge-830-bps-93CH-4960384",
-    "AI|https://www.investing.com/news/company-news/rtx-q3-2026-slides-33-eps-growth-record-340b-backlog-93CH-4960386",
-    "AI|https://www.investing.com/news/company-news/river-uk-micro-cap-reappoints-liontrust-cuts-management-fees-93CH-4960394",
-    "AI|https://www.investing.com/news/company-news/mastercard-stock-hits-alltime-high-of-62255-usd-93CH-4960399",
-    "AI|https://www.investing.com/news/company-news/veeva-systems-stock-hits-52week-high-at-32016-93CH-4960407",
-    "AI|https://www.investing.com/news/company-news/gm-q3-2026-slides-strong-execution-raised-guidance-new-truck-launch-93CH-4960409",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/grvt-burns-11-million-tokens-as-countdown-to-grvt-20-begins-4960295",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/housing-starts-drop-9-in-september-miss-expectations-truist-comments-93CH-4960410",
-    "Cybersecurity|https://www.investing.com/news/economic-indicators/bessent-says-a-democratled-congress-could-do-little-to-stop-trump-agenda-4960411",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/us-judge-dismisses-sam-altmans-sisters-sexual-abuse-lawsuit-4960297",
-    "Cybersecurity|https://www.investing.com/news/earnings/marten-transport-earnings-up-next-can-margins-follow-rates-93CH-4960412",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-hasbro-stock-surging-today-93CH-4960415",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/zelenskiy-to-meet-witkoff-as-trump-praises-russia-and-rebukes-ukraine-4959324",
-    "Cybersecurity|https://www.investing.com/news/earnings/equity-lifestyle-earnings-up-next-can-mh-offset-rv-headwinds-93CH-4960416",
-    "Cybersecurity|https://www.investing.com/news/earnings/westinghouse-air-brake-faces-earnings-test-on-margin-expansion-93CH-4960417",
-    "Cybersecurity|https://www.investing.com/news/transcripts/lexeo-at-chardan-healthcare-conference-pipeline-advances-cash-runway-93CH-4960418",
-    "Cybersecurity|https://www.investing.com/news/company-news/agnc-q3-2026-slides-book-value-falls-17-amid-bond-market-stress-93CH-4960369",
     "Cybersecurity|https://www.investing.com/news/company-news/gpc-q3-2026-slides-industrial-strength-offsets-automotive-pressure-93CH-4960375",
     "Cybersecurity|https://www.investing.com/news/company-news/aaon-stock-hits-52week-low-at-7317-usd-93CH-4960379",
     "Cybersecurity|https://www.investing.com/news/company-news/biogen-stock-hits-52week-high-at-24100-93CH-4960383",
@@ -5000,82 +4899,183 @@
     "SG Banks|748aea4f-0f31-3b75-a69e-23a9911de52c",
     "War|WP-MKTW-0005297789",
     "AI|WP-MKTW-0005297789",
-    "Cybersecurity|WP-MKTW-0005297789"
+    "Cybersecurity|WP-MKTW-0005297789",
+    "Crypto|1eb11783-8c71-34b1-8836-e2cd8f7ccd54",
+    "Watchlist|e3b421cc-db32-318a-ac1f-f08dd53376c3",
+    "AI|5d14fc9b-02f2-3f57-b2e2-680838486e82",
+    "AI|5d203f8b-a4f2-35e6-b238-9bed4b797d47",
+    "AI|b7906a85-c2dc-3ece-ab00-6774796b25a4",
+    "AI|c9a61717-5075-3fed-b9a0-70ec52ee6af1",
+    "Crypto|69058709-2265-3c5e-bf3e-da23eac0d91c",
+    "Watchlist|5d14fc9b-02f2-3f57-b2e2-680838486e82",
+    "Watchlist|b7906a85-c2dc-3ece-ab00-6774796b25a4",
+    "Watchlist|c9a61717-5075-3fed-b9a0-70ec52ee6af1",
+    "AI|867d0402-2511-3002-bd76-a84e7a4ff05a",
+    "Watchlist|867d0402-2511-3002-bd76-a84e7a4ff05a",
+    "War|https://www.investing.com/news/commodities-news/us-crude-oil-inventories-drop-306-million-barrels-93CH-4963561",
+    "AI|bfcab20b-8b22-3c90-9185-86318acc3240",
+    "AI|https://www.investing.com/news/company-news/ping-an-bio-announces-1for40-reverse-stock-split-effective-thursday-93CH-4963612",
+    "AI|https://www.investing.com/news/company-news/zephyr-minerals-closes-260000-private-placement-financing-93CH-4963611",
+    "AI|https://www.investing.com/news/earnings/investors-brace-for-waste-connections-earnings-amid-valuation-debate-93CH-4963614",
+    "AI|https://www.investing.com/news/earnings/valero-earnings-loom-as-refining-margins-hit-record-highs-93CH-4963615",
+    "AI|https://www.investing.com/news/stock-market-news/united-airlines-sees-elevated-fuel-costs-through-2027-flags-margin-challenges-4963584",
+    "AI|https://www.investing.com/news/earnings/firstcash-earnings-up-next-can-lending-growth-offset-aff-woes-93CH-4963616",
+    "AI|https://www.investing.com/news/earnings/united-rentals-faces-earnings-test-amid-mega-project-boom-93CH-4963618",
+    "AI|https://www.investing.com/news/earnings/lockheed-martin-earnings-up-next-can-munitions-surge-deliver-93CH-4963619",
+    "AI|https://www.investing.com/news/earnings/nebius-earnings-in-focus-can-ai-cloud-growth-offset-wider-losses-93CH-4963620",
+    "AI|https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-005-4963621",
+    "AI|https://www.investing.com/news/stock-market-news/apple-will-have-limited-iphone-duo-units-available-in-stores-on-friday-4963408",
+    "AI|https://www.investing.com/news/stock-market-news/greece-stocks-higher-at-close-of-trade-athens-general-composite-up-127-4963572",
+    "AI|https://www.investing.com/news/stock-market-news/united-airlines-ceo-says-fuel-prices-expected-to-stay-high-in-2027-93CH-4963575",
+    "AI|https://www.investing.com/news/stock-market-news/israel-stocks-lower-at-close-of-trade-ta-35-down-005-4963583",
+    "AI|https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-097-4963595",
+    "AI|https://www.investing.com/news/stock-market-news/fcc-chair-says-broadcast-networks-could-violate-regulatory-obligations-by-airing-fake-polls-4963599",
+    "AI|https://www.investing.com/news/company-news/gowell-h1-2026-slides-43-revenue-growth-shares-fall-on-guidance-93CH-4963578",
+    "AI|https://www.investing.com/news/company-news/sthree-extends-takeover-deadline-to-november-18-93CH-4963579",
+    "AI|https://www.investing.com/news/company-news/northpointe-q3-2026-slides-strategic-pivot-amid-earnings-miss-93CH-4963586",
+    "AI|https://www.investing.com/news/company-news/apa-stock-hits-52week-high-at-5046-usd-93CH-4963588",
+    "AI|https://www.investing.com/news/company-news/charles-river-laboratories-stock-hits-52week-high-at-33331-usd-93CH-4963591",
+    "AI|https://www.investing.com/news/company-news/ihcl-q2fy27-slides-18th-record-quarter-guidance-raised-to-17-93CH-4963590",
+    "AI|https://www.investing.com/news/company-news/ofg-bancorp-q3-2026-slides-digital-push-drives-growth-amid-flat-revenue-93CH-4963598",
+    "AI|https://www.investing.com/news/company-news/mastec-inc-stock-hits-52week-low-at-18233-usd-93CH-4963606",
+    "Cybersecurity|https://www.investing.com/news/company-news/ping-an-bio-announces-1for40-reverse-stock-split-effective-thursday-93CH-4963612",
+    "Cybersecurity|https://www.investing.com/news/company-news/zephyr-minerals-closes-260000-private-placement-financing-93CH-4963611",
+    "Cybersecurity|https://www.investing.com/news/earnings/investors-brace-for-waste-connections-earnings-amid-valuation-debate-93CH-4963614",
+    "Cybersecurity|https://www.investing.com/news/earnings/valero-earnings-loom-as-refining-margins-hit-record-highs-93CH-4963615",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/united-airlines-sees-elevated-fuel-costs-through-2027-flags-margin-challenges-4963584",
+    "Cybersecurity|https://www.investing.com/news/earnings/firstcash-earnings-up-next-can-lending-growth-offset-aff-woes-93CH-4963616",
+    "Cybersecurity|https://www.investing.com/news/earnings/united-rentals-faces-earnings-test-amid-mega-project-boom-93CH-4963618",
+    "Cybersecurity|https://www.investing.com/news/earnings/lockheed-martin-earnings-up-next-can-munitions-surge-deliver-93CH-4963619",
+    "Cybersecurity|https://www.investing.com/news/earnings/nebius-earnings-in-focus-can-ai-cloud-growth-offset-wider-losses-93CH-4963620",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-005-4963621",
+    "Cybersecurity|https://www.investing.com/news/company-news/gowell-h1-2026-slides-43-revenue-growth-shares-fall-on-guidance-93CH-4963578",
+    "Cybersecurity|https://www.investing.com/news/company-news/sthree-extends-takeover-deadline-to-november-18-93CH-4963579",
+    "Cybersecurity|https://www.investing.com/news/company-news/northpointe-q3-2026-slides-strategic-pivot-amid-earnings-miss-93CH-4963586",
+    "Cybersecurity|https://www.investing.com/news/company-news/apa-stock-hits-52week-high-at-5046-usd-93CH-4963588",
+    "Cybersecurity|https://www.investing.com/news/company-news/charles-river-laboratories-stock-hits-52week-high-at-33331-usd-93CH-4963591",
+    "Cybersecurity|https://www.investing.com/news/company-news/ihcl-q2fy27-slides-18th-record-quarter-guidance-raised-to-17-93CH-4963590",
+    "Cybersecurity|https://www.investing.com/news/company-news/ofg-bancorp-q3-2026-slides-digital-push-drives-growth-amid-flat-revenue-93CH-4963598",
+    "Cybersecurity|https://www.investing.com/news/company-news/mastec-inc-stock-hits-52week-low-at-18233-usd-93CH-4963606",
+    "SG Banks|https://www.investing.com/news/company-news/ping-an-bio-announces-1for40-reverse-stock-split-effective-thursday-93CH-4963612",
+    "SG Banks|https://www.investing.com/news/company-news/zephyr-minerals-closes-260000-private-placement-financing-93CH-4963611",
+    "SG Banks|https://www.investing.com/news/earnings/investors-brace-for-waste-connections-earnings-amid-valuation-debate-93CH-4963614",
+    "SG Banks|https://www.investing.com/news/earnings/valero-earnings-loom-as-refining-margins-hit-record-highs-93CH-4963615",
+    "SG Banks|https://www.investing.com/news/stock-market-news/united-airlines-sees-elevated-fuel-costs-through-2027-flags-margin-challenges-4963584",
+    "SG Banks|https://www.investing.com/news/earnings/firstcash-earnings-up-next-can-lending-growth-offset-aff-woes-93CH-4963616",
+    "SG Banks|https://www.investing.com/news/earnings/united-rentals-faces-earnings-test-amid-mega-project-boom-93CH-4963618",
+    "SG Banks|https://www.investing.com/news/earnings/lockheed-martin-earnings-up-next-can-munitions-surge-deliver-93CH-4963619",
+    "SG Banks|https://www.investing.com/news/earnings/nebius-earnings-in-focus-can-ai-cloud-growth-offset-wider-losses-93CH-4963620",
+    "SG Banks|https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-005-4963621",
+    "Watchlist|https://www.investing.com/news/company-news/ping-an-bio-announces-1for40-reverse-stock-split-effective-thursday-93CH-4963612",
+    "Watchlist|https://www.investing.com/news/company-news/zephyr-minerals-closes-260000-private-placement-financing-93CH-4963611",
+    "Watchlist|https://www.investing.com/news/earnings/investors-brace-for-waste-connections-earnings-amid-valuation-debate-93CH-4963614",
+    "Watchlist|https://www.investing.com/news/earnings/valero-earnings-loom-as-refining-margins-hit-record-highs-93CH-4963615",
+    "Watchlist|https://www.investing.com/news/stock-market-news/united-airlines-sees-elevated-fuel-costs-through-2027-flags-margin-challenges-4963584",
+    "Watchlist|https://www.investing.com/news/earnings/firstcash-earnings-up-next-can-lending-growth-offset-aff-woes-93CH-4963616",
+    "Watchlist|https://www.investing.com/news/earnings/united-rentals-faces-earnings-test-amid-mega-project-boom-93CH-4963618",
+    "Watchlist|https://www.investing.com/news/earnings/lockheed-martin-earnings-up-next-can-munitions-surge-deliver-93CH-4963619",
+    "Watchlist|https://www.investing.com/news/earnings/nebius-earnings-in-focus-can-ai-cloud-growth-offset-wider-losses-93CH-4963620",
+    "Watchlist|https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-005-4963621",
+    "War|6d12f7d0-d9be-3d5a-a6ae-d2756c241933",
+    "War|WP-MKTW-0005295158",
+    "Iran|https://www.iranintl.com/en/202610201460",
+    "AI|WP-MKTW-0005295158",
+    "Cybersecurity|WP-MKTW-0005295158",
+    "SG Banks|3040f550-1ed8-30ab-aa37-33f8e53a0440",
+    "SG Banks|/singapore/singapore-use-every-legal-and-regulatory-lever-against-companies-linked-haze-shanmugam",
+    "SG Banks|/companies-markets/lindt-ousts-ceo-after-poor-european-results-two-outlook-cuts",
+    "Watchlist|efb62e65-7e22-37f1-be92-42706852245d",
+    "Watchlist|/singapore/singapore-use-every-legal-and-regulatory-lever-against-companies-linked-haze-shanmugam",
+    "Watchlist|/companies-markets/lindt-ousts-ceo-after-poor-european-results-two-outlook-cuts",
+    "AI|8c952a44-ee3f-48e2-8ba7-4202d32ee535",
+    "Watchlist|8c952a44-ee3f-48e2-8ba7-4202d32ee535",
+    "AI|774be111-f22c-31c4-a715-554d32fc9643",
+    "AI|236fef5e-38a2-318a-a248-b5da27811f2d",
+    "Crypto|774be111-f22c-31c4-a715-554d32fc9643",
+    "Cybersecurity|ad66fe46-7da9-3a5f-b84a-456bdc3de537",
+    "Watchlist|ad66fe46-7da9-3a5f-b84a-456bdc3de537",
+    "Watchlist|774be111-f22c-31c4-a715-554d32fc9643",
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/grvt-burns-11-million-tokens-as-countdown-to-grvt-20-begins-4960295",
+    "AI|9efbf546-5364-3c87-ab70-62c89350d074",
+    "AI|c40bd741-a59a-3629-b50d-80b48a60b818",
+    "Watchlist|9efbf546-5364-3c87-ab70-62c89350d074",
+    "Watchlist|c40bd741-a59a-3629-b50d-80b48a60b818",
+    "Watchlist|677bd5cd-3140-3938-810a-e8c8db712416"
   ],
   "topic_error": "",
   "last_digest": "2026-10-21",
   "earnings": {
     "AMD": {
       "ts": 1793736000,
-      "fetched": 1792509038.8762383
+      "fetched": 1792595482.6080523
     },
     "NVDA": {
       "ts": 1794945600,
-      "fetched": 1792509038.8762383
+      "fetched": 1792595482.6080523
     },
     "CRWD": {
       "ts": 1796155200,
-      "fetched": 1792509038.8762383
+      "fetched": 1792595482.6080523
     },
     "MSFT": {
       "ts": 1793217600,
-      "fetched": 1792509038.8762383
+      "fetched": 1792595482.6080523
     },
     "INTU": {
       "ts": 1795118400,
-      "fetched": 1792509038.8762383
+      "fetched": 1792595482.6080523
     },
     "BRK-B": {
       "ts": 1794081600,
-      "fetched": 1792509038.8762383
+      "fetched": 1792595482.6080523
     },
     "AMZN": {
       "ts": 1793304000,
-      "fetched": 1792509038.8762383
+      "fetched": 1792595482.6080523
     },
     "GOOG": {
       "ts": 1793217600,
-      "fetched": 1792509038.8762383
+      "fetched": 1792595482.6080523
     },
     "ZTS": {
       "ts": 1793881800,
-      "fetched": 1792509038.8762383
+      "fetched": 1792595482.6080523
     },
     "LIN": {
       "ts": 1793277000,
-      "fetched": 1792509038.8762383
+      "fetched": 1792595482.6080523
     },
     "VLO": {
       "ts": 1792672200,
-      "fetched": 1792509038.8762383
+      "fetched": 1792595482.6080523
     },
     "D05.SI": {
       "ts": 1793869200,
-      "fetched": 1792509038.8762383
+      "fetched": 1792595482.6080523
     },
     "O39.SI": {
       "ts": 1793955600,
-      "fetched": 1792509038.8762383
+      "fetched": 1792595482.6080523
     },
     "U11.SI": {
       "ts": 1793782800,
-      "fetched": 1792509038.8762383
+      "fetched": 1792595482.6080523
     },
     "A17U.SI": {
       "ts": 1785920400,
-      "fetched": 1792509038.8762383
+      "fetched": 1792595482.6080523
     },
     "HMN.SI": {
       "ts": 1785229200,
-      "fetched": 1792509038.8762383
+      "fetched": 1792595482.6080523
     },
     "JYEU.SI": {
       "ts": null,
-      "fetched": 1792509038.8762383
+      "fetched": 1792595482.6080523
     }
   },
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792595114.2354093
+  "last_check": 1792596034.400063
 }
