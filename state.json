@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/bny-prices-125-billion-preferred-stock-offering-93CH-4958448",
-    "SG Banks|https://www.investing.com/news/stock-market-news/3m-expands-amazon-data-center-partnership-shares-gain-4958449",
-    "SG Banks|https://www.investing.com/news/company-news/fda-approves-jemperli-for-advanced-rectal-cancer-subtype-93CH-4958450",
-    "SG Banks|https://www.investing.com/news/stock-market-news/former-google-ceo-schmidt-owns-1-stake-in-anthropic-bloomberg-reports-4958451",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/empire-petroleum-director-mulacek-acquires-312810-in-stock-93CH-4958462",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-freelancer-q3-2026-profit-improves-as-revenue-falls-93CH-4958465",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/elf-beauty-svp-joshua-franks-sells-873071-in-company-stock-93CH-4958444",
-    "Watchlist|https://www.investing.com/news/company-news/bny-prices-125-billion-preferred-stock-offering-93CH-4958448",
-    "Watchlist|https://www.investing.com/news/stock-market-news/3m-expands-amazon-data-center-partnership-shares-gain-4958449",
-    "Watchlist|https://www.investing.com/news/company-news/fda-approves-jemperli-for-advanced-rectal-cancer-subtype-93CH-4958450",
-    "Watchlist|https://www.investing.com/news/stock-market-news/former-google-ceo-schmidt-owns-1-stake-in-anthropic-bloomberg-reports-4958451",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/empire-petroleum-director-mulacek-acquires-312810-in-stock-93CH-4958462",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-freelancer-q3-2026-profit-improves-as-revenue-falls-93CH-4958465",
     "AI|6f0625b1-13f5-3a2e-81cf-50fd73694bd0",
     "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-above-81000-as-etf-outflows-weigh-on-sentiment-4955253",
@@ -5000,7 +4988,19 @@
     "War|1b40a216-b744-39cf-80bf-3b3174eadea7",
     "War|34db8e6c-7858-3a00-885b-211727557362",
     "SG Banks|https://www.channelnewsasia.com/business/musk-spacex-tesla-merger-net-profit-6476721",
-    "Watchlist|0c17f549-72bd-36bb-be52-926ac6bf25b6"
+    "Watchlist|0c17f549-72bd-36bb-be52-926ac6bf25b6",
+    "AI|0c17f549-72bd-36bb-be52-926ac6bf25b6",
+    "AI|https://www.investing.com/news/company-news/pulsar-helium-president-featured-on-cbs-60-minutes-segment-93CH-4961640",
+    "AI|https://www.investing.com/news/company-news/hutchmed-closes-110m-licensing-deal-with-gsk-for-cancer-therapy-93CH-4961645",
+    "AI|https://www.investing.com/news/company-news/candessa-ai-reports-63-revenue-growth-ceo-proposes-funding-93CH-4961650",
+    "Cybersecurity|https://www.investing.com/news/company-news/pulsar-helium-president-featured-on-cbs-60-minutes-segment-93CH-4961640",
+    "Cybersecurity|https://www.investing.com/news/company-news/hutchmed-closes-110m-licensing-deal-with-gsk-for-cancer-therapy-93CH-4961645",
+    "Cybersecurity|https://www.investing.com/news/company-news/candessa-ai-reports-63-revenue-growth-ceo-proposes-funding-93CH-4961650",
+    "SG Banks|https://www.channelnewsasia.com/business/australian-ai-data-centre-operator-nextdc-shares-shed-42-revenue-delay-future-plans-hold-6477371",
+    "AI|f2ae3f60-d93e-37b0-bb12-8795aebd09ee",
+    "Crypto|f2ae3f60-d93e-37b0-bb12-8795aebd09ee",
+    "SG Banks|https://www.straitstimes.com/business/samsung-sk-hynix-upgrading-china-plants-to-make-more-advanced-chips-sources",
+    "Watchlist|f2ae3f60-d93e-37b0-bb12-8795aebd09ee"
   ],
   "topic_error": "",
   "last_digest": "2026-10-21",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792562981.3358374
+  "last_check": 1792563891.0357735
 }
