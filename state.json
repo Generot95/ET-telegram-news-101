@@ -1,21 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|40378091-9f13-35f6-a4eb-65961ef4434c",
-    "AI|40378091-9f13-35f6-a4eb-65961ef4434c",
-    "AI|995ae778-8ed5-3ffd-812a-242360e55384",
-    "Watchlist|995ae778-8ed5-3ffd-812a-242360e55384",
-    "Watchlist|a6994239-cde8-3768-a90e-97b07371ef1a",
-    "AI|https://www.investing.com/news/economy-news/trading-day-oil-reversal-lifts-spirits-4961184",
-    "AI|https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-msci-stock-price-target-on-strong-quarterly-results-93CH-4961185",
-    "AI|https://www.investing.com/news/transcripts/strawberry-fields-at-ld-micro-steady-growth-meets-valuation-gap-93CH-4961186",
-    "AI|https://www.investing.com/news/company-news/silvia-announces-costcutting-plan-targeting-10m-in-savings-93CH-4961187",
-    "AI|https://www.investing.com/news/company-news/galleon-gold-upsizes-private-placement-with-pan-american-silver-93CH-4961188",
-    "AI|https://www.investing.com/news/stock-market-news/helsing-nears-investment-in-destinus-stock-at-67-billion-valuation--bloomberg-93CH-4961199",
-    "AI|https://www.investing.com/news/stock-market-news/musk-ordered-starlink-slowdown-that-blindsided-ukraine-wsj-reports-4961200",
-    "AI|https://www.investing.com/news/sec-filings/aehr-test-systems-shareholders-elect-directors-and-approve-proposals-at-annual-meeting-93CH-4961201",
-    "AI|https://www.investing.com/news/analyst-ratings/wedbushs-ives-reiterates-outperform-on-spacex-stock-citing-si-growth-93CH-4961202",
-    "AI|https://www.investing.com/news/analyst-ratings/wedbushs-ives-reiterates-in-line-rating-on-netflix-stock-at-75-93CH-4961203",
     "AI|https://www.investing.com/news/company-news/jonathan-jackson-from-illinoiss-1st-congressional-district-invests-in-datadog-and-estee-lauder-93CH-4961169",
     "AI|https://www.investing.com/news/company-news/michael-rulli-sells-stocks-in-alphabet-inc-and-wesbanco-inc-from-his-roth-ira-93CH-4961173",
     "AI|https://www.investing.com/news/company-news/l3harris-opens-rocket-motor-facility-in-camden-arkansas-93CH-4961179",
@@ -5000,7 +4985,22 @@
     "AI|1b47d8f3-a931-39f5-820e-93e87410e4b8",
     "SG Banks|4c32b0d1-a277-3900-80a8-7026ea0771af",
     "SG Banks|c5031fde-fef4-3b79-aa30-05302dc64235",
-    "Watchlist|4c32b0d1-a277-3900-80a8-7026ea0771af"
+    "Watchlist|4c32b0d1-a277-3900-80a8-7026ea0771af",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/dow-leads-wall-street-higher-investors-focus-on-health-care-stocks",
+    "SG Banks|/lifestyle/health-wellness/investing-health-small-habits-lifetime-returns",
+    "SG Banks|/opinion-features/teslas-flying-roadster-cold-rockets-mostly-hot-air",
+    "SG Banks|/companies-markets/dbs-favours-chinese-banks-flags-hsbc-long-term-buy",
+    "Watchlist|/lifestyle/health-wellness/investing-health-small-habits-lifetime-returns",
+    "Watchlist|/opinion-features/teslas-flying-roadster-cold-rockets-mostly-hot-air",
+    "Watchlist|/companies-markets/dbs-favours-chinese-banks-flags-hsbc-long-term-buy",
+    "SG Banks|https://www.straitstimes.com/business/meta-beats-expectations-but-legal-penalties-hit-profit-amid-ai-race",
+    "War|WP-MKTW-0005300399",
+    "AI|WP-MKTW-0005300399",
+    "Cybersecurity|WP-MKTW-0005300399",
+    "SG Banks|https://www.channelnewsasia.com/business/meta-puts-muse-agent-heart-ai-strategy-plans-new-stock-power-investments-6480286",
+    "AI|afe92582-b08f-3326-9a92-f92893deb0b8",
+    "AI|c77a728b-a84d-3794-b0ee-61547d530a32",
+    "Watchlist|c77a728b-a84d-3794-b0ee-61547d530a32"
   ],
   "topic_error": "",
   "last_digest": "2026-10-21",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792623510.5387416
+  "last_check": 1792624419.1504471
 }
