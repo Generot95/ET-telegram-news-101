@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/why-is-netflix-stock-sliding-today-93CH-4961253",
-    "AI|https://www.investing.com/news/company-news/stride-q1-fy2027-slides-revenue-grows-3-amid-enrollment-headwinds-93CH-4961254",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-agree-realty-stock-climbing-today-93CH-4961257",
-    "AI|https://www.investing.com/news/insider-trading-news/venture-global-cfo-thayer-sells-28m-in-stock-93CH-4961258",
-    "AI|https://www.investing.com/news/stock-market-news/waste-connections-q3-earnings-preview-eps-and-revenue-seen-up-6-93CH-4961261",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-intuitive-surgical-beats-q3-2026-estimates-shares-fall-93CH-4961251",
-    "Cybersecurity|https://www.investing.com/news/company-news/hancock-whitney-q3-2026-slides-acquisition-fuels-growth-nim-expands-93CH-4961252",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-netflix-stock-sliding-today-93CH-4961253",
-    "Cybersecurity|https://www.investing.com/news/company-news/stride-q1-fy2027-slides-revenue-grows-3-amid-enrollment-headwinds-93CH-4961254",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-agree-realty-stock-climbing-today-93CH-4961257",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/venture-global-cfo-thayer-sells-28m-in-stock-93CH-4961258",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/waste-connections-q3-earnings-preview-eps-and-revenue-seen-up-6-93CH-4961261",
     "SG Banks|https://www.investing.com/news/company-news/live-energy-minerals-enters-option-deal-for-new-brunswick-property-93CH-4961248",
@@ -5000,7 +4990,17 @@
     "War|WP-MKTW-0004179843",
     "War|WP-MKTW-0004255367",
     "SG Banks|https://www.straitstimes.com/business/eight-months-of-us-iran-war-turns-china-petrochemical-glut-into-a-crunch",
-    "SG Banks|https://www.straitstimes.com/business/us-media-group-comcast-planning-significant-jobs-cuts-as-part-of-reorganisation"
+    "SG Banks|https://www.straitstimes.com/business/us-media-group-comcast-planning-significant-jobs-cuts-as-part-of-reorganisation",
+    "AI|69621b48-5baf-3ada-9ac1-7c26fc2fa4e3",
+    "AI|f9b86353-4b66-378c-a976-22f415e2427d",
+    "Watchlist|69621b48-5baf-3ada-9ac1-7c26fc2fa4e3",
+    "Watchlist|f9b86353-4b66-378c-a976-22f415e2427d",
+    "AI|3ce9c2c6-7656-39b6-b63a-3efa2c9d24d4",
+    "SG Banks|https://www.channelnewsasia.com/business/meta-sued-in-australia-class-action-over-alleged-social-media-harm-children-6480776",
+    "SG Banks|/companies-markets/stocks-watch-fct-olam",
+    "Watchlist|/companies-markets/stocks-watch-fct-olam",
+    "SG Banks|/property/fct-posts-2-6-higher-h2-dpu-hit-new-full-year-record-payout",
+    "Watchlist|/property/fct-posts-2-6-higher-h2-dpu-hit-new-full-year-record-payout"
   ],
   "topic_error": "",
   "last_digest": "2026-10-22",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792629006.5546534
+  "last_check": 1792629930.846401
 }
