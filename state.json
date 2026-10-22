@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/everquote-stock-rises-on-50m-share-buyback-program-4964287",
-    "Cybersecurity|https://www.investing.com/news/company-news/chowchow-cloud-warns-of-potential-deal-termination-93CH-4964288",
-    "Cybersecurity|https://www.investing.com/news/company-news/crown-castle-q3-2026-slides-guidance-raised-despite-revenue-decline-93CH-4964289",
     "Cybersecurity|https://www.investing.com/news/company-news/morgan-stanley-sells-chicago-parking-meter-concession-to-stonepeak-93CH-4964290",
     "Cybersecurity|https://www.investing.com/news/company-news/qiagen-reports-q3-sales-of-548m-adjusted-eps-of-065-93CH-4964291",
     "Cybersecurity|https://www.investing.com/news/company-news/3d-systems-opens-50000-sq-ft-facility-in-colorado-93CH-4964292",
@@ -5000,7 +4997,10 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/apple-svp-jennifer-newstead-sells-814748-in-aapl-stock-93CH-4967792",
     "Watchlist|https://www.investing.com/news/company-news/provident-financial-authorizes-5-stock-buyback-program-93CH-4967794",
     "SG Banks|/companies-markets/capital-markets-currencies/nasdaq-leads-wall-street-gains-spacex-super-micro-boost-ai-sentiment",
-    "Watchlist|/companies-markets/capital-markets-currencies/nasdaq-leads-wall-street-gains-spacex-super-micro-boost-ai-sentiment"
+    "Watchlist|/companies-markets/capital-markets-currencies/nasdaq-leads-wall-street-gains-spacex-super-micro-boost-ai-sentiment",
+    "AI|672f4814-b0e9-3b24-8ab3-897a9bbb2d26",
+    "Watchlist|672f4814-b0e9-3b24-8ab3-897a9bbb2d26",
+    "SG Banks|https://www.channelnewsasia.com/business/sk-hynix-says-solidigm-drops-plan-us-ipo-amid-market-volatility-6484446"
   ],
   "topic_error": "",
   "last_digest": "2026-10-22",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792710607.383084
+  "last_check": 1792711512.2511964
 }
