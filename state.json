@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/alaska-air-forecasts-biggerthanexpected-fourthquarter-loss-on-soaring-fuel-costs-4961235",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/nuveen-global-trustee-robert-young-sells-233341-in-shares-93CH-4961236",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/nuveen-quality-municipal-income-fund-trustee-sells-337742-in-shares-93CH-4961237",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/fastly-ceo-compton-sells-492770-in-fastly-stock-93CH-4961238",
-    "Watchlist|https://www.investing.com/news/sec-filings/healthcare-ai-acquisition-shareholders-approve-extension-of-business-combination-deadline-93CH-4961239",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-netflix-beats-q3-2026-estimates-but-shares-fall-after-hours-93CH-4961240",
     "Watchlist|https://www.investing.com/news/transcripts/satellogic-at-ld-micro-main-event-growth-cash-and-a-new-orbit-93CH-4961244",
     "Watchlist|https://www.investing.com/news/transcripts/usio-at-ld-micro-main-event-growth-leverage-and-new-catalysts-93CH-4961246",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-stride-beats-q1-2027-estimates-but-shares-fall-93CH-4961247",
@@ -5000,10 +4994,16 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/timothy-e-johns-sells-125685-in-heritage-insurance-stock-93CH-4964428",
     "Watchlist|https://www.investing.com/news/stock-market-news/bhp-chair-says-australia-must-compete-harder-for-global-investments-4964429",
     "Watchlist|https://www.investing.com/news/insider-trading-news/jjill-evp-cfo--coo-mark-webb-sells-122600-in-shares-93CH-4964435",
-    "Watchlist|https://www.investing.com/news/stock-market-news/australias-santos-trims-2026-output-forecast-on-alaska-oilfield-delays-4964437"
+    "Watchlist|https://www.investing.com/news/stock-market-news/australias-santos-trims-2026-output-forecast-on-alaska-oilfield-delays-4964437",
+    "Cybersecurity|b9bdef31-9f8a-3688-9e02-f23d9c8a01e2",
+    "SG Banks|/companies-markets/reits-property/capitaland-malaysia-trusts-q3-dpu-21-6-rm0-0135-industrial-logistics",
+    "Watchlist|/companies-markets/reits-property/capitaland-malaysia-trusts-q3-dpu-21-6-rm0-0135-industrial-logistics",
+    "AI|ce948597-ef81-3ad1-9c42-a975ee409097",
+    "SG Banks|https://www.straitstimes.com/business/germanys-sap-hits-14-3-billion-quarterly-revenue-milestone-lifts-2026-view",
+    "Watchlist|ce948597-ef81-3ad1-9c42-a975ee409097"
   ],
   "topic_error": "",
-  "last_digest": "2026-10-21",
+  "last_digest": "2026-10-22",
   "earnings": {
     "AMD": {
       "ts": 1793736000,
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792627169.699486
+  "last_check": 1792628083.0308037
 }
