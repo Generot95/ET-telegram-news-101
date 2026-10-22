@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/ferguson-enterprises-cso-jake-schlicher-sells-118369-in-stock-93CH-4961392",
-    "Watchlist|https://www.investing.com/news/company-news/29metals-q3-2026-slides-output-falls-costs-rise-amid-transition-93CH-4961394",
-    "Watchlist|https://www.investing.com/news/earnings/alaska-air-earnings-missed-by-006-revenue-was-in-line-with-estimates-4961395",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-coils-at-81908-live-levels-93CH-4958174",
-    "SG Banks|https://www.channelnewsasia.com/business/musk-says-spacex-tesla-merger-good-idea-companies-form-deal-committees-6476721",
-    "War|a8c036f1-c532-3cd9-b852-1f5556750342",
-    "SG Banks|/companies-markets/stocks-watch-singtel-wee-hur",
-    "SG Banks|/companies-markets/dbs-says-parent-jardine-matheson-better-buy-it-downgrades-jmsea",
     "Watchlist|/companies-markets/stocks-watch-singtel-wee-hur",
     "Watchlist|/companies-markets/dbs-says-parent-jardine-matheson-better-buy-it-downgrades-jmsea",
     "Iran|https://www.iranintl.com/en/202610163777",
@@ -5000,7 +4992,15 @@
     "SG Banks|https://www.investing.com/news/stock-market-news/epics-fortnite-back-on-apple-app-store-in-australia-after-antitrust-ruling-4964596",
     "SG Banks|https://www.investing.com/news/stock-market-news/tesla-asian-supplier-shares-fall-after-mixed-q3-earnings-cautious-outlook-4964597",
     "Watchlist|https://www.investing.com/news/stock-market-news/epics-fortnite-back-on-apple-app-store-in-australia-after-antitrust-ruling-4964596",
-    "Watchlist|https://www.investing.com/news/stock-market-news/tesla-asian-supplier-shares-fall-after-mixed-q3-earnings-cautious-outlook-4964597"
+    "Watchlist|https://www.investing.com/news/stock-market-news/tesla-asian-supplier-shares-fall-after-mixed-q3-earnings-cautious-outlook-4964597",
+    "Watchlist|79148206-98e1-3be5-ab47-3299f0b212c7",
+    "AI|6552ed66-4b2d-32d2-8539-2c648e5238f7",
+    "AI|fac08b8f-2b40-3016-8be6-b889bc26c61c",
+    "Watchlist|6552ed66-4b2d-32d2-8539-2c648e5238f7",
+    "Watchlist|fac08b8f-2b40-3016-8be6-b889bc26c61c",
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-coils-at-81908-live-levels-93CH-4958174",
+    "SG Banks|https://www.straitstimes.com/business/flurry-of-activity-for-chinas-richest-ahead-of-offshore-wealth-tax-deadline",
+    "SG Banks|/companies-markets/stocks-watch-singtel-wee-hur"
   ],
   "topic_error": "",
   "last_digest": "2026-10-22",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792640912.6372979
+  "last_check": 1792641826.6975636
 }
