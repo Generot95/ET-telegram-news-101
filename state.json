@@ -1,22 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|e0b76cbf-11f5-3c6b-a1cf-46531a742cf4",
-    "Watchlist|e0b76cbf-11f5-3c6b-a1cf-46531a742cf4",
-    "AI|d56d532d-216d-3199-9f00-cf74f3c44034",
-    "Watchlist|d56d532d-216d-3199-9f00-cf74f3c44034",
-    "SG Banks|https://www.channelnewsasia.com/business/state-bank-india-reports-cyberattack-involving-nearly-3900-customer-records-6477746",
-    "AI|https://www.investing.com/news/world-news/taiwan-security-agency-flags-rise-in-chinese-disinformation-ahead-of-local-elections-4961506",
-    "AI|https://www.investing.com/news/stock-market-news/asia-stocks-rebound-as-spacex-super-micro-results-lift-chipmakers-4961529",
-    "Cybersecurity|https://www.investing.com/news/world-news/taiwan-security-agency-flags-rise-in-chinese-disinformation-ahead-of-local-elections-4961506",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/asia-stocks-rebound-as-spacex-super-micro-results-lift-chipmakers-4961529",
-    "SG Banks|https://www.investing.com/news/world-news/taiwan-security-agency-flags-rise-in-chinese-disinformation-ahead-of-local-elections-4961506",
-    "SG Banks|https://www.investing.com/news/stock-market-news/asia-stocks-rebound-as-spacex-super-micro-results-lift-chipmakers-4961529",
-    "Watchlist|https://www.investing.com/news/world-news/taiwan-security-agency-flags-rise-in-chinese-disinformation-ahead-of-local-elections-4961506",
-    "Watchlist|https://www.investing.com/news/stock-market-news/asia-stocks-rebound-as-spacex-super-micro-results-lift-chipmakers-4961529",
-    "AI|https://www.investing.com/news/stock-market-news/asian-space-stocks-rise-tracking-blowout-spacex-q3-earnings-4961530",
-    "AI|https://www.investing.com/news/stock-market-news/gift-nifty-50-faces-bull-trap-risk-at-23036-vwap-live-levels-93CH-4956292",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4961533",
     "AI|https://www.investing.com/news/company-news/allegiance-resources-announces-private-placement-of-up-to-c900000-93CH-4961536",
     "AI|https://www.investing.com/news/economy-news/in-china-ecb-makes-case-for-euro-liquidity-lines-4961537",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/asian-space-stocks-rise-tracking-blowout-spacex-q3-earnings-4961530",
@@ -5000,7 +4984,23 @@
     "Watchlist|0c44aafe-5b5f-301c-bdfb-c364dd2d309d",
     "Watchlist|105aa821-d157-3b0f-a86e-56417fc3a9b9",
     "Watchlist|0e9891f3-88b2-3275-9632-d7962bb5c578",
-    "Watchlist|/companies-markets/nvidia-talks-invest-more-ai-cloud-firm-firmus-after-ipo-flop-report"
+    "Watchlist|/companies-markets/nvidia-talks-invest-more-ai-cloud-firm-firmus-after-ipo-flop-report",
+    "SG Banks|/companies-markets/banking-finance/dbs-paylah-rolls-out-qr-payments-taiwan",
+    "SG Banks|/companies-markets/telcos-media-tech/will-monee-ipo-spinoff-fatten-wallets-sea-investors-dbs-weighs",
+    "SG Banks|/companies-markets/reits-property/positive-pivot-or-premature-analysts-split-keppel-reits-s610-9-million-buy",
+    "Watchlist|/companies-markets/banking-finance/dbs-paylah-rolls-out-qr-payments-taiwan",
+    "Watchlist|/companies-markets/telcos-media-tech/will-monee-ipo-spinoff-fatten-wallets-sea-investors-dbs-weighs",
+    "Watchlist|/companies-markets/reits-property/positive-pivot-or-premature-analysts-split-keppel-reits-s610-9-million-buy",
+    "SG Banks|https://www.channelnewsasia.com/business/philippine-central-bank-raises-key-interest-rate-50-basis-points-6481711",
+    "SG Banks|https://www.channelnewsasia.com/business/japanese-investors-sell-foreign-bonds-fifth-straight-week-eye-home-market-6481706",
+    "AI|97de1e3b-cc1d-390e-bd06-6af5e2e7c7e1",
+    "Watchlist|97de1e3b-cc1d-390e-bd06-6af5e2e7c7e1",
+    "Crypto|89cb5822-5784-3e04-8aa9-6038873d43ad",
+    "War|43f80c20-dba6-3f64-b037-1648c4b7829c",
+    "War|WP-MKTW-0005296186",
+    "AI|WP-MKTW-0005296186",
+    "Cybersecurity|WP-MKTW-0005296186",
+    "SG Banks|https://www.channelnewsasia.com/business/besi-says-asml-not-hybrid-bonding-rival-ai-demand-drives-orders-6481556"
   ],
   "topic_error": "",
   "last_digest": "2026-10-22",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792650979.9301338
+  "last_check": 1792651886.8218982
 }
