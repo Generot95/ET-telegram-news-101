@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-swedencare-stock-plunging-today-93CH-4961988",
-    "SG Banks|https://www.investing.com/news/economy-news/uk-inflation-picks-up-more-than-expected-to-35-in-september-4961639",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-akzo-nobel-stock-climbing-today-93CH-4961989",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/briley-raises-semtech-stock-price-target-on-data-center-growth-outlook-93CH-4961984",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-storebrand-stock-gaining-today-93CH-4961985",
-    "Watchlist|https://www.investing.com/news/company-news/addlife-q3-2026-slides-profit-surges-61-on-margin-gains-ma-ramps-up-93CH-4961986",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-getinge-q3-2026-growth-and-margin-gains-lift-outlook-93CH-4961987",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-swedencare-stock-plunging-today-93CH-4961988",
-    "Watchlist|https://www.investing.com/news/economy-news/uk-inflation-picks-up-more-than-expected-to-35-in-september-4961639",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-akzo-nobel-stock-climbing-today-93CH-4961989",
-    "AI|e389b9ed-bc44-358e-9c28-c364444f9c7c",
-    "AI|dc4f3ff6-233a-3f0b-bab9-b66a09cc2271",
     "Watchlist|e389b9ed-bc44-358e-9c28-c364444f9c7c",
     "War|WP-MKTW-0005298595",
     "AI|WP-MKTW-0005298595",
@@ -5000,7 +4988,19 @@
     "Watchlist|/companies-markets/asias-ultra-wealthy-next-gen-have-least-say-post-sale-plans-family-business-julius-baer",
     "Watchlist|/companies-markets/capital-markets-currencies/rhb-cuts-sgx-target-price-s20-30-after-softer-expected-q1",
     "AI|51d85e86-a039-3970-9673-580698cd390c",
-    "Watchlist|51d85e86-a039-3970-9673-580698cd390c"
+    "Watchlist|51d85e86-a039-3970-9673-580698cd390c",
+    "War|4bdf514a-89aa-42da-b11f-bcee8a4bc4ad",
+    "SG Banks|/wealth/wealth-investing/mutual-fund-ownership-among-singapores-wealthy-nearly-trebles-2022-citi-report",
+    "SG Banks|https://www.channelnewsasia.com/business/sap-clients-increasingly-worry-about-ai-models-origin-cfo-says-6482146",
+    "Watchlist|/wealth/wealth-investing/mutual-fund-ownership-among-singapores-wealthy-nearly-trebles-2022-citi-report",
+    "War|3c99b1cc-5589-4c1e-ab8a-bc0ade05e0d5",
+    "AI|3c99b1cc-5589-4c1e-ab8a-bc0ade05e0d5",
+    "SG Banks|https://www.straitstimes.com/business/economy/philippines-surprises-with-jumbo-hike-as-inflation-surges-peso-slumps",
+    "Crypto|24bdee3c-ea8a-386e-b70f-e60e999b210c",
+    "AI|4e7a8b1c-2936-3b8b-8479-12da64b33d72",
+    "Watchlist|4e7a8b1c-2936-3b8b-8479-12da64b33d72",
+    "SG Banks|/international/global/mutual-fund-ownership-among-singapores-wealthy-nearly-trebles-2022-citi-report",
+    "Watchlist|/international/global/mutual-fund-ownership-among-singapores-wealthy-nearly-trebles-2022-citi-report"
   ],
   "topic_error": "",
   "last_digest": "2026-10-22",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792661989.7979105
+  "last_check": 1792662916.7690916
 }
