@@ -1,24 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|/companies-markets/digital-payment-tokens-insurance-policies-could-become-tax-exempted-singapore-family-offices",
-    "SG Banks|/companies-markets/citi-targets-globally-ambitious-firms-geopolitical-de-risking-drives-singapore-flows",
-    "SG Banks|/companies-markets/banking-finance/banks-chase-risky-chip-loans-asias-us8-2-trillion-ai-buildout",
-    "SG Banks|/international/global/china-japan-may-pull-back-us-debt-billionaire-investor-ray-dalio-warns",
-    "SG Banks|/companies-markets/banking-finance/boj-may-signal-underlying-inflation-has-hit-2-goal-sources",
-    "SG Banks|/companies-markets/banking-finance/ai-appears-have-been-used-bank-hacks-south-koreas-lee",
-    "SG Banks|/international/global/wall-street-bonuses-poised-hit-record-annual-profits-forecast-top-us90-billion",
-    "SG Banks|/international/south-korea-investigates-possible-use-ai-hacks-its-banks",
-    "SG Banks|/companies-markets/banking-finance/legitimate-concern-jpmorgan-ceo-dimon-says-anthropics-mythos-pushed-cyber-risk-10-times",
-    "SG Banks|/companies-markets/ocbc-sheds-s8-billion-value-shares-close-nearly-6-down-analysts-cautious-banks",
-    "SG Banks|/companies-markets/banking-finance/hsbc-plans-job-cuts-across-uk-wealth-business-ai-push-report",
-    "SG Banks|/companies-markets/banking-finance/indias-central-bank-lifts-rates-first-time-nearly-four-years",
-    "SG Banks|/companies-markets/banking-finance/us7-trillion-data-centre-boom-creating-gaps-insurance-cover-within-apac-report",
-    "SG Banks|/companies-markets/banking-finance/bitcoin-falls-us650-million-risky-crypto-bets-wiped-out",
-    "SG Banks|/companies-markets/dbs-ocbc-uob-rout-lops-billions-sti-inflation-rate-concerns-spook-investors",
-    "SG Banks|/companies-markets/banking-finance/china-based-suspect-south-korea-bank-hacks-used-ai-claude-tools-crowdstrike-report",
-    "SG Banks|/companies-markets/banking-finance/goldman-sachs-says-middle-managers-risk-new-hires-oversee-ai",
-    "SG Banks|/companies-markets/banking-finance/more-interest-rate-hikes-needed-there-flexibility-about-pace-feds-waller",
     "SG Banks|/companies-markets/temasek-related-azalea-seatown-seviora-capital-merge-2027",
     "SG Banks|/international/uk-card-defaults-rise-longest-period-17-years-boe",
     "SG Banks|/companies-markets/banking-finance/amex-fined-us350-million-anti-money-laundering-lapses",
@@ -5000,7 +4982,25 @@
     "AI|bf664e36-9c89-3bc9-b6dc-a4ea49d40433",
     "SG Banks|https://www.channelnewsasia.com/business/spotify-forecasts-fourth-quarter-profit-above-estimates-ai-bets-6482201",
     "Watchlist|bf664e36-9c89-3bc9-b6dc-a4ea49d40433",
-    "Crypto|0f5b68d1-a9e1-369d-952a-bc90af2b021b"
+    "Crypto|0f5b68d1-a9e1-369d-952a-bc90af2b021b",
+    "AI|8466dbc6-edc5-3efe-b0ff-0761e383a5b2",
+    "Crypto|8466dbc6-edc5-3efe-b0ff-0761e383a5b2",
+    "Watchlist|8466dbc6-edc5-3efe-b0ff-0761e383a5b2",
+    "AI|a918076c-151d-3f26-8da1-e6046a3f0e32",
+    "War|1a75b35a-f749-3572-b9c5-0b43c9c59d9f",
+    "SG Banks|/companies-markets/capital-markets-currencies/singapore-shares-end-lower-local-banks-decline-sti-down-0-4",
+    "SG Banks|https://www.channelnewsasia.com/business/meta-has-strong-chance-getting-25-billion-new-mexico-penalty-slashed-appeal-experts-say-6482231",
+    "Watchlist|a918076c-151d-3f26-8da1-e6046a3f0e32",
+    "Watchlist|/companies-markets/capital-markets-currencies/singapore-shares-end-lower-local-banks-decline-sti-down-0-4",
+    "Crypto|0ca8c2ef-61e6-3217-af52-3a79df90aa4b",
+    "War|ec63e16d-ed89-33b0-99d0-635ea6a35fca",
+    "Watchlist|dcdc6a0f-c0c8-3463-8033-6cb96d93f598",
+    "AI|12ee2aec-a200-371e-80a2-a05a6fd9f391",
+    "Watchlist|12ee2aec-a200-371e-80a2-a05a6fd9f391",
+    "AI|e0b403d1-5b72-3830-b1f8-b019cc813580",
+    "Crypto|aca59a25-b54e-3192-b1d4-99c03faffe9d",
+    "Watchlist|e0b403d1-5b72-3830-b1f8-b019cc813580",
+    "War|3041d452-8098-3898-b4f4-853a6757350a"
   ],
   "topic_error": "",
   "last_digest": "2026-10-22",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792663819.1395636
+  "last_check": 1792664736.3131654
 }
