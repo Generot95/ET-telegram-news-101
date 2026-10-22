@@ -1,17 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.channelnewsasia.com/business/stocks-rise-ai-led-earnings-frances-10-year-bond-yield-hits-5-6477551",
-    "War|c78e384f-7982-3309-96ab-1464a1225df1",
-    "AI|https://www.investing.com/news/stock-market-news/home-bancshares-stock-rises-on-expanded-buyback-program-4964316",
-    "AI|https://www.investing.com/news/company-news/aevex-addresses-navy-maritime-program-status-amid-reports-93CH-4964317",
-    "AI|https://www.investing.com/news/transcripts/aiai-holdings-at-ld-micro-main-event-cashfirst-ai-buildout-93CH-4964318",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-wd40-q4-2026-profit-miss-weighs-on-shares-93CH-4964319",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-sap-tops-q3-2026-estimates-as-cloud-growth-accelerates-93CH-4964320",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-ibm-beats-q3-2026-estimates-shares-slip-after-hours-93CH-4964321",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-lam-research-tops-q1-2026-estimates-shares-fall-93CH-4964322",
-    "AI|https://www.investing.com/news/stock-market-news/australias-fortescue-posts-6-fall-in-quarterly-iron-ore-shipments-4964323",
-    "AI|https://www.investing.com/news/company-news/sei-q3-2026-slides-record-sales-drive-24-earnings-growth-93CH-4964324",
     "AI|https://www.investing.com/news/stock-market-news/frequency-electronics-stock-falls-on-cfo-transition-announcement-4964296",
     "AI|https://www.investing.com/news/stock-market-news/arcus-biosciences-stock-falls-on-public-offering-announcement-4964310",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/home-bancshares-stock-rises-on-expanded-buyback-program-4964316",
@@ -5000,7 +4989,18 @@
     "SG Banks|https://www.investing.com/news/company-news/ringcentral-q3-2026-slides-ai-momentum-drives-margin-expansion-93CH-4967820",
     "SG Banks|https://www.investing.com/news/insider-trading-news/starbucks-international-ceo-sells-58800-in-common-stock-93CH-4967826",
     "Watchlist|https://www.investing.com/news/company-news/ringcentral-q3-2026-slides-ai-momentum-drives-margin-expansion-93CH-4967820",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/starbucks-international-ceo-sells-58800-in-common-stock-93CH-4967826"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/starbucks-international-ceo-sells-58800-in-common-stock-93CH-4967826",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/oil-holds-biggest-gain-in-week-as-saudi-attacks-fan-supply-risks",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/spacex-in-talks-to-access-80000-cell-sites-for-wireless-network",
+    "AI|https://www.investing.com/news/company-news/geopark-receives-2668m-in-tenders-for-2030-senior-notes-93CH-4967829",
+    "AI|https://www.investing.com/news/stock-market-news/sk-hynix-scraps-solidigm-ipo-plans-citing-market-conditions-4967830",
+    "Cybersecurity|https://www.investing.com/news/company-news/geopark-receives-2668m-in-tenders-for-2030-senior-notes-93CH-4967829",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/sk-hynix-scraps-solidigm-ipo-plans-citing-market-conditions-4967830",
+    "SG Banks|https://www.investing.com/news/company-news/geopark-receives-2668m-in-tenders-for-2030-senior-notes-93CH-4967829",
+    "SG Banks|https://www.investing.com/news/stock-market-news/sk-hynix-scraps-solidigm-ipo-plans-citing-market-conditions-4967830",
+    "Watchlist|https://www.investing.com/news/company-news/geopark-receives-2668m-in-tenders-for-2030-senior-notes-93CH-4967829",
+    "Watchlist|https://www.investing.com/news/stock-market-news/sk-hynix-scraps-solidigm-ipo-plans-citing-market-conditions-4967830",
+    "SG Banks|https://www.channelnewsasia.com/business/japan-core-inflation-exceeds-boj-target-cements-near-term-rate-hike-chance-6484616"
   ],
   "topic_error": "",
   "last_digest": "2026-10-22",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792712423.5074363
+  "last_check": 1792713349.9550254
 }
