@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-016-4961579",
-    "AI|https://www.investing.com/news/stock-market-news/handelsbanken-q3-operating-profit-rises-10-on-quarter-as-income-grows-4961591",
-    "AI|https://www.investing.com/news/company-news/ringkjbing-landbobank-reports-23-return-on-equity-in-q3-93CH-4961592",
-    "AI|https://www.investing.com/news/stock-market-news/husqvarna-swings-to-q3-adjusted-operating-loss-on-lower-sales-93CH-4961596",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-016-4961579",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/handelsbanken-q3-operating-profit-rises-10-on-quarter-as-income-grows-4961591",
     "Cybersecurity|https://www.investing.com/news/company-news/ringkjbing-landbobank-reports-23-return-on-equity-in-q3-93CH-4961592",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/husqvarna-swings-to-q3-adjusted-operating-loss-on-lower-sales-93CH-4961596",
     "SG Banks|https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-016-4961579",
@@ -5000,7 +4994,13 @@
     "SG Banks|/companies-markets/capital-markets-currencies/nasdaq-climbs-chip-and-ai-linked-stocks-bounce-back",
     "Watchlist|/companies-markets/capital-markets-currencies/nasdaq-climbs-chip-and-ai-linked-stocks-bounce-back",
     "SG Banks|/companies-markets/energy-commodities/gold-dips-fourth-session-oil-rally-fans-inflation-concerns",
-    "Watchlist|/companies-markets/energy-commodities/gold-dips-fourth-session-oil-rally-fans-inflation-concerns"
+    "Watchlist|/companies-markets/energy-commodities/gold-dips-fourth-session-oil-rally-fans-inflation-concerns",
+    "AI|c08a4d87-68db-39eb-9d8d-c76d2b56a5f9",
+    "Watchlist|c08a4d87-68db-39eb-9d8d-c76d2b56a5f9",
+    "War|11b34255-fac5-35e1-ba32-8a5bc04e968a",
+    "AI|5849e084-9766-35ed-a0f5-397bdcb3b566",
+    "SG Banks|https://www.channelnewsasia.com/business/samsung-electro-mechanics-gets-28-billion-chip-investment-tesla-nvidia-report-says-6481841",
+    "Watchlist|5849e084-9766-35ed-a0f5-397bdcb3b566"
   ],
   "topic_error": "",
   "last_digest": "2026-10-22",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792653736.2359116
+  "last_check": 1792654647.869029
 }
