@@ -1,23 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/analyst-ratings/ubs-downgrades-ap-moller-maersk-stock-rating-on-rate-concerns-93CH-4962281",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/wells-fargo-cuts-rapport-therapeutics-price-target-on-fos-risk-93CH-4962282",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/wells-fargo-raises-rli-stock-price-target-on-durable-margins-93CH-4962283",
-    "SG Banks|https://www.investing.com/news/earnings/danaher-shares-rise-in-premarket-trade-as-q3-earnings-beat-estimates-4962288",
-    "SG Banks|https://www.investing.com/news/earnings/america-movil-adr-earnings-missed-by-mex003-revenue-topped-estimates-4962289",
-    "SG Banks|https://www.investing.com/news/company-news/beam-global-deploys-ev-charging-systems-to-california-tribes-93CH-4962293",
-    "SG Banks|https://www.investing.com/news/sec-filings/starry-sea-acquisition-extends-business-combination-deadline-after-shareholder-vote-93CH-4962294",
-    "SG Banks|https://www.investing.com/news/stock-market-news/from-cashmere-to-faux-fur-targets-holiday-push-centers-on-affordable-luxury-4962295",
-    "SG Banks|https://www.investing.com/news/stock-market-news/bookingcom-targeted-in-eu-investigation-into-phishing-scams-fraudulent-listings-4962297",
-    "SG Banks|https://www.investing.com/news/stock-market-news/end-of-an-era-how-the-hermes-birkin-bag-is-losing-its-scarcity-appeal-4962299",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/ubs-downgrades-ap-moller-maersk-stock-rating-on-rate-concerns-93CH-4962281",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/wells-fargo-cuts-rapport-therapeutics-price-target-on-fos-risk-93CH-4962282",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/wells-fargo-raises-rli-stock-price-target-on-durable-margins-93CH-4962283",
-    "Watchlist|https://www.investing.com/news/earnings/danaher-shares-rise-in-premarket-trade-as-q3-earnings-beat-estimates-4962288",
-    "Watchlist|https://www.investing.com/news/earnings/america-movil-adr-earnings-missed-by-mex003-revenue-topped-estimates-4962289",
-    "Watchlist|https://www.investing.com/news/company-news/beam-global-deploys-ev-charging-systems-to-california-tribes-93CH-4962293",
-    "Watchlist|https://www.investing.com/news/sec-filings/starry-sea-acquisition-extends-business-combination-deadline-after-shareholder-vote-93CH-4962294",
     "Watchlist|https://www.investing.com/news/stock-market-news/from-cashmere-to-faux-fur-targets-holiday-push-centers-on-affordable-luxury-4962295",
     "Watchlist|https://www.investing.com/news/stock-market-news/bookingcom-targeted-in-eu-investigation-into-phishing-scams-fraudulent-listings-4962297",
     "Watchlist|https://www.investing.com/news/stock-market-news/end-of-an-era-how-the-hermes-birkin-bag-is-losing-its-scarcity-appeal-4962299",
@@ -5000,7 +4983,24 @@
     "Watchlist|https://www.investing.com/news/commodities-news/cubas-public-transport-plunges-to-alltime-low-amid-us-fuel-blockade-minister-says-4965643",
     "Watchlist|https://www.investing.com/news/earnings/civista-bancshares-earnings-beat-by-007-revenue-topped-estimates-4965670",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-ipsen-lifts-2026-outlook-after-strong-q3-growth-93CH-4965674",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-nippon-life-india-posts-record-q2-profit-shares-fall-93CH-4965676"
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-nippon-life-india-posts-record-q2-profit-shares-fall-93CH-4965676",
+    "AI|f46b51bd-d1cf-363a-9625-2524f85f975b",
+    "AI|253e1ea3-d9e3-3f65-aee5-72d668f082c8",
+    "Watchlist|f46b51bd-d1cf-363a-9625-2524f85f975b",
+    "Watchlist|253e1ea3-d9e3-3f65-aee5-72d668f082c8",
+    "AI|fc0921aa-9e8e-3981-9d72-80e48e6c5b3b",
+    "Watchlist|fc0921aa-9e8e-3981-9d72-80e48e6c5b3b",
+    "SG Banks|/companies-markets/energy-commodities/worlds-largest-offshore-wind-platform-seatrium-consortium-track-be-completed-2028",
+    "Watchlist|/companies-markets/energy-commodities/worlds-largest-offshore-wind-platform-seatrium-consortium-track-be-completed-2028",
+    "War|26f0deeb-3824-30da-9df9-733c3d2569cb",
+    "Watchlist|a1f59c24-5a53-375b-ade3-4f9dba5c0e49",
+    "Watchlist|15cb5fdf-9cd0-3f52-8f37-5370f337c5b7",
+    "War|83ffb232-fbd7-4532-9ed3-6099e981a184",
+    "War|086b9d2e-1ef4-3d00-8dd7-41879302524f",
+    "AI|29a98a02-fdf8-374f-a334-1172afbc7a39",
+    "Watchlist|29a98a02-fdf8-374f-a334-1172afbc7a39",
+    "War|aae4acb8-1882-3349-ba99-b9f7962a5cad",
+    "AI|e11eaa54-d946-3b74-b77b-5dedcc82ae15"
   ],
   "topic_error": "",
   "last_digest": "2026-10-22",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792669319.522633
+  "last_check": 1792670229.4088356
 }
