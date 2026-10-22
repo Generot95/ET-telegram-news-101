@@ -1,22 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/advisory-firm-lobbies-sec-to-end-shareholder-anonymity-eyes-january-push-4963775",
-    "AI|https://www.investing.com/news/stock-market-news/meta-ordered-to-pay-25-billion-to-new-mexico-after-jury-finds-company-misled-consumers-about-data-privacy-4963776",
-    "AI|https://www.investing.com/news/stock-market-news/judge-orders-meta-to-pay-25-billion-in-new-mexico-case-4963778",
-    "AI|https://www.investing.com/news/analyst-ratings/briley-raises-clevelandcliffs-price-target-to-18-on-improved-outlook-93CH-4963781",
-    "AI|https://www.investing.com/news/analyst-ratings/jefferies-raises-united-airlines-stock-price-target-on-earnings-beat-93CH-4963782",
-    "AI|https://www.investing.com/news/transcripts/skyx-platforms-at-ld-micro-main-event-merger-patents-and-growth-push-93CH-4963784",
-    "Cybersecurity|https://www.investing.com/news/economy-news/brookings-paper-offers-broad-plan-to-shrink-fed-balance-sheet-4963227",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/advisory-firm-lobbies-sec-to-end-shareholder-anonymity-eyes-january-push-4963775",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/meta-ordered-to-pay-25-billion-to-new-mexico-after-jury-finds-company-misled-consumers-about-data-privacy-4963776",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/judge-orders-meta-to-pay-25-billion-in-new-mexico-case-4963778",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/briley-raises-clevelandcliffs-price-target-to-18-on-improved-outlook-93CH-4963781",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/jefferies-raises-united-airlines-stock-price-target-on-earnings-beat-93CH-4963782",
-    "Cybersecurity|https://www.investing.com/news/transcripts/skyx-platforms-at-ld-micro-main-event-merger-patents-and-growth-push-93CH-4963784",
-    "SG Banks|https://www.investing.com/news/economy-news/brookings-paper-offers-broad-plan-to-shrink-fed-balance-sheet-4963227",
-    "SG Banks|https://www.investing.com/news/stock-market-news/advisory-firm-lobbies-sec-to-end-shareholder-anonymity-eyes-january-push-4963775",
-    "SG Banks|https://www.investing.com/news/stock-market-news/meta-ordered-to-pay-25-billion-to-new-mexico-after-jury-finds-company-misled-consumers-about-data-privacy-4963776",
     "SG Banks|https://www.investing.com/news/company-news/moncler-q3-2026-slides-growth-stalls-despite-major-nyc-expansion-93CH-4963777",
     "SG Banks|https://www.investing.com/news/stock-market-news/judge-orders-meta-to-pay-25-billion-in-new-mexico-case-4963778",
     "SG Banks|https://www.investing.com/news/company-news/fdj-united-q3-2026-slides-tax-increases-weak-jackpots-drive-revenue-decline-93CH-4963779",
@@ -5000,7 +4984,23 @@
     "Watchlist|https://www.investing.com/news/company-news/galaxy-digital-stock-hits-52week-low-at-1502-usd-93CH-4967167",
     "War|WP-MKTW-0005295059",
     "AI|WP-MKTW-0005295059",
-    "Cybersecurity|WP-MKTW-0005295059"
+    "Cybersecurity|WP-MKTW-0005295059",
+    "AI|10085a47-1e82-37c2-822f-cc69afa1652e",
+    "Watchlist|10085a47-1e82-37c2-822f-cc69afa1652e",
+    "Watchlist|43a8e767-df65-3e87-aff8-aed7ca061bab",
+    "AI|8c0481ce-2922-3c43-a552-7e5086ee29d6",
+    "AI|96a07454-e5b1-3b02-a372-75fa31fae408",
+    "Watchlist|8c0481ce-2922-3c43-a552-7e5086ee29d6",
+    "AI|e0055012-58e5-3fcf-9d91-fdf4b96b16c6",
+    "Cybersecurity|0b192342-4ac4-3839-80d9-88705fd2b5bc",
+    "Watchlist|e0055012-58e5-3fcf-9d91-fdf4b96b16c6",
+    "War|ac09d00d-b262-3797-8d0d-945249594753",
+    "War|7530baaa-47e7-3a48-89b9-017543dcb153",
+    "AI|743dd2e7-b402-3bd1-bb0f-7b68c7e2bfaa",
+    "Watchlist|743dd2e7-b402-3bd1-bb0f-7b68c7e2bfaa",
+    "Watchlist|865c9e09-29de-3eba-b436-f0dea9832292",
+    "AI|41d358ad-2e17-35d5-acac-db571e42641e",
+    "Watchlist|41d358ad-2e17-35d5-acac-db571e42641e"
   ],
   "topic_error": "",
   "last_digest": "2026-10-22",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792693160.120933
+  "last_check": 1792694092.4733617
 }
