@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|10d11cce-985a-4a89-aaef-46fcd303e279",
-    "War|30959135-37ad-4b04-b345-aad974c8d1f7",
-    "SG Banks|https://www.straitstimes.com/business/musk-calls-tesla-spacex-merger-a-good-idea-as-spacex-posts-first-profit-as-a-public-company",
-    "AI|dc0151d3-b908-3640-80d0-5e1af1509322",
-    "Watchlist|dc0151d3-b908-3640-80d0-5e1af1509322",
-    "AI|d122c0f1-bea0-34f4-8201-37a7e456dd4b",
-    "AI|a75a7c7b-8ca0-3f03-8fda-821be2b36036",
-    "Watchlist|d122c0f1-bea0-34f4-8201-37a7e456dd4b",
     "Watchlist|a75a7c7b-8ca0-3f03-8fda-821be2b36036",
     "Crypto|e4722f71-47ad-38f6-922c-fa927643d540",
     "Cybersecurity|7e126e83-175f-385a-801e-fd614b965250",
@@ -5000,7 +4992,15 @@
     "SG Banks|07420625-57bb-34fc-a1e9-e9ac3ffb1693",
     "SG Banks|0e9891f3-88b2-3275-9632-d7962bb5c578",
     "SG Banks|/companies-markets/super-micro-preliminary-results-top-estimates-shares-jump-12",
-    "Watchlist|/companies-markets/super-micro-preliminary-results-top-estimates-shares-jump-12"
+    "Watchlist|/companies-markets/super-micro-preliminary-results-top-estimates-shares-jump-12",
+    "SG Banks|https://www.straitstimes.com/business/tesla-aims-to-sell-cybercab-robotaxis-by-end-of-2026-despite-federal-probe",
+    "SG Banks|/companies-markets/energy-commodities/oil-rises-us-orders-diplomats-leave-saudi-arabia-amid-escalating-tensions",
+    "Watchlist|/companies-markets/energy-commodities/oil-rises-us-orders-diplomats-leave-saudi-arabia-amid-escalating-tensions",
+    "SG Banks|https://www.straitstimes.com/business/musk-calls-tesla-spacex-merger-a-good-idea-as-spacex-posts-first-profit-as-a-public-company",
+    "SG Banks|https://www.straitstimes.com/business/frasers-centrepoint-trust-posts-2-6-higher-second-half-dpu-to-hit-new-full-year-record-payout",
+    "Crypto|8db1a6ae-f4a7-3374-b2c1-bce92f5e7143",
+    "Watchlist|aacc4442-c8cf-33bd-b7ea-86fa7f9830b5",
+    "SG Banks|https://www.channelnewsasia.com/business/asian-markets-dip-investors-weigh-tech-earnings-gulf-tensions-6481076"
   ],
   "topic_error": "",
   "last_digest": "2026-10-22",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792635412.5698366
+  "last_check": 1792636329.4150875
 }
