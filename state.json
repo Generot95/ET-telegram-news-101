@@ -1,17 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/european-shares-steady-ahead-of-big-tech-reports-4961665",
-    "Watchlist|https://www.investing.com/news/earnings/dsv-shares-surge-on-thirdquarter-revenue-beat-share-buyback-launch-4961751",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/bernstein-cuts-netflix-stock-price-target-on-2027-uncertainty-93CH-4961752",
-    "Watchlist|https://www.investing.com/news/earnings/addlife-profit-beats-forecasts-as-margins-improve-and-acquisitions-accelerate-4961753",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-neobo-q3-2026-shows-stronger-pershare-profit-93CH-4961756",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-archer-q3-2026-results-lift-shares-as-debt-worries-grow-93CH-4961757",
-    "Watchlist|https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-uk-inflation-quickens-to-35-4961773",
-    "Watchlist|https://www.investing.com/news/stock-market-news/raymond-james-names-top-3-picks-in-beauty-stocks-4961774",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/morgan-stanley-downgrades-carrefour-stock-rating-on-french-unrest-impact-93CH-4961775",
-    "SG Banks|/companies-markets/energy-commodities/gold-declines-bond-yields-stay-elevated-despite-oil-drop",
-    "SG Banks|/companies-markets/two-horse-race-openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say",
     "SG Banks|https://www.straitstimes.com/business/uniqlo-to-raise-average-selling-prices-by-about-4",
     "SG Banks|https://www.straitstimes.com/business/keppel-reit-to-buy-51-stake-in-keppel-south-central-for-610-9-million",
     "Watchlist|/companies-markets/energy-commodities/gold-declines-bond-yields-stay-elevated-despite-oil-drop",
@@ -5000,7 +4989,18 @@
     "SG Banks|https://www.straitstimes.com/business/lao-huo-tangs-parent-firm-given-4-more-weeks-to-clear-cpf-arrears",
     "Watchlist|/international/us-allows-dark-fleet-oil-tankers-shed-sanctions-amid-bid-boost-oil-supply",
     "Watchlist|/companies-markets/first-resources-confident-clearing-name-haze-allegations",
-    "Watchlist|/companies-markets/stocks-watch-first-resources-keppel-reit"
+    "Watchlist|/companies-markets/stocks-watch-first-resources-keppel-reit",
+    "AI|fbfbead8-6c0b-390b-8975-6e5ae45e1c2a",
+    "Watchlist|fbfbead8-6c0b-390b-8975-6e5ae45e1c2a",
+    "AI|8b4b5d36-e2ce-3061-b929-873ebcf48231",
+    "SG Banks|/companies-markets/banking-finance/barclays-cut-5000-jobs-ai-fuelled-push-lower-costs",
+    "Watchlist|/companies-markets/banking-finance/barclays-cut-5000-jobs-ai-fuelled-push-lower-costs",
+    "War|WP-MKTW-0005300862",
+    "AI|WP-MKTW-0005300862",
+    "Cybersecurity|WP-MKTW-0005300862",
+    "SG Banks|https://www.channelnewsasia.com/business/philippine-central-bank-delivers-larger-expected-50-bps-hike-combat-inflation-6481711",
+    "Crypto|a7d39f04-fb2d-37ff-9606-3546d9fa8384",
+    "SG Banks|/companies-markets/energy-commodities/gold-declines-bond-yields-stay-elevated-despite-oil-drop"
   ],
   "topic_error": "",
   "last_digest": "2026-10-22",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792658319.7159185
+  "last_check": 1792659234.243607
 }
