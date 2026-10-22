@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/world-news/un-experts-urge-indian-authorities-to-cease-use-of-excessive-force-to-curb-protests-4961259",
-    "SG Banks|https://www.investing.com/news/world-news/china-sends-naval-forces-to-monitor-us-warship-near-disputed-shoal-4958974",
-    "Watchlist|https://www.investing.com/news/world-news/un-experts-urge-indian-authorities-to-cease-use-of-excessive-force-to-curb-protests-4961259",
     "Watchlist|https://www.investing.com/news/world-news/china-sends-naval-forces-to-monitor-us-warship-near-disputed-shoal-4958974",
     "SG Banks|/companies-markets/netflix-great-making-money-its-problem-keeping-viewers-hooked",
     "SG Banks|https://www.channelnewsasia.com/business/japan-shifting-wage-driven-inflation-phase-finance-minister-says-6477281",
@@ -5000,7 +4997,10 @@
     "Watchlist|95c27123-5b8b-343a-82c0-d5433b6335db",
     "AI|0de3376b-f467-3171-9717-0c6843326ecf",
     "AI|b338565d-58f1-38e3-bea1-6210d9073530",
-    "Watchlist|b338565d-58f1-38e3-bea1-6210d9073530"
+    "Watchlist|b338565d-58f1-38e3-bea1-6210d9073530",
+    "AI|8df0d53c-3876-3482-9e16-dc112e91c7e0",
+    "Watchlist|8df0d53c-3876-3482-9e16-dc112e91c7e0",
+    "Crypto|90a36bb1-5825-337c-891b-d417bec31af5"
   ],
   "topic_error": "",
   "last_digest": "2026-10-22",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792645501.9651284
+  "last_check": 1792646401.0302658
 }
