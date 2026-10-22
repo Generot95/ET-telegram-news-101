@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/insider-trading-news/ferguson-chro-allison-stirrup-sells-207450-in-company-stock-93CH-4961373",
-    "AI|https://www.investing.com/news/insider-trading-news/ferguson-chief-legal-officer-sells-75273-in-company-stock-93CH-4961375",
-    "AI|https://www.investing.com/news/insider-trading-news/ferguson-coo-sells-127125-in-stock-93CH-4961376",
-    "AI|https://www.investing.com/news/insider-trading-news/ferguson-ceo-kevin-murphy-sells-549843-in-company-stock-93CH-4961383",
-    "Cybersecurity|https://www.investing.com/news/transcripts/liveone-at-ld-micro-20th-annual-main-event-conference-turnaround-gains-93CH-4961363",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/bath--body-works-director-sarah-nash-sells-14-in-company-stock-93CH-4961367",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/ferguson-senior-vp-camposano-sells-85879-in-company-stock-93CH-4961374",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/ferguson-chro-allison-stirrup-sells-207450-in-company-stock-93CH-4961373",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/ferguson-chief-legal-officer-sells-75273-in-company-stock-93CH-4961375",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/ferguson-coo-sells-127125-in-stock-93CH-4961376",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/ferguson-ceo-kevin-murphy-sells-549843-in-company-stock-93CH-4961383",
@@ -5000,7 +4992,15 @@
     "Iran|https://www.iranintl.com/en/202610161362",
     "SG Banks|/international/global/spacex-profit-beats-estimates-161-revenue-jump-growth-ai-satellite-internet-businesses",
     "SG Banks|https://www.straitstimes.com/business/anthropic-logged-net-loss-of-over-us80-billion-in-first-half-of-2026-report",
-    "Watchlist|/international/global/spacex-profit-beats-estimates-161-revenue-jump-growth-ai-satellite-internet-businesses"
+    "Watchlist|/international/global/spacex-profit-beats-estimates-161-revenue-jump-growth-ai-satellite-internet-businesses",
+    "War|6b6aaba9-e1ec-3ea9-b8d8-a26e7c168b6c",
+    "AI|6b6aaba9-e1ec-3ea9-b8d8-a26e7c168b6c",
+    "SG Banks|/companies-markets/capital-markets-currencies/euro-nears-3-month-low-against-singdollar-amid-political-unrest-europe-may-weaken-further",
+    "Watchlist|/companies-markets/capital-markets-currencies/euro-nears-3-month-low-against-singdollar-amid-political-unrest-europe-may-weaken-further",
+    "SG Banks|https://www.channelnewsasia.com/business/deepseek-raises-15-billion-in-challenge-leading-us-labs-bloomberg-news-reports-6481206",
+    "War|c6986692-7518-3aa4-8b2f-a63e5d6cf0f6",
+    "SG Banks|/companies-markets/carro-establishes-s450-million-financing-facility-backed-car-loans",
+    "Watchlist|/companies-markets/carro-establishes-s450-million-financing-facility-backed-car-loans"
   ],
   "topic_error": "",
   "last_digest": "2026-10-22",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792637252.6746511
+  "last_check": 1792638156.8288372
 }
