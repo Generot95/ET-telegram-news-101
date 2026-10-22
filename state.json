@@ -1,24 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/press-releases/lmscapitalgroup-announces-advances-in-trading-execution-through-unified-data-layers-and-ai-automation-4963816",
-    "SG Banks|https://www.investing.com/news/commodities-news/chevron-to-sharpen-us-gulf-focus-with-sale-of-older-assets-4963810",
-    "SG Banks|https://www.investing.com/news/stock-market-news/abbott-options-flow-points-to-downside-caution-after-guidance-cut-93CH-4963811",
-    "SG Banks|https://www.investing.com/news/transcripts/ten-holdings-at-ld-micro-20th-annual-main-event-conference-saas-push-93CH-4963812",
-    "SG Banks|https://www.investing.com/news/stock-market-news/blackrock-adds-robotics-etf-to-growing-ranks-of-aithemed-products-4963809",
-    "SG Banks|https://www.investing.com/news/stock-market-news/britain-regulator-ends-home-reit-probe-defers-to-fraud-office-93CH-4963814",
-    "SG Banks|https://www.investing.com/news/press-releases/lmscapitalgroup-announces-advances-in-trading-execution-through-unified-data-layers-and-ai-automation-4963816",
-    "Watchlist|https://www.investing.com/news/commodities-news/chevron-to-sharpen-us-gulf-focus-with-sale-of-older-assets-4963810",
-    "Watchlist|https://www.investing.com/news/stock-market-news/abbott-options-flow-points-to-downside-caution-after-guidance-cut-93CH-4963811",
-    "Watchlist|https://www.investing.com/news/transcripts/ten-holdings-at-ld-micro-20th-annual-main-event-conference-saas-push-93CH-4963812",
-    "Watchlist|https://www.investing.com/news/stock-market-news/blackrock-adds-robotics-etf-to-growing-ranks-of-aithemed-products-4963809",
-    "Watchlist|https://www.investing.com/news/stock-market-news/britain-regulator-ends-home-reit-probe-defers-to-fraud-office-93CH-4963814",
-    "Watchlist|https://www.investing.com/news/press-releases/lmscapitalgroup-announces-advances-in-trading-execution-through-unified-data-layers-and-ai-automation-4963816",
-    "Crypto|3bfc64f0-2f24-3d88-8cac-e1636283dadb",
-    "Watchlist|3cb9e8ae-4da0-30bd-9cec-6a0531abd9df",
-    "AI|05f3069d-b550-36a1-a404-e68c4eb850d4",
-    "Watchlist|05f3069d-b550-36a1-a404-e68c4eb850d4",
-    "Crypto|7828e71d-b358-306e-8b2a-45af2eedb3e5",
     "Watchlist|9b7ad2cf-e7b2-3e0e-916f-aa4f829b4230",
     "Watchlist|ade5dc22-e5e5-376f-bf2e-acfb2c64f576",
     "War|f1aed4a7-d210-3723-b86a-29b34694d437",
@@ -5000,7 +4982,25 @@
     "War|8525b0ee-dcee-3efb-a419-483579c34302",
     "AI|fe6f9f55-cebb-32a2-b438-d06924d91d8b",
     "AI|5c4c7bb0-49ef-3504-bffa-32e2ce568252",
-    "Crypto|4a549c23-8c1c-3aa2-9c22-b0ab08b61b37"
+    "Crypto|4a549c23-8c1c-3aa2-9c22-b0ab08b61b37",
+    "AI|eea04be6-e68c-3d38-8e10-1f8c5c374afe",
+    "Watchlist|eea04be6-e68c-3d38-8e10-1f8c5c374afe",
+    "War|WP-MKTW-0005302205",
+    "AI|WP-MKTW-0005302205",
+    "Cybersecurity|WP-MKTW-0005302205",
+    "Watchlist|452d186d-e7c0-4440-88d4-68b4409a1eca",
+    "Watchlist|f7696839-7c56-34c4-b042-c83194a013b2",
+    "AI|f7696839-7c56-34c4-b042-c83194a013b2",
+    "AI|de1df460-77da-3f09-876a-ece44751ec1d",
+    "AI|f32ca130-03ab-358d-8f2b-339bf8edcb4c",
+    "AI|486f56f5-e0b1-381e-bcbd-324926380d6c",
+    "Watchlist|f32ca130-03ab-358d-8f2b-339bf8edcb4c",
+    "Watchlist|486f56f5-e0b1-381e-bcbd-324926380d6c",
+    "Watchlist|de1df460-77da-3f09-876a-ece44751ec1d",
+    "War|b85e2d95-1d64-3007-a9fd-60798738dcd1",
+    "War|53fd55c0-6f80-34ed-afec-902d6b78bd7a",
+    "War|190177fc-65b5-39e1-ba16-6731c6277783",
+    "Watchlist|3080ee3e-5623-3724-821d-146a986fefd1"
   ],
   "topic_error": "",
   "last_digest": "2026-10-22",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792696835.4079835
+  "last_check": 1792697759.2123115
 }
