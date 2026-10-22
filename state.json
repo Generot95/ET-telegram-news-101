@@ -1,24 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/earnings/bank-ozk-earnings-beat-by-007-revenue-fell-short-of-estimates-4961403",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/porch-group-director-reierson-sells-89761-in-shares-93CH-4961404",
-    "Cybersecurity|https://www.investing.com/news/economy-news/japans-september-exports-rise-167-helped-by-chip-demand-4961405",
-    "Cybersecurity|https://www.investing.com/news/economic-indicators/japan-posts-biggerthanexpected-trade-deficit-in-sept-as-export-growth-slows-4961413",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-tesla-stock-rising-afterhours-today-93CH-4961414",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-nextdc-stock-crashing-today-93CH-4961418",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/el-pollo-loco-director-sardar-biglari-sells-421674-in-loco-stock-93CH-4961424",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/nextdc-shares-plunge-42-to-a-near-nineyear-low-after-outlook-cut-4961425",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/guidewire-president-john-mullen-sells-999000-in-shares-93CH-4961400",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/qualcomm-cfo-palkhiwala-sells-437646-in-company-stock-93CH-4961402",
-    "SG Banks|https://www.investing.com/news/earnings/bank-ozk-earnings-beat-by-007-revenue-fell-short-of-estimates-4961403",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/porch-group-director-reierson-sells-89761-in-shares-93CH-4961404",
-    "SG Banks|https://www.investing.com/news/economy-news/japans-september-exports-rise-167-helped-by-chip-demand-4961405",
-    "SG Banks|https://www.investing.com/news/economic-indicators/japan-posts-biggerthanexpected-trade-deficit-in-sept-as-export-growth-slows-4961413",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-tesla-stock-rising-afterhours-today-93CH-4961414",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-nextdc-stock-crashing-today-93CH-4961418",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/el-pollo-loco-director-sardar-biglari-sells-421674-in-loco-stock-93CH-4961424",
-    "SG Banks|https://www.investing.com/news/stock-market-news/nextdc-shares-plunge-42-to-a-near-nineyear-low-after-outlook-cut-4961425",
     "Watchlist|https://www.investing.com/news/insider-trading-news/guidewire-president-john-mullen-sells-999000-in-shares-93CH-4961400",
     "Watchlist|https://www.investing.com/news/insider-trading-news/qualcomm-cfo-palkhiwala-sells-437646-in-company-stock-93CH-4961402",
     "Watchlist|https://www.investing.com/news/earnings/bank-ozk-earnings-beat-by-007-revenue-fell-short-of-estimates-4961403",
@@ -5000,7 +4982,25 @@
     "AI|ae088827-e4dc-35e3-987c-3e077e26da92",
     "SG Banks|https://www.channelnewsasia.com/business/europe-car-sales-rise-10-in-september-ev-surge-offsets-combustion-slump-6481391",
     "Watchlist|ae088827-e4dc-35e3-987c-3e077e26da92",
-    "SG Banks|https://www.channelnewsasia.com/business/cloudflare-sees-millions-exploit-attempts-after-php-disclosure-6481421"
+    "SG Banks|https://www.channelnewsasia.com/business/cloudflare-sees-millions-exploit-attempts-after-php-disclosure-6481421",
+    "AI|b7e85fcc-9b77-31d8-8d4c-c553d3c377be",
+    "Watchlist|b7e85fcc-9b77-31d8-8d4c-c553d3c377be",
+    "AI|https://www.investing.com/news/stock-market-news/cloudflare-sees-millions-of-exploit-attempts-after-php-disclosure-4964603",
+    "AI|https://www.investing.com/news/earnings/mid-penn-earnings-missed-by-001-revenue-fell-short-of-estimates-4964604",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/cloudflare-sees-millions-of-exploit-attempts-after-php-disclosure-4964603",
+    "Cybersecurity|https://www.investing.com/news/earnings/mid-penn-earnings-missed-by-001-revenue-fell-short-of-estimates-4964604",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/apple-will-have-limited-iphone-duo-units-available-in-stores-on-friday-4963408",
+    "SG Banks|https://www.investing.com/news/stock-market-news/cloudflare-sees-millions-of-exploit-attempts-after-php-disclosure-4964603",
+    "SG Banks|https://www.investing.com/news/earnings/mid-penn-earnings-missed-by-001-revenue-fell-short-of-estimates-4964604",
+    "SG Banks|https://www.investing.com/news/stock-market-news/apple-will-have-limited-iphone-duo-units-available-in-stores-on-friday-4963408",
+    "Watchlist|https://www.investing.com/news/stock-market-news/cloudflare-sees-millions-of-exploit-attempts-after-php-disclosure-4964603",
+    "Watchlist|https://www.investing.com/news/earnings/mid-penn-earnings-missed-by-001-revenue-fell-short-of-estimates-4964604",
+    "Watchlist|https://www.investing.com/news/stock-market-news/apple-will-have-limited-iphone-duo-units-available-in-stores-on-friday-4963408",
+    "War|5fe97fe7-a268-358e-a9c2-e87ef2b5e024",
+    "AI|c4246a0d-1fc1-3cdd-9a85-63560c0a7773",
+    "AI|5fe97fe7-a268-358e-a9c2-e87ef2b5e024",
+    "Watchlist|c4246a0d-1fc1-3cdd-9a85-63560c0a7773",
+    "Watchlist|f645e4f3-2866-3dd3-8bb6-b554efafb464"
   ],
   "topic_error": "",
   "last_digest": "2026-10-22",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792642741.4212291
+  "last_check": 1792643652.9121826
 }
