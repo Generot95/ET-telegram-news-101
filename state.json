@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/world-news/un-experts-urge-indian-authorities-to-cease-use-of-excessive-force-to-curb-protests-4961259",
-    "AI|https://www.investing.com/news/world-news/china-sends-naval-forces-to-monitor-us-warship-near-disputed-shoal-4958974",
-    "Cybersecurity|https://www.investing.com/news/world-news/un-experts-urge-indian-authorities-to-cease-use-of-excessive-force-to-curb-protests-4961259",
-    "Cybersecurity|https://www.investing.com/news/world-news/china-sends-naval-forces-to-monitor-us-warship-near-disputed-shoal-4958974",
     "SG Banks|https://www.investing.com/news/world-news/un-experts-urge-indian-authorities-to-cease-use-of-excessive-force-to-curb-protests-4961259",
     "SG Banks|https://www.investing.com/news/world-news/china-sends-naval-forces-to-monitor-us-warship-near-disputed-shoal-4958974",
     "Watchlist|https://www.investing.com/news/world-news/un-experts-urge-indian-authorities-to-cease-use-of-excessive-force-to-curb-protests-4961259",
@@ -5000,7 +4996,11 @@
     "SG Banks|WP-MKTW-0003853112",
     "SG Banks|WP-MKTW-0004179843",
     "SG Banks|WP-MKTW-0004255367",
-    "SG Banks|https://www.straitstimes.com/business/chinese-automaker-reports-set-to-shine-before-challenges-mount"
+    "SG Banks|https://www.straitstimes.com/business/chinese-automaker-reports-set-to-shine-before-challenges-mount",
+    "Watchlist|95c27123-5b8b-343a-82c0-d5433b6335db",
+    "AI|0de3376b-f467-3171-9717-0c6843326ecf",
+    "AI|b338565d-58f1-38e3-bea1-6210d9073530",
+    "Watchlist|b338565d-58f1-38e3-bea1-6210d9073530"
   ],
   "topic_error": "",
   "last_digest": "2026-10-22",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792644582.0326385
+  "last_check": 1792645501.9651284
 }
