@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/transcripts/electromed-at-ld-micro-main-event-growth-margins-and-a-ceo-exit-93CH-4961263",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-east-west-bancorp-tops-q3-2026-estimates-on-record-results-93CH-4961264",
-    "SG Banks|https://www.investing.com/news/transcripts/faraday-future-robotics-at-ld-micro-bets-on-open-ai-ecosystem-93CH-4961273",
-    "SG Banks|https://www.investing.com/news/company-news/east-west-bancorp-q3-2026-slides-record-results-drive-guidance-raise-93CH-4961274",
-    "SG Banks|https://www.investing.com/news/economy-news/boj-to-raise-rates-to-150-in-december-sticking-to-quarterly-pace-reuters-poll-4961275",
-    "SG Banks|https://www.investing.com/news/transcripts/citrotech-at-ld-micro-conference-wildfire-push-meets-funding-test-93CH-4961276",
-    "Watchlist|860579e6-1395-35e1-ab32-ceeae4685c3c",
-    "Watchlist|https://www.investing.com/news/transcripts/electromed-at-ld-micro-main-event-growth-margins-and-a-ceo-exit-93CH-4961263",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-east-west-bancorp-tops-q3-2026-estimates-on-record-results-93CH-4961264",
     "Watchlist|https://www.investing.com/news/transcripts/faraday-future-robotics-at-ld-micro-bets-on-open-ai-ecosystem-93CH-4961273",
     "Watchlist|https://www.investing.com/news/company-news/east-west-bancorp-q3-2026-slides-record-results-drive-guidance-raise-93CH-4961274",
@@ -5000,7 +4992,15 @@
     "SG Banks|/companies-markets/european-stocks-extend-slide-french-unrest-rattles-investors",
     "SG Banks|https://www.channelnewsasia.com/business/japan-funding-conditions-still-loose-despite-interest-rate-hikes-survey-shows-6480816",
     "Watchlist|/companies-markets/capital-markets-currencies/dow-outperforms-wall-street-rises-healthcare-stocks-lead-gains",
-    "Watchlist|/companies-markets/european-stocks-extend-slide-french-unrest-rattles-investors"
+    "Watchlist|/companies-markets/european-stocks-extend-slide-french-unrest-rattles-investors",
+    "SG Banks|https://www.channelnewsasia.com/business/bank-korea-holds-rates-expected-after-back-back-hikes-6480836",
+    "SG Banks|/companies-markets/tesla-cuts-spending-potential-spacex-deal-even-musk-bets-future-ai-robots",
+    "Watchlist|/companies-markets/tesla-cuts-spending-potential-spacex-deal-even-musk-bets-future-ai-robots",
+    "War|82f19d1e-4f7b-391f-89af-160a0b589ebd",
+    "AI|1694fc11-79da-3aea-b2c1-9fc9ed2fb00a",
+    "Watchlist|951797d1-6f15-397b-8381-51b272dc1aff",
+    "SG Banks|https://www.channelnewsasia.com/business/bank-korea-holds-rates-after-back-back-hikes-6480906",
+    "Watchlist|92b268ad-e0f1-3c46-bc90-601ebe28c375"
   ],
   "topic_error": "",
   "last_digest": "2026-10-22",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792630829.9524333
+  "last_check": 1792631762.0323792
 }
