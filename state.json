@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-aic-mines-posts-record-cash-flow-in-q1-2026-93CH-4964477",
-    "Watchlist|https://www.investing.com/news/stock-market-news/meta-sued-in-australia-class-action-over-alleged-social-media-harm-to-children-4964476",
-    "Watchlist|https://www.investing.com/news/commodities-news/oil-prices-rise-as-meast-tensions-fuel-fears-of-supply-disruptions-4964479",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/verisign-ceo-d-james-bidzos-sells-101-million-in-company-stock-93CH-4964483",
-    "Watchlist|https://www.investing.com/news/commodities-news/oil-rises-as-us-orders-diplomats-to-leave-saudi-arabia-amid-escalating-tensions-4964484",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-tesla-stock-falling-afterhours-today-93CH-4964486",
-    "AI|WP-MKTW-0003041256",
-    "AI|WP-MKTW-0003055784",
-    "AI|WP-MKTW-0003509216",
-    "AI|WP-MKTW-0003509284",
-    "AI|WP-MKTW-0003805099",
-    "AI|WP-MKTW-0003805097",
-    "AI|WP-MKTW-0003853114",
     "SG Banks|/companies-markets/capital-markets-currencies/dow-outperforms-wall-street-rises-healthcare-stocks-lead-gains",
     "SG Banks|/companies-markets/european-stocks-extend-slide-french-unrest-rattles-investors",
     "SG Banks|https://www.channelnewsasia.com/business/japan-funding-conditions-still-loose-despite-interest-rate-hikes-survey-shows-6480816",
@@ -5000,7 +4987,20 @@
     "Watchlist|527ce325-b52d-38e4-9775-26ea0d2f2a17",
     "Iran|https://www.iranintl.com/en/202610232329",
     "Cybersecurity|527ce325-b52d-38e4-9775-26ea0d2f2a17",
-    "AI|https://www.investing.com/news/stock-market-news/while-tech-stocks-slide-an-aipicked-retailer-surges-31-in-october-4967960"
+    "AI|https://www.investing.com/news/stock-market-news/while-tech-stocks-slide-an-aipicked-retailer-surges-31-in-october-4967960",
+    "War|e2a91c73-a9b0-3570-b82e-9041f57761d7",
+    "AI|e2a91c73-a9b0-3570-b82e-9041f57761d7",
+    "SG Banks|/companies-markets/energy-commodities/gold-heads-sharpest-weekly-decline-four-months-fed-rate-outlook",
+    "SG Banks|https://www.channelnewsasia.com/business/japan-government-boj-gap-inflation-laid-bare-ahead-key-policy-meeting-6484686",
+    "Watchlist|/companies-markets/energy-commodities/gold-heads-sharpest-weekly-decline-four-months-fed-rate-outlook",
+    "War|76667be7-466e-3252-b1b1-ca16d164cc7b",
+    "War|77f894f5-5e80-390b-9d45-8574fb77065b",
+    "AI|WP-MKTW-0003041256",
+    "Watchlist|77f894f5-5e80-390b-9d45-8574fb77065b",
+    "AI|99e2ecad-8046-31b9-8d26-8231940ef9dd",
+    "AI|WP-MKTW-0003055784",
+    "AI|WP-MKTW-0003509216",
+    "Watchlist|99e2ecad-8046-31b9-8d26-8231940ef9dd"
   ],
   "topic_error": "",
   "last_digest": "2026-10-23",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792724338.3176756
+  "last_check": 1792725252.2325146
 }
