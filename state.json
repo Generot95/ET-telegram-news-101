@@ -1,21 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/trump-ordered-to-sit-for-deposition-in-his-10-billion-bbc-lawsuit-ap-reports-4967039",
-    "AI|https://www.investing.com/news/stock-market-news/sap-earnings-analysis-questions-answered-and-next-catalysts-93CH-4967050",
-    "AI|https://www.investing.com/news/stock-market-news/procter--gamble-earnings-analysis-questions-answered-and-next-catalysts-93CH-4967061",
-    "AI|https://www.investing.com/news/stock-market-news/comcast-earnings-analysis-questions-answered-and-next-catalysts-93CH-4967062",
-    "AI|https://www.investing.com/news/stock-market-news/spotify-earnings-analysis-questions-answered-and-next-catalysts-93CH-4967064",
-    "AI|https://www.investing.com/news/stock-market-news/honeywell-earnings-analysis-questions-answered-and-next-catalysts-93CH-4967065",
-    "AI|https://www.investing.com/news/company-news/kratos-defense--security-solutions-stock-hits-52week-low-at-3784-93CH-4967052",
-    "AI|https://www.investing.com/news/company-news/ryder-q3-2026-slides-eps-up-21-guidance-raised-on-freight-recovery-93CH-4967053",
-    "AI|https://www.investing.com/news/company-news/cornerstone-total-return-fund-stock-hits-52week-low-at-582-93CH-4967056",
-    "AI|https://www.investing.com/news/company-news/alpek-q3-2026-slides-ebitda-doubles-guidance-raised-as-stock-falls-93CH-4967057",
-    "AI|https://www.investing.com/news/company-news/bj-stock-hits-52week-high-at-10606-usd-93CH-4967058",
-    "AI|https://www.investing.com/news/company-news/cipher-digital-stock-hits-52week-low-at-823-usd-93CH-4967060",
-    "Cybersecurity|https://www.investing.com/news/company-news/accor-q3-2026-slides-revpar-climbs-49-profit-outlook-upgraded-93CH-4967066",
-    "Cybersecurity|https://www.investing.com/news/company-news/vinci-9m-2026-slides-q3-revenue-growth-accelerates-to-5-93CH-4967070",
-    "Cybersecurity|https://www.investing.com/news/company-news/healthstream-stock-hits-52week-high-at-3449-93CH-4967071",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/jefferies-reiterates-argenx-stock-buy-rating-after-q3-beat-93CH-4967074",
     "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-nexity-q3-2026-revenue-falls-as-shares-slip-38-93CH-4967075",
     "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-groupe-seb-q3-2026-sales-flat-as-stock-falls-31-93CH-4967076",
@@ -5000,7 +4985,22 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/apples-foldable-iphone-hits-stores-with-2000-price-tag-and-scarce-supply-4970368",
     "Watchlist|https://www.investing.com/news/company-news/summit-therapeutics-partners-with-lunit-on-ai-pathology-research-93CH-4970369",
     "Watchlist|https://www.investing.com/news/sec-filings/sitime-director-katherine-schuelke-resigns-board-size-reduced-to-eight-93CH-4970370",
-    "Iran|https://www.iranintl.com/en/202610199849"
+    "Iran|https://www.iranintl.com/en/202610199849",
+    "War|WP-MKTW-0005305118",
+    "AI|388b64e7-8dd3-3cea-a983-1de437ae3abc",
+    "AI|WP-MKTW-0005305118",
+    "Cybersecurity|WP-MKTW-0005305118",
+    "Watchlist|388b64e7-8dd3-3cea-a983-1de437ae3abc",
+    "AI|878e2940-5cca-31dc-93a1-adf8f1ddea55",
+    "AI|1c71286d-c223-3829-8c75-5aaf15581345",
+    "AI|db9bed1b-0c5e-3572-bf64-309e73276eac",
+    "Watchlist|1c71286d-c223-3829-8c75-5aaf15581345",
+    "AI|cdb9c13b-db57-3551-acd0-7507e9d69b5a",
+    "Watchlist|cdb9c13b-db57-3551-acd0-7507e9d69b5a",
+    "SG Banks|https://www.straitstimes.com/business/invest/investor-lost-millions-because-he-did-not-read-documents-that-he-signed",
+    "AI|ea0f33b2-e1a4-39e0-9113-b4618d023c20",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/wall-street-closes-lower-to-end-rocky-week",
+    "Watchlist|ea0f33b2-e1a4-39e0-9113-b4618d023c20"
   ],
   "topic_error": "",
   "last_digest": "2026-10-23",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792788554.4764185
+  "last_check": 1792789466.9803894
 }
