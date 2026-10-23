@@ -1,22 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/central-bancompany-stock-hits-alltime-high-at-3403-usd-93CH-4966953",
-    "Cybersecurity|https://www.investing.com/news/company-news/badger-meter-q3-2026-slides-margins-expand-as-smart-water-shift-accelerates-93CH-4966955",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/mizuho-raises-meta-stock-price-target-to-950-on-revenue-outlook-93CH-4966944",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-netstreit-tops-revenue-in-q3-2026-shares-edge-up-93CH-4966945",
-    "SG Banks|https://www.investing.com/news/company-news/paylocity-stock-hits-52week-high-at-17735-usd-93CH-4966946",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-lindsay-tops-q4-estimates-but-outlook-stays-cautious-93CH-4966947",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-banner-misses-q3-2026-estimates-but-sees-margin-lift-93CH-4966948",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-first-american-financial-q3-2026-misses-estimates-93CH-4966949",
-    "SG Banks|https://www.investing.com/news/stock-market-news/guccis-sales-drop-5-in-third-quarter-as-weak-chinese-demand-dampens-turnaround-hopes-4966939",
-    "SG Banks|https://www.investing.com/news/company-news/graco-q3-2026-slides-record-revenue-overshadowed-by-margin-pressure-93CH-4966951",
-    "Watchlist|c1fc881b-0d85-3be7-86ba-cbe3d192ee3a",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/mizuho-raises-meta-stock-price-target-to-950-on-revenue-outlook-93CH-4966944",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-netstreit-tops-revenue-in-q3-2026-shares-edge-up-93CH-4966945",
-    "Watchlist|https://www.investing.com/news/company-news/paylocity-stock-hits-52week-high-at-17735-usd-93CH-4966946",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-lindsay-tops-q4-estimates-but-outlook-stays-cautious-93CH-4966947",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-banner-misses-q3-2026-estimates-but-sees-margin-lift-93CH-4966948",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-first-american-financial-q3-2026-misses-estimates-93CH-4966949",
     "Watchlist|https://www.investing.com/news/stock-market-news/guccis-sales-drop-5-in-third-quarter-as-weak-chinese-demand-dampens-turnaround-hopes-4966939",
     "Watchlist|https://www.investing.com/news/company-news/graco-q3-2026-slides-record-revenue-overshadowed-by-margin-pressure-93CH-4966951",
@@ -5000,7 +4984,23 @@
     "Watchlist|b696ad6a-0f97-3983-a46c-c4c7cbee7769",
     "War|WP-MKTW-0005303702",
     "AI|WP-MKTW-0005303702",
-    "Cybersecurity|WP-MKTW-0005303702"
+    "Cybersecurity|WP-MKTW-0005303702",
+    "Crypto|1821f2a4-4da4-440e-ab1a-b2ee81092d45",
+    "War|31ba61bb-818a-3dfe-96f2-5d4d4fd79930",
+    "AI|19c1d533-24e5-3ff7-b5bc-4e45ef795f52",
+    "AI|https://www.investing.com/news/company-news/tmobile-stock-hits-52week-low-at-14789-usd-93CH-4970239",
+    "AI|https://www.investing.com/news/economy-news/us-expected-to-lift-50-tariffs-on-select-canadian-agricultural-imports-wsj-says-4970240",
+    "Cybersecurity|https://www.investing.com/news/company-news/tmobile-stock-hits-52week-low-at-14789-usd-93CH-4970239",
+    "Cybersecurity|https://www.investing.com/news/economy-news/us-expected-to-lift-50-tariffs-on-select-canadian-agricultural-imports-wsj-says-4970240",
+    "SG Banks|https://www.investing.com/news/company-news/tmobile-stock-hits-52week-low-at-14789-usd-93CH-4970239",
+    "SG Banks|https://www.investing.com/news/economy-news/us-expected-to-lift-50-tariffs-on-select-canadian-agricultural-imports-wsj-says-4970240",
+    "Watchlist|19c1d533-24e5-3ff7-b5bc-4e45ef795f52",
+    "Watchlist|https://www.investing.com/news/company-news/tmobile-stock-hits-52week-low-at-14789-usd-93CH-4970239",
+    "Watchlist|https://www.investing.com/news/economy-news/us-expected-to-lift-50-tariffs-on-select-canadian-agricultural-imports-wsj-says-4970240",
+    "War|7ed78694-d829-4535-b577-41822353f008",
+    "War|WP-MKTW-0005303969",
+    "AI|WP-MKTW-0005303969",
+    "Cybersecurity|WP-MKTW-0005303969"
   ],
   "topic_error": "",
   "last_digest": "2026-10-23",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792782134.3996503
+  "last_check": 1792783032.8896973
 }
