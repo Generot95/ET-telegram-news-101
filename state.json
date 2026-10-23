@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/axel-springer-open-to-role-in-any-potential-european-tiktok-deal-spokesperson-says-4965380",
-    "AI|https://www.investing.com/news/company-news/carrier-to-invest-600m-in-texas-manufacturing-facility-93CH-4965352",
-    "AI|https://www.investing.com/news/company-news/pearson-9m-2026-slides-q3-growth-accelerates-amid-restructuring-93CH-4965355",
-    "AI|https://www.investing.com/news/company-news/darling-ingredients-updates-on-diamond-green-diesel-q3-results-93CH-4965362",
-    "AI|https://www.investing.com/news/company-news/volkswagen-averts-strike-at-mexico-plant-with-union-deal-93CH-4965378",
-    "AI|https://www.investing.com/news/company-news/ecopetrol-appoints-energy-transition-executive-vp-93CH-4965391",
-    "AI|https://www.investing.com/news/company-news/brightstar-extends-lottery-technology-contract-with-once-in-spain-93CH-4965390",
-    "Cybersecurity|https://www.investing.com/news/company-news/biontech-gilead-collaborate-on-triplenegative-breast-cancer-trial-93CH-4965392",
-    "Cybersecurity|https://www.investing.com/news/economy-news/uk-stocks-slip-as-banks-drag-earnings-in-focus-4965393",
-    "Cybersecurity|https://www.investing.com/news/economy-news/norways-wealth-fund-posts-30-billion-loss-in-third-quarter-4964992",
-    "Cybersecurity|https://www.investing.com/news/economy-news/imf-oecd-warn-ai-could-widen-richpoor-country-divide-4965374",
-    "Cybersecurity|https://www.investing.com/news/earnings/quest-diagnostics-earnings-beat-by-013-revenue-topped-estimates-4965394",
     "Cybersecurity|https://www.investing.com/news/company-news/lseg-q3-2026-slides-organic-growth-hits-88-guidance-raised-93CH-4965407",
     "Cybersecurity|https://www.investing.com/news/company-news/teleflex-wins-fda-breakthrough-status-for-heart-scaffold-device-93CH-4965409",
     "Cybersecurity|https://www.investing.com/news/company-news/wel-companies-deploys-descartes-tms-with-carrier1-integration-93CH-4965408",
@@ -5000,7 +4988,19 @@
     "AI|72d256f7-100a-30bb-a354-fa6b6ae672cd",
     "Watchlist|72d256f7-100a-30bb-a354-fa6b6ae672cd",
     "Cybersecurity|72d256f7-100a-30bb-a354-fa6b6ae672cd",
-    "War|19bfeded-bbd5-30ee-a7fc-21d9da720c21"
+    "War|19bfeded-bbd5-30ee-a7fc-21d9da720c21",
+    "AI|78255af2-d527-3819-8cb5-6048a02f1349",
+    "Watchlist|78255af2-d527-3819-8cb5-6048a02f1349",
+    "AI|031a69e6-3c46-3b90-9b2e-ebd9fa83c25e",
+    "Watchlist|031a69e6-3c46-3b90-9b2e-ebd9fa83c25e",
+    "AI|2d375008-ad74-3fbc-8d99-37339ed46ba2",
+    "SG Banks|/companies-markets/energy-commodities/singapores-central-gas-buyer-affirms-indonesias-role-important-partner-amid-export-review-warning",
+    "Watchlist|2d375008-ad74-3fbc-8d99-37339ed46ba2",
+    "Watchlist|/companies-markets/energy-commodities/singapores-central-gas-buyer-affirms-indonesias-role-important-partner-amid-export-review-warning",
+    "Watchlist|8292886f-21b9-3a8e-b877-5663d3e7e6a7",
+    "AI|1965398a-c566-3fc4-863f-fd4fd7e532b8",
+    "AI|94d37216-77eb-33d2-95a5-b7ec0b727592",
+    "Watchlist|94d37216-77eb-33d2-95a5-b7ec0b727592"
   ],
   "topic_error": "",
   "last_digest": "2026-10-23",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792756428.5933375
+  "last_check": 1792757339.8264706
 }
