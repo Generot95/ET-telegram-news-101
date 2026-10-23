@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/commodities-news/from-groceries-to-home-loans-high-oil-prices-permeate-daily-life-4964403",
-    "Watchlist|https://www.investing.com/news/company-news/cognizant-to-acquire-sap-partner-dyflex-solutions-93CH-4964407",
-    "Watchlist|https://www.investing.com/news/stock-market-news/comcast-planning-significant-jobs-cuts-bloomberg-news-reports-4964417",
     "Watchlist|https://www.investing.com/news/company-news/norfolk-southern-declares-135-quarterly-dividend-93CH-4964420",
     "War|313d1867-df94-448b-87b2-12a6343b8a2a",
     "AI|68fd31b5-6215-3a97-ad50-dde5821798d3",
@@ -5000,7 +4997,10 @@
     "Watchlist|/companies-markets/dbs-favours-chinese-banks-flags-hsbc-long-term-buy",
     "Watchlist|https://www.investing.com/news/stock-market-news/hd-hyundai-to-build-us-shipyard-with-kiewit-create-3000-jobs-4967906",
     "Watchlist|https://www.investing.com/news/stock-market-news/sk-hynix-crashes-206-below-20period-ma-live-levels-93CH-4956188",
-    "Watchlist|https://www.investing.com/news/stock-market-news/nikkei-225-teeters-above-635725-support-live-levels-93CH-4956186"
+    "Watchlist|https://www.investing.com/news/stock-market-news/nikkei-225-teeters-above-635725-support-live-levels-93CH-4956186",
+    "SG Banks|https://www.channelnewsasia.com/business/oil-little-changed-supply-concern-lingers-amid-houthi-attacks-saudi-arabia-6484841",
+    "War|9da3dbc3-3e15-34da-a6c3-aac617a7ba61",
+    "AI|3f715624-e8d3-383c-bc01-bfd5dbcd90a6"
   ],
   "topic_error": "",
   "last_digest": "2026-10-23",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792717928.0632987
+  "last_check": 1792718846.5001187
 }
