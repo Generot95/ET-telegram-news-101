@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/economy-news/procedural-flaw-threatens-colombias-2027-budget-4962333",
-    "Cybersecurity|https://www.investing.com/news/economy-news/asian-markets-dip-as-investors-weigh-tech-earnings-gulf-tensions-4964558",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/pinterest-director-gokul-rajaram-sells-23982-in-stock-93CH-4964565",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/pinterest-director-benjamin-silbermann-sells-21m-in-shares-93CH-4964564",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-44181-of-bny-mellon-strategic-municipals-93CH-4964566",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-unitree-robotics-stock-climbing-today-93CH-4964570",
@@ -5000,7 +4997,10 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/dm-individual-aggregator-sells-223m-in-dutch-bros-stock-93CH-4968021",
     "Watchlist|https://www.investing.com/news/cryptocurrency-news/exclusive-sygnum-rolls-out-multisyg-bitcoin-loans-as-btc-hits-80-of-collateral-4968017",
     "SG Banks|https://www.straitstimes.com/business/no-direct-exposure-to-indonesia-fires-says-olam-group",
-    "SG Banks|https://www.straitstimes.com/business/companies-markets/long-john-silvers-to-close-woodlands-outlet-on-oct-31-following-at-least-5-closures-in-2026"
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/long-john-silvers-to-close-woodlands-outlet-on-oct-31-following-at-least-5-closures-in-2026",
+    "SG Banks|/international/little-known-south-korean-shipowner-dominates-hormuz-transits-oil-flows-rebound",
+    "Watchlist|/international/little-known-south-korean-shipowner-dominates-hormuz-transits-oil-flows-rebound",
+    "SG Banks|https://www.straitstimes.com/business/economy/singapores-core-inflation-eases-to-2-in-september"
   ],
   "topic_error": "",
   "last_digest": "2026-10-23",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792731680.706297
+  "last_check": 1792732610.426847
 }
