@@ -1,25 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Crypto|07225bac-7b00-3ce0-931f-3827a9c22226",
-    "Watchlist|9289c589-0304-3482-9c19-025505d94d04",
-    "Watchlist|b73417a5-db56-3a78-9143-986c97b0d5a6",
-    "Watchlist|ac8c226f-8ec7-3cb9-ad9e-ea2282faac7b",
-    "Watchlist|ea1de945-5892-32df-8df4-403ad0ee310c",
-    "War|d4498e71-52e8-4171-b249-110fe62f0b2f",
-    "AI|d4498e71-52e8-4171-b249-110fe62f0b2f",
-    "Watchlist|d4498e71-52e8-4171-b249-110fe62f0b2f",
-    "AI|https://www.investing.com/news/company-news/ermenegildo-zegna-q3-2026-slides-flagship-brand-drives-growth-93CH-4966461",
-    "AI|https://www.investing.com/news/company-news/medpace-holdings-stock-hits-alltime-high-at-6780-usd-93CH-4966462",
-    "AI|https://www.investing.com/news/company-news/element-solutions-q3-2026-slides-record-results-shares-fall-4-93CH-4966467",
-    "AI|https://www.investing.com/news/company-news/bwx-technologies-clarifies-no-poland-investment-decision-made-93CH-4966468",
-    "AI|https://www.investing.com/news/company-news/xcf-global-estimates-21m-annual-clean-fuel-credit-value-93CH-4966472",
-    "AI|https://www.investing.com/news/company-news/msc-industrial-fiscal-q4-2026-slides-efficiency-drives-profit-growth-93CH-4966476",
-    "AI|https://www.investing.com/news/company-news/cie-automotive-q3-2026-slides-11-sales-growth-mixed-margins-93CH-4966478",
-    "AI|https://www.investing.com/news/company-news/riley-exploration-permian-stock-hits-52week-high-at-5004-usd-93CH-4966482",
-    "AI|https://www.investing.com/news/company-news/northwestern-energy-group-stock-hits-52week-high-at-7672-93CH-4966490",
-    "AI|https://www.investing.com/news/company-news/ttm-q3-2026-slides-60-revenue-jump-20-margins-stock-drops-22-93CH-4966494",
-    "Cybersecurity|https://www.investing.com/news/company-news/ermenegildo-zegna-q3-2026-slides-flagship-brand-drives-growth-93CH-4966461",
     "Cybersecurity|https://www.investing.com/news/company-news/medpace-holdings-stock-hits-alltime-high-at-6780-usd-93CH-4966462",
     "Cybersecurity|https://www.investing.com/news/company-news/element-solutions-q3-2026-slides-record-results-shares-fall-4-93CH-4966467",
     "Cybersecurity|https://www.investing.com/news/company-news/bwx-technologies-clarifies-no-poland-investment-decision-made-93CH-4966468",
@@ -5000,7 +4981,26 @@
     "AI|1d555586-d787-3a74-8bdc-87a6769cc434",
     "AI|80111601-23c8-3ec9-b198-464f4147c675",
     "Watchlist|1d555586-d787-3a74-8bdc-87a6769cc434",
-    "Watchlist|80111601-23c8-3ec9-b198-464f4147c675"
+    "Watchlist|80111601-23c8-3ec9-b198-464f4147c675",
+    "War|2a55c2e3-4875-34a0-8861-6e0f023a7989",
+    "SG Banks|https://www.straitstimes.com/business/tsh-resources-reports-274-hotspots-within-estate-boundaries-after-sgx-queries-over-haze",
+    "SG Banks|https://www.channelnewsasia.com/business/south-african-presidency-website-temporarily-offline-after-php-warning-6487196",
+    "SG Banks|https://www.channelnewsasia.com/business/data-center-spending-more-double-21-trillion-2028-6487191",
+    "War|d9d5f585-e87e-3477-b399-f18f3899cb30",
+    "AI|24171c90-2011-3be0-9c47-8edc45f1b522",
+    "AI|e5cb6e8a-3ebc-39af-a53e-7d5e808ce262",
+    "Watchlist|e5cb6e8a-3ebc-39af-a53e-7d5e808ce262",
+    "Watchlist|d1743ee1-c302-4264-86cc-bc388f5d615e",
+    "SG Banks|https://www.channelnewsasia.com/business/data-center-spending-more-double-21-trillion-2028-bofa-says-6487191",
+    "War|1b755e9d-b463-4d8e-886d-370ddb73f15d",
+    "War|47ab8e67-22f0-4555-bf66-7be832634e15",
+    "AI|e8a0b30e-6f53-3a89-a891-1356e134add8",
+    "Watchlist|e8a0b30e-6f53-3a89-a891-1356e134add8",
+    "AI|5b11d84e-d733-37a0-9dbf-751eccc83310",
+    "Watchlist|5b11d84e-d733-37a0-9dbf-751eccc83310",
+    "War|626bc636-df47-3a4c-8f2a-b38677748fe3",
+    "Watchlist|626bc636-df47-3a4c-8f2a-b38677748fe3",
+    "Iran|https://www.iranintl.com/en/202610231662"
   ],
   "topic_error": "",
   "last_digest": "2026-10-23",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792768365.7110748
+  "last_check": 1792769279.6883461
 }
