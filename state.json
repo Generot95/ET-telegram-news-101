@@ -1,20 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|ac09d00d-b262-3797-8d0d-945249594753",
-    "War|7530baaa-47e7-3a48-89b9-017543dcb153",
-    "AI|743dd2e7-b402-3bd1-bb0f-7b68c7e2bfaa",
-    "Watchlist|743dd2e7-b402-3bd1-bb0f-7b68c7e2bfaa",
-    "Watchlist|865c9e09-29de-3eba-b436-f0dea9832292",
-    "AI|41d358ad-2e17-35d5-acac-db571e42641e",
-    "Watchlist|41d358ad-2e17-35d5-acac-db571e42641e",
-    "AI|d6dddc72-cd9b-3141-bb38-419587757ccd",
-    "AI|ed9fcdab-dc37-3299-be29-6aa12979d566",
-    "Watchlist|d6dddc72-cd9b-3141-bb38-419587757ccd",
-    "Watchlist|ed9fcdab-dc37-3299-be29-6aa12979d566",
-    "AI|https://www.investing.com/news/company-news/frasers-centrepoint-trust-fy26-slides-record-dpu-amid-capex-rampup-93CH-4967172",
-    "AI|https://www.investing.com/news/company-news/zurn-elkay-raises-quarterly-dividend-18-to-013-per-share-93CH-4967173",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-beacon-financial-tops-strategic-goals-shares-rise-in-q3-2026-93CH-4967174",
     "AI|https://www.investing.com/news/company-news/saic-stock-hits-52week-high-at-14270-93CH-4967175",
     "AI|https://www.investing.com/news/company-news/grupo-mexico-q3-2026-slides-record-ebitda-on-copper-surge-93CH-4967177",
     "AI|https://www.investing.com/news/company-news/alarmcom-stock-hits-52week-high-at-6159-usd-93CH-4967178",
@@ -5000,7 +4986,21 @@
     "Watchlist|https://www.investing.com/news/sec-filings/lumen-technologies-updates-executive-severance-plan-and-ceo-agreement-93CH-4970507",
     "Watchlist|948ff237-f39a-301b-9755-b85d54a75866",
     "War|58ed09fb-a618-380f-92a8-0119019e0cd5",
-    "War|b4fb6cc4-e199-3f9a-968b-59f4ae3817eb"
+    "War|b4fb6cc4-e199-3f9a-968b-59f4ae3817eb",
+    "War|https://www.investing.com/news/world-news/north-koreas-kim-calls-for-military-revolution-as-he-urges-stronger-army-units-4970466",
+    "War|https://www.investing.com/news/world-news/pentagon-designates-confucius-institutes-a-national-security-threat-4970468",
+    "War|https://www.investing.com/news/world-news/thailand-welcomes-usmyanmar-engagement-expects-asean-talks-on-countrys-future-4970502",
+    "Crypto|b4b0a53a-0122-3467-8097-970708c6fc69",
+    "SG Banks|/companies-markets/capital-markets-currencies/us-stocks-wall-street-closes-lower-end-rocky-week",
+    "Watchlist|/companies-markets/capital-markets-currencies/us-stocks-wall-street-closes-lower-end-rocky-week",
+    "Crypto|43f8a131-e463-3fd0-9de6-d0ffc9edc75f",
+    "AI|e011be7f-19e4-3d47-9de1-74a54b6a3f37",
+    "AI|https://www.investing.com/news/company-news/how-should-investors-think-about-gta-vi-preorder-performance-4970510",
+    "Cybersecurity|https://www.investing.com/news/company-news/how-should-investors-think-about-gta-vi-preorder-performance-4970510",
+    "SG Banks|https://www.investing.com/news/company-news/how-should-investors-think-about-gta-vi-preorder-performance-4970510",
+    "Watchlist|https://www.investing.com/news/company-news/how-should-investors-think-about-gta-vi-preorder-performance-4970510",
+    "SG Banks|/companies-markets/capital-markets-currencies/european-stocks-post-weekly-loss-france-turmoil-oil-prices-dent-earnings-optimism",
+    "Watchlist|/companies-markets/capital-markets-currencies/european-stocks-post-weekly-loss-france-turmoil-oil-prices-dent-earnings-optimism"
   ],
   "topic_error": "",
   "last_digest": "2026-10-23",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792798590.8403635
+  "last_check": 1792799520.0475304
 }
