@@ -1,20 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/creditaccess-grameen-q2-fy27-slides-record-profit-upgraded-guidance-93CH-4966869",
-    "AI|https://www.investing.com/news/company-news/carpenter-q1-fy27-slides-record-margins-shares-drop-20-on-revenue-miss-93CH-4966871",
-    "AI|https://www.investing.com/news/company-news/tmc-stock-hits-52week-low-at-247-usd-93CH-4966874",
-    "AI|https://www.investing.com/news/company-news/marinemax-stock-hits-52week-high-at-5257-usd-93CH-4966875",
-    "AI|https://www.investing.com/news/company-news/hormel-foods-names-joe-oconnor-to-enterprise-performance-role-93CH-4966880",
-    "AI|https://www.investing.com/news/company-news/click-holdings-reports-62-revenue-growth-in-fiscal-2026-93CH-4966892",
-    "Cybersecurity|https://www.investing.com/news/economy-news/uk-regulator-urges-pension-trustees-to-stresstest-over-ai-concentration-risk-4965506",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-sagility-lifts-margin-outlook-in-q2-2026-93CH-4966881",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/citi-says-housing-sector-contraction-deepens-as-rates-hit-75-93CH-4966882",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-norfolk-southern-tops-q3-2026-estimates-as-stock-rises-93CH-4966883",
-    "Cybersecurity|https://www.investing.com/news/company-news/xtract-one-q4-fy2026-slides-record-growth-margin-pressure-93CH-4966884",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-001-4966885",
-    "Cybersecurity|https://www.investing.com/news/company-news/kaiser-aluminum-q3-2026-slides-demand-strong-but-margins-pressured-93CH-4966888",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-essential-properties-realty-trust-tops-revenue-in-q3-2026-93CH-4966889",
     "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-triumph-financial-q3-2026-revenue-beats-eps-misses-93CH-4966890",
     "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-eastgroup-properties-tops-q3-2026-estimates-93CH-4966891",
     "Cybersecurity|https://www.investing.com/news/company-news/first-bancorp-q3-2026-slides-strong-returns-amid-margin-pressure-93CH-4966867",
@@ -5000,7 +4986,21 @@
     "AI|ef91a5d2-05d8-3a16-bf5a-eb858bc24450",
     "Crypto|59bc7765-03e7-3314-8426-240d3f9a03fc",
     "Cybersecurity|027df3a5-8594-3c04-9113-3751e185f1a3",
-    "Watchlist|ef91a5d2-05d8-3a16-bf5a-eb858bc24450"
+    "Watchlist|ef91a5d2-05d8-3a16-bf5a-eb858bc24450",
+    "War|9ec04ab6-91a7-3724-85fc-7a80dfe5fbd8",
+    "War|35640c32-da59-3d83-8dd0-f10c1bc9ad79",
+    "Crypto|82baef3d-df38-3397-9431-f9530adc8e43",
+    "Crypto|8c0876d5-a9f8-31f6-9d1b-1e865ed57d6f",
+    "AI|49c62ef2-301d-378b-95ca-cf226b65f6ed",
+    "AI|2f2c32ce-6bcc-324c-a6d4-021a5e4352ce",
+    "AI|c498cf78-16ad-36fd-8d67-a47346cec4cf",
+    "AI|21b15688-9a58-3c40-993c-2468e99595be",
+    "Watchlist|49c62ef2-301d-378b-95ca-cf226b65f6ed",
+    "Watchlist|2f2c32ce-6bcc-324c-a6d4-021a5e4352ce",
+    "Watchlist|c498cf78-16ad-36fd-8d67-a47346cec4cf",
+    "Watchlist|21b15688-9a58-3c40-993c-2468e99595be",
+    "War|72729328-6f55-36b4-9fdf-621a73bddc95",
+    "Crypto|d523ad2b-53f1-3c87-9f10-ed5efddfde12"
   ],
   "topic_error": "",
   "last_digest": "2026-10-23",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792776609.65155
+  "last_check": 1792777515.6212285
 }
