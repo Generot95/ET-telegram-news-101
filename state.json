@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/why-is-sandvik-stock-falling-today-93CH-4964907",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-swedbank-stock-sliding-today-93CH-4964909",
-    "AI|https://www.investing.com/news/company-news/talenom-q3-2026-slides-profit-jumps-55-as-margins-expand-93CH-4964894",
-    "AI|https://www.investing.com/news/company-news/komplett-group-q3-2026-slides-b2b-growth-offsets-gaming-headwinds-93CH-4964905",
-    "AI|https://www.investing.com/news/company-news/azelis-q3-2026-slides-profit-growth-outpaces-revenue-as-margins-expand-93CH-4964908",
-    "AI|https://www.investing.com/news/company-news/kerry-q3-2026-slides-volume-growth-accelerates-to-41-margins-expand-93CH-4964912",
-    "AI|https://www.investing.com/news/company-news/kei-industries-q2-fy27-slides-revenue-surges-38-margins-hold-steady-93CH-4964922",
-    "Cybersecurity|https://www.investing.com/news/company-news/nelly-group-q3-2026-slides-revenue-up-10-margins-compress-93CH-4964913",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-thule-stock-sliding-today-93CH-4964914",
-    "Cybersecurity|https://www.investing.com/news/company-news/pandox-q3-2026-slides-strong-leases-growth-own-ops-under-pressure-93CH-4964915",
-    "Cybersecurity|https://www.investing.com/news/forex-news/french-yields-breach-5-amid-paris-budget-paralysis-and-nationwide-unrest-4964673",
-    "Cybersecurity|https://www.investing.com/news/company-news/verkkokauppacom-q3-2026-slides-profitability-rises-in-tough-market-93CH-4964916",
     "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-srf-posts-strong-q2-2027-growth-as-stock-rises-15-93CH-4964917",
     "Cybersecurity|https://www.investing.com/news/company-news/vimian-q3-2026-slides-15-revenue-growth-strong-cash-generation-93CH-4964918",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/ig-group-reaffirms-guidance-shifts-to-credit-rating-framework-93CH-4964920",
@@ -5000,7 +4988,19 @@
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-catena-q3-2026-rises-on-strong-rental-growth-93CH-4968413",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-adcb-posts-record-q3-2026-profit-as-margin-pressure-lingers-93CH-4968415",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-robert-half-stock-surging-today-93CH-4968416",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-sgs-posts-record-q3-2026-sales-as-digital-trust-grows-93CH-4968431"
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-sgs-posts-record-q3-2026-sales-as-digital-trust-grows-93CH-4968431",
+    "SG Banks|https://www.channelnewsasia.com/business/bank-japan-warns-risks-ai-market-shock-cyberattacks-6485781",
+    "AI|c5db8c08-4523-322b-b595-d418cd1b37dd",
+    "War|WP-MKTW-0005292522",
+    "AI|8f8def99-5924-3d19-ac5d-3e0fef129c43",
+    "AI|WP-MKTW-0005292522",
+    "Cybersecurity|WP-MKTW-0005292522",
+    "Watchlist|c5db8c08-4523-322b-b595-d418cd1b37dd",
+    "Watchlist|8f8def99-5924-3d19-ac5d-3e0fef129c43",
+    "War|WP-MKTW-0005303299",
+    "AI|WP-MKTW-0005303299",
+    "Cybersecurity|WP-MKTW-0005303299",
+    "Crypto|ba2ed035-dd30-3a28-a38d-f0c1727e8414"
   ],
   "topic_error": "",
   "last_digest": "2026-10-23",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792745404.7483451
+  "last_check": 1792746350.0433075
 }
