@@ -1,24 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/lloyds-banking-group-appoints-chris-rhodes-to-board-93CH-4965115",
-    "Cybersecurity|https://www.investing.com/news/company-news/dometic-q3-2026-slides-organic-growth-returns-despite-margin-pressure-93CH-4965121",
-    "SG Banks|https://www.investing.com/news/economic-indicators/as-americans-eat-out-less-paper-towel-maker-essity-feels-the-pinch-4965123",
-    "SG Banks|https://www.investing.com/news/company-news/sandvik-q3-2026-slides-margin-tops-target-revenue-surges-29-93CH-4965126",
-    "SG Banks|https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-on-us-tech-drag-4965127",
-    "SG Banks|https://www.investing.com/news/stock-market-news/addtech-reports-higher-quarterly-profit-on-strong-demand-93CH-4965129",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-pearson-narrows-2026-outlook-as-growth-quickens-in-q3-93CH-4965139",
-    "SG Banks|https://www.investing.com/news/company-news/lloyds-banking-group-appoints-hinshelwood-to-board-93CH-4965140",
-    "SG Banks|https://www.investing.com/news/company-news/proact-q3-2026-slides-ebita-jumps-47-on-efficiency-gains-93CH-4965144",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-sainsburys-h1-2026-profit-rises-as-shares-fall-93CH-4965163",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-bonesupport-jumps-on-q3-growth-reimbursement-boost-93CH-4965164",
-    "SG Banks|https://www.investing.com/news/company-news/ming-yang-updates-on-uniwatt-acquisition-progress-93CH-4965165",
-    "Watchlist|https://www.investing.com/news/economic-indicators/as-americans-eat-out-less-paper-towel-maker-essity-feels-the-pinch-4965123",
-    "Watchlist|https://www.investing.com/news/company-news/sandvik-q3-2026-slides-margin-tops-target-revenue-surges-29-93CH-4965126",
-    "Watchlist|https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-on-us-tech-drag-4965127",
-    "Watchlist|https://www.investing.com/news/stock-market-news/addtech-reports-higher-quarterly-profit-on-strong-demand-93CH-4965129",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-pearson-narrows-2026-outlook-as-growth-quickens-in-q3-93CH-4965139",
-    "Watchlist|https://www.investing.com/news/company-news/lloyds-banking-group-appoints-hinshelwood-to-board-93CH-4965140",
     "Watchlist|https://www.investing.com/news/company-news/proact-q3-2026-slides-ebita-jumps-47-on-efficiency-gains-93CH-4965144",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-sainsburys-h1-2026-profit-rises-as-shares-fall-93CH-4965163",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-bonesupport-jumps-on-q3-growth-reimbursement-boost-93CH-4965164",
@@ -5000,7 +4982,25 @@
     "Watchlist|31e4b110-41d1-364a-b24c-b46a95f4d482",
     "Crypto|79d57d07-39e2-374b-af8f-fa4cd1b87ab9",
     "SG Banks|https://www.channelnewsasia.com/business/wall-street-futures-dip-after-ai-rout-telecoms-slide-6486271",
-    "SG Banks|https://www.channelnewsasia.com/business/indias-infosys-beats-second-quarter-revenue-view-6486266"
+    "SG Banks|https://www.channelnewsasia.com/business/indias-infosys-beats-second-quarter-revenue-view-6486266",
+    "AI|1cd38dcc-8c84-32af-8259-652e5b4ec643",
+    "AI|af595de5-2372-3818-86be-05e67862a0fd",
+    "Watchlist|af595de5-2372-3818-86be-05e67862a0fd",
+    "Watchlist|1cd38dcc-8c84-32af-8259-652e5b4ec643",
+    "AI|02a7c3a5-45fe-30a5-bc40-91aee069e766",
+    "Watchlist|02a7c3a5-45fe-30a5-bc40-91aee069e766",
+    "AI|e7744f0b-0477-317a-8dc2-d6dea96d06d6",
+    "AI|3f1bfdf7-a690-323c-9bbf-437cc3f401ed",
+    "Watchlist|3f1bfdf7-a690-323c-9bbf-437cc3f401ed",
+    "AI|3c14ba08-c3db-3a53-a502-e039afb43bf1",
+    "AI|4075703f-1a9b-30e3-9033-e182ac804de2",
+    "Watchlist|3c14ba08-c3db-3a53-a502-e039afb43bf1",
+    "Watchlist|4075703f-1a9b-30e3-9033-e182ac804de2",
+    "War|0377fef9-0e93-330b-a57b-b0e71051e5a9",
+    "AI|0377fef9-0e93-330b-a57b-b0e71051e5a9",
+    "AI|275f2be5-cd8a-3da0-8098-fe4359548c88",
+    "Watchlist|275f2be5-cd8a-3da0-8098-fe4359548c88",
+    "SG Banks|https://www.channelnewsasia.com/business/indias-infosys-lowers-annual-revenue-growth-forecast-6486266"
   ],
   "topic_error": "",
   "last_digest": "2026-10-23",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792752755.4350598
+  "last_check": 1792753682.5622952
 }
