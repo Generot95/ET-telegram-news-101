@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/company-news/nickel-industries-q3-2026-slides-mining-hits-record-amid-rkef-squeeze-93CH-4964506",
-    "Watchlist|https://www.investing.com/news/economy-news/bank-of-korea-holds-rates-at-3-after-backtoback-hikes-won-strengthens-4964507",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-pantoro-posts-strong-q1-2026-cash-flow-shares-rise-93CH-4964516",
     "War|a4a0dae4-662e-36dd-a071-9e7e883d67aa",
     "AI|f1bca674-1754-3e8f-b986-78beb446c430",
     "AI|46f5b61a-0bc5-3dea-8e61-83cabc81e83e",
@@ -5000,7 +4997,10 @@
     "Watchlist|https://www.investing.com/news/economy-news/analysisanthropic-ipo-stands-alone-as-ai-market-jitters-sideline-others-4966313",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-zip-co-stock-crashing-today-93CH-4967994",
     "Watchlist|https://www.investing.com/news/stock-market-news/us-propses-tighter-rules-on-investments-in-chinese-tech-sectors-93CH-4967995",
-    "War|28c4ae6a-8f59-37d0-933e-4dcac59795de"
+    "War|28c4ae6a-8f59-37d0-933e-4dcac59795de",
+    "War|817bfbb8-731a-39e8-a0c3-9fb5d4e95676",
+    "AI|bb672730-d2cc-37a0-8475-0b2bb1b342b0",
+    "Watchlist|bb672730-d2cc-37a0-8475-0b2bb1b342b0"
   ],
   "topic_error": "",
   "last_digest": "2026-10-23",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792728006.7360134
+  "last_check": 1792728932.3112302
 }
