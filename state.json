@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/qualys-chief-legal-officer-bruce-k-posey-sells-166963-in-stock-93CH-4964469",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/nippon-life-insurance-co-buys-56m-corebridge-financial-shares-93CH-4964470",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/finance-of-america-cio-jeremy-prahm-sells-60265-in-stock-93CH-4964475",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-aic-mines-posts-record-cash-flow-in-q1-2026-93CH-4964477",
     "Watchlist|https://www.investing.com/news/stock-market-news/meta-sued-in-australia-class-action-over-alleged-social-media-harm-to-children-4964476",
     "Watchlist|https://www.investing.com/news/commodities-news/oil-prices-rise-as-meast-tensions-fuel-fears-of-supply-disruptions-4964479",
@@ -5000,7 +4997,10 @@
     "Watchlist|445da345-3cee-3435-8a4f-1a4f2c3b46de",
     "Watchlist|45020416-e1e7-30e9-8ad5-9f23c96bd2ff",
     "AI|527ce325-b52d-38e4-9775-26ea0d2f2a17",
-    "Watchlist|527ce325-b52d-38e4-9775-26ea0d2f2a17"
+    "Watchlist|527ce325-b52d-38e4-9775-26ea0d2f2a17",
+    "Iran|https://www.iranintl.com/en/202610232329",
+    "Cybersecurity|527ce325-b52d-38e4-9775-26ea0d2f2a17",
+    "AI|https://www.investing.com/news/stock-market-news/while-tech-stocks-slide-an-aipicked-retailer-surges-31-in-october-4967960"
   ],
   "topic_error": "",
   "last_digest": "2026-10-23",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792723434.0940683
+  "last_check": 1792724338.3176756
 }
