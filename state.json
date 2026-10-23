@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-sap-tops-q3-2026-estimates-as-cloud-growth-accelerates-93CH-4964320",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-ibm-beats-q3-2026-estimates-shares-slip-after-hours-93CH-4964321",
-    "Watchlist|https://www.investing.com/news/stock-market-news/musks-tesla-revenue-beats-estimates-as-deliveries-rebound-energy-storage-grows-4963934",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-lam-research-tops-q1-2026-estimates-shares-fall-93CH-4964322",
-    "Watchlist|https://www.investing.com/news/stock-market-news/australias-fortescue-posts-6-fall-in-quarterly-iron-ore-shipments-4964323",
-    "Watchlist|https://www.investing.com/news/company-news/sei-q3-2026-slides-record-sales-drive-24-earnings-growth-93CH-4964324",
-    "AI|abcbbd34-80eb-35dd-aa84-a637ec1c908f",
     "AI|68ce3a4c-235c-3016-a4f2-1c9850f50f68",
     "AI|df694e47-ed4b-340c-b080-ee03b8051308",
     "Watchlist|abcbbd34-80eb-35dd-aa84-a637ec1c908f",
@@ -5000,7 +4993,14 @@
     "Watchlist|https://www.investing.com/news/economy-news/japan-core-inflation-exceeds-boj-target-cements-nearterm-rate-hike-chance-4967842",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-alkane-resources-posts-steady-q1-2027-output-as-shares-fall-93CH-4967843",
     "SG Banks|https://www.channelnewsasia.com/business/japan-not-yet-officially-out-deflation-economy-minister-says-6484686",
-    "SG Banks|b12d0e92-11ff-3cad-a80b-8107aad3cd8b"
+    "SG Banks|b12d0e92-11ff-3cad-a80b-8107aad3cd8b",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/treasuries-surge-as-worldwide-worries-spark-rush-to-safety",
+    "SG Banks|/international/global/apple-emerges-wall-streets-favourite-ai-haven-spending-fears-hit",
+    "SG Banks|/companies-markets/reits-property/keppel-dc-reit-9m-dpu-11-7-s0-08571-organic-growth-acquisitions",
+    "Watchlist|/international/global/apple-emerges-wall-streets-favourite-ai-haven-spending-fears-hit",
+    "Watchlist|/companies-markets/reits-property/keppel-dc-reit-9m-dpu-11-7-s0-08571-organic-growth-acquisitions",
+    "SG Banks|https://www.straitstimes.com/business/oil-tankers-sailing-us-china-route-are-commanding-us60-million-and-it-is-crushing-demand",
+    "Cybersecurity|5bacbae5-0a5d-31cf-a1e0-e5b7506fb178"
   ],
   "topic_error": "",
   "last_digest": "2026-10-23",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792714266.438166
+  "last_check": 1792715181.4367335
 }
