@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/apex-funding-talks-value-satellite-maker-at-4-billion--bloomberg-93CH-4966952",
-    "AI|https://www.investing.com/news/company-news/cvb-financial-q3-2026-slides-heritage-deal-drives-margin-expansion-93CH-4966928",
-    "AI|https://www.investing.com/news/company-news/central-bancompany-stock-hits-alltime-high-at-3403-usd-93CH-4966953",
-    "AI|https://www.investing.com/news/company-news/badger-meter-q3-2026-slides-margins-expand-as-smart-water-shift-accelerates-93CH-4966955",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/mizuho-raises-meta-stock-price-target-to-950-on-revenue-outlook-93CH-4966944",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-netstreit-tops-revenue-in-q3-2026-shares-edge-up-93CH-4966945",
-    "Cybersecurity|https://www.investing.com/news/company-news/paylocity-stock-hits-52week-high-at-17735-usd-93CH-4966946",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-lindsay-tops-q4-estimates-but-outlook-stays-cautious-93CH-4966947",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-banner-misses-q3-2026-estimates-but-sees-margin-lift-93CH-4966948",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-first-american-financial-q3-2026-misses-estimates-93CH-4966949",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/guccis-sales-drop-5-in-third-quarter-as-weak-chinese-demand-dampens-turnaround-hopes-4966939",
-    "Cybersecurity|https://www.investing.com/news/company-news/graco-q3-2026-slides-record-revenue-overshadowed-by-margin-pressure-93CH-4966951",
-    "Cybersecurity|https://www.investing.com/news/company-news/cvb-financial-q3-2026-slides-heritage-deal-drives-margin-expansion-93CH-4966928",
     "Cybersecurity|https://www.investing.com/news/company-news/central-bancompany-stock-hits-alltime-high-at-3403-usd-93CH-4966953",
     "Cybersecurity|https://www.investing.com/news/company-news/badger-meter-q3-2026-slides-margins-expand-as-smart-water-shift-accelerates-93CH-4966955",
     "SG Banks|https://www.investing.com/news/analyst-ratings/mizuho-raises-meta-stock-price-target-to-950-on-revenue-outlook-93CH-4966944",
@@ -5000,7 +4987,20 @@
     "Watchlist|https://www.investing.com/news/company-news/robert-half-stock-hits-52week-high-at-4673-93CH-4970228",
     "Watchlist|https://www.investing.com/news/company-news/huntington-bancshares-stock-hits-52week-low-at-149-usd-93CH-4970229",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-preferred-bank-tops-q3-2026-eps-shares-slip-premarket-93CH-4970230",
-    "Watchlist|https://www.investing.com/news/company-news/bilia-q3-2026-slides-service-business-drives-record-margins-93CH-4970231"
+    "Watchlist|https://www.investing.com/news/company-news/bilia-q3-2026-slides-service-business-drives-record-margins-93CH-4970231",
+    "War|95c0866b-5132-39b1-862e-d56c9338d651",
+    "AI|3e742406-8bf7-329c-9894-3b87e8564bf1",
+    "Watchlist|3e742406-8bf7-329c-9894-3b87e8564bf1",
+    "AI|https://www.investing.com/news/world-news/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says-4969702",
+    "Cybersecurity|https://www.investing.com/news/world-news/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says-4969702",
+    "SG Banks|https://www.investing.com/news/world-news/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says-4969702",
+    "Watchlist|https://www.investing.com/news/world-news/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says-4969702",
+    "AI|2e41f23e-1c77-3220-9c6e-3ea7cb41f9c8",
+    "Watchlist|2e41f23e-1c77-3220-9c6e-3ea7cb41f9c8",
+    "Watchlist|b696ad6a-0f97-3983-a46c-c4c7cbee7769",
+    "War|WP-MKTW-0005303702",
+    "AI|WP-MKTW-0005303702",
+    "Cybersecurity|WP-MKTW-0005303702"
   ],
   "topic_error": "",
   "last_digest": "2026-10-23",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792781209.834402
+  "last_check": 1792782134.3996503
 }
