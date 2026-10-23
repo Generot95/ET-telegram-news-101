@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/timothy-e-johns-sells-125685-in-heritage-insurance-stock-93CH-4964428",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/bhp-chair-says-australia-must-compete-harder-for-global-investments-4964429",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/jjill-evp-cfo--coo-mark-webb-sells-122600-in-shares-93CH-4964435",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/australias-santos-trims-2026-output-forecast-on-alaska-oilfield-delays-4964437",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/mara-holdings-cfo-salman-khan-sells-126080-in-shares-93CH-4964424",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/snowflake-director-frank-slootman-sells-949-million-in-shares-93CH-4964425",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-crown-resorts-posts-stronger-q3-2026-earnings-shares-slip-93CH-4964426",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/fb-financial-director-orrin-h-ingram-ii-buys-15m-in-stock-93CH-4964427",
     "SG Banks|https://www.investing.com/news/insider-trading-news/timothy-e-johns-sells-125685-in-heritage-insurance-stock-93CH-4964428",
     "SG Banks|https://www.investing.com/news/stock-market-news/bhp-chair-says-australia-must-compete-harder-for-global-investments-4964429",
     "SG Banks|https://www.investing.com/news/insider-trading-news/jjill-evp-cfo--coo-mark-webb-sells-122600-in-shares-93CH-4964435",
@@ -5000,7 +4992,15 @@
     "AI|0c0ad7cc-88dc-3823-947c-fe26761f5b35",
     "Watchlist|0c0ad7cc-88dc-3823-947c-fe26761f5b35",
     "SG Banks|/companies-markets/spacex-talks-access-80000-cell-sites-new-network",
-    "Watchlist|/companies-markets/spacex-talks-access-80000-cell-sites-new-network"
+    "Watchlist|/companies-markets/spacex-talks-access-80000-cell-sites-new-network",
+    "AI|f9d7e3f7-0506-3841-96ca-d58d480ab7d3",
+    "Watchlist|f9d7e3f7-0506-3841-96ca-d58d480ab7d3",
+    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-fenix-resources-q1-2026-update-shows-progress-shares-slip-93CH-4967920",
+    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-fenix-resources-q1-2026-update-shows-progress-shares-slip-93CH-4967920",
+    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-fenix-resources-q1-2026-update-shows-progress-shares-slip-93CH-4967920",
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-fenix-resources-q1-2026-update-shows-progress-shares-slip-93CH-4967920",
+    "AI|035ab0ba-00a4-3da4-834b-bd1528297134",
+    "Watchlist|035ab0ba-00a4-3da4-834b-bd1528297134"
   ],
   "topic_error": "",
   "last_digest": "2026-10-23",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792719756.7328362
+  "last_check": 1792720662.3842187
 }
