@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/japanese-cybersecurity-stocks-rally-as-php-flaw-spurs-demand-4964621",
-    "AI|https://www.investing.com/news/earnings/thales-lifts-sales-outlook-after-9month-revenue-and-orders-beat-estimates-4964622",
-    "AI|https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-043-4964623",
     "AI|https://www.investing.com/news/stock-market-news/alibaba-jd-shares-slide-on-more-chinese-regulatory-scrutiny-4964624",
     "Cybersecurity|https://www.investing.com/news/earnings/roche-keeps-2026-outlook-as-q3-sales-rise-7-at-constant-currencies-4964620",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/japanese-cybersecurity-stocks-rally-as-php-flaw-spurs-demand-4964621",
@@ -5000,7 +4997,10 @@
     "Watchlist|/international/asean/malaysia-allows-first-export-unprocessed-rare-earths-under-new-rules",
     "SG Banks|/international/chinas-catl-baic-target-1-million-cars-new-battery-swap-network",
     "Watchlist|/international/chinas-catl-baic-target-1-million-cars-new-battery-swap-network",
-    "War|0d2aa532-4947-3a34-a88c-1f6146c6f80d"
+    "War|0d2aa532-4947-3a34-a88c-1f6146c6f80d",
+    "SG Banks|https://www.channelnewsasia.com/business/oil-prices-rise-more-1-supply-concerns-linger-6484841",
+    "Iran|https://www.iranintl.com/en/202610222999",
+    "SG Banks|https://www.channelnewsasia.com/asia/indonesia-msci-stock-market-downgrade-jakarta-composite-6482001"
   ],
   "topic_error": "",
   "last_digest": "2026-10-23",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792738083.281598
+  "last_check": 1792739002.3415344
 }
