@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|0b876e37-cf62-3986-a1d4-d3c64c5dceb5",
-    "SG Banks|https://www.straitstimes.com/business/invest/why-1-in-8-young-people-in-uk-are-not-learning-or-working",
-    "SG Banks|https://www.straitstimes.com/business/they-are-here-to-sweep-the-market-minor-food-chief-sees-more-chinese-chains-opening-in-spore",
-    "War|6ac77ce5-6f5f-496f-a4d8-d341f1081522",
-    "War|b389d215-1fcb-395d-854c-4bd0b816909e",
-    "Crypto|cfcc6490-76a9-37c9-9dd7-dd26549c4d24",
-    "Watchlist|6a51d207-a5fe-343c-8f17-19c393da2e2f",
-    "Iran|https://www.iranintl.com/en/202610214904",
-    "AI|aa514fa0-ec92-304a-a692-7540fb697315",
-    "AI|2c86b890-3bd6-3561-8161-45be7991f555",
-    "Crypto|aa514fa0-ec92-304a-a692-7540fb697315",
-    "SG Banks|https://www.channelnewsasia.com/business/fcc-grants-intel-waiver-foreign-made-robotic-devices-6484351",
-    "Cybersecurity|3acd96d3-9a58-30ef-b539-a75df2825c1e",
     "AI|3f62b221-33bc-3ff3-a47a-290d42488d58",
     "AI|68f9c0a7-94e2-35e9-a24e-e2113f633c23",
     "AI|5f4406cf-4ab3-308a-8b43-cf2f3ba820ed",
@@ -5000,7 +4987,20 @@
     "AI|https://www.investing.com/news/economy-news/netanyahu-explores-crypto-to-bypass-potential-sanctions-4970810",
     "Cybersecurity|https://www.investing.com/news/economy-news/netanyahu-explores-crypto-to-bypass-potential-sanctions-4970810",
     "SG Banks|https://www.investing.com/news/economy-news/netanyahu-explores-crypto-to-bypass-potential-sanctions-4970810",
-    "Watchlist|https://www.investing.com/news/economy-news/netanyahu-explores-crypto-to-bypass-potential-sanctions-4970810"
+    "Watchlist|https://www.investing.com/news/economy-news/netanyahu-explores-crypto-to-bypass-potential-sanctions-4970810",
+    "AI|d1a38471-3e4a-35c4-aed0-15a76a48b59c",
+    "Crypto|d1a38471-3e4a-35c4-aed0-15a76a48b59c",
+    "Watchlist|d1a38471-3e4a-35c4-aed0-15a76a48b59c",
+    "Iran|https://www.iranintl.com/en/202610243567",
+    "SG Banks|https://www.straitstimes.com/business/invest/why-1-in-8-young-people-in-uk-are-not-learning-or-working",
+    "SG Banks|https://www.straitstimes.com/business/they-are-here-to-sweep-the-market-minor-food-chief-sees-more-chinese-chains-opening-in-spore",
+    "War|WP-MKTW-0005306174",
+    "War|WP-MKTW-0005299614",
+    "AI|WP-MKTW-0005306174",
+    "AI|WP-MKTW-0005299614",
+    "Cybersecurity|WP-MKTW-0005306174",
+    "Cybersecurity|WP-MKTW-0005299614",
+    "Iran|https://www.iranintl.com/en/202610214904"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792842619.581327
+  "last_check": 1792843529.4102879
 }
