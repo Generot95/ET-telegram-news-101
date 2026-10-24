@@ -1,25 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|3f62b221-33bc-3ff3-a47a-290d42488d58",
-    "AI|68f9c0a7-94e2-35e9-a24e-e2113f633c23",
-    "AI|5f4406cf-4ab3-308a-8b43-cf2f3ba820ed",
-    "AI|94491980-be5b-3a6e-ada2-38f511818903",
-    "AI|7395592e-6253-303d-b834-97aa2c1f0ac4",
-    "AI|dc4752df-f658-3a95-b523-2acfe605102a",
-    "AI|6bcfc5f1-b3fe-38b4-ad1b-17763c01ecec",
-    "Watchlist|3f62b221-33bc-3ff3-a47a-290d42488d58",
-    "Watchlist|68f9c0a7-94e2-35e9-a24e-e2113f633c23",
-    "Watchlist|5f4406cf-4ab3-308a-8b43-cf2f3ba820ed",
-    "Watchlist|94491980-be5b-3a6e-ada2-38f511818903",
-    "Watchlist|7395592e-6253-303d-b834-97aa2c1f0ac4",
-    "Watchlist|dc4752df-f658-3a95-b523-2acfe605102a",
-    "Watchlist|6bcfc5f1-b3fe-38b4-ad1b-17763c01ecec",
-    "War|https://www.investing.com/news/commodities-news/el-nino-rains-batter-latin-america-from-mexico-to-chile-4967563",
-    "AI|https://www.investing.com/news/earnings/rexford-industrial-posts-mixed-q3-results-raises-2026-guidance-93CH-4967591",
-    "AI|https://www.investing.com/news/earnings/marten-transport-earnings-missed-by-003-revenue-fell-short-of-estimates-4967592",
-    "AI|https://www.investing.com/news/company-news/intuitive-machines-appoints-former-nro-director-to-board-93CH-4967603",
-    "AI|https://www.investing.com/news/company-news/exchange-income-closes-terrapro-acquisition-for-30-million-93CH-4967605",
     "AI|https://www.investing.com/news/company-news/khou-to-broadcast-houston-comets-games-starting-2027-season-93CH-4967604",
     "AI|https://www.investing.com/news/company-news/rivian-acquires-third-dimension-ai-for-autonomous-driving-tech-93CH-4967606",
     "AI|https://www.investing.com/news/company-news/melar-shareholders-approve-merger-with-italian-egrocery-firm-everli-93CH-4967607",
@@ -5000,7 +4981,26 @@
     "AI|WP-MKTW-0005299614",
     "Cybersecurity|WP-MKTW-0005306174",
     "Cybersecurity|WP-MKTW-0005299614",
-    "Iran|https://www.iranintl.com/en/202610214904"
+    "Iran|https://www.iranintl.com/en/202610214904",
+    "AI|d29f3ec4-5e73-3fb7-b1f5-77bc715753bd",
+    "Watchlist|d29f3ec4-5e73-3fb7-b1f5-77bc715753bd",
+    "Watchlist|189b5d46-2d44-3e88-965e-a4daf718cbd7",
+    "AI|6a7e3289-c1ce-301d-bed7-b6f9ce40df56",
+    "Watchlist|6a7e3289-c1ce-301d-bed7-b6f9ce40df56",
+    "AI|b5576d42-d1ff-32f1-b477-482c7ab40034",
+    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-kotak-mahindra-bank-posts-strong-q2-2026-profit-growth-93CH-4970814",
+    "AI|https://www.investing.com/news/company-news/kotak-q2-fy27-slides-profit-jumps-26-as-asset-quality-improves-93CH-4970820",
+    "AI|https://www.investing.com/news/economy-news/could-frances-debt-crisis-spread-across-europe-4970815",
+    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-kotak-mahindra-bank-posts-strong-q2-2026-profit-growth-93CH-4970814",
+    "Cybersecurity|https://www.investing.com/news/company-news/kotak-q2-fy27-slides-profit-jumps-26-as-asset-quality-improves-93CH-4970820",
+    "Cybersecurity|https://www.investing.com/news/economy-news/could-frances-debt-crisis-spread-across-europe-4970815",
+    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-kotak-mahindra-bank-posts-strong-q2-2026-profit-growth-93CH-4970814",
+    "SG Banks|https://www.investing.com/news/company-news/kotak-q2-fy27-slides-profit-jumps-26-as-asset-quality-improves-93CH-4970820",
+    "SG Banks|https://www.investing.com/news/economy-news/could-frances-debt-crisis-spread-across-europe-4970815",
+    "Watchlist|b5576d42-d1ff-32f1-b477-482c7ab40034",
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-kotak-mahindra-bank-posts-strong-q2-2026-profit-growth-93CH-4970814",
+    "Watchlist|https://www.investing.com/news/company-news/kotak-q2-fy27-slides-profit-jumps-26-as-asset-quality-improves-93CH-4970820",
+    "Watchlist|https://www.investing.com/news/economy-news/could-frances-debt-crisis-spread-across-europe-4970815"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792843529.4102879
+  "last_check": 1792844463.5782354
 }
