@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/insider-trading-news/blacksky-cfo-henry-dubois-sells-67400-in-stock-93CH-4967745",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/western-digital-chief-legal-officer-sells-306660-in-shares-93CH-4967750",
     "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-sallie-mae-misses-q3-2026-estimates-as-shares-fall-93CH-4967753",
     "SG Banks|https://www.investing.com/news/company-news/bloom-energy-q3-2026-slides-revenue-surges-138-stock-falls-93CH-4967754",
     "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-befra-posts-huge-q3-2026-beat-as-tupperware-lifts-growth-93CH-4967755",
@@ -5000,7 +4998,9 @@
     "War|9912aee7-92a2-34a2-a88b-9bc8fbb2c6b2",
     "AI|9e0bc751-b344-3c92-bb5c-9429cd40ebbe",
     "AI|ae71ed70-ebe6-305e-bffb-14ea27bf4704",
-    "Watchlist|ae71ed70-ebe6-305e-bffb-14ea27bf4704"
+    "Watchlist|ae71ed70-ebe6-305e-bffb-14ea27bf4704",
+    "AI|97833f69-ccf5-3c4e-b347-f94627d8de70",
+    "Watchlist|97833f69-ccf5-3c4e-b347-f94627d8de70"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792870144.96401
+  "last_check": 1792871053.477051
 }
