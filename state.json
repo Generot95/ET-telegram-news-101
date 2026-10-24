@@ -1,23 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Iran|https://www.iranintl.com/en/202610219901",
-    "AI|68024167-5b28-39d9-90b0-14cf29af563e",
-    "War|10db8c62-1d20-418e-b745-cbcd141ba252",
-    "AI|abd9292a-5fed-3eba-826c-55089266569d",
-    "AI|017be8af-bf66-394c-a436-c1c233f50795",
-    "AI|34b278ab-477e-31fd-a2fe-fda878de773d",
-    "Crypto|06133b86-d6b4-36d0-ad77-2d8e8baecdab",
-    "Watchlist|34b278ab-477e-31fd-a2fe-fda878de773d",
-    "War|abd9292a-5fed-3eba-826c-55089266569d",
-    "War|7bec0f95-287a-38a5-8a1d-fbc49009e393",
-    "AI|ea7f1e5f-c3de-3501-81f3-07ec6c97be4f",
-    "Watchlist|ea7f1e5f-c3de-3501-81f3-07ec6c97be4f",
-    "War|405bedc9-120b-39de-a3fb-4eff44244490",
-    "AI|01e3ac97-bf16-4137-83bd-9c4b5f8b6381",
-    "Crypto|7f8ce517-d438-30d1-98ae-15cffd286387",
-    "War|b18456ae-0b48-363c-bd93-24b37d263ba7",
-    "AI|98dcec18-4557-4023-b94f-77af8c94fffe",
     "AI|88dea359-f33c-3d7d-8fbe-72f4b7e14f34",
     "AI|960718f4-0de9-3bea-bc35-46aa020e6f75",
     "AI|a5908f87-de38-3641-b00a-b9a8ae1c7800",
@@ -5000,7 +4983,24 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/winmark-coo-renae-gaudette-sells-531519-in-stock-93CH-4970687",
     "SG Banks|https://www.investing.com/news/economy-news/uk-to-inject-204-billion-into-statebacked-lenders-in-budget-ft-reports-4970689",
     "Watchlist|https://www.investing.com/news/insider-trading-news/winmark-coo-renae-gaudette-sells-531519-in-stock-93CH-4970687",
-    "Watchlist|https://www.investing.com/news/economy-news/uk-to-inject-204-billion-into-statebacked-lenders-in-budget-ft-reports-4970689"
+    "Watchlist|https://www.investing.com/news/economy-news/uk-to-inject-204-billion-into-statebacked-lenders-in-budget-ft-reports-4970689",
+    "AI|ba1893dc-bd8b-3f80-a849-43d50aa3717f",
+    "Watchlist|ba1893dc-bd8b-3f80-a849-43d50aa3717f",
+    "Iran|https://www.iranintl.com/en/202610219901",
+    "AI|https://www.investing.com/news/insider-trading-news/asana-ceo-daniel-rogers-sells-226596-of-asan-shares-93CH-4970694",
+    "AI|https://www.investing.com/news/insider-trading-news/us-innovation-foundation-director-sells-16m-linkhome-shares-privately-93CH-4970700",
+    "AI|https://www.investing.com/news/insider-trading-news/slide-insurance-cro-matthew-larson-sells-307182-in-shares-93CH-4970702",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/asana-ceo-daniel-rogers-sells-226596-of-asan-shares-93CH-4970694",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/us-innovation-foundation-director-sells-16m-linkhome-shares-privately-93CH-4970700",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/slide-insurance-cro-matthew-larson-sells-307182-in-shares-93CH-4970702",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/asana-ceo-daniel-rogers-sells-226596-of-asan-shares-93CH-4970694",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/us-innovation-foundation-director-sells-16m-linkhome-shares-privately-93CH-4970700",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/slide-insurance-cro-matthew-larson-sells-307182-in-shares-93CH-4970702",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/asana-ceo-daniel-rogers-sells-226596-of-asan-shares-93CH-4970694",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/us-innovation-foundation-director-sells-16m-linkhome-shares-privately-93CH-4970700",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/slide-insurance-cro-matthew-larson-sells-307182-in-shares-93CH-4970702",
+    "AI|b3b75a04-d133-3b0d-8680-af67e3cc8732",
+    "Watchlist|b3b75a04-d133-3b0d-8680-af67e3cc8732"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792828875.092764
+  "last_check": 1792829796.3525772
 }
