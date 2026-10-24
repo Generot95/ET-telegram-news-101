@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Crypto|4a549c23-8c1c-3aa2-9c22-b0ab08b61b37",
-    "AI|eea04be6-e68c-3d38-8e10-1f8c5c374afe",
-    "Watchlist|eea04be6-e68c-3d38-8e10-1f8c5c374afe",
-    "War|WP-MKTW-0005302205",
-    "AI|WP-MKTW-0005302205",
-    "Cybersecurity|WP-MKTW-0005302205",
-    "Watchlist|452d186d-e7c0-4440-88d4-68b4409a1eca",
-    "Watchlist|f7696839-7c56-34c4-b042-c83194a013b2",
-    "AI|f7696839-7c56-34c4-b042-c83194a013b2",
     "AI|de1df460-77da-3f09-876a-ece44751ec1d",
     "AI|f32ca130-03ab-358d-8f2b-339bf8edcb4c",
     "AI|486f56f5-e0b1-381e-bcbd-324926380d6c",
@@ -5000,7 +4991,16 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/veralto-president-and-ceo-jennifer-honeycutt-sells-745290-in-stock-93CH-4970605",
     "Watchlist|https://www.investing.com/news/insider-trading-news/yelp-cfo-david-schwarzbach-sells-150000-in-yelp-shares-93CH-4970603",
     "Watchlist|https://www.investing.com/news/insider-trading-news/circle-internet-group-cfo-foxgeen-disposes-of-135m-in-stock-93CH-4970604",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/veralto-president-and-ceo-jennifer-honeycutt-sells-745290-in-stock-93CH-4970605"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/veralto-president-and-ceo-jennifer-honeycutt-sells-745290-in-stock-93CH-4970605",
+    "AI|https://www.investing.com/news/insider-trading-news/athena-gold-ceo-koby-kushner-buys-3534-in-company-stock-93CH-4970616",
+    "AI|https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-84000-as-whale-withdrawals-surge-and-institutional-activity-grows-4970613",
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-84000-as-whale-withdrawals-surge-and-institutional-activity-grows-4970613",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/athena-gold-ceo-koby-kushner-buys-3534-in-company-stock-93CH-4970616",
+    "Cybersecurity|https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-84000-as-whale-withdrawals-surge-and-institutional-activity-grows-4970613",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/athena-gold-ceo-koby-kushner-buys-3534-in-company-stock-93CH-4970616",
+    "SG Banks|https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-84000-as-whale-withdrawals-surge-and-institutional-activity-grows-4970613",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/athena-gold-ceo-koby-kushner-buys-3534-in-company-stock-93CH-4970616",
+    "Watchlist|https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-84000-as-whale-withdrawals-surge-and-institutional-activity-grows-4970613"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792818803.7102623
+  "last_check": 1792819726.788738
 }
