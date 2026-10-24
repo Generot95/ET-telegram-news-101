@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|WP-MKTW-0005302006",
-    "War|2742ad36-55a1-35f1-bcf8-5b30f504b858",
-    "War|8d895f19-4be3-3ef6-a79a-162c39c99f8f",
-    "War|1264193f-2408-3d4f-9537-f481be4cb926",
-    "Crypto|413723f9-f5fa-330f-b050-59e34b05d0dc",
-    "AI|eb39abbf-68c1-3633-96bb-67ef4774ecee",
-    "Watchlist|eb39abbf-68c1-3633-96bb-67ef4774ecee",
-    "War|ddf2c080-f5a9-3b0d-9ab0-6fa63ce5b2a9",
-    "AI|7cbcf633-1aca-3bff-809f-e06e3aa6e5d8",
     "AI|437e8049-480b-37a2-be8c-c2af97180fb9",
     "AI|cf8771f0-5891-3ece-b16b-6af5f99a62cd",
     "AI|da58fa9e-c924-3e18-9e18-f66362d066d9",
@@ -5000,7 +4991,16 @@
     "Cybersecurity|WP-MKTW-0005297929",
     "Watchlist|4dddc1dd-df9c-32a6-b4e8-72a4b3042f40",
     "Crypto|d6f30805-b0d7-35e7-b190-3ff548feffad",
-    "Crypto|089113e2-146e-3666-b3ef-e1b83ba55493"
+    "Crypto|089113e2-146e-3666-b3ef-e1b83ba55493",
+    "AI|6a6cd130-f23a-3369-9521-e5f77bad28cd",
+    "Watchlist|45c3c1ad-85ff-39f9-9707-13c40fae1a1b",
+    "Watchlist|6a6cd130-f23a-3369-9521-e5f77bad28cd",
+    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-idfc-first-bank-posts-strong-q2-2026-profit-growth-93CH-4970843",
+    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-idfc-first-bank-posts-strong-q2-2026-profit-growth-93CH-4970843",
+    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-idfc-first-bank-posts-strong-q2-2026-profit-growth-93CH-4970843",
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-idfc-first-bank-posts-strong-q2-2026-profit-growth-93CH-4970843",
+    "AI|fc362385-fb51-3060-818f-3ad4e721eba7",
+    "Watchlist|fc362385-fb51-3060-818f-3ad4e721eba7"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792851781.1959794
+  "last_check": 1792852693.5705192
 }
