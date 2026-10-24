@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/huron-consulting-stock-rises-on-sp-smallcap-600-addition-4967707",
-    "Watchlist|https://www.investing.com/news/company-news/ssc-q3-2026-slides-record-ebitda-shares-fall-on-q4-outlook-93CH-4967708",
-    "Watchlist|https://www.investing.com/news/stock-market-news/sk-hynix-drops-us-ipo-plan-for-solidigm-newspaper-reports-4967714",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/cme-group-director-martin-gepsman-sells-121000-in-shares-93CH-4967715",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/porch-group-director-amanda-reierson-sells-133401-in-shares-93CH-4967716",
     "Watchlist|https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-262611-of-bny-mellon-strategic-municipals-93CH-4967718",
     "Watchlist|https://www.investing.com/news/insider-trading-news/porch-group-coo-matthew-neagle-sells-562965-in-shares-93CH-4967717",
     "War|https://www.investing.com/news/commodities-news/copper-trapped-in-655665-range-breakout-pending-live-93CH-4956489",
@@ -5000,7 +4995,12 @@
     "AI|https://www.investing.com/news/insider-trading-news/exodus-movement-director-margaret-knight-sells-955-in-stock-93CH-4970914",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/exodus-movement-director-margaret-knight-sells-955-in-stock-93CH-4970914",
     "SG Banks|https://www.investing.com/news/insider-trading-news/exodus-movement-director-margaret-knight-sells-955-in-stock-93CH-4970914",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/exodus-movement-director-margaret-knight-sells-955-in-stock-93CH-4970914"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/exodus-movement-director-margaret-knight-sells-955-in-stock-93CH-4970914",
+    "AI|a2a3b0db-40a5-3e2b-bcc4-cf7efb140453",
+    "Crypto|a2a3b0db-40a5-3e2b-bcc4-cf7efb140453",
+    "Watchlist|a2a3b0db-40a5-3e2b-bcc4-cf7efb140453",
+    "AI|f49aeffa-a6c2-3422-8865-3e442f8f2f2f",
+    "Watchlist|f49aeffa-a6c2-3422-8865-3e442f8f2f2f"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792862788.1522362
+  "last_check": 1792863733.0290902
 }
