@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/best-largecap-dip-buys-att-leads-on-earnings-beat-and-rising-estimates-93CH-4967207",
-    "Watchlist|https://www.investing.com/news/company-news/uze-stock-hits-52week-low-at-1521-usd-93CH-4967191",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-ge-vernova-stock-tumbling-today-93CH-4967194",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-roper-technologies-stock-surging-today-93CH-4967199",
     "Watchlist|https://www.investing.com/news/stock-market-news/trump-asks-musk-to-lift-ukraine-starlink-restrictions-wsj-reports-4967200",
@@ -5000,7 +4998,9 @@
     "AI|bf0dc28d-1bcf-389c-91e5-d51e0824ec54",
     "AI|9fcde8f9-d320-307d-b6cc-bb456e3ae849",
     "Watchlist|bf0dc28d-1bcf-389c-91e5-d51e0824ec54",
-    "Watchlist|9fcde8f9-d320-307d-b6cc-bb456e3ae849"
+    "Watchlist|9fcde8f9-d320-307d-b6cc-bb456e3ae849",
+    "AI|24775e5c-4d8b-3035-bda0-2e23465978cd",
+    "Watchlist|24775e5c-4d8b-3035-bda0-2e23465978cd"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792808743.3098645
+  "last_check": 1792809658.3884163
 }
