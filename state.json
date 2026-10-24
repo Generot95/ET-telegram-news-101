@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/jefferies-names-top-fashion-stocks-ahead-of-earnings-season-4967203",
-    "Watchlist|https://www.investing.com/news/stock-market-news/best-largecap-dip-buys-att-leads-on-earnings-beat-and-rising-estimates-93CH-4967207",
     "War|1a3e9fc8-6c9e-384b-b5e6-dff25bc7ee46",
     "Iran|https://www.iranintl.com/en/202610210181",
     "War|f3445df7-9e36-3a76-bc77-1bae5cce805c",
@@ -5000,7 +4998,9 @@
     "SG Banks|https://www.investing.com/news/company-news/amazons-aws-cloud-capacity-largely-sold-out-through-2027-ceo-says-4970563",
     "Watchlist|https://www.investing.com/news/company-news/amazons-aws-cloud-capacity-largely-sold-out-through-2027-ceo-says-4970563",
     "SG Banks|/companies-markets/telcos-media-tech/instacart-talks-doordash-and-uber-sale-report",
-    "Watchlist|/companies-markets/telcos-media-tech/instacart-talks-doordash-and-uber-sale-report"
+    "Watchlist|/companies-markets/telcos-media-tech/instacart-talks-doordash-and-uber-sale-report",
+    "War|81a97362-de78-32e1-a3c3-349a92be168b",
+    "Iran|https://www.iranintl.com/en/202610235803"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792810560.0114598
+  "last_check": 1792811483.7739155
 }
