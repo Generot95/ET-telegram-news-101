@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|80ce5f56-2359-3996-b955-ca233b3c9f03",
-    "AI|f2a99186-6900-320c-aea2-7778906800e5",
-    "War|add35572-856e-31cb-981d-91d3cc20d822",
     "War|WP-MKTW-0005301524",
     "AI|WP-MKTW-0005301524",
     "Cybersecurity|WP-MKTW-0005301524",
@@ -5000,7 +4997,10 @@
     "Crypto|35cbc162-558b-348b-aff1-97c0e04bd238",
     "War|WP-MKTW-0005299301",
     "AI|WP-MKTW-0005299301",
-    "Cybersecurity|WP-MKTW-0005299301"
+    "Cybersecurity|WP-MKTW-0005299301",
+    "Cybersecurity|3cba26c6-8838-3caa-807e-a0369717ef29",
+    "Watchlist|3cba26c6-8838-3caa-807e-a0369717ef29",
+    "War|c2646188-9e32-4b72-bd7a-f00bf6b670fc"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792849959.4808552
+  "last_check": 1792850882.055897
 }
