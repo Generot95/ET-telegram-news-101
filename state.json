@@ -1,7 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-sl-green-tops-q3-2026-estimates-as-manhattan-office-demand-holds-93CH-4967222",
     "SG Banks|https://www.investing.com/news/company-news/nextera-energy-declares-06232-quarterly-dividend-93CH-4967208",
     "SG Banks|https://www.investing.com/news/company-news/lindsay-to-acquire-brazilian-hose-reel-maker-setorial-irrigacao-93CH-4967209",
     "SG Banks|https://www.investing.com/news/insider-trading-news/aar-corp-director-ellen-lord-sells-425128-in-company-stock-93CH-4967212",
@@ -5000,7 +4999,8 @@
     "War|4a72986d-4962-3ac1-a690-70e75852af98",
     "AI|48245a5a-52e0-3dae-a7a7-38620ac5a927",
     "Watchlist|48245a5a-52e0-3dae-a7a7-38620ac5a927",
-    "Watchlist|5be8ddef-17cb-398e-b0c3-aaf55f1e71c4"
+    "Watchlist|5be8ddef-17cb-398e-b0c3-aaf55f1e71c4",
+    "AI|c1465e16-6b94-3787-b31a-19aaa0187c5e"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792813304.6878855
+  "last_check": 1792814225.9168167
 }
