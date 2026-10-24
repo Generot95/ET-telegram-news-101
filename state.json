@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-097-4967443",
-    "Watchlist|https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-002-4967453",
-    "Watchlist|https://www.investing.com/news/economy-news/exclusiveaustralian-agency-mulled-firing-kpmg-over-datahandling-rule-breach-documents-show-4967323",
-    "Watchlist|https://www.investing.com/news/earnings/columbia-banking-earnings-beat-by-005-revenue-topped-estimates-4967457",
-    "Watchlist|https://www.investing.com/news/earnings/south-plains-financial-earnings-beat-by-007-revenue-topped-estimates-4967458",
-    "War|WP-MKTW-0005299894",
-    "AI|WP-MKTW-0005299894",
-    "Cybersecurity|WP-MKTW-0005299894",
     "AI|61e5c935-c388-3c29-9db2-117b1e055046",
     "War|5c1d002b-52ed-3736-8664-c7ebbfc5e31f",
     "AI|892f1d3c-80cf-3343-9282-9a99af65dc1f",
@@ -5000,7 +4992,15 @@
     "SG Banks|/companies-markets/transport-logistics/cabin-fever-airlines-are-rushing-refurbish-plane-interiors-will-their-bets-pay",
     "Watchlist|/companies-markets/transport-logistics/cabin-fever-airlines-are-rushing-refurbish-plane-interiors-will-their-bets-pay",
     "AI|aa301d56-b547-3654-9f92-b7962548c674",
-    "Watchlist|aa301d56-b547-3654-9f92-b7962548c674"
+    "Watchlist|aa301d56-b547-3654-9f92-b7962548c674",
+    "AI|https://www.investing.com/news/economic-indicators/as-winter-nears-heating-oil-emerges-as-hurdle-for-republicans-in-us-senate-races-4970790",
+    "Cybersecurity|https://www.investing.com/news/economic-indicators/as-winter-nears-heating-oil-emerges-as-hurdle-for-republicans-in-us-senate-races-4970790",
+    "SG Banks|https://www.investing.com/news/economic-indicators/as-winter-nears-heating-oil-emerges-as-hurdle-for-republicans-in-us-senate-races-4970790",
+    "Watchlist|https://www.investing.com/news/economic-indicators/as-winter-nears-heating-oil-emerges-as-hurdle-for-republicans-in-us-senate-races-4970790",
+    "AI|5c24ee6f-856c-3810-8929-ba66c5cfff61",
+    "AI|adc671ce-3a84-31e3-9853-199b973324d5",
+    "Watchlist|5c24ee6f-856c-3810-8929-ba66c5cfff61",
+    "Watchlist|adc671ce-3a84-31e3-9853-199b973324d5"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792837131.6212597
+  "last_check": 1792838044.477737
 }
