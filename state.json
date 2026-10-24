@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/blacksky-ceo-brian-otoole-sells-337200-in-company-stock-93CH-4967742",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/blacksky-general-counsel-sells-6000-shares-for-101160-93CH-4967743",
-    "Cybersecurity|https://www.investing.com/news/company-news/associated-banccorp-q3-2026-slides-margin-hits-decade-high-93CH-4967744",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/blacksky-cfo-henry-dubois-sells-67400-in-stock-93CH-4967745",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/western-digital-chief-legal-officer-sells-306660-in-shares-93CH-4967750",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-sallie-mae-misses-q3-2026-estimates-as-shares-fall-93CH-4967753",
-    "Cybersecurity|https://www.investing.com/news/company-news/bloom-energy-q3-2026-slides-revenue-surges-138-stock-falls-93CH-4967754",
     "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-befra-posts-huge-q3-2026-beat-as-tupperware-lifts-growth-93CH-4967755",
     "Cybersecurity|https://www.investing.com/news/company-news/trustbix-gets-extension-for-private-placement-to-nov-21-93CH-4967726",
     "SG Banks|https://www.investing.com/news/insider-trading-news/blacksky-ceo-brian-otoole-sells-337200-in-company-stock-93CH-4967742",
@@ -5000,7 +4993,14 @@
     "Watchlist|https://www.investing.com/news/world-news/albanian-police-fire-tear-gas-as-antigovernment-student-protests-turn-violent-4970910",
     "Crypto|4cebbc2a-f1f4-36de-8a3a-854e4e27f1d9",
     "AI|1ad46192-8161-3411-bf8f-748099530585",
-    "Watchlist|1ad46192-8161-3411-bf8f-748099530585"
+    "Watchlist|1ad46192-8161-3411-bf8f-748099530585",
+    "AI|286395b3-17c9-3e4d-9b57-04d50887f8e8",
+    "Watchlist|286395b3-17c9-3e4d-9b57-04d50887f8e8",
+    "AI|https://www.investing.com/news/stock-market-news/apax-nordic-capital-and-dalmore-circling-uk-supplier-jla-group--bloomberg-4970855",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/apax-nordic-capital-and-dalmore-circling-uk-supplier-jla-group--bloomberg-4970855",
+    "SG Banks|https://www.investing.com/news/stock-market-news/apax-nordic-capital-and-dalmore-circling-uk-supplier-jla-group--bloomberg-4970855",
+    "Watchlist|https://www.investing.com/news/stock-market-news/apax-nordic-capital-and-dalmore-circling-uk-supplier-jla-group--bloomberg-4970855",
+    "AI|c8f3928d-0cd1-3635-ad61-6ad71f0dee42"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792868308.9687812
+  "last_check": 1792869226.2654324
 }
