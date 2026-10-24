@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/jakks-pacific-q3-2026-slides-20-sales-jump-earnings-beat-estimates-93CH-4967703",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/brazils-bradesco-meets-profit-estimates-despite-slower-credit-revenue-4967704",
-    "Cybersecurity|https://www.investing.com/news/company-news/south-plains-financial-q3-2026-slides-eps-beats-houston-integration-complete-93CH-4967705",
-    "Cybersecurity|https://www.investing.com/news/company-news/omnicom-q3-2026-slides-organic-growth-hits-72-margins-expand-93CH-4967706",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/huron-consulting-stock-rises-on-sp-smallcap-600-addition-4967707",
     "Cybersecurity|https://www.investing.com/news/company-news/ssc-q3-2026-slides-record-ebitda-shares-fall-on-q4-outlook-93CH-4967708",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/sk-hynix-drops-us-ipo-plan-for-solidigm-newspaper-reports-4967714",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/cme-group-director-martin-gepsman-sells-121000-in-shares-93CH-4967715",
@@ -5000,7 +4995,12 @@
     "AI|5a17dc4a-7f62-3ca5-99ae-96622600ba68",
     "Crypto|ce00207f-8f0f-30f0-9173-1caeb441117f",
     "AI|cb37df59-bc44-3e90-b96c-8f76fa2f5f5c",
-    "Watchlist|cb37df59-bc44-3e90-b96c-8f76fa2f5f5c"
+    "Watchlist|cb37df59-bc44-3e90-b96c-8f76fa2f5f5c",
+    "Watchlist|7c55e09d-1029-3a61-9b60-9445afaee00d",
+    "AI|31ffc2e8-fda2-36aa-b881-71b96d88cc1f",
+    "Watchlist|31ffc2e8-fda2-36aa-b881-71b96d88cc1f",
+    "AI|0dcee8ad-9eca-3bb7-8e12-fba69a62d0ae",
+    "Watchlist|0dcee8ad-9eca-3bb7-8e12-fba69a62d0ae"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792859125.6721456
+  "last_check": 1792860036.251624
 }
