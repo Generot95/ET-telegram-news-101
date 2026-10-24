@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/saic-stock-hits-52week-high-at-14270-93CH-4967175",
-    "AI|https://www.investing.com/news/company-news/grupo-mexico-q3-2026-slides-record-ebitda-on-copper-surge-93CH-4967177",
-    "AI|https://www.investing.com/news/company-news/alarmcom-stock-hits-52week-high-at-6159-usd-93CH-4967178",
-    "AI|https://www.investing.com/news/company-news/heritage-financial-q3-2026-slides-margin-expands-to-405-93CH-4967179",
-    "AI|https://www.investing.com/news/company-news/beaconfinancial-q3-2026-slides-capital-returns-rise-cre-risk-falls-93CH-4967182",
-    "AI|https://www.investing.com/news/company-news/bactiguard-q3-2026-slides-ebitda-soars-on-license-growth-93CH-4967183",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-howmet-aerospace-stock-tumbling-today-93CH-4967185",
-    "Cybersecurity|https://www.investing.com/news/company-news/frasers-centrepoint-trust-fy26-slides-record-dpu-amid-capex-rampup-93CH-4967172",
-    "Cybersecurity|https://www.investing.com/news/company-news/zurn-elkay-raises-quarterly-dividend-18-to-013-per-share-93CH-4967173",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-beacon-financial-tops-strategic-goals-shares-rise-in-q3-2026-93CH-4967174",
-    "Cybersecurity|https://www.investing.com/news/company-news/saic-stock-hits-52week-high-at-14270-93CH-4967175",
-    "Cybersecurity|https://www.investing.com/news/company-news/grupo-mexico-q3-2026-slides-record-ebitda-on-copper-surge-93CH-4967177",
     "Cybersecurity|https://www.investing.com/news/company-news/alarmcom-stock-hits-52week-high-at-6159-usd-93CH-4967178",
     "Cybersecurity|https://www.investing.com/news/company-news/heritage-financial-q3-2026-slides-margin-expands-to-405-93CH-4967179",
     "Cybersecurity|https://www.investing.com/news/company-news/beaconfinancial-q3-2026-slides-capital-returns-rise-cre-risk-falls-93CH-4967182",
@@ -5000,10 +4988,22 @@
     "SG Banks|https://www.investing.com/news/company-news/how-should-investors-think-about-gta-vi-preorder-performance-4970510",
     "Watchlist|https://www.investing.com/news/company-news/how-should-investors-think-about-gta-vi-preorder-performance-4970510",
     "SG Banks|/companies-markets/capital-markets-currencies/european-stocks-post-weekly-loss-france-turmoil-oil-prices-dent-earnings-optimism",
-    "Watchlist|/companies-markets/capital-markets-currencies/european-stocks-post-weekly-loss-france-turmoil-oil-prices-dent-earnings-optimism"
+    "Watchlist|/companies-markets/capital-markets-currencies/european-stocks-post-weekly-loss-france-turmoil-oil-prices-dent-earnings-optimism",
+    "SG Banks|/companies-markets/energy-commodities/oil-prices-jump-us3-houthi-attacks-oil-spill-highest-settlement-april",
+    "Watchlist|/companies-markets/energy-commodities/oil-prices-jump-us3-houthi-attacks-oil-spill-highest-settlement-april",
+    "AI|b6ddc7fd-ece8-3b67-8fbc-23bcb82d9f25",
+    "Watchlist|b6ddc7fd-ece8-3b67-8fbc-23bcb82d9f25",
+    "AI|https://www.investing.com/news/world-news/thailand-welcomes-usmyanmar-engagement-expects-asean-talks-on-countrys-future-4970502",
+    "AI|https://www.investing.com/news/stock-market-news/exclusiveboeing-supplier-dispute-has-halted-777-freighter-production-for-two-months-sources-say-4970513",
+    "Cybersecurity|https://www.investing.com/news/world-news/thailand-welcomes-usmyanmar-engagement-expects-asean-talks-on-countrys-future-4970502",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/exclusiveboeing-supplier-dispute-has-halted-777-freighter-production-for-two-months-sources-say-4970513",
+    "SG Banks|https://www.investing.com/news/world-news/thailand-welcomes-usmyanmar-engagement-expects-asean-talks-on-countrys-future-4970502",
+    "SG Banks|https://www.investing.com/news/stock-market-news/exclusiveboeing-supplier-dispute-has-halted-777-freighter-production-for-two-months-sources-say-4970513",
+    "Watchlist|https://www.investing.com/news/world-news/thailand-welcomes-usmyanmar-engagement-expects-asean-talks-on-countrys-future-4970502",
+    "Watchlist|https://www.investing.com/news/stock-market-news/exclusiveboeing-supplier-dispute-has-halted-777-freighter-production-for-two-months-sources-say-4970513"
   ],
   "topic_error": "",
-  "last_digest": "2026-10-23",
+  "last_digest": "2026-10-24",
   "earnings": {
     "AMD": {
       "ts": 1793736000,
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792799520.0475304
+  "last_check": 1792800437.3159273
 }
