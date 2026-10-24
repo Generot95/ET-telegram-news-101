@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|0ac968e1-b8f1-3b50-8842-5c6f6bcce65b",
-    "AI|80ce5f56-2359-3996-b955-ca233b3c9f03",
-    "Watchlist|59c6e0b3-7860-3186-b02a-f15ddc1dce78",
-    "Watchlist|0ac968e1-b8f1-3b50-8842-5c6f6bcce65b",
     "Watchlist|80ce5f56-2359-3996-b955-ca233b3c9f03",
     "AI|f2a99186-6900-320c-aea2-7778906800e5",
     "War|add35572-856e-31cb-981d-91d3cc20d822",
@@ -5000,7 +4996,11 @@
     "Watchlist|944e47bf-8bae-3586-944c-358e557951b5",
     "Iran|https://www.iranintl.com/en/202610228890",
     "SG Banks|bb75d1b6-c5f4-3186-bb69-4a83121fd095",
-    "SG Banks|823e114a-be39-36d8-ad49-ea4cd59799ce"
+    "SG Banks|823e114a-be39-36d8-ad49-ea4cd59799ce",
+    "Crypto|35cbc162-558b-348b-aff1-97c0e04bd238",
+    "War|WP-MKTW-0005299301",
+    "AI|WP-MKTW-0005299301",
+    "Cybersecurity|WP-MKTW-0005299301"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792849036.6772296
+  "last_check": 1792849959.4808552
 }
