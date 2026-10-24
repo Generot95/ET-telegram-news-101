@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/newmont-q3-2026-slides-record-cash-flow-red-chris-nears-decision-93CH-4967786",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/pc-connection-chairman-gallup-sells-132m-in-shares-93CH-4967789",
     "SG Banks|https://www.investing.com/news/insider-trading-news/block-director-anthony-eisen-sells-141m-in-block-xyz-shares-93CH-4967790",
     "SG Banks|https://www.investing.com/news/insider-trading-news/glenbrook-capital-management-purchases-74838-of-senestech-stock-93CH-4967791",
     "SG Banks|https://www.investing.com/news/insider-trading-news/apple-svp-jennifer-newstead-sells-814748-in-aapl-stock-93CH-4967792",
@@ -5000,7 +4998,9 @@
     "Watchlist|7d9e63a1-0e1b-37ce-8e93-e50d687d8850",
     "AI|9308af33-7058-3688-8c3f-f81e339f837f",
     "Watchlist|9308af33-7058-3688-8c3f-f81e339f837f",
-    "Iran|https://www.iranintl.com/en/202610244351"
+    "Iran|https://www.iranintl.com/en/202610244351",
+    "AI|e0ce9a06-d22a-3357-a1aa-d5ca13b447d8",
+    "Watchlist|e0ce9a06-d22a-3357-a1aa-d5ca13b447d8"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792882051.56962
+  "last_check": 1792882957.1973035
 }
