@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/ssc-q3-2026-slides-record-ebitda-shares-fall-on-q4-outlook-93CH-4967708",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/sk-hynix-drops-us-ipo-plan-for-solidigm-newspaper-reports-4967714",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/cme-group-director-martin-gepsman-sells-121000-in-shares-93CH-4967715",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/porch-group-director-amanda-reierson-sells-133401-in-shares-93CH-4967716",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-262611-of-bny-mellon-strategic-municipals-93CH-4967718",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/porch-group-coo-matthew-neagle-sells-562965-in-shares-93CH-4967717",
-    "Cybersecurity|https://www.investing.com/news/company-news/maxlinear-q3-2026-slides-infrastructure-revenue-surges-210-yoy-93CH-4967681",
     "Cybersecurity|https://www.investing.com/news/company-news/rio-tinto-invests-19-billion-in-queensland-bauxite-project-93CH-4967685",
     "Cybersecurity|https://www.investing.com/news/company-news/western-digital-q1fy27-slides-margins-surge-as-cloud-revenue-hits-88-93CH-4967696",
     "Cybersecurity|https://www.investing.com/news/company-news/jakks-pacific-q3-2026-slides-20-sales-jump-earnings-beat-estimates-93CH-4967703",
@@ -5000,7 +4993,14 @@
     "AI|31ffc2e8-fda2-36aa-b881-71b96d88cc1f",
     "Watchlist|31ffc2e8-fda2-36aa-b881-71b96d88cc1f",
     "AI|0dcee8ad-9eca-3bb7-8e12-fba69a62d0ae",
-    "Watchlist|0dcee8ad-9eca-3bb7-8e12-fba69a62d0ae"
+    "Watchlist|0dcee8ad-9eca-3bb7-8e12-fba69a62d0ae",
+    "Cybersecurity|3ca16b67-0147-386a-a235-2de67164740d",
+    "Watchlist|3ca16b67-0147-386a-a235-2de67164740d",
+    "AI|f8588665-efc5-308b-91f3-46b547ec1513",
+    "Watchlist|f8588665-efc5-308b-91f3-46b547ec1513",
+    "War|WP-MKTW-0005299894",
+    "AI|WP-MKTW-0005299894",
+    "Cybersecurity|WP-MKTW-0005299894"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792860036.251624
+  "last_check": 1792860945.64952
 }
