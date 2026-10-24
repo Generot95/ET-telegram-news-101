@@ -1,21 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/banzai-international-to-change-name-execute-reverse-stock-split-93CH-4967640",
-    "Cybersecurity|https://www.investing.com/news/company-news/verisign-q3-2026-slides-domain-growth-surges-guidance-raised-93CH-4967644",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-maxlinear-tops-q3-2026-estimates-but-shares-fall-93CH-4967668",
-    "SG Banks|https://www.investing.com/news/sec-filings/xcf-global-completes-business-combination-with-devvstream-legacy-and-southern-energy-93CH-4967670",
-    "SG Banks|https://www.investing.com/news/company-news/aptargroup-names-virginie-maes-president-of-pharma-unit-93CH-4967672",
-    "SG Banks|https://www.investing.com/news/company-news/ipm-to-acquire-adtech-it-business-for-up-to-27-million-93CH-4967673",
-    "SG Banks|https://www.investing.com/news/company-news/sharc-energy-secures-5m-order-from-city-of-surrey-93CH-4967674",
-    "SG Banks|https://www.investing.com/news/commodities-news/trump-invokes-cold-war-era-defense-production-act-for-oil-production-refining-4967625",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-appfolio-tops-q3-2026-estimates-shares-slip-after-hours-93CH-4967676",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-deckers-q2-2027-beats-eps-but-shares-drop-73-93CH-4967677",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-maxlinear-tops-q3-2026-estimates-but-shares-fall-93CH-4967668",
-    "Watchlist|https://www.investing.com/news/sec-filings/xcf-global-completes-business-combination-with-devvstream-legacy-and-southern-energy-93CH-4967670",
-    "Watchlist|https://www.investing.com/news/company-news/aptargroup-names-virginie-maes-president-of-pharma-unit-93CH-4967672",
-    "Watchlist|https://www.investing.com/news/company-news/ipm-to-acquire-adtech-it-business-for-up-to-27-million-93CH-4967673",
-    "Watchlist|https://www.investing.com/news/company-news/sharc-energy-secures-5m-order-from-city-of-surrey-93CH-4967674",
     "Watchlist|https://www.investing.com/news/commodities-news/trump-invokes-cold-war-era-defense-production-act-for-oil-production-refining-4967625",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-appfolio-tops-q3-2026-estimates-shares-slip-after-hours-93CH-4967676",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-deckers-q2-2027-beats-eps-but-shares-drop-73-93CH-4967677",
@@ -5000,7 +4985,22 @@
     "AI|9b805520-14da-3f7a-988b-25362d0176da",
     "Watchlist|91c4144c-2b4a-3503-96a5-6369988ecf70",
     "AI|170c954c-b8f8-3654-89dc-768b8ded67f3",
-    "Watchlist|170c954c-b8f8-3654-89dc-768b8ded67f3"
+    "Watchlist|170c954c-b8f8-3654-89dc-768b8ded67f3",
+    "AI|8dcd788e-ab45-3e65-9be3-bd882c9cabbb",
+    "AI|https://www.investing.com/news/company-news/pfizer-reports-phase-2-data-for-25valent-pneumococcal-vaccine-93CH-4970863",
+    "Cybersecurity|https://www.investing.com/news/company-news/pfizer-reports-phase-2-data-for-25valent-pneumococcal-vaccine-93CH-4970863",
+    "SG Banks|https://www.investing.com/news/company-news/pfizer-reports-phase-2-data-for-25valent-pneumococcal-vaccine-93CH-4970863",
+    "Watchlist|8dcd788e-ab45-3e65-9be3-bd882c9cabbb",
+    "Watchlist|https://www.investing.com/news/company-news/pfizer-reports-phase-2-data-for-25valent-pneumococcal-vaccine-93CH-4970863",
+    "AI|bb982466-ec93-3710-ba3b-ef9121946bae",
+    "War|WP-MKTW-0005295158",
+    "AI|WP-MKTW-0005295158",
+    "Cybersecurity|WP-MKTW-0005295158",
+    "Watchlist|bb982466-ec93-3710-ba3b-ef9121946bae",
+    "AI|eb30b28d-f1df-3e19-b8f0-83995e12d42b",
+    "AI|653e99c4-6f7b-3967-95b3-cf86de6625dc",
+    "Watchlist|eb30b28d-f1df-3e19-b8f0-83995e12d42b",
+    "Watchlist|653e99c4-6f7b-3967-95b3-cf86de6625dc"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792855457.0536242
+  "last_check": 1792856374.6156528
 }
