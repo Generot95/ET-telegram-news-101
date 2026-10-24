@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|5e65b403-88dc-3eeb-8a4f-99a72a01cd32",
-    "Watchlist|5e65b403-88dc-3eeb-8a4f-99a72a01cd32",
-    "AI|https://www.investing.com/news/insider-trading-news/blacksky-ceo-brian-otoole-sells-337200-in-company-stock-93CH-4967742",
-    "AI|https://www.investing.com/news/insider-trading-news/blacksky-general-counsel-sells-6000-shares-for-101160-93CH-4967743",
-    "AI|https://www.investing.com/news/company-news/associated-banccorp-q3-2026-slides-margin-hits-decade-high-93CH-4967744",
-    "AI|https://www.investing.com/news/insider-trading-news/blacksky-cfo-henry-dubois-sells-67400-in-stock-93CH-4967745",
-    "AI|https://www.investing.com/news/insider-trading-news/western-digital-chief-legal-officer-sells-306660-in-shares-93CH-4967750",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-sallie-mae-misses-q3-2026-estimates-as-shares-fall-93CH-4967753",
-    "AI|https://www.investing.com/news/company-news/bloom-energy-q3-2026-slides-revenue-surges-138-stock-falls-93CH-4967754",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-befra-posts-huge-q3-2026-beat-as-tupperware-lifts-growth-93CH-4967755",
-    "AI|https://www.investing.com/news/stock-market-news/canadian-oil-explorer-logan-energy-weighs-sale-options-bloomberg-reports-4967722",
-    "AI|https://www.investing.com/news/stock-market-news/grupo-mexico-to-press-ahead-with-major-us-copper-projects-after-output-dip-4967733",
     "AI|https://www.investing.com/news/stock-market-news/whitehaven-coals-firstquarter-output-rises-nearly-22-4967734",
     "AI|https://www.investing.com/news/stock-market-news/australias-rio-tinto-to-invest-19-billion-in-queensland-bauxite-project-4967736",
     "AI|https://www.investing.com/news/company-news/trustbix-gets-extension-for-private-placement-to-nov-21-93CH-4967726",
@@ -5000,7 +4988,19 @@
     "AI|b8a08c6d-4e53-348d-b3ed-54b2ecaafb7a",
     "Watchlist|b8a08c6d-4e53-348d-b3ed-54b2ecaafb7a",
     "AI|6b6602bd-1117-3a8d-b129-b5a4d47e82c3",
-    "Watchlist|6b6602bd-1117-3a8d-b129-b5a4d47e82c3"
+    "Watchlist|6b6602bd-1117-3a8d-b129-b5a4d47e82c3",
+    "AI|https://www.investing.com/news/world-news/accuser-in-cornell-rape-allegations-can-stay-anonymous-judge-rules-4970882",
+    "AI|https://www.investing.com/news/world-news/belgian-protesters-and-police-skirmish-at-antigovernment-demonstrations-in-brussels-4970881",
+    "AI|https://www.investing.com/news/world-news/albanian-police-fire-tear-gas-as-antigovernment-student-protests-turn-violent-4970910",
+    "Cybersecurity|https://www.investing.com/news/world-news/accuser-in-cornell-rape-allegations-can-stay-anonymous-judge-rules-4970882",
+    "Cybersecurity|https://www.investing.com/news/world-news/belgian-protesters-and-police-skirmish-at-antigovernment-demonstrations-in-brussels-4970881",
+    "Cybersecurity|https://www.investing.com/news/world-news/albanian-police-fire-tear-gas-as-antigovernment-student-protests-turn-violent-4970910",
+    "SG Banks|https://www.investing.com/news/world-news/accuser-in-cornell-rape-allegations-can-stay-anonymous-judge-rules-4970882",
+    "SG Banks|https://www.investing.com/news/world-news/belgian-protesters-and-police-skirmish-at-antigovernment-demonstrations-in-brussels-4970881",
+    "SG Banks|https://www.investing.com/news/world-news/albanian-police-fire-tear-gas-as-antigovernment-student-protests-turn-violent-4970910",
+    "Watchlist|https://www.investing.com/news/world-news/accuser-in-cornell-rape-allegations-can-stay-anonymous-judge-rules-4970882",
+    "Watchlist|https://www.investing.com/news/world-news/belgian-protesters-and-police-skirmish-at-antigovernment-demonstrations-in-brussels-4970881",
+    "Watchlist|https://www.investing.com/news/world-news/albanian-police-fire-tear-gas-as-antigovernment-student-protests-turn-violent-4970910"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792866461.9547505
+  "last_check": 1792867384.1686885
 }
