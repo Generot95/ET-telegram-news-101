@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/commodities-news/trump-invokes-cold-war-era-defense-production-act-for-oil-production-refining-4967625",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-appfolio-tops-q3-2026-estimates-shares-slip-after-hours-93CH-4967676",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-deckers-q2-2027-beats-eps-but-shares-drop-73-93CH-4967677",
-    "War|2cf0de20-406b-4b6d-8559-640388e766fd",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/outpoll-expands-beyond-prediction-markets-with-crypto-futures-trading-4960831",
-    "Crypto|942db1ae-8319-350c-81dc-bb75bc27fa0c",
-    "Watchlist|4c1d8ace-37db-33d8-9af6-255797fa8f1e",
-    "War|b1977d5c-673a-38e5-be01-286a2f0e6eaf",
-    "AI|9a6a635b-76ac-38ea-b2b3-92377540db61",
-    "AI|a4406f3d-bde5-3bcf-8a71-638ad37f7439",
     "Crypto|b1977d5c-673a-38e5-be01-286a2f0e6eaf",
     "SG Banks|/companies-markets/capital-markets-currencies/sp-500-nasdaq-end-sharply-lower-revived-ai-doubts-ignite-tech-sell",
     "Watchlist|9a6a635b-76ac-38ea-b2b3-92377540db61",
@@ -5000,7 +4990,17 @@
     "AI|eb30b28d-f1df-3e19-b8f0-83995e12d42b",
     "AI|653e99c4-6f7b-3967-95b3-cf86de6625dc",
     "Watchlist|eb30b28d-f1df-3e19-b8f0-83995e12d42b",
-    "Watchlist|653e99c4-6f7b-3967-95b3-cf86de6625dc"
+    "Watchlist|653e99c4-6f7b-3967-95b3-cf86de6625dc",
+    "AI|8e6da4eb-21dd-337c-9e79-521d1131b0bf",
+    "AI|dd7360b9-5d44-3f4e-b0db-32181a485cc0",
+    "Watchlist|8e6da4eb-21dd-337c-9e79-521d1131b0bf",
+    "Watchlist|dd7360b9-5d44-3f4e-b0db-32181a485cc0",
+    "AI|4511c68b-8527-3843-8c77-08f37448f063",
+    "Watchlist|4511c68b-8527-3843-8c77-08f37448f063",
+    "Crypto|233ca31c-098d-34cc-b0e8-5ab5fcde7f09",
+    "AI|865723f8-c687-3300-b736-1f690a491d11",
+    "Crypto|81250f61-73ef-3a51-9a73-52a24f257a0a",
+    "Crypto|5e7b5ece-b377-3abf-a0da-e5e65eea44c8"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792856374.6156528
+  "last_check": 1792857287.4553597
 }
