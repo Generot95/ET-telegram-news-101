@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/independence-gold-increases-private-placement-to-625-million-93CH-4967201",
-    "SG Banks|https://www.investing.com/news/stock-market-news/top-lodging-stocks-for-3q26-earnings-according-to-wells-fargo-4967202",
-    "SG Banks|https://www.investing.com/news/company-news/cdw-stock-hits-52week-high-at-1611-usd-93CH-4967204",
-    "SG Banks|https://www.investing.com/news/stock-market-news/jefferies-names-top-fashion-stocks-ahead-of-earnings-season-4967203",
     "SG Banks|https://www.investing.com/news/stock-market-news/best-largecap-dip-buys-att-leads-on-earnings-beat-and-rising-estimates-93CH-4967207",
     "Watchlist|https://www.investing.com/news/company-news/uze-stock-hits-52week-low-at-1521-usd-93CH-4967191",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-ge-vernova-stock-tumbling-today-93CH-4967194",
@@ -5000,7 +4996,11 @@
     "AI|https://www.investing.com/news/company-news/boeing-777-freighter-output-halted-for-two-months-over-supplier-row--reuters-4970553",
     "Cybersecurity|https://www.investing.com/news/company-news/boeing-777-freighter-output-halted-for-two-months-over-supplier-row--reuters-4970553",
     "SG Banks|https://www.investing.com/news/company-news/boeing-777-freighter-output-halted-for-two-months-over-supplier-row--reuters-4970553",
-    "Watchlist|https://www.investing.com/news/company-news/boeing-777-freighter-output-halted-for-two-months-over-supplier-row--reuters-4970553"
+    "Watchlist|https://www.investing.com/news/company-news/boeing-777-freighter-output-halted-for-two-months-over-supplier-row--reuters-4970553",
+    "AI|bf0dc28d-1bcf-389c-91e5-d51e0824ec54",
+    "AI|9fcde8f9-d320-307d-b6cc-bb456e3ae849",
+    "Watchlist|bf0dc28d-1bcf-389c-91e5-d51e0824ec54",
+    "Watchlist|9fcde8f9-d320-307d-b6cc-bb456e3ae849"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792807818.2381566
+  "last_check": 1792808743.3098645
 }
