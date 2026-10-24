@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/block-director-anthony-eisen-sells-141m-in-block-xyz-shares-93CH-4967790",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/glenbrook-capital-management-purchases-74838-of-senestech-stock-93CH-4967791",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/apple-svp-jennifer-newstead-sells-814748-in-aapl-stock-93CH-4967792",
-    "Cybersecurity|https://www.investing.com/news/company-news/provident-financial-authorizes-5-stock-buyback-program-93CH-4967794",
-    "SG Banks|/companies-markets/apple-bets-iphone-duo-can-remake-foldable-market-sales-begin",
-    "SG Banks|https://www.channelnewsasia.com/business/spacex-seeks-access-80000-us-cell-sites-wireless-network-bloomberg-news-reports-6484521",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/tredegar-director-john-gottwald-sells-267530-in-company-stock-93CH-4967782",
     "SG Banks|https://www.investing.com/news/company-news/provident-financial-declares-014-quarterly-dividend-93CH-4967785",
     "SG Banks|https://www.investing.com/news/company-news/newmont-q3-2026-slides-record-cash-flow-red-chris-nears-decision-93CH-4967786",
     "SG Banks|https://www.investing.com/news/insider-trading-news/pc-connection-chairman-gallup-sells-132m-in-shares-93CH-4967789",
@@ -5000,7 +4993,14 @@
     "AI|https://www.investing.com/news/stock-market-news/inside-the-trumpadministration-campaign-to-return-brazils-bolsonaro-clan-to-power-4970978",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/inside-the-trumpadministration-campaign-to-return-brazils-bolsonaro-clan-to-power-4970978",
     "SG Banks|https://www.investing.com/news/stock-market-news/inside-the-trumpadministration-campaign-to-return-brazils-bolsonaro-clan-to-power-4970978",
-    "Watchlist|https://www.investing.com/news/stock-market-news/inside-the-trumpadministration-campaign-to-return-brazils-bolsonaro-clan-to-power-4970978"
+    "Watchlist|https://www.investing.com/news/stock-market-news/inside-the-trumpadministration-campaign-to-return-brazils-bolsonaro-clan-to-power-4970978",
+    "War|19cad878-71b5-3e21-a5eb-33e2e80c08f8",
+    "War|fde68f50-6154-3ceb-9042-4b4952be12b8",
+    "AI|1ff3b1dd-7992-3fa2-aafb-960faaaf6a4b",
+    "Watchlist|1ff3b1dd-7992-3fa2-aafb-960faaaf6a4b",
+    "Watchlist|7d9e63a1-0e1b-37ce-8e93-e50d687d8850",
+    "AI|9308af33-7058-3688-8c3f-f81e339f837f",
+    "Watchlist|9308af33-7058-3688-8c3f-f81e339f837f"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792880208.5165448
+  "last_check": 1792881131.3361235
 }
