@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/company-news/sl-green-q3-2026-slides-occupancy-hits-95-guidance-raised-93CH-4967541",
-    "Watchlist|https://www.investing.com/news/sec-filings/quaker-chemical-appoints-neil-daniels-as-chief-accounting-officer-93CH-4967543",
-    "Cybersecurity|1f2cab16-a001-39dd-af79-0394f1723df8",
-    "Watchlist|1f2cab16-a001-39dd-af79-0394f1723df8",
-    "AI|3113ba86-4a0c-3242-beb6-46881a810322",
-    "AI|36d5b527-2747-33b3-a5be-24e3d851d845",
-    "Crypto|ad867c39-d4f2-3397-9a8c-b93482db8f8b",
-    "AI|8b46a053-725f-3a3b-a191-ec009f724c7a",
-    "Watchlist|36d5b527-2747-33b3-a5be-24e3d851d845",
-    "Watchlist|8b46a053-725f-3a3b-a191-ec009f724c7a",
     "AI|0b876e37-cf62-3986-a1d4-d3c64c5dceb5",
     "SG Banks|https://www.straitstimes.com/business/invest/why-1-in-8-young-people-in-uk-are-not-learning-or-working",
     "SG Banks|https://www.straitstimes.com/business/they-are-here-to-sweep-the-market-minor-food-chief-sees-more-chinese-chains-opening-in-spore",
@@ -5000,7 +4990,17 @@
     "AI|f2afa25d-9e35-32a7-b137-0e52cf983033",
     "AI|1559fac0-8505-3069-97e9-62e82c14aca1",
     "Watchlist|f2afa25d-9e35-32a7-b137-0e52cf983033",
-    "Watchlist|1559fac0-8505-3069-97e9-62e82c14aca1"
+    "Watchlist|1559fac0-8505-3069-97e9-62e82c14aca1",
+    "AI|d8f67265-9988-3a2d-aeac-bf5bbd050c84",
+    "AI|77cac159-f69f-30ac-bf19-06dcda39b517",
+    "AI|6c629377-8a21-3ada-8206-9aa1c36a2b1d",
+    "Watchlist|77cac159-f69f-30ac-bf19-06dcda39b517",
+    "Watchlist|6c629377-8a21-3ada-8206-9aa1c36a2b1d",
+    "Watchlist|d8f67265-9988-3a2d-aeac-bf5bbd050c84",
+    "AI|https://www.investing.com/news/economy-news/netanyahu-explores-crypto-to-bypass-potential-sanctions-4970810",
+    "Cybersecurity|https://www.investing.com/news/economy-news/netanyahu-explores-crypto-to-bypass-potential-sanctions-4970810",
+    "SG Banks|https://www.investing.com/news/economy-news/netanyahu-explores-crypto-to-bypass-potential-sanctions-4970810",
+    "Watchlist|https://www.investing.com/news/economy-news/netanyahu-explores-crypto-to-bypass-potential-sanctions-4970810"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792841703.287947
+  "last_check": 1792842619.581327
 }
