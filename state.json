@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|48b6fd83-9fae-477b-8730-05d86dfa66cb",
-    "AI|47abcd50-5338-3474-96a3-51a39bb7a176",
-    "War|307ac9ab-2f86-395c-9775-3a545884f903",
-    "War|338a754f-88af-3047-9831-641200b42462",
-    "AI|c8c724e5-f87a-3e8f-ab92-d50ff082c057",
-    "AI|7bc7a7ac-95d1-31da-b303-edeaf73af060",
     "Watchlist|c8c724e5-f87a-3e8f-ab92-d50ff082c057",
     "Watchlist|7bc7a7ac-95d1-31da-b303-edeaf73af060",
     "Watchlist|5d83b06d-8100-39d0-b466-d43fa2cbdd62",
@@ -5000,7 +4994,13 @@
     "AI|https://www.investing.com/news/transcripts/amgen-at-esmo-imdelltra-data-points-to-earlier-lung-cancer-use-93CH-4970944",
     "Cybersecurity|https://www.investing.com/news/transcripts/amgen-at-esmo-imdelltra-data-points-to-earlier-lung-cancer-use-93CH-4970944",
     "SG Banks|https://www.investing.com/news/transcripts/amgen-at-esmo-imdelltra-data-points-to-earlier-lung-cancer-use-93CH-4970944",
-    "Watchlist|https://www.investing.com/news/transcripts/amgen-at-esmo-imdelltra-data-points-to-earlier-lung-cancer-use-93CH-4970944"
+    "Watchlist|https://www.investing.com/news/transcripts/amgen-at-esmo-imdelltra-data-points-to-earlier-lung-cancer-use-93CH-4970944",
+    "Crypto|bdc74f26-250a-3125-9b2e-72f245e7d5f4",
+    "AI|887fc1c6-c6e1-3e1d-b97f-c4e7ee5a3e40",
+    "AI|https://www.investing.com/news/earnings/woori-financial-adr-earnings-beat-by-029-revenue-topped-estimates-4970952",
+    "Cybersecurity|https://www.investing.com/news/earnings/woori-financial-adr-earnings-beat-by-029-revenue-topped-estimates-4970952",
+    "SG Banks|https://www.investing.com/news/earnings/woori-financial-adr-earnings-beat-by-029-revenue-topped-estimates-4970952",
+    "Watchlist|https://www.investing.com/news/earnings/woori-financial-adr-earnings-beat-by-029-revenue-topped-estimates-4970952"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792872883.064952
+  "last_check": 1792873790.134637
 }
