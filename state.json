@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|https://www.investing.com/news/commodities-news/london-gas-oil-coils-in-14001450-range-breakout-watch-93CH-4956497",
-    "War|https://www.investing.com/news/commodities-news/natural-gas-breaks-cloud-support-at-3104-live-levels-93CH-4956492",
-    "Cybersecurity|5e9366cf-d665-33bb-9560-0347aa80ff18",
-    "SG Banks|/companies-markets/energy-commodities/oil-rises-deadly-saudi-attacks-fan-middle-east-supply-fears",
-    "SG Banks|https://www.channelnewsasia.com/business/five-ways-keep-safe-online-in-wake-ai-supercharged-hacking-6484441",
-    "Watchlist|/companies-markets/energy-commodities/oil-rises-deadly-saudi-attacks-fan-middle-east-supply-fears",
     "War|WP-MKTW-0005301601",
     "AI|WP-MKTW-0005301601",
     "Cybersecurity|WP-MKTW-0005301601",
@@ -5000,7 +4994,13 @@
     "Watchlist|bb663fd1-1f36-3c2e-9050-760659c35275",
     "AI|9c45fa05-1a89-3e6c-982e-8c0a9800dc68",
     "AI|bd541137-947b-3c75-bbca-d9a41228698a",
-    "Watchlist|9c45fa05-1a89-3e6c-982e-8c0a9800dc68"
+    "Watchlist|9c45fa05-1a89-3e6c-982e-8c0a9800dc68",
+    "Crypto|0bba37f5-4080-35e4-979c-1707c1bed083",
+    "AI|43190fb3-1a03-3f5f-b826-c865bae46b54",
+    "Watchlist|43190fb3-1a03-3f5f-b826-c865bae46b54",
+    "War|WP-MKTW-0005300002",
+    "AI|WP-MKTW-0005300002",
+    "Cybersecurity|WP-MKTW-0005300002"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792864652.2649257
+  "last_check": 1792865538.9574668
 }
