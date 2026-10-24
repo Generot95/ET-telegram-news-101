@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/consumer-staples-rotation-pepsico-cocacola-pg-and-altria-compared-93CH-4967219",
-    "SG Banks|https://www.investing.com/news/stock-market-news/us-farm-secretary-says-usda-reorganization-blocked-by-judge-is-full-bore-ahead-4967220",
-    "SG Banks|https://www.investing.com/news/economy-news/turkeys-central-bank-cuts-key-rate-to-36-from-37-93CH-4967221",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-sl-green-tops-q3-2026-estimates-as-manhattan-office-demand-holds-93CH-4967222",
     "Watchlist|https://www.investing.com/news/company-news/nextera-energy-declares-06232-quarterly-dividend-93CH-4967208",
     "Watchlist|https://www.investing.com/news/company-news/lindsay-to-acquire-brazilian-hose-reel-maker-setorial-irrigacao-93CH-4967209",
     "Watchlist|https://www.investing.com/news/insider-trading-news/aar-corp-director-ellen-lord-sells-425128-in-company-stock-93CH-4967212",
@@ -5000,7 +4996,11 @@
     "SG Banks|https://www.investing.com/news/economy-news/saudi-arabia-intercepts-houthi-missile-as-trump-threatens-new-strikes-4970589",
     "Watchlist|https://www.investing.com/news/economy-news/saudi-arabia-intercepts-houthi-missile-as-trump-threatens-new-strikes-4970589",
     "AI|66e6fe25-33d5-3baf-85b8-894658bf3ad7",
-    "Watchlist|66e6fe25-33d5-3baf-85b8-894658bf3ad7"
+    "Watchlist|66e6fe25-33d5-3baf-85b8-894658bf3ad7",
+    "AI|762747dd-bda3-3497-a940-e07370c642fb",
+    "AI|42530225-59ce-3b98-a7ec-5a4c47595cd0",
+    "Watchlist|762747dd-bda3-3497-a940-e07370c642fb",
+    "Watchlist|42530225-59ce-3b98-a7ec-5a4c47595cd0"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792816060.2611883
+  "last_check": 1792816970.406837
 }
