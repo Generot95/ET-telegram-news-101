@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/tredegar-director-john-gottwald-sells-267530-in-company-stock-93CH-4967782",
-    "Cybersecurity|https://www.investing.com/news/company-news/provident-financial-declares-014-quarterly-dividend-93CH-4967785",
-    "Cybersecurity|https://www.investing.com/news/company-news/newmont-q3-2026-slides-record-cash-flow-red-chris-nears-decision-93CH-4967786",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/pc-connection-chairman-gallup-sells-132m-in-shares-93CH-4967789",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/block-director-anthony-eisen-sells-141m-in-block-xyz-shares-93CH-4967790",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/glenbrook-capital-management-purchases-74838-of-senestech-stock-93CH-4967791",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/apple-svp-jennifer-newstead-sells-814748-in-aapl-stock-93CH-4967792",
@@ -5000,7 +4996,11 @@
     "Watchlist|5064a5d4-05ce-3976-8798-d609beda2706",
     "Watchlist|781351d6-605f-3f67-908d-504da969c7b2",
     "AI|c6fea393-c4f8-3457-b086-8521e0685403",
-    "Watchlist|c6fea393-c4f8-3457-b086-8521e0685403"
+    "Watchlist|c6fea393-c4f8-3457-b086-8521e0685403",
+    "AI|https://www.investing.com/news/stock-market-news/inside-the-trumpadministration-campaign-to-return-brazils-bolsonaro-clan-to-power-4970978",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/inside-the-trumpadministration-campaign-to-return-brazils-bolsonaro-clan-to-power-4970978",
+    "SG Banks|https://www.investing.com/news/stock-market-news/inside-the-trumpadministration-campaign-to-return-brazils-bolsonaro-clan-to-power-4970978",
+    "Watchlist|https://www.investing.com/news/stock-market-news/inside-the-trumpadministration-campaign-to-return-brazils-bolsonaro-clan-to-power-4970978"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792879299.52808
+  "last_check": 1792880208.5165448
 }
