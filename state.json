@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/sec-filings/xcf-global-completes-business-combination-with-devvstream-legacy-and-southern-energy-93CH-4967670",
-    "Cybersecurity|https://www.investing.com/news/company-news/aptargroup-names-virginie-maes-president-of-pharma-unit-93CH-4967672",
-    "Cybersecurity|https://www.investing.com/news/company-news/ipm-to-acquire-adtech-it-business-for-up-to-27-million-93CH-4967673",
-    "Cybersecurity|https://www.investing.com/news/company-news/sharc-energy-secures-5m-order-from-city-of-surrey-93CH-4967674",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/trump-invokes-cold-war-era-defense-production-act-for-oil-production-refining-4967625",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-appfolio-tops-q3-2026-estimates-shares-slip-after-hours-93CH-4967676",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-deckers-q2-2027-beats-eps-but-shares-drop-73-93CH-4967677",
-    "Cybersecurity|https://www.investing.com/news/company-news/knowles-q3-2026-slides-20-revenue-growth-driven-by-precision-devices-93CH-4967624",
-    "Cybersecurity|https://www.investing.com/news/company-news/enlivex-announces-1for16-reverse-stock-split-effective-oct-27-93CH-4967630",
     "Cybersecurity|https://www.investing.com/news/company-news/banzai-international-to-change-name-execute-reverse-stock-split-93CH-4967640",
     "Cybersecurity|https://www.investing.com/news/company-news/verisign-q3-2026-slides-domain-growth-surges-guidance-raised-93CH-4967644",
     "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-maxlinear-tops-q3-2026-estimates-but-shares-fall-93CH-4967668",
@@ -5000,82 +4991,91 @@
     "Watchlist|https://www.investing.com/news/world-news/china-urges-us-to-halt-proposed-expansion-of-outbound-investment-curbs-4970840",
     "Watchlist|https://www.investing.com/news/world-news/france-mounts-huge-security-operation-as-protesters-prepare-to-march-4970771",
     "SG Banks|https://www.investing.com/news/company-news/idfc-first-bank-q2-fy27-slides-profit-crosses-rs-1000-cr-milestone-93CH-4970851",
-    "Watchlist|https://www.investing.com/news/company-news/idfc-first-bank-q2-fy27-slides-profit-crosses-rs-1000-cr-milestone-93CH-4970851"
+    "Watchlist|https://www.investing.com/news/company-news/idfc-first-bank-q2-fy27-slides-profit-crosses-rs-1000-cr-milestone-93CH-4970851",
+    "War|WP-MKTW-0005302205",
+    "AI|WP-MKTW-0005302205",
+    "Cybersecurity|WP-MKTW-0005302205",
+    "AI|6173c328-e1e3-3c3f-8152-0cca55b70601",
+    "AI|91c4144c-2b4a-3503-96a5-6369988ecf70",
+    "AI|9b805520-14da-3f7a-988b-25362d0176da",
+    "Watchlist|91c4144c-2b4a-3503-96a5-6369988ecf70",
+    "AI|170c954c-b8f8-3654-89dc-768b8ded67f3",
+    "Watchlist|170c954c-b8f8-3654-89dc-768b8ded67f3"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
   "earnings": {
     "AMD": {
       "ts": 1793736000,
-      "fetched": 1792768365.7115343
+      "fetched": 1792854783.871813
     },
     "NVDA": {
       "ts": 1794945600,
-      "fetched": 1792768365.7115343
+      "fetched": 1792854783.871813
     },
     "CRWD": {
       "ts": 1796155200,
-      "fetched": 1792768365.7115343
+      "fetched": 1792854783.871813
     },
     "MSFT": {
       "ts": 1793217600,
-      "fetched": 1792768365.7115343
+      "fetched": 1792854783.871813
     },
     "INTU": {
       "ts": 1795118400,
-      "fetched": 1792768365.7115343
+      "fetched": 1792854783.871813
     },
     "BRK-B": {
       "ts": 1794081600,
-      "fetched": 1792768365.7115343
+      "fetched": 1792854783.871813
     },
     "AMZN": {
       "ts": 1793304000,
-      "fetched": 1792768365.7115343
+      "fetched": 1792854783.871813
     },
     "GOOG": {
       "ts": 1793217600,
-      "fetched": 1792768365.7115343
+      "fetched": 1792854783.871813
     },
     "ZTS": {
       "ts": 1793881800,
-      "fetched": 1792768365.7115343
+      "fetched": 1792854783.871813
     },
     "LIN": {
       "ts": 1793277000,
-      "fetched": 1792768365.7115343
+      "fetched": 1792854783.871813
     },
     "VLO": {
       "ts": 1792672200,
-      "fetched": 1792768365.7115343
+      "fetched": 1792854783.871813
     },
     "D05.SI": {
       "ts": 1793869200,
-      "fetched": 1792768365.7115343
+      "fetched": 1792854783.871813
     },
     "O39.SI": {
       "ts": 1793955600,
-      "fetched": 1792768365.7115343
+      "fetched": 1792854783.871813
     },
     "U11.SI": {
       "ts": 1793782800,
-      "fetched": 1792768365.7115343
+      "fetched": 1792854783.871813
     },
     "A17U.SI": {
       "ts": 1785920400,
-      "fetched": 1792768365.7115343
+      "fetched": 1792854783.871813
     },
     "HMN.SI": {
       "ts": 1785229200,
-      "fetched": 1792768365.7115343
+      "fetched": 1792854783.871813
     },
     "JYEU.SI": {
       "ts": null,
-      "fetched": 1792768365.7115343
+      "fetched": 1792854783.871813
     }
   },
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792854534.6252635
+  "last_check": 1792855457.0536242
 }
