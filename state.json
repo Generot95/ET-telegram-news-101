@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/nextpower-inc-stock-hits-52week-low-at-7671-usd-93CH-4967216",
-    "SG Banks|https://www.investing.com/news/company-news/harley-davidson-stock-hits-52week-high-at-2887-usd-93CH-4967217",
     "SG Banks|https://www.investing.com/news/stock-market-news/consumer-staples-rotation-pepsico-cocacola-pg-and-altria-compared-93CH-4967219",
     "SG Banks|https://www.investing.com/news/stock-market-news/us-farm-secretary-says-usda-reorganization-blocked-by-judge-is-full-bore-ahead-4967220",
     "SG Banks|https://www.investing.com/news/economy-news/turkeys-central-bank-cuts-key-rate-to-36-from-37-93CH-4967221",
@@ -5000,7 +4998,9 @@
     "AI|https://www.investing.com/news/economy-news/saudi-arabia-intercepts-houthi-missile-as-trump-threatens-new-strikes-4970589",
     "Cybersecurity|https://www.investing.com/news/economy-news/saudi-arabia-intercepts-houthi-missile-as-trump-threatens-new-strikes-4970589",
     "SG Banks|https://www.investing.com/news/economy-news/saudi-arabia-intercepts-houthi-missile-as-trump-threatens-new-strikes-4970589",
-    "Watchlist|https://www.investing.com/news/economy-news/saudi-arabia-intercepts-houthi-missile-as-trump-threatens-new-strikes-4970589"
+    "Watchlist|https://www.investing.com/news/economy-news/saudi-arabia-intercepts-houthi-missile-as-trump-threatens-new-strikes-4970589",
+    "AI|66e6fe25-33d5-3baf-85b8-894658bf3ad7",
+    "Watchlist|66e6fe25-33d5-3baf-85b8-894658bf3ad7"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792815142.5770154
+  "last_check": 1792816060.2611883
 }
