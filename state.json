@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|ddeba32e-4061-4b2b-b21f-c98dd2a5300d",
-    "AI|8eb61918-69ba-3180-a833-86d19545df96",
-    "Crypto|9b9727e7-6c86-312f-8d4d-5eb4d2073d18",
-    "AI|9a45d50a-0dd7-3f12-8d8f-35f4254e19b4",
-    "AI|04e73b9e-8e46-3fbd-85b4-6043e90b517e",
-    "AI|088d6a12-c7cf-3da9-8a18-1d935050acf9",
-    "Watchlist|04e73b9e-8e46-3fbd-85b4-6043e90b517e",
     "Iran|https://www.iranintl.com/en/202610227980",
     "AI|5874b089-b5ee-35d9-a930-87d261453101",
     "AI|ad4bad09-562e-3b80-b92d-b59f9bc63ee5",
@@ -5000,7 +4993,14 @@
     "SG Banks|https://www.investing.com/news/company-news/therma-bright-plans-private-placement-of-up-to-420000-93CH-4970528",
     "Watchlist|https://www.investing.com/news/company-news/goldcana-closes-c1-million-flowthrough-private-placement-93CH-4970525",
     "Watchlist|https://www.investing.com/news/economy-news/russia-ukraine-agree-to-local-ceasefire-as-new-peace-talks-planned--reuters-4970527",
-    "Watchlist|https://www.investing.com/news/company-news/therma-bright-plans-private-placement-of-up-to-420000-93CH-4970528"
+    "Watchlist|https://www.investing.com/news/company-news/therma-bright-plans-private-placement-of-up-to-420000-93CH-4970528",
+    "SG Banks|https://www.channelnewsasia.com/business/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software-6487981",
+    "Watchlist|595d3a17-2444-3617-83aa-68178a92ced5",
+    "AI|595d3a17-2444-3617-83aa-68178a92ced5",
+    "AI|https://www.investing.com/news/economy-news/uks-healey-to-give-two-statebacked-lenders-20-billion-capital-boost-in-budget-4970530",
+    "Cybersecurity|https://www.investing.com/news/economy-news/uks-healey-to-give-two-statebacked-lenders-20-billion-capital-boost-in-budget-4970530",
+    "SG Banks|https://www.investing.com/news/economy-news/uks-healey-to-give-two-statebacked-lenders-20-billion-capital-boost-in-budget-4970530",
+    "Watchlist|https://www.investing.com/news/economy-news/uks-healey-to-give-two-statebacked-lenders-20-billion-capital-boost-in-budget-4970530"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792803228.0299897
+  "last_check": 1792804148.8528545
 }
