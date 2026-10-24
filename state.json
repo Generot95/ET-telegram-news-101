@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/aurelion-secures-2m-investment-from-controlling-shareholder-93CH-4967421",
-    "Cybersecurity|https://www.investing.com/news/company-news/propanc-biopharma-announces-1for10-reverse-stock-split-93CH-4967422",
-    "Cybersecurity|https://www.investing.com/news/company-news/gbank-financial-holdings-names-jeff-newgard-as-new-ceo-93CH-4967423",
-    "Cybersecurity|https://www.investing.com/news/company-news/dream-finders-launches-note-exchange-offer-after-beazer-deal-93CH-4967424",
-    "Cybersecurity|https://www.investing.com/news/company-news/nova-spectrum-pro-announces-multiasset-trading-offering-with-an-emphasis-on-account-visibility-4967463",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-deckers-outdoor-stock-sliding-today-93CH-4967428",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-bloom-energy-stock-sliding-today-93CH-4967429",
     "SG Banks|https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-115-4967430",
     "SG Banks|https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-097-4967443",
     "SG Banks|https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-002-4967453",
@@ -5000,7 +4993,14 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/story3-capital-partners-buys-225m-in-rent-the-runway-shares-93CH-4970767",
     "Watchlist|https://www.investing.com/news/insider-trading-news/travelers-chairman-and-ceo-alan-schnitzer-sells-353m-in-shares-93CH-4970765",
     "Watchlist|https://www.investing.com/news/insider-trading-news/travelers-evp--president-sells-1404m-of-company-stock-93CH-4970766",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/story3-capital-partners-buys-225m-in-rent-the-runway-shares-93CH-4970767"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/story3-capital-partners-buys-225m-in-rent-the-runway-shares-93CH-4970767",
+    "AI|dc26ac38-ed34-3745-8eef-12dbcb5d78d0",
+    "Crypto|e46f2a61-8ba5-392d-90d2-ee76213fa9de",
+    "AI|33215885-aeed-3c36-b8e5-d1ed4dfbf031",
+    "AI|06ad5d83-8cbf-3e74-b912-b2e8932e758b",
+    "Watchlist|33215885-aeed-3c36-b8e5-d1ed4dfbf031",
+    "Watchlist|06ad5d83-8cbf-3e74-b912-b2e8932e758b",
+    "AI|9bf07a65-e3bb-42a2-8313-797fba85ccf6"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792835284.9629085
+  "last_check": 1792836227.8872828
 }
