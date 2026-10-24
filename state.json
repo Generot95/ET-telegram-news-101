@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-mda-space-stock-sliding-today-93CH-4967251",
-    "SG Banks|https://www.investing.com/news/company-news/apple-stock-hits-alltime-high-at-34825-usd-93CH-4967254",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-capstone-copper-stock-sliding-today-93CH-4967255",
-    "SG Banks|https://www.investing.com/news/company-news/marsh--mclennan-stock-hits-52week-high-at-1985-usd-93CH-4967256",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-mullen-stock-surging-today-93CH-4967257",
-    "SG Banks|https://www.investing.com/news/company-news/great-southern-q3-2026-slides-operating-strength-masked-by-hedge-charge-93CH-4967258",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-datadog-stock-sliding-today-93CH-4967248",
-    "Watchlist|https://www.investing.com/news/stock-market-news/us-banks-detect-unauthorized-ai-agents-in-customer-accounts-axios-reports-4965122",
     "Watchlist|https://www.investing.com/news/stock-market-news/elon-musk-invests-about-1-billion-in-skydance-cnbc-reports-4967250",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-mda-space-stock-sliding-today-93CH-4967251",
     "Watchlist|https://www.investing.com/news/company-news/apple-stock-hits-alltime-high-at-34825-usd-93CH-4967254",
@@ -5000,7 +4992,15 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/frances-luxury-stores-board-up-windows-ahead-of-fresh-protests-4970670",
     "Watchlist|https://www.investing.com/news/insider-trading-news/peoples-bancorp-evp-hugh-donlon-sells-101012-in-shares-93CH-4970671",
     "Watchlist|https://www.investing.com/news/insider-trading-news/robinhood-director-baiju-bhatt-sells-516m-hood-shares-93CH-4970672",
-    "War|9c4dadba-7597-397e-8179-e053cc76b9cc"
+    "War|9c4dadba-7597-397e-8179-e053cc76b9cc",
+    "AI|dcd79c16-425a-3ac0-af4c-23bd41d94e2c",
+    "Watchlist|dcd79c16-425a-3ac0-af4c-23bd41d94e2c",
+    "War|c4752655-562b-3001-aec3-474dd21e1cd2",
+    "War|a5ae68a9-0aa6-3ae7-ad5d-b4953bc7a880",
+    "AI|https://www.investing.com/news/insider-trading-news/martine-rothblatt-united-therapeutics-ceo-sells-55m-in-stock-93CH-4970676",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/martine-rothblatt-united-therapeutics-ceo-sells-55m-in-stock-93CH-4970676",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/martine-rothblatt-united-therapeutics-ceo-sells-55m-in-stock-93CH-4970676",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/martine-rothblatt-united-therapeutics-ceo-sells-55m-in-stock-93CH-4970676"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792826135.0464866
+  "last_check": 1792827053.5486991
 }
