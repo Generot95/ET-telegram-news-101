@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/elon-musk-invests-about-1-billion-in-skydance-cnbc-reports-4967250",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-mda-space-stock-sliding-today-93CH-4967251",
-    "Watchlist|https://www.investing.com/news/company-news/apple-stock-hits-alltime-high-at-34825-usd-93CH-4967254",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-capstone-copper-stock-sliding-today-93CH-4967255",
-    "Watchlist|https://www.investing.com/news/company-news/marsh--mclennan-stock-hits-52week-high-at-1985-usd-93CH-4967256",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-mullen-stock-surging-today-93CH-4967257",
-    "Watchlist|https://www.investing.com/news/company-news/great-southern-q3-2026-slides-operating-strength-masked-by-hedge-charge-93CH-4967258",
-    "War|741f59cc-577d-34c1-b246-fcf0ef6d11f7",
     "Iran|https://www.iranintl.com/en/202610219901",
     "AI|68024167-5b28-39d9-90b0-14cf29af563e",
     "War|10db8c62-1d20-418e-b745-cbcd141ba252",
@@ -5000,7 +4992,15 @@
     "AI|https://www.investing.com/news/insider-trading-news/martine-rothblatt-united-therapeutics-ceo-sells-55m-in-stock-93CH-4970676",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/martine-rothblatt-united-therapeutics-ceo-sells-55m-in-stock-93CH-4970676",
     "SG Banks|https://www.investing.com/news/insider-trading-news/martine-rothblatt-united-therapeutics-ceo-sells-55m-in-stock-93CH-4970676",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/martine-rothblatt-united-therapeutics-ceo-sells-55m-in-stock-93CH-4970676"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/martine-rothblatt-united-therapeutics-ceo-sells-55m-in-stock-93CH-4970676",
+    "AI|https://www.investing.com/news/insider-trading-news/winmark-coo-renae-gaudette-sells-531519-in-stock-93CH-4970687",
+    "AI|https://www.investing.com/news/economy-news/uk-to-inject-204-billion-into-statebacked-lenders-in-budget-ft-reports-4970689",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/winmark-coo-renae-gaudette-sells-531519-in-stock-93CH-4970687",
+    "Cybersecurity|https://www.investing.com/news/economy-news/uk-to-inject-204-billion-into-statebacked-lenders-in-budget-ft-reports-4970689",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/winmark-coo-renae-gaudette-sells-531519-in-stock-93CH-4970687",
+    "SG Banks|https://www.investing.com/news/economy-news/uk-to-inject-204-billion-into-statebacked-lenders-in-budget-ft-reports-4970689",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/winmark-coo-renae-gaudette-sells-531519-in-stock-93CH-4970687",
+    "Watchlist|https://www.investing.com/news/economy-news/uk-to-inject-204-billion-into-statebacked-lenders-in-budget-ft-reports-4970689"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792827955.2252738
+  "last_check": 1792828875.092764
 }
