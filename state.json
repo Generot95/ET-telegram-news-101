@@ -1,20 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-newmont-beats-q3-2026-estimates-as-cash-flow-hits-record-93CH-4967771",
-    "Watchlist|https://www.investing.com/news/company-news/columbia-banking-q3-2026-slides-411-margin-drives-returns-higher-93CH-4967772",
-    "Watchlist|https://www.investing.com/news/stock-market-news/fcc-grants-intel-waiver-for-foreignmade-robotic-devices-4967773",
-    "SG Banks|https://www.straitstimes.com/business/companies-markets/nasdaq-leads-wall-street-gains-as-spacex-super-micro-boost-ai-sentiment",
-    "War|c6cdfc27-6bc5-33ef-aab9-9fb262036b53",
-    "AI|c6cdfc27-6bc5-33ef-aab9-9fb262036b53",
-    "SG Banks|/international/us-proposes-curbs-investment-chinese-biotech-firms",
-    "Watchlist|/international/us-proposes-curbs-investment-chinese-biotech-firms",
-    "Watchlist|c6cdfc27-6bc5-33ef-aab9-9fb262036b53",
-    "War|WP-MKTW-0005302848",
-    "AI|WP-MKTW-0005302848",
-    "Cybersecurity|WP-MKTW-0005302848",
-    "War|WP-MKTW-0005293866",
-    "AI|WP-MKTW-0005293866",
     "Cybersecurity|WP-MKTW-0005293866",
     "SG Banks|/companies-markets/telcos-media-tech/apple-emerges-wall-streets-favourite-ai-haven-spending-fears-hit",
     "Watchlist|/companies-markets/telcos-media-tech/apple-emerges-wall-streets-favourite-ai-haven-spending-fears-hit",
@@ -5000,7 +4986,21 @@
     "AI|53958146-0321-30df-9152-0d551e36c02e",
     "AI|b65242c6-6b61-34ec-ae2f-f4b3dd418290",
     "Watchlist|53958146-0321-30df-9152-0d551e36c02e",
-    "Watchlist|b65242c6-6b61-34ec-ae2f-f4b3dd418290"
+    "Watchlist|b65242c6-6b61-34ec-ae2f-f4b3dd418290",
+    "AI|34af2710-8024-3a19-bf03-d1523d20fb3f",
+    "Crypto|34af2710-8024-3a19-bf03-d1523d20fb3f",
+    "Watchlist|34af2710-8024-3a19-bf03-d1523d20fb3f",
+    "Watchlist|e3461400-d891-3f07-8a33-cbebf544edf1",
+    "War|6cf39d62-54a8-36db-bdf8-a4e8166f6b6b",
+    "Watchlist|6cf39d62-54a8-36db-bdf8-a4e8166f6b6b",
+    "AI|https://www.investing.com/news/company-news/volkswagen-to-build-georgia-audi-plant-expand-in-sc--bloomberg-4970968",
+    "AI|https://www.investing.com/news/stock-market-news/trump-set-to-announce-plan-by-audi-to-build-us-factory-in-georgia-source-says-4970975",
+    "Cybersecurity|https://www.investing.com/news/company-news/volkswagen-to-build-georgia-audi-plant-expand-in-sc--bloomberg-4970968",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/trump-set-to-announce-plan-by-audi-to-build-us-factory-in-georgia-source-says-4970975",
+    "SG Banks|https://www.investing.com/news/company-news/volkswagen-to-build-georgia-audi-plant-expand-in-sc--bloomberg-4970968",
+    "SG Banks|https://www.investing.com/news/stock-market-news/trump-set-to-announce-plan-by-audi-to-build-us-factory-in-georgia-source-says-4970975",
+    "Watchlist|https://www.investing.com/news/company-news/volkswagen-to-build-georgia-audi-plant-expand-in-sc--bloomberg-4970968",
+    "Watchlist|https://www.investing.com/news/stock-market-news/trump-set-to-announce-plan-by-audi-to-build-us-factory-in-georgia-source-says-4970975"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792877459.8413806
+  "last_check": 1792878383.3502402
 }
