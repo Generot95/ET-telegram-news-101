@@ -1,20 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-howmet-aerospace-stock-tumbling-today-93CH-4967185",
-    "Watchlist|https://www.investing.com/news/company-news/frasers-centrepoint-trust-fy26-slides-record-dpu-amid-capex-rampup-93CH-4967172",
-    "Watchlist|https://www.investing.com/news/company-news/zurn-elkay-raises-quarterly-dividend-18-to-013-per-share-93CH-4967173",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-beacon-financial-tops-strategic-goals-shares-rise-in-q3-2026-93CH-4967174",
-    "Watchlist|https://www.investing.com/news/company-news/saic-stock-hits-52week-high-at-14270-93CH-4967175",
-    "Watchlist|https://www.investing.com/news/company-news/grupo-mexico-q3-2026-slides-record-ebitda-on-copper-surge-93CH-4967177",
-    "Watchlist|https://www.investing.com/news/company-news/alarmcom-stock-hits-52week-high-at-6159-usd-93CH-4967178",
-    "Watchlist|https://www.investing.com/news/company-news/heritage-financial-q3-2026-slides-margin-expands-to-405-93CH-4967179",
-    "Watchlist|https://www.investing.com/news/company-news/beaconfinancial-q3-2026-slides-capital-returns-rise-cre-risk-falls-93CH-4967182",
-    "Watchlist|https://www.investing.com/news/company-news/bactiguard-q3-2026-slides-ebitda-soars-on-license-growth-93CH-4967183",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-howmet-aerospace-stock-tumbling-today-93CH-4967185",
-    "AI|c3b6ab41-5e55-3fb0-9139-d427005fd0e6",
-    "SG Banks|https://www.channelnewsasia.com/business/steep-bill-ai-buildout-punishes-meta-other-tech-favorites-6484166",
-    "Watchlist|c3b6ab41-5e55-3fb0-9139-d427005fd0e6",
     "AI|ddeba32e-4061-4b2b-b21f-c98dd2a5300d",
     "AI|8eb61918-69ba-3180-a833-86d19545df96",
     "Crypto|9b9727e7-6c86-312f-8d4d-5eb4d2073d18",
@@ -5000,7 +4986,21 @@
     "SG Banks|https://www.investing.com/news/company-news/cathie-woods-ark-sells-alphabet-stock-buys-freenome-shares-93CH-4970514",
     "SG Banks|https://www.investing.com/news/company-news/windward-bio-seeks-nasdaq-listing-to-fund-respiratory-skin-disease-drug-trials-4970515",
     "Watchlist|https://www.investing.com/news/company-news/cathie-woods-ark-sells-alphabet-stock-buys-freenome-shares-93CH-4970514",
-    "Watchlist|https://www.investing.com/news/company-news/windward-bio-seeks-nasdaq-listing-to-fund-respiratory-skin-disease-drug-trials-4970515"
+    "Watchlist|https://www.investing.com/news/company-news/windward-bio-seeks-nasdaq-listing-to-fund-respiratory-skin-disease-drug-trials-4970515",
+    "AI|a84a2d7e-47b0-320b-bbab-570958be3a75",
+    "Watchlist|a84a2d7e-47b0-320b-bbab-570958be3a75",
+    "AI|https://www.investing.com/news/company-news/goldcana-closes-c1-million-flowthrough-private-placement-93CH-4970525",
+    "AI|https://www.investing.com/news/economy-news/russia-ukraine-agree-to-local-ceasefire-as-new-peace-talks-planned--reuters-4970527",
+    "AI|https://www.investing.com/news/company-news/therma-bright-plans-private-placement-of-up-to-420000-93CH-4970528",
+    "Cybersecurity|https://www.investing.com/news/company-news/goldcana-closes-c1-million-flowthrough-private-placement-93CH-4970525",
+    "Cybersecurity|https://www.investing.com/news/economy-news/russia-ukraine-agree-to-local-ceasefire-as-new-peace-talks-planned--reuters-4970527",
+    "Cybersecurity|https://www.investing.com/news/company-news/therma-bright-plans-private-placement-of-up-to-420000-93CH-4970528",
+    "SG Banks|https://www.investing.com/news/company-news/goldcana-closes-c1-million-flowthrough-private-placement-93CH-4970525",
+    "SG Banks|https://www.investing.com/news/economy-news/russia-ukraine-agree-to-local-ceasefire-as-new-peace-talks-planned--reuters-4970527",
+    "SG Banks|https://www.investing.com/news/company-news/therma-bright-plans-private-placement-of-up-to-420000-93CH-4970528",
+    "Watchlist|https://www.investing.com/news/company-news/goldcana-closes-c1-million-flowthrough-private-placement-93CH-4970525",
+    "Watchlist|https://www.investing.com/news/economy-news/russia-ukraine-agree-to-local-ceasefire-as-new-peace-talks-planned--reuters-4970527",
+    "Watchlist|https://www.investing.com/news/company-news/therma-bright-plans-private-placement-of-up-to-420000-93CH-4970528"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792802283.6342885
+  "last_check": 1792803228.0299897
 }
