@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/western-digital-chief-legal-officer-sells-306660-in-shares-93CH-4967750",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-sallie-mae-misses-q3-2026-estimates-as-shares-fall-93CH-4967753",
-    "Watchlist|https://www.investing.com/news/company-news/bloom-energy-q3-2026-slides-revenue-surges-138-stock-falls-93CH-4967754",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-befra-posts-huge-q3-2026-beat-as-tupperware-lifts-growth-93CH-4967755",
     "War|48b6fd83-9fae-477b-8730-05d86dfa66cb",
     "AI|47abcd50-5338-3474-96a3-51a39bb7a176",
     "War|307ac9ab-2f86-395c-9775-3a545884f903",
@@ -5000,7 +4996,11 @@
     "Watchlist|53c7c78f-8c36-38a2-a061-3c3f5cb9c028",
     "Watchlist|89a43618-b079-3339-a220-660d6ccda9dc",
     "Watchlist|d3e3c56f-1c17-3739-b792-9098ae5b8476",
-    "War|a540cbb5-c2a9-3fe5-9044-de1dc71a5ff9"
+    "War|a540cbb5-c2a9-3fe5-9044-de1dc71a5ff9",
+    "AI|https://www.investing.com/news/transcripts/amgen-at-esmo-imdelltra-data-points-to-earlier-lung-cancer-use-93CH-4970944",
+    "Cybersecurity|https://www.investing.com/news/transcripts/amgen-at-esmo-imdelltra-data-points-to-earlier-lung-cancer-use-93CH-4970944",
+    "SG Banks|https://www.investing.com/news/transcripts/amgen-at-esmo-imdelltra-data-points-to-earlier-lung-cancer-use-93CH-4970944",
+    "Watchlist|https://www.investing.com/news/transcripts/amgen-at-esmo-imdelltra-data-points-to-earlier-lung-cancer-use-93CH-4970944"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792871968.1230001
+  "last_check": 1792872883.064952
 }
