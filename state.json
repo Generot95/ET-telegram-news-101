@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/company-news/newmont-q3-2026-slides-record-cash-flow-red-chris-nears-decision-93CH-4967786",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/pc-connection-chairman-gallup-sells-132m-in-shares-93CH-4967789",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/block-director-anthony-eisen-sells-141m-in-block-xyz-shares-93CH-4967790",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/glenbrook-capital-management-purchases-74838-of-senestech-stock-93CH-4967791",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/apple-svp-jennifer-newstead-sells-814748-in-aapl-stock-93CH-4967792",
     "Watchlist|https://www.investing.com/news/company-news/provident-financial-authorizes-5-stock-buyback-program-93CH-4967794",
     "SG Banks|/companies-markets/capital-markets-currencies/nasdaq-leads-wall-street-gains-spacex-super-micro-boost-ai-sentiment",
     "Watchlist|/companies-markets/capital-markets-currencies/nasdaq-leads-wall-street-gains-spacex-super-micro-boost-ai-sentiment",
@@ -5000,7 +4995,12 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/why-south-koreas-stock-market-represents-the-purest-ai-trade-4970991",
     "Crypto|d51400c3-63e3-3e8e-87dd-157d43a4b9b8",
     "AI|13647c4b-232b-3004-8926-1305c4d8d413",
-    "Watchlist|13647c4b-232b-3004-8926-1305c4d8d413"
+    "Watchlist|13647c4b-232b-3004-8926-1305c4d8d413",
+    "AI|d7817794-f471-343c-ba88-196ac6eca08a",
+    "AI|5636aa67-101f-307d-9f14-4fb0de90ea84",
+    "Watchlist|5636aa67-101f-307d-9f14-4fb0de90ea84",
+    "Watchlist|d7817794-f471-343c-ba88-196ac6eca08a",
+    "Crypto|0b5c56af-aa17-343f-ad41-eff794955264"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792883868.6290178
+  "last_check": 1792884787.6135924
 }
