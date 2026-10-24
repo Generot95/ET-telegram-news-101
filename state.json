@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-262611-of-bny-mellon-strategic-municipals-93CH-4967718",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/porch-group-coo-matthew-neagle-sells-562965-in-shares-93CH-4967717",
-    "War|https://www.investing.com/news/commodities-news/copper-trapped-in-655665-range-breakout-pending-live-93CH-4956489",
-    "AI|276741b0-22b0-3b4e-b0c9-b85b85989100",
-    "Watchlist|276741b0-22b0-3b4e-b0c9-b85b85989100",
-    "War|c4b1f941-2a92-35dc-971a-f4972a9b1fec",
-    "Watchlist|2ce44b5b-104c-3f00-bf25-4d883c3cd9b2",
     "War|https://www.investing.com/news/commodities-news/london-gas-oil-coils-in-14001450-range-breakout-watch-93CH-4956497",
     "War|https://www.investing.com/news/commodities-news/natural-gas-breaks-cloud-support-at-3104-live-levels-93CH-4956492",
     "Cybersecurity|5e9366cf-d665-33bb-9560-0347aa80ff18",
@@ -5000,7 +4993,14 @@
     "Crypto|a2a3b0db-40a5-3e2b-bcc4-cf7efb140453",
     "Watchlist|a2a3b0db-40a5-3e2b-bcc4-cf7efb140453",
     "AI|f49aeffa-a6c2-3422-8865-3e442f8f2f2f",
-    "Watchlist|f49aeffa-a6c2-3422-8865-3e442f8f2f2f"
+    "Watchlist|f49aeffa-a6c2-3422-8865-3e442f8f2f2f",
+    "AI|f5c6a3c2-5bdf-37e5-b06f-3068bf5bb9a2",
+    "AI|bb663fd1-1f36-3c2e-9050-760659c35275",
+    "Watchlist|f5c6a3c2-5bdf-37e5-b06f-3068bf5bb9a2",
+    "Watchlist|bb663fd1-1f36-3c2e-9050-760659c35275",
+    "AI|9c45fa05-1a89-3e6c-982e-8c0a9800dc68",
+    "AI|bd541137-947b-3c75-bbca-d9a41228698a",
+    "Watchlist|9c45fa05-1a89-3e6c-982e-8c0a9800dc68"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792863733.0290902
+  "last_check": 1792864652.2649257
 }
