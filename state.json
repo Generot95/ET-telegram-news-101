@@ -1,24 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|ad4bad09-562e-3b80-b92d-b59f9bc63ee5",
-    "War|ad4bad09-562e-3b80-b92d-b59f9bc63ee5",
-    "AI|https://www.investing.com/news/company-news/uze-stock-hits-52week-low-at-1521-usd-93CH-4967191",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-ge-vernova-stock-tumbling-today-93CH-4967194",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-roper-technologies-stock-surging-today-93CH-4967199",
-    "AI|https://www.investing.com/news/stock-market-news/trump-asks-musk-to-lift-ukraine-starlink-restrictions-wsj-reports-4967200",
-    "AI|https://www.investing.com/news/company-news/independence-gold-increases-private-placement-to-625-million-93CH-4967201",
-    "AI|https://www.investing.com/news/stock-market-news/top-lodging-stocks-for-3q26-earnings-according-to-wells-fargo-4967202",
-    "AI|https://www.investing.com/news/company-news/cdw-stock-hits-52week-high-at-1611-usd-93CH-4967204",
-    "AI|https://www.investing.com/news/stock-market-news/jefferies-names-top-fashion-stocks-ahead-of-earnings-season-4967203",
-    "AI|https://www.investing.com/news/stock-market-news/best-largecap-dip-buys-att-leads-on-earnings-beat-and-rising-estimates-93CH-4967207",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-parkerhannifin-stock-tumbling-today-93CH-4967189",
-    "AI|https://www.investing.com/news/company-news/northrim-receives-shareholder-approval-for-pbco-acquisition-93CH-4967190",
-    "AI|https://www.investing.com/news/company-news/nextera-energy-declares-06232-quarterly-dividend-93CH-4967208",
-    "AI|https://www.investing.com/news/company-news/lindsay-to-acquire-brazilian-hose-reel-maker-setorial-irrigacao-93CH-4967209",
-    "Cybersecurity|https://www.investing.com/news/company-news/uze-stock-hits-52week-low-at-1521-usd-93CH-4967191",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-ge-vernova-stock-tumbling-today-93CH-4967194",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-roper-technologies-stock-surging-today-93CH-4967199",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/trump-asks-musk-to-lift-ukraine-starlink-restrictions-wsj-reports-4967200",
     "Cybersecurity|https://www.investing.com/news/company-news/independence-gold-increases-private-placement-to-625-million-93CH-4967201",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/top-lodging-stocks-for-3q26-earnings-according-to-wells-fargo-4967202",
@@ -5000,7 +4982,25 @@
     "War|e0fe5a77-6816-38a8-b2cb-9878c9cd341d",
     "AI|e0fe5a77-6816-38a8-b2cb-9878c9cd341d",
     "Watchlist|e0fe5a77-6816-38a8-b2cb-9878c9cd341d",
-    "Iran|https://www.iranintl.com/en/202610227980"
+    "Iran|https://www.iranintl.com/en/202610227980",
+    "AI|https://www.investing.com/news/transcripts/vertex-at-asn-kidney-week-2026-renal-push-gathers-pace-93CH-4970541",
+    "AI|https://www.investing.com/news/company-news/us-repeatedly-asked-musk-to-restrict-or-expand-starlink-access-reuters-says-4970542",
+    "Cybersecurity|https://www.investing.com/news/transcripts/vertex-at-asn-kidney-week-2026-renal-push-gathers-pace-93CH-4970541",
+    "Cybersecurity|https://www.investing.com/news/company-news/us-repeatedly-asked-musk-to-restrict-or-expand-starlink-access-reuters-says-4970542",
+    "SG Banks|https://www.investing.com/news/transcripts/vertex-at-asn-kidney-week-2026-renal-push-gathers-pace-93CH-4970541",
+    "SG Banks|https://www.investing.com/news/company-news/us-repeatedly-asked-musk-to-restrict-or-expand-starlink-access-reuters-says-4970542",
+    "Watchlist|https://www.investing.com/news/transcripts/vertex-at-asn-kidney-week-2026-renal-push-gathers-pace-93CH-4970541",
+    "Watchlist|https://www.investing.com/news/company-news/us-repeatedly-asked-musk-to-restrict-or-expand-starlink-access-reuters-says-4970542",
+    "AI|https://www.investing.com/news/world-news/exclusiveus-has-for-years-asked-musk-to-alter-starlink-service-in-ukraine-middle-east-sources-say-4970529",
+    "Cybersecurity|https://www.investing.com/news/world-news/exclusiveus-has-for-years-asked-musk-to-alter-starlink-service-in-ukraine-middle-east-sources-say-4970529",
+    "SG Banks|/companies-markets/consumer-healthcare/fast-fashion-group-shein-agrees-pay-us100-million-settle-us-ftc-probe",
+    "SG Banks|https://www.investing.com/news/world-news/exclusiveus-has-for-years-asked-musk-to-alter-starlink-service-in-ukraine-middle-east-sources-say-4970529",
+    "Watchlist|/companies-markets/consumer-healthcare/fast-fashion-group-shein-agrees-pay-us100-million-settle-us-ftc-probe",
+    "Watchlist|https://www.investing.com/news/world-news/exclusiveus-has-for-years-asked-musk-to-alter-starlink-service-in-ukraine-middle-east-sources-say-4970529",
+    "AI|a1ff62ec-9a2a-3e1c-a684-5406ba3d0613",
+    "Watchlist|a1ff62ec-9a2a-3e1c-a684-5406ba3d0613",
+    "AI|6d157f4a-8979-3608-8513-bb3f09a4e2de",
+    "Watchlist|6d157f4a-8979-3608-8513-bb3f09a4e2de"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792805072.519518
+  "last_check": 1792805974.3101325
 }
