@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|05e9fb3e-ab4b-47e0-aa45-c5bdad3685f6",
-    "War|7dfc5db0-3633-33b7-ad58-667bbe092562",
     "AI|77c59411-43f8-36ff-a1be-415a3704e729",
     "Watchlist|77c59411-43f8-36ff-a1be-415a3704e729",
     "Watchlist|55bc49cc-5837-3f1d-863a-4034d4414c2b",
@@ -5000,7 +4998,9 @@
     "Watchlist|b403f402-6638-35cc-9c44-bb11fb2d4a55",
     "Watchlist|ed3e0c69-a6c2-3f5f-a990-33d27e339a7f",
     "Crypto|b2739dd7-dc17-38b6-8ce5-1494e2e8bb12",
-    "SG Banks|/companies-markets/banking-finance/fed-sees-ai-boom-adding-inflation-headache"
+    "SG Banks|/companies-markets/banking-finance/fed-sees-ai-boom-adding-inflation-headache",
+    "SG Banks|/companies-markets/telcos-media-tech/apples-iphone-duo-hits-stores-face-short-supply-and-high-demand",
+    "Watchlist|/companies-markets/telcos-media-tech/apples-iphone-duo-hits-stores-face-short-supply-and-high-demand"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792822469.1745634
+  "last_check": 1792823395.549318
 }
