@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/trump-asks-musk-to-lift-ukraine-starlink-restrictions-wsj-reports-4967200",
-    "Cybersecurity|https://www.investing.com/news/company-news/independence-gold-increases-private-placement-to-625-million-93CH-4967201",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/top-lodging-stocks-for-3q26-earnings-according-to-wells-fargo-4967202",
-    "Cybersecurity|https://www.investing.com/news/company-news/cdw-stock-hits-52week-high-at-1611-usd-93CH-4967204",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/jefferies-names-top-fashion-stocks-ahead-of-earnings-season-4967203",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/best-largecap-dip-buys-att-leads-on-earnings-beat-and-rising-estimates-93CH-4967207",
-    "Cybersecurity|https://www.investing.com/news/company-news/northrim-receives-shareholder-approval-for-pbco-acquisition-93CH-4967190",
-    "Cybersecurity|https://www.investing.com/news/company-news/nextera-energy-declares-06232-quarterly-dividend-93CH-4967208",
-    "Cybersecurity|https://www.investing.com/news/company-news/lindsay-to-acquire-brazilian-hose-reel-maker-setorial-irrigacao-93CH-4967209",
     "SG Banks|https://www.investing.com/news/company-news/uze-stock-hits-52week-low-at-1521-usd-93CH-4967191",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-ge-vernova-stock-tumbling-today-93CH-4967194",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-roper-technologies-stock-surging-today-93CH-4967199",
@@ -5000,7 +4991,16 @@
     "AI|a1ff62ec-9a2a-3e1c-a684-5406ba3d0613",
     "Watchlist|a1ff62ec-9a2a-3e1c-a684-5406ba3d0613",
     "AI|6d157f4a-8979-3608-8513-bb3f09a4e2de",
-    "Watchlist|6d157f4a-8979-3608-8513-bb3f09a4e2de"
+    "Watchlist|6d157f4a-8979-3608-8513-bb3f09a4e2de",
+    "AI|59cb95b3-d909-3173-a563-ae83d10b4e33",
+    "SG Banks|/companies-markets/telcos-media-tech/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-widely-used-software",
+    "Watchlist|/companies-markets/telcos-media-tech/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-widely-used-software",
+    "Watchlist|59cb95b3-d909-3173-a563-ae83d10b4e33",
+    "AI|https://www.investing.com/news/stock-market-news/democrat-on-us-fcc-urges-broadcast-industry-to-be-more-aggressive-confronting-the-agency-4970551",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/democrat-on-us-fcc-urges-broadcast-industry-to-be-more-aggressive-confronting-the-agency-4970551",
+    "SG Banks|https://www.investing.com/news/stock-market-news/democrat-on-us-fcc-urges-broadcast-industry-to-be-more-aggressive-confronting-the-agency-4970551",
+    "Watchlist|https://www.investing.com/news/stock-market-news/democrat-on-us-fcc-urges-broadcast-industry-to-be-more-aggressive-confronting-the-agency-4970551",
+    "AI|9440d72d-c118-349c-a7cb-b0a0d4e1659e"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792805974.3101325
+  "last_check": 1792806897.3278759
 }
