@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/company-news/nextera-energy-declares-06232-quarterly-dividend-93CH-4967208",
-    "Watchlist|https://www.investing.com/news/company-news/lindsay-to-acquire-brazilian-hose-reel-maker-setorial-irrigacao-93CH-4967209",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/aar-corp-director-ellen-lord-sells-425128-in-company-stock-93CH-4967212",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-celestica-stock-tumbling-today-93CH-4967215",
-    "Watchlist|https://www.investing.com/news/company-news/nextpower-inc-stock-hits-52week-low-at-7671-usd-93CH-4967216",
-    "Watchlist|https://www.investing.com/news/company-news/harley-davidson-stock-hits-52week-high-at-2887-usd-93CH-4967217",
-    "Watchlist|https://www.investing.com/news/stock-market-news/consumer-staples-rotation-pepsico-cocacola-pg-and-altria-compared-93CH-4967219",
-    "Watchlist|https://www.investing.com/news/stock-market-news/us-farm-secretary-says-usda-reorganization-blocked-by-judge-is-full-bore-ahead-4967220",
-    "Watchlist|https://www.investing.com/news/economy-news/turkeys-central-bank-cuts-key-rate-to-36-from-37-93CH-4967221",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-sl-green-tops-q3-2026-estimates-as-manhattan-office-demand-holds-93CH-4967222",
-    "War|8525b0ee-dcee-3efb-a419-483579c34302",
-    "AI|fe6f9f55-cebb-32a2-b438-d06924d91d8b",
-    "AI|5c4c7bb0-49ef-3504-bffa-32e2ce568252",
     "Crypto|4a549c23-8c1c-3aa2-9c22-b0ab08b61b37",
     "AI|eea04be6-e68c-3d38-8e10-1f8c5c374afe",
     "Watchlist|eea04be6-e68c-3d38-8e10-1f8c5c374afe",
@@ -5000,7 +4987,20 @@
     "AI|762747dd-bda3-3497-a940-e07370c642fb",
     "AI|42530225-59ce-3b98-a7ec-5a4c47595cd0",
     "Watchlist|762747dd-bda3-3497-a940-e07370c642fb",
-    "Watchlist|42530225-59ce-3b98-a7ec-5a4c47595cd0"
+    "Watchlist|42530225-59ce-3b98-a7ec-5a4c47595cd0",
+    "War|6695b093-e17b-3aed-8641-037d0046ef83",
+    "AI|https://www.investing.com/news/insider-trading-news/yelp-cfo-david-schwarzbach-sells-150000-in-yelp-shares-93CH-4970603",
+    "AI|https://www.investing.com/news/insider-trading-news/circle-internet-group-cfo-foxgeen-disposes-of-135m-in-stock-93CH-4970604",
+    "AI|https://www.investing.com/news/insider-trading-news/veralto-president-and-ceo-jennifer-honeycutt-sells-745290-in-stock-93CH-4970605",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/yelp-cfo-david-schwarzbach-sells-150000-in-yelp-shares-93CH-4970603",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/circle-internet-group-cfo-foxgeen-disposes-of-135m-in-stock-93CH-4970604",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/veralto-president-and-ceo-jennifer-honeycutt-sells-745290-in-stock-93CH-4970605",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/yelp-cfo-david-schwarzbach-sells-150000-in-yelp-shares-93CH-4970603",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/circle-internet-group-cfo-foxgeen-disposes-of-135m-in-stock-93CH-4970604",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/veralto-president-and-ceo-jennifer-honeycutt-sells-745290-in-stock-93CH-4970605",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/yelp-cfo-david-schwarzbach-sells-150000-in-yelp-shares-93CH-4970603",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/circle-internet-group-cfo-foxgeen-disposes-of-135m-in-stock-93CH-4970604",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/veralto-president-and-ceo-jennifer-honeycutt-sells-745290-in-stock-93CH-4970605"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792817891.1842685
+  "last_check": 1792818803.7102623
 }
