@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|c1152a1b-3839-3555-9540-2cff7ee5d44d",
-    "SG Banks|/companies-markets/anthropic-ipo-drive-blockbuster-gains-iconiq-spark-gic",
-    "Watchlist|/companies-markets/anthropic-ipo-drive-blockbuster-gains-iconiq-spark-gic",
-    "AI|https://www.investing.com/news/insider-trading-news/american-tower-director-clarke-acquires-63717-in-shares-93CH-4967761",
-    "AI|https://www.investing.com/news/insider-trading-news/tredegar-director-james-gottwald-sells-267530-in-company-stock-93CH-4967762",
-    "AI|https://www.investing.com/news/insider-trading-news/braze-cto-jonathan-hyman-sells-132m-in-company-stock-93CH-4967763",
-    "AI|https://www.investing.com/news/insider-trading-news/tredegar-director-william-gottwald-sells-267538-in-stock-93CH-4967765",
-    "AI|https://www.investing.com/news/company-news/befra-q3-2026-slides-tupperware-boosts-revenue-43-margins-hold-93CH-4967766",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-newmont-beats-q3-2026-estimates-as-cash-flow-hits-record-93CH-4967771",
-    "AI|https://www.investing.com/news/company-news/columbia-banking-q3-2026-slides-411-margin-drives-returns-higher-93CH-4967772",
-    "AI|https://www.investing.com/news/stock-market-news/fcc-grants-intel-waiver-for-foreignmade-robotic-devices-4967773",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/grupo-mexico-to-press-ahead-with-major-us-copper-projects-after-output-dip-4967733",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/american-tower-director-clarke-acquires-63717-in-shares-93CH-4967761",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/tredegar-director-james-gottwald-sells-267530-in-company-stock-93CH-4967762",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/braze-cto-jonathan-hyman-sells-132m-in-company-stock-93CH-4967763",
@@ -5000,7 +4988,19 @@
     "AI|11b7fe38-69c5-37da-9f92-da929b9b55fa",
     "Watchlist|11b7fe38-69c5-37da-9f92-da929b9b55fa",
     "AI|11e1b7d9-8e99-321f-ab51-e2688cb3b9ed",
-    "Watchlist|11e1b7d9-8e99-321f-ab51-e2688cb3b9ed"
+    "Watchlist|11e1b7d9-8e99-321f-ab51-e2688cb3b9ed",
+    "AI|644d8535-9000-39c7-8bf8-4e949505c7f7",
+    "Watchlist|644d8535-9000-39c7-8bf8-4e949505c7f7",
+    "SG Banks|/companies-markets/anthropic-ipo-drive-blockbuster-gains-iconiq-spark-gic",
+    "War|https://www.investing.com/news/commodities-news/can-silver-recover-from-its-latest-selloff-ubs-weighs-in-4970956",
+    "AI|https://www.investing.com/news/commodities-news/can-silver-recover-from-its-latest-selloff-ubs-weighs-in-4970956",
+    "Cybersecurity|https://www.investing.com/news/commodities-news/can-silver-recover-from-its-latest-selloff-ubs-weighs-in-4970956",
+    "SG Banks|https://www.investing.com/news/commodities-news/can-silver-recover-from-its-latest-selloff-ubs-weighs-in-4970956",
+    "Watchlist|/companies-markets/anthropic-ipo-drive-blockbuster-gains-iconiq-spark-gic",
+    "Watchlist|https://www.investing.com/news/commodities-news/can-silver-recover-from-its-latest-selloff-ubs-weighs-in-4970956",
+    "War|09fd2034-8e5b-3e1c-9145-97e8c1a7d070",
+    "AI|6285142b-613b-3493-8965-1a9e752e60d9",
+    "Watchlist|6285142b-613b-3493-8965-1a9e752e60d9"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792874724.5308313
+  "last_check": 1792875627.720267
 }
