@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/ssc-q3-2026-slides-record-ebitda-shares-fall-on-q4-outlook-93CH-4967708",
-    "SG Banks|https://www.investing.com/news/stock-market-news/sk-hynix-drops-us-ipo-plan-for-solidigm-newspaper-reports-4967714",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/cme-group-director-martin-gepsman-sells-121000-in-shares-93CH-4967715",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/porch-group-director-amanda-reierson-sells-133401-in-shares-93CH-4967716",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-262611-of-bny-mellon-strategic-municipals-93CH-4967718",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/porch-group-coo-matthew-neagle-sells-562965-in-shares-93CH-4967717",
-    "Watchlist|https://www.investing.com/news/stock-market-news/brazils-bradesco-meets-profit-estimates-despite-slower-credit-revenue-4967704",
-    "Watchlist|https://www.investing.com/news/company-news/south-plains-financial-q3-2026-slides-eps-beats-houston-integration-complete-93CH-4967705",
-    "Watchlist|https://www.investing.com/news/company-news/omnicom-q3-2026-slides-organic-growth-hits-72-margins-expand-93CH-4967706",
     "Watchlist|https://www.investing.com/news/stock-market-news/huron-consulting-stock-rises-on-sp-smallcap-600-addition-4967707",
     "Watchlist|https://www.investing.com/news/company-news/ssc-q3-2026-slides-record-ebitda-shares-fall-on-q4-outlook-93CH-4967708",
     "Watchlist|https://www.investing.com/news/stock-market-news/sk-hynix-drops-us-ipo-plan-for-solidigm-newspaper-reports-4967714",
@@ -5000,7 +4991,16 @@
     "Crypto|bf18dfc9-cc0b-3f52-ad5b-9fcb3688b6a5",
     "Iran|https://www.iranintl.com/en/202610246039",
     "AI|0a35b484-b363-390e-8056-19afac850e71",
-    "Watchlist|0a35b484-b363-390e-8056-19afac850e71"
+    "Watchlist|0a35b484-b363-390e-8056-19afac850e71",
+    "AI|5fecece5-c952-4c3b-9a10-fed9bb05f7ac",
+    "Watchlist|5fecece5-c952-4c3b-9a10-fed9bb05f7ac",
+    "AI|814337f9-0dea-3ef7-84aa-e52af70337f3",
+    "War|4cc67112-0f06-32d5-b6c3-8e6f6cfb4b84",
+    "Watchlist|814337f9-0dea-3ef7-84aa-e52af70337f3",
+    "AI|https://www.investing.com/news/insider-trading-news/exodus-movement-director-margaret-knight-sells-955-in-stock-93CH-4970914",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/exodus-movement-director-margaret-knight-sells-955-in-stock-93CH-4970914",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/exodus-movement-director-margaret-knight-sells-955-in-stock-93CH-4970914",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/exodus-movement-director-margaret-knight-sells-955-in-stock-93CH-4970914"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792861871.672729
+  "last_check": 1792862788.1522362
 }
