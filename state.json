@@ -1,7 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/provident-financial-declares-014-quarterly-dividend-93CH-4967785",
     "SG Banks|https://www.investing.com/news/company-news/newmont-q3-2026-slides-record-cash-flow-red-chris-nears-decision-93CH-4967786",
     "SG Banks|https://www.investing.com/news/insider-trading-news/pc-connection-chairman-gallup-sells-132m-in-shares-93CH-4967789",
     "SG Banks|https://www.investing.com/news/insider-trading-news/block-director-anthony-eisen-sells-141m-in-block-xyz-shares-93CH-4967790",
@@ -5000,7 +4999,8 @@
     "Watchlist|1ff3b1dd-7992-3fa2-aafb-960faaaf6a4b",
     "Watchlist|7d9e63a1-0e1b-37ce-8e93-e50d687d8850",
     "AI|9308af33-7058-3688-8c3f-f81e339f837f",
-    "Watchlist|9308af33-7058-3688-8c3f-f81e339f837f"
+    "Watchlist|9308af33-7058-3688-8c3f-f81e339f837f",
+    "Iran|https://www.iranintl.com/en/202610244351"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792881131.3361235
+  "last_check": 1792882051.56962
 }
