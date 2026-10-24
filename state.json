@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/uze-stock-hits-52week-low-at-1521-usd-93CH-4967191",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-ge-vernova-stock-tumbling-today-93CH-4967194",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-roper-technologies-stock-surging-today-93CH-4967199",
-    "SG Banks|https://www.investing.com/news/stock-market-news/trump-asks-musk-to-lift-ukraine-starlink-restrictions-wsj-reports-4967200",
     "SG Banks|https://www.investing.com/news/company-news/independence-gold-increases-private-placement-to-625-million-93CH-4967201",
     "SG Banks|https://www.investing.com/news/stock-market-news/top-lodging-stocks-for-3q26-earnings-according-to-wells-fargo-4967202",
     "SG Banks|https://www.investing.com/news/company-news/cdw-stock-hits-52week-high-at-1611-usd-93CH-4967204",
@@ -5000,7 +4996,11 @@
     "Cybersecurity|https://www.investing.com/news/stock-market-news/democrat-on-us-fcc-urges-broadcast-industry-to-be-more-aggressive-confronting-the-agency-4970551",
     "SG Banks|https://www.investing.com/news/stock-market-news/democrat-on-us-fcc-urges-broadcast-industry-to-be-more-aggressive-confronting-the-agency-4970551",
     "Watchlist|https://www.investing.com/news/stock-market-news/democrat-on-us-fcc-urges-broadcast-industry-to-be-more-aggressive-confronting-the-agency-4970551",
-    "AI|9440d72d-c118-349c-a7cb-b0a0d4e1659e"
+    "AI|9440d72d-c118-349c-a7cb-b0a0d4e1659e",
+    "AI|https://www.investing.com/news/company-news/boeing-777-freighter-output-halted-for-two-months-over-supplier-row--reuters-4970553",
+    "Cybersecurity|https://www.investing.com/news/company-news/boeing-777-freighter-output-halted-for-two-months-over-supplier-row--reuters-4970553",
+    "SG Banks|https://www.investing.com/news/company-news/boeing-777-freighter-output-halted-for-two-months-over-supplier-row--reuters-4970553",
+    "Watchlist|https://www.investing.com/news/company-news/boeing-777-freighter-output-halted-for-two-months-over-supplier-row--reuters-4970553"
   ],
   "topic_error": "",
   "last_digest": "2026-10-24",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792806897.3278759
+  "last_check": 1792807818.2381566
 }
