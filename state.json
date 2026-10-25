@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/economic-indicators/uk-retail-sales-fall-04-in-september-as-consumer-confidence-hits-sixmonth-low-4968096",
-    "SG Banks|https://www.investing.com/news/economy-news/us-prepares-for-prolonged-iran-conflict-trump-envoy-tells-ft-4968075",
-    "SG Banks|https://www.investing.com/news/economic-indicators/uk-retail-sales-fall-by-more-than-expected-in-september-4968076",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-momentum-group-posts-solid-q3-2026-growth-93CH-4968081",
-    "SG Banks|https://www.investing.com/news/stock-market-news/ambanis-32-billion-jio-indian-ipo-lures-investors-as-bids-surge-on-final-day-4968087",
     "SG Banks|https://www.investing.com/news/stock-market-news/warehouses-de-pauw-confirms-2026-guidance-after-solid-quarter-93CH-4968088",
     "SG Banks|https://www.investing.com/news/economy-news/hold-hike-and-cut-bank-indonesia-says-theres-logic-to-the-policy-mix-4968091",
     "SG Banks|https://www.investing.com/news/stock-market-news/openai-and-polands-nask-collaborate-on-ai-safety-research-4968092",
@@ -5000,7 +4995,12 @@
     "Cybersecurity|https://www.investing.com/news/stock-market-news/proxy-advisory-firm-glass-lewis-backs-bergeron-in-ethan-allen-fight-4971264",
     "SG Banks|https://www.investing.com/news/stock-market-news/proxy-advisory-firm-glass-lewis-backs-bergeron-in-ethan-allen-fight-4971264",
     "Watchlist|https://www.investing.com/news/stock-market-news/proxy-advisory-firm-glass-lewis-backs-bergeron-in-ethan-allen-fight-4971264",
-    "Crypto|714bd442-7973-3b72-b1f5-16a64b391e26"
+    "Crypto|714bd442-7973-3b72-b1f5-16a64b391e26",
+    "Crypto|bf7da51b-e9b7-35b6-9a0b-eda3b80689a4",
+    "AI|a9fe3507-426d-35cb-bf87-605619fcfb6f",
+    "SG Banks|https://www.straitstimes.com/singapore/jobs/askst-jobs-my-colleagues-get-more-flexibility-because-of-family-commitments-what-about-me",
+    "AI|3d8c5a78-5969-33a5-b817-870f9a074921",
+    "Watchlist|3d8c5a78-5969-33a5-b817-870f9a074921"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792964463.0155625
+  "last_check": 1792965382.6155555
 }
