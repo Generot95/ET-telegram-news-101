@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/economy-news/japan-core-inflation-exceeds-boj-target-cements-nearterm-rate-hike-chance-4967842",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-alkane-resources-posts-steady-q1-2027-output-as-shares-fall-93CH-4967843",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/wayfair-cto-fiona-tan-sells-920000-in-company-stock-93CH-4967837",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/arista-networks-president--cto-kenneth-duda-sells-78m-in-shares-93CH-4967838",
-    "Cybersecurity|https://www.investing.com/news/economic-indicators/japan-cpi-inflation-hits-9mth-high-in-sept-crosses-boj-target-4967840",
-    "Cybersecurity|https://www.investing.com/news/economy-news/japan-core-inflation-exceeds-boj-target-cements-nearterm-rate-hike-chance-4967842",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-alkane-resources-posts-steady-q1-2027-output-as-shares-fall-93CH-4967843",
     "SG Banks|https://www.investing.com/news/insider-trading-news/wayfair-cto-fiona-tan-sells-920000-in-company-stock-93CH-4967837",
     "SG Banks|https://www.investing.com/news/insider-trading-news/arista-networks-president--cto-kenneth-duda-sells-78m-in-shares-93CH-4967838",
     "SG Banks|https://www.investing.com/news/economic-indicators/japan-cpi-inflation-hits-9mth-high-in-sept-crosses-boj-target-4967840",
@@ -5000,7 +4993,14 @@
     "Watchlist|c0cacb59-18b1-36da-b988-6da45748a4a4",
     "War|6f302cbc-1b3a-332c-8228-0eb98c52462f",
     "AI|6f302cbc-1b3a-332c-8228-0eb98c52462f",
-    "Watchlist|6f302cbc-1b3a-332c-8228-0eb98c52462f"
+    "Watchlist|6f302cbc-1b3a-332c-8228-0eb98c52462f",
+    "Iran|https://www.iranintl.com/en/202610252197",
+    "SG Banks|/companies-markets/capital-markets-currencies/chinas-us3-5-trillion-stock-rout-deepens-profits-sink-major-stimulus-stays-elusive",
+    "Watchlist|/companies-markets/capital-markets-currencies/chinas-us3-5-trillion-stock-rout-deepens-profits-sink-major-stimulus-stays-elusive",
+    "AI|https://www.investing.com/news/stock-market-news/chinese-equities-face-prolonged-downturn-as-earnings-forecasts-tumble-4971016",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/chinese-equities-face-prolonged-downturn-as-earnings-forecasts-tumble-4971016",
+    "SG Banks|https://www.investing.com/news/stock-market-news/chinese-equities-face-prolonged-downturn-as-earnings-forecasts-tumble-4971016",
+    "Watchlist|https://www.investing.com/news/stock-market-news/chinese-equities-face-prolonged-downturn-as-earnings-forecasts-tumble-4971016"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792892113.986068
+  "last_check": 1792893043.8249283
 }
