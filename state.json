@@ -1,7 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/exclusiveheineken-document-reveals-worries-over-weightloss-drugs-and-beer-sales-4968071",
     "Watchlist|https://www.investing.com/news/earnings/volvo-ab-q3-profit-rises-as-expected-on-truck-demand-recovery-4968051",
     "Watchlist|https://www.investing.com/news/stock-market-news/tomra-systems-reports-q3-revenue-of-366m-beats-estimates-93CH-4968054",
     "Watchlist|https://www.investing.com/news/insider-trading-news/teradyne-director-marilyn-matz-sells-140000-in-shares-93CH-4968065",
@@ -5000,7 +4999,8 @@
     "AI|https://www.investing.com/news/economy-news/britain-will-not-join-canadas-defence-bank-source-says-4971243",
     "Cybersecurity|https://www.investing.com/news/economy-news/britain-will-not-join-canadas-defence-bank-source-says-4971243",
     "SG Banks|https://www.investing.com/news/economy-news/britain-will-not-join-canadas-defence-bank-source-says-4971243",
-    "Watchlist|https://www.investing.com/news/economy-news/britain-will-not-join-canadas-defence-bank-source-says-4971243"
+    "Watchlist|https://www.investing.com/news/economy-news/britain-will-not-join-canadas-defence-bank-source-says-4971243",
+    "Crypto|8307bd1f-8907-3e70-a798-9b73e721458c"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792957143.9451988
+  "last_check": 1792958056.4150207
 }
