@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.straitstimes.com/business/sk-hynix-puts-us-ipo-of-chip-unit-solidigm-on-hold-after-seoul-authorities-raise-concerns",
-    "Watchlist|92952ea2-322b-351f-9d14-c6df4710b829",
-    "Watchlist|b3bee928-5755-380e-a727-ac60a7e12c59",
-    "AI|https://www.investing.com/news/stock-market-news/ponyai-partners-with-indrive-nvidia-to-launch-robotaxis-in-kazakhstan-4968014",
-    "AI|https://www.investing.com/news/economy-news/morning-bid-wake-up-the-long-bonds-up-two-points-4968015",
-    "AI|https://www.investing.com/news/stock-market-news/trump-touts-270-mln-bombardier-investment-after-threatening-us-sales-ban-4968016",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/ponyai-partners-with-indrive-nvidia-to-launch-robotaxis-in-kazakhstan-4968014",
-    "Cybersecurity|https://www.investing.com/news/economy-news/morning-bid-wake-up-the-long-bonds-up-two-points-4968015",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/trump-touts-270-mln-bombardier-investment-after-threatening-us-sales-ban-4968016",
-    "SG Banks|https://www.investing.com/news/stock-market-news/ponyai-partners-with-indrive-nvidia-to-launch-robotaxis-in-kazakhstan-4968014",
     "SG Banks|https://www.investing.com/news/economy-news/morning-bid-wake-up-the-long-bonds-up-two-points-4968015",
     "SG Banks|https://www.investing.com/news/stock-market-news/trump-touts-270-mln-bombardier-investment-after-threatening-us-sales-ban-4968016",
     "Watchlist|https://www.investing.com/news/stock-market-news/ponyai-partners-with-indrive-nvidia-to-launch-robotaxis-in-kazakhstan-4968014",
@@ -5000,7 +4990,17 @@
     "Watchlist|04b71f8e-03fc-3495-8158-8a5634ddd390",
     "War|9fae646f-87a8-3009-ab95-7df8374d3eaf",
     "War|a0659e58-16bd-4b48-a1f7-6af0774251e7",
-    "Crypto|9fae646f-87a8-3009-ab95-7df8374d3eaf"
+    "Crypto|9fae646f-87a8-3009-ab95-7df8374d3eaf",
+    "AI|125f5820-c4ca-31cb-ab4f-8925b985df24",
+    "Watchlist|125f5820-c4ca-31cb-ab4f-8925b985df24",
+    "SG Banks|/wealth/emerging-debt-outruns-treasuries-rich-world-fiscal-fears-grow",
+    "Watchlist|/wealth/emerging-debt-outruns-treasuries-rich-world-fiscal-fears-grow",
+    "AI|https://www.investing.com/news/insider-trading-news/medpace-ceo-august-troendle-sells-159-million-in-stock-93CH-4971193",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/medpace-ceo-august-troendle-sells-159-million-in-stock-93CH-4971193",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/medpace-ceo-august-troendle-sells-159-million-in-stock-93CH-4971193",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/medpace-ceo-august-troendle-sells-159-million-in-stock-93CH-4971193",
+    "AI|bec18f80-9b2c-3971-981f-a4ae76506de3",
+    "Watchlist|bec18f80-9b2c-3971-981f-a4ae76506de3"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792935160.1943326
+  "last_check": 1792936068.9885926
 }
