@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/commodities-news/gold-hits-3mth-low-as-oil-rally-fuels-rate-concerns-set-for-weekly-drop-4967928",
-    "AI|https://www.investing.com/news/economy-news/asian-shares-wobble-as-tech-rout-boosts-bonds-dents-rate-hike-bets-4967929",
-    "AI|https://www.investing.com/news/insider-trading-news/jabil-svp-gary-schick-sells-277160-in-shares-93CH-4967937",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/chime-cofounder-ryan-king-sells-351162-in-company-stock-93CH-4967923",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/plexus-ceo-todd-kelsey-sells-358747-in-company-stock-93CH-4967922",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/united-therapeutics-ceo-rothblatt-sells-53m-in-uthr-stock-93CH-4967924",
     "Cybersecurity|https://www.investing.com/news/commodities-news/gold-hits-3mth-low-as-oil-rally-fuels-rate-concerns-set-for-weekly-drop-4967928",
     "Cybersecurity|https://www.investing.com/news/economy-news/asian-shares-wobble-as-tech-rout-boosts-bonds-dents-rate-hike-bets-4967929",
@@ -5000,7 +4995,12 @@
     "SG Banks|/companies-markets/openai-shifts-value-us1-25-trillion-funding-talks-finalise",
     "Watchlist|/companies-markets/openai-shifts-value-us1-25-trillion-funding-talks-finalise",
     "War|https://www.investing.com/news/commodities-news/gold-hits-3mth-low-as-oil-rally-fuels-rate-concerns-set-for-weekly-drop-4967928",
-    "AI|b5541bbb-16ca-335c-9a09-6aee7180770a"
+    "AI|b5541bbb-16ca-335c-9a09-6aee7180770a",
+    "AI|393f1cbb-0abe-3956-bdb5-8d95f0088a19",
+    "Watchlist|393f1cbb-0abe-3956-bdb5-8d95f0088a19",
+    "AI|334e7e91-c8e7-3ece-aca5-bf7cf447006b",
+    "Crypto|334e7e91-c8e7-3ece-aca5-bf7cf447006b",
+    "Watchlist|334e7e91-c8e7-3ece-aca5-bf7cf447006b"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792920494.8745642
+  "last_check": 1792921410.2062988
 }
