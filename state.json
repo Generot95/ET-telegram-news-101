@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Crypto|6e42fc59-5845-3922-bd99-3052e557e49a",
-    "Cybersecurity|https://www.investing.com/news/earnings/volvo-cars-posts-q3-loss-of-37-billion-crowns-to-cut-2500-jobs-4968035",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/hacking-attempts-surge-as-companies-governments-rush-to-patch-php-flaws-4968036",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-002-4968037",
     "Cybersecurity|https://www.investing.com/news/earnings/holcim-raises-2026-earnings-outlook-after-strong-q3-sales-4968038",
     "Cybersecurity|https://www.investing.com/news/earnings/sgs-beats-q3-revenue-estimates-with-record-sales-growth-4968039",
@@ -5000,7 +4997,10 @@
     "Watchlist|/companies-markets/energy-commodities/petronas-totalenergies-mitsui-ink-jv-pact-develop-malaysia-carbon-storage-sites",
     "AI|4eb5bd0f-578e-3815-bab5-2cf1870bf999",
     "Watchlist|4eb5bd0f-578e-3815-bab5-2cf1870bf999",
-    "Crypto|256fe7c8-1cc9-3e7d-82f0-ebb30977e9e1"
+    "Crypto|256fe7c8-1cc9-3e7d-82f0-ebb30977e9e1",
+    "AI|4a0baf8d-610a-3997-98c4-02c4962c6225",
+    "AI|e68aa6a8-5fa3-3e70-a8f1-113d37be07ff",
+    "Watchlist|e68aa6a8-5fa3-3e70-a8f1-113d37be07ff"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792945239.7720938
+  "last_check": 1792946164.2923605
 }
