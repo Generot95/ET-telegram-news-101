@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/tomra-systems-reports-q3-revenue-of-366m-beats-estimates-93CH-4968054",
-    "AI|https://www.investing.com/news/insider-trading-news/teradyne-director-marilyn-matz-sells-140000-in-shares-93CH-4968065",
     "AI|https://www.investing.com/news/company-news/evaxion-reports-threeyear-data-for-cancer-vaccine-evx01-93CH-4968066",
     "AI|https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-unchanged-4968067",
     "AI|https://www.investing.com/news/earnings/sodexo-beats-q4-growth-expectations-confirms-fy27-outlook-4968069",
@@ -5000,7 +4998,9 @@
     "Watchlist|/companies-markets/capital-markets-currencies/sk-hynix-samsung-fall-asian-tech-sell-deepens-and-crude-oil-extends-gains",
     "Crypto|1cbaec66-f6a1-3ccf-82b1-9545c013caae",
     "Watchlist|8d0c928c-5161-343b-aed5-597af025cdc3",
-    "AI|8d0c928c-5161-343b-aed5-597af025cdc3"
+    "AI|8d0c928c-5161-343b-aed5-597af025cdc3",
+    "AI|da529527-bc5f-3384-b505-2e98b0c51edc",
+    "Crypto|a815fb1b-f4f1-3f4a-bbc6-c4652da63f87"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792954398.395895
+  "last_check": 1792955316.0279582
 }
