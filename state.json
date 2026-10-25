@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|be67458e-d4cd-34b2-aa82-e247e4f8f881",
-    "Watchlist|be67458e-d4cd-34b2-aa82-e247e4f8f881",
-    "SG Banks|/companies-markets/carro-establishes-s450-million-financing-facility-backed-car-loans",
-    "Watchlist|/companies-markets/carro-establishes-s450-million-financing-facility-backed-car-loans",
-    "Crypto|14a4b7bb-34ae-3368-a0ea-8e6efcf015a4",
-    "AI|47e67795-eda1-37df-b533-d44595ab2e60",
     "AI|cda2c84c-aa85-35de-b13b-bd5f12bb1ad3",
     "Watchlist|47e67795-eda1-37df-b533-d44595ab2e60",
     "Watchlist|cda2c84c-aa85-35de-b13b-bd5f12bb1ad3",
@@ -5000,7 +4994,13 @@
     "AI|da798c52-b6e9-34ed-9f66-e2aebbfec967",
     "Watchlist|da798c52-b6e9-34ed-9f66-e2aebbfec967",
     "SG Banks|/companies-markets/capital-markets-currencies/euro-nears-3-month-low-against-singdollar-amid-political-unrest-europe-may-weaken-further",
-    "Watchlist|/companies-markets/capital-markets-currencies/euro-nears-3-month-low-against-singdollar-amid-political-unrest-europe-may-weaken-further"
+    "Watchlist|/companies-markets/capital-markets-currencies/euro-nears-3-month-low-against-singdollar-amid-political-unrest-europe-may-weaken-further",
+    "War|645ecdcc-d6ed-38e1-8c4f-7a77965fcd67",
+    "Crypto|e53130c2-26c1-35a7-adb3-7e99690277af",
+    "AI|2aa5d93e-f5ee-372e-be7f-0d69492f1ea1",
+    "Watchlist|2aa5d93e-f5ee-372e-be7f-0d69492f1ea1",
+    "SG Banks|/companies-markets/carro-establishes-s450-million-financing-facility-backed-car-loans",
+    "Watchlist|/companies-markets/carro-establishes-s450-million-financing-facility-backed-car-loans"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792943384.6203551
+  "last_check": 1792944308.7577648
 }
