@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|d52579ca-e44a-34a0-a339-990e3d20657a",
-    "AI|3f6b150f-edaa-3d1c-ab8b-482e2d083f59",
-    "War|f7b08c30-fd52-347e-9734-ebb430e464af",
-    "War|61d0d3a6-0d0b-3850-827e-8c341064124c",
-    "SG Banks|https://www.straitstimes.com/business/ferrari-lamborghini-deals-land-car-dealers-in-high-court-with-one-ordered-to-pay-rival-300000",
-    "Watchlist|d52579ca-e44a-34a0-a339-990e3d20657a",
-    "SG Banks|WP-MKTW-0003055784",
-    "SG Banks|WP-MKTW-0003509216",
-    "SG Banks|WP-MKTW-0003509284",
     "SG Banks|WP-MKTW-0003805099",
     "Watchlist|48b6701f-4739-321a-8c67-97c8c55c06d0",
     "SG Banks|WP-MKTW-0003805097",
@@ -5000,7 +4991,16 @@
     "AI|https://www.investing.com/news/stock-market-news/musk-says-spacex-raised-40-billion-in-debt-for-gpus-4971248",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/musk-says-spacex-raised-40-billion-in-debt-for-gpus-4971248",
     "SG Banks|https://www.investing.com/news/stock-market-news/musk-says-spacex-raised-40-billion-in-debt-for-gpus-4971248",
-    "Watchlist|https://www.investing.com/news/stock-market-news/musk-says-spacex-raised-40-billion-in-debt-for-gpus-4971248"
+    "Watchlist|https://www.investing.com/news/stock-market-news/musk-says-spacex-raised-40-billion-in-debt-for-gpus-4971248",
+    "AI|72dceaea-057f-37a8-9c94-bdb7831b95c6",
+    "Watchlist|72dceaea-057f-37a8-9c94-bdb7831b95c6",
+    "Watchlist|49fd95f6-073d-3f25-8c0b-2616878c8d2b",
+    "AI|0d4242d7-b2c9-3bd4-9e03-715369986b85",
+    "AI|6aa0a251-3626-3c5e-9bb0-32356c21ae2b",
+    "Watchlist|0d4242d7-b2c9-3bd4-9e03-715369986b85",
+    "Watchlist|6aa0a251-3626-3c5e-9bb0-32356c21ae2b",
+    "SG Banks|WP-MKTW-0003055784",
+    "SG Banks|WP-MKTW-0003509216"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792959888.683153
+  "last_check": 1792960811.4589648
 }
