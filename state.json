@@ -1,21 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|/international/asean/malaysia-allows-first-export-unprocessed-rare-earths-under-new-rules",
-    "SG Banks|/international/chinas-catl-baic-target-1-million-cars-new-battery-swap-network",
-    "Watchlist|/international/chinas-catl-baic-target-1-million-cars-new-battery-swap-network",
-    "War|0d2aa532-4947-3a34-a88c-1f6146c6f80d",
-    "SG Banks|https://www.channelnewsasia.com/business/oil-prices-rise-more-1-supply-concerns-linger-6484841",
-    "Iran|https://www.iranintl.com/en/202610222999",
-    "SG Banks|https://www.channelnewsasia.com/asia/indonesia-msci-stock-market-downgrade-jakarta-composite-6482001",
-    "AI|60e4229c-af21-314f-8c4f-c1b0110708b1",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-karnell-group-posts-record-q3-2026-profit-growth-93CH-4968120",
-    "AI|https://www.investing.com/news/company-news/rallis-india-q2-fy27-slides-show-resilience-amid-monsoon-challenges-93CH-4968121",
-    "AI|https://www.investing.com/news/stock-market-news/sca-reports-3-earnings-beat-driven-by-pulp-division-93CH-4968122",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-hpcl-posts-sharp-q2-turnaround-as-shares-fall-33-93CH-4968123",
-    "AI|https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-025-4968126",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-groupe-adp-q3-2026-revenue-miss-stock-slips-93CH-4968124",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-planisware-posts-strong-q3-2026-growth-as-stock-nears-high-93CH-4968125",
     "AI|https://www.investing.com/news/stock-market-news/chinas-deepseekminimax-win-approval-for-ai-global-use-state-mediaaffiliated-entity-says-4968133",
     "AI|https://www.investing.com/news/economic-indicators/exclusivetanker-carrying-40000-t-of-russian-diesel-heads-to-new-york-after-putintrump-deal-data-shows-4968099",
     "AI|https://www.investing.com/news/earnings/securitas-reports-q3-margin-progress-below-expectations-4968137",
@@ -5000,7 +4985,22 @@
     "AI|b657a11a-6ca2-35f6-9104-c6801380c8f4",
     "Watchlist|b657a11a-6ca2-35f6-9104-c6801380c8f4",
     "Iran|https://www.iranintl.com/en/202610200213",
-    "SG Banks|/international/asean/malaysia-allows-first-export-unprocessed-rare-earths-under-new-rules"
+    "SG Banks|/international/asean/malaysia-allows-first-export-unprocessed-rare-earths-under-new-rules",
+    "War|54b10960-2dd2-39f3-8cae-5596801ed4d4",
+    "SG Banks|/companies-markets/musk-says-spacex-raised-us40-billion-debt-gpus",
+    "Watchlist|/international/asean/malaysia-allows-first-export-unprocessed-rare-earths-under-new-rules",
+    "Watchlist|/companies-markets/musk-says-spacex-raised-us40-billion-debt-gpus",
+    "AI|46279577-7d69-3bd3-8aa4-0b065fe992da",
+    "Crypto|46279577-7d69-3bd3-8aa4-0b065fe992da",
+    "SG Banks|/international/chinas-catl-baic-target-1-million-cars-new-battery-swap-network",
+    "Watchlist|/international/chinas-catl-baic-target-1-million-cars-new-battery-swap-network",
+    "Iran|https://www.iranintl.com/en/202610222999",
+    "SG Banks|https://www.channelnewsasia.com/business/australias-nextdc-ceo-forgo-fiscal-2027-bonuses-after-forecast-cut-project-delay-6491626",
+    "Watchlist|46279577-7d69-3bd3-8aa4-0b065fe992da",
+    "AI|a65574a7-def9-3a73-bd3b-4f0a5e18937b",
+    "Watchlist|a65574a7-def9-3a73-bd3b-4f0a5e18937b",
+    "Crypto|f6485422-3328-3a8d-a0c8-db54279a8945",
+    "AI|ec5715d9-7b46-3f4a-ba47-b0c1ec08e0b1"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792967195.2802777
+  "last_check": 1792968117.0866504
 }
