@@ -1,24 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|95e87194-3309-3ff5-a4a8-bc5cbb56f4a1",
-    "AI|https://www.investing.com/news/commodities-news/oil-little-changed-as-supply-concern-lingers-amid-houthi-attacks-on-saudi-arabia-4967907",
-    "AI|https://www.investing.com/news/insider-trading-news/bank-of-america-corp-sells-invesco-trust-ii-shares-for-860-93CH-4967910",
-    "AI|https://www.investing.com/news/insider-trading-news/agora-ceo-zhao-bin-buys-168304-in-company-adss-93CH-4967911",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/oil-little-changed-as-supply-concern-lingers-amid-houthi-attacks-on-saudi-arabia-4967907",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/bank-of-america-corp-sells-invesco-trust-ii-shares-for-860-93CH-4967910",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/agora-ceo-zhao-bin-buys-168304-in-company-adss-93CH-4967911",
-    "SG Banks|https://www.investing.com/news/commodities-news/oil-little-changed-as-supply-concern-lingers-amid-houthi-attacks-on-saudi-arabia-4967907",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/bank-of-america-corp-sells-invesco-trust-ii-shares-for-860-93CH-4967910",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/agora-ceo-zhao-bin-buys-168304-in-company-adss-93CH-4967911",
-    "Watchlist|95e87194-3309-3ff5-a4a8-bc5cbb56f4a1",
-    "Watchlist|https://www.investing.com/news/commodities-news/oil-little-changed-as-supply-concern-lingers-amid-houthi-attacks-on-saudi-arabia-4967907",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/bank-of-america-corp-sells-invesco-trust-ii-shares-for-860-93CH-4967910",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/agora-ceo-zhao-bin-buys-168304-in-company-adss-93CH-4967911",
-    "Iran|https://www.iranintl.com/en/202610204555",
-    "SG Banks|/property/fct-nlb-turn-causeway-points-former-cinema-space-reading-hub-mall-revamp",
-    "SG Banks|https://www.straitstimes.com/business/meta-offers-zuckerberg-new-shares-to-keep-him-in-california",
-    "SG Banks|https://www.straitstimes.com/business/tesla-posts-surprise-positive-cash-flow-on-lower-than-expected-ai-spending",
     "Watchlist|/property/fct-nlb-turn-causeway-points-former-cinema-space-reading-hub-mall-revamp",
     "AI|0c0ad7cc-88dc-3823-947c-fe26761f5b35",
     "Watchlist|0c0ad7cc-88dc-3823-947c-fe26761f5b35",
@@ -5000,7 +4982,25 @@
     "AI|f6be1b7d-abdb-3cb2-898b-ad636ac3ef33",
     "Watchlist|f6be1b7d-abdb-3cb2-898b-ad636ac3ef33",
     "AI|ba29cbf8-c0b4-3b8f-81e1-b5102ec56e9e",
-    "Watchlist|ba29cbf8-c0b4-3b8f-81e1-b5102ec56e9e"
+    "Watchlist|ba29cbf8-c0b4-3b8f-81e1-b5102ec56e9e",
+    "War|https://www.investing.com/news/commodities-news/oil-little-changed-as-supply-concern-lingers-amid-houthi-attacks-on-saudi-arabia-4967907",
+    "AI|https://www.investing.com/news/insider-trading-news/anixa-biosciences-president-coo--cfo-buys-15620-in-shares-93CH-4971073",
+    "AI|https://www.investing.com/news/company-news/xencor-reports-phase-1-data-for-cancer-drug-xmab819-93CH-4971076",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/anixa-biosciences-president-coo--cfo-buys-15620-in-shares-93CH-4971073",
+    "Cybersecurity|https://www.investing.com/news/company-news/xencor-reports-phase-1-data-for-cancer-drug-xmab819-93CH-4971076",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/anixa-biosciences-president-coo--cfo-buys-15620-in-shares-93CH-4971073",
+    "SG Banks|https://www.investing.com/news/company-news/xencor-reports-phase-1-data-for-cancer-drug-xmab819-93CH-4971076",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/anixa-biosciences-president-coo--cfo-buys-15620-in-shares-93CH-4971073",
+    "Watchlist|https://www.investing.com/news/company-news/xencor-reports-phase-1-data-for-cancer-drug-xmab819-93CH-4971076",
+    "War|https://www.investing.com/news/world-news/north-koreas-kim-jong-un-returns-from-china-after-war-memorial-visit-state-media-says-4971045",
+    "AI|dc11cdd2-18ee-39e1-a8f7-984e5df1ead3",
+    "AI|37a28610-e802-37ad-8210-5f4a1c83a957",
+    "AI|c9173462-59b0-34d9-aab3-bb090299039f",
+    "Watchlist|dc11cdd2-18ee-39e1-a8f7-984e5df1ead3",
+    "Watchlist|c9173462-59b0-34d9-aab3-bb090299039f",
+    "Watchlist|37a28610-e802-37ad-8210-5f4a1c83a957",
+    "Iran|https://www.iranintl.com/en/202610204555",
+    "SG Banks|/property/fct-nlb-turn-causeway-points-former-cinema-space-reading-hub-mall-revamp"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792917753.5296721
+  "last_check": 1792918673.7813098
 }
