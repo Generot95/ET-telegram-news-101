@@ -1,20 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|cda2c84c-aa85-35de-b13b-bd5f12bb1ad3",
-    "Watchlist|47e67795-eda1-37df-b533-d44595ab2e60",
-    "Watchlist|cda2c84c-aa85-35de-b13b-bd5f12bb1ad3",
-    "AI|https://www.investing.com/news/stock-market-news/hacking-attempts-surge-as-companies-governments-rush-to-patch-php-flaws-4968036",
-    "SG Banks|/international/global/apple-bets-iphone-duo-can-remake-foldable-market-sales-begin",
-    "SG Banks|/companies-markets/energy-commodities/petronas-totalenergies-mitsui-ink-jv-pact-develop-malaysia-carbon-storage-sites",
-    "Watchlist|/international/global/apple-bets-iphone-duo-can-remake-foldable-market-sales-begin",
-    "Watchlist|/companies-markets/energy-commodities/petronas-totalenergies-mitsui-ink-jv-pact-develop-malaysia-carbon-storage-sites",
-    "SG Banks|https://www.channelnewsasia.com/business/oil-prices-rise-supply-concerns-linger-amid-houthi-attacks-saudi-arabia-6484841",
-    "AI|https://www.investing.com/news/earnings/volvo-cars-posts-q3-loss-of-37-billion-crowns-to-cut-2500-jobs-4968035",
-    "AI|https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-002-4968037",
-    "AI|https://www.investing.com/news/earnings/holcim-raises-2026-earnings-outlook-after-strong-q3-sales-4968038",
-    "AI|https://www.investing.com/news/earnings/sgs-beats-q3-revenue-estimates-with-record-sales-growth-4968039",
-    "AI|https://www.investing.com/news/earnings/hydro-q3-adjusted-core-earnings-rise-52-but-miss-forecasts-on-weak-cash-flow-4968040",
     "Crypto|6e42fc59-5845-3922-bd99-3052e557e49a",
     "Cybersecurity|https://www.investing.com/news/earnings/volvo-cars-posts-q3-loss-of-37-billion-crowns-to-cut-2500-jobs-4968035",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/hacking-attempts-surge-as-companies-governments-rush-to-patch-php-flaws-4968036",
@@ -5000,7 +4986,21 @@
     "AI|2aa5d93e-f5ee-372e-be7f-0d69492f1ea1",
     "Watchlist|2aa5d93e-f5ee-372e-be7f-0d69492f1ea1",
     "SG Banks|/companies-markets/carro-establishes-s450-million-financing-facility-backed-car-loans",
-    "Watchlist|/companies-markets/carro-establishes-s450-million-financing-facility-backed-car-loans"
+    "Watchlist|/companies-markets/carro-establishes-s450-million-financing-facility-backed-car-loans",
+    "AI|c712ff43-ed45-3ca3-9249-6cb57c5ad15b",
+    "Watchlist|c712ff43-ed45-3ca3-9249-6cb57c5ad15b",
+    "War|6651f96a-6ad7-3830-a876-8163de0e2c09",
+    "AI|ef2c38da-0f68-3d7f-9fc3-763c68deb21a",
+    "AI|da3416a2-6d9d-3ac8-bf57-0360f0e09486",
+    "Watchlist|ef2c38da-0f68-3d7f-9fc3-763c68deb21a",
+    "Watchlist|da3416a2-6d9d-3ac8-bf57-0360f0e09486",
+    "SG Banks|/international/global/apple-bets-iphone-duo-can-remake-foldable-market-sales-begin",
+    "SG Banks|/companies-markets/energy-commodities/petronas-totalenergies-mitsui-ink-jv-pact-develop-malaysia-carbon-storage-sites",
+    "Watchlist|/international/global/apple-bets-iphone-duo-can-remake-foldable-market-sales-begin",
+    "Watchlist|/companies-markets/energy-commodities/petronas-totalenergies-mitsui-ink-jv-pact-develop-malaysia-carbon-storage-sites",
+    "AI|4eb5bd0f-578e-3815-bab5-2cf1870bf999",
+    "Watchlist|4eb5bd0f-578e-3815-bab5-2cf1870bf999",
+    "Crypto|256fe7c8-1cc9-3e7d-82f0-ebb30977e9e1"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792944308.7577648
+  "last_check": 1792945239.7720938
 }
