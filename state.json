@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/hd-hyundai-to-build-us-shipyard-with-kiewit-create-3000-jobs-4967906",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/hd-hyundai-to-build-us-shipyard-with-kiewit-create-3000-jobs-4967906",
     "SG Banks|/companies-markets/dbs-favours-chinese-banks-flags-hsbc-long-term-buy",
     "SG Banks|/opinion-features/teslas-flying-roadster-cold-rockets-mostly-hot-air",
     "SG Banks|/lifestyle/health-wellness/investing-health-small-habits-lifetime-returns",
@@ -5000,7 +4998,9 @@
     "Watchlist|4c32b0d1-a277-3900-80a8-7026ea0771af",
     "Iran|https://www.iranintl.com/en/202610257246",
     "SG Banks|/companies-markets/reits-property/london-developer-halts-major-project-housing-viability-hits-crisis-point",
-    "Watchlist|/companies-markets/reits-property/london-developer-halts-major-project-housing-viability-hits-crisis-point"
+    "Watchlist|/companies-markets/reits-property/london-developer-halts-major-project-housing-viability-hits-crisis-point",
+    "AI|8b5346d7-8d2b-3bfc-ad28-8e60a3a0d97b",
+    "Watchlist|8b5346d7-8d2b-3bfc-ad28-8e60a3a0d97b"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792915016.1309094
+  "last_check": 1792915919.7535367
 }
