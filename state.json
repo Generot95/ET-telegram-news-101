@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.channelnewsasia.com/business/japan-not-yet-officially-out-deflation-economy-minister-says-6484686",
-    "SG Banks|b12d0e92-11ff-3cad-a80b-8107aad3cd8b",
-    "SG Banks|https://www.straitstimes.com/business/companies-markets/treasuries-surge-as-worldwide-worries-spark-rush-to-safety",
     "SG Banks|/international/global/apple-emerges-wall-streets-favourite-ai-haven-spending-fears-hit",
     "SG Banks|/companies-markets/reits-property/keppel-dc-reit-9m-dpu-11-7-s0-08571-organic-growth-acquisitions",
     "Watchlist|/international/global/apple-emerges-wall-streets-favourite-ai-haven-spending-fears-hit",
@@ -5000,7 +4997,10 @@
     "AI|debd603f-ba7b-3ce0-957c-b74344288a06",
     "AI|58cb4312-e235-3574-b4fe-112d8b0cb495",
     "Watchlist|debd603f-ba7b-3ce0-957c-b74344288a06",
-    "Watchlist|58cb4312-e235-3574-b4fe-112d8b0cb495"
+    "Watchlist|58cb4312-e235-3574-b4fe-112d8b0cb495",
+    "SG Banks|/singapore/singapore-expects-all-parties-honour-commitments-says-pm-wong-after-indonesia-cuts-gas-exports",
+    "Watchlist|/singapore/singapore-expects-all-parties-honour-commitments-says-pm-wong-after-indonesia-cuts-gas-exports",
+    "SG Banks|b12d0e92-11ff-3cad-a80b-8107aad3cd8b"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792896701.0886059
+  "last_check": 1792897627.0179465
 }
