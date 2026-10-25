@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|73ef9abf-b625-33f0-9fef-d49031e38d5f",
-    "Watchlist|73ef9abf-b625-33f0-9fef-d49031e38d5f",
-    "AI|4cc9ea48-c4af-3741-a14e-aa77f844edf1",
-    "SG Banks|https://www.channelnewsasia.com/business/hd-hyundai-build-us-shipyard-kiewit-create-3000-jobs-6484821",
-    "AI|https://www.investing.com/news/company-news/ikegps-h1-fy27-slides-subscription-revenue-up-22-arr-growth-expected-93CH-4967894",
-    "AI|https://www.investing.com/news/company-news/zai-lab-raises-250-million-in-private-placement-financing-93CH-4967899",
-    "Cybersecurity|https://www.investing.com/news/company-news/ikegps-h1-fy27-slides-subscription-revenue-up-22-arr-growth-expected-93CH-4967894",
-    "Cybersecurity|https://www.investing.com/news/company-news/zai-lab-raises-250-million-in-private-placement-financing-93CH-4967899",
-    "War|https://www.investing.com/news/world-news/comedian-russell-brand-anally-raped-me-woman-tells-uk-trial-4960677",
     "AI|https://www.investing.com/news/insider-trading-news/rapport-therapeutics-director-wendy-young-buys-99991-in-shares-93CH-4967886",
     "AI|https://www.investing.com/news/insider-trading-news/buckle-svp-stores-scott-werth-sells-116870-in-common-stock-93CH-4967885",
     "AI|https://www.investing.com/news/insider-trading-news/rapport-therapeutics-director-paul-m-buys-974k-in-shares-93CH-4967884",
@@ -5000,7 +4991,16 @@
     "Watchlist|/companies-markets/sk-hynix-scraps-solidigm-us-ipo-after-shareholder-opposition-duplicate-listing-concerns",
     "Iran|https://www.iranintl.com/en/202610231784",
     "AI|b050dc69-027a-37ea-97d9-b743816dfa09",
-    "Watchlist|b050dc69-027a-37ea-97d9-b743816dfa09"
+    "Watchlist|b050dc69-027a-37ea-97d9-b743816dfa09",
+    "AI|https://www.investing.com/news/insider-trading-news/jewett-cameron-ajb-investment-fund-ii-buys-7565-in-shares-93CH-4971055",
+    "AI|https://www.investing.com/news/economy-news/uae-closes-more-beaches-as-gulf-oil-spill-raises-environmental-concerns-4971057",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/jewett-cameron-ajb-investment-fund-ii-buys-7565-in-shares-93CH-4971055",
+    "Cybersecurity|https://www.investing.com/news/economy-news/uae-closes-more-beaches-as-gulf-oil-spill-raises-environmental-concerns-4971057",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/jewett-cameron-ajb-investment-fund-ii-buys-7565-in-shares-93CH-4971055",
+    "SG Banks|https://www.investing.com/news/economy-news/uae-closes-more-beaches-as-gulf-oil-spill-raises-environmental-concerns-4971057",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/jewett-cameron-ajb-investment-fund-ii-buys-7565-in-shares-93CH-4971055",
+    "Watchlist|https://www.investing.com/news/economy-news/uae-closes-more-beaches-as-gulf-oil-spill-raises-environmental-concerns-4971057",
+    "Crypto|ad5865dc-7273-3453-a039-86523eed01fc"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792910441.3426886
+  "last_check": 1792911351.211165
 }
