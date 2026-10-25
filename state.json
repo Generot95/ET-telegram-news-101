@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|/companies-markets/sk-hynix-scraps-solidigm-us-ipo-after-duplicate-listing-concerns-market-volatility",
-    "AI|1a80133d-a1bf-3de5-b433-1a95e42552fa",
-    "War|33491780-6c36-30ac-bbc0-a1d6b8c4aa26",
-    "War|34aa9d3f-0e80-3cb2-9a3f-fdf8fc18547a",
-    "AI|c723c403-6739-373d-b1ea-ab6a9035e6d6",
-    "AI|34aa9d3f-0e80-3cb2-9a3f-fdf8fc18547a",
     "Watchlist|c723c403-6739-373d-b1ea-ab6a9035e6d6",
     "Watchlist|34aa9d3f-0e80-3cb2-9a3f-fdf8fc18547a",
     "SG Banks|/companies-markets/capitaland-china-trusts-q3-npi-down-5-1-259-6-million-yuan",
@@ -5000,7 +4994,13 @@
     "SG Banks|https://www.straitstimes.com/business/japanese-carmakers-to-cut-development-times-to-counter-chinese-rivals",
     "Iran|https://www.iranintl.com/en/202610212800",
     "SG Banks|/companies-markets/meta-boosts-bet-ai-spending-outlook-new-stock-class-q3-results-beat-estimates",
-    "Watchlist|/companies-markets/meta-boosts-bet-ai-spending-outlook-new-stock-class-q3-results-beat-estimates"
+    "Watchlist|/companies-markets/meta-boosts-bet-ai-spending-outlook-new-stock-class-q3-results-beat-estimates",
+    "AI|https://www.investing.com/news/economy-news/obama-attacks-trump-over-inflation-as-democrats-fight-for-michigan-senate-seat-4971031",
+    "Cybersecurity|https://www.investing.com/news/economy-news/obama-attacks-trump-over-inflation-as-democrats-fight-for-michigan-senate-seat-4971031",
+    "SG Banks|https://www.investing.com/news/economy-news/obama-attacks-trump-over-inflation-as-democrats-fight-for-michigan-senate-seat-4971031",
+    "Watchlist|https://www.investing.com/news/economy-news/obama-attacks-trump-over-inflation-as-democrats-fight-for-michigan-senate-seat-4971031",
+    "AI|a3fff977-37a4-3281-a4c8-f5d32ccbb071",
+    "Watchlist|a3fff977-37a4-3281-a4c8-f5d32ccbb071"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792902204.023596
+  "last_check": 1792903105.3133516
 }
