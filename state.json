@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-a-doctor-4967877",
-    "SG Banks|https://www.investing.com/news/stock-market-news/exclusivegm-cancels-deal-with-new-us-rareearth-magnet-plant-documents-say-4967695",
-    "SG Banks|https://www.investing.com/news/economic-indicators/japan-manufacturing-growth-slows-to-7month-low-in-october-pmi-shows-4967878",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-ikegps-group-flags-stronger-second-half-in-q2-2026-93CH-4967879",
     "SG Banks|https://www.investing.com/news/commodities-news/oil-prices-cool-from-5month-highs-as-trump-invokes-defense-production-act-4967880",
     "SG Banks|https://www.investing.com/news/stock-market-news/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-a-doctor-4967877",
     "Watchlist|https://www.investing.com/news/stock-market-news/exclusivegm-cancels-deal-with-new-us-rareearth-magnet-plant-documents-say-4967695",
@@ -5000,7 +4996,11 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/abrdn-director-gordon-baird-buys-612-in-company-stock-93CH-4971049",
     "Watchlist|https://www.investing.com/news/economy-news/should-aggregators-block-ai-agents-4971047",
     "Watchlist|https://www.investing.com/news/insider-trading-news/abrdn-director-gordon-baird-buys-612-in-company-stock-93CH-4971049",
-    "War|https://www.investing.com/news/commodities-news/oil-prices-cool-from-5month-highs-as-trump-invokes-defense-production-act-4967880"
+    "War|https://www.investing.com/news/commodities-news/oil-prices-cool-from-5month-highs-as-trump-invokes-defense-production-act-4967880",
+    "AI|d2b90d17-3d0f-301b-89af-2bd9c892b4bf",
+    "Watchlist|d2b90d17-3d0f-301b-89af-2bd9c892b4bf",
+    "SG Banks|/international/global/chinas-us3-5-trillion-stock-rout-deepens-profits-sink-major-stimulus-stays-elusive",
+    "Watchlist|/international/global/chinas-us3-5-trillion-stock-rout-deepens-profits-sink-major-stimulus-stays-elusive"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792908606.7049592
+  "last_check": 1792909521.4133737
 }
