@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|c723c403-6739-373d-b1ea-ab6a9035e6d6",
-    "Watchlist|34aa9d3f-0e80-3cb2-9a3f-fdf8fc18547a",
     "SG Banks|/companies-markets/capitaland-china-trusts-q3-npi-down-5-1-259-6-million-yuan",
     "Watchlist|/companies-markets/capitaland-china-trusts-q3-npi-down-5-1-259-6-million-yuan",
     "SG Banks|https://www.channelnewsasia.com/business/japan-manufacturing-growth-slows-7-month-low-in-october-pmi-shows-6484751",
@@ -5000,7 +4998,9 @@
     "SG Banks|https://www.investing.com/news/economy-news/obama-attacks-trump-over-inflation-as-democrats-fight-for-michigan-senate-seat-4971031",
     "Watchlist|https://www.investing.com/news/economy-news/obama-attacks-trump-over-inflation-as-democrats-fight-for-michigan-senate-seat-4971031",
     "AI|a3fff977-37a4-3281-a4c8-f5d32ccbb071",
-    "Watchlist|a3fff977-37a4-3281-a4c8-f5d32ccbb071"
+    "Watchlist|a3fff977-37a4-3281-a4c8-f5d32ccbb071",
+    "AI|ef75d6d1-0a54-3b40-90f9-79e50d23cd34",
+    "Watchlist|ef75d6d1-0a54-3b40-90f9-79e50d23cd34"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792903105.3133516
+  "last_check": 1792904037.1783962
 }
