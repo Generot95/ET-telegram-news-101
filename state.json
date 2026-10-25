@@ -1,7 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/buckle-svp-stores-scott-werth-sells-116870-in-common-stock-93CH-4967885",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/rapport-therapeutics-director-paul-m-buys-974k-in-shares-93CH-4967884",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/rapport-therapeutics-director-paul-silva-buys-99636-in-stock-93CH-4967892",
     "Cybersecurity|https://www.investing.com/news/economic-indicators/japan-factory-activity-slows-in-oct-services-improve-pmi-shows-4967893",
@@ -5000,7 +4999,8 @@
     "SG Banks|https://www.investing.com/news/world-news/at-least-12-injured-in-a-shooting-in-tallahassee-florida-4971034",
     "SG Banks|https://www.investing.com/news/world-news/north-koreas-kim-jong-un-returns-from-china-after-war-memorial-visit-state-media-says-4971045",
     "Watchlist|https://www.investing.com/news/world-news/at-least-12-injured-in-a-shooting-in-tallahassee-florida-4971034",
-    "Watchlist|https://www.investing.com/news/world-news/north-koreas-kim-jong-un-returns-from-china-after-war-memorial-visit-state-media-says-4971045"
+    "Watchlist|https://www.investing.com/news/world-news/north-koreas-kim-jong-un-returns-from-china-after-war-memorial-visit-state-media-says-4971045",
+    "Crypto|7ece7e71-4ab8-30ae-83a7-3bb364581dd8"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792912263.3158534
+  "last_check": 1792913197.352596
 }
