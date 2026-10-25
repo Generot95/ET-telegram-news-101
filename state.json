@@ -1,20 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.channelnewsasia.com/business/microsoft-develops-ai-tool-can-diagnose-sequentially-doctor-6484766",
-    "Watchlist|/companies-markets/stocks-watch-seatrium-capitaland-investment-keppel-dc-reit-suntec-reit-clct-tsh-resources",
-    "SG Banks|/companies-markets/ibm-posts-5-sales-growth-tops-estimates-says-infrastructure-deals-came-back",
-    "Watchlist|/companies-markets/ibm-posts-5-sales-growth-tops-estimates-says-infrastructure-deals-came-back",
-    "SG Banks|https://www.straitstimes.com/business/openai-shifts-value-to-us1-25-trillion-as-funding-talks-finalise",
-    "War|https://www.investing.com/news/commodities-news/oil-prices-cool-from-5month-highs-as-trump-invokes-defense-production-act-4967880",
-    "AI|https://www.investing.com/news/economic-indicators/japan-manufacturing-growth-slows-to-7month-low-in-october-pmi-shows-4967878",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-ikegps-group-flags-stronger-second-half-in-q2-2026-93CH-4967879",
-    "AI|https://www.investing.com/news/commodities-news/oil-prices-cool-from-5month-highs-as-trump-invokes-defense-production-act-4967880",
-    "AI|https://www.investing.com/news/stock-market-news/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-a-doctor-4967877",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/exclusivegm-cancels-deal-with-new-us-rareearth-magnet-plant-documents-say-4967695",
-    "Cybersecurity|https://www.investing.com/news/economic-indicators/japan-manufacturing-growth-slows-to-7month-low-in-october-pmi-shows-4967878",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-ikegps-group-flags-stronger-second-half-in-q2-2026-93CH-4967879",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/oil-prices-cool-from-5month-highs-as-trump-invokes-defense-production-act-4967880",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-a-doctor-4967877",
     "SG Banks|https://www.investing.com/news/stock-market-news/exclusivegm-cancels-deal-with-new-us-rareearth-magnet-plant-documents-say-4967695",
     "SG Banks|https://www.investing.com/news/economic-indicators/japan-manufacturing-growth-slows-to-7month-low-in-october-pmi-shows-4967878",
@@ -5000,7 +4986,21 @@
     "Crypto|51ecb697-c173-3baa-a2d1-36b59a3f4c86",
     "AI|b9124f13-a83b-36bc-9ee3-70eaecb2d9e3",
     "Watchlist|b9124f13-a83b-36bc-9ee3-70eaecb2d9e3",
-    "SG Banks|/companies-markets/stocks-watch-seatrium-capitaland-investment-keppel-dc-reit-suntec-reit-clct-tsh-resources"
+    "SG Banks|/companies-markets/stocks-watch-seatrium-capitaland-investment-keppel-dc-reit-suntec-reit-clct-tsh-resources",
+    "SG Banks|/singapore/gas-supply-may-pursue-remedies-if-contract-breached-following-indonesias-export-cuts-tan-see-leng",
+    "Watchlist|/singapore/gas-supply-may-pursue-remedies-if-contract-breached-following-indonesias-export-cuts-tan-see-leng",
+    "Watchlist|/companies-markets/stocks-watch-seatrium-capitaland-investment-keppel-dc-reit-suntec-reit-clct-tsh-resources",
+    "SG Banks|/companies-markets/ibm-posts-5-sales-growth-tops-estimates-says-infrastructure-deals-came-back",
+    "Watchlist|/companies-markets/ibm-posts-5-sales-growth-tops-estimates-says-infrastructure-deals-came-back",
+    "AI|https://www.investing.com/news/economy-news/should-aggregators-block-ai-agents-4971047",
+    "AI|https://www.investing.com/news/insider-trading-news/abrdn-director-gordon-baird-buys-612-in-company-stock-93CH-4971049",
+    "Cybersecurity|https://www.investing.com/news/economy-news/should-aggregators-block-ai-agents-4971047",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/abrdn-director-gordon-baird-buys-612-in-company-stock-93CH-4971049",
+    "SG Banks|https://www.investing.com/news/economy-news/should-aggregators-block-ai-agents-4971047",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/abrdn-director-gordon-baird-buys-612-in-company-stock-93CH-4971049",
+    "Watchlist|https://www.investing.com/news/economy-news/should-aggregators-block-ai-agents-4971047",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/abrdn-director-gordon-baird-buys-612-in-company-stock-93CH-4971049",
+    "War|https://www.investing.com/news/commodities-news/oil-prices-cool-from-5month-highs-as-trump-invokes-defense-production-act-4967880"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792907698.67604
+  "last_check": 1792908606.7049592
 }
