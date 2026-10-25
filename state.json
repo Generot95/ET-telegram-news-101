@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/chinas-deepseekminimax-win-approval-for-ai-global-use-state-mediaaffiliated-entity-says-4968133",
-    "AI|https://www.investing.com/news/economic-indicators/exclusivetanker-carrying-40000-t-of-russian-diesel-heads-to-new-york-after-putintrump-deal-data-shows-4968099",
-    "AI|https://www.investing.com/news/earnings/securitas-reports-q3-margin-progress-below-expectations-4968137",
-    "AI|https://www.investing.com/news/stock-market-news/chinas-chery-expects-overseasmanufactured-vehicles-to-top-50-of-exports-exec-says-4968104",
-    "AI|https://www.investing.com/news/company-news/momentum-group-q3-2026-slides-ebita-up-15-new-structure-unveiled-93CH-4968105",
-    "AI|https://www.investing.com/news/company-news/bansal-wire-q2-fy27-slides-record-ebitda-specialty-push-gains-traction-93CH-4968115",
-    "AI|https://www.investing.com/news/company-news/adani-energy-q2-fy27-slides-strong-growth-amid-execution-delays-93CH-4968119",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-karnell-group-posts-record-q3-2026-profit-growth-93CH-4968120",
     "Cybersecurity|https://www.investing.com/news/company-news/rallis-india-q2-fy27-slides-show-resilience-amid-monsoon-challenges-93CH-4968121",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/sca-reports-3-earnings-beat-driven-by-pulp-division-93CH-4968122",
     "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-hpcl-posts-sharp-q2-turnaround-as-shares-fall-33-93CH-4968123",
@@ -5000,7 +4992,15 @@
     "AI|a65574a7-def9-3a73-bd3b-4f0a5e18937b",
     "Watchlist|a65574a7-def9-3a73-bd3b-4f0a5e18937b",
     "Crypto|f6485422-3328-3a8d-a0c8-db54279a8945",
-    "AI|ec5715d9-7b46-3f4a-ba47-b0c1ec08e0b1"
+    "AI|ec5715d9-7b46-3f4a-ba47-b0c1ec08e0b1",
+    "AI|https://www.investing.com/news/stock-market-news/australias-nextdc-ceo-to-forgo-fiscal-2027-bonuses-after-forecast-cut-project-delay-4971278",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/australias-nextdc-ceo-to-forgo-fiscal-2027-bonuses-after-forecast-cut-project-delay-4971278",
+    "SG Banks|https://www.investing.com/news/stock-market-news/australias-nextdc-ceo-to-forgo-fiscal-2027-bonuses-after-forecast-cut-project-delay-4971278",
+    "Watchlist|https://www.investing.com/news/stock-market-news/australias-nextdc-ceo-to-forgo-fiscal-2027-bonuses-after-forecast-cut-project-delay-4971278",
+    "SG Banks|/companies-markets/transport-logistics/byds-south-korea-expansion-challenges-hyundai-dominance-home-turf",
+    "SG Banks|https://www.channelnewsasia.com/business/musk-says-spacex-raised-40-billion-in-debt-deal-predicts-neocloud-shakeout-6491471",
+    "Watchlist|/companies-markets/transport-logistics/byds-south-korea-expansion-challenges-hyundai-dominance-home-turf",
+    "SG Banks|https://www.channelnewsasia.com/business/anthropics-claude-accessed-public-us-state-georgia-voter-information-axios-reports-6491646"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792968117.0866504
+  "last_check": 1792969039.668714
 }
