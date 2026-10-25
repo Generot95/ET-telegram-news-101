@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/company-news/geopark-receives-2668m-in-tenders-for-2030-senior-notes-93CH-4967829",
-    "Watchlist|https://www.investing.com/news/stock-market-news/sk-hynix-scraps-solidigm-ipo-plans-citing-market-conditions-4967830",
-    "SG Banks|https://www.channelnewsasia.com/business/japan-core-inflation-exceeds-boj-target-cements-near-term-rate-hike-chance-6484616",
     "AI|c8eb4734-e706-3f29-acfb-d861af2106d3",
     "Watchlist|c8eb4734-e706-3f29-acfb-d861af2106d3",
     "War|543d1e7c-5cdc-350a-873c-1be582aa20b5",
@@ -5000,7 +4997,10 @@
     "SG Banks|https://www.investing.com/news/economy-news/yemens-houthis-renew-threat-against-riyadh-airport-as-flights-set-to-resume-4971006",
     "Watchlist|https://www.investing.com/news/stock-market-news/sydneys-new-international-airport-opens-to-passengers-4971003",
     "Watchlist|https://www.investing.com/news/insider-trading-news/japan-post-holdings-sells-137m-in-aflac-stock-93CH-4971004",
-    "Watchlist|https://www.investing.com/news/economy-news/yemens-houthis-renew-threat-against-riyadh-airport-as-flights-set-to-resume-4971006"
+    "Watchlist|https://www.investing.com/news/economy-news/yemens-houthis-renew-threat-against-riyadh-airport-as-flights-set-to-resume-4971006",
+    "Crypto|f7c98449-25f5-39f9-89a2-11213ee4740e",
+    "SG Banks|/international/sydneys-new-international-airport-opens-passengers",
+    "Watchlist|/international/sydneys-new-international-airport-opens-passengers"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792889371.509301
+  "last_check": 1792890278.2823472
 }
