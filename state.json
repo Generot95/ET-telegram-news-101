@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|/companies-markets/capitaland-china-trusts-q3-npi-down-5-1-259-6-million-yuan",
-    "Watchlist|/companies-markets/capitaland-china-trusts-q3-npi-down-5-1-259-6-million-yuan",
-    "SG Banks|https://www.channelnewsasia.com/business/japan-manufacturing-growth-slows-7-month-low-in-october-pmi-shows-6484751",
-    "Crypto|f53f1430-3bc8-3fe6-9c5d-0e1ff9a260f9",
-    "SG Banks|/companies-markets/capitaland-china-trusts-q3-npi-down-5-1-us38-9-million",
-    "Watchlist|/companies-markets/capitaland-china-trusts-q3-npi-down-5-1-us38-9-million",
-    "AI|11e70efb-c126-340f-8b04-bdbe6f1ec1a5",
     "AI|https://www.investing.com/news/insider-trading-news/penguin-solutions-svp-kuykendall-sells-40649-in-shares-93CH-4967873",
     "AI|https://www.investing.com/news/insider-trading-news/innsuites-hospitality-trust-ceo-sells-201-billion-in-shares-93CH-4967874",
     "Crypto|a761aa4a-aadb-3322-a292-bc319676b15d",
@@ -5000,7 +4993,14 @@
     "AI|a3fff977-37a4-3281-a4c8-f5d32ccbb071",
     "Watchlist|a3fff977-37a4-3281-a4c8-f5d32ccbb071",
     "AI|ef75d6d1-0a54-3b40-90f9-79e50d23cd34",
-    "Watchlist|ef75d6d1-0a54-3b40-90f9-79e50d23cd34"
+    "Watchlist|ef75d6d1-0a54-3b40-90f9-79e50d23cd34",
+    "AI|760438ab-2314-39b5-9bbb-b4d5d1659185",
+    "Watchlist|760438ab-2314-39b5-9bbb-b4d5d1659185",
+    "AI|https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-btc-recovers-to-80800-ahead-of-fed-meeting-4971035",
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-btc-recovers-to-80800-ahead-of-fed-meeting-4971035",
+    "Cybersecurity|https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-btc-recovers-to-80800-ahead-of-fed-meeting-4971035",
+    "SG Banks|https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-btc-recovers-to-80800-ahead-of-fed-meeting-4971035",
+    "Watchlist|https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-btc-recovers-to-80800-ahead-of-fed-meeting-4971035"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792904037.1783962
+  "last_check": 1792904947.2194376
 }
