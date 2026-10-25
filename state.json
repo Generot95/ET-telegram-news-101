@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-002-4968037",
-    "Cybersecurity|https://www.investing.com/news/earnings/holcim-raises-2026-earnings-outlook-after-strong-q3-sales-4968038",
-    "Cybersecurity|https://www.investing.com/news/earnings/sgs-beats-q3-revenue-estimates-with-record-sales-growth-4968039",
-    "Cybersecurity|https://www.investing.com/news/earnings/hydro-q3-adjusted-core-earnings-rise-52-but-miss-forecasts-on-weak-cash-flow-4968040",
-    "SG Banks|https://www.investing.com/news/earnings/volvo-cars-posts-q3-loss-of-37-billion-crowns-to-cut-2500-jobs-4968035",
-    "SG Banks|https://www.investing.com/news/stock-market-news/hacking-attempts-surge-as-companies-governments-rush-to-patch-php-flaws-4968036",
-    "SG Banks|https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-002-4968037",
     "SG Banks|https://www.investing.com/news/earnings/holcim-raises-2026-earnings-outlook-after-strong-q3-sales-4968038",
     "SG Banks|https://www.investing.com/news/earnings/sgs-beats-q3-revenue-estimates-with-record-sales-growth-4968039",
     "SG Banks|https://www.investing.com/news/earnings/hydro-q3-adjusted-core-earnings-rise-52-but-miss-forecasts-on-weak-cash-flow-4968040",
@@ -5000,7 +4993,14 @@
     "Crypto|256fe7c8-1cc9-3e7d-82f0-ebb30977e9e1",
     "AI|4a0baf8d-610a-3997-98c4-02c4962c6225",
     "AI|e68aa6a8-5fa3-3e70-a8f1-113d37be07ff",
-    "Watchlist|e68aa6a8-5fa3-3e70-a8f1-113d37be07ff"
+    "Watchlist|e68aa6a8-5fa3-3e70-a8f1-113d37be07ff",
+    "Crypto|9e5fc351-33dd-32a2-9e6d-487821e639f4",
+    "Crypto|3d305e1e-3369-36d0-8344-1b09bb88a430",
+    "AI|4dad88c8-2918-3000-a9da-80c949f7a632",
+    "Watchlist|4dad88c8-2918-3000-a9da-80c949f7a632",
+    "War|WP-MKTW-0005293866",
+    "AI|WP-MKTW-0005293866",
+    "Cybersecurity|WP-MKTW-0005293866"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792946164.2923605
+  "last_check": 1792947073.0788965
 }
