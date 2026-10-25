@@ -1,25 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/why-is-eni-stock-surging-today-93CH-4968167",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-tomra-systems-stock-surging-today-93CH-4968172",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-munters-stock-surging-today-93CH-4968173",
-    "AI|https://www.investing.com/news/company-news/tomra-q3-2026-slides-55-ebita-growth-ahead-of-uk-market-launch-93CH-4968143",
-    "AI|https://www.investing.com/news/company-news/karnell-q3-2026-slides-record-profit-206-margin-beats-target-93CH-4968145",
-    "AI|https://www.investing.com/news/company-news/hpcl-oct-2026-slides-capacity-expansion-plans-amid-h1-fy27-loss-93CH-4968151",
-    "AI|https://www.investing.com/news/company-news/groupe-adp-9m-2026-slides-international-growth-offsets-paris-weakness-93CH-4968154",
-    "AI|https://www.investing.com/news/company-news/planisware-q3-2026-slides-recurring-revenue-hits-90-as-ai-launch-nears-93CH-4968156",
-    "AI|https://www.investing.com/news/company-news/bjorn-borg-q3-2026-slides-record-profit-masks-growth-challenge-93CH-4968169",
-    "AI|https://www.investing.com/news/company-news/volvo-cars-q3-2026-slides-show-sek-37bn-loss-2500-job-cuts-93CH-4968174",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-82k-as-tech-rout-rising-oil-dent-risk-4968158",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-hana-financial-group-posts-steady-q3-2026-profit-shares-fall-3-93CH-4968175",
-    "Cybersecurity|https://www.investing.com/news/company-news/bluestone-q2-fy27-slides-revenue-surges-44-as-shares-decline-93CH-4968176",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-kering-stock-plunging-today-93CH-4968177",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/bofa-names-top-eu-airline-stocks-ahead-of-earnings-season-4968178",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-loreal-stock-surging-today-93CH-4968179",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-crest-nicholson-stock-falling-today-93CH-4968180",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/musks-public-endorsement-of-spacextesla-deal-may-throw-a-wrench-in-talks-4968181",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/kering-shares-drop-11-as-gucci-sales-slide-4968182",
     "Cybersecurity|https://www.investing.com/news/economic-indicators/french-business-activity-contracts-in-october-amid-political-financial-pressures-pmi-shows-4968183",
     "Cybersecurity|https://www.investing.com/news/company-news/tomra-q3-2026-slides-55-ebita-growth-ahead-of-uk-market-launch-93CH-4968143",
     "Cybersecurity|https://www.investing.com/news/company-news/karnell-q3-2026-slides-record-profit-206-margin-beats-target-93CH-4968145",
@@ -5000,7 +4981,26 @@
     "SG Banks|https://www.channelnewsasia.com/business/oil-prices-down-almost-1-in-early-trading-6491701",
     "SG Banks|/companies-markets/energy-commodities/gold-falls-july-low-inflation-concerns-weigh-fed-meeting",
     "Watchlist|/companies-markets/energy-commodities/gold-falls-july-low-inflation-concerns-weigh-fed-meeting",
-    "Watchlist|f0f77754-fe69-3930-a0b8-8667fe287425"
+    "Watchlist|f0f77754-fe69-3930-a0b8-8667fe287425",
+    "Iran|https://www.iranintl.com/en/202610250633",
+    "War|https://www.investing.com/news/commodities-news/oil-prices-down-almost-1-in-early-trading-4971306",
+    "AI|https://www.investing.com/news/company-news/mach7-q1-fy27-slides-cash-flow-positive-flamingo-launch-ahead-93CH-4971304",
+    "AI|https://www.investing.com/news/analyst-ratings/stifel-raises-oric-pharmaceuticals-price-target-to-18-on-esmo-data-93CH-4971305",
+    "AI|https://www.investing.com/news/commodities-news/oil-prices-down-almost-1-in-early-trading-4971306",
+    "AI|https://www.investing.com/news/stock-market-news/apple-seeks-more-iphone-duo-supplies-amid-strong-demand-for-debut-foldable-report-4971307",
+    "Cybersecurity|https://www.investing.com/news/company-news/mach7-q1-fy27-slides-cash-flow-positive-flamingo-launch-ahead-93CH-4971304",
+    "Cybersecurity|https://www.investing.com/news/analyst-ratings/stifel-raises-oric-pharmaceuticals-price-target-to-18-on-esmo-data-93CH-4971305",
+    "Cybersecurity|https://www.investing.com/news/commodities-news/oil-prices-down-almost-1-in-early-trading-4971306",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/apple-seeks-more-iphone-duo-supplies-amid-strong-demand-for-debut-foldable-report-4971307",
+    "SG Banks|https://www.investing.com/news/company-news/mach7-q1-fy27-slides-cash-flow-positive-flamingo-launch-ahead-93CH-4971304",
+    "SG Banks|https://www.investing.com/news/analyst-ratings/stifel-raises-oric-pharmaceuticals-price-target-to-18-on-esmo-data-93CH-4971305",
+    "SG Banks|https://www.investing.com/news/commodities-news/oil-prices-down-almost-1-in-early-trading-4971306",
+    "SG Banks|https://www.investing.com/news/stock-market-news/apple-seeks-more-iphone-duo-supplies-amid-strong-demand-for-debut-foldable-report-4971307",
+    "Watchlist|https://www.investing.com/news/company-news/mach7-q1-fy27-slides-cash-flow-positive-flamingo-launch-ahead-93CH-4971304",
+    "Watchlist|https://www.investing.com/news/analyst-ratings/stifel-raises-oric-pharmaceuticals-price-target-to-18-on-esmo-data-93CH-4971305",
+    "Watchlist|https://www.investing.com/news/commodities-news/oil-prices-down-almost-1-in-early-trading-4971306",
+    "Watchlist|https://www.investing.com/news/stock-market-news/apple-seeks-more-iphone-duo-supplies-amid-strong-demand-for-debut-foldable-report-4971307",
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-82k-as-tech-rout-rising-oil-dent-risk-4968158"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792971787.2885401
+  "last_check": 1792972719.38979
 }
