@@ -1,20 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/rapport-therapeutics-director-paul-m-buys-974k-in-shares-93CH-4967884",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/rapport-therapeutics-director-paul-silva-buys-99636-in-stock-93CH-4967892",
-    "Cybersecurity|https://www.investing.com/news/economic-indicators/japan-factory-activity-slows-in-oct-services-improve-pmi-shows-4967893",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-declining-today-93CH-4967897",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-sliding-today-93CH-4967898",
-    "SG Banks|4c32b0d1-a277-3900-80a8-7026ea0771af",
-    "SG Banks|c5031fde-fef4-3b79-aa30-05302dc64235",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/rapport-therapeutics-director-wendy-young-buys-99991-in-shares-93CH-4967886",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/buckle-svp-stores-scott-werth-sells-116870-in-common-stock-93CH-4967885",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/rapport-therapeutics-director-paul-m-buys-974k-in-shares-93CH-4967884",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/rapport-therapeutics-director-paul-silva-buys-99636-in-stock-93CH-4967892",
-    "SG Banks|https://www.investing.com/news/economic-indicators/japan-factory-activity-slows-in-oct-services-improve-pmi-shows-4967893",
-    "SG Banks|https://www.investing.com/news/company-news/ikegps-h1-fy27-slides-subscription-revenue-up-22-arr-growth-expected-93CH-4967894",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-declining-today-93CH-4967897",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-sliding-today-93CH-4967898",
     "SG Banks|https://www.investing.com/news/company-news/zai-lab-raises-250-million-in-private-placement-financing-93CH-4967899",
     "Watchlist|4c32b0d1-a277-3900-80a8-7026ea0771af",
@@ -5000,7 +4986,21 @@
     "SG Banks|https://www.investing.com/news/world-news/north-koreas-kim-jong-un-returns-from-china-after-war-memorial-visit-state-media-says-4971045",
     "Watchlist|https://www.investing.com/news/world-news/at-least-12-injured-in-a-shooting-in-tallahassee-florida-4971034",
     "Watchlist|https://www.investing.com/news/world-news/north-koreas-kim-jong-un-returns-from-china-after-war-memorial-visit-state-media-says-4971045",
-    "Crypto|7ece7e71-4ab8-30ae-83a7-3bb364581dd8"
+    "Crypto|7ece7e71-4ab8-30ae-83a7-3bb364581dd8",
+    "AI|https://www.investing.com/news/economy-news/uk-immigration-crackdown-threatens-15-billion-care-sector--bloomberg-4971064",
+    "Cybersecurity|https://www.investing.com/news/economy-news/uk-immigration-crackdown-threatens-15-billion-care-sector--bloomberg-4971064",
+    "SG Banks|https://www.investing.com/news/economy-news/uk-immigration-crackdown-threatens-15-billion-care-sector--bloomberg-4971064",
+    "Watchlist|https://www.investing.com/news/economy-news/uk-immigration-crackdown-threatens-15-billion-care-sector--bloomberg-4971064",
+    "AI|a335dcfa-5e23-3841-8115-e2f5b92692ea",
+    "AI|a7568a13-ffbd-3893-8c11-d887a90a6171",
+    "Watchlist|a335dcfa-5e23-3841-8115-e2f5b92692ea",
+    "Watchlist|a7568a13-ffbd-3893-8c11-d887a90a6171",
+    "AI|a895f061-920e-3391-844e-a88eea4b46f6",
+    "AI|cfe2c2c7-4cf1-3fad-bb17-36d26882e2a4",
+    "SG Banks|4c32b0d1-a277-3900-80a8-7026ea0771af",
+    "SG Banks|c5031fde-fef4-3b79-aa30-05302dc64235",
+    "Watchlist|a895f061-920e-3391-844e-a88eea4b46f6",
+    "Watchlist|cfe2c2c7-4cf1-3fad-bb17-36d26882e2a4"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792913197.352596
+  "last_check": 1792914104.1087642
 }
