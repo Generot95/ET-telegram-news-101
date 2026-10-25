@@ -1,17 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/commodities-news/gold-hits-3mth-low-as-oil-rally-fuels-rate-concerns-set-for-weekly-drop-4967928",
-    "SG Banks|https://www.investing.com/news/economy-news/asian-shares-wobble-as-tech-rout-boosts-bonds-dents-rate-hike-bets-4967929",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/jabil-svp-gary-schick-sells-277160-in-shares-93CH-4967937",
-    "SG Banks|https://www.investing.com/news/stock-market-news/hang-seng-rejected-at-241075-with-bear-flag-forming-live-93CH-4956207",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/chime-cofounder-ryan-king-sells-351162-in-company-stock-93CH-4967923",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/plexus-ceo-todd-kelsey-sells-358747-in-company-stock-93CH-4967922",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/united-therapeutics-ceo-rothblatt-sells-53m-in-uthr-stock-93CH-4967924",
-    "Watchlist|https://www.investing.com/news/commodities-news/gold-hits-3mth-low-as-oil-rally-fuels-rate-concerns-set-for-weekly-drop-4967928",
-    "Watchlist|https://www.investing.com/news/economy-news/asian-shares-wobble-as-tech-rout-boosts-bonds-dents-rate-hike-bets-4967929",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/jabil-svp-gary-schick-sells-277160-in-shares-93CH-4967937",
-    "Watchlist|https://www.investing.com/news/stock-market-news/hang-seng-rejected-at-241075-with-bear-flag-forming-live-93CH-4956207",
     "SG Banks|/companies-markets/reits-property/capitaland-malaysia-trusts-q3-dpu-21-6-rm0-0135-industrial-logistics",
     "SG Banks|https://www.straitstimes.com/business/germanys-sap-hits-14-3-billion-quarterly-revenue-milestone-lifts-2026-view",
     "Watchlist|/companies-markets/reits-property/capitaland-malaysia-trusts-q3-dpu-21-6-rm0-0135-industrial-logistics",
@@ -5000,7 +4989,18 @@
     "SG Banks|https://www.investing.com/news/company-news/brookfield-to-open-qatar-office-as-it-expands-middle-east-operations-4971088",
     "SG Banks|https://www.investing.com/news/insider-trading-news/dlh-holdings-director-mink-brook-asset-management-buys-208-stock-93CH-4971095",
     "Watchlist|https://www.investing.com/news/company-news/brookfield-to-open-qatar-office-as-it-expands-middle-east-operations-4971088",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/dlh-holdings-director-mink-brook-asset-management-buys-208-stock-93CH-4971095"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/dlh-holdings-director-mink-brook-asset-management-buys-208-stock-93CH-4971095",
+    "AI|d2a08da9-29e9-32f3-8f90-a51636a78855",
+    "AI|e9ce5a84-9354-317e-9276-46f46fc2690a",
+    "Watchlist|d2a08da9-29e9-32f3-8f90-a51636a78855",
+    "Watchlist|e9ce5a84-9354-317e-9276-46f46fc2690a",
+    "Iran|https://www.iranintl.com/en/202610252275",
+    "AI|a5dd05b8-708b-4277-83ec-a7d016f32c00",
+    "Crypto|726acf3b-bf68-3087-b2e2-278434cea83d",
+    "AI|922078ee-ece9-3e52-9ccc-961a3e147c49",
+    "Watchlist|922078ee-ece9-3e52-9ccc-961a3e147c49",
+    "AI|5e8c01ba-ce91-3573-9c4e-509c3d9e6a30",
+    "Watchlist|5e8c01ba-ce91-3573-9c4e-509c3d9e6a30"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792922327.983936
+  "last_check": 1792923235.4957044
 }
