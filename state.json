@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/grupo-bimbo-q3-2026-slides-margin-expansion-drives-guidance-raise-93CH-4967819",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/lindblad-expeditions-director-svenolof-lindblad-sells-86m-shares-93CH-4967803",
-    "SG Banks|https://www.investing.com/news/stock-market-news/spacex-seeks-access-to-80000-us-cell-sites-for-wireless-network-bloomberg-news-reports-4967805",
     "SG Banks|https://www.investing.com/news/stock-market-news/mexicos-bimbo-lifts-lower-end-of-fullyearebitda-outlook-4967806",
     "SG Banks|https://www.investing.com/news/company-news/kenorland-minerals-announces-private-placement-for-up-to-c11m-93CH-4967807",
     "SG Banks|https://www.investing.com/news/company-news/black-hills-and-northwestern-energy-reveal-merger-name-93CH-4967811",
@@ -5000,10 +4997,13 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/abuse-survivors-approve-800-million-settlement-with-archdiocese-of-new-york-4971001",
     "SG Banks|/companies-markets/capital-markets-currencies/nasdaq-leads-wall-street-gains-spacex-super-micro-boost-ai-sentiment",
     "Watchlist|/companies-markets/capital-markets-currencies/nasdaq-leads-wall-street-gains-spacex-super-micro-boost-ai-sentiment",
-    "AI|96a79f45-0571-37ea-8805-d40e60ce35f8"
+    "AI|96a79f45-0571-37ea-8805-d40e60ce35f8",
+    "Watchlist|96a79f45-0571-37ea-8805-d40e60ce35f8",
+    "AI|5c50d3d6-cca1-3453-8a04-ae04c6514e93",
+    "Watchlist|5c50d3d6-cca1-3453-8a04-ae04c6514e93"
   ],
   "topic_error": "",
-  "last_digest": "2026-10-24",
+  "last_digest": "2026-10-25",
   "earnings": {
     "AMD": {
       "ts": 1793736000,
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792885690.9309597
+  "last_check": 1792886615.9618363
 }
