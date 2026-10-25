@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/innsuites-hospitality-trust-ceo-sells-201-billion-in-shares-93CH-4967874",
-    "SG Banks|/companies-markets/stocks-watch-seatrium-capitaland-investment-keppel-dc-reit-suntec-reit-clct-tsh-resources",
-    "SG Banks|https://www.channelnewsasia.com/business/sk-hynix-says-solidigm-suspends-review-us-ipo-citing-market-volatility-6484446",
     "SG Banks|https://www.channelnewsasia.com/business/microsoft-develops-ai-tool-can-diagnose-sequentially-doctor-6484766",
     "Watchlist|/companies-markets/stocks-watch-seatrium-capitaland-investment-keppel-dc-reit-suntec-reit-clct-tsh-resources",
     "SG Banks|/companies-markets/ibm-posts-5-sales-growth-tops-estimates-says-infrastructure-deals-came-back",
@@ -5000,7 +4997,10 @@
     "War|https://www.investing.com/news/world-news/at-least-12-injured-in-a-shooting-in-tallahassee-florida-4971034",
     "War|51ecb697-c173-3baa-a2d1-36b59a3f4c86",
     "War|ac88f491-4546-39b4-a9a1-7b9539e35ae1",
-    "Crypto|51ecb697-c173-3baa-a2d1-36b59a3f4c86"
+    "Crypto|51ecb697-c173-3baa-a2d1-36b59a3f4c86",
+    "AI|b9124f13-a83b-36bc-9ee3-70eaecb2d9e3",
+    "Watchlist|b9124f13-a83b-36bc-9ee3-70eaecb2d9e3",
+    "SG Banks|/companies-markets/stocks-watch-seatrium-capitaland-investment-keppel-dc-reit-suntec-reit-clct-tsh-resources"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792906778.3201694
+  "last_check": 1792907698.67604
 }
