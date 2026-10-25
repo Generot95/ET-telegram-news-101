@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/earnings/hilltop-earnings-missed-by-020-revenue-fell-short-of-estimates-4967853",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/sofi-evp-kelli-keough-sells-150214-of-sofi-shares-93CH-4967860",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/xai-floating-rate-vp-john-spence-buys-34140-in-stock-93CH-4967861",
-    "Cybersecurity|https://www.investing.com/news/earnings/1st-source-earnings-beat-by-020-revenue-topped-estimates-4967862",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-posts-worst-day-since-june-4967865",
-    "SG Banks|https://www.investing.com/news/earnings/banco-bradesco-adr-earnings-missed-revenue-topped-estimates-4967849",
-    "SG Banks|https://www.investing.com/news/company-news/cathie-woods-ark-buys-meta-stock-sells-teradyne-and-palantir-93CH-4967850",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-whitehaven-coal-posts-strong-q1-2026-output-as-shares-slip-93CH-4967851",
     "SG Banks|https://www.investing.com/news/economy-news/japan-is-not-yet-officially-out-of-deflation-economy-minister-says-4967852",
     "SG Banks|https://www.investing.com/news/earnings/hilltop-earnings-missed-by-020-revenue-fell-short-of-estimates-4967853",
     "SG Banks|https://www.investing.com/news/insider-trading-news/sofi-evp-kelli-keough-sells-150214-of-sofi-shares-93CH-4967860",
@@ -5000,7 +4992,15 @@
     "Watchlist|/companies-markets/reits-property/keppel-dc-reit-9m-dpu-11-7-s0-08571-organic-growth-acquisitions",
     "AI|b90191c7-8126-35c5-836b-55b1fb0b28d5",
     "Watchlist|b90191c7-8126-35c5-836b-55b1fb0b28d5",
-    "Watchlist|f46e35c7-7818-3a7f-95d2-4cfd05c4581a"
+    "Watchlist|f46e35c7-7818-3a7f-95d2-4cfd05c4581a",
+    "AI|https://www.investing.com/news/world-news/serbia-votes-as-students-seek-to-unseatvucic-in-snap-election-4971009",
+    "Cybersecurity|https://www.investing.com/news/world-news/serbia-votes-as-students-seek-to-unseatvucic-in-snap-election-4971009",
+    "SG Banks|https://www.investing.com/news/world-news/serbia-votes-as-students-seek-to-unseatvucic-in-snap-election-4971009",
+    "Watchlist|https://www.investing.com/news/world-news/serbia-votes-as-students-seek-to-unseatvucic-in-snap-election-4971009",
+    "SG Banks|/companies-markets/energy-commodities/singapore-yards-chase-profit-europes-offshore-wind-push",
+    "Watchlist|/companies-markets/energy-commodities/singapore-yards-chase-profit-europes-offshore-wind-push",
+    "AI|44394856-1d91-3f0e-85bb-19a999d6001b",
+    "Watchlist|44394856-1d91-3f0e-85bb-19a999d6001b"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792898535.580012
+  "last_check": 1792899449.4033751
 }
