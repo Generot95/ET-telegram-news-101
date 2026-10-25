@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/earnings/1st-source-earnings-beat-by-020-revenue-topped-estimates-4967862",
-    "Watchlist|https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-posts-worst-day-since-june-4967865",
-    "Iran|https://www.iranintl.com/en/202610192000",
     "Iran|https://www.iranintl.com/en/202610212800",
     "SG Banks|/companies-markets/meta-boosts-bet-ai-spending-outlook-new-stock-class-q3-results-beat-estimates",
     "Watchlist|/companies-markets/meta-boosts-bet-ai-spending-outlook-new-stock-class-q3-results-beat-estimates",
@@ -5000,7 +4997,10 @@
     "SG Banks|https://www.investing.com/news/economy-news/trump-touts-4-billion-audi-plant-in-georgia-as-he-defends-tariffs-4971027",
     "SG Banks|https://www.investing.com/news/economic-indicators/portuguese-police-clear-lisbon-housing-protest-camp-make-arrests-4971028",
     "Watchlist|https://www.investing.com/news/economy-news/trump-touts-4-billion-audi-plant-in-georgia-as-he-defends-tariffs-4971027",
-    "Watchlist|https://www.investing.com/news/economic-indicators/portuguese-police-clear-lisbon-housing-protest-camp-make-arrests-4971028"
+    "Watchlist|https://www.investing.com/news/economic-indicators/portuguese-police-clear-lisbon-housing-protest-camp-make-arrests-4971028",
+    "SG Banks|/companies-markets/chairmen-lead-insider-buying-earnings-season-begins",
+    "Watchlist|/companies-markets/chairmen-lead-insider-buying-earnings-season-begins",
+    "SG Banks|https://www.straitstimes.com/business/yen-surges-as-investors-flee-to-safe-havens-sgx-chief-to-step-down-in-2027"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792900364.2322848
+  "last_check": 1792901294.2955828
 }
