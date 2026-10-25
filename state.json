@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/economy-news/morning-bid-wake-up-the-long-bonds-up-two-points-4968015",
-    "SG Banks|https://www.investing.com/news/stock-market-news/trump-touts-270-mln-bombardier-investment-after-threatening-us-sales-ban-4968016",
-    "Watchlist|https://www.investing.com/news/stock-market-news/ponyai-partners-with-indrive-nvidia-to-launch-robotaxis-in-kazakhstan-4968014",
-    "Watchlist|https://www.investing.com/news/economy-news/morning-bid-wake-up-the-long-bonds-up-two-points-4968015",
-    "Watchlist|https://www.investing.com/news/stock-market-news/trump-touts-270-mln-bombardier-investment-after-threatening-us-sales-ban-4968016",
-    "Iran|https://www.iranintl.com/en/202610206330",
     "Cybersecurity|WP-MKTW-0003055784",
     "SG Banks|/companies-markets/cgsi-cuts-genting-singapore-target-price-s0-63-hazy-tourism-outlook",
     "Watchlist|/companies-markets/cgsi-cuts-genting-singapore-target-price-s0-63-hazy-tourism-outlook",
@@ -5000,7 +4994,13 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/medpace-ceo-august-troendle-sells-159-million-in-stock-93CH-4971193",
     "Watchlist|https://www.investing.com/news/insider-trading-news/medpace-ceo-august-troendle-sells-159-million-in-stock-93CH-4971193",
     "AI|bec18f80-9b2c-3971-981f-a4ae76506de3",
-    "Watchlist|bec18f80-9b2c-3971-981f-a4ae76506de3"
+    "Watchlist|bec18f80-9b2c-3971-981f-a4ae76506de3",
+    "Crypto|d4d9d340-0233-35b1-a18c-88ab79e621ee",
+    "AI|2adc7a0a-d5c9-3f7e-9538-4d580abfcf96",
+    "Watchlist|2adc7a0a-d5c9-3f7e-9538-4d580abfcf96",
+    "War|WP-MKTW-0005304895",
+    "AI|WP-MKTW-0005304895",
+    "Cybersecurity|WP-MKTW-0005304895"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792936068.9885926
+  "last_check": 1792936993.1390893
 }
