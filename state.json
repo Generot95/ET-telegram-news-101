@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/insider-trading-news/penguin-solutions-svp-kuykendall-sells-40649-in-shares-93CH-4967873",
-    "AI|https://www.investing.com/news/insider-trading-news/innsuites-hospitality-trust-ceo-sells-201-billion-in-shares-93CH-4967874",
-    "Crypto|a761aa4a-aadb-3322-a292-bc319676b15d",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/penguin-solutions-svp-kuykendall-sells-40649-in-shares-93CH-4967873",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/innsuites-hospitality-trust-ceo-sells-201-billion-in-shares-93CH-4967874",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/penguin-solutions-svp-kuykendall-sells-40649-in-shares-93CH-4967873",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/innsuites-hospitality-trust-ceo-sells-201-billion-in-shares-93CH-4967874",
-    "Watchlist|11e70efb-c126-340f-8b04-bdbe6f1ec1a5",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/penguin-solutions-svp-kuykendall-sells-40649-in-shares-93CH-4967873",
     "Watchlist|https://www.investing.com/news/insider-trading-news/innsuites-hospitality-trust-ceo-sells-201-billion-in-shares-93CH-4967874",
     "SG Banks|/companies-markets/stocks-watch-seatrium-capitaland-investment-keppel-dc-reit-suntec-reit-clct-tsh-resources",
     "SG Banks|https://www.channelnewsasia.com/business/sk-hynix-says-solidigm-suspends-review-us-ipo-citing-market-volatility-6484446",
@@ -5000,7 +4991,16 @@
     "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-btc-recovers-to-80800-ahead-of-fed-meeting-4971035",
     "Cybersecurity|https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-btc-recovers-to-80800-ahead-of-fed-meeting-4971035",
     "SG Banks|https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-btc-recovers-to-80800-ahead-of-fed-meeting-4971035",
-    "Watchlist|https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-btc-recovers-to-80800-ahead-of-fed-meeting-4971035"
+    "Watchlist|https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-btc-recovers-to-80800-ahead-of-fed-meeting-4971035",
+    "War|https://www.investing.com/news/world-news/accuser-in-cornell-rape-allegations-can-stay-anonymous-judge-rules-4970882",
+    "War|https://www.investing.com/news/world-news/belgian-protesters-and-police-skirmish-at-antigovernment-demonstrations-in-brussels-4970881",
+    "War|https://www.investing.com/news/world-news/albanian-police-fire-tear-gas-as-antigovernment-student-protests-turn-violent-4970910",
+    "War|https://www.investing.com/news/world-news/lula-bolsonaro-rally-supporters-on-final-day-before-brazil-presidential-runoff-4970983",
+    "War|https://www.investing.com/news/world-news/serbia-votes-as-students-seek-to-unseatvucic-in-snap-election-4971009",
+    "War|https://www.investing.com/news/world-news/at-least-12-injured-in-a-shooting-in-tallahassee-florida-4971034",
+    "War|51ecb697-c173-3baa-a2d1-36b59a3f4c86",
+    "War|ac88f491-4546-39b4-a9a1-7b9539e35ae1",
+    "Crypto|51ecb697-c173-3baa-a2d1-36b59a3f4c86"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792905875.1627312
+  "last_check": 1792906778.3201694
 }
