@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/why-is-pony-ai-hk-stock-climbing-today-93CH-4968028",
-    "AI|https://www.investing.com/news/stock-market-news/trumpkim-meeting-seen-unlikely-this-year-by-us-officials-reuters-reports-93CH-4968029",
-    "AI|https://www.investing.com/news/stock-market-news/oppenheimer-names-top-smid-software-stocks-ahead-of-q3-earnings-4968030",
-    "AI|https://www.investing.com/news/stock-market-news/samsung-begins-investing-in-additional-capacity-at-texas-chip-plant-report-93CH-4968031",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/saba-capital-buys-30108-of-ellsworth-growth--income-fund-93CH-4968025",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-minimax-stock-rising-today-93CH-4968027",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-pony-ai-hk-stock-climbing-today-93CH-4968028",
@@ -5000,82 +4996,86 @@
     "SG Banks|/international/little-known-south-korean-shipowner-dominates-hormuz-transits-oil-flows-rebound",
     "Watchlist|/international/little-known-south-korean-shipowner-dominates-hormuz-transits-oil-flows-rebound",
     "AI|a6faf754-d10e-30ba-a95d-2f805d3aea64",
-    "Watchlist|a6faf754-d10e-30ba-a95d-2f805d3aea64"
+    "Watchlist|a6faf754-d10e-30ba-a95d-2f805d3aea64",
+    "AI|de56c4d3-a594-31e3-bc00-e2a5e1b1309d",
+    "AI|22f2cb4d-123e-33da-a314-beaecac5ee69",
+    "Watchlist|de56c4d3-a594-31e3-bc00-e2a5e1b1309d",
+    "Watchlist|22f2cb4d-123e-33da-a314-beaecac5ee69"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
   "earnings": {
     "AMD": {
       "ts": 1793736000,
-      "fetched": 1792854783.871813
+      "fetched": 1792941199.9907737
     },
     "NVDA": {
       "ts": 1794945600,
-      "fetched": 1792854783.871813
+      "fetched": 1792941199.9907737
     },
     "CRWD": {
       "ts": 1796155200,
-      "fetched": 1792854783.871813
+      "fetched": 1792941199.9907737
     },
     "MSFT": {
       "ts": 1793217600,
-      "fetched": 1792854783.871813
+      "fetched": 1792941199.9907737
     },
     "INTU": {
       "ts": 1795118400,
-      "fetched": 1792854783.871813
+      "fetched": 1792941199.9907737
     },
     "BRK-B": {
       "ts": 1794081600,
-      "fetched": 1792854783.871813
+      "fetched": 1792941199.9907737
     },
     "AMZN": {
       "ts": 1793304000,
-      "fetched": 1792854783.871813
+      "fetched": 1792941199.9907737
     },
     "GOOG": {
       "ts": 1793217600,
-      "fetched": 1792854783.871813
+      "fetched": 1792941199.9907737
     },
     "ZTS": {
       "ts": 1793881800,
-      "fetched": 1792854783.871813
+      "fetched": 1792941199.9907737
     },
     "LIN": {
       "ts": 1793277000,
-      "fetched": 1792854783.871813
+      "fetched": 1792941199.9907737
     },
     "VLO": {
       "ts": 1792672200,
-      "fetched": 1792854783.871813
+      "fetched": 1792941199.9907737
     },
     "D05.SI": {
       "ts": 1793869200,
-      "fetched": 1792854783.871813
+      "fetched": 1792941199.9907737
     },
     "O39.SI": {
       "ts": 1793955600,
-      "fetched": 1792854783.871813
+      "fetched": 1792941199.9907737
     },
     "U11.SI": {
       "ts": 1793782800,
-      "fetched": 1792854783.871813
+      "fetched": 1792941199.9907737
     },
     "A17U.SI": {
       "ts": 1785920400,
-      "fetched": 1792854783.871813
+      "fetched": 1792941199.9907737
     },
     "HMN.SI": {
       "ts": 1785229200,
-      "fetched": 1792854783.871813
+      "fetched": 1792941199.9907737
     },
     "JYEU.SI": {
       "ts": null,
-      "fetched": 1792854783.871813
+      "fetched": 1792941199.9907737
     }
   },
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792940649.7470841
+  "last_check": 1792941575.4299934
 }
