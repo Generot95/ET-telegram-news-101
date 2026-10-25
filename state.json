@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/earnings/safran-q3-revenue-in-line-unchanged-2026-targets-sit-below-consensus-4968047",
-    "Watchlist|https://www.investing.com/news/stock-market-news/volvo-cars-to-cut-2500-jobs-as-third-quarter-swings-to-loss-4968048",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-coils-at-81908-live-levels-93CH-4958174",
-    "SG Banks|/companies-markets/banking-finance/cimb-categorically-denies-it-will-privatise-indonesian-unit-niaga",
-    "SG Banks|/companies-markets/stocks-watch-singtel-wee-hur",
     "SG Banks|/companies-markets/energy-commodities/oil-set-weekly-gain-saudi-attacks-heighten-supply-risks",
     "SG Banks|https://www.straitstimes.com/business/flurry-of-activity-for-chinas-richest-ahead-of-offshore-wealth-tax-deadline",
     "Watchlist|/companies-markets/banking-finance/cimb-categorically-denies-it-will-privatise-indonesian-unit-niaga",
@@ -5000,7 +4995,12 @@
     "AI|f3ae81f6-2c34-3f69-ba64-9a6e46b3f0aa",
     "AI|c584e555-b65b-3472-b3a7-26b982a05f6f",
     "Watchlist|f3ae81f6-2c34-3f69-ba64-9a6e46b3f0aa",
-    "Watchlist|c584e555-b65b-3472-b3a7-26b982a05f6f"
+    "Watchlist|c584e555-b65b-3472-b3a7-26b982a05f6f",
+    "Iran|https://www.iranintl.com/en/202610257256",
+    "AI|ea6aa119-247f-38d8-a435-f398843b22d3",
+    "Watchlist|ea6aa119-247f-38d8-a435-f398843b22d3",
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-coils-at-81908-live-levels-93CH-4958174",
+    "SG Banks|/companies-markets/banking-finance/cimb-categorically-denies-it-will-privatise-indonesian-unit-niaga"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792951643.8271372
+  "last_check": 1792952561.7557666
 }
