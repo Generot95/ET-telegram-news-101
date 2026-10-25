@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/earnings/holcim-raises-2026-earnings-outlook-after-strong-q3-sales-4968038",
-    "Watchlist|https://www.investing.com/news/earnings/sgs-beats-q3-revenue-estimates-with-record-sales-growth-4968039",
-    "Watchlist|https://www.investing.com/news/earnings/hydro-q3-adjusted-core-earnings-rise-52-but-miss-forecasts-on-weak-cash-flow-4968040",
-    "SG Banks|/companies-markets/energy-commodities/gold-eases-investors-await-fed-signals-rate-path",
-    "SG Banks|https://www.straitstimes.com/business/deepseek-raises-us15-billion-in-challenge-to-leading-us-labs",
-    "Watchlist|/companies-markets/energy-commodities/gold-eases-investors-await-fed-signals-rate-path",
-    "SG Banks|/companies-markets/deepseek-raises-us15-billion-challenge-leading-us-labs",
-    "Watchlist|/companies-markets/deepseek-raises-us15-billion-challenge-leading-us-labs",
-    "SG Banks|https://www.channelnewsasia.com/business/south-korean-economys-growth-likely-picked-up-in-q3-chip-exports-reuters-poll-6485446",
-    "SG Banks|/companies-markets/ocbc-customers-report-difficulties-accessing-online-mobile-banking-services",
-    "Watchlist|/companies-markets/ocbc-customers-report-difficulties-accessing-online-mobile-banking-services",
-    "SG Banks|/companies-markets/ocbc-customers-face-difficulties-accessing-online-mobile-banking-services",
-    "Watchlist|/companies-markets/ocbc-customers-face-difficulties-accessing-online-mobile-banking-services",
     "AI|https://www.investing.com/news/economy-news/south-korean-economys-growth-likely-picked-up-in-q3-on-chip-exports-reuters-poll-4968041",
     "AI|https://www.investing.com/news/stock-market-news/nvidia-invests-in-ai-video-startup-higgsfield-bloomberg-4968042",
     "AI|https://www.investing.com/news/stock-market-news/gjensidige-forsikring-reports-strong-q3-profit-beat-93CH-4968045",
@@ -5000,7 +4987,20 @@
     "War|WP-MKTW-0005306373",
     "AI|WP-MKTW-0005306373",
     "Crypto|900b8e23-bc10-336c-b5a2-889d940a26ff",
-    "Cybersecurity|WP-MKTW-0005306373"
+    "Cybersecurity|WP-MKTW-0005306373",
+    "AI|ba1f837a-2b67-36a8-a208-35c300934a92",
+    "Watchlist|ba1f837a-2b67-36a8-a208-35c300934a92",
+    "War|9f40bd93-d388-37d6-b6c4-850190b3677d",
+    "Cybersecurity|98c7ddef-e995-32b0-9469-e307be4a21b5",
+    "AI|2694c977-0b42-3d31-bb17-e47e5d05f7d3",
+    "AI|98c7ddef-e995-32b0-9469-e307be4a21b5",
+    "SG Banks|/companies-markets/energy-commodities/gold-eases-investors-await-fed-signals-rate-path",
+    "Watchlist|2694c977-0b42-3d31-bb17-e47e5d05f7d3",
+    "Watchlist|98c7ddef-e995-32b0-9469-e307be4a21b5",
+    "SG Banks|/companies-markets/deepseek-raises-us15-billion-challenge-leading-us-labs",
+    "Watchlist|/companies-markets/energy-commodities/gold-eases-investors-await-fed-signals-rate-path",
+    "Watchlist|/companies-markets/deepseek-raises-us15-billion-challenge-leading-us-labs",
+    "AI|c43ca8be-a09a-338c-9370-6d54744bd2d5"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792947977.1016674
+  "last_check": 1792948900.3370728
 }
