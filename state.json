@@ -1,7 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/mexicos-bimbo-lifts-lower-end-of-fullyearebitda-outlook-4967806",
     "SG Banks|https://www.investing.com/news/company-news/kenorland-minerals-announces-private-placement-for-up-to-c11m-93CH-4967807",
     "SG Banks|https://www.investing.com/news/company-news/black-hills-and-northwestern-energy-reveal-merger-name-93CH-4967811",
     "SG Banks|https://www.investing.com/news/insider-trading-news/nippon-life-10-owner-buys-677-million-corebridge-financial-stock-93CH-4967817",
@@ -5000,7 +4999,8 @@
     "AI|96a79f45-0571-37ea-8805-d40e60ce35f8",
     "Watchlist|96a79f45-0571-37ea-8805-d40e60ce35f8",
     "AI|5c50d3d6-cca1-3453-8a04-ae04c6514e93",
-    "Watchlist|5c50d3d6-cca1-3453-8a04-ae04c6514e93"
+    "Watchlist|5c50d3d6-cca1-3453-8a04-ae04c6514e93",
+    "Iran|https://www.iranintl.com/en/202610242914"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792886615.9618363
+  "last_check": 1792887519.5355544
 }
