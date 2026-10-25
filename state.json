@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/arista-networks-president--cto-kenneth-duda-sells-78m-in-shares-93CH-4967838",
-    "Watchlist|https://www.investing.com/news/economic-indicators/japan-cpi-inflation-hits-9mth-high-in-sept-crosses-boj-target-4967840",
-    "Watchlist|https://www.investing.com/news/economy-news/japan-core-inflation-exceeds-boj-target-cements-nearterm-rate-hike-chance-4967842",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-alkane-resources-posts-steady-q1-2027-output-as-shares-fall-93CH-4967843",
     "SG Banks|https://www.channelnewsasia.com/business/japan-not-yet-officially-out-deflation-economy-minister-says-6484686",
     "SG Banks|b12d0e92-11ff-3cad-a80b-8107aad3cd8b",
     "SG Banks|https://www.straitstimes.com/business/companies-markets/treasuries-surge-as-worldwide-worries-spark-rush-to-safety",
@@ -5000,7 +4996,11 @@
     "SG Banks|/companies-markets/capital-markets-currencies/why-there-may-be-more-peril-us-markets-meets-eye",
     "Watchlist|/companies-markets/capital-markets-currencies/why-there-may-be-more-peril-us-markets-meets-eye",
     "SG Banks|/companies-markets/capital-markets-currencies/why-ai-boom-may-pose-more-peril-us-markets-meets-eye",
-    "Watchlist|/companies-markets/capital-markets-currencies/why-ai-boom-may-pose-more-peril-us-markets-meets-eye"
+    "Watchlist|/companies-markets/capital-markets-currencies/why-ai-boom-may-pose-more-peril-us-markets-meets-eye",
+    "AI|debd603f-ba7b-3ce0-957c-b74344288a06",
+    "AI|58cb4312-e235-3574-b4fe-112d8b0cb495",
+    "Watchlist|debd603f-ba7b-3ce0-957c-b74344288a06",
+    "Watchlist|58cb4312-e235-3574-b4fe-112d8b0cb495"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792895783.9944181
+  "last_check": 1792896701.0886059
 }
