@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|c8eb4734-e706-3f29-acfb-d861af2106d3",
-    "Watchlist|c8eb4734-e706-3f29-acfb-d861af2106d3",
     "War|543d1e7c-5cdc-350a-873c-1be582aa20b5",
     "AI|543d1e7c-5cdc-350a-873c-1be582aa20b5",
     "AI|https://www.investing.com/news/insider-trading-news/wayfair-cto-fiona-tan-sells-920000-in-company-stock-93CH-4967837",
@@ -5000,7 +4998,9 @@
     "Watchlist|https://www.investing.com/news/economy-news/yemens-houthis-renew-threat-against-riyadh-airport-as-flights-set-to-resume-4971006",
     "Crypto|f7c98449-25f5-39f9-89a2-11213ee4740e",
     "SG Banks|/international/sydneys-new-international-airport-opens-passengers",
-    "Watchlist|/international/sydneys-new-international-airport-opens-passengers"
+    "Watchlist|/international/sydneys-new-international-airport-opens-passengers",
+    "AI|a4601b4a-03ed-32fb-a27c-42486ae75d78",
+    "Watchlist|a4601b4a-03ed-32fb-a27c-42486ae75d78"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792890278.2823472
+  "last_check": 1792891200.5217447
 }
