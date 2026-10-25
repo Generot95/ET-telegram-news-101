@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|/companies-markets/dbs-favours-chinese-banks-flags-hsbc-long-term-buy",
-    "SG Banks|/opinion-features/teslas-flying-roadster-cold-rockets-mostly-hot-air",
-    "SG Banks|/lifestyle/health-wellness/investing-health-small-habits-lifetime-returns",
-    "SG Banks|https://www.straitstimes.com/business/meta-beats-expectations-but-legal-penalties-hit-profit-amid-ai-race",
-    "SG Banks|https://www.investing.com/news/stock-market-news/hd-hyundai-to-build-us-shipyard-with-kiewit-create-3000-jobs-4967906",
     "Watchlist|/opinion-features/teslas-flying-roadster-cold-rockets-mostly-hot-air",
     "Watchlist|/lifestyle/health-wellness/investing-health-small-habits-lifetime-returns",
     "Watchlist|/companies-markets/dbs-favours-chinese-banks-flags-hsbc-long-term-buy",
@@ -5000,7 +4995,12 @@
     "SG Banks|/companies-markets/reits-property/london-developer-halts-major-project-housing-viability-hits-crisis-point",
     "Watchlist|/companies-markets/reits-property/london-developer-halts-major-project-housing-viability-hits-crisis-point",
     "AI|8b5346d7-8d2b-3bfc-ad28-8e60a3a0d97b",
-    "Watchlist|8b5346d7-8d2b-3bfc-ad28-8e60a3a0d97b"
+    "Watchlist|8b5346d7-8d2b-3bfc-ad28-8e60a3a0d97b",
+    "SG Banks|/opinion-features/time-mas-sgx-scrutinise-issue-managers",
+    "Watchlist|/opinion-features/time-mas-sgx-scrutinise-issue-managers",
+    "SG Banks|/companies-markets/dbs-favours-chinese-banks-flags-hsbc-long-term-buy",
+    "SG Banks|/opinion-features/teslas-flying-roadster-cold-rockets-mostly-hot-air",
+    "SG Banks|/lifestyle/health-wellness/investing-health-small-habits-lifetime-returns"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792915919.7535367
+  "last_check": 1792916834.3986917
 }
