@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/gjensidige-forsikring-reports-strong-q3-profit-beat-93CH-4968045",
-    "AI|https://www.investing.com/news/earnings/safran-q3-revenue-in-line-unchanged-2026-targets-sit-below-consensus-4968047",
-    "AI|https://www.investing.com/news/stock-market-news/volvo-cars-to-cut-2500-jobs-as-third-quarter-swings-to-loss-4968048",
-    "Cybersecurity|https://www.investing.com/news/economy-news/south-korean-economys-growth-likely-picked-up-in-q3-on-chip-exports-reuters-poll-4968041",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/nvidia-invests-in-ai-video-startup-higgsfield-bloomberg-4968042",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/gjensidige-forsikring-reports-strong-q3-profit-beat-93CH-4968045",
-    "Cybersecurity|https://www.investing.com/news/earnings/safran-q3-revenue-in-line-unchanged-2026-targets-sit-below-consensus-4968047",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/volvo-cars-to-cut-2500-jobs-as-third-quarter-swings-to-loss-4968048",
     "SG Banks|https://www.investing.com/news/economy-news/south-korean-economys-growth-likely-picked-up-in-q3-on-chip-exports-reuters-poll-4968041",
     "SG Banks|https://www.investing.com/news/stock-market-news/nvidia-invests-in-ai-video-startup-higgsfield-bloomberg-4968042",
@@ -5000,7 +4993,14 @@
     "Watchlist|/companies-markets/deepseek-raises-us15-billion-challenge-leading-us-labs",
     "AI|c43ca8be-a09a-338c-9370-6d54744bd2d5",
     "AI|9b30debb-ee82-37e3-bdeb-da852ef4d96f",
-    "Watchlist|9b30debb-ee82-37e3-bdeb-da852ef4d96f"
+    "Watchlist|9b30debb-ee82-37e3-bdeb-da852ef4d96f",
+    "AI|8125033b-61c4-3112-9a86-bff6134f433b",
+    "AI|bcf7c99e-c22e-4a39-b76d-505b2f979bf9",
+    "Watchlist|bcf7c99e-c22e-4a39-b76d-505b2f979bf9",
+    "Crypto|0c9a4235-b2de-3421-95d2-8f9ed4073089",
+    "Crypto|49f77bca-590c-32bf-a7b9-d3f31877a96b",
+    "AI|2495efa9-6ba1-34bf-81f1-07e929fbc670",
+    "Watchlist|2495efa9-6ba1-34bf-81f1-07e929fbc670"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792949829.9745157
+  "last_check": 1792950726.8529992
 }
