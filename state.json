@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/cryptocurrency-news/exclusive-sygnum-rolls-out-multisyg-bitcoin-loans-as-btc-hits-80-of-collateral-4968017",
-    "SG Banks|https://www.straitstimes.com/business/no-direct-exposure-to-indonesia-fires-says-olam-group",
-    "SG Banks|https://www.straitstimes.com/business/companies-markets/long-john-silvers-to-close-woodlands-outlet-on-oct-31-following-at-least-5-closures-in-2026",
-    "SG Banks|/international/little-known-south-korean-shipowner-dominates-hormuz-transits-oil-flows-rebound",
-    "Watchlist|/international/little-known-south-korean-shipowner-dominates-hormuz-transits-oil-flows-rebound",
-    "SG Banks|https://www.straitstimes.com/business/economy/singapores-core-inflation-eases-to-2-in-september",
-    "War|4e3e8af9-e7b6-3e60-9be1-48b3cb979d9a",
-    "Watchlist|9e1c23fa-7ff6-3285-adcc-1723297180de",
-    "AI|https://www.investing.com/news/insider-trading-news/saba-capital-buys-30108-of-ellsworth-growth--income-fund-93CH-4968025",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-minimax-stock-rising-today-93CH-4968027",
     "AI|https://www.investing.com/news/stock-market-news/why-is-pony-ai-hk-stock-climbing-today-93CH-4968028",
     "AI|https://www.investing.com/news/stock-market-news/trumpkim-meeting-seen-unlikely-this-year-by-us-officials-reuters-reports-93CH-4968029",
     "AI|https://www.investing.com/news/stock-market-news/oppenheimer-names-top-smid-software-stocks-ahead-of-q3-earnings-4968030",
@@ -5000,7 +4990,17 @@
     "Watchlist|b1bc12d2-db1d-394a-be71-21939055400c",
     "War|cd1bae00-790c-43f5-a44b-70d6a0438c0a",
     "AI|2d493e61-5351-3163-a739-3e4003304bf3",
-    "Watchlist|2d493e61-5351-3163-a739-3e4003304bf3"
+    "Watchlist|2d493e61-5351-3163-a739-3e4003304bf3",
+    "Watchlist|48f5b6dd-73ae-3e27-8768-cc5279cc5c14",
+    "AI|fe57bd69-33aa-303c-a680-673df045598e",
+    "AI|78a17392-27ce-357b-b148-42ac96e795fb",
+    "AI|cd30c2be-505b-3a3f-b1db-0df77af17d86",
+    "Watchlist|cd30c2be-505b-3a3f-b1db-0df77af17d86",
+    "Watchlist|78a17392-27ce-357b-b148-42ac96e795fb",
+    "SG Banks|/international/little-known-south-korean-shipowner-dominates-hormuz-transits-oil-flows-rebound",
+    "Watchlist|/international/little-known-south-korean-shipowner-dominates-hormuz-transits-oil-flows-rebound",
+    "AI|a6faf754-d10e-30ba-a95d-2f805d3aea64",
+    "Watchlist|a6faf754-d10e-30ba-a95d-2f805d3aea64"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792939732.0978482
+  "last_check": 1792940649.7470841
 }
