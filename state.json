@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|/companies-markets/energy-commodities/keppel-energy-sembcorp-utilities-and-tuas-power-supply-biomethane-pilot-project",
-    "Watchlist|/companies-markets/energy-commodities/keppel-energy-sembcorp-utilities-and-tuas-power-supply-biomethane-pilot-project",
-    "SG Banks|/companies-markets/openai-shifts-value-us1-25-trillion-funding-talks-finalise",
-    "Watchlist|/companies-markets/openai-shifts-value-us1-25-trillion-funding-talks-finalise",
-    "War|https://www.investing.com/news/commodities-news/gold-hits-3mth-low-as-oil-rally-fuels-rate-concerns-set-for-weekly-drop-4967928",
-    "AI|https://www.investing.com/news/insider-trading-news/chime-cofounder-ryan-king-sells-351162-in-company-stock-93CH-4967923",
-    "AI|https://www.investing.com/news/insider-trading-news/plexus-ceo-todd-kelsey-sells-358747-in-company-stock-93CH-4967922",
-    "AI|https://www.investing.com/news/insider-trading-news/united-therapeutics-ceo-rothblatt-sells-53m-in-uthr-stock-93CH-4967924",
     "AI|https://www.investing.com/news/commodities-news/gold-hits-3mth-low-as-oil-rally-fuels-rate-concerns-set-for-weekly-drop-4967928",
     "AI|https://www.investing.com/news/economy-news/asian-shares-wobble-as-tech-rout-boosts-bonds-dents-rate-hike-bets-4967929",
     "AI|https://www.investing.com/news/insider-trading-news/jabil-svp-gary-schick-sells-277160-in-shares-93CH-4967937",
@@ -5000,7 +4992,15 @@
     "Watchlist|https://www.investing.com/news/commodities-news/saudi-arabia-intercepts-drones-and-missiles-as-fighting-with-yemens-houthis-continues-4971080",
     "SG Banks|/companies-markets/spacex-talks-access-80000-cell-sites-new-network",
     "Watchlist|/property/fct-nlb-turn-causeway-points-former-cinema-space-reading-hub-mall-revamp",
-    "Watchlist|/companies-markets/spacex-talks-access-80000-cell-sites-new-network"
+    "Watchlist|/companies-markets/spacex-talks-access-80000-cell-sites-new-network",
+    "AI|bf48cfc0-e2ee-386c-ba34-6995cf673307",
+    "Watchlist|bf48cfc0-e2ee-386c-ba34-6995cf673307",
+    "SG Banks|/companies-markets/energy-commodities/keppel-energy-sembcorp-utilities-and-tuas-power-supply-biomethane-pilot-project",
+    "Watchlist|/companies-markets/energy-commodities/keppel-energy-sembcorp-utilities-and-tuas-power-supply-biomethane-pilot-project",
+    "SG Banks|/companies-markets/openai-shifts-value-us1-25-trillion-funding-talks-finalise",
+    "Watchlist|/companies-markets/openai-shifts-value-us1-25-trillion-funding-talks-finalise",
+    "War|https://www.investing.com/news/commodities-news/gold-hits-3mth-low-as-oil-rally-fuels-rate-concerns-set-for-weekly-drop-4967928",
+    "AI|b5541bbb-16ca-335c-9a09-6aee7180770a"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792919584.4425027
+  "last_check": 1792920494.8745642
 }
