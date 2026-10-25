@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/bank-of-america-10-owner-sells-1045-in-bny-mellon-stock-93CH-4967974",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/cloudastructure-founder-sheldon-bentley-sells-3285-in-shares-93CH-4967975",
-    "War|https://www.investing.com/news/commodities-news/gold-falls-near-4115-as-saudi-attacks-fuel-inflation-fed-outlook-in-focus-4964496",
-    "AI|a3b02ee5-40b3-3cdd-ab83-6122e42e3db5",
-    "Watchlist|a3b02ee5-40b3-3cdd-ab83-6122e42e3db5",
-    "Watchlist|b28eb4a6-de54-3daf-a8d1-6571d14e8e15",
-    "Watchlist|a85674de-fd75-3512-93a6-b3a38c5c81e0",
-    "War|25087c45-335a-3812-9ef4-1da9cec37995",
-    "AI|d41402c9-118f-3d90-b115-bb0c064846b5",
     "Watchlist|d41402c9-118f-3d90-b115-bb0c064846b5",
     "AI|8f595e44-a2e8-3f4f-a63f-b0735a20cecd",
     "AI|https://www.investing.com/news/stock-market-news/34-25-21-3-stocks-the-smart-money-quietly-bought-in-october-4967978",
@@ -5000,7 +4991,16 @@
     "Iran|https://www.iranintl.com/en/202610253322",
     "AI|dccb4d28-9da4-3f68-9d46-f81973dbf61f",
     "Watchlist|dccb4d28-9da4-3f68-9d46-f81973dbf61f",
-    "Watchlist|41898aa1-b66d-3012-ba7b-edcfaf570ade"
+    "Watchlist|41898aa1-b66d-3012-ba7b-edcfaf570ade",
+    "SG Banks|/companies-markets/banking-finance/12000-jobs-risk-if-ubs-relocates-swiss-workers-association",
+    "Watchlist|/companies-markets/banking-finance/12000-jobs-risk-if-ubs-relocates-swiss-workers-association",
+    "War|WP-MKTW-0005305317",
+    "AI|WP-MKTW-0005305317",
+    "Cybersecurity|WP-MKTW-0005305317",
+    "AI|ef9535d2-35e3-3efd-b751-426c779ce650",
+    "Watchlist|ef9535d2-35e3-3efd-b751-426c779ce650",
+    "AI|872ea555-96df-3e01-afee-40b3aa117a5c",
+    "Watchlist|872ea555-96df-3e01-afee-40b3aa117a5c"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792927821.015588
+  "last_check": 1792928725.7836
 }
