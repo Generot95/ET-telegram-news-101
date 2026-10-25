@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-unchanged-4968067",
-    "Watchlist|https://www.investing.com/news/earnings/sodexo-beats-q4-growth-expectations-confirms-fy27-outlook-4968069",
-    "Watchlist|https://www.investing.com/news/earnings/atoss-raises-2026-margin-goal-on-ai-savings-q3-operating-profit-up-23-4968070",
-    "Watchlist|https://www.investing.com/news/stock-market-news/exclusiveheineken-document-reveals-worries-over-weightloss-drugs-and-beer-sales-4968071",
-    "SG Banks|https://www.channelnewsasia.com/business/greece-passes-social-media-ban-children-under-15-6485501",
-    "War|3669d281-e3de-3b0f-bc7f-3dd0da425b5e",
-    "AI|238d045d-d56c-367e-9390-05209159b4de",
-    "Crypto|238d045d-d56c-367e-9390-05209159b4de",
-    "Watchlist|238d045d-d56c-367e-9390-05209159b4de",
     "AI|d52579ca-e44a-34a0-a339-990e3d20657a",
     "AI|3f6b150f-edaa-3d1c-ab8b-482e2d083f59",
     "War|f7b08c30-fd52-347e-9734-ebb430e464af",
@@ -5000,7 +4991,16 @@
     "AI|3fbfca2b-f754-3965-aa87-136dc392b541",
     "AI|49f37fdb-9e02-3639-af71-30b7b8e4ab66",
     "Watchlist|3fbfca2b-f754-3965-aa87-136dc392b541",
-    "Watchlist|49f37fdb-9e02-3639-af71-30b7b8e4ab66"
+    "Watchlist|49f37fdb-9e02-3639-af71-30b7b8e4ab66",
+    "SG Banks|https://www.channelnewsasia.com/business/musk-says-spacex-raised-40-billion-in-debt-gpus-6491471",
+    "AI|d426fd9c-903a-356d-b409-f3ebb97a4818",
+    "AI|79ca8852-9a4e-30e9-8b4d-b64a53d71bcc",
+    "Watchlist|d426fd9c-903a-356d-b409-f3ebb97a4818",
+    "Watchlist|79ca8852-9a4e-30e9-8b4d-b64a53d71bcc",
+    "AI|https://www.investing.com/news/stock-market-news/musk-says-spacex-raised-40-billion-in-debt-for-gpus-4971248",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/musk-says-spacex-raised-40-billion-in-debt-for-gpus-4971248",
+    "SG Banks|https://www.investing.com/news/stock-market-news/musk-says-spacex-raised-40-billion-in-debt-for-gpus-4971248",
+    "Watchlist|https://www.investing.com/news/stock-market-news/musk-says-spacex-raised-40-billion-in-debt-for-gpus-4971248"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792958976.5710862
+  "last_check": 1792959888.683153
 }
