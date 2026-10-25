@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|https://www.investing.com/news/world-news/uk-southport-murder-suspect-due-to-go-on-trial-in-january-3720359",
-    "War|https://www.investing.com/news/world-news/argentina-appeals-court-confirms-guilty-verdict-for-former-president-cristina-kirchner-3720259",
-    "War|https://www.investing.com/news/world-news/israel-rejects-aid-groups-gaza-report-says-it-relies-on-partial-information-3720445",
-    "War|d74213ba-8d1c-371c-8756-7a013910fc4a",
-    "AI|92952ea2-322b-351f-9d14-c6df4710b829",
-    "Cybersecurity|bdf9417e-6d26-381d-bc13-3d4bbf3d0f50",
-    "Cybersecurity|7a93572e-6cc4-3aea-ba3e-ae0774906d1b",
     "SG Banks|https://www.straitstimes.com/business/sk-hynix-puts-us-ipo-of-chip-unit-solidigm-on-hold-after-seoul-authorities-raise-concerns",
     "Watchlist|92952ea2-322b-351f-9d14-c6df4710b829",
     "Watchlist|b3bee928-5755-380e-a727-ac60a7e12c59",
@@ -5000,7 +4993,14 @@
     "SG Banks|https://www.investing.com/news/company-news/arrivent-reports-phase-1-data-for-cancer-drug-arr217-93CH-4971187",
     "Watchlist|https://www.investing.com/news/economy-news/earnings-flood-fed-meeting-will-test-rickety-ai-market-rally-4971185",
     "Watchlist|https://www.investing.com/news/company-news/arrivent-reports-phase-1-data-for-cancer-drug-arr217-93CH-4971187",
-    "Iran|https://www.iranintl.com/en/202610211946"
+    "Iran|https://www.iranintl.com/en/202610211946",
+    "AI|36d65f28-1518-3f0d-a773-1326e71391da",
+    "Watchlist|36d65f28-1518-3f0d-a773-1326e71391da",
+    "AI|04b71f8e-03fc-3495-8158-8a5634ddd390",
+    "Watchlist|04b71f8e-03fc-3495-8158-8a5634ddd390",
+    "War|9fae646f-87a8-3009-ab95-7df8374d3eaf",
+    "War|a0659e58-16bd-4b48-a1f7-6af0774251e7",
+    "Crypto|9fae646f-87a8-3009-ab95-7df8374d3eaf"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792934251.2708583
+  "last_check": 1792935160.1943326
 }
