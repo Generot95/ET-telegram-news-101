@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/economy-news/japan-is-not-yet-officially-out-of-deflation-economy-minister-says-4967852",
-    "SG Banks|https://www.investing.com/news/earnings/hilltop-earnings-missed-by-020-revenue-fell-short-of-estimates-4967853",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/sofi-evp-kelli-keough-sells-150214-of-sofi-shares-93CH-4967860",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/xai-floating-rate-vp-john-spence-buys-34140-in-stock-93CH-4967861",
-    "SG Banks|https://www.investing.com/news/earnings/1st-source-earnings-beat-by-020-revenue-topped-estimates-4967862",
-    "SG Banks|https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-posts-worst-day-since-june-4967865",
-    "Watchlist|https://www.investing.com/news/earnings/banco-bradesco-adr-earnings-missed-revenue-topped-estimates-4967849",
-    "Watchlist|https://www.investing.com/news/company-news/cathie-woods-ark-buys-meta-stock-sells-teradyne-and-palantir-93CH-4967850",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-whitehaven-coal-posts-strong-q1-2026-output-as-shares-slip-93CH-4967851",
-    "Watchlist|https://www.investing.com/news/economy-news/japan-is-not-yet-officially-out-of-deflation-economy-minister-says-4967852",
-    "Watchlist|https://www.investing.com/news/earnings/hilltop-earnings-missed-by-020-revenue-fell-short-of-estimates-4967853",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/sofi-evp-kelli-keough-sells-150214-of-sofi-shares-93CH-4967860",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/xai-floating-rate-vp-john-spence-buys-34140-in-stock-93CH-4967861",
     "Watchlist|https://www.investing.com/news/earnings/1st-source-earnings-beat-by-020-revenue-topped-estimates-4967862",
     "Watchlist|https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-posts-worst-day-since-june-4967865",
     "Iran|https://www.iranintl.com/en/202610192000",
@@ -5000,7 +4987,20 @@
     "SG Banks|/companies-markets/energy-commodities/singapore-yards-chase-profit-europes-offshore-wind-push",
     "Watchlist|/companies-markets/energy-commodities/singapore-yards-chase-profit-europes-offshore-wind-push",
     "AI|44394856-1d91-3f0e-85bb-19a999d6001b",
-    "Watchlist|44394856-1d91-3f0e-85bb-19a999d6001b"
+    "Watchlist|44394856-1d91-3f0e-85bb-19a999d6001b",
+    "AI|d77374ca-4d3e-3b47-853b-61583b0ca9c2",
+    "Cybersecurity|4676292b-9fb0-3ec2-a319-71b2c0834c58",
+    "SG Banks|/companies-markets/energy-commodities/oil-rigs-offshore-wind-singapore-yards-chase-europes-energy-transition-business",
+    "Watchlist|7409ced7-c75a-3deb-aeaf-3dbb727b3bbf",
+    "Watchlist|/companies-markets/energy-commodities/oil-rigs-offshore-wind-singapore-yards-chase-europes-energy-transition-business",
+    "AI|https://www.investing.com/news/economy-news/trump-touts-4-billion-audi-plant-in-georgia-as-he-defends-tariffs-4971027",
+    "AI|https://www.investing.com/news/economic-indicators/portuguese-police-clear-lisbon-housing-protest-camp-make-arrests-4971028",
+    "Cybersecurity|https://www.investing.com/news/economy-news/trump-touts-4-billion-audi-plant-in-georgia-as-he-defends-tariffs-4971027",
+    "Cybersecurity|https://www.investing.com/news/economic-indicators/portuguese-police-clear-lisbon-housing-protest-camp-make-arrests-4971028",
+    "SG Banks|https://www.investing.com/news/economy-news/trump-touts-4-billion-audi-plant-in-georgia-as-he-defends-tariffs-4971027",
+    "SG Banks|https://www.investing.com/news/economic-indicators/portuguese-police-clear-lisbon-housing-protest-camp-make-arrests-4971028",
+    "Watchlist|https://www.investing.com/news/economy-news/trump-touts-4-billion-audi-plant-in-georgia-as-he-defends-tariffs-4971027",
+    "Watchlist|https://www.investing.com/news/economic-indicators/portuguese-police-clear-lisbon-housing-protest-camp-make-arrests-4971028"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792899449.4033751
+  "last_check": 1792900364.2322848
 }
