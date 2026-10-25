@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/ambanis-32-billion-jio-indian-ipo-lures-investors-as-bids-surge-on-final-day-4968087",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/warehouses-de-pauw-confirms-2026-guidance-after-solid-quarter-93CH-4968088",
-    "Cybersecurity|https://www.investing.com/news/economy-news/hold-hike-and-cut-bank-indonesia-says-theres-logic-to-the-policy-mix-4968091",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/openai-and-polands-nask-collaborate-on-ai-safety-research-4968092",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/munters-group-reports-strong-q3-order-intake-margins-mixed-93CH-4968093",
     "Cybersecurity|https://www.investing.com/news/economic-indicators/uk-retail-sales-fall-04-in-september-as-consumer-confidence-hits-sixmonth-low-4968096",
     "SG Banks|https://www.investing.com/news/economy-news/us-prepares-for-prolonged-iran-conflict-trump-envoy-tells-ft-4968075",
     "SG Banks|https://www.investing.com/news/economic-indicators/uk-retail-sales-fall-by-more-than-expected-in-september-4968076",
@@ -5000,7 +4995,12 @@
     "SG Banks|https://www.straitstimes.com/business/business-excursion-to-china-uob-targets-high-net-worth-heirs-with-annual-next-gen-programme",
     "SG Banks|https://www.straitstimes.com/business/askst-jobs-my-colleagues-get-more-flexibility-because-of-family-commitments-what-about-me",
     "AI|18e7273c-bd3d-3257-b97d-28b88cc852eb",
-    "Watchlist|18e7273c-bd3d-3257-b97d-28b88cc852eb"
+    "Watchlist|18e7273c-bd3d-3257-b97d-28b88cc852eb",
+    "AI|https://www.investing.com/news/stock-market-news/proxy-advisory-firm-glass-lewis-backs-bergeron-in-ethan-allen-fight-4971264",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/proxy-advisory-firm-glass-lewis-backs-bergeron-in-ethan-allen-fight-4971264",
+    "SG Banks|https://www.investing.com/news/stock-market-news/proxy-advisory-firm-glass-lewis-backs-bergeron-in-ethan-allen-fight-4971264",
+    "Watchlist|https://www.investing.com/news/stock-market-news/proxy-advisory-firm-glass-lewis-backs-bergeron-in-ethan-allen-fight-4971264",
+    "Crypto|714bd442-7973-3b72-b1f5-16a64b391e26"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792963550.6964557
+  "last_check": 1792964463.0155625
 }
