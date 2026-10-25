@@ -1,10 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Iran|https://www.iranintl.com/en/202610212800",
-    "SG Banks|/companies-markets/meta-boosts-bet-ai-spending-outlook-new-stock-class-q3-results-beat-estimates",
-    "Watchlist|/companies-markets/meta-boosts-bet-ai-spending-outlook-new-stock-class-q3-results-beat-estimates",
-    "SG Banks|/companies-markets/sk-hynix-scraps-solidigm-us-ipo-after-duplicate-listing-concerns-market-volatility",
     "Watchlist|/companies-markets/sk-hynix-scraps-solidigm-us-ipo-after-duplicate-listing-concerns-market-volatility",
     "AI|1a80133d-a1bf-3de5-b433-1a95e42552fa",
     "War|33491780-6c36-30ac-bbc0-a1d6b8c4aa26",
@@ -5000,7 +4996,11 @@
     "Watchlist|https://www.investing.com/news/economic-indicators/portuguese-police-clear-lisbon-housing-protest-camp-make-arrests-4971028",
     "SG Banks|/companies-markets/chairmen-lead-insider-buying-earnings-season-begins",
     "Watchlist|/companies-markets/chairmen-lead-insider-buying-earnings-season-begins",
-    "SG Banks|https://www.straitstimes.com/business/yen-surges-as-investors-flee-to-safe-havens-sgx-chief-to-step-down-in-2027"
+    "SG Banks|https://www.straitstimes.com/business/yen-surges-as-investors-flee-to-safe-havens-sgx-chief-to-step-down-in-2027",
+    "SG Banks|https://www.straitstimes.com/business/japanese-carmakers-to-cut-development-times-to-counter-chinese-rivals",
+    "Iran|https://www.iranintl.com/en/202610212800",
+    "SG Banks|/companies-markets/meta-boosts-bet-ai-spending-outlook-new-stock-class-q3-results-beat-estimates",
+    "Watchlist|/companies-markets/meta-boosts-bet-ai-spending-outlook-new-stock-class-q3-results-beat-estimates"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792901294.2955828
+  "last_check": 1792902204.023596
 }
