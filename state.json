@@ -1,20 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|/property/fct-nlb-turn-causeway-points-former-cinema-space-reading-hub-mall-revamp",
-    "AI|0c0ad7cc-88dc-3823-947c-fe26761f5b35",
-    "Watchlist|0c0ad7cc-88dc-3823-947c-fe26761f5b35",
-    "SG Banks|/companies-markets/spacex-talks-access-80000-cell-sites-new-network",
-    "Watchlist|/companies-markets/spacex-talks-access-80000-cell-sites-new-network",
-    "AI|f9d7e3f7-0506-3841-96ca-d58d480ab7d3",
-    "Watchlist|f9d7e3f7-0506-3841-96ca-d58d480ab7d3",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-fenix-resources-q1-2026-update-shows-progress-shares-slip-93CH-4967920",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-fenix-resources-q1-2026-update-shows-progress-shares-slip-93CH-4967920",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-fenix-resources-q1-2026-update-shows-progress-shares-slip-93CH-4967920",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-fenix-resources-q1-2026-update-shows-progress-shares-slip-93CH-4967920",
-    "AI|035ab0ba-00a4-3da4-834b-bd1528297134",
-    "Watchlist|035ab0ba-00a4-3da4-834b-bd1528297134",
-    "SG Banks|https://www.straitstimes.com/business/keppel-dc-reit-9m-dpu-up-11-7-at-0-08571-on-organic-growth-acquisitions",
     "SG Banks|/companies-markets/energy-commodities/keppel-energy-sembcorp-utilities-and-tuas-power-supply-biomethane-pilot-project",
     "Watchlist|/companies-markets/energy-commodities/keppel-energy-sembcorp-utilities-and-tuas-power-supply-biomethane-pilot-project",
     "SG Banks|/companies-markets/openai-shifts-value-us1-25-trillion-funding-talks-finalise",
@@ -5000,7 +4986,21 @@
     "Watchlist|c9173462-59b0-34d9-aab3-bb090299039f",
     "Watchlist|37a28610-e802-37ad-8210-5f4a1c83a957",
     "Iran|https://www.iranintl.com/en/202610204555",
-    "SG Banks|/property/fct-nlb-turn-causeway-points-former-cinema-space-reading-hub-mall-revamp"
+    "SG Banks|/property/fct-nlb-turn-causeway-points-former-cinema-space-reading-hub-mall-revamp",
+    "War|https://www.investing.com/news/commodities-news/saudi-arabia-intercepts-drones-and-missiles-as-fighting-with-yemens-houthis-continues-4971080",
+    "AI|https://www.investing.com/news/stock-market-news/goldman-sachs-cuts-kospi-target-by-25-amid-ai-stock-selloff-4971079",
+    "AI|https://www.investing.com/news/commodities-news/saudi-arabia-intercepts-drones-and-missiles-as-fighting-with-yemens-houthis-continues-4971080",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/goldman-sachs-cuts-kospi-target-by-25-amid-ai-stock-selloff-4971079",
+    "Cybersecurity|https://www.investing.com/news/commodities-news/saudi-arabia-intercepts-drones-and-missiles-as-fighting-with-yemens-houthis-continues-4971080",
+    "SG Banks|/companies-markets/sgxs-new-etfs-offer-asia-global-exposure-broad-baskets-can-hide-risk",
+    "SG Banks|https://www.investing.com/news/stock-market-news/goldman-sachs-cuts-kospi-target-by-25-amid-ai-stock-selloff-4971079",
+    "SG Banks|https://www.investing.com/news/commodities-news/saudi-arabia-intercepts-drones-and-missiles-as-fighting-with-yemens-houthis-continues-4971080",
+    "Watchlist|/companies-markets/sgxs-new-etfs-offer-asia-global-exposure-broad-baskets-can-hide-risk",
+    "Watchlist|https://www.investing.com/news/stock-market-news/goldman-sachs-cuts-kospi-target-by-25-amid-ai-stock-selloff-4971079",
+    "Watchlist|https://www.investing.com/news/commodities-news/saudi-arabia-intercepts-drones-and-missiles-as-fighting-with-yemens-houthis-continues-4971080",
+    "SG Banks|/companies-markets/spacex-talks-access-80000-cell-sites-new-network",
+    "Watchlist|/property/fct-nlb-turn-causeway-points-former-cinema-space-reading-hub-mall-revamp",
+    "Watchlist|/companies-markets/spacex-talks-access-80000-cell-sites-new-network"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792918673.7813098
+  "last_check": 1792919584.4425027
 }
