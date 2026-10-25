@@ -1,26 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/insider-trading-news/ally-financial-chief-hr-officer-sells-495k-in-shares-93CH-4967944",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/oklo-general-counsel-sells-27056-in-company-stock-93CH-4967945",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/bank-of-america-10-owner-sells-972-in-nuveen-municipal-credit-fund-93CH-4967946",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/kestra-medical-technologies-ceo-sells-443389-of-company-stock-93CH-4967951",
-    "Watchlist|https://www.investing.com/news/stock-market-news/australias-zip-slumps-50-after-fraud-incident-hits-q1-growth-4967939",
-    "Watchlist|https://www.investing.com/news/stock-market-news/skgroups-data-centerunit-seeks-funding-for-350-bln-ai-buildout--bloomberg-4967940",
-    "Watchlist|https://www.investing.com/news/economy-news/yen-shines-as-ai-jitters-spur-safehaven-rush-4967941",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/blue-biofuels-director-chris-kneppers-sells-12551-in-shares-93CH-4967943",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/ally-financial-chief-hr-officer-sells-495k-in-shares-93CH-4967944",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/oklo-general-counsel-sells-27056-in-company-stock-93CH-4967945",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/bank-of-america-10-owner-sells-972-in-nuveen-municipal-credit-fund-93CH-4967946",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/kestra-medical-technologies-ceo-sells-443389-of-company-stock-93CH-4967951",
-    "War|https://www.investing.com/news/world-news/human-rights-watch-accuses-israel-of-war-crimes-over-gaza-displacements-3722151",
-    "War|https://www.investing.com/news/world-news/brazils-top-court-evacuates-after-two-nearby-explosions-man-dead-3721910",
-    "War|https://www.investing.com/news/world-news/borderless-europe-fights-brain-drain-as-talent-heads-north-3722224",
-    "War|https://www.investing.com/news/world-news/in-shadow-of-new-trump-term-japan-and-skorea-join-us-in-asian-naval-drill-3722456",
-    "War|https://www.investing.com/news/world-news/biden-to-bid-farewell-at-apec-and-g20-under-trumps-shadow-3722500",
-    "War|https://www.investing.com/news/world-news/palestinians-say-north-gaza-destruction-is-widespread-as-rights-group-warns-some-may-never-return-3722562",
-    "War|https://www.investing.com/news/world-news/israel-strikes-hezbollah-areas-in-beirut-southern-lebanon-for-third-day-3722209",
-    "War|WP-MKTW-0003041256",
     "War|WP-MKTW-0003055784",
     "War|WP-MKTW-0003509216",
     "War|WP-MKTW-0003509284",
@@ -5000,7 +4980,27 @@
     "AI|ca8ca082-734b-3c29-90ab-3d2cb9595627",
     "Watchlist|ca8ca082-734b-3c29-90ab-3d2cb9595627",
     "AI|470e401a-7e91-37c9-a91c-72efc30604c7",
-    "Watchlist|470e401a-7e91-37c9-a91c-72efc30604c7"
+    "Watchlist|470e401a-7e91-37c9-a91c-72efc30604c7",
+    "SG Banks|/companies-markets/euro-sinks-french-debt-worries-yen-gains-week-ai-rout",
+    "Watchlist|/companies-markets/euro-sinks-french-debt-worries-yen-gains-week-ai-rout",
+    "AI|cd339faa-ab95-3adb-a3e3-a6ccd9a9b735",
+    "Watchlist|cd339faa-ab95-3adb-a3e3-a6ccd9a9b735",
+    "SG Banks|/international/softbanks-son-plans-us50-billion-malaysia-tech-outlay-anwar-ibrahim",
+    "Watchlist|/international/softbanks-son-plans-us50-billion-malaysia-tech-outlay-anwar-ibrahim",
+    "AI|de940b68-6234-3659-9ffa-33a44203fbe4",
+    "AI|317f3871-0f80-3d3b-96f5-6a6ccf802da2",
+    "Watchlist|de940b68-6234-3659-9ffa-33a44203fbe4",
+    "Watchlist|317f3871-0f80-3d3b-96f5-6a6ccf802da2",
+    "SG Banks|/companies-markets/capital-markets-currencies/goldman-cuts-kospi-12-month-target-25-ai-trade-unravels",
+    "Watchlist|/companies-markets/capital-markets-currencies/goldman-cuts-kospi-12-month-target-25-ai-trade-unravels",
+    "AI|https://www.investing.com/news/stock-market-news/ubs-may-cut-12000-swiss-jobs-if-capital-rules-tighten--report-4971117",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/ubs-may-cut-12000-swiss-jobs-if-capital-rules-tighten--report-4971117",
+    "SG Banks|https://www.investing.com/news/stock-market-news/ubs-may-cut-12000-swiss-jobs-if-capital-rules-tighten--report-4971117",
+    "Watchlist|https://www.investing.com/news/stock-market-news/ubs-may-cut-12000-swiss-jobs-if-capital-rules-tighten--report-4971117",
+    "War|https://www.investing.com/news/world-news/human-rights-watch-accuses-israel-of-war-crimes-over-gaza-displacements-3722151",
+    "War|https://www.investing.com/news/world-news/brazils-top-court-evacuates-after-two-nearby-explosions-man-dead-3721910",
+    "War|https://www.investing.com/news/world-news/borderless-europe-fights-brain-drain-as-talent-heads-north-3722224",
+    "War|https://www.investing.com/news/world-news/in-shadow-of-new-trump-term-japan-and-skorea-join-us-in-asian-naval-drill-3722456"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792925075.5645025
+  "last_check": 1792925990.072806
 }
