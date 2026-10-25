@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/ringcentral-q3-2026-slides-ai-momentum-drives-margin-expansion-93CH-4967820",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/starbucks-international-ceo-sells-58800-in-common-stock-93CH-4967826",
-    "Watchlist|https://www.investing.com/news/company-news/ringcentral-q3-2026-slides-ai-momentum-drives-margin-expansion-93CH-4967820",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/starbucks-international-ceo-sells-58800-in-common-stock-93CH-4967826",
-    "SG Banks|https://www.straitstimes.com/business/companies-markets/oil-holds-biggest-gain-in-week-as-saudi-attacks-fan-supply-risks",
-    "SG Banks|https://www.straitstimes.com/business/companies-markets/spacex-in-talks-to-access-80000-cell-sites-for-wireless-network",
-    "AI|https://www.investing.com/news/company-news/geopark-receives-2668m-in-tenders-for-2030-senior-notes-93CH-4967829",
-    "AI|https://www.investing.com/news/stock-market-news/sk-hynix-scraps-solidigm-ipo-plans-citing-market-conditions-4967830",
-    "Cybersecurity|https://www.investing.com/news/company-news/geopark-receives-2668m-in-tenders-for-2030-senior-notes-93CH-4967829",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/sk-hynix-scraps-solidigm-ipo-plans-citing-market-conditions-4967830",
-    "SG Banks|https://www.investing.com/news/company-news/geopark-receives-2668m-in-tenders-for-2030-senior-notes-93CH-4967829",
-    "SG Banks|https://www.investing.com/news/stock-market-news/sk-hynix-scraps-solidigm-ipo-plans-citing-market-conditions-4967830",
     "Watchlist|https://www.investing.com/news/company-news/geopark-receives-2668m-in-tenders-for-2030-senior-notes-93CH-4967829",
     "Watchlist|https://www.investing.com/news/stock-market-news/sk-hynix-scraps-solidigm-ipo-plans-citing-market-conditions-4967830",
     "SG Banks|https://www.channelnewsasia.com/business/japan-core-inflation-exceeds-boj-target-cements-near-term-rate-hike-chance-6484616",
@@ -5000,7 +4988,19 @@
     "SG Banks|/companies-markets/european-shares-edge-higher-strong-earnings-offset-french-unrest-worries",
     "Watchlist|/companies-markets/european-shares-edge-higher-strong-earnings-offset-french-unrest-worries",
     "SG Banks|/singapore/gas-supply-cut-indonesia-accounts-less-2-singapores-daily-gas-demand-ema",
-    "Watchlist|/singapore/gas-supply-cut-indonesia-accounts-less-2-singapores-daily-gas-demand-ema"
+    "Watchlist|/singapore/gas-supply-cut-indonesia-accounts-less-2-singapores-daily-gas-demand-ema",
+    "AI|https://www.investing.com/news/stock-market-news/sydneys-new-international-airport-opens-to-passengers-4971003",
+    "AI|https://www.investing.com/news/insider-trading-news/japan-post-holdings-sells-137m-in-aflac-stock-93CH-4971004",
+    "AI|https://www.investing.com/news/economy-news/yemens-houthis-renew-threat-against-riyadh-airport-as-flights-set-to-resume-4971006",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/sydneys-new-international-airport-opens-to-passengers-4971003",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/japan-post-holdings-sells-137m-in-aflac-stock-93CH-4971004",
+    "Cybersecurity|https://www.investing.com/news/economy-news/yemens-houthis-renew-threat-against-riyadh-airport-as-flights-set-to-resume-4971006",
+    "SG Banks|https://www.investing.com/news/stock-market-news/sydneys-new-international-airport-opens-to-passengers-4971003",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/japan-post-holdings-sells-137m-in-aflac-stock-93CH-4971004",
+    "SG Banks|https://www.investing.com/news/economy-news/yemens-houthis-renew-threat-against-riyadh-airport-as-flights-set-to-resume-4971006",
+    "Watchlist|https://www.investing.com/news/stock-market-news/sydneys-new-international-airport-opens-to-passengers-4971003",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/japan-post-holdings-sells-137m-in-aflac-stock-93CH-4971004",
+    "Watchlist|https://www.investing.com/news/economy-news/yemens-houthis-renew-threat-against-riyadh-airport-as-flights-set-to-resume-4971006"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792888448.5144217
+  "last_check": 1792889371.509301
 }
