@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/saba-capital-buys-30108-of-ellsworth-growth--income-fund-93CH-4968025",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-minimax-stock-rising-today-93CH-4968027",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-pony-ai-hk-stock-climbing-today-93CH-4968028",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/trumpkim-meeting-seen-unlikely-this-year-by-us-officials-reuters-reports-93CH-4968029",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/oppenheimer-names-top-smid-software-stocks-ahead-of-q3-earnings-4968030",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/samsung-begins-investing-in-additional-capacity-at-texas-chip-plant-report-93CH-4968031",
     "SG Banks|https://www.investing.com/news/insider-trading-news/saba-capital-buys-30108-of-ellsworth-growth--income-fund-93CH-4968025",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-minimax-stock-rising-today-93CH-4968027",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-pony-ai-hk-stock-climbing-today-93CH-4968028",
@@ -5000,7 +4994,13 @@
     "AI|de56c4d3-a594-31e3-bc00-e2a5e1b1309d",
     "AI|22f2cb4d-123e-33da-a314-beaecac5ee69",
     "Watchlist|de56c4d3-a594-31e3-bc00-e2a5e1b1309d",
-    "Watchlist|22f2cb4d-123e-33da-a314-beaecac5ee69"
+    "Watchlist|22f2cb4d-123e-33da-a314-beaecac5ee69",
+    "Crypto|179af04c-9955-3141-8253-0d24b1b92f39",
+    "Crypto|f459b70c-11b6-3fe5-8a2f-085b51ef4f7c",
+    "Watchlist|94f3b8a4-c28b-3c17-ab89-6046c4d50a7d",
+    "Iran|https://www.iranintl.com/en/202610253969",
+    "AI|4bcc3226-55c9-395c-8b0a-5975d3e5a0ca",
+    "Watchlist|4bcc3226-55c9-395c-8b0a-5975d3e5a0ca"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792941575.4299934
+  "last_check": 1792942469.6342747
 }
