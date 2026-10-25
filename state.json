@@ -1,17 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|WP-MKTW-0003805099",
-    "Watchlist|48b6701f-4739-321a-8c67-97c8c55c06d0",
-    "SG Banks|WP-MKTW-0003805097",
-    "SG Banks|WP-MKTW-0003853114",
-    "SG Banks|WP-MKTW-0003853112",
-    "SG Banks|93ff5ddc-91bf-380b-8572-2fd91c2ea6d5",
-    "SG Banks|WP-MKTW-0004179843",
-    "SG Banks|WP-MKTW-0004255367",
-    "SG Banks|https://www.channelnewsasia.com/business/openai-and-polands-nask-collaborate-ai-safety-research-6485521",
-    "AI|https://www.investing.com/news/economy-news/us-prepares-for-prolonged-iran-conflict-trump-envoy-tells-ft-4968075",
-    "AI|https://www.investing.com/news/economic-indicators/uk-retail-sales-fall-by-more-than-expected-in-september-4968076",
     "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-momentum-group-posts-solid-q3-2026-growth-93CH-4968081",
     "AI|https://www.investing.com/news/stock-market-news/ambanis-32-billion-jio-indian-ipo-lures-investors-as-bids-surge-on-final-day-4968087",
     "AI|https://www.investing.com/news/stock-market-news/warehouses-de-pauw-confirms-2026-guidance-after-solid-quarter-93CH-4968088",
@@ -5000,7 +4989,18 @@
     "Watchlist|0d4242d7-b2c9-3bd4-9e03-715369986b85",
     "Watchlist|6aa0a251-3626-3c5e-9bb0-32356c21ae2b",
     "SG Banks|WP-MKTW-0003055784",
-    "SG Banks|WP-MKTW-0003509216"
+    "SG Banks|WP-MKTW-0003509216",
+    "SG Banks|WP-MKTW-0003509284",
+    "SG Banks|WP-MKTW-0003805099",
+    "Crypto|435f4157-a003-3c60-a296-05d02b2dd381",
+    "SG Banks|WP-MKTW-0003805097",
+    "SG Banks|WP-MKTW-0003853114",
+    "SG Banks|WP-MKTW-0003853112",
+    "AI|56b4dcfb-0be7-327b-8d46-e50b56e4f3f9",
+    "SG Banks|93ff5ddc-91bf-380b-8572-2fd91c2ea6d5",
+    "Watchlist|56b4dcfb-0be7-327b-8d46-e50b56e4f3f9",
+    "SG Banks|WP-MKTW-0004179843",
+    "SG Banks|WP-MKTW-0004255367"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792960811.4589648
+  "last_check": 1792961712.2163749
 }
