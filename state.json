@@ -1,23 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|/companies-markets/energy-commodities/oil-set-weekly-gain-saudi-attacks-heighten-supply-risks",
-    "SG Banks|https://www.straitstimes.com/business/flurry-of-activity-for-chinas-richest-ahead-of-offshore-wealth-tax-deadline",
-    "Watchlist|/companies-markets/banking-finance/cimb-categorically-denies-it-will-privatise-indonesian-unit-niaga",
-    "Watchlist|/companies-markets/energy-commodities/oil-set-weekly-gain-saudi-attacks-heighten-supply-risks",
-    "Iran|https://www.iranintl.com/en/202610163777",
-    "SG Banks|/international/volvo-car-deepen-job-cuts-china-sales-slump",
-    "Watchlist|/companies-markets/stocks-watch-singtel-wee-hur",
-    "Watchlist|/international/volvo-car-deepen-job-cuts-china-sales-slump",
-    "AI|69384f56-37e6-31cf-a11c-dc15ae68948b",
-    "SG Banks|/singapore/waymo-founder-predicts-landslide-robotaxi-adoption-singapore-driven-high-car-costs",
-    "SG Banks|https://www.straitstimes.com/business/companies-markets/sgx-ceo-loh-boon-chye-to-step-down-in-2027",
-    "Watchlist|69384f56-37e6-31cf-a11c-dc15ae68948b",
-    "Watchlist|/singapore/waymo-founder-predicts-landslide-robotaxi-adoption-singapore-driven-high-car-costs",
-    "SG Banks|/companies-markets/capital-markets-currencies/japan-korea-stocks-fall-asian-markets-dip-while-investors-weigh-tech-earnings-gulf-tensions",
-    "SG Banks|WP-MKTW-0003041256",
-    "Watchlist|/companies-markets/capital-markets-currencies/japan-korea-stocks-fall-asian-markets-dip-while-investors-weigh-tech-earnings-gulf-tensions",
-    "SG Banks|https://www.straitstimes.com/business/asian-markets-dip-as-investors-weigh-tech-earnings-gulf-tensions",
     "SG Banks|/international/global/waymo-founder-predicts-landslide-robotaxi-adoption-singapore-driven-high-car-costs",
     "Watchlist|/international/global/waymo-founder-predicts-landslide-robotaxi-adoption-singapore-driven-high-car-costs",
     "SG Banks|/companies-markets/capital-markets-currencies/sk-hynix-samsung-fall-asian-tech-sell-deepens-and-crude-oil-extends-gains",
@@ -5000,7 +4983,24 @@
     "AI|ea6aa119-247f-38d8-a435-f398843b22d3",
     "Watchlist|ea6aa119-247f-38d8-a435-f398843b22d3",
     "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-coils-at-81908-live-levels-93CH-4958174",
-    "SG Banks|/companies-markets/banking-finance/cimb-categorically-denies-it-will-privatise-indonesian-unit-niaga"
+    "SG Banks|/companies-markets/banking-finance/cimb-categorically-denies-it-will-privatise-indonesian-unit-niaga",
+    "Watchlist|813d64dd-0d30-3162-9700-db8622e89563",
+    "AI|ddfa3df4-3569-3e9a-9d38-f0a9402f1559",
+    "AI|813d64dd-0d30-3162-9700-db8622e89563",
+    "Watchlist|ddfa3df4-3569-3e9a-9d38-f0a9402f1559",
+    "Watchlist|/companies-markets/banking-finance/cimb-categorically-denies-it-will-privatise-indonesian-unit-niaga",
+    "AI|48ddc3a1-b2e4-38be-935a-bfd141206500",
+    "AI|abc1815b-9c6e-3b5e-80c2-b58b7c052f61",
+    "AI|902aea96-af00-3a51-86cf-52a9be0a5910",
+    "AI|ac2133be-9a9a-31e8-941d-4e04749daa08",
+    "Watchlist|48ddc3a1-b2e4-38be-935a-bfd141206500",
+    "Watchlist|abc1815b-9c6e-3b5e-80c2-b58b7c052f61",
+    "Watchlist|902aea96-af00-3a51-86cf-52a9be0a5910",
+    "Watchlist|ac2133be-9a9a-31e8-941d-4e04749daa08",
+    "SG Banks|/international/volvo-car-deepen-job-cuts-china-sales-slump",
+    "Watchlist|/international/volvo-car-deepen-job-cuts-china-sales-slump",
+    "SG Banks|/companies-markets/capital-markets-currencies/japan-korea-stocks-fall-asian-markets-dip-while-investors-weigh-tech-earnings-gulf-tensions",
+    "SG Banks|WP-MKTW-0003041256"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792952561.7557666
+  "last_check": 1792953489.367189
 }
