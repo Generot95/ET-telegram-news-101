@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/volvo-cars-to-cut-2500-jobs-as-third-quarter-swings-to-loss-4968048",
-    "SG Banks|https://www.investing.com/news/economy-news/south-korean-economys-growth-likely-picked-up-in-q3-on-chip-exports-reuters-poll-4968041",
-    "SG Banks|https://www.investing.com/news/stock-market-news/nvidia-invests-in-ai-video-startup-higgsfield-bloomberg-4968042",
-    "SG Banks|https://www.investing.com/news/stock-market-news/gjensidige-forsikring-reports-strong-q3-profit-beat-93CH-4968045",
-    "SG Banks|https://www.investing.com/news/earnings/safran-q3-revenue-in-line-unchanged-2026-targets-sit-below-consensus-4968047",
-    "SG Banks|https://www.investing.com/news/stock-market-news/volvo-cars-to-cut-2500-jobs-as-third-quarter-swings-to-loss-4968048",
-    "Watchlist|https://www.investing.com/news/economy-news/south-korean-economys-growth-likely-picked-up-in-q3-on-chip-exports-reuters-poll-4968041",
-    "Watchlist|https://www.investing.com/news/stock-market-news/nvidia-invests-in-ai-video-startup-higgsfield-bloomberg-4968042",
-    "Watchlist|https://www.investing.com/news/stock-market-news/gjensidige-forsikring-reports-strong-q3-profit-beat-93CH-4968045",
     "Watchlist|https://www.investing.com/news/earnings/safran-q3-revenue-in-line-unchanged-2026-targets-sit-below-consensus-4968047",
     "Watchlist|https://www.investing.com/news/stock-market-news/volvo-cars-to-cut-2500-jobs-as-third-quarter-swings-to-loss-4968048",
     "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-coils-at-81908-live-levels-93CH-4958174",
@@ -5000,7 +4991,16 @@
     "Crypto|0c9a4235-b2de-3421-95d2-8f9ed4073089",
     "Crypto|49f77bca-590c-32bf-a7b9-d3f31877a96b",
     "AI|2495efa9-6ba1-34bf-81f1-07e929fbc670",
-    "Watchlist|2495efa9-6ba1-34bf-81f1-07e929fbc670"
+    "Watchlist|2495efa9-6ba1-34bf-81f1-07e929fbc670",
+    "AI|https://www.investing.com/news/stock-market-news/oppenheimer-sees-web-commerce-software-q3-backdrop-improving-ai-worries-linger-4971234",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/oppenheimer-sees-web-commerce-software-q3-backdrop-improving-ai-worries-linger-4971234",
+    "SG Banks|https://www.investing.com/news/stock-market-news/oppenheimer-sees-web-commerce-software-q3-backdrop-improving-ai-worries-linger-4971234",
+    "Watchlist|https://www.investing.com/news/stock-market-news/oppenheimer-sees-web-commerce-software-q3-backdrop-improving-ai-worries-linger-4971234",
+    "Crypto|907aff77-5c2a-3524-a05f-7af9b024c7a5",
+    "AI|f3ae81f6-2c34-3f69-ba64-9a6e46b3f0aa",
+    "AI|c584e555-b65b-3472-b3a7-26b982a05f6f",
+    "Watchlist|f3ae81f6-2c34-3f69-ba64-9a6e46b3f0aa",
+    "Watchlist|c584e555-b65b-3472-b3a7-26b982a05f6f"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792950726.8529992
+  "last_check": 1792951643.8271372
 }
