@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/commodities-news/oil-prices-cool-from-5month-highs-as-trump-invokes-defense-production-act-4967880",
-    "SG Banks|https://www.investing.com/news/stock-market-news/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-a-doctor-4967877",
-    "Watchlist|https://www.investing.com/news/stock-market-news/exclusivegm-cancels-deal-with-new-us-rareearth-magnet-plant-documents-say-4967695",
-    "Watchlist|https://www.investing.com/news/economic-indicators/japan-manufacturing-growth-slows-to-7month-low-in-october-pmi-shows-4967878",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-ikegps-group-flags-stronger-second-half-in-q2-2026-93CH-4967879",
-    "Watchlist|https://www.investing.com/news/commodities-news/oil-prices-cool-from-5month-highs-as-trump-invokes-defense-production-act-4967880",
-    "Watchlist|https://www.investing.com/news/stock-market-news/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-a-doctor-4967877",
-    "SG Banks|/companies-markets/sk-hynix-scraps-solidigm-us-ipo-after-shareholder-opposition-duplicate-listing-concerns",
-    "Watchlist|/companies-markets/sk-hynix-scraps-solidigm-us-ipo-after-shareholder-opposition-duplicate-listing-concerns",
-    "Iran|https://www.iranintl.com/en/202610231784",
-    "SG Banks|/companies-markets/capital-markets-currencies/japan-shares-fall-asian-stocks-slide-after-us-tech-rout-bonds-rally",
-    "Watchlist|/companies-markets/capital-markets-currencies/japan-shares-fall-asian-stocks-slide-after-us-tech-rout-bonds-rally",
-    "SG Banks|https://www.straitstimes.com/business/yen-jumps-as-traders-seek-safety-amid-global-flight-from-risk",
     "AI|73ef9abf-b625-33f0-9fef-d49031e38d5f",
     "Watchlist|73ef9abf-b625-33f0-9fef-d49031e38d5f",
     "AI|4cc9ea48-c4af-3741-a14e-aa77f844edf1",
@@ -5000,7 +4987,20 @@
     "AI|d2b90d17-3d0f-301b-89af-2bd9c892b4bf",
     "Watchlist|d2b90d17-3d0f-301b-89af-2bd9c892b4bf",
     "SG Banks|/international/global/chinas-us3-5-trillion-stock-rout-deepens-profits-sink-major-stimulus-stays-elusive",
-    "Watchlist|/international/global/chinas-us3-5-trillion-stock-rout-deepens-profits-sink-major-stimulus-stays-elusive"
+    "Watchlist|/international/global/chinas-us3-5-trillion-stock-rout-deepens-profits-sink-major-stimulus-stays-elusive",
+    "AI|https://www.investing.com/news/insider-trading-news/tcw-strategic-income-fund-director-haden-acquires-267239-in-stock-93CH-4971052",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/tcw-strategic-income-fund-director-haden-acquires-267239-in-stock-93CH-4971052",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/tcw-strategic-income-fund-director-haden-acquires-267239-in-stock-93CH-4971052",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/tcw-strategic-income-fund-director-haden-acquires-267239-in-stock-93CH-4971052",
+    "AI|967015e3-3067-3e23-b574-ba2d6645846b",
+    "SG Banks|/companies-markets/why-netflix-struggling-find-its-audience",
+    "Watchlist|967015e3-3067-3e23-b574-ba2d6645846b",
+    "Watchlist|/companies-markets/why-netflix-struggling-find-its-audience",
+    "SG Banks|/companies-markets/sk-hynix-scraps-solidigm-us-ipo-after-shareholder-opposition-duplicate-listing-concerns",
+    "Watchlist|/companies-markets/sk-hynix-scraps-solidigm-us-ipo-after-shareholder-opposition-duplicate-listing-concerns",
+    "Iran|https://www.iranintl.com/en/202610231784",
+    "AI|b050dc69-027a-37ea-97d9-b743816dfa09",
+    "Watchlist|b050dc69-027a-37ea-97d9-b743816dfa09"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792909521.4133737
+  "last_check": 1792910441.3426886
 }
