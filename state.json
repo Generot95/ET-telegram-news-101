@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/evaxion-reports-threeyear-data-for-cancer-vaccine-evx01-93CH-4968066",
-    "AI|https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-unchanged-4968067",
-    "AI|https://www.investing.com/news/earnings/sodexo-beats-q4-growth-expectations-confirms-fy27-outlook-4968069",
-    "AI|https://www.investing.com/news/earnings/atoss-raises-2026-margin-goal-on-ai-savings-q3-operating-profit-up-23-4968070",
-    "AI|https://www.investing.com/news/stock-market-news/exclusiveheineken-document-reveals-worries-over-weightloss-drugs-and-beer-sales-4968071",
-    "Cybersecurity|https://www.investing.com/news/earnings/volvo-ab-q3-profit-rises-as-expected-on-truck-demand-recovery-4968051",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/tomra-systems-reports-q3-revenue-of-366m-beats-estimates-93CH-4968054",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/teradyne-director-marilyn-matz-sells-140000-in-shares-93CH-4968065",
-    "Cybersecurity|https://www.investing.com/news/company-news/evaxion-reports-threeyear-data-for-cancer-vaccine-evx01-93CH-4968066",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-unchanged-4968067",
-    "Cybersecurity|https://www.investing.com/news/earnings/sodexo-beats-q4-growth-expectations-confirms-fy27-outlook-4968069",
-    "Cybersecurity|https://www.investing.com/news/earnings/atoss-raises-2026-margin-goal-on-ai-savings-q3-operating-profit-up-23-4968070",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/exclusiveheineken-document-reveals-worries-over-weightloss-drugs-and-beer-sales-4968071",
     "SG Banks|https://www.investing.com/news/earnings/volvo-ab-q3-profit-rises-as-expected-on-truck-demand-recovery-4968051",
     "SG Banks|https://www.investing.com/news/stock-market-news/tomra-systems-reports-q3-revenue-of-366m-beats-estimates-93CH-4968054",
     "SG Banks|https://www.investing.com/news/insider-trading-news/teradyne-director-marilyn-matz-sells-140000-in-shares-93CH-4968065",
@@ -5000,7 +4987,20 @@
     "Watchlist|8d0c928c-5161-343b-aed5-597af025cdc3",
     "AI|8d0c928c-5161-343b-aed5-597af025cdc3",
     "AI|da529527-bc5f-3384-b505-2e98b0c51edc",
-    "Crypto|a815fb1b-f4f1-3f4a-bbc6-c4652da63f87"
+    "Crypto|a815fb1b-f4f1-3f4a-bbc6-c4652da63f87",
+    "AI|020f3757-1d33-3da3-a08e-af724e977bbe",
+    "AI|a9c8575b-47d3-36d6-8beb-2ea133a15956",
+    "Cybersecurity|020f3757-1d33-3da3-a08e-af724e977bbe",
+    "Watchlist|a9c8575b-47d3-36d6-8beb-2ea133a15956",
+    "Watchlist|020f3757-1d33-3da3-a08e-af724e977bbe",
+    "AI|https://www.investing.com/news/economy-news/us-canada-very-close-to-trade-deal-white-houses-hassett-says-4971239",
+    "Cybersecurity|https://www.investing.com/news/economy-news/us-canada-very-close-to-trade-deal-white-houses-hassett-says-4971239",
+    "SG Banks|https://www.investing.com/news/economy-news/us-canada-very-close-to-trade-deal-white-houses-hassett-says-4971239",
+    "Watchlist|https://www.investing.com/news/economy-news/us-canada-very-close-to-trade-deal-white-houses-hassett-says-4971239",
+    "AI|3518e946-03ea-3bb8-b038-9ca3dd750e94",
+    "Watchlist|3518e946-03ea-3bb8-b038-9ca3dd750e94",
+    "AI|1853ffcd-760c-3a3b-96fa-d19c378e080c",
+    "Watchlist|1853ffcd-760c-3a3b-96fa-d19c378e080c"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792955316.0279582
+  "last_check": 1792956233.555743
 }
