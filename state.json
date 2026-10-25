@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-momentum-group-posts-solid-q3-2026-growth-93CH-4968081",
-    "AI|https://www.investing.com/news/stock-market-news/ambanis-32-billion-jio-indian-ipo-lures-investors-as-bids-surge-on-final-day-4968087",
-    "AI|https://www.investing.com/news/stock-market-news/warehouses-de-pauw-confirms-2026-guidance-after-solid-quarter-93CH-4968088",
-    "AI|https://www.investing.com/news/economy-news/hold-hike-and-cut-bank-indonesia-says-theres-logic-to-the-policy-mix-4968091",
-    "AI|https://www.investing.com/news/stock-market-news/openai-and-polands-nask-collaborate-on-ai-safety-research-4968092",
-    "AI|https://www.investing.com/news/stock-market-news/munters-group-reports-strong-q3-order-intake-margins-mixed-93CH-4968093",
-    "AI|https://www.investing.com/news/economic-indicators/uk-retail-sales-fall-04-in-september-as-consumer-confidence-hits-sixmonth-low-4968096",
-    "Cybersecurity|https://www.investing.com/news/economy-news/us-prepares-for-prolonged-iran-conflict-trump-envoy-tells-ft-4968075",
     "Cybersecurity|https://www.investing.com/news/economic-indicators/uk-retail-sales-fall-by-more-than-expected-in-september-4968076",
     "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-momentum-group-posts-solid-q3-2026-growth-93CH-4968081",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/ambanis-32-billion-jio-indian-ipo-lures-investors-as-bids-surge-on-final-day-4968087",
@@ -5000,7 +4992,15 @@
     "SG Banks|93ff5ddc-91bf-380b-8572-2fd91c2ea6d5",
     "Watchlist|56b4dcfb-0be7-327b-8d46-e50b56e4f3f9",
     "SG Banks|WP-MKTW-0004179843",
-    "SG Banks|WP-MKTW-0004255367"
+    "SG Banks|WP-MKTW-0004255367",
+    "AI|https://www.investing.com/news/stock-market-news/zelenskiy-says-us-warnings-on-ballistic-strikes-have-fully-resumed-4971254",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/zelenskiy-says-us-warnings-on-ballistic-strikes-have-fully-resumed-4971254",
+    "SG Banks|https://www.investing.com/news/stock-market-news/zelenskiy-says-us-warnings-on-ballistic-strikes-have-fully-resumed-4971254",
+    "Watchlist|https://www.investing.com/news/stock-market-news/zelenskiy-says-us-warnings-on-ballistic-strikes-have-fully-resumed-4971254",
+    "AI|68876c83-9005-329d-b239-339a31721057",
+    "Watchlist|68876c83-9005-329d-b239-339a31721057",
+    "SG Banks|https://www.straitstimes.com/business/business-excursion-to-china-uob-targets-high-net-worth-heirs-with-annual-next-gen-programme",
+    "SG Banks|https://www.straitstimes.com/business/askst-jobs-my-colleagues-get-more-flexibility-because-of-family-commitments-what-about-me"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792961712.2163749
+  "last_check": 1792962642.138107
 }
