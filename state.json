@@ -1,12 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/earnings/holcim-raises-2026-earnings-outlook-after-strong-q3-sales-4968038",
-    "SG Banks|https://www.investing.com/news/earnings/sgs-beats-q3-revenue-estimates-with-record-sales-growth-4968039",
-    "SG Banks|https://www.investing.com/news/earnings/hydro-q3-adjusted-core-earnings-rise-52-but-miss-forecasts-on-weak-cash-flow-4968040",
-    "Watchlist|https://www.investing.com/news/earnings/volvo-cars-posts-q3-loss-of-37-billion-crowns-to-cut-2500-jobs-4968035",
-    "Watchlist|https://www.investing.com/news/stock-market-news/hacking-attempts-surge-as-companies-governments-rush-to-patch-php-flaws-4968036",
-    "Watchlist|https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-002-4968037",
     "Watchlist|https://www.investing.com/news/earnings/holcim-raises-2026-earnings-outlook-after-strong-q3-sales-4968038",
     "Watchlist|https://www.investing.com/news/earnings/sgs-beats-q3-revenue-estimates-with-record-sales-growth-4968039",
     "Watchlist|https://www.investing.com/news/earnings/hydro-q3-adjusted-core-earnings-rise-52-but-miss-forecasts-on-weak-cash-flow-4968040",
@@ -5000,7 +4994,13 @@
     "Watchlist|4dad88c8-2918-3000-a9da-80c949f7a632",
     "War|WP-MKTW-0005293866",
     "AI|WP-MKTW-0005293866",
-    "Cybersecurity|WP-MKTW-0005293866"
+    "Cybersecurity|WP-MKTW-0005293866",
+    "AI|d68bfd43-3577-3672-aee8-365f3bdbf124",
+    "Watchlist|d68bfd43-3577-3672-aee8-365f3bdbf124",
+    "War|WP-MKTW-0005306373",
+    "AI|WP-MKTW-0005306373",
+    "Crypto|900b8e23-bc10-336c-b5a2-889d940a26ff",
+    "Cybersecurity|WP-MKTW-0005306373"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792947073.0788965
+  "last_check": 1792947977.1016674
 }
