@@ -1,7 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|d41402c9-118f-3d90-b115-bb0c064846b5",
     "AI|8f595e44-a2e8-3f4f-a63f-b0735a20cecd",
     "AI|https://www.investing.com/news/stock-market-news/34-25-21-3-stocks-the-smart-money-quietly-bought-in-october-4967978",
     "AI|https://www.investing.com/news/stock-market-news/asia-stocks-fall-as-ai-rout-batters-skorea-japan-spooked-by-strong-cpi-4967985",
@@ -5000,7 +4999,8 @@
     "AI|ef9535d2-35e3-3efd-b751-426c779ce650",
     "Watchlist|ef9535d2-35e3-3efd-b751-426c779ce650",
     "AI|872ea555-96df-3e01-afee-40b3aa117a5c",
-    "Watchlist|872ea555-96df-3e01-afee-40b3aa117a5c"
+    "Watchlist|872ea555-96df-3e01-afee-40b3aa117a5c",
+    "Crypto|c74460d2-ec9a-3d85-84e6-aba7106794ea"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792928725.7836
+  "last_check": 1792929654.8998482
 }
