@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/openai-and-polands-nask-collaborate-on-ai-safety-research-4968092",
-    "Watchlist|https://www.investing.com/news/stock-market-news/munters-group-reports-strong-q3-order-intake-margins-mixed-93CH-4968093",
-    "Watchlist|https://www.investing.com/news/economic-indicators/uk-retail-sales-fall-04-in-september-as-consumer-confidence-hits-sixmonth-low-4968096",
-    "Iran|https://www.iranintl.com/en/202610200213",
-    "SG Banks|/companies-markets/netflix-great-making-money-its-problem-keeping-viewers-hooked",
-    "SG Banks|/international/asean/malaysia-allows-first-export-unprocessed-rare-earths-under-new-rules",
-    "Watchlist|/companies-markets/netflix-great-making-money-its-problem-keeping-viewers-hooked",
     "Watchlist|/international/asean/malaysia-allows-first-export-unprocessed-rare-earths-under-new-rules",
     "SG Banks|/international/chinas-catl-baic-target-1-million-cars-new-battery-swap-network",
     "Watchlist|/international/chinas-catl-baic-target-1-million-cars-new-battery-swap-network",
@@ -5000,7 +4993,14 @@
     "SG Banks|https://www.investing.com/news/economy-news/canada-uk-to-develop-separate-defense-financing-institutions-4971268",
     "SG Banks|https://www.investing.com/news/commodities-news/goldman-lists-3-factors-that-support-long-commodities-positions-4971269",
     "Watchlist|https://www.investing.com/news/economy-news/canada-uk-to-develop-separate-defense-financing-institutions-4971268",
-    "Watchlist|https://www.investing.com/news/commodities-news/goldman-lists-3-factors-that-support-long-commodities-positions-4971269"
+    "Watchlist|https://www.investing.com/news/commodities-news/goldman-lists-3-factors-that-support-long-commodities-positions-4971269",
+    "Crypto|df3d1508-2d57-39b8-a783-3491fe2741ee",
+    "SG Banks|/companies-markets/banking-finance/jpmorgans-private-bank-using-ai-make-advisers-more-efficient",
+    "Watchlist|/companies-markets/banking-finance/jpmorgans-private-bank-using-ai-make-advisers-more-efficient",
+    "AI|b657a11a-6ca2-35f6-9104-c6801380c8f4",
+    "Watchlist|b657a11a-6ca2-35f6-9104-c6801380c8f4",
+    "Iran|https://www.iranintl.com/en/202610200213",
+    "SG Banks|/international/asean/malaysia-allows-first-export-unprocessed-rare-earths-under-new-rules"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792966293.0186398
+  "last_check": 1792967195.2802777
 }
