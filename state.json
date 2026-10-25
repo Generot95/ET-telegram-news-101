@@ -1,17 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|/opinion-features/teslas-flying-roadster-cold-rockets-mostly-hot-air",
-    "Watchlist|/lifestyle/health-wellness/investing-health-small-habits-lifetime-returns",
-    "Watchlist|/companies-markets/dbs-favours-chinese-banks-flags-hsbc-long-term-buy",
-    "Watchlist|https://www.investing.com/news/stock-market-news/hd-hyundai-to-build-us-shipyard-with-kiewit-create-3000-jobs-4967906",
-    "Watchlist|https://www.investing.com/news/stock-market-news/sk-hynix-crashes-206-below-20period-ma-live-levels-93CH-4956188",
-    "Watchlist|https://www.investing.com/news/stock-market-news/nikkei-225-teeters-above-635725-support-live-levels-93CH-4956186",
-    "SG Banks|https://www.channelnewsasia.com/business/oil-little-changed-supply-concern-lingers-amid-houthi-attacks-saudi-arabia-6484841",
-    "War|9da3dbc3-3e15-34da-a6c3-aac617a7ba61",
-    "AI|3f715624-e8d3-383c-bc01-bfd5dbcd90a6",
-    "War|28a02d6e-7467-3557-8b24-36a4e060575c",
-    "War|https://www.investing.com/news/commodities-news/oil-little-changed-as-supply-concern-lingers-amid-houthi-attacks-on-saudi-arabia-4967907",
     "AI|95e87194-3309-3ff5-a4a8-bc5cbb56f4a1",
     "AI|https://www.investing.com/news/commodities-news/oil-little-changed-as-supply-concern-lingers-amid-houthi-attacks-on-saudi-arabia-4967907",
     "AI|https://www.investing.com/news/insider-trading-news/bank-of-america-corp-sells-invesco-trust-ii-shares-for-860-93CH-4967910",
@@ -5000,7 +4989,18 @@
     "Watchlist|/opinion-features/time-mas-sgx-scrutinise-issue-managers",
     "SG Banks|/companies-markets/dbs-favours-chinese-banks-flags-hsbc-long-term-buy",
     "SG Banks|/opinion-features/teslas-flying-roadster-cold-rockets-mostly-hot-air",
-    "SG Banks|/lifestyle/health-wellness/investing-health-small-habits-lifetime-returns"
+    "SG Banks|/lifestyle/health-wellness/investing-health-small-habits-lifetime-returns",
+    "AI|https://www.investing.com/news/economy-news/north-koreas-kim-jong-un-makes-surprise-china-visit-as-ties-strengthen-4971072",
+    "Cybersecurity|https://www.investing.com/news/economy-news/north-koreas-kim-jong-un-makes-surprise-china-visit-as-ties-strengthen-4971072",
+    "SG Banks|https://www.investing.com/news/economy-news/north-koreas-kim-jong-un-makes-surprise-china-visit-as-ties-strengthen-4971072",
+    "Watchlist|https://www.investing.com/news/economy-news/north-koreas-kim-jong-un-makes-surprise-china-visit-as-ties-strengthen-4971072",
+    "Watchlist|/companies-markets/dbs-favours-chinese-banks-flags-hsbc-long-term-buy",
+    "Watchlist|/opinion-features/teslas-flying-roadster-cold-rockets-mostly-hot-air",
+    "Watchlist|/lifestyle/health-wellness/investing-health-small-habits-lifetime-returns",
+    "AI|f6be1b7d-abdb-3cb2-898b-ad636ac3ef33",
+    "Watchlist|f6be1b7d-abdb-3cb2-898b-ad636ac3ef33",
+    "AI|ba29cbf8-c0b4-3b8f-81e1-b5102ec56e9e",
+    "Watchlist|ba29cbf8-c0b4-3b8f-81e1-b5102ec56e9e"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792916834.3986917
+  "last_check": 1792917753.5296721
 }
