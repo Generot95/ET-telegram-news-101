@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-sliding-today-93CH-4967898",
-    "SG Banks|https://www.investing.com/news/company-news/zai-lab-raises-250-million-in-private-placement-financing-93CH-4967899",
-    "Watchlist|4c32b0d1-a277-3900-80a8-7026ea0771af",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/rapport-therapeutics-director-wendy-young-buys-99991-in-shares-93CH-4967886",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/buckle-svp-stores-scott-werth-sells-116870-in-common-stock-93CH-4967885",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/rapport-therapeutics-director-paul-m-buys-974k-in-shares-93CH-4967884",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/rapport-therapeutics-director-paul-silva-buys-99636-in-stock-93CH-4967892",
-    "Watchlist|https://www.investing.com/news/economic-indicators/japan-factory-activity-slows-in-oct-services-improve-pmi-shows-4967893",
-    "Watchlist|https://www.investing.com/news/company-news/ikegps-h1-fy27-slides-subscription-revenue-up-22-arr-growth-expected-93CH-4967894",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-declining-today-93CH-4967897",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-sliding-today-93CH-4967898",
-    "Watchlist|https://www.investing.com/news/company-news/zai-lab-raises-250-million-in-private-placement-financing-93CH-4967899",
     "AI|https://www.investing.com/news/stock-market-news/hd-hyundai-to-build-us-shipyard-with-kiewit-create-3000-jobs-4967906",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/hd-hyundai-to-build-us-shipyard-with-kiewit-create-3000-jobs-4967906",
     "SG Banks|/companies-markets/dbs-favours-chinese-banks-flags-hsbc-long-term-buy",
@@ -5000,7 +4988,19 @@
     "SG Banks|4c32b0d1-a277-3900-80a8-7026ea0771af",
     "SG Banks|c5031fde-fef4-3b79-aa30-05302dc64235",
     "Watchlist|a895f061-920e-3391-844e-a88eea4b46f6",
-    "Watchlist|cfe2c2c7-4cf1-3fad-bb17-36d26882e2a4"
+    "Watchlist|cfe2c2c7-4cf1-3fad-bb17-36d26882e2a4",
+    "AI|https://www.investing.com/news/company-news/biontech-bristol-myers-report-lung-cancer-trial-data-93CH-4971066",
+    "AI|https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-uniquely-catalystrich-months-ahead-for-spacex-4970923",
+    "Cybersecurity|https://www.investing.com/news/company-news/biontech-bristol-myers-report-lung-cancer-trial-data-93CH-4971066",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-uniquely-catalystrich-months-ahead-for-spacex-4970923",
+    "SG Banks|https://www.investing.com/news/company-news/biontech-bristol-myers-report-lung-cancer-trial-data-93CH-4971066",
+    "SG Banks|https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-uniquely-catalystrich-months-ahead-for-spacex-4970923",
+    "Watchlist|https://www.investing.com/news/company-news/biontech-bristol-myers-report-lung-cancer-trial-data-93CH-4971066",
+    "Watchlist|https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-uniquely-catalystrich-months-ahead-for-spacex-4970923",
+    "Watchlist|4c32b0d1-a277-3900-80a8-7026ea0771af",
+    "Iran|https://www.iranintl.com/en/202610257246",
+    "SG Banks|/companies-markets/reits-property/london-developer-halts-major-project-housing-viability-hits-crisis-point",
+    "Watchlist|/companies-markets/reits-property/london-developer-halts-major-project-housing-viability-hits-crisis-point"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792914104.1087642
+  "last_check": 1792915016.1309094
 }
