@@ -1,17 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/warehouses-de-pauw-confirms-2026-guidance-after-solid-quarter-93CH-4968088",
-    "SG Banks|https://www.investing.com/news/economy-news/hold-hike-and-cut-bank-indonesia-says-theres-logic-to-the-policy-mix-4968091",
-    "SG Banks|https://www.investing.com/news/stock-market-news/openai-and-polands-nask-collaborate-on-ai-safety-research-4968092",
-    "SG Banks|https://www.investing.com/news/stock-market-news/munters-group-reports-strong-q3-order-intake-margins-mixed-93CH-4968093",
-    "SG Banks|https://www.investing.com/news/economic-indicators/uk-retail-sales-fall-04-in-september-as-consumer-confidence-hits-sixmonth-low-4968096",
-    "Watchlist|https://www.investing.com/news/economy-news/us-prepares-for-prolonged-iran-conflict-trump-envoy-tells-ft-4968075",
-    "Watchlist|https://www.investing.com/news/economic-indicators/uk-retail-sales-fall-by-more-than-expected-in-september-4968076",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-momentum-group-posts-solid-q3-2026-growth-93CH-4968081",
-    "Watchlist|https://www.investing.com/news/stock-market-news/ambanis-32-billion-jio-indian-ipo-lures-investors-as-bids-surge-on-final-day-4968087",
-    "Watchlist|https://www.investing.com/news/stock-market-news/warehouses-de-pauw-confirms-2026-guidance-after-solid-quarter-93CH-4968088",
-    "Watchlist|https://www.investing.com/news/economy-news/hold-hike-and-cut-bank-indonesia-says-theres-logic-to-the-policy-mix-4968091",
     "Watchlist|https://www.investing.com/news/stock-market-news/openai-and-polands-nask-collaborate-on-ai-safety-research-4968092",
     "Watchlist|https://www.investing.com/news/stock-market-news/munters-group-reports-strong-q3-order-intake-margins-mixed-93CH-4968093",
     "Watchlist|https://www.investing.com/news/economic-indicators/uk-retail-sales-fall-04-in-september-as-consumer-confidence-hits-sixmonth-low-4968096",
@@ -5000,7 +4989,18 @@
     "AI|a9fe3507-426d-35cb-bf87-605619fcfb6f",
     "SG Banks|https://www.straitstimes.com/singapore/jobs/askst-jobs-my-colleagues-get-more-flexibility-because-of-family-commitments-what-about-me",
     "AI|3d8c5a78-5969-33a5-b817-870f9a074921",
-    "Watchlist|3d8c5a78-5969-33a5-b817-870f9a074921"
+    "Watchlist|3d8c5a78-5969-33a5-b817-870f9a074921",
+    "AI|5090ffeb-a133-34e5-9f0d-5d9d673dc0eb",
+    "Watchlist|5090ffeb-a133-34e5-9f0d-5d9d673dc0eb",
+    "War|https://www.investing.com/news/commodities-news/goldman-lists-3-factors-that-support-long-commodities-positions-4971269",
+    "AI|https://www.investing.com/news/economy-news/canada-uk-to-develop-separate-defense-financing-institutions-4971268",
+    "AI|https://www.investing.com/news/commodities-news/goldman-lists-3-factors-that-support-long-commodities-positions-4971269",
+    "Cybersecurity|https://www.investing.com/news/economy-news/canada-uk-to-develop-separate-defense-financing-institutions-4971268",
+    "Cybersecurity|https://www.investing.com/news/commodities-news/goldman-lists-3-factors-that-support-long-commodities-positions-4971269",
+    "SG Banks|https://www.investing.com/news/economy-news/canada-uk-to-develop-separate-defense-financing-institutions-4971268",
+    "SG Banks|https://www.investing.com/news/commodities-news/goldman-lists-3-factors-that-support-long-commodities-positions-4971269",
+    "Watchlist|https://www.investing.com/news/economy-news/canada-uk-to-develop-separate-defense-financing-institutions-4971268",
+    "Watchlist|https://www.investing.com/news/commodities-news/goldman-lists-3-factors-that-support-long-commodities-positions-4971269"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792965382.6155555
+  "last_check": 1792966293.0186398
 }
