@@ -1,11 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|543d1e7c-5cdc-350a-873c-1be582aa20b5",
-    "AI|543d1e7c-5cdc-350a-873c-1be582aa20b5",
-    "AI|https://www.investing.com/news/insider-trading-news/wayfair-cto-fiona-tan-sells-920000-in-company-stock-93CH-4967837",
-    "AI|https://www.investing.com/news/insider-trading-news/arista-networks-president--cto-kenneth-duda-sells-78m-in-shares-93CH-4967838",
-    "AI|https://www.investing.com/news/economic-indicators/japan-cpi-inflation-hits-9mth-high-in-sept-crosses-boj-target-4967840",
     "AI|https://www.investing.com/news/economy-news/japan-core-inflation-exceeds-boj-target-cements-nearterm-rate-hike-chance-4967842",
     "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-alkane-resources-posts-steady-q1-2027-output-as-shares-fall-93CH-4967843",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/wayfair-cto-fiona-tan-sells-920000-in-company-stock-93CH-4967837",
@@ -5000,7 +4995,12 @@
     "SG Banks|/international/sydneys-new-international-airport-opens-passengers",
     "Watchlist|/international/sydneys-new-international-airport-opens-passengers",
     "AI|a4601b4a-03ed-32fb-a27c-42486ae75d78",
-    "Watchlist|a4601b4a-03ed-32fb-a27c-42486ae75d78"
+    "Watchlist|a4601b4a-03ed-32fb-a27c-42486ae75d78",
+    "AI|d87322f9-9f2e-3044-b279-b9d4c4821b72",
+    "Watchlist|c0cacb59-18b1-36da-b988-6da45748a4a4",
+    "War|6f302cbc-1b3a-332c-8228-0eb98c52462f",
+    "AI|6f302cbc-1b3a-332c-8228-0eb98c52462f",
+    "Watchlist|6f302cbc-1b3a-332c-8228-0eb98c52462f"
   ],
   "topic_error": "",
   "last_digest": "2026-10-25",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792891200.5217447
+  "last_check": 1792892113.986068
 }
