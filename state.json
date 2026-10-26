@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|328cfc24-221d-3022-aa52-6513e4eb604b",
-    "AI|044af371-07c2-3f9d-975e-d4df2b653310",
-    "War|f6b5b8a0-c340-3d21-b6fd-d2e7e638a788",
-    "Iran|https://www.iranintl.com/en/202610237124",
-    "SG Banks|https://www.straitstimes.com/business/even-chinas-wealthy-are-cutting-back-deepening-slump-for-hermes-and-cartier",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-bhg-shares-jump-on-strong-q3-2026-profit-growth-93CH-4968412",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-ipsos-stock-sliding-today-93CH-4968414",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-catena-q3-2026-rises-on-strong-rental-growth-93CH-4968413",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-adcb-posts-record-q3-2026-profit-as-margin-pressure-lingers-93CH-4968415",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-robert-half-stock-surging-today-93CH-4968416",
     "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-sgs-posts-record-q3-2026-sales-as-digital-trust-grows-93CH-4968431",
     "AI|https://www.investing.com/news/stock-market-news/rexel-sales-up-on-data-center-demand-guidance-raised-4968374",
     "AI|https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-043-4968377",
@@ -5000,7 +4990,17 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/worthington-enterprises-director-john-mcconnell-sells-257m-in-shares-93CH-4971373",
     "Watchlist|https://www.investing.com/news/stock-market-news/gift-nifty-50-breaks-618-fib-targets-22205-live-levels-93CH-4971374",
     "Watchlist|https://www.investing.com/news/economy-news/investors-expect-markets-to-unwind-as-brazils-lula-reelected-4971377",
-    "SG Banks|b2d2ccef-91a4-3830-9ed8-b5a8cf0a30b0"
+    "SG Banks|b2d2ccef-91a4-3830-9ed8-b5a8cf0a30b0",
+    "SG Banks|https://www.straitstimes.com/business/stocks-trade-cautiously-in-asia-brent-off-six-month-top",
+    "SG Banks|https://www.channelnewsasia.com/business/indias-infosys-falls-after-cutting-revenue-growth-forecast-fiscal-2027-6492101",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/first-resources-bumitama-agri-shares-fall-after-receiving-nea-notices-over-haze",
+    "AI|dfc2fb11-19e2-3c28-9ea7-1c76155a50fc",
+    "Watchlist|dfc2fb11-19e2-3c28-9ea7-1c76155a50fc",
+    "Iran|https://www.iranintl.com/en/202610237124",
+    "AI|cebf9cea-6060-3f7d-8b80-d82e3a52742e",
+    "AI|b2e30736-a11f-31ba-aa87-f9a01137ca86",
+    "Watchlist|cebf9cea-6060-3f7d-8b80-d82e3a52742e",
+    "Watchlist|b2e30736-a11f-31ba-aa87-f9a01137ca86"
   ],
   "topic_error": "",
   "last_digest": "2026-10-26",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792988258.9413238
+  "last_check": 1792989181.7956412
 }
