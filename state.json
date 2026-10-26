@@ -1,20 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/garware-hitech-q2-fy27-slides-margins-soar-past-guidance-93CH-4968212",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-uk-retail-sales-miss-oil-hits-fivemonth-high-4968213",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-scanfil-posts-strong-q3-2026-growth-stock-slips-93CH-4968214",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-storskogens-q3-2026-growth-offsets-slight-eps-miss-93CH-4968215",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-trelleborg-posts-record-q3-2026-sales-margin-gains-93CH-4968216",
-    "Cybersecurity|https://www.investing.com/news/earnings/signify-rallies-9-after-topping-profit-forecasts-on-us-tariff-refund-cost-cuts-93CH-4968217",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-sodexo-stock-surging-today-93CH-4968220",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/trainline-stock-downgraded-by-canaccord-on-regulatory-concerns-93CH-4968221",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/citizens-initiates-microbot-medical-stock-with-outperform-rating-93CH-4968222",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/ovh-groupe-stock-tumbles-18-following-block-trade-pricing-93CH-4968225",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/unity-bancorp-director-peter-maricondo-sells-26435-in-stock-93CH-4968227",
-    "Cybersecurity|https://www.investing.com/news/company-news/hana-financial-q3-2026-slides-record-earnings-fee-income-surge-30-93CH-4968196",
-    "Cybersecurity|https://www.investing.com/news/company-news/norsk-hydro-q3-2026-slides-ebitda-rises-despite-cash-flow-pressure-93CH-4968209",
-    "Cybersecurity|https://www.investing.com/news/company-news/garware-hitech-q2-fy27-slides-margins-soar-past-guidance-93CH-4968212",
     "SG Banks|https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-uk-retail-sales-miss-oil-hits-fivemonth-high-4968213",
     "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-scanfil-posts-strong-q3-2026-growth-stock-slips-93CH-4968214",
     "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-storskogens-q3-2026-growth-offsets-slight-eps-miss-93CH-4968215",
@@ -5000,7 +4986,21 @@
     "SG Banks|https://www.channelnewsasia.com/business/asian-shares-make-cautious-start-brent-eases-six-month-high-6491806",
     "War|d5bc0345-3aeb-378c-9686-08b8128bebf6",
     "AI|002b98c9-8a0f-36c6-b7be-854ce19ea3e5",
-    "Watchlist|002b98c9-8a0f-36c6-b7be-854ce19ea3e5"
+    "Watchlist|002b98c9-8a0f-36c6-b7be-854ce19ea3e5",
+    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-artrya-lifts-outlook-in-q1-2026-as-stock-falls-93CH-4971332",
+    "AI|https://www.investing.com/news/company-news/ramelius-q1-fy27-slides-cash-surges-to-a768m-as-growth-ramps-93CH-4971333",
+    "AI|https://www.investing.com/news/stock-market-news/asian-shares-make-cautious-start-brent-eases-from-sixmonth-high-4971334",
+    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-artrya-lifts-outlook-in-q1-2026-as-stock-falls-93CH-4971332",
+    "Cybersecurity|https://www.investing.com/news/company-news/ramelius-q1-fy27-slides-cash-surges-to-a768m-as-growth-ramps-93CH-4971333",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/asian-shares-make-cautious-start-brent-eases-from-sixmonth-high-4971334",
+    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-artrya-lifts-outlook-in-q1-2026-as-stock-falls-93CH-4971332",
+    "SG Banks|https://www.investing.com/news/company-news/ramelius-q1-fy27-slides-cash-surges-to-a768m-as-growth-ramps-93CH-4971333",
+    "SG Banks|https://www.investing.com/news/stock-market-news/asian-shares-make-cautious-start-brent-eases-from-sixmonth-high-4971334",
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-artrya-lifts-outlook-in-q1-2026-as-stock-falls-93CH-4971332",
+    "Watchlist|https://www.investing.com/news/company-news/ramelius-q1-fy27-slides-cash-surges-to-a768m-as-growth-ramps-93CH-4971333",
+    "Watchlist|https://www.investing.com/news/stock-market-news/asian-shares-make-cautious-start-brent-eases-from-sixmonth-high-4971334",
+    "AI|c175f91f-1299-30f4-83b0-d838bfa80207",
+    "Watchlist|c175f91f-1299-30f4-83b0-d838bfa80207"
   ],
   "topic_error": "",
   "last_digest": "2026-10-26",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792976370.321189
+  "last_check": 1792977291.4371035
 }
