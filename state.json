@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/why-is-ringcentral-stock-surging-today-93CH-4968327",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-lancashire-stock-sliding-today-93CH-4968328",
-    "AI|https://www.investing.com/news/company-news/gjensidige-q3-2026-slides-profit-surges-on-strong-underwriting-93CH-4968329",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-beijer-alma-q3-2026-sales-rise-11-as-stock-gains-3-93CH-4968331",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-lifco-stock-dropping-today-93CH-4968332",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-bloom-energy-stock-recovering-today-93CH-4968333",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-sodexo-rises-on-h2-2026-turnaround-and-2027-outlook-93CH-4968334",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-boule-diagnostics-sinks-on-q3-2026-sales-slump-93CH-4968335",
-    "AI|https://www.investing.com/news/analyst-ratings/raymond-james-downgrades-cass-information-systems-stock-rating-on-valuation-93CH-4968336",
-    "AI|https://www.investing.com/news/analyst-ratings/piper-sandler-cuts-globe-life-stock-rating-on-medical-claims-concerns-93CH-4968339",
-    "AI|https://www.investing.com/news/analyst-ratings/raymond-james-downgrades-first-industrial-realty-stock-rating-on-weaker-outlook-93CH-4968340",
-    "AI|https://www.investing.com/news/company-news/evolution-q3-2026-slides-growth-returns-amid-regional-divergence-93CH-4968276",
     "AI|https://www.investing.com/news/company-news/indutrade-q3-2026-slides-strong-growth-margins-expand-to-153-93CH-4968291",
     "AI|https://www.investing.com/news/company-news/hiab-q3-2026-slides-profit-surges-73-but-stock-falls-on-organic-concerns-93CH-4968315",
     "AI|https://www.investing.com/news/company-news/electrolux-q3-2026-slides-cost-cuts-offset-weak-demand-outlook-revised-93CH-4968318",
@@ -5000,7 +4988,19 @@
     "War|b205e251-fccb-32ae-a1db-220ac228e859",
     "War|250c0676-481c-385f-babc-d5d9ff7b82bf",
     "AI|250c0676-481c-385f-babc-d5d9ff7b82bf",
-    "Watchlist|250c0676-481c-385f-babc-d5d9ff7b82bf"
+    "Watchlist|250c0676-481c-385f-babc-d5d9ff7b82bf",
+    "SG Banks|/companies-markets/energy-commodities/gold-steadies-after-weekly-drop-focus-shifts-fed-meeting",
+    "Watchlist|/companies-markets/energy-commodities/gold-steadies-after-weekly-drop-focus-shifts-fed-meeting",
+    "War|https://www.investing.com/news/commodities-news/gold-steadies-near-3mth-low-as-elevated-oil-prices-weigh-fed-meet-eyed-4971362",
+    "AI|https://www.investing.com/news/stock-market-news/australias-eagers-auto-to-buy-remaining-stake-in-byd-joint-venture-4971360",
+    "AI|https://www.investing.com/news/commodities-news/gold-steadies-near-3mth-low-as-elevated-oil-prices-weigh-fed-meet-eyed-4971362",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/australias-eagers-auto-to-buy-remaining-stake-in-byd-joint-venture-4971360",
+    "Cybersecurity|https://www.investing.com/news/commodities-news/gold-steadies-near-3mth-low-as-elevated-oil-prices-weigh-fed-meet-eyed-4971362",
+    "SG Banks|https://www.investing.com/news/stock-market-news/australias-eagers-auto-to-buy-remaining-stake-in-byd-joint-venture-4971360",
+    "SG Banks|https://www.investing.com/news/commodities-news/gold-steadies-near-3mth-low-as-elevated-oil-prices-weigh-fed-meet-eyed-4971362",
+    "Watchlist|https://www.investing.com/news/stock-market-news/australias-eagers-auto-to-buy-remaining-stake-in-byd-joint-venture-4971360",
+    "Watchlist|https://www.investing.com/news/commodities-news/gold-steadies-near-3mth-low-as-elevated-oil-prices-weigh-fed-meet-eyed-4971362",
+    "War|f67c1cd6-cdeb-3071-b7f7-57e2ffe4afdc"
   ],
   "topic_error": "",
   "last_digest": "2026-10-26",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792983689.6389215
+  "last_check": 1792984626.6889803
 }
