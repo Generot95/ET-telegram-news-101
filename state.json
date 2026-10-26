@@ -1,17 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/insider-trading-news/city-holding-co-director-diane-strongtreister-buys-17055-in-stock-93CH-4970729",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/city-holding-co-director-james-hoyer-buys-14213-in-common-stock-93CH-4970728",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/city-holding-co-director-robert-d-fisher-buys-23451-in-company-stock-93CH-4970730",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/ibotta-cto-luke-swanson-sells-125-million-in-company-stock-93CH-4970731",
-    "SG Banks|https://www.investing.com/news/company-news/jj-prostate-cancer-drug-shows-promising-tumor-responses-in-early-trial-4970732",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/wintrust-financial-vice-chair-sells-106m-in-shares-93CH-4970724",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/city-holding-co-director-diane-strongtreister-buys-17055-in-stock-93CH-4970729",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/city-holding-co-director-james-hoyer-buys-14213-in-common-stock-93CH-4970728",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/city-holding-co-director-robert-d-fisher-buys-23451-in-company-stock-93CH-4970730",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/ibotta-cto-luke-swanson-sells-125-million-in-company-stock-93CH-4970731",
-    "Watchlist|https://www.investing.com/news/company-news/jj-prostate-cancer-drug-shows-promising-tumor-responses-in-early-trial-4970732",
     "AI|025317ba-c442-3a8c-90df-01e5e064f641",
     "Watchlist|025317ba-c442-3a8c-90df-01e5e064f641",
     "War|https://www.investing.com/news/commodities-news/ukrainian-strike-on-enterprise-in-russias-oryol-kills-three-governor-says-4970733",
@@ -5000,7 +4989,18 @@
     "Watchlist|https://www.investing.com/news/company-news/elemental-royalty-completes-188m-acquisition-from-orion-93CH-4973903",
     "Watchlist|https://www.investing.com/news/company-news/united-rentals-subsidiary-prices-25-billion-debt-offering-93CH-4973904",
     "AI|daf12eb7-aadd-3f27-a587-ad697289addd",
-    "Watchlist|daf12eb7-aadd-3f27-a587-ad697289addd"
+    "Watchlist|daf12eb7-aadd-3f27-a587-ad697289addd",
+    "SG Banks|https://www.channelnewsasia.com/business/wall-street-anthropic-ipo-ai-trade-stocks-6493796",
+    "Watchlist|34e5b915-c012-37c2-a7af-f5946519d487",
+    "AI|0eb408c1-c356-3fad-892d-84796dfd246c",
+    "Watchlist|0eb408c1-c356-3fad-892d-84796dfd246c",
+    "AI|bac40ff2-5008-35c8-bca4-38ca3799f7f7",
+    "AI|2537824b-7906-3986-9462-6be89cafb24d",
+    "Watchlist|2537824b-7906-3986-9462-6be89cafb24d",
+    "Watchlist|bac40ff2-5008-35c8-bca4-38ca3799f7f7",
+    "AI|ede3269a-0acf-3a0e-ac91-e6bcf906fb35",
+    "Watchlist|ede3269a-0acf-3a0e-ac91-e6bcf906fb35",
+    "AI|fab34678-08d6-31ca-a951-4cba11f5cf3a"
   ],
   "topic_error": "",
   "last_digest": "2026-10-26",
@@ -5080,5 +5080,5 @@
     "MSFT|2026-10-29",
     "LIN|2026-10-29"
   ],
-  "last_check": 1793054837.217637
+  "last_check": 1793055765.1985219
 }
