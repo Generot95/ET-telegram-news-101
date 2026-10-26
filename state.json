@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|3c13fff9-dfdd-36f2-86a6-f0d617a3325e",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-valeo-stock-sliding-today-93CH-4968305",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-hiab-stock-sliding-today-93CH-4968307",
     "AI|https://www.investing.com/news/stock-market-news/why-is-volvo-ab-stock-sliding-today-93CH-4968310",
     "AI|https://www.investing.com/news/stock-market-news/why-is-aak-stock-sliding-today-93CH-4968312",
     "AI|https://www.investing.com/news/stock-market-news/robinson-plc-tumbles-10-on-profit-warning-weak-demand-4968317",
@@ -5000,7 +4997,10 @@
     "SG Banks|/companies-markets/crisis-revival-sgx-ceo-loh-boon-chye-plans-exit-after-lucrative-decade-long-pivot",
     "Watchlist|/companies-markets/ocbc-mobile-online-banking-services-restored-after-friday-afternoon-disruption",
     "SG Banks|https://www.channelnewsasia.com/business/moonshot-resets-subscriber-quotas-after-kimi-k31-pro-launch-issues-6491956",
-    "Watchlist|/companies-markets/crisis-revival-sgx-ceo-loh-boon-chye-plans-exit-after-lucrative-decade-long-pivot"
+    "Watchlist|/companies-markets/crisis-revival-sgx-ceo-loh-boon-chye-plans-exit-after-lucrative-decade-long-pivot",
+    "AI|845b8f56-b92c-3e4c-aea0-e98897e951b2",
+    "Watchlist|845b8f56-b92c-3e4c-aea0-e98897e951b2",
+    "SG Banks|https://www.straitstimes.com/business/yen-is-becoming-a-better-hedge-against-ai-market-shock-goldman-sachs"
   ],
   "topic_error": "",
   "last_digest": "2026-10-26",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792981852.6185737
+  "last_check": 1792982765.5099657
 }
