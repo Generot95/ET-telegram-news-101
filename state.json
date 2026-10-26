@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/amazons-aws-cloud-capacity-largely-sold-out-through-2027-ceo-says-4970563",
-    "Cybersecurity|https://www.investing.com/news/company-news/amazons-aws-cloud-capacity-largely-sold-out-through-2027-ceo-says-4970563",
-    "SG Banks|https://www.investing.com/news/company-news/amazons-aws-cloud-capacity-largely-sold-out-through-2027-ceo-says-4970563",
-    "Watchlist|https://www.investing.com/news/company-news/amazons-aws-cloud-capacity-largely-sold-out-through-2027-ceo-says-4970563",
-    "SG Banks|/companies-markets/telcos-media-tech/instacart-talks-doordash-and-uber-sale-report",
-    "Watchlist|/companies-markets/telcos-media-tech/instacart-talks-doordash-and-uber-sale-report",
-    "War|81a97362-de78-32e1-a3c3-349a92be168b",
-    "Iran|https://www.iranintl.com/en/202610235803",
-    "AI|19cc27ef-0897-3227-b7e9-7562b3b7434f",
-    "Watchlist|19cc27ef-0897-3227-b7e9-7562b3b7434f",
-    "Iran|https://www.iranintl.com/en/202610210181",
-    "AI|36035386-c669-3132-b0c5-013f5581e964",
     "AI|https://www.investing.com/news/world-news/french-businesses-events-to-close-with-more-weekend-protests-expected-4968289",
     "AI|https://www.investing.com/news/world-news/police-officers-resign-after-fatal-shooting-ofblack-child-in-mississippi-4970552",
     "AI|https://www.investing.com/news/world-news/us-accuses-government-contractor-of-leaking-classified-info-to-girlfriendssubstack-4970564",
@@ -5000,7 +4988,19 @@
     "SG Banks|/companies-markets/telcos-media-tech/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-widely-used-software",
     "Watchlist|1d3cf6fa-1899-3158-8c07-c4509c541eca",
     "Watchlist|/companies-markets/consumer-healthcare/fast-fashion-group-shein-agrees-pay-us100-million-settle-us-ftc-probe",
-    "Watchlist|/companies-markets/telcos-media-tech/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-widely-used-software"
+    "Watchlist|/companies-markets/telcos-media-tech/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-widely-used-software",
+    "War|4cdb5a01-0a37-4106-a718-0a31169feab4",
+    "AI|d6a09e68-0a4a-3fe6-9c3f-4508f9d42600",
+    "Watchlist|d6a09e68-0a4a-3fe6-9c3f-4508f9d42600",
+    "Watchlist|9be2f5b6-713b-3e50-a8b8-6f91e220684b",
+    "SG Banks|https://www.channelnewsasia.com/obsessions/luxury-brands-china-demand-slowdown-6491896",
+    "SG Banks|/companies-markets/telcos-media-tech/instacart-talks-doordash-and-uber-sale-report",
+    "Watchlist|/companies-markets/telcos-media-tech/instacart-talks-doordash-and-uber-sale-report",
+    "AI|dd9e6428-5d77-384f-bd61-52b860aaf8fe",
+    "Watchlist|dd9e6428-5d77-384f-bd61-52b860aaf8fe",
+    "Iran|https://www.iranintl.com/en/202610235803",
+    "Crypto|38f8ef5c-ec49-3679-92c2-d912b7910a5a",
+    "Iran|https://www.iranintl.com/en/202610210181"
   ],
   "topic_error": "",
   "last_digest": "2026-10-26",
@@ -5080,5 +5080,5 @@
     "MSFT|2026-10-29",
     "LIN|2026-10-29"
   ],
-  "last_check": 1793050200.9966407
+  "last_check": 1793051123.049056
 }
