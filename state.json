@@ -1,24 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/chs-us-investments-a-10-owner-buys-16m-in-rent-the-runway-rent-93CH-4970755",
-    "Watchlist|https://www.investing.com/news/economy-news/ukraine-says-military-starlink-service-restored-after-10day-disruption-4970760",
-    "War|3e034fb6-252d-316d-adfe-64b9a70915e8",
-    "War|4d001d45-47a5-3549-bd81-13f5570f8ea7",
-    "AI|d1afeb56-db10-379a-9a96-7388f732da09",
-    "AI|ad02725a-266e-328f-a348-21e721187362",
-    "AI|bccc4e47-9b00-3e7f-b2fe-47c51c8c4f21",
-    "AI|c0e61a27-626b-30f5-b0a5-cbaf657cdfb2",
-    "Crypto|9518cbce-a351-37b0-bec5-221777f929ab",
-    "Watchlist|d1afeb56-db10-379a-9a96-7388f732da09",
-    "Watchlist|ad02725a-266e-328f-a348-21e721187362",
-    "Watchlist|bccc4e47-9b00-3e7f-b2fe-47c51c8c4f21",
-    "Watchlist|c0e61a27-626b-30f5-b0a5-cbaf657cdfb2",
-    "AI|e56f48c3-56d5-371a-b906-971751c6ace7",
-    "Watchlist|e56f48c3-56d5-371a-b906-971751c6ace7",
-    "AI|https://www.investing.com/news/insider-trading-news/travelers-chairman-and-ceo-alan-schnitzer-sells-353m-in-shares-93CH-4970765",
-    "AI|https://www.investing.com/news/insider-trading-news/travelers-evp--president-sells-1404m-of-company-stock-93CH-4970766",
-    "AI|https://www.investing.com/news/insider-trading-news/story3-capital-partners-buys-225m-in-rent-the-runway-shares-93CH-4970767",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/travelers-chairman-and-ceo-alan-schnitzer-sells-353m-in-shares-93CH-4970765",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/travelers-evp--president-sells-1404m-of-company-stock-93CH-4970766",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/story3-capital-partners-buys-225m-in-rent-the-runway-shares-93CH-4970767",
@@ -5000,7 +4982,25 @@
     "AI|6d222387-f460-30f8-a9d7-8e431c08c365",
     "AI|59c01176-9266-3a40-a207-f5d7f1461742",
     "Watchlist|6d222387-f460-30f8-a9d7-8e431c08c365",
-    "SG Banks|https://www.straitstimes.com/business/singapores-wealthy-keep-more-than-70-of-assets-in-cash-despite-rising-wealth-citi"
+    "SG Banks|https://www.straitstimes.com/business/singapores-wealthy-keep-more-than-70-of-assets-in-cash-despite-rising-wealth-citi",
+    "War|da3c8ba9-ed98-4fac-94f0-3fa4351eab87",
+    "AI|https://www.investing.com/news/world-news/brazil-heads-back-to-the-future-as-flavio-bolsonaro-refuses-to-recognize-lula-win-4971510",
+    "Cybersecurity|https://www.investing.com/news/world-news/brazil-heads-back-to-the-future-as-flavio-bolsonaro-refuses-to-recognize-lula-win-4971510",
+    "SG Banks|https://www.investing.com/news/world-news/brazil-heads-back-to-the-future-as-flavio-bolsonaro-refuses-to-recognize-lula-win-4971510",
+    "Watchlist|https://www.investing.com/news/world-news/brazil-heads-back-to-the-future-as-flavio-bolsonaro-refuses-to-recognize-lula-win-4971510",
+    "AI|https://www.investing.com/news/insider-trading-news/stewart-information-director-thomas-apel-buys-95470-in-stock-93CH-4973950",
+    "AI|https://www.investing.com/news/insider-trading-news/stewart-information-services-director-buys-93640-in-shares-93CH-4973951",
+    "AI|https://www.investing.com/news/economic-indicators/south-korea-gdp-grows-more-than-expected-in-q3-on-ai-boost-4973952",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/stewart-information-director-thomas-apel-buys-95470-in-stock-93CH-4973950",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/stewart-information-services-director-buys-93640-in-shares-93CH-4973951",
+    "Cybersecurity|https://www.investing.com/news/economic-indicators/south-korea-gdp-grows-more-than-expected-in-q3-on-ai-boost-4973952",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/stewart-information-director-thomas-apel-buys-95470-in-stock-93CH-4973950",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/stewart-information-services-director-buys-93640-in-shares-93CH-4973951",
+    "SG Banks|https://www.investing.com/news/economic-indicators/south-korea-gdp-grows-more-than-expected-in-q3-on-ai-boost-4973952",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/stewart-information-director-thomas-apel-buys-95470-in-stock-93CH-4973950",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/stewart-information-services-director-buys-93640-in-shares-93CH-4973951",
+    "Watchlist|https://www.investing.com/news/economic-indicators/south-korea-gdp-grows-more-than-expected-in-q3-on-ai-boost-4973952",
+    "War|8b95888c-3a29-366b-b371-351ea44b67d5"
   ],
   "topic_error": "",
   "last_digest": "2026-10-26",
@@ -5080,5 +5080,5 @@
     "MSFT|2026-10-29",
     "LIN|2026-10-29"
   ],
-  "last_check": 1793057586.4805799
+  "last_check": 1793058506.6191428
 }
