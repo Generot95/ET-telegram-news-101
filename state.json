@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-sika-q3-2026-growth-holds-firm-as-shares-slip-93CH-4969908",
-    "AI|https://www.investing.com/news/stock-market-news/church--dwight-options-signal-37-move-on-earnings-93CH-4969909",
-    "AI|https://www.investing.com/news/company-news/dcb-bank-q2-fy27-slides-record-profit-amid-margin-headwinds-93CH-4969910",
-    "AI|https://www.investing.com/news/stock-market-news/exxonmobil-stock-may-move-25-on-oct-30-earnings-report-93CH-4969912",
-    "AI|https://www.investing.com/news/company-news/nuveen-muni-h-income-opp-fund-stock-hits-52week-low-at-868-usd-93CH-4969913",
-    "AI|https://www.investing.com/news/company-news/first-citizens-q3-2026-slides-balance-sheet-growth-offsets-margin-pressure-93CH-4969914",
-    "AI|https://www.investing.com/news/economy-news/us-consumer-sentiment-near-record-low-ahead-of-midterm-elections-4969915",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-gentex-misses-q3-2026-estimates-shares-fall-68-93CH-4969916",
-    "AI|https://www.investing.com/news/stock-market-news/capri-holdings-shares-may-move-19-on-earnings-release-93CH-4969888",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-credo-technology-stock-sliding-today-93CH-4969891",
-    "AI|https://www.investing.com/news/stock-market-news/chevron-stock-may-move-23-on-earnings-release-93CH-4969892",
-    "AI|https://www.investing.com/news/stock-market-news/kenvue-shares-may-move-57-on-oct-30-earnings-release-93CH-4969893",
-    "AI|https://www.investing.com/news/stock-market-news/cboe-global-markets-shares-may-move-34-on-earnings-release-93CH-4969906",
     "AI|https://www.investing.com/news/company-news/uranium-energy-corp-stock-hits-52week-low-at-725-93CH-4969864",
     "AI|https://www.investing.com/news/company-news/ameresco-stock-hits-52week-low-at-1835-usd-93CH-4969874",
     "AI|https://www.investing.com/news/company-news/bitdeer-technologies-group-stock-hits-52week-low-at-691-93CH-4969885",
@@ -5000,7 +4987,20 @@
     "Iran|https://www.iranintl.com/en/202610216166",
     "Watchlist|198e768f-6262-3bda-b859-3e811c4ed179",
     "Watchlist|a7a0882f-ef95-39a2-967e-3d614d224c35",
-    "AI|198e768f-6262-3bda-b859-3e811c4ed179"
+    "AI|198e768f-6262-3bda-b859-3e811c4ed179",
+    "AI|3d950a71-67ab-30e0-a479-60b7a1e8eb0c",
+    "AI|e66a6143-667e-3ad4-9cda-e53fd15388c9",
+    "AI|42c328b6-6868-3681-9b55-eee97570c399",
+    "Watchlist|e66a6143-667e-3ad4-9cda-e53fd15388c9",
+    "Watchlist|42c328b6-6868-3681-9b55-eee97570c399",
+    "Cybersecurity|8d656372-1967-3d19-acb2-cba315e43224",
+    "AI|bcc0355c-a3b7-4d7a-b83c-b72347d9d053",
+    "AI|ec0a002c-160c-3e45-bb25-242255a6077d",
+    "AI|0e1a7822-6571-3c77-b051-7e0aa74094dd",
+    "AI|f7cd224e-171a-34d3-9067-594c7aa76c9a",
+    "Watchlist|f7cd224e-171a-34d3-9067-594c7aa76c9a",
+    "Watchlist|ec0a002c-160c-3e45-bb25-242255a6077d",
+    "Watchlist|a27b4bfe-f0fa-352b-9909-297938daf7f9"
   ],
   "topic_error": "",
   "last_digest": "2026-10-26",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1793018830.9883652
+  "last_check": 1793019696.8109596
 }
