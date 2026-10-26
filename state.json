@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/sec-filings/sp-global-files-pro-forma-financials-after-mobility-segment-separation-93CH-4968735",
-    "AI|https://www.investing.com/news/analyst-ratings/truist-raises-huron-consulting-stock-price-target-on-growth-outlook-93CH-4968736",
-    "AI|https://www.investing.com/news/stock-market-news/exclusivenew-mexicos-outside-lawyers-could-collect-up-to-127-billion-in-meta-case-4968679",
-    "AI|https://www.investing.com/news/analyst-ratings/truist-cuts-fti-consulting-stock-price-target-on-modest-demand-93CH-4968737",
-    "AI|https://www.investing.com/news/stock-market-news/exclusivechevron-uses-permian-playbook-to-breathe-life-into-argentinas-dead-cow-oil-region-4968718",
-    "AI|https://www.investing.com/news/stock-market-news/aidiscovered-bugs-may-soon-trigger-fresh-disruptions-cyber-experts-say-4968682",
-    "AI|https://www.investing.com/news/stock-market-news/chinas-byd-plans-to-double-capacity-at-brazilian-plant-4968683",
-    "AI|https://www.investing.com/news/stock-market-news/bofa-flags-further-downside-risk-for-stocks-yields-and-dollar-4968691",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-flagstar-bank-stock-sliding-today-93CH-4968729",
-    "AI|https://www.investing.com/news/company-news/moneta-q3-2026-slides-profit-target-raised-on-record-quarterly-performance-93CH-4968694",
-    "AI|https://www.investing.com/news/company-news/jinkosolar-completes-name-change-to-jinko-holdings-limited-93CH-4968715",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/analysistrumps-diesel-price-relief-efforts-grow-costlier-as-election-nears-4968734",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/analysisus-airlines-favor-higher-fares-over-fuller-planes-as-fuel-costs-squeeze-profits-4968690",
     "Cybersecurity|https://www.investing.com/news/sec-filings/sp-global-files-pro-forma-financials-after-mobility-segment-separation-93CH-4968735",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/spacex-in-talks-for-80000-cell-sites-to-build-nationwide-wireless-network-report-4967701",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/truist-raises-huron-consulting-stock-price-target-on-growth-outlook-93CH-4968736",
@@ -5000,7 +4987,20 @@
     "Watchlist|https://www.investing.com/news/economy-news/ready-for-a-french-test-five-questions-for-the-ecb-4971518",
     "Watchlist|https://www.investing.com/news/earnings/galp-raises-2026-guidance-after-q3-core-profit-beats-forecasts-4971519",
     "Watchlist|https://www.investing.com/news/economic-indicators/sweden-producer-prices-jump-34-in-september-on-energy-costs-93CH-4971521",
-    "Watchlist|https://www.investing.com/news/company-news/adani-power-q2-fy27-slides-profit-surges-142-on-volume-growth-93CH-4971528"
+    "Watchlist|https://www.investing.com/news/company-news/adani-power-q2-fy27-slides-profit-surges-142-on-volume-growth-93CH-4971528",
+    "War|WP-MKTW-0005303334",
+    "AI|WP-MKTW-0005303334",
+    "Cybersecurity|WP-MKTW-0005303334",
+    "SG Banks|/international/asean/indonesias-central-bank-keeps-main-rate-unchanged-hikes-deposit-facility-rate-cut-rrr",
+    "SG Banks|/companies-markets/former-minister-maliki-osman-revolut-chairman-join-asia-gulf-holdings-advisory-board",
+    "SG Banks|/international/asean/dbs-maybank-ifc-collaborate-funding-johor-singapore-renewable-energy-project",
+    "Watchlist|/international/asean/dbs-maybank-ifc-collaborate-funding-johor-singapore-renewable-energy-project",
+    "Watchlist|/companies-markets/former-minister-maliki-osman-revolut-chairman-join-asia-gulf-holdings-advisory-board",
+    "AI|713032e4-cbb2-3456-907c-c75e4e70161c",
+    "Watchlist|713032e4-cbb2-3456-907c-c75e4e70161c",
+    "AI|fd7b4b75-f0b8-3d4e-8745-823cb2e2ba67",
+    "Watchlist|fd7b4b75-f0b8-3d4e-8745-823cb2e2ba67",
+    "Watchlist|5733c412-39f5-37d9-baa9-527c9f3f3713"
   ],
   "topic_error": "",
   "last_digest": "2026-10-26",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1793000168.506729
+  "last_check": 1793001090.1098077
 }
