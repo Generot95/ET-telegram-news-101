@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/cumberland-pharmaceuticals-stock-tumbles-on-trial-results-4970365",
-    "Watchlist|https://www.investing.com/news/sec-filings/barnes--noble-education-director-kate-eberle-walker-to-resign-in-december-93CH-4970367",
-    "Watchlist|https://www.investing.com/news/stock-market-news/apples-foldable-iphone-hits-stores-with-2000-price-tag-and-scarce-supply-4970368",
-    "Watchlist|https://www.investing.com/news/company-news/summit-therapeutics-partners-with-lunit-on-ai-pathology-research-93CH-4970369",
-    "Watchlist|https://www.investing.com/news/sec-filings/sitime-director-katherine-schuelke-resigns-board-size-reduced-to-eight-93CH-4970370",
-    "Iran|https://www.iranintl.com/en/202610199849",
-    "War|WP-MKTW-0005305118",
-    "AI|388b64e7-8dd3-3cea-a983-1de437ae3abc",
-    "AI|WP-MKTW-0005305118",
-    "Cybersecurity|WP-MKTW-0005305118",
-    "Watchlist|388b64e7-8dd3-3cea-a983-1de437ae3abc",
-    "AI|878e2940-5cca-31dc-93a1-adf8f1ddea55",
-    "AI|1c71286d-c223-3829-8c75-5aaf15581345",
     "AI|db9bed1b-0c5e-3572-bf64-309e73276eac",
     "Watchlist|1c71286d-c223-3829-8c75-5aaf15581345",
     "AI|cdb9c13b-db57-3551-acd0-7507e9d69b5a",
@@ -5000,7 +4987,20 @@
     "Watchlist|fcc7e770-f4c4-3aa3-9d59-983ec75000e8",
     "Watchlist|8934e457-5f81-33bf-89f7-96ce8c6efeef",
     "Crypto|9dc2f50b-216f-3295-90c9-1a0dcf86e0b8",
-    "SG Banks|https://www.channelnewsasia.com/business/skydance-offers-buyouts-some-employees-cut-costs-after-warner-bros-merger-6494286"
+    "SG Banks|https://www.channelnewsasia.com/business/skydance-offers-buyouts-some-employees-cut-costs-after-warner-bros-merger-6494286",
+    "War|WP-MKTW-0005301316",
+    "AI|WP-MKTW-0005301316",
+    "Cybersecurity|WP-MKTW-0005301316",
+    "War|https://www.investing.com/news/world-news/french-student-protesters-say-government-offered-them-deal-but-they-want-more-4973382",
+    "War|https://www.investing.com/news/world-news/russian-missile-strikes-on-ukraines-kharkiv-kill-two-injure-four-mayor-says-4973402",
+    "War|https://www.investing.com/news/world-news/after-return-of-opposition-leader-venezuelas-acting-president-says-hopes-dialogue-will-offer-space-for-all-voices-4973416",
+    "War|https://www.investing.com/news/world-news/un-inquiry-says-israel-kept-committing-genocide-in-gaza-after-truce-4973415",
+    "War|https://www.investing.com/news/world-news/analysisnow-home-venezuela-opposition-leader-machado-walks-tightrope-with-supporters-trump-4973368",
+    "War|https://www.investing.com/news/world-news/macron-says-paris-suburb-shooting-that-killed-one-person-was-terrorist-and-racist-act-4973466",
+    "AI|bab7f6d8-ed75-3e26-804d-6bc5f3af220e",
+    "Watchlist|bab7f6d8-ed75-3e26-804d-6bc5f3af220e",
+    "War|3dd0785e-ce4f-37f8-8b39-ad8f2d1cd0ab",
+    "War|e2e5cdd8-d4e1-4612-a53b-0dc2c6c0032a"
   ],
   "topic_error": "",
   "last_digest": "2026-10-26",
@@ -5080,5 +5080,5 @@
     "MSFT|2026-10-29",
     "LIN|2026-10-29"
   ],
-  "last_check": 1793043798.9338958
+  "last_check": 1793044714.4849539
 }
