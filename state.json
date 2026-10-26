@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/economic-indicators/french-business-activity-contracts-in-october-amid-political-financial-pressures-pmi-shows-4968183",
-    "Cybersecurity|https://www.investing.com/news/company-news/tomra-q3-2026-slides-55-ebita-growth-ahead-of-uk-market-launch-93CH-4968143",
-    "Cybersecurity|https://www.investing.com/news/company-news/karnell-q3-2026-slides-record-profit-206-margin-beats-target-93CH-4968145",
-    "Cybersecurity|https://www.investing.com/news/company-news/hpcl-oct-2026-slides-capacity-expansion-plans-amid-h1-fy27-loss-93CH-4968151",
-    "Cybersecurity|https://www.investing.com/news/company-news/groupe-adp-9m-2026-slides-international-growth-offsets-paris-weakness-93CH-4968154",
-    "Cybersecurity|https://www.investing.com/news/company-news/planisware-q3-2026-slides-recurring-revenue-hits-90-as-ai-launch-nears-93CH-4968156",
-    "Cybersecurity|https://www.investing.com/news/company-news/bjorn-borg-q3-2026-slides-record-profit-masks-growth-challenge-93CH-4968169",
-    "Cybersecurity|https://www.investing.com/news/company-news/volvo-cars-q3-2026-slides-show-sek-37bn-loss-2500-job-cuts-93CH-4968174",
-    "SG Banks|/companies-markets/transport-logistics/chinese-automaker-reports-set-shine-challenges-mount",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-hana-financial-group-posts-steady-q3-2026-profit-shares-fall-3-93CH-4968175",
     "SG Banks|https://www.investing.com/news/company-news/bluestone-q2-fy27-slides-revenue-surges-44-as-shares-decline-93CH-4968176",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-kering-stock-plunging-today-93CH-4968177",
     "SG Banks|https://www.investing.com/news/stock-market-news/bofa-names-top-eu-airline-stocks-ahead-of-earnings-season-4968178",
@@ -5000,10 +4990,20 @@
     "Watchlist|https://www.investing.com/news/analyst-ratings/stifel-raises-oric-pharmaceuticals-price-target-to-18-on-esmo-data-93CH-4971305",
     "Watchlist|https://www.investing.com/news/commodities-news/oil-prices-down-almost-1-in-early-trading-4971306",
     "Watchlist|https://www.investing.com/news/stock-market-news/apple-seeks-more-iphone-duo-supplies-amid-strong-demand-for-debut-foldable-report-4971307",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-82k-as-tech-rout-rising-oil-dent-risk-4968158"
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-82k-as-tech-rout-rising-oil-dent-risk-4968158",
+    "AI|3786dd69-bbf4-3356-905d-e8d0b44bae8d",
+    "Watchlist|3786dd69-bbf4-3356-905d-e8d0b44bae8d",
+    "War|7da1a096-a7bf-3607-be18-582a836b0f5e",
+    "Crypto|f6fa658a-6c8d-3903-ba48-2442afbc5c4c",
+    "AI|https://www.investing.com/news/insider-trading-news/horizon-kinetics-buys-texas-pacific-land-stock-for-340-93CH-4971316",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/horizon-kinetics-buys-texas-pacific-land-stock-for-340-93CH-4971316",
+    "SG Banks|/companies-markets/keppels-rigco-seatrium-complete-four-offshore-rigs-deal-worth-over-s500-million",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/horizon-kinetics-buys-texas-pacific-land-stock-for-340-93CH-4971316",
+    "Watchlist|/companies-markets/keppels-rigco-seatrium-complete-four-offshore-rigs-deal-worth-over-s500-million",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/horizon-kinetics-buys-texas-pacific-land-stock-for-340-93CH-4971316"
   ],
   "topic_error": "",
-  "last_digest": "2026-10-25",
+  "last_digest": "2026-10-26",
   "earnings": {
     "AMD": {
       "ts": 1793736000,
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792972719.38979
+  "last_check": 1792973630.7592359
 }
