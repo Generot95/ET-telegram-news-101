@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|bfd9bb2f-0389-396e-a916-a55016f94639",
-    "Watchlist|bfd9bb2f-0389-396e-a916-a55016f94639",
-    "SG Banks|/international/asean/indonesian-stocks-high-shareholding-concentrations-be-excluded-index-starting-nov-2",
-    "Watchlist|/international/asean/indonesian-stocks-high-shareholding-concentrations-be-excluded-index-starting-nov-2",
-    "AI|https://www.investing.com/news/company-news/kemira-q3-2026-slides-revenue-rises-but-margins-hit-by-cost-inflation-93CH-4968255",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-medistim-posts-strong-q3-2026-growth-shares-jump-89-93CH-4968256",
-    "AI|https://www.investing.com/news/economy-news/from-buenos-aires-to-colombo-discontent-simmers-under-the-surface-of-rebounding-economies-4968168",
-    "AI|https://www.investing.com/news/company-news/lifco-q3-2026-slides-ebita-margin-hits-231-cash-flow-surges-19-93CH-4968264",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-securitas-stock-dropping-today-93CH-4968265",
     "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-indutrade-posts-strong-q3-2026-growth-as-shares-fall-93CH-4968266",
     "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-green-landscaping-q3-2026-sales-rise-profit-slips-93CH-4968267",
     "AI|https://www.investing.com/news/earnings/electrolux-posts-q3-loss-as-middle-east-conflict-us-tariffs-hit-earnings-4968116",
@@ -5000,7 +4991,16 @@
     "Watchlist|de436ce5-97f4-3cdf-baff-796e473dcacd",
     "Watchlist|31e54c3c-c61f-30f4-bdbf-1df2bcdfc431",
     "Watchlist|105aa821-d157-3b0f-a86e-56417fc3a9b9",
-    "Watchlist|0e9891f3-88b2-3275-9632-d7962bb5c578"
+    "Watchlist|0e9891f3-88b2-3275-9632-d7962bb5c578",
+    "AI|e487f030-4c6f-3ba2-a8b3-6ec8f9a95d7c",
+    "Crypto|873b405f-2096-3dac-acfd-495f11e74260",
+    "SG Banks|https://www.channelnewsasia.com/business/japans-nikkei-edges-lower-tech-sector-weighs-energy-shares-rise-6491866",
+    "Watchlist|e487f030-4c6f-3ba2-a8b3-6ec8f9a95d7c",
+    "SG Banks|/international/asean/indonesian-stocks-high-shareholding-concentrations-be-excluded-index-starting-nov-2",
+    "Watchlist|/international/asean/indonesian-stocks-high-shareholding-concentrations-be-excluded-index-starting-nov-2",
+    "War|4914d94b-9ba6-3608-a4e1-1bd395c6ae87",
+    "AI|aea932a0-14aa-394a-96e7-5e08bdb6e595",
+    "AI|053ab231-53d0-3b07-953f-c8f3cb5a10ce"
   ],
   "topic_error": "",
   "last_digest": "2026-10-26",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792978198.6054418
+  "last_check": 1792979106.704718
 }
