@@ -1,23 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/analyst-ratings/raymond-james-downgrades-cass-information-systems-stock-rating-on-valuation-93CH-4968336",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/piper-sandler-cuts-globe-life-stock-rating-on-medical-claims-concerns-93CH-4968339",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/raymond-james-downgrades-first-industrial-realty-stock-rating-on-weaker-outlook-93CH-4968340",
-    "War|2292cbaa-ee3c-3de3-afde-a5be0901cd86",
-    "SG Banks|b2d2ccef-91a4-3830-9ed8-b5a8cf0a30b0",
-    "SG Banks|/companies-markets/energy-commodities/gold-dips-fourth-session-oil-rally-fans-inflation-concerns",
-    "SG Banks|/companies-markets/why-would-musk-merge-spacex-and-tesla",
-    "SG Banks|/companies-markets/south-east-asia-digital-economy-hit-us368-billion-gmv-2026-us1-1-trillion-2035-report",
-    "SG Banks|/companies-markets/chinas-moonshot-ai-operate-singapore-jobs-post-shows",
-    "Watchlist|/companies-markets/energy-commodities/gold-dips-fourth-session-oil-rally-fans-inflation-concerns",
-    "Watchlist|/companies-markets/why-would-musk-merge-spacex-and-tesla",
-    "Watchlist|/companies-markets/south-east-asia-digital-economy-hit-us368-billion-gmv-2026-us1-1-trillion-2035-report",
-    "Watchlist|/companies-markets/chinas-moonshot-ai-operate-singapore-jobs-post-shows",
-    "War|0c6466d1-7e9f-35a0-908b-984a31fa772f",
-    "Watchlist|3f4e9646-26b1-3af8-a6d3-0a7532fe0fc7",
-    "AI|328cfc24-221d-3022-aa52-6513e4eb604b",
-    "Watchlist|044af371-07c2-3f9d-975e-d4df2b653310",
     "Watchlist|328cfc24-221d-3022-aa52-6513e4eb604b",
     "AI|044af371-07c2-3f9d-975e-d4df2b653310",
     "War|f6b5b8a0-c340-3d21-b6fd-d2e7e638a788",
@@ -5000,7 +4983,24 @@
     "SG Banks|/companies-markets/energy-commodities/oil-declines-six-month-high-traders-assess-mideast-risks",
     "Watchlist|/companies-markets/energy-commodities/oil-declines-six-month-high-traders-assess-mideast-risks",
     "SG Banks|/companies-markets/cgsi-ocbc-cut-fct-target-price-despite-record-fy2026-payout",
-    "Watchlist|/companies-markets/cgsi-ocbc-cut-fct-target-price-despite-record-fy2026-payout"
+    "Watchlist|/companies-markets/cgsi-ocbc-cut-fct-target-price-despite-record-fy2026-payout",
+    "AI|https://www.investing.com/news/insider-trading-news/ctt-pharmaceutical-ceo-ryan-khouri-buys-454-in-shares-93CH-4971372",
+    "AI|https://www.investing.com/news/insider-trading-news/worthington-enterprises-director-john-mcconnell-sells-257m-in-shares-93CH-4971373",
+    "AI|https://www.investing.com/news/stock-market-news/gift-nifty-50-breaks-618-fib-targets-22205-live-levels-93CH-4971374",
+    "AI|https://www.investing.com/news/economy-news/investors-expect-markets-to-unwind-as-brazils-lula-reelected-4971377",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/ctt-pharmaceutical-ceo-ryan-khouri-buys-454-in-shares-93CH-4971372",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/worthington-enterprises-director-john-mcconnell-sells-257m-in-shares-93CH-4971373",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/gift-nifty-50-breaks-618-fib-targets-22205-live-levels-93CH-4971374",
+    "Cybersecurity|https://www.investing.com/news/economy-news/investors-expect-markets-to-unwind-as-brazils-lula-reelected-4971377",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/ctt-pharmaceutical-ceo-ryan-khouri-buys-454-in-shares-93CH-4971372",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/worthington-enterprises-director-john-mcconnell-sells-257m-in-shares-93CH-4971373",
+    "SG Banks|https://www.investing.com/news/stock-market-news/gift-nifty-50-breaks-618-fib-targets-22205-live-levels-93CH-4971374",
+    "SG Banks|https://www.investing.com/news/economy-news/investors-expect-markets-to-unwind-as-brazils-lula-reelected-4971377",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/ctt-pharmaceutical-ceo-ryan-khouri-buys-454-in-shares-93CH-4971372",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/worthington-enterprises-director-john-mcconnell-sells-257m-in-shares-93CH-4971373",
+    "Watchlist|https://www.investing.com/news/stock-market-news/gift-nifty-50-breaks-618-fib-targets-22205-live-levels-93CH-4971374",
+    "Watchlist|https://www.investing.com/news/economy-news/investors-expect-markets-to-unwind-as-brazils-lula-reelected-4971377",
+    "SG Banks|b2d2ccef-91a4-3830-9ed8-b5a8cf0a30b0"
   ],
   "topic_error": "",
   "last_digest": "2026-10-26",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792987360.6739113
+  "last_check": 1792988258.9413238
 }
