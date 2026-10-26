@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/sec-filings/ftai-infrastructure-plans-270-million-private-notes-offering-to-fund-drubit-llc-acquisition-93CH-4968787",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/needham-raises-proto-labs-stock-price-target-on-manufacturing-strength-93CH-4968786",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/keybanc-initiates-vse-stock-coverage-with-sector-weight-rating-93CH-4968789",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/keybanc-initiates-astronics-stock-coverage-with-sector-weight-rating-93CH-4968788",
-    "Watchlist|https://www.investing.com/news/commodities-news/morning-bid-safety-first-4968791",
-    "Watchlist|https://www.investing.com/news/stock-market-news/merckmoderna-cancer-vaccine-cuts-melanoma-death-or-recurrence-risk-by-42-shares-fall-4967507",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-gormanrupp-stock-surging-today-93CH-4968792",
     "SG Banks|/international/asean/philippine-central-bank-delivers-larger-expected-50-bps-hike-combat-inflation",
     "SG Banks|https://www.straitstimes.com/business/singapore-oil-product-inventories-fall-to-three-week-low",
     "Watchlist|/international/asean/philippine-central-bank-delivers-larger-expected-50-bps-hike-combat-inflation",
@@ -5000,7 +4993,14 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/european-shares-hold-as-markets-weigh-iran-diplomacy-await-cbanks-4971469",
     "Watchlist|https://www.investing.com/news/analyst-ratings/barclays-initiates-life-time-stock-with-overweight-on-wellness-trend-93CH-4971566",
     "AI|96a6c0a1-6a20-3ec3-9fa0-dd711d43b895",
-    "Watchlist|96a6c0a1-6a20-3ec3-9fa0-dd711d43b895"
+    "Watchlist|96a6c0a1-6a20-3ec3-9fa0-dd711d43b895",
+    "AI|https://www.investing.com/news/stock-market-news/special-offer-peak-earnings-week-is-here-beat-it-with-investingpro-for-55-off-4971551",
+    "AI|4a5987fe-340a-38d7-8dbf-09f8423ea819",
+    "War|a2d663ff-46e7-33d2-96a2-7b6c82a49e77",
+    "AI|de8261f0-9116-33bf-b97b-484fe14f6a4c",
+    "Watchlist|de8261f0-9116-33bf-b97b-484fe14f6a4c",
+    "AI|e132d4c9-afd1-3186-ab81-8a72a7e89296",
+    "Watchlist|e132d4c9-afd1-3186-ab81-8a72a7e89296"
   ],
   "topic_error": "",
   "last_digest": "2026-10-26",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1793002919.8829336
+  "last_check": 1793003848.302404
 }
