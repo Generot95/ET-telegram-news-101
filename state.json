@@ -1,23 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-hexagon-posts-fiveyear-growth-high-in-q3-2026-93CH-4968491",
-    "Watchlist|https://www.investing.com/news/company-news/wdp-9m-2026-slides-9bn-platform-expands-merger-on-track-93CH-4968496",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-addnode-group-q3-2026-profit-surge-lifts-shares-12-93CH-4968497",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-securitas-q3-2026-misses-eps-as-stock-falls-6-93CH-4968498",
-    "Watchlist|https://www.investing.com/news/company-news/vitec-q3-2026-slides-15-growth-ai-investments-drive-efficiency-93CH-4968499",
-    "Watchlist|https://www.investing.com/news/company-news/alimak-q3-2026-slides-margins-rise-amid-construction-headwinds-93CH-4968500",
-    "SG Banks|/companies-markets/banking-finance/asx-needs-bolster-tech-shortening-trade-settlement-experts-say",
-    "Watchlist|/companies-markets/banking-finance/asx-needs-bolster-tech-shortening-trade-settlement-experts-say",
-    "AI|ddf0f218-dc67-3799-bd0a-be379da87bd2",
-    "Watchlist|ddf0f218-dc67-3799-bd0a-be379da87bd2",
-    "War|WP-MKTW-0005301578",
-    "AI|WP-MKTW-0005301578",
-    "Cybersecurity|WP-MKTW-0005301578",
-    "AI|d898d296-ca64-31bc-8066-592ea739e854",
-    "AI|22a184ac-ffab-3834-80cd-86c9655f5d0e",
-    "AI|4c0434e2-0808-3474-a3d6-2df2fdb1599c",
-    "AI|3f0ff28b-8cbd-3299-89f4-eaf1c56ba089",
     "Watchlist|22a184ac-ffab-3834-80cd-86c9655f5d0e",
     "Watchlist|4c0434e2-0808-3474-a3d6-2df2fdb1599c",
     "Watchlist|3f0ff28b-8cbd-3299-89f4-eaf1c56ba089",
@@ -5000,7 +4983,24 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/chinas-communist-party-begins-fifth-plenum-in-beijing-93CH-4971419",
     "War|a5f07b59-f598-3a08-ad7c-ed2dd161196b",
     "AI|2b4ae643-6db7-3835-824b-1611fdd02a3c",
-    "Watchlist|2b4ae643-6db7-3835-824b-1611fdd02a3c"
+    "Watchlist|2b4ae643-6db7-3835-824b-1611fdd02a3c",
+    "AI|https://www.investing.com/news/economy-news/britain-to-nearly-double-funding-for-rough-sleeping-plan-93CH-4971423",
+    "Cybersecurity|https://www.investing.com/news/economy-news/britain-to-nearly-double-funding-for-rough-sleeping-plan-93CH-4971423",
+    "SG Banks|https://www.investing.com/news/economy-news/britain-to-nearly-double-funding-for-rough-sleeping-plan-93CH-4971423",
+    "Watchlist|https://www.investing.com/news/economy-news/britain-to-nearly-double-funding-for-rough-sleeping-plan-93CH-4971423",
+    "SG Banks|/international/asean/singapore-malaysia-energy-regulators-renew-mou-bilateral-collaboration",
+    "Watchlist|/international/asean/singapore-malaysia-energy-regulators-renew-mou-bilateral-collaboration",
+    "SG Banks|/international/japanese-companies-compensate-users-cyberattacks-buffet-economy",
+    "Watchlist|/international/japanese-companies-compensate-users-cyberattacks-buffet-economy",
+    "SG Banks|/companies-markets/banking-finance/asx-needs-bolster-tech-shortening-trade-settlement-experts-say",
+    "AI|https://www.investing.com/news/economy-news/iea-chief-says-energy-markets-wont-return-to-preiran-war-levels-93CH-4971427",
+    "Cybersecurity|https://www.investing.com/news/economy-news/iea-chief-says-energy-markets-wont-return-to-preiran-war-levels-93CH-4971427",
+    "SG Banks|https://www.investing.com/news/economy-news/iea-chief-says-energy-markets-wont-return-to-preiran-war-levels-93CH-4971427",
+    "Watchlist|https://www.investing.com/news/economy-news/iea-chief-says-energy-markets-wont-return-to-preiran-war-levels-93CH-4971427",
+    "War|e6b5ef06-3d3a-3420-b179-a82c7089dbf0",
+    "War|WP-MKTW-0005301578",
+    "AI|WP-MKTW-0005301578",
+    "Cybersecurity|WP-MKTW-0005301578"
   ],
   "topic_error": "",
   "last_digest": "2026-10-26",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792993740.1363966
+  "last_check": 1792994676.4079518
 }
