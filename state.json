@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-tango-therapeutics-stock-sliding-today-93CH-4969072",
-    "SG Banks|https://www.investing.com/news/company-news/izabren-shows-59-reduction-in-disease-progression-in-breast-cancer-93CH-4969073",
-    "SG Banks|https://www.investing.com/news/company-news/revolution-medicines-presents-subgroup-data-from-pancreatic-cancer-trial-93CH-4969075",
-    "SG Banks|https://www.investing.com/news/company-news/takeda-reports-positive-phase-3-trial-results-for-gastric-cancer-drug-93CH-4969074",
-    "SG Banks|https://www.investing.com/news/earnings/world-acceptance-beats-q2-earnings-stock-gains-93CH-4969076",
-    "SG Banks|https://www.investing.com/news/earnings/rithm-capital-stock-rises-nearly-3-on-q3-beat-driven-by-strong-asset-management-93CH-4969077",
-    "SG Banks|https://www.investing.com/news/economy-news/uk-urges-public-to-keep-threeday-emergency-supply-at-home-93CH-4969083",
-    "SG Banks|https://www.investing.com/news/earnings/world-acceptance-earnings-beat-by-113-revenue-fell-short-of-estimates-4969084",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-newgen-software-shares-fall-after-mixed-q2-2026-results-93CH-4969088",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-tango-therapeutics-stock-sliding-today-93CH-4969072",
     "Watchlist|https://www.investing.com/news/company-news/izabren-shows-59-reduction-in-disease-progression-in-breast-cancer-93CH-4969073",
     "Watchlist|https://www.investing.com/news/company-news/revolution-medicines-presents-subgroup-data-from-pancreatic-cancer-trial-93CH-4969075",
@@ -5000,7 +4991,16 @@
     "Watchlist|https://www.investing.com/news/analyst-ratings/bobs-discount-furniture-stock-rating-reiterated-at-rbc-capital-93CH-4971747",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-modulight-posts-q3-2026-eps-beat-as-stock-slips-93CH-4971748",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-banco-santander-stock-sliding-today-93CH-4971749",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-ishares-msci-brazil-etf-stock-collapsing-today-93CH-4971751"
+    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-ishares-msci-brazil-etf-stock-collapsing-today-93CH-4971751",
+    "Iran|https://www.iranintl.com/en/202610234921",
+    "AI|65670c65-b5ae-39e3-a1e7-543b0f4c6a2d",
+    "AI|8bfe063f-9f36-318f-8e10-a95264dae534",
+    "Cybersecurity|65670c65-b5ae-39e3-a1e7-543b0f4c6a2d",
+    "Watchlist|65670c65-b5ae-39e3-a1e7-543b0f4c6a2d",
+    "Watchlist|8bfe063f-9f36-318f-8e10-a95264dae534",
+    "SG Banks|https://www.channelnewsasia.com/business/stocks-bonds-cautious-ahead-formidable-week-risk-6491806",
+    "AI|c3346539-7cfd-3ccb-979e-b37dbb92e447",
+    "Crypto|8236c504-57ba-33ff-9682-c4bd8146db8d"
   ],
   "topic_error": "",
   "last_digest": "2026-10-26",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1793007494.769367
+  "last_check": 1793008409.971953
 }
