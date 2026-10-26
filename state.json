@@ -1,64 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "War|https://www.investing.com/news/commodities-news/asias-lng-imports-set-to-reach-threemonth-high-in-october-93CH-4970050",
-    "War|https://www.investing.com/news/commodities-news/trump-weighs-quick-end-to-iran-war-against-letting-conflict-wither-4970054",
-    "War|https://www.investing.com/news/commodities-news/trump-says-he-will-fix-any-starlink-access-problem-in-ukraine-4970057",
-    "AI|https://www.investing.com/news/stock-market-news/truist-names-top-clean-energy-stocks-to-watch-ahead-of-q3-earnings-season-4970046",
-    "AI|https://www.investing.com/news/stock-market-news/wells-fargo-names-top-pick-ahead-of-q3-earnings-4970047",
-    "AI|https://www.investing.com/news/commodities-news/asias-lng-imports-set-to-reach-threemonth-high-in-october-93CH-4970050",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-glacier-bancorp-tops-eps-in-q3-2026-as-margin-expands-93CH-4970051",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-whitehorse-finance-stock-slipping-today-93CH-4970052",
-    "AI|https://www.investing.com/news/commodities-news/trump-weighs-quick-end-to-iran-war-against-letting-conflict-wither-4970054",
-    "AI|https://www.investing.com/news/sec-filings/bancfirst-completes-acquisition-of-spiritbank-in-oklahoma-93CH-4970055",
-    "AI|https://www.investing.com/news/stock-market-news/micron-sandisk-gain-as-sk-hynix-scraps-solidigm-ipo-lynx-says-4970053",
-    "AI|https://www.investing.com/news/commodities-news/trump-says-he-will-fix-any-starlink-access-problem-in-ukraine-4970057",
-    "AI|https://www.investing.com/news/stock-market-news/denmark-stocks-lower-at-close-of-trade-omx-copenhagen-20-down-091-4970038",
-    "AI|https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-092-4970040",
-    "AI|https://www.investing.com/news/stock-market-news/explainerwhat-is-going-on-with-spacexs-starlink-and-starshield-in-ukraine-4970042",
-    "AI|https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-059-4970043",
-    "AI|https://www.investing.com/news/company-news/byline-q3-2026-slides-record-profit-margin-expansion-deposit-surge-93CH-4970039",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/truist-names-top-clean-energy-stocks-to-watch-ahead-of-q3-earnings-season-4970046",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/wells-fargo-names-top-pick-ahead-of-q3-earnings-4970047",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/asias-lng-imports-set-to-reach-threemonth-high-in-october-93CH-4970050",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-glacier-bancorp-tops-eps-in-q3-2026-as-margin-expands-93CH-4970051",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-whitehorse-finance-stock-slipping-today-93CH-4970052",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/trump-weighs-quick-end-to-iran-war-against-letting-conflict-wither-4970054",
-    "Cybersecurity|https://www.investing.com/news/sec-filings/bancfirst-completes-acquisition-of-spiritbank-in-oklahoma-93CH-4970055",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/micron-sandisk-gain-as-sk-hynix-scraps-solidigm-ipo-lynx-says-4970053",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/trump-says-he-will-fix-any-starlink-access-problem-in-ukraine-4970057",
-    "Cybersecurity|https://www.investing.com/news/company-news/byline-q3-2026-slides-record-profit-margin-expansion-deposit-surge-93CH-4970039",
-    "SG Banks|https://www.investing.com/news/stock-market-news/truist-names-top-clean-energy-stocks-to-watch-ahead-of-q3-earnings-season-4970046",
-    "SG Banks|https://www.investing.com/news/stock-market-news/wells-fargo-names-top-pick-ahead-of-q3-earnings-4970047",
-    "SG Banks|https://www.investing.com/news/commodities-news/asias-lng-imports-set-to-reach-threemonth-high-in-october-93CH-4970050",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-glacier-bancorp-tops-eps-in-q3-2026-as-margin-expands-93CH-4970051",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-whitehorse-finance-stock-slipping-today-93CH-4970052",
-    "SG Banks|https://www.investing.com/news/commodities-news/trump-weighs-quick-end-to-iran-war-against-letting-conflict-wither-4970054",
-    "SG Banks|https://www.investing.com/news/sec-filings/bancfirst-completes-acquisition-of-spiritbank-in-oklahoma-93CH-4970055",
-    "SG Banks|https://www.investing.com/news/stock-market-news/micron-sandisk-gain-as-sk-hynix-scraps-solidigm-ipo-lynx-says-4970053",
-    "SG Banks|https://www.investing.com/news/commodities-news/trump-says-he-will-fix-any-starlink-access-problem-in-ukraine-4970057",
-    "Watchlist|6ba2e51d-bf6f-38c8-a06b-f83588f919ba",
-    "Watchlist|https://www.investing.com/news/stock-market-news/truist-names-top-clean-energy-stocks-to-watch-ahead-of-q3-earnings-season-4970046",
-    "Watchlist|https://www.investing.com/news/stock-market-news/wells-fargo-names-top-pick-ahead-of-q3-earnings-4970047",
-    "Watchlist|https://www.investing.com/news/commodities-news/asias-lng-imports-set-to-reach-threemonth-high-in-october-93CH-4970050",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-glacier-bancorp-tops-eps-in-q3-2026-as-margin-expands-93CH-4970051",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-whitehorse-finance-stock-slipping-today-93CH-4970052",
-    "Watchlist|https://www.investing.com/news/commodities-news/trump-weighs-quick-end-to-iran-war-against-letting-conflict-wither-4970054",
-    "Watchlist|https://www.investing.com/news/sec-filings/bancfirst-completes-acquisition-of-spiritbank-in-oklahoma-93CH-4970055",
-    "Watchlist|https://www.investing.com/news/stock-market-news/micron-sandisk-gain-as-sk-hynix-scraps-solidigm-ipo-lynx-says-4970053",
-    "Watchlist|https://www.investing.com/news/commodities-news/trump-says-he-will-fix-any-starlink-access-problem-in-ukraine-4970057",
-    "War|b214757c-57a4-3f68-89a1-e01190c8ca5f",
-    "Cybersecurity|548de295-4952-3b4e-9ad1-0bf732e7d937",
-    "SG Banks|/companies-markets/capital-markets-currencies/wall-street-opens-lower-ai-jitters-return-oil-rises",
-    "Watchlist|/companies-markets/capital-markets-currencies/wall-street-opens-lower-ai-jitters-return-oil-rises",
-    "AI|7340a444-a25a-39c0-a984-f87db73b3792",
-    "Crypto|29b43583-25bb-39f7-80e9-0e1c4eda3436",
-    "Cybersecurity|d4bb17dd-f10e-357b-bd82-8e7035d5f3e9",
-    "Watchlist|d4bb17dd-f10e-357b-bd82-8e7035d5f3e9",
-    "Watchlist|7340a444-a25a-39c0-a984-f87db73b3792",
-    "Watchlist|29b43583-25bb-39f7-80e9-0e1c4eda3436",
-    "War|c4a02119-13ab-3717-81ca-9d95989e8476",
-    "War|e16c5987-f0fb-3e5d-8394-2c7bc3e4715d",
     "AI|e16c5987-f0fb-3e5d-8394-2c7bc3e4715d",
     "War|WP-MKTW-0005303996",
     "AI|62c31f3f-87c4-3125-96f0-281fd6ac0a96",
@@ -5000,82 +4942,140 @@
     "AI|ff6f51bb-c7c1-32e5-9c8a-5c3bfa26685a",
     "Watchlist|ff6f51bb-c7c1-32e5-9c8a-5c3bfa26685a",
     "AI|35501185-b23b-4be4-99f9-4cc8d4ac06d8",
-    "Watchlist|35501185-b23b-4be4-99f9-4cc8d4ac06d8"
+    "Watchlist|35501185-b23b-4be4-99f9-4cc8d4ac06d8",
+    "SG Banks|https://www.channelnewsasia.com/business/unconventional-ai-buys-israeli-chip-startup-neureality-speed-product-development-6493726",
+    "Crypto|4937518c-e2c6-3d88-a309-337b390b56f4",
+    "Crypto|7ca8deaa-f9d7-329e-8c77-1a4d1a9ec5ce",
+    "Crypto|04356d27-ee1e-3fde-be7b-73c75e2f26db",
+    "Watchlist|04356d27-ee1e-3fde-be7b-73c75e2f26db",
+    "Watchlist|e3f5862c-9eb8-3288-99b8-8f22ff16e7a4",
+    "Watchlist|6e36c219-6c51-3981-8903-41cce1ea9955",
+    "War|6e36c219-6c51-3981-8903-41cce1ea9955",
+    "AI|04356d27-ee1e-3fde-be7b-73c75e2f26db",
+    "AI|e3f5862c-9eb8-3288-99b8-8f22ff16e7a4",
+    "AI|6e36c219-6c51-3981-8903-41cce1ea9955",
+    "Watchlist|e010d146-81fc-343d-93f3-280e70b518c5",
+    "AI|https://www.investing.com/news/company-news/freedom-holding-plans-2b-ai-hub-public-gpu-cloud-in-2027-93CH-4973189",
+    "AI|https://www.investing.com/news/company-news/epower-joint-venture-receives-165m-capital-injection-93CH-4973190",
+    "AI|https://www.investing.com/news/stock-market-news/nanobiotix-stock-gains-on-positive-melanoma-trial-data-4973191",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-nvidia-stock-rallying-today-93CH-4973192",
+    "AI|https://www.investing.com/news/stock-market-news/unconventional-ai-buys-israelichip-startup-neureality-to-speed-product-development-4973194",
+    "AI|https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-014-4973195",
+    "AI|https://www.investing.com/news/company-news/business-first-bancshares-q3-2026-slides-profitability-peaks-93CH-4973196",
+    "AI|https://www.investing.com/news/stock-market-news/anthropics-ipo-a-close-look-at-ai-frontrunners-rapid-growth-spiraling-costs-4972917",
+    "AI|https://www.investing.com/news/stock-market-news/top-utilities-stocks-to-watch-hsbcs-preferred-picks-4973188",
+    "Cybersecurity|https://www.investing.com/news/company-news/freedom-holding-plans-2b-ai-hub-public-gpu-cloud-in-2027-93CH-4973189",
+    "Cybersecurity|https://www.investing.com/news/company-news/epower-joint-venture-receives-165m-capital-injection-93CH-4973190",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/nanobiotix-stock-gains-on-positive-melanoma-trial-data-4973191",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-nvidia-stock-rallying-today-93CH-4973192",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/unconventional-ai-buys-israelichip-startup-neureality-to-speed-product-development-4973194",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-014-4973195",
+    "Cybersecurity|https://www.investing.com/news/company-news/business-first-bancshares-q3-2026-slides-profitability-peaks-93CH-4973196",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/anthropics-ipo-a-close-look-at-ai-frontrunners-rapid-growth-spiraling-costs-4972917",
+    "SG Banks|https://www.investing.com/news/company-news/freedom-holding-plans-2b-ai-hub-public-gpu-cloud-in-2027-93CH-4973189",
+    "SG Banks|https://www.investing.com/news/company-news/epower-joint-venture-receives-165m-capital-injection-93CH-4973190",
+    "SG Banks|https://www.investing.com/news/stock-market-news/nanobiotix-stock-gains-on-positive-melanoma-trial-data-4973191",
+    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-nvidia-stock-rallying-today-93CH-4973192",
+    "SG Banks|https://www.investing.com/news/stock-market-news/unconventional-ai-buys-israelichip-startup-neureality-to-speed-product-development-4973194",
+    "SG Banks|https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-014-4973195",
+    "SG Banks|https://www.investing.com/news/company-news/business-first-bancshares-q3-2026-slides-profitability-peaks-93CH-4973196",
+    "SG Banks|https://www.investing.com/news/stock-market-news/anthropics-ipo-a-close-look-at-ai-frontrunners-rapid-growth-spiraling-costs-4972917",
+    "Watchlist|https://www.investing.com/news/company-news/freedom-holding-plans-2b-ai-hub-public-gpu-cloud-in-2027-93CH-4973189",
+    "Watchlist|https://www.investing.com/news/company-news/epower-joint-venture-receives-165m-capital-injection-93CH-4973190",
+    "Watchlist|https://www.investing.com/news/stock-market-news/nanobiotix-stock-gains-on-positive-melanoma-trial-data-4973191",
+    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-nvidia-stock-rallying-today-93CH-4973192",
+    "Watchlist|https://www.investing.com/news/stock-market-news/unconventional-ai-buys-israelichip-startup-neureality-to-speed-product-development-4973194",
+    "Watchlist|https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-014-4973195",
+    "Watchlist|https://www.investing.com/news/company-news/business-first-bancshares-q3-2026-slides-profitability-peaks-93CH-4973196",
+    "Watchlist|https://www.investing.com/news/stock-market-news/anthropics-ipo-a-close-look-at-ai-frontrunners-rapid-growth-spiraling-costs-4972917",
+    "AI|8e816783-d371-3eff-bd7a-2c099bce89a6",
+    "AI|625b1954-20f0-3f9e-baa3-05aca4dff5a8",
+    "Watchlist|8e816783-d371-3eff-bd7a-2c099bce89a6",
+    "Watchlist|625b1954-20f0-3f9e-baa3-05aca4dff5a8",
+    "War|80c2673d-9a81-30a1-a709-a76baff0bbf9",
+    "AI|d285ed4a-2875-3562-ac3f-13da4e2d8507",
+    "Watchlist|18ed9f80-aac7-4d78-ab60-57b98f1629ef",
+    "War|9496fa9c-91b2-3288-ba33-faf34c572060",
+    "AI|c159b64d-1467-3c53-8f13-e923cf736918",
+    "Watchlist|d285ed4a-2875-3562-ac3f-13da4e2d8507",
+    "Watchlist|f8b1bf37-b858-3620-8e7c-1d73ddfb2026",
+    "Watchlist|c159b64d-1467-3c53-8f13-e923cf736918",
+    "War|72c4a56b-8776-347e-9e86-346d99fbb9ac"
   ],
   "topic_error": "",
   "last_digest": "2026-10-26",
   "earnings": {
     "AMD": {
       "ts": 1793736000,
-      "fetched": 1792941199.9907737
+      "fetched": 1793027623.5312247
     },
     "NVDA": {
       "ts": 1794945600,
-      "fetched": 1792941199.9907737
+      "fetched": 1793027623.5312247
     },
     "CRWD": {
       "ts": 1796155200,
-      "fetched": 1792941199.9907737
+      "fetched": 1793027623.5312247
     },
     "MSFT": {
       "ts": 1793217600,
-      "fetched": 1792941199.9907737
+      "fetched": 1793027623.5312247
     },
     "INTU": {
       "ts": 1795118400,
-      "fetched": 1792941199.9907737
+      "fetched": 1793027623.5312247
     },
     "BRK-B": {
       "ts": 1794081600,
-      "fetched": 1792941199.9907737
+      "fetched": 1793027623.5312247
     },
     "AMZN": {
       "ts": 1793304000,
-      "fetched": 1792941199.9907737
+      "fetched": 1793027623.5312247
     },
     "GOOG": {
       "ts": 1793217600,
-      "fetched": 1792941199.9907737
+      "fetched": 1793027623.5312247
     },
     "ZTS": {
       "ts": 1793881800,
-      "fetched": 1792941199.9907737
+      "fetched": 1793027623.5312247
     },
     "LIN": {
       "ts": 1793277000,
-      "fetched": 1792941199.9907737
+      "fetched": 1793027623.5312247
     },
     "VLO": {
       "ts": 1792672200,
-      "fetched": 1792941199.9907737
+      "fetched": 1793027623.5312247
     },
     "D05.SI": {
       "ts": 1793869200,
-      "fetched": 1792941199.9907737
+      "fetched": 1793027623.5312247
     },
     "O39.SI": {
       "ts": 1793955600,
-      "fetched": 1792941199.9907737
+      "fetched": 1793027623.5312247
     },
     "U11.SI": {
       "ts": 1793782800,
-      "fetched": 1792941199.9907737
+      "fetched": 1793027623.5312247
     },
     "A17U.SI": {
       "ts": 1785920400,
-      "fetched": 1792941199.9907737
+      "fetched": 1793027623.5312247
     },
     "HMN.SI": {
       "ts": 1785229200,
-      "fetched": 1792941199.9907737
+      "fetched": 1793027623.5312247
     },
     "JYEU.SI": {
       "ts": null,
-      "fetched": 1792941199.9907737
+      "fetched": 1793027623.5312247
     }
   },
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1793027259.5197985
+  "last_check": 1793028164.8582757
 }
