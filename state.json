@@ -1,24 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/bufab-q3-2026-slides-record-margins-hit-156-on-organic-growth-93CH-4968407",
-    "SG Banks|https://www.channelnewsasia.com/business/brent-crude-hits-more-five-month-high-concern-over-middle-east-escalation-6484841",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-bhg-shares-jump-on-strong-q3-2026-profit-growth-93CH-4968412",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-ipsos-stock-sliding-today-93CH-4968414",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-catena-q3-2026-rises-on-strong-rental-growth-93CH-4968413",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-adcb-posts-record-q3-2026-profit-as-margin-pressure-lingers-93CH-4968415",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-robert-half-stock-surging-today-93CH-4968416",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-sgs-posts-record-q3-2026-sales-as-digital-trust-grows-93CH-4968431",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-bhg-shares-jump-on-strong-q3-2026-profit-growth-93CH-4968412",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-ipsos-stock-sliding-today-93CH-4968414",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-catena-q3-2026-rises-on-strong-rental-growth-93CH-4968413",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-adcb-posts-record-q3-2026-profit-as-margin-pressure-lingers-93CH-4968415",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-robert-half-stock-surging-today-93CH-4968416",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-sgs-posts-record-q3-2026-sales-as-digital-trust-grows-93CH-4968431",
-    "SG Banks|https://www.channelnewsasia.com/business/bank-japan-warns-risks-ai-market-shock-cyberattacks-6485781",
-    "AI|c5db8c08-4523-322b-b595-d418cd1b37dd",
-    "War|WP-MKTW-0005292522",
-    "AI|8f8def99-5924-3d19-ac5d-3e0fef129c43",
     "AI|WP-MKTW-0005292522",
     "Cybersecurity|WP-MKTW-0005292522",
     "Watchlist|c5db8c08-4523-322b-b595-d418cd1b37dd",
@@ -5000,7 +4982,25 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/indonesia-strengthens-measures-against-stock-manipulation-after-market-rout-triggered-by-msci-4971379",
     "Watchlist|https://www.investing.com/news/economic-indicators/chinas-domestic-car-sales-seen-rising-2-in-2027-after-2026-slump-4971380",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-minimax-stock-sliding-today-93CH-4971381",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-unicommerce-posts-15-revenue-growth-in-q2-2026-93CH-4971382"
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-unicommerce-posts-15-revenue-growth-in-q2-2026-93CH-4971382",
+    "AI|https://www.investing.com/news/forex-news/asia-fx-muted-yuan-at-4yr-high-dollar-drifts-lower-ahead-of-cbankpacked-week-4971383",
+    "AI|https://www.investing.com/news/company-news/unicommerce-q2-fy27-slides-15-growth-amid-strategic-ai-investments-93CH-4971385",
+    "AI|https://www.investing.com/news/economy-news/mecca-pact-nations-to-hold-highlevel-talks-with-iran-in-tehran-reuters-reports-4971386",
+    "AI|https://www.investing.com/news/economy-news/elections-central-banks-and-earnings-on-the-menu-4971384",
+    "Cybersecurity|https://www.investing.com/news/forex-news/asia-fx-muted-yuan-at-4yr-high-dollar-drifts-lower-ahead-of-cbankpacked-week-4971383",
+    "Cybersecurity|https://www.investing.com/news/company-news/unicommerce-q2-fy27-slides-15-growth-amid-strategic-ai-investments-93CH-4971385",
+    "Cybersecurity|https://www.investing.com/news/economy-news/mecca-pact-nations-to-hold-highlevel-talks-with-iran-in-tehran-reuters-reports-4971386",
+    "Cybersecurity|https://www.investing.com/news/economy-news/elections-central-banks-and-earnings-on-the-menu-4971384",
+    "SG Banks|https://www.investing.com/news/forex-news/asia-fx-muted-yuan-at-4yr-high-dollar-drifts-lower-ahead-of-cbankpacked-week-4971383",
+    "SG Banks|https://www.investing.com/news/company-news/unicommerce-q2-fy27-slides-15-growth-amid-strategic-ai-investments-93CH-4971385",
+    "SG Banks|https://www.investing.com/news/economy-news/mecca-pact-nations-to-hold-highlevel-talks-with-iran-in-tehran-reuters-reports-4971386",
+    "SG Banks|https://www.investing.com/news/economy-news/elections-central-banks-and-earnings-on-the-menu-4971384",
+    "Watchlist|https://www.investing.com/news/forex-news/asia-fx-muted-yuan-at-4yr-high-dollar-drifts-lower-ahead-of-cbankpacked-week-4971383",
+    "Watchlist|https://www.investing.com/news/company-news/unicommerce-q2-fy27-slides-15-growth-amid-strategic-ai-investments-93CH-4971385",
+    "Watchlist|https://www.investing.com/news/economy-news/mecca-pact-nations-to-hold-highlevel-talks-with-iran-in-tehran-reuters-reports-4971386",
+    "Watchlist|https://www.investing.com/news/economy-news/elections-central-banks-and-earnings-on-the-menu-4971384",
+    "SG Banks|https://www.straitstimes.com/business/economy/singapore-factory-output-growth-slows-to-3-4-in-september-as-pharmaceutical-production-fell",
+    "SG Banks|https://www.channelnewsasia.com/business/indonesia-stock-manipulation-market-rout-msci-6492141"
   ],
   "topic_error": "",
   "last_digest": "2026-10-26",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792990099.1405387
+  "last_check": 1792991008.024341
 }
