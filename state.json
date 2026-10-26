@@ -1,15 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|025317ba-c442-3a8c-90df-01e5e064f641",
-    "Watchlist|025317ba-c442-3a8c-90df-01e5e064f641",
-    "War|https://www.investing.com/news/commodities-news/ukrainian-strike-on-enterprise-in-russias-oryol-kills-three-governor-says-4970733",
-    "AI|https://www.investing.com/news/commodities-news/ukrainian-strike-on-enterprise-in-russias-oryol-kills-three-governor-says-4970733",
-    "AI|https://www.investing.com/news/insider-trading-news/city-holding-co-director-reyes-buys-13502-in-stock-93CH-4970739",
-    "AI|https://www.investing.com/news/insider-trading-news/ibotta-chief-people-officer-marisa-daspit-sells-37376-in-shares-93CH-4970740",
-    "AI|https://www.investing.com/news/insider-trading-news/ibotta-ceo-bryan-leach-disposes-of-247-million-in-ibotta-ibta-shares-93CH-4970747",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/ukrainian-strike-on-enterprise-in-russias-oryol-kills-three-governor-says-4970733",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/city-holding-co-director-reyes-buys-13502-in-stock-93CH-4970739",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/ibotta-chief-people-officer-marisa-daspit-sells-37376-in-shares-93CH-4970740",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/ibotta-ceo-bryan-leach-disposes-of-247-million-in-ibotta-ibta-shares-93CH-4970747",
     "SG Banks|https://www.investing.com/news/commodities-news/ukrainian-strike-on-enterprise-in-russias-oryol-kills-three-governor-says-4970733",
@@ -5000,7 +4991,16 @@
     "Watchlist|bac40ff2-5008-35c8-bca4-38ca3799f7f7",
     "AI|ede3269a-0acf-3a0e-ac91-e6bcf906fb35",
     "Watchlist|ede3269a-0acf-3a0e-ac91-e6bcf906fb35",
-    "AI|fab34678-08d6-31ca-a951-4cba11f5cf3a"
+    "AI|fab34678-08d6-31ca-a951-4cba11f5cf3a",
+    "AI|https://www.investing.com/news/economy-news/britain-will-not-join-canadaled-defence-bank-initiative-4973915",
+    "AI|https://www.investing.com/news/insider-trading-news/korro-bio-10-owner-lynx1-capital-management-lp-buys-884751-stock-93CH-4973925",
+    "Cybersecurity|https://www.investing.com/news/economy-news/britain-will-not-join-canadaled-defence-bank-initiative-4973915",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/korro-bio-10-owner-lynx1-capital-management-lp-buys-884751-stock-93CH-4973925",
+    "SG Banks|https://www.investing.com/news/economy-news/britain-will-not-join-canadaled-defence-bank-initiative-4973915",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/korro-bio-10-owner-lynx1-capital-management-lp-buys-884751-stock-93CH-4973925",
+    "Watchlist|https://www.investing.com/news/economy-news/britain-will-not-join-canadaled-defence-bank-initiative-4973915",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/korro-bio-10-owner-lynx1-capital-management-lp-buys-884751-stock-93CH-4973925",
+    "Iran|https://www.iranintl.com/en/202610265572"
   ],
   "topic_error": "",
   "last_digest": "2026-10-26",
@@ -5080,5 +5080,5 @@
     "MSFT|2026-10-29",
     "LIN|2026-10-29"
   ],
-  "last_check": 1793055765.1985219
+  "last_check": 1793056671.7320497
 }
