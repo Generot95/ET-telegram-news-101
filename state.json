@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-indutrade-posts-strong-q3-2026-growth-as-shares-fall-93CH-4968266",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-green-landscaping-q3-2026-sales-rise-profit-slips-93CH-4968267",
-    "AI|https://www.investing.com/news/earnings/electrolux-posts-q3-loss-as-middle-east-conflict-us-tariffs-hit-earnings-4968116",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-sleep-cycle-q3-2026-shows-stronger-margins-softer-sales-93CH-4968268",
-    "AI|https://www.investing.com/news/stock-market-news/31-mtd-earnings-beats-and-fresh-upgrades-send-these-aipicked-retailers-soaring-4968229",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-safran-stock-sliding-today-93CH-4968241",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-indutrade-stock-sliding-today-93CH-4968243",
     "AI|https://www.investing.com/news/stock-market-news/why-is-signify-stock-rallying-today-93CH-4968244",
     "AI|https://www.investing.com/news/company-news/balder-q3-2026-slides-adjusted-profit-rises-11-amid-office-pressure-93CH-4968230",
     "AI|https://www.investing.com/news/company-news/safran-q3-2026-slides-strong-revenue-growth-shares-fall-6-93CH-4968234",
@@ -5000,7 +4993,14 @@
     "Watchlist|/international/asean/indonesian-stocks-high-shareholding-concentrations-be-excluded-index-starting-nov-2",
     "War|4914d94b-9ba6-3608-a4e1-1bd395c6ae87",
     "AI|aea932a0-14aa-394a-96e7-5e08bdb6e595",
-    "AI|053ab231-53d0-3b07-953f-c8f3cb5a10ce"
+    "AI|053ab231-53d0-3b07-953f-c8f3cb5a10ce",
+    "SG Banks|/companies-markets/energy-commodities/inside-singapores-new-five-year-energy-plan-s5-3-billion-grid-upgrade-trebling-storage-capacity",
+    "Watchlist|/companies-markets/energy-commodities/inside-singapores-new-five-year-energy-plan-s5-3-billion-grid-upgrade-trebling-storage-capacity",
+    "War|89aff0b6-c577-3d74-94e3-bbe4c231a74a",
+    "War|WP-MKTW-0005306495",
+    "AI|WP-MKTW-0005306495",
+    "Cybersecurity|WP-MKTW-0005306495",
+    "SG Banks|https://www.channelnewsasia.com/business/japan-companies-compensate-users-cyberattacks-buffet-economy-6491891"
   ],
   "topic_error": "",
   "last_digest": "2026-10-26",
@@ -5077,5 +5077,5 @@
   "earnings_notified": [
     "VLO|2026-10-22"
   ],
-  "last_check": 1792979106.704718
+  "last_check": 1792980039.12555
 }
