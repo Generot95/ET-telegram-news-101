@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/analyst-ratings/rbc-capital-reiterates-verisk-analytics-stock-rating-at-outperform-93CH-4970222",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/uniswap-v4-is-now-an-aggregator-uniswap-labs-launches-aggregator-hooks-4966916",
-    "War|WP-MKTW-0005303785",
-    "AI|WP-MKTW-0005303785",
-    "Cybersecurity|WP-MKTW-0005303785",
-    "AI|e7c6a5f4-9997-3c3a-99f2-8ebea10f7b04",
-    "Watchlist|e7c6a5f4-9997-3c3a-99f2-8ebea10f7b04",
-    "War|25a5e180-3b5f-3e1f-ab46-0b792495f110",
-    "War|d11b5c76-c1c6-357f-bda3-f91a19421f73",
-    "War|7fa356e4-b855-37ae-bba1-3bc442279512",
     "AI|25a5e180-3b5f-3e1f-ab46-0b792495f110",
     "Crypto|562735df-259b-35dc-a703-6c68ebd684fc",
     "Cybersecurity|25a5e180-3b5f-3e1f-ab46-0b792495f110",
@@ -5000,7 +4990,17 @@
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-consumer-portfolio-services-posts-record-q3-2026-growth-93CH-4973366",
     "Watchlist|https://www.investing.com/news/analyst-ratings/baird-reviews-chip-stocks-after-anthropic-s1-filing-93CH-4973367",
     "AI|d021b4d0-6468-4c79-9efe-ccec0d0e074d",
-    "Watchlist|d021b4d0-6468-4c79-9efe-ccec0d0e074d"
+    "Watchlist|d021b4d0-6468-4c79-9efe-ccec0d0e074d",
+    "AI|1203d646-82a2-38bd-8db7-49e0270a0e8d",
+    "Watchlist|1203d646-82a2-38bd-8db7-49e0270a0e8d",
+    "AI|4ec5f837-bf92-3561-93bc-e49bf3429b43",
+    "AI|4c51ab9c-6974-3caa-b5ee-020e4d3a383e",
+    "AI|537d5c3b-0146-358f-9901-c57dc2f219ff",
+    "Watchlist|4c51ab9c-6974-3caa-b5ee-020e4d3a383e",
+    "Watchlist|537d5c3b-0146-358f-9901-c57dc2f219ff",
+    "Watchlist|4ec5f837-bf92-3561-93bc-e49bf3429b43",
+    "AI|d0258cb4-11eb-3a44-8192-aa8740583bec",
+    "Watchlist|d0258cb4-11eb-3a44-8192-aa8740583bec"
   ],
   "topic_error": "",
   "last_digest": "2026-10-26",
@@ -5080,5 +5080,5 @@
     "MSFT|2026-10-29",
     "LIN|2026-10-29"
   ],
-  "last_check": 1793036452.7890599
+  "last_check": 1793037363.757142
 }
