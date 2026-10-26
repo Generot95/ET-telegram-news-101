@@ -1,21 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/intapp-stock-hits-52week-high-at-4799-usd-93CH-4970159",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-gtt-q3-2026-order-surge-lifts-shares-33-93CH-4970160",
-    "SG Banks|https://www.investing.com/news/company-news/first-western-q3-2026-slides-earnings-surge-88-margin-expands-93CH-4970161",
-    "Watchlist|https://www.investing.com/news/company-news/popular-declares-090-quarterly-dividend-per-share-93CH-4970145",
-    "Watchlist|https://www.investing.com/news/stock-market-news/stoxx-600-extends-fall-as-kering-slumps-oil-climbs-4968205",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-first-western-financial-tops-profit-trend-in-q3-2026-93CH-4970146",
-    "Watchlist|https://www.investing.com/news/commodities-news/optionmetrics-flags-hidden-gems-in-commodities-as-wheat-soybeans-outshine-copper-4970147",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/aim-immunotech-ceo-equels-buys-5093-of-common-stock-93CH-4970157",
-    "Watchlist|https://www.investing.com/news/company-news/intapp-stock-hits-52week-high-at-4799-usd-93CH-4970159",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-gtt-q3-2026-order-surge-lifts-shares-33-93CH-4970160",
-    "Watchlist|https://www.investing.com/news/company-news/first-western-q3-2026-slides-earnings-surge-88-margin-expands-93CH-4970161",
-    "War|8391823a-8824-3c2a-824c-8571f6e5766e",
-    "War|174761cb-4dd6-32db-81d0-53c9dcd8a4df",
-    "Crypto|ebbff015-e331-44d5-8017-6cb31c95bd74",
-    "War|63e9676f-c94c-3081-9a60-b7c97b53ff2b",
     "AI|f4bd1664-f062-3076-9bc9-11f62411ce72",
     "AI|a792e715-c457-39e7-9264-0b323a40c548",
     "Watchlist|f4bd1664-f062-3076-9bc9-11f62411ce72",
@@ -5000,7 +4985,22 @@
     "Watchlist|5e1238e3-7838-303c-b7fd-ab3fef9a0d57",
     "Watchlist|ff4c7d6e-16c4-387f-a442-f0f96ba559e0",
     "AI|41f988cd-f8e5-3ce9-88f0-02c00fbe9612",
-    "Watchlist|41f988cd-f8e5-3ce9-88f0-02c00fbe9612"
+    "Watchlist|41f988cd-f8e5-3ce9-88f0-02c00fbe9612",
+    "AI|https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-085-4973308",
+    "AI|a763bd0c-b924-3d79-b495-ed411a88a125",
+    "Watchlist|a763bd0c-b924-3d79-b495-ed411a88a125",
+    "AI|b2d3326c-8ff7-356f-98dd-b89186318fb4",
+    "AI|1cca538c-2cb6-3648-a3e0-8c03824e26eb",
+    "SG Banks|https://www.straitstimes.com/business/microsoft-to-offer-buyouts-to-60000-workers-in-latest-cost-cut",
+    "Watchlist|b2d3326c-8ff7-356f-98dd-b89186318fb4",
+    "Watchlist|1cca538c-2cb6-3648-a3e0-8c03824e26eb",
+    "AI|223aac86-b326-3b31-991a-613c4460e11a",
+    "Watchlist|223aac86-b326-3b31-991a-613c4460e11a",
+    "Crypto|3a97cd61-7bb6-33e7-9eab-cfced5abd26b",
+    "War|acf72961-8c8c-3904-a82c-6584acdd4411",
+    "War|65f85332-5050-3d59-ac93-45207c52032f",
+    "AI|7e54d745-e9bc-3878-8c72-a054e6d85ccd",
+    "Watchlist|3b1129bd-ae3c-3bc4-9778-d2e10c43aa18"
   ],
   "topic_error": "",
   "last_digest": "2026-10-26",
@@ -5080,5 +5080,5 @@
     "MSFT|2026-10-29",
     "LIN|2026-10-29"
   ],
-  "last_check": 1793032772.3892193
+  "last_check": 1793033706.9075596
 }
