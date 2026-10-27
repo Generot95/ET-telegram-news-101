@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "War|acf72961-8c8c-3904-a82c-6584acdd4411",
-    "War|65f85332-5050-3d59-ac93-45207c52032f",
-    "AI|7e54d745-e9bc-3878-8c72-a054e6d85ccd",
-    "Watchlist|3b1129bd-ae3c-3bc4-9778-d2e10c43aa18",
-    "AI|a6e64d8a-03e5-30c1-ad78-d5a3a4f83471",
-    "AI|486b8bb1-6909-376e-bdc7-d049af6a9b57",
-    "AI|7ad5c417-cfc7-307c-a09c-52c66200f3c9",
-    "AI|6cebe88f-de03-3446-8443-c004511b55cb",
-    "Crypto|606aad5f-4c07-37fe-bd4c-3a4fc3954f98",
-    "Watchlist|486b8bb1-6909-376e-bdc7-d049af6a9b57",
-    "Watchlist|6cebe88f-de03-3446-8443-c004511b55cb",
     "Watchlist|a6e64d8a-03e5-30c1-ad78-d5a3a4f83471",
     "Watchlist|759a9dae-c592-3f80-9bf7-1b2587bfe754",
     "AI|ec22d9ce-e63b-3a14-98e8-4beb092f995b",
@@ -5000,7 +4989,18 @@
     "Watchlist|5413e0ac-d0e0-3a2f-be95-851010087f6f",
     "Watchlist|88f9d0a3-6435-3852-bed7-8bc5a1a39c7b",
     "SG Banks|https://www.straitstimes.com/business/microsoft-to-offer-buyouts-to-60000-workers-in-latest-cost-cut",
-    "AI|4c742509-2abd-3b26-b766-4513eafa6f83"
+    "AI|4c742509-2abd-3b26-b766-4513eafa6f83",
+    "AI|f7c2ccd4-089a-3f36-9479-d89100e9f1b5",
+    "AI|d9cdb74f-dfe0-3e3e-836e-9b795eeaee66",
+    "Watchlist|d9cdb74f-dfe0-3e3e-836e-9b795eeaee66",
+    "War|0e556d7b-6022-4f4c-ab8a-a2739350ea77",
+    "AI|c34d2294-3dae-35a9-9f5c-821f2b791ced",
+    "Watchlist|c34d2294-3dae-35a9-9f5c-821f2b791ced",
+    "War|f98bc4a2-10cf-3581-a083-6b5cb37be007",
+    "Watchlist|5a3a6c6b-31be-3963-8008-69f91b1f1e81",
+    "Watchlist|9529e5dc-bb72-39ae-9256-74ec56fa6b44",
+    "AI|bc74f675-fb9c-460a-b1e6-35b5492073bc",
+    "Watchlist|bc74f675-fb9c-460a-b1e6-35b5492073bc"
   ],
   "topic_error": "",
   "last_digest": "2026-10-27",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793127431.3245442,
+  "last_check": 1793128349.2887228,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-27"
