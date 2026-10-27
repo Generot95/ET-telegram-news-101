@@ -1,21 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|https://www.investing.com/news/world-news/china-urges-us-to-halt-proposed-expansion-of-outbound-investment-curbs-4970840",
-    "AI|https://www.investing.com/news/world-news/france-mounts-huge-security-operation-as-protesters-prepare-to-march-4970771",
-    "Cybersecurity|https://www.investing.com/news/world-news/north-koreas-kim-jong-un-visits-china-via-dandong-bridge-yonhap-says-4970677",
-    "Cybersecurity|https://www.investing.com/news/world-news/china-urges-us-to-halt-proposed-expansion-of-outbound-investment-curbs-4970840",
-    "Cybersecurity|https://www.investing.com/news/world-news/france-mounts-huge-security-operation-as-protesters-prepare-to-march-4970771",
-    "SG Banks|https://www.investing.com/news/world-news/north-koreas-kim-jong-un-visits-china-via-dandong-bridge-yonhap-says-4970677",
-    "SG Banks|https://www.investing.com/news/world-news/china-urges-us-to-halt-proposed-expansion-of-outbound-investment-curbs-4970840",
-    "SG Banks|https://www.investing.com/news/world-news/france-mounts-huge-security-operation-as-protesters-prepare-to-march-4970771",
-    "Watchlist|https://www.investing.com/news/world-news/north-koreas-kim-jong-un-visits-china-via-dandong-bridge-yonhap-says-4970677",
-    "Watchlist|https://www.investing.com/news/world-news/china-urges-us-to-halt-proposed-expansion-of-outbound-investment-curbs-4970840",
-    "Watchlist|https://www.investing.com/news/world-news/france-mounts-huge-security-operation-as-protesters-prepare-to-march-4970771",
-    "SG Banks|https://www.investing.com/news/company-news/idfc-first-bank-q2-fy27-slides-profit-crosses-rs-1000-cr-milestone-93CH-4970851",
-    "Watchlist|https://www.investing.com/news/company-news/idfc-first-bank-q2-fy27-slides-profit-crosses-rs-1000-cr-milestone-93CH-4970851",
-    "War|WP-MKTW-0005302205",
-    "AI|WP-MKTW-0005302205",
     "Cybersecurity|WP-MKTW-0005302205",
     "AI|6173c328-e1e3-3c3f-8152-0cca55b70601",
     "AI|91c4144c-2b4a-3503-96a5-6369988ecf70",
@@ -5000,7 +4985,22 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/carnage-beneath-the-record-high-how-to-find-cheap-us-stocks-without-the-traps-4974088",
     "Watchlist|https://www.investing.com/news/stock-market-news/asia-stocks-jump-as-anthropic-ipo-filing-revives-ai-trade-4974091",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-sandfire-resources-posts-strong-q1-2026-start-93CH-4974092",
-    "War|603859e9-56a4-3339-9dbc-d354b89e206e"
+    "War|603859e9-56a4-3339-9dbc-d354b89e206e",
+    "War|https://www.investing.com/news/world-news/jordan-strikes-southern-syria-after-linking-church-attackers-to-terrorist-groups-4973477",
+    "War|https://www.investing.com/news/world-news/rubio-says-venezuelas-electoral-infrastructure-must-be-replaced-before-a-vote-4973489",
+    "War|https://www.investing.com/news/world-news/trump-says-without-citing-evidence-that-brazil-election-looks-rigged-4973515",
+    "War|https://www.investing.com/news/world-news/flavio-bolsonaro-says-brazil-federal-police-asked-for-his-passports-4973682",
+    "War|https://www.investing.com/news/world-news/jordan-says-its-air-force-struck-militant-hideouts-in-syria-after-church-attack-4973778",
+    "AI|4a76e3bf-9341-3ebb-abf5-6fd5deb67272",
+    "AI|dcd6d166-be26-3eac-9f63-6004e5329d9d",
+    "AI|3d1bde5d-8f17-3397-a453-e10673f259a7",
+    "Cybersecurity|3d1bde5d-8f17-3397-a453-e10673f259a7",
+    "Watchlist|4a76e3bf-9341-3ebb-abf5-6fd5deb67272",
+    "Watchlist|dcd6d166-be26-3eac-9f63-6004e5329d9d",
+    "Watchlist|3d1bde5d-8f17-3397-a453-e10673f259a7",
+    "AI|3961194f-4c22-3bf0-b31b-7b5197f06513",
+    "SG Banks|https://www.straitstimes.com/business/asian-stocks-surge-as-anthropic-ipo-lifts-sentiment-ahead-of-earnings-central-banks",
+    "Watchlist|3961194f-4c22-3bf0-b31b-7b5197f06513"
   ],
   "topic_error": "",
   "last_digest": "2026-10-27",
@@ -5080,5 +5080,5 @@
     "MSFT|2026-10-29",
     "LIN|2026-10-29"
   ],
-  "last_check": 1793069474.9750366
+  "last_check": 1793070388.245953
 }
