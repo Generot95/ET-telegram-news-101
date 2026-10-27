@@ -1,18 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "SG Banks|https://www.investing.com/news/insider-trading-news/anixa-biosciences-president-coo--cfo-buys-15620-in-shares-93CH-4971073",
-    "SG Banks|https://www.investing.com/news/company-news/xencor-reports-phase-1-data-for-cancer-drug-xmab819-93CH-4971076",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/anixa-biosciences-president-coo--cfo-buys-15620-in-shares-93CH-4971073",
-    "Watchlist|https://www.investing.com/news/company-news/xencor-reports-phase-1-data-for-cancer-drug-xmab819-93CH-4971076",
-    "War|https://www.investing.com/news/world-news/north-koreas-kim-jong-un-returns-from-china-after-war-memorial-visit-state-media-says-4971045",
-    "AI|dc11cdd2-18ee-39e1-a8f7-984e5df1ead3",
-    "AI|37a28610-e802-37ad-8210-5f4a1c83a957",
-    "AI|c9173462-59b0-34d9-aab3-bb090299039f",
-    "Watchlist|dc11cdd2-18ee-39e1-a8f7-984e5df1ead3",
-    "Watchlist|c9173462-59b0-34d9-aab3-bb090299039f",
-    "Watchlist|37a28610-e802-37ad-8210-5f4a1c83a957",
-    "Iran|https://www.iranintl.com/en/202610204555",
     "SG Banks|/property/fct-nlb-turn-causeway-points-former-cinema-space-reading-hub-mall-revamp",
     "War|https://www.investing.com/news/commodities-news/saudi-arabia-intercepts-drones-and-missiles-as-fighting-with-yemens-houthis-continues-4971080",
     "AI|https://www.investing.com/news/stock-market-news/goldman-sachs-cuts-kospi-target-by-25-amid-ai-stock-selloff-4971079",
@@ -5000,7 +4988,19 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/analysisus-airlines-favor-higher-fares-over-fuller-planes-as-fuel-costs-squeeze-profits-4974334",
     "Watchlist|https://www.investing.com/news/analyst-ratings/jefferies-initiates-baytex-energy-stock-coverage-with-buy-rating-93CH-4974342",
     "Watchlist|https://www.investing.com/news/analyst-ratings/goldman-sachs-cuts-gjensidige-forsikring-stock-rating-on-normalizing-pricing-93CH-4974343",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/ubs-downgrades-hubspot-stock-rating-on-demand-concerns-93CH-4974344"
+    "Watchlist|https://www.investing.com/news/analyst-ratings/ubs-downgrades-hubspot-stock-rating-on-demand-concerns-93CH-4974344",
+    "Iran|https://www.iranintl.com/en/202610257246",
+    "SG Banks|c5031fde-fef4-3b79-aa30-05302dc64235",
+    "SG Banks|/companies-markets/dbs-favours-chinese-banks-flags-hsbc-long-term-buy",
+    "SG Banks|/companies-markets/reits-property/london-developer-halts-major-project-housing-viability-hits-crisis-point",
+    "SG Banks|/opinion-features/time-mas-sgx-scrutinise-issue-managers",
+    "Watchlist|4c32b0d1-a277-3900-80a8-7026ea0771af",
+    "Watchlist|/companies-markets/reits-property/london-developer-halts-major-project-housing-viability-hits-crisis-point",
+    "Watchlist|/opinion-features/time-mas-sgx-scrutinise-issue-managers",
+    "AI|7e36e16d-2b37-36a5-8b98-4d4e8dfccb1b",
+    "Watchlist|7e36e16d-2b37-36a5-8b98-4d4e8dfccb1b",
+    "AI|8367ee96-2684-3456-9655-2c41b886c83b",
+    "Watchlist|8367ee96-2684-3456-9655-2c41b886c83b"
   ],
   "topic_error": "",
   "last_digest": "2026-10-27",
@@ -5080,5 +5080,5 @@
     "MSFT|2026-10-29",
     "LIN|2026-10-29"
   ],
-  "last_check": 1793087842.9578729
+  "last_check": 1793088768.063606
 }
