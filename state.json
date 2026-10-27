@@ -1,19 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|https://www.investing.com/news/world-news/jordan-church-attack-survivor-says-assailant-pointed-handgun-at-him-4970792",
-    "Watchlist|https://www.investing.com/news/world-news/ukraine-says-starlink-and-starshield-operating-at-400-kph-after-week-of-throttling-4970757",
-    "Watchlist|https://www.investing.com/news/general-news/french-police-deploy-officers-as-paris-braces-for-fresh-protests-4970795",
-    "Watchlist|https://www.investing.com/news/investment-ideas/how-investingpros-fair-value-spotted-bwfgs-109-gain-in-advance-93CH-4970800",
-    "AI|db8c97c4-5bf8-3fe0-b695-34f32dcc9d82",
-    "Watchlist|db8c97c4-5bf8-3fe0-b695-34f32dcc9d82",
-    "War|fabbe917-d22f-33c4-93c3-b744200f3103",
-    "Crypto|eba41ba4-9c53-363a-a979-3f61a0cdc017",
-    "Crypto|f171d8fd-c675-3756-88e4-c5f20a3c40a3",
-    "AI|90ed5a22-5c04-30e9-af09-1be38a339128",
-    "Watchlist|90ed5a22-5c04-30e9-af09-1be38a339128",
-    "War|WP-MKTW-0005305601",
-    "AI|WP-MKTW-0005305601",
     "Cybersecurity|WP-MKTW-0005305601",
     "AI|f2afa25d-9e35-32a7-b137-0e52cf983033",
     "AI|1559fac0-8505-3069-97e9-62e82c14aca1",
@@ -5000,7 +4987,20 @@
     "AI|https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4974007",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4974007",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4974007",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4974007"
+    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4974007",
+    "War|0a4bc795-30c8-3dd3-84c8-7d359800226f",
+    "SG Banks|/companies-markets/keppel-infrastructure-trusts-9m-distributable-income-falls-17-s140-1-million",
+    "Watchlist|/companies-markets/keppel-infrastructure-trusts-9m-distributable-income-falls-17-s140-1-million",
+    "AI|1a66d67f-71b4-37b7-a041-989f7ef022b2",
+    "Watchlist|1a66d67f-71b4-37b7-a041-989f7ef022b2",
+    "AI|9cc829ac-2864-3442-aed5-272d78df35b3",
+    "Watchlist|9cc829ac-2864-3442-aed5-272d78df35b3",
+    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-botanix-trims-costs-as-q1-2027-revenue-stalls-93CH-4974014",
+    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-botanix-trims-costs-as-q1-2027-revenue-stalls-93CH-4974014",
+    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-botanix-trims-costs-as-q1-2027-revenue-stalls-93CH-4974014",
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-botanix-trims-costs-as-q1-2027-revenue-stalls-93CH-4974014",
+    "SG Banks|https://www.straitstimes.com/business/oil-eases-on-middle-east-diplomacy-hopes-saudi-attacks-keep-supply-worries-alive",
+    "War|394a6aba-6f37-3a5b-bd33-4a6437d51fff"
   ],
   "topic_error": "",
   "last_digest": "2026-10-27",
@@ -5080,5 +5080,5 @@
     "MSFT|2026-10-29",
     "LIN|2026-10-29"
   ],
-  "last_check": 1793062171.7125726
+  "last_check": 1793063075.7125368
 }
