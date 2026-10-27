@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|fd545871-c609-330b-8cac-45934c83ed02",
-    "AI|478b4fd9-b2ab-38d3-8d21-017905cb68ee",
-    "AI|57f3199d-dbbe-3b5b-80cd-ddc640720679",
-    "AI|ab1593f4-2851-31ff-86c8-b330cfa5d499",
-    "Watchlist|478b4fd9-b2ab-38d3-8d21-017905cb68ee",
-    "Watchlist|57f3199d-dbbe-3b5b-80cd-ddc640720679",
-    "Watchlist|ab1593f4-2851-31ff-86c8-b330cfa5d499",
     "War|WP-MKTW-0005307698",
     "AI|WP-MKTW-0005307698",
     "Cybersecurity|WP-MKTW-0005307698",
@@ -5000,7 +4993,14 @@
     "War|https://www.investing.com/news/world-news/serbias-student-movement-toppled-a-political-giant-can-it-now-govern-the-country-4973310",
     "AI|https://www.investing.com/news/stock-market-news/micron-tests-618-fib-support-in-bear-flag-live-levels-93CH-4973063",
     "AI|https://www.investing.com/news/stock-market-news/dollar-index-trapped-in-ichimoku-cloud-at-10186-live-levels-93CH-4973064",
-    "AI|2adb73e5-3f24-3b09-940b-927ffa97eb57"
+    "AI|2adb73e5-3f24-3b09-940b-927ffa97eb57",
+    "War|8f6b3a38-3d93-3912-b09e-16fafda22932",
+    "AI|096cf114-14c0-3238-b442-145ec9b7786f",
+    "AI|8f6b3a38-3d93-3912-b09e-16fafda22932",
+    "War|424a8868-5abe-3619-9f06-65ccfa56d154",
+    "AI|424a8868-5abe-3619-9f06-65ccfa56d154",
+    "Crypto|975d15d6-de43-3405-a207-c38280688747",
+    "Watchlist|424a8868-5abe-3619-9f06-65ccfa56d154"
   ],
   "topic_error": "",
   "last_digest": "2026-10-27",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793130191.7991846,
+  "last_check": 1793131106.0786505,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-27"
