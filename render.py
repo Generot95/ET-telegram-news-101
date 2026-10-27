@@ -158,8 +158,11 @@ def stock_card(info):
             parts.append(f"<div class='cond'><span class='mark {'ok' if ok else 'no'}'>{'\u2713' if ok else '\u2717'}</span>"
                          f"<span>{e(label)}<br><span class='detail'>{e(detail)}</span></span></div>")
     parts.append(_valuation_block(info.get("val")))
-    ideas = info.get("puts")
-    parts.append("<div style='margin-top:10px' class='small'>Cash-secured puts</div>" + _puts_table(ideas, rows=2))
+    if result and result["met"] == 6:
+        parts.append("<div style='margin-top:10px' class='small'>Cash-secured puts</div>" + _puts_table(info.get("puts"), rows=2))
+    else:
+        parts.append(f"<div style='margin-top:10px' class='small'>Cash-secured put ideas appear when all 6 conditions "
+                     f"are met (now {result['met'] if result else 0}/6).</div>")
     if info.get("earnings"):
         parts.append(f"<div class='small' style='margin-top:6px'>Next earnings "
                      f"{datetime.fromtimestamp(info['earnings'], SGT).strftime('%d %b %Y')}</div>")
@@ -193,10 +196,9 @@ def board_pages(infos, rules):
     else:
         body.append("<div class='banner none'><b>No triggers today</b>None of the scanned stocks met all 6 conditions.</div>")
 
-    put_names = triggered + watch
+    put_names = triggered
     if put_names:
-        title = "CASH-SECURED PUT IDEAS FOR TODAY'S TRIGGERS" + (" AND WATCH LIST" if watch else "")
-        body.append(f"<div class='section'>{title}</div>")
+        body.append("<div class='section'>CASH-SECURED PUT IDEAS FOR TODAY'S TRIGGERS</div>")
         sources = set()
         for i in put_names:
             ideas = i.get("puts") or {}
@@ -239,7 +241,8 @@ def board_pages(infos, rules):
 def valuation_card(info):
     val = info.get("val") or {}
     sector = val.get("sector") or ""
-    tags = "<span class='tag'>DCF</span>" + (f"<span class='tag'>{e(sector)}</span>" if sector else "")
+    method = "Earnings DCF" if val.get("method") == "earnings" else "DCF"
+    tags = f"<span class='tag'>{method}</span>" + (f"<span class='tag'>{e(sector)}</span>" if sector else "")
     result = info.get("result")
     signal = f"<div class='small'>25-60 signal {result['met']}/6</div>" if result else ""
     if "error" in val or not val:
@@ -274,9 +277,11 @@ def valuation_page(infos):
     cards = "".join(valuation_card(i) for i in sorted(infos, key=order))
     return _page(f"<div class='head'><h1>Valuations</h1><span class='muted mono'>two-stage DCF &middot; "
                  f"{len(infos)} stocks</span></div><div class='grid'>{cards}</div>"
-                 "<div class='footer'>DCF: trailing free cash flow grown at analysts' next-year EPS growth (capped at 20%) "
-                 "for 5 years, fading to 3% over 5 more, discounted at 9%, plus cash minus debt. Not meaningful for "
-                 "banks, insurers and REITs.</div>")
+                 "<div class='footer'>Value = today's worth of 10 years of growing cash flow plus a final value, discounted "
+                 "at 9% a year. DCF: trailing free cash flow, growing at analysts' next-year EPS growth (kept between 0% and "
+                 "20%) for 5 years, fading to 3% over 5 more, plus cash minus debt. Earnings DCF (financials, or negative "
+                 "free cash flow): the same on analysts' current-year earnings per share. Safety = (value - price) / value."
+                 "</div>")
 
 
 def single_card_page(info):

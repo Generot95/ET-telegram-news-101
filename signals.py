@@ -268,10 +268,27 @@ def best_put_ideas(session, crumb, ticker, spot, settings):
 
 # ---------- DCF ----------
 
+def _present_value(base, growth, d):
+    """PV of `base` growing at `growth` for the high-growth years, fading to terminal growth, plus terminal value."""
+    pv, flow = 0.0, base
+    years = d["high_growth_years"] + d["fade_years"]
+    for year in range(1, years + 1):
+        if year <= d["high_growth_years"]:
+            g = growth
+        else:
+            g = growth + (d["terminal_growth"] - growth) * (year - d["high_growth_years"]) / d["fade_years"]
+        flow *= 1 + g
+        pv += flow / (1 + d["discount_rate"]) ** year
+    terminal = flow * (1 + d["terminal_growth"]) / (d["discount_rate"] - d["terminal_growth"])
+    return pv + terminal / (1 + d["discount_rate"]) ** years
+
+
 def dcf(session, crumb, ticker, settings):
+    """Two-stage DCF on free cash flow; falls back to analysts' earnings per share for financials
+    (insurers, banks, REITs) and for companies whose trailing free cash flow is negative."""
     d = {**DEFAULT_DCF, **settings}
     summary = _get(session, f"https://query2.finance.yahoo.com/v10/finance/quoteSummary/{ticker}",
-                   modules="financialData,earningsTrend,assetProfile,price", crumb=crumb)
+                   modules="financialData,earningsTrend,assetProfile,price,defaultKeyStatistics", crumb=crumb)
     try:
         res = summary["quoteSummary"]["result"][0]
     except (TypeError, KeyError, IndexError):
@@ -282,9 +299,34 @@ def dcf(session, crumb, ticker, settings):
     currency = res.get("price", {}).get("currency", "")
     market_cap = res.get("price", {}).get("marketCap", {}).get("raw")
     fin_currency = res.get("financialData", {}).get("financialCurrency") or currency
+    base_info = {"price": price, "currency": currency, "sector": sector}
+    if not price:
+        return {"error": "no price on Yahoo", **base_info}
+
+    trend = {t["period"]: t for t in res.get("earningsTrend", {}).get("trend", [])}
+    growth_of = lambda period: trend.get(period, {}).get("growth", {}).get("raw")
+    raw_growth = growth_of("+1y") if growth_of("+1y") is not None else growth_of("0y")
+    growth = min(max(raw_growth if raw_growth is not None else d["terminal_growth"], d["growth_floor"]), d["growth_cap"])
+    common = {"price": price, "currency": currency, "growth": growth, "raw_growth": raw_growth,
+              "settings": d, "sector": sector, "fin_currency": fin_currency}
+
+    def finish(value, method, base, base_label):
+        if value <= 0:
+            return {"error": "projected value is negative", **base_info}
+        return {**common, "value": value, "safety": (1 - price / value) * 100, "pct_of_value": price / value * 100,
+                "method": method, "base": base, "base_label": base_label}
+
+    def earnings_value(reason):
+        eps = trend.get("0y", {}).get("earningsEstimate", {}).get("avg", {}).get("raw") \
+            or res.get("defaultKeyStatistics", {}).get("forwardEps", {}).get("raw") \
+            or res.get("defaultKeyStatistics", {}).get("trailingEps", {}).get("raw")
+        if not eps or eps <= 0:
+            return {"error": f"{reason}, and no positive earnings estimate", **base_info}
+        return finish(_present_value(eps, growth, d), "earnings", eps,
+                      f"analysts' current-year EPS {eps:,.2f} ({reason})")
+
     if sector in NO_DCF_SECTORS:
-        return {"error": f"DCF not meaningful for {sector.lower()} companies", "price": price, "currency": currency,
-                "sector": sector}
+        return earnings_value(f"{sector.lower()} company")
 
     types = "trailingFreeCashFlow,annualFreeCashFlow,annualDilutedAverageShares," \
             "annualCashCashEquivalentsAndShortTermInvestments,annualTotalDebt"
@@ -298,32 +340,14 @@ def dcf(session, crumb, ticker, settings):
             if vals:
                 latest[key] = vals[-1]["reportedValue"]["raw"]
     except (TypeError, KeyError):
-        return {"error": "no cash-flow data on Yahoo"}
+        return earnings_value("no cash-flow data")
     fcf = latest.get("trailingFreeCashFlow") or latest.get("annualFreeCashFlow")
     shares = latest.get("annualDilutedAverageShares")
-    if not fcf or not shares or not price:
-        return {"error": "missing free cash flow, share count or price"}
+    if not fcf or not shares:
+        return earnings_value("no free cash flow data")
     if fcf <= 0:
-        return {"error": "free cash flow is negative, DCF not meaningful", "price": price, "currency": currency,
-                "sector": sector}
+        return earnings_value("free cash flow is negative")
 
-    trend = {t["period"]: t.get("growth", {}).get("raw") for t in res.get("earningsTrend", {}).get("trend", [])}
-    raw_growth = trend.get("+1y") if trend.get("+1y") is not None else trend.get("0y")
-    growth = min(max(raw_growth if raw_growth is not None else d["terminal_growth"], d["growth_floor"]), d["growth_cap"])
-
-    pv, cash_flow = 0.0, fcf
-    years = d["high_growth_years"] + d["fade_years"]
-    for year in range(1, years + 1):
-        if year <= d["high_growth_years"]:
-            g = growth
-        else:
-            step = (year - d["high_growth_years"]) / d["fade_years"]
-            g = growth + (d["terminal_growth"] - growth) * step
-        cash_flow *= 1 + g
-        pv += cash_flow / (1 + d["discount_rate"]) ** year
-    terminal = cash_flow * (1 + d["terminal_growth"]) / (d["discount_rate"] - d["terminal_growth"])
-    pv += terminal / (1 + d["discount_rate"]) ** years
-    equity = pv + latest.get("annualCashCashEquivalentsAndShortTermInvestments", 0) - latest.get("annualTotalDebt", 0)
     fx = 1.0
     if fin_currency and currency and fin_currency != currency:
         fx_data = _get(session, f"https://query1.finance.yahoo.com/v8/finance/chart/{fin_currency}{currency}=X",
@@ -331,14 +355,12 @@ def dcf(session, crumb, ticker, settings):
         try:
             fx = fx_data["chart"]["result"][0]["meta"]["regularMarketPrice"]
         except (TypeError, KeyError, IndexError):
-            return {"error": f"couldn't convert {fin_currency} accounts to {currency}"}
-    if equity <= 0:
-        return {"error": "debt exceeds the value of projected cash flows", "price": price, "currency": currency}
+            return {"error": f"couldn't convert {fin_currency} accounts to {currency}", **base_info}
+    equity = _present_value(fcf, growth, d) \
+        + latest.get("annualCashCashEquivalentsAndShortTermInvestments", 0) - latest.get("annualTotalDebt", 0)
     # Scaling by market cap handles ADRs and share classes without needing share ratios.
     value = price * equity * fx / market_cap if market_cap else equity * fx / shares
-    return {"value": value, "price": price, "currency": currency, "safety": (1 - price / value) * 100,
-            "pct_of_value": price / value * 100, "growth": growth, "raw_growth": raw_growth,
-            "fcf": fcf, "fin_currency": fin_currency, "shares": shares, "settings": d, "sector": sector}
+    return finish(value, "fcf", fcf, f"trailing free cash flow {fin_currency} {fcf / 1e9:,.1f}B")
 
 
 # ---------- Formatting ----------
@@ -401,9 +423,10 @@ def fmt_dcf(ticker, v, detail=False):
     if detail:
         s = v["settings"]
         raw = f"{v['raw_growth'] * 100:.1f}%" if v["raw_growth"] is not None else "n/a"
-        text += (f"\n<i>Two-stage DCF on trailing free cash flow {v['fin_currency']} {v['fcf'] / 1e9:,.1f}B. "
-                 f"Growth {v['growth'] * 100:.1f}% (analyst next-year EPS growth {raw}, capped at "
-                 f"{s['growth_cap'] * 100:.0f}%) for {s['high_growth_years']} years, fading to "
-                 f"{s['terminal_growth'] * 100:.0f}% over {s['fade_years']}; discount rate "
-                 f"{s['discount_rate'] * 100:.0f}%; plus cash, minus debt.</i>")
+        text += (f"\n<i>{'Earnings' if v['method'] == 'earnings' else 'Cash-flow'} DCF on {v['base_label']}. "
+                 f"Growth {v['growth'] * 100:.1f}% (analyst next-year EPS growth {raw}, kept between "
+                 f"{s['growth_floor'] * 100:.0f}% and {s['growth_cap'] * 100:.0f}%) for {s['high_growth_years']} years, "
+                 f"fading to {s['terminal_growth'] * 100:.0f}% over {s['fade_years']}; discount rate "
+                 f"{s['discount_rate'] * 100:.0f}%"
+                 + ("; plus cash, minus debt." if v["method"] == "fcf" else ".") + "</i>")
     return text

@@ -595,7 +595,9 @@ def ticker_card(cfg, ticker):
             + signals.fmt_check_lines(result))
     if result["met"] == 6:
         head += "\n\n" + html.escape(signals.fmt_trade_plan(cfg["signals"]["rules"]))
-    return [head, puts_text(cfg, ticker), value_text(cfg, ticker, detail=True)]
+    puts = puts_text(cfg, ticker) if result["met"] == 6 else \
+        f"Put ideas appear when all 6 conditions are met ({html.escape(ticker)} is at {result['met']}/6)."
+    return [head, puts, value_text(cfg, ticker, detail=True)]
 
 
 def signal_board(cfg):
@@ -652,7 +654,8 @@ def gather_info(cfg, ticker):
     info = {"ticker": ticker, "name": quote["name"] if quote else "", "result": result,
             "val": signals.dcf(session, crumb, ticker, cfg["signals"]["dcf"]),
             "earnings": earnings_ts(ticker)}
-    info["puts"] = signals.best_put_ideas(session, crumb, ticker, spot, cfg["signals"]["puts"])
+    triggered = result is not None and result["met"] == 6
+    info["puts"] = signals.best_put_ideas(session, crumb, ticker, spot, cfg["signals"]["puts"]) if triggered else None
     return info
 
 
@@ -994,7 +997,12 @@ def handle_command(chat_id, thread_id, text, cfg, state):
         if cmd == "/check":
             send_card_image(cfg, ticker, photo, reply)
         elif cmd == "/puts":
-            reply(puts_text(cfg, ticker))
+            result = scan_ticker(cfg, ticker)
+            if result and result["met"] == 6:
+                reply(puts_text(cfg, ticker))
+            else:
+                reply(f"{html.escape(ticker)} is at {result['met'] if result else 0}/6. Put ideas are only shown "
+                      "when all 6 conditions are met. Send /check " + html.escape(ticker) + " to see which are missing.")
         else:
             reply(value_text(cfg, ticker, detail=True))
     elif cmd == "/valuations":
