@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|53958146-0321-30df-9152-0d551e36c02e",
-    "Watchlist|b65242c6-6b61-34ec-ae2f-f4b3dd418290",
-    "AI|34af2710-8024-3a19-bf03-d1523d20fb3f",
-    "Crypto|34af2710-8024-3a19-bf03-d1523d20fb3f",
-    "Watchlist|34af2710-8024-3a19-bf03-d1523d20fb3f",
-    "Watchlist|e3461400-d891-3f07-8a33-cbebf544edf1",
-    "War|6cf39d62-54a8-36db-bdf8-a4e8166f6b6b",
-    "Watchlist|6cf39d62-54a8-36db-bdf8-a4e8166f6b6b",
     "AI|https://www.investing.com/news/company-news/volkswagen-to-build-georgia-audi-plant-expand-in-sc--bloomberg-4970968",
     "AI|https://www.investing.com/news/stock-market-news/trump-set-to-announce-plan-by-audi-to-build-us-factory-in-georgia-source-says-4970975",
     "Cybersecurity|https://www.investing.com/news/company-news/volkswagen-to-build-georgia-audi-plant-expand-in-sc--bloomberg-4970968",
@@ -5000,7 +4992,15 @@
     "Watchlist|https://www.investing.com/news/economy-news/yen-eases-on-riskon-mood-ahead-of-central-bank-bonanza-4974178",
     "Watchlist|https://www.investing.com/news/economy-news/taiwan-central-bank-sees-strong-tech-demand-driving-exports-into-2027-4974186",
     "Watchlist|https://www.investing.com/news/insider-trading-news/msci-general-counsel-robert-gutowski-sells-148m-in-stock-93CH-4974187",
-    "Watchlist|https://www.investing.com/news/stock-market-news/apple-says-it-will-replace-iphone-duo-units-showing-screen-problems-4973703"
+    "Watchlist|https://www.investing.com/news/stock-market-news/apple-says-it-will-replace-iphone-duo-units-showing-screen-problems-4973703",
+    "Cybersecurity|335b4978-f93f-37e0-9987-05761c71af32",
+    "SG Banks|https://www.channelnewsasia.com/business/oil-slips-1-iran-diplomacy-eases-supply-fears-6494771",
+    "SG Banks|https://www.channelnewsasia.com/business/china-unitree-robotics-shares-jp-morgan-6495071",
+    "AI|b5873ad0-443a-3a43-ae8b-7c240f7033c8",
+    "AI|8b6cca15-780a-3308-902d-ba1abd890484",
+    "Watchlist|b5873ad0-443a-3a43-ae8b-7c240f7033c8",
+    "Watchlist|8b6cca15-780a-3308-902d-ba1abd890484",
+    "SG Banks|https://www.straitstimes.com/business/hsbc-announces-us1-billion-buyback-after-profit-growth-misses"
   ],
   "topic_error": "",
   "last_digest": "2026-10-27",
@@ -5080,5 +5080,5 @@
     "MSFT|2026-10-29",
     "LIN|2026-10-29"
   ],
-  "last_check": 1793078646.7210648
+  "last_check": 1793079552.758125
 }
