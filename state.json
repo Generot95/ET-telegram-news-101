@@ -1,13 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|1ad46192-8161-3411-bf8f-748099530585",
-    "Watchlist|1ad46192-8161-3411-bf8f-748099530585",
-    "AI|286395b3-17c9-3e4d-9b57-04d50887f8e8",
-    "Watchlist|286395b3-17c9-3e4d-9b57-04d50887f8e8",
-    "AI|https://www.investing.com/news/stock-market-news/apax-nordic-capital-and-dalmore-circling-uk-supplier-jla-group--bloomberg-4970855",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/apax-nordic-capital-and-dalmore-circling-uk-supplier-jla-group--bloomberg-4970855",
-    "SG Banks|https://www.investing.com/news/stock-market-news/apax-nordic-capital-and-dalmore-circling-uk-supplier-jla-group--bloomberg-4970855",
     "Watchlist|https://www.investing.com/news/stock-market-news/apax-nordic-capital-and-dalmore-circling-uk-supplier-jla-group--bloomberg-4970855",
     "AI|c8f3928d-0cd1-3635-ad61-6ad71f0dee42",
     "War|4d7a562f-e0a3-32c7-96b3-1b0c55589c81",
@@ -5000,7 +4993,14 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-zai-stock-rallying-today-93CH-4974159",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-acevector-posts-17-revenue-growth-in-q2-2026-93CH-4974160",
     "Watchlist|https://www.investing.com/news/earnings/hsbc-3q-pretax-profit-rises-32-narrowly-misses-estimates-as-income-grows-4974166",
-    "Watchlist|https://www.investing.com/news/stock-market-news/52-39-22-our-ai-just-called-these-bluechip-breakouts-4974167"
+    "Watchlist|https://www.investing.com/news/stock-market-news/52-39-22-our-ai-just-called-these-bluechip-breakouts-4974167",
+    "AI|8644cf95-8fe2-3992-a2df-c7cf28ac1333",
+    "AI|1e02b07a-cd26-31f0-8506-45279399f704",
+    "AI|4c5a3555-a53f-3cf4-ae5a-c0e812729891",
+    "Watchlist|1e02b07a-cd26-31f0-8506-45279399f704",
+    "Watchlist|4c5a3555-a53f-3cf4-ae5a-c0e812729891",
+    "AI|b29b0a27-1f69-306d-a45e-2abc598b248f",
+    "SG Banks|https://www.channelnewsasia.com/business/japan-stands-ready-take-decisive-action-in-currency-market-finance-minister-says-6495416"
   ],
   "topic_error": "",
   "last_digest": "2026-10-27",
@@ -5080,5 +5080,5 @@
     "MSFT|2026-10-29",
     "LIN|2026-10-29"
   ],
-  "last_check": 1793075901.5237737
+  "last_check": 1793076818.1112957
 }
