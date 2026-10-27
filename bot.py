@@ -17,7 +17,9 @@ import html
 import json
 import os
 import re
+import subprocess
 import sys
+import tempfile
 import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -25,6 +27,7 @@ from pathlib import Path
 import feedparser
 import requests
 
+import render
 import signals
 
 HERE = Path(__file__).resolve().parent
@@ -175,6 +178,26 @@ def send(chat_id, text, thread_id=None):
             params["message_thread_id"] = thread_id
         data = tg("sendMessage", **params)
     return data
+
+
+def send_photo(chat_id, path, caption="", thread_id=None):
+    data = {"chat_id": chat_id, "caption": caption[:1000], "parse_mode": "HTML"}
+    if thread_id:
+        data["message_thread_id"] = thread_id
+    for _ in range(3):
+        try:
+            with open(path, "rb") as f:
+                res = requests.post(f"{API}/sendPhoto", data=data, files={"photo": f}, timeout=90).json()
+        except (requests.RequestException, ValueError, OSError) as e:
+            print(f"[telegram] sendPhoto error: {e}", file=sys.stderr)
+            return {}
+        retry = res.get("parameters", {}).get("retry_after")
+        if res.get("ok") or not retry:
+            break
+        time.sleep(retry + 1)
+    if not res.get("ok"):
+        print(f"[telegram] sendPhoto failed: {res.get('description')}", file=sys.stderr)
+    return res
 
 
 def topic_holders(cfg):
@@ -606,15 +629,63 @@ def valuations_table(cfg):
             "<i>Send /value &lt;ticker&gt; for the assumptions behind a number.</i>")
 
 
+def gather_info(cfg, ticker):
+    """Everything the stock card shows: conditions, valuation, put ideas, earnings date."""
+    session, crumb = yahoo_session()
+    result = scan_ticker(cfg, ticker)
+    quote = get_quote(ticker)
+    spot = quote["price"] if quote else (result["close"] if result else None)
+    info = {"ticker": ticker, "name": quote["name"] if quote else "", "result": result,
+            "val": signals.dcf(session, crumb, ticker, cfg["signals"]["dcf"]),
+            "earnings": earnings_ts(ticker)}
+    info["puts"] = signals.put_ideas(session, crumb, ticker, spot, cfg["signals"]["puts"]) if spot else None
+    return info
+
+
+def send_images(pages, send, caption=""):
+    """Render HTML pages to PNGs and send each with `send(path, caption)`. Returns False if rendering fails."""
+    with tempfile.TemporaryDirectory() as tmp:
+        try:
+            paths = [render.html_to_png(p, str(Path(tmp, f"page{n}.png"))) for n, p in enumerate(pages)]
+        except (RuntimeError, OSError, subprocess.SubprocessError) as e:
+            print(f"[render] {e!r}", file=sys.stderr)
+            return False
+        for n, path in enumerate(paths):
+            send(path, caption if n == 0 else "")
+    return True
+
+
+def send_board_images(cfg, send, send_text):
+    infos = [gather_info(cfg, t) for t in cfg["signals"]["tickers"]]
+    pages = render.board_pages(infos, cfg["signals"]["rules"])
+    caption = f"<b>Daily stock report</b> | {len(infos)} stocks | {sgt_now().strftime('%a %d %b %Y')}"
+    if not send_images(pages, send, caption):
+        for message in signal_board(cfg) + [valuations_table(cfg)]:
+            send_text(message)
+
+
+def send_card_image(cfg, ticker, send, send_text):
+    info = gather_info(cfg, ticker)
+    if not info["result"] and not get_quote(ticker):
+        send_text(f"Couldn't find {html.escape(ticker)} on Yahoo Finance. SGX tickers end in .SI (e.g. D05.SI).")
+        return
+    if not send_images([render.single_card_page(info)], send):
+        for message in ticker_card(cfg, ticker):
+            send_text(message)
+
+
 def maybe_send_board(cfg, state):
-    """Post the daily report (signal board, put ideas, valuations) once a day at hour_sgt."""
+    """Post the daily report (board, stock cards with all indicators) once a day at hour_sgt."""
     now = sgt_now()
     today = now.date().isoformat()
     if now.hour < cfg["signals"]["hour_sgt"] or state.get("last_board") == today:
         return
     state["last_board"] = today
-    for message in signal_board(cfg) + [valuations_table(cfg)]:
-        post_to_topic(cfg, SIGNALS_TOPIC, message)
+    holders = topic_holders(cfg)
+    index = [n for n, _ in holders].index(SIGNALS_TOPIC)
+    thread = ensure_topic(SIGNALS_TOPIC, cfg["signals"], index)
+    send_board_images(cfg, lambda path, cap: send_photo(GROUP_ID, path, cap, thread),
+                      lambda text: post_to_topic(cfg, SIGNALS_TOPIC, text))
 
 
 # ---------- Commands ----------
@@ -694,6 +765,7 @@ def handle_command(chat_id, thread_id, text, cfg, state):
     name, arg = resolve_category(cfg, thread_id, raw_arg.strip())
     cat = cfg["categories"].get(name)
     reply = lambda t: send(chat_id, t, thread_id)
+    photo = lambda path, caption="": send_photo(chat_id, path, caption, thread_id)
     needs_cat = {"/add", "/remove", "/addsource", "/removesource", "/pause", "/resume"}
 
     if cmd in needs_cat and not cat:
@@ -812,9 +884,8 @@ def handle_command(chat_id, thread_id, text, cfg, state):
               ("\n".join(earnings_line(cfg, t, ts) for ts, t in rows) or "None found") +
               (f"\n\n<i>No date from Yahoo: {html.escape(', '.join(unknown))}</i>" if unknown else ""))
     elif cmd in ("/scan", "/signals"):
-        reply(f"Scanning {len(cfg['signals']['tickers'])} stocks...")
-        for message in signal_board(cfg):
-            reply(message)
+        reply(f"Scanning {len(cfg['signals']['tickers'])} stocks, the report takes about a minute...")
+        send_board_images(cfg, photo, reply)
     elif cmd == "/scanlist":
         reply(f"<b>Scan list ({len(cfg['signals']['tickers'])})</b>\n" + ", ".join(cfg["signals"]["tickers"]))
     elif cmd == "/scanadd":
@@ -829,8 +900,7 @@ def handle_command(chat_id, thread_id, text, cfg, state):
             if ticker not in cfg["signals"]["tickers"]:
                 cfg["signals"]["tickers"].append(ticker)
             reply(f"Added {html.escape(ticker)} to the scan list.")
-            for message in ticker_card(cfg, ticker):
-                reply(message)
+            send_card_image(cfg, ticker, photo, reply)
     elif cmd == "/scanremove":
         tickers = [t.upper() for t in re.split(r"[\s,]+", raw_arg) if t]
         removed = [t for t in tickers if t in cfg["signals"]["tickers"]]
@@ -842,8 +912,7 @@ def handle_command(chat_id, thread_id, text, cfg, state):
             reply(f"Usage: {cmd} &lt;ticker&gt;")
             return
         if cmd == "/check":
-            for message in ticker_card(cfg, ticker):
-                reply(message)
+            send_card_image(cfg, ticker, photo, reply)
         elif cmd == "/puts":
             reply(puts_text(cfg, ticker))
         else:

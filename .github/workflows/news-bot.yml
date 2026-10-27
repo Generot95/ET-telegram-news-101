@@ -12,6 +12,7 @@ on:
     paths:
       - bot.py
       - signals.py
+      - render.py
       - requirements.txt
       - .github/workflows/news-bot.yml
 
