@@ -1,21 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/world-news/key-dates-in-the-latest-slump-in-usukrainian-ties-4970789",
-    "Cybersecurity|https://www.investing.com/news/world-news/jordan-church-attack-survivor-says-assailant-pointed-handgun-at-him-4970792",
-    "Cybersecurity|https://www.investing.com/news/world-news/ukraine-says-starlink-and-starshield-operating-at-400-kph-after-week-of-throttling-4970757",
-    "Cybersecurity|https://www.investing.com/news/general-news/french-police-deploy-officers-as-paris-braces-for-fresh-protests-4970795",
-    "Cybersecurity|https://www.investing.com/news/investment-ideas/how-investingpros-fair-value-spotted-bwfgs-109-gain-in-advance-93CH-4970800",
-    "SG Banks|https://www.investing.com/news/world-news/us-embassy-says-security-ramped-up-in-jordan-after-deadly-church-attack-4970654",
-    "SG Banks|https://www.investing.com/news/world-news/with-his-first-smartphone-lula-seeks-to-catch-up-to-brazils-online-generation-4970788",
-    "SG Banks|https://www.investing.com/news/world-news/key-dates-in-the-latest-slump-in-usukrainian-ties-4970789",
-    "SG Banks|https://www.investing.com/news/world-news/jordan-church-attack-survivor-says-assailant-pointed-handgun-at-him-4970792",
-    "SG Banks|https://www.investing.com/news/world-news/ukraine-says-starlink-and-starshield-operating-at-400-kph-after-week-of-throttling-4970757",
-    "SG Banks|https://www.investing.com/news/general-news/french-police-deploy-officers-as-paris-braces-for-fresh-protests-4970795",
-    "SG Banks|https://www.investing.com/news/investment-ideas/how-investingpros-fair-value-spotted-bwfgs-109-gain-in-advance-93CH-4970800",
-    "Watchlist|https://www.investing.com/news/world-news/us-embassy-says-security-ramped-up-in-jordan-after-deadly-church-attack-4970654",
-    "Watchlist|https://www.investing.com/news/world-news/with-his-first-smartphone-lula-seeks-to-catch-up-to-brazils-online-generation-4970788",
-    "Watchlist|https://www.investing.com/news/world-news/key-dates-in-the-latest-slump-in-usukrainian-ties-4970789",
     "Watchlist|https://www.investing.com/news/world-news/jordan-church-attack-survivor-says-assailant-pointed-handgun-at-him-4970792",
     "Watchlist|https://www.investing.com/news/world-news/ukraine-says-starlink-and-starshield-operating-at-400-kph-after-week-of-throttling-4970757",
     "Watchlist|https://www.investing.com/news/general-news/french-police-deploy-officers-as-paris-braces-for-fresh-protests-4970795",
@@ -5000,7 +4985,22 @@
     "Watchlist|/opinion-features/cabin-fever-airlines-are-rushing-refurbish-plane-interiors-will-their-bets-pay",
     "Watchlist|/companies-markets/capitaland-ascott-trusts-same-store-operating-performance-4-q3",
     "AI|749a3fc3-8240-32d4-ab06-4655d7672332",
-    "SG Banks|https://www.channelnewsasia.com/business/japans-september-corporate-services-prices-rise-37-yryr-6494756"
+    "SG Banks|https://www.channelnewsasia.com/business/japans-september-corporate-services-prices-rise-37-yryr-6494756",
+    "AI|ccfd8b60-4bf1-3f4e-a4b5-4297fcd1c323",
+    "Watchlist|ccfd8b60-4bf1-3f4e-a4b5-4297fcd1c323",
+    "SG Banks|/companies-markets/stocks-watch-capitaland-ascott-trust-keppel-infrastructure-trust-ifast-esr-reit-first-sponsor",
+    "Watchlist|/companies-markets/stocks-watch-capitaland-ascott-trust-keppel-infrastructure-trust-ifast-esr-reit-first-sponsor",
+    "SG Banks|/companies-markets/anthropic-mum-investment-grade-it-warns-more-debt",
+    "Watchlist|/companies-markets/anthropic-mum-investment-grade-it-warns-more-debt",
+    "AI|a6eaaa3c-53b2-3242-b1e7-ff30fca8530e",
+    "SG Banks|https://www.channelnewsasia.com/business/oil-eases-middle-east-diplomacy-hopes-saudi-attacks-keep-supply-worries-alive-6494771",
+    "Watchlist|a6eaaa3c-53b2-3242-b1e7-ff30fca8530e",
+    "AI|f2342feb-cb65-30e6-b983-538ecfcf01d8",
+    "Watchlist|f2342feb-cb65-30e6-b983-538ecfcf01d8",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4974007",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4974007",
+    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4974007",
+    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4974007"
   ],
   "topic_error": "",
   "last_digest": "2026-10-27",
@@ -5080,5 +5080,5 @@
     "MSFT|2026-10-29",
     "LIN|2026-10-29"
   ],
-  "last_check": 1793061240.7779908
+  "last_check": 1793062171.7125726
 }
