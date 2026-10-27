@@ -1,14 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|WP-MKTW-0005305601",
-    "AI|f2afa25d-9e35-32a7-b137-0e52cf983033",
-    "AI|1559fac0-8505-3069-97e9-62e82c14aca1",
-    "Watchlist|f2afa25d-9e35-32a7-b137-0e52cf983033",
-    "Watchlist|1559fac0-8505-3069-97e9-62e82c14aca1",
-    "AI|d8f67265-9988-3a2d-aeac-bf5bbd050c84",
-    "AI|77cac159-f69f-30ac-bf19-06dcda39b517",
-    "AI|6c629377-8a21-3ada-8206-9aa1c36a2b1d",
     "Watchlist|77cac159-f69f-30ac-bf19-06dcda39b517",
     "Watchlist|6c629377-8a21-3ada-8206-9aa1c36a2b1d",
     "Watchlist|d8f67265-9988-3a2d-aeac-bf5bbd050c84",
@@ -5000,7 +4992,15 @@
     "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-botanix-trims-costs-as-q1-2027-revenue-stalls-93CH-4974014",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-botanix-trims-costs-as-q1-2027-revenue-stalls-93CH-4974014",
     "SG Banks|https://www.straitstimes.com/business/oil-eases-on-middle-east-diplomacy-hopes-saudi-attacks-keep-supply-worries-alive",
-    "War|394a6aba-6f37-3a5b-bd33-4a6437d51fff"
+    "War|394a6aba-6f37-3a5b-bd33-4a6437d51fff",
+    "AI|https://www.investing.com/news/company-news/botanix-q1-fy27-slides-prescriptions-rise-revenue-stalls-on-pa-issues-93CH-4974015",
+    "Cybersecurity|https://www.investing.com/news/company-news/botanix-q1-fy27-slides-prescriptions-rise-revenue-stalls-on-pa-issues-93CH-4974015",
+    "SG Banks|https://www.investing.com/news/company-news/botanix-q1-fy27-slides-prescriptions-rise-revenue-stalls-on-pa-issues-93CH-4974015",
+    "Watchlist|https://www.investing.com/news/company-news/botanix-q1-fy27-slides-prescriptions-rise-revenue-stalls-on-pa-issues-93CH-4974015",
+    "AI|89ba7cce-2655-3136-9fbe-c53c9b7bf216",
+    "Watchlist|89ba7cce-2655-3136-9fbe-c53c9b7bf216",
+    "War|63866502-57e3-39cd-9a23-2152c8ddef39",
+    "AI|5beb2b3d-7ac3-341e-8f75-741af7ae1324"
   ],
   "topic_error": "",
   "last_digest": "2026-10-27",
@@ -5080,5 +5080,5 @@
     "MSFT|2026-10-29",
     "LIN|2026-10-29"
   ],
-  "last_check": 1793063075.7125368
+  "last_check": 1793064008.080908
 }
