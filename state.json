@@ -1,16 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|c469e7fa-e769-3c42-b715-15ec50a124eb",
-    "Watchlist|c469e7fa-e769-3c42-b715-15ec50a124eb",
-    "AI|08106874-6f4a-3eb7-b09c-b2913d8db731",
-    "Crypto|80a26d55-9366-3b2f-a64a-f841c7408348",
-    "Watchlist|08106874-6f4a-3eb7-b09c-b2913d8db731",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-au-small-finance-bank-posts-strong-q2-2026-profit-growth-93CH-4970828",
-    "AI|https://www.investing.com/news/company-news/parabilis-reports-phase-12-data-for-desmoid-tumor-treatment-93CH-4970830",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-au-small-finance-bank-posts-strong-q2-2026-profit-growth-93CH-4970828",
-    "Cybersecurity|https://www.investing.com/news/company-news/parabilis-reports-phase-12-data-for-desmoid-tumor-treatment-93CH-4970830",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-au-small-finance-bank-posts-strong-q2-2026-profit-growth-93CH-4970828",
     "SG Banks|https://www.investing.com/news/company-news/parabilis-reports-phase-12-data-for-desmoid-tumor-treatment-93CH-4970830",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-au-small-finance-bank-posts-strong-q2-2026-profit-growth-93CH-4970828",
     "Watchlist|https://www.investing.com/news/company-news/parabilis-reports-phase-12-data-for-desmoid-tumor-treatment-93CH-4970830",
@@ -5000,7 +4990,17 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/conifer-management-buys-242m-in-group-1-automotive-stock-93CH-4974042",
     "Watchlist|https://www.investing.com/news/stock-market-news/sk-hynix-shares-rise-to-twoweek-high-on-report-of-12-billion-dividend-4974045",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-stanmore-resources-posts-record-output-in-q3-2026-93CH-4974046",
-    "War|224d6412-8c20-3c0d-a268-834f23761d57"
+    "War|224d6412-8c20-3c0d-a268-834f23761d57",
+    "AI|c245b690-d4eb-3e1a-8756-3fcc6b536ea9",
+    "Watchlist|c245b690-d4eb-3e1a-8756-3fcc6b536ea9",
+    "AI|6ecfcdb5-06b9-3232-8a75-5a8fea7c37c6",
+    "Crypto|45d4c6a8-472a-31cc-b9df-44d40d41082e",
+    "Watchlist|6ecfcdb5-06b9-3232-8a75-5a8fea7c37c6",
+    "AI|ee986383-c8b6-3afc-8620-74249a5ecc50",
+    "Watchlist|ee986383-c8b6-3afc-8620-74249a5ecc50",
+    "SG Banks|/companies-markets/kore-us-reit-9m-net-property-income-rises-3-us63-1-million",
+    "Watchlist|/companies-markets/kore-us-reit-9m-net-property-income-rises-3-us63-1-million",
+    "SG Banks|https://www.straitstimes.com/business/economy/singapore-unveils-new-initiatives-to-help-companies-harness-ai-such-as-to-develop-new-products"
   ],
   "topic_error": "",
   "last_digest": "2026-10-27",
@@ -5080,5 +5080,5 @@
     "MSFT|2026-10-29",
     "LIN|2026-10-29"
   ],
-  "last_check": 1793065811.6942544
+  "last_check": 1793066719.974176
 }
