@@ -11,6 +11,7 @@ on:
     branches: [main]
     paths:
       - bot.py
+      - signals.py
       - requirements.txt
       - .github/workflows/news-bot.yml
 

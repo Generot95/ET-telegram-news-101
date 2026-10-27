@@ -25,6 +25,8 @@ from pathlib import Path
 import feedparser
 import requests
 
+import signals
+
 HERE = Path(__file__).resolve().parent
 CONFIG_PATH = HERE / "config.json"
 STATE_PATH = HERE / "state.json"
@@ -34,6 +36,9 @@ BROWSER_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 TOPIC_COLORS = [0xFF93B2, 0x6FB9F0, 0xFFD67E, 0xCB86DB, 0x8EEE98, 0xFB6F5F]
 SGT = timezone(timedelta(hours=8))
 BRIEF_TOPIC = "Daily Brief"
+SIGNALS_TOPIC = "Signals"
+DEFAULT_SCAN_TICKERS = ["AVGO", "MU", "AMD", "MELI", "GOOGL", "NVDA", "AMZN", "MSFT", "META",
+                        "CRWD", "INTU", "BRK-B", "ZTS", "LIN", "VLO"]
 WATCH_TOPIC = "Watchlist"
 WATCH_EXTRA_FEEDS = {
     "Business Times Companies": "https://www.businesstimes.com.sg/rss/companies-markets",
@@ -76,6 +81,12 @@ def load_config():
     brief.setdefault("topic_id", None)
     brief.setdefault("hour_sgt", 8)
     brief.setdefault("earnings_alert_days", 2)
+    sig = cfg.setdefault("signals", {})
+    sig.setdefault("topic_id", None)
+    sig.setdefault("hour_sgt", 6)
+    sig.setdefault("tickers", list(DEFAULT_SCAN_TICKERS))
+    for key, default in (("rules", signals.DEFAULT_RULES), ("puts", signals.DEFAULT_PUTS), ("dcf", signals.DEFAULT_DCF)):
+        sig[key] = {**default, **sig.get(key, {})}
     sync_watchlist(cfg)
     for cat in cfg["categories"].values():
         cat.setdefault("topic_id", None)
@@ -170,6 +181,7 @@ def topic_holders(cfg):
     """(name, dict-with-topic_id) for every topic the bot manages."""
     holders = list(cfg["categories"].items())
     holders.append((BRIEF_TOPIC, cfg["brief"]))
+    holders.append((SIGNALS_TOPIC, cfg["signals"]))
     return holders
 
 
@@ -501,6 +513,110 @@ def maybe_send_brief(cfg, state):
         send_brief(cfg, state)
 
 
+# ---------- Signal board, put ideas, valuations ----------
+
+EARNINGS_CACHE = {}
+
+
+def earnings_ts(ticker):
+    if ticker not in EARNINGS_CACHE:
+        ts = fetch_earnings_date(ticker)
+        EARNINGS_CACHE[ticker] = ts if ts else None
+    return EARNINGS_CACHE[ticker]
+
+
+def scan_ticker(cfg, ticker):
+    session, _ = yahoo_session()
+    bars = signals.daily_bars(session, ticker)
+    return signals.evaluate(bars, cfg["signals"]["rules"]) if bars else None
+
+
+def puts_text(cfg, ticker, spot=None):
+    session, crumb = yahoo_session()
+    if spot is None:
+        quote = get_quote(ticker)
+        if not quote:
+            return f"<b>Put ideas {html.escape(ticker)}</b>: no price on Yahoo"
+        spot = quote["price"]
+    ideas = signals.put_ideas(session, crumb, ticker, spot, cfg["signals"]["puts"])
+    return signals.fmt_puts(ticker, ideas, earnings_ts(ticker))
+
+
+def value_text(cfg, ticker, detail=False):
+    session, crumb = yahoo_session()
+    return signals.fmt_dcf(ticker, signals.dcf(session, crumb, ticker, cfg["signals"]["dcf"]), detail)
+
+
+def ticker_card(cfg, ticker):
+    """Full view of one stock: the 6 conditions, put ideas and valuation (sent as separate messages)."""
+    result = scan_ticker(cfg, ticker)
+    if not result:
+        return [f"Couldn't load price history for {html.escape(ticker)} from Yahoo Finance. "
+                "SGX tickers end in .SI (e.g. D05.SI)."]
+    head = (f"<b>{html.escape(ticker)}</b> | {signals.status_tag(result)}\n"
+            f"Close {result['close']:,.2f} {result['currency']} (data through {result['date']})\n\n"
+            + signals.fmt_check_lines(result))
+    if result["met"] == 6:
+        head += "\n\n" + html.escape(signals.fmt_trade_plan(cfg["signals"]["rules"]))
+    return [head, puts_text(cfg, ticker), value_text(cfg, ticker, detail=True)]
+
+
+def signal_board(cfg):
+    """Messages for the 25-60 board across the scan list."""
+    tickers = cfg["signals"]["tickers"]
+    results = [r for t in tickers if (r := scan_ticker(cfg, t))]
+    if not results:
+        return ["<b>25-60 Signal Board</b>\nNo price data could be loaded."]
+    date = max(results, key=lambda r: datetime.strptime(r["date"], "%d %b %Y"))["date"]
+    triggered = [r for r in results if r["met"] == 6]
+    watch = [r for r in results if r["met"] == 5]
+    messages = [(f"<b>25-60 Signal Board</b>\nData through {date} | scanned {len(results)} stocks\n\n"
+                 f"<b>{len(triggered)} trigger{'s' if len(triggered) != 1 else ''} today</b>"
+                 + (": " + ", ".join(r["ticker"] for r in triggered) if triggered else ""))]
+    for r in triggered:
+        messages.append(f"<b>TRIGGERED: {html.escape(r['ticker'])}</b>\nClose {r['close']:,.2f}\n"
+                        + html.escape(signals.fmt_trade_plan(cfg["signals"]["rules"])))
+        messages.append(puts_text(cfg, r["ticker"], r["close"]))
+    if watch:
+        lines = []
+        for r in watch:
+            missing = next(i for i, (ok, _) in enumerate(r["checks"], 1) if not ok)
+            lines.append(f"- {html.escape(r['ticker'])} ({r['close']:,.2f}): missing #{missing} "
+                         f"{html.escape(signals.CONDITION_LABELS[missing - 1])}")
+        messages.append("<b>Watch for tomorrow (5 of 6 conditions)</b>\n" + "\n".join(lines))
+    others = sorted((r for r in results if r["met"] < 5), key=lambda r: -r["met"])
+    if others:
+        messages.append("<b>Others</b>\n" + ", ".join(f"{html.escape(r['ticker'])} {r['met']}/6" for r in others))
+    return messages
+
+
+def valuations_table(cfg):
+    session, crumb = yahoo_session()
+    rows = []
+    for t in cfg["signals"]["tickers"]:
+        v = signals.dcf(session, crumb, t, cfg["signals"]["dcf"])
+        if "error" in v:
+            rows.append((1e9, f"{t:<7} n/a ({v['error'][:40]})"))
+        else:
+            label = "Under" if v["safety"] > 0 else "Over"
+            rows.append((-v["safety"], f"{t:<7} {v['value']:>9,.2f} {v['price']:>9,.2f} {v['safety']:>+5.0f}%  {label}"))
+    rows.sort()
+    return ("<b>Valuations (two-stage DCF)</b>\n<pre>Ticker      Value     Price  Safety\n"
+            + "\n".join(html.escape(r) for _, r in rows) + "</pre>\n"
+            "<i>Send /value &lt;ticker&gt; for the assumptions behind a number.</i>")
+
+
+def maybe_send_board(cfg, state):
+    """Post the board once per US trading day, after the close (Tue-Sat morning SGT)."""
+    now = sgt_now()
+    today = now.date().isoformat()
+    if now.weekday() in (0, 6) or now.hour < cfg["signals"]["hour_sgt"] or state.get("last_board") == today:
+        return
+    state["last_board"] = today
+    for message in signal_board(cfg):
+        post_to_topic(cfg, SIGNALS_TOPIC, message)
+
+
 # ---------- Commands ----------
 
 HELP = (
@@ -523,6 +639,15 @@ HELP = (
     "/watch &lt;ticker&gt; [name, other name] - add a stock (SGX tickers end in .SI)\n"
     "/unwatch &lt;ticker&gt; - remove a stock\n"
     "/earnings - upcoming earnings dates\n\n"
+    "<b>25-60 signals, puts &amp; valuation</b>\n"
+    "/scan - signal board for your scan list now\n"
+    "/scanlist - stocks being scanned\n"
+    "/scanadd &lt;ticker&gt; [ticker...] - add stocks and show their conditions, puts and value\n"
+    "/scanremove &lt;ticker&gt; [ticker...] - remove stocks\n"
+    "/check &lt;ticker&gt; - conditions, puts and value for any stock without adding it\n"
+    "/puts &lt;ticker&gt; - cash-secured put ideas about 30 days out\n"
+    "/value &lt;ticker&gt; - DCF value with its assumptions\n"
+    "/valuations - DCF table for the whole scan list\n\n"
     "<b>Troubleshooting</b>\n"
     "/status - last check, failing sources, paused topics\n"
     "/test &lt;keyword&gt; - which current headlines a keyword would catch\n"
@@ -686,6 +811,46 @@ def handle_command(chat_id, thread_id, text, cfg, state):
         reply("<b>Upcoming earnings (next 90 days)</b>\n" +
               ("\n".join(earnings_line(cfg, t, ts) for ts, t in rows) or "None found") +
               (f"\n\n<i>No date from Yahoo: {html.escape(', '.join(unknown))}</i>" if unknown else ""))
+    elif cmd in ("/scan", "/signals"):
+        reply(f"Scanning {len(cfg['signals']['tickers'])} stocks...")
+        for message in signal_board(cfg):
+            reply(message)
+    elif cmd == "/scanlist":
+        reply(f"<b>Scan list ({len(cfg['signals']['tickers'])})</b>\n" + ", ".join(cfg["signals"]["tickers"]))
+    elif cmd == "/scanadd":
+        tickers = [t.upper() for t in re.split(r"[\s,]+", raw_arg) if t]
+        if not tickers:
+            reply("Usage: /scanadd &lt;ticker&gt; [ticker...]  e.g. /scanadd TSM ORCL")
+            return
+        for ticker in tickers:
+            if not get_quote(ticker):
+                reply(f"Couldn't find {html.escape(ticker)} on Yahoo Finance. SGX tickers end in .SI (e.g. D05.SI).")
+                continue
+            if ticker not in cfg["signals"]["tickers"]:
+                cfg["signals"]["tickers"].append(ticker)
+            reply(f"Added {html.escape(ticker)} to the scan list.")
+            for message in ticker_card(cfg, ticker):
+                reply(message)
+    elif cmd == "/scanremove":
+        tickers = [t.upper() for t in re.split(r"[\s,]+", raw_arg) if t]
+        removed = [t for t in tickers if t in cfg["signals"]["tickers"]]
+        cfg["signals"]["tickers"] = [t for t in cfg["signals"]["tickers"] if t not in removed]
+        reply(f"Removed: {', '.join(removed)}" if removed else "None of those were in the scan list.")
+    elif cmd in ("/check", "/puts", "/value"):
+        ticker = raw_arg.strip().upper()
+        if not ticker:
+            reply(f"Usage: {cmd} &lt;ticker&gt;")
+            return
+        if cmd == "/check":
+            for message in ticker_card(cfg, ticker):
+                reply(message)
+        elif cmd == "/puts":
+            reply(puts_text(cfg, ticker))
+        else:
+            reply(value_text(cfg, ticker, detail=True))
+    elif cmd == "/valuations":
+        reply(f"Valuing {len(cfg['signals']['tickers'])} stocks...")
+        reply(valuations_table(cfg))
     elif cmd == "/setup":
         TOPIC_ERRORS.clear()
         for i, (n, h) in enumerate(topic_holders(cfg)):
@@ -752,6 +917,7 @@ def main():
                 print(f"[{time.strftime('%H:%M:%S')}] feeds checked, {n} sent")
                 check_earnings_reminders(cfg, state)
                 maybe_send_brief(cfg, state)
+                maybe_send_board(cfg, state)
                 next_check = now + args.interval
             remaining = deadline - time.time()
             wait = int(max(0, min(25, max(0, next_check - time.time()) if GROUP_ID else 25, remaining)))
