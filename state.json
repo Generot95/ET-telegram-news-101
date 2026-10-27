@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/travelers-chairman-and-ceo-alan-schnitzer-sells-353m-in-shares-93CH-4970765",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/travelers-evp--president-sells-1404m-of-company-stock-93CH-4970766",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/story3-capital-partners-buys-225m-in-rent-the-runway-shares-93CH-4970767",
     "SG Banks|https://www.investing.com/news/insider-trading-news/travelers-chairman-and-ceo-alan-schnitzer-sells-353m-in-shares-93CH-4970765",
     "SG Banks|https://www.investing.com/news/insider-trading-news/travelers-evp--president-sells-1404m-of-company-stock-93CH-4970766",
     "SG Banks|https://www.investing.com/news/insider-trading-news/story3-capital-partners-buys-225m-in-rent-the-runway-shares-93CH-4970767",
@@ -5000,10 +4997,13 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/stewart-information-director-thomas-apel-buys-95470-in-stock-93CH-4973950",
     "Watchlist|https://www.investing.com/news/insider-trading-news/stewart-information-services-director-buys-93640-in-shares-93CH-4973951",
     "Watchlist|https://www.investing.com/news/economic-indicators/south-korea-gdp-grows-more-than-expected-in-q3-on-ai-boost-4973952",
-    "War|8b95888c-3a29-366b-b371-351ea44b67d5"
+    "War|8b95888c-3a29-366b-b371-351ea44b67d5",
+    "AI|b18f226d-a819-3529-a2cb-0daa74936073",
+    "Watchlist|b18f226d-a819-3529-a2cb-0daa74936073",
+    "SG Banks|https://www.channelnewsasia.com/business/wall-street-banks-blackstone-line-up-63-billion-finance-broadcom-ai-chips-anthropic-6494381"
   ],
   "topic_error": "",
-  "last_digest": "2026-10-26",
+  "last_digest": "2026-10-27",
   "earnings": {
     "AMD": {
       "ts": 1793736000,
@@ -5080,5 +5080,5 @@
     "MSFT|2026-10-29",
     "LIN|2026-10-29"
   ],
-  "last_check": 1793058506.6191428
+  "last_check": 1793059416.5314367
 }
