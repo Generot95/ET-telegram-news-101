@@ -1,24 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|4511c68b-8527-3843-8c77-08f37448f063",
-    "Crypto|233ca31c-098d-34cc-b0e8-5ab5fcde7f09",
-    "AI|865723f8-c687-3300-b736-1f690a491d11",
-    "Crypto|81250f61-73ef-3a51-9a73-52a24f257a0a",
-    "Crypto|5e7b5ece-b377-3abf-a0da-e5e65eea44c8",
-    "AI|a82cc508-87b4-38a7-9135-ad3f4859a518",
-    "AI|62f70983-f890-3029-96d0-43ed3d9e8596",
-    "Watchlist|62f70983-f890-3029-96d0-43ed3d9e8596",
-    "SG Banks|/companies-markets/capital-markets-currencies/sp-500-nasdaq-end-sharply-lower-revived-ai-doubts-ignite-tech-sell",
-    "AI|1fc9efb2-267e-3015-a5b2-05484784bd54",
-    "War|WP-MKTW-0005294280",
-    "AI|14dbdfd9-a164-30af-b237-5ce5989498fb",
-    "AI|WP-MKTW-0005294280",
-    "Cybersecurity|WP-MKTW-0005294280",
-    "Watchlist|14dbdfd9-a164-30af-b237-5ce5989498fb",
-    "Watchlist|/companies-markets/capital-markets-currencies/sp-500-nasdaq-end-sharply-lower-revived-ai-doubts-ignite-tech-sell",
-    "SG Banks|/companies-markets/capital-markets-currencies/europes-stoxx-600-posts-biggest-drop-three-weeks-banks-tumble-and-oil-climbs",
-    "Watchlist|/companies-markets/capital-markets-currencies/europes-stoxx-600-posts-biggest-drop-three-weeks-banks-tumble-and-oil-climbs",
     "AI|8d9fa41d-040d-30da-a416-e5b775170e49",
     "Watchlist|8d9fa41d-040d-30da-a416-e5b775170e49",
     "Crypto|7eaadf0a-51af-389a-92b9-26272881df65",
@@ -5000,7 +4982,25 @@
     "SG Banks|https://www.channelnewsasia.com/world/microsoft-buyouts-60000-employees-contain-costs-6493806",
     "SG Banks|https://www.straitstimes.com/business/bank-of-korea-warns-countrys-chip-exports-could-fall-by-up-to-us100-billion-if-ai-spending-slows",
     "SG Banks|/companies-markets/alibaba-wins-challenge-pentagons-chinese-army-blacklisting",
-    "Watchlist|/companies-markets/alibaba-wins-challenge-pentagons-chinese-army-blacklisting"
+    "Watchlist|/companies-markets/alibaba-wins-challenge-pentagons-chinese-army-blacklisting",
+    "War|c0628065-afcf-33f3-871a-6bbad4573256",
+    "AI|9e833e1b-ab02-30f0-8347-f445aca788b1",
+    "Watchlist|9e833e1b-ab02-30f0-8347-f445aca788b1",
+    "SG Banks|https://www.straitstimes.com/business/bond-market-is-a-buy-right-now-j-p-morgan-asset-managements-fixed-income-head-says",
+    "AI|https://www.investing.com/news/economy-news/exboj-chief-kuroda-backs-more-rate-hikes-his-former-deputy-urges-caution-4974114",
+    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-minerals-260-lifts-cash-expands-bullabulling-in-q1-2026-93CH-4974115",
+    "AI|https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-firm-yen-retreats-ahead-of-fed-decision-4974116",
+    "Cybersecurity|https://www.investing.com/news/economy-news/exboj-chief-kuroda-backs-more-rate-hikes-his-former-deputy-urges-caution-4974114",
+    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-minerals-260-lifts-cash-expands-bullabulling-in-q1-2026-93CH-4974115",
+    "Cybersecurity|https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-firm-yen-retreats-ahead-of-fed-decision-4974116",
+    "SG Banks|https://www.investing.com/news/economy-news/exboj-chief-kuroda-backs-more-rate-hikes-his-former-deputy-urges-caution-4974114",
+    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-minerals-260-lifts-cash-expands-bullabulling-in-q1-2026-93CH-4974115",
+    "SG Banks|https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-firm-yen-retreats-ahead-of-fed-decision-4974116",
+    "Watchlist|https://www.investing.com/news/economy-news/exboj-chief-kuroda-backs-more-rate-hikes-his-former-deputy-urges-caution-4974114",
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-minerals-260-lifts-cash-expands-bullabulling-in-q1-2026-93CH-4974115",
+    "Watchlist|https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-firm-yen-retreats-ahead-of-fed-decision-4974116",
+    "AI|a0a0f90b-3a2a-3816-8ebf-e0469417145f",
+    "Watchlist|a0a0f90b-3a2a-3816-8ebf-e0469417145f"
   ],
   "topic_error": "",
   "last_digest": "2026-10-27",
@@ -5080,5 +5080,5 @@
     "MSFT|2026-10-29",
     "LIN|2026-10-29"
   ],
-  "last_check": 1793071314.9587712
+  "last_check": 1793072230.0469396
 }
