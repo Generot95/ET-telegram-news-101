@@ -63,6 +63,13 @@ th { text-align: right; color: #8b98a5; font-weight: 600; font-size: 11px; lette
 td { text-align: right; padding: 6px; border-bottom: 1px solid #1c2630; }
 th:first-child, td:first-child { text-align: left; }
 .big table { font-size: 18px; } .big th { font-size: 13px; } .big td { padding: 10px 8px; }
+.tags { display: flex; gap: 6px; margin-bottom: 4px; }
+.tag { font-size: 11px; color: #c9d1d9; background: #1c2630; border: 1px solid #263240; border-radius: 6px; padding: 2px 8px; }
+table.matrix { font-size: 15px; }
+table.matrix td, table.matrix th { text-align: center; }
+table.matrix td:first-child, table.matrix th:first-child { text-align: left; }
+table.matrix td:nth-child(2), table.matrix th:nth-child(2) { text-align: right; }
+table.matrix td.ok, table.matrix td.no { font-weight: 700; font-size: 17px; }
 .legend { display: grid; grid-template-columns: 1fr 1fr; gap: 6px 24px; font-size: 14px; color: #c9d1d9; }
 .legend b { color: #e6edf3; margin-right: 8px; }
 .footer { margin-top: 18px; font-size: 12px; color: #6e7b88; }
@@ -182,15 +189,27 @@ def board_pages(infos, rules):
             body.append(f"<div class='card trigger'><div class='row'><span class='ticker'>{e(i['ticker'])}</span>"
                         f"<span class='pill trigger'>TRIGGER</span></div><div class='close mono muted' style='margin-top:8px'>"
                         f"Close {i['result']['close']:,.2f}</div><div>{e(plan)}</div></div>")
-        body.append("</div><div class='section'>CASH-SECURED PUT IDEAS FOR TODAY'S TRIGGERS</div>")
-        for i in triggered:
-            body.append(f"<div class='card' style='margin-bottom:12px'><div class='ticker' style='font-size:20px'>"
-                        f"{e(i['ticker'])}</div>{_puts_table(i.get('puts'), big=True)}</div>")
-        body.append("<div class='small'>Quotes from Yahoo Finance, about 15 minutes delayed; * = last trade (market closed). "
-                    "Check the earnings date before selling. Puts can be assigned early, so only sell where you are happy "
-                    "to buy the shares at the strike with cash set aside.</div>")
+        body.append("</div>")
     else:
         body.append("<div class='banner none'><b>No triggers today</b>None of the scanned stocks met all 6 conditions.</div>")
+
+    put_names = triggered + watch
+    if put_names:
+        title = "CASH-SECURED PUT IDEAS FOR TODAY'S TRIGGERS" + (" AND WATCH LIST" if watch else "")
+        body.append(f"<div class='section'>{title}</div>")
+        sources = set()
+        for i in put_names:
+            ideas = i.get("puts") or {}
+            sources.add(ideas.get("source", "Yahoo"))
+            is_trigger = i in triggered
+            body.append(f"<div class='card' style='margin-bottom:12px'><div class='row'><span class='ticker' style='font-size:20px'>"
+                        f"{e(i['ticker'])}</span><span class='pill {'trigger' if is_trigger else 'watch'}'>"
+                        f"{'TRIGGER' if is_trigger else 'WATCH 5/6'}</span></div>{_puts_table(ideas, big=True)}</div>")
+        body.append(f"<div class='small'>Ideas come from {e(' / '.join(sorted(sources)))} delayed quotes (about 15 minutes) "
+                    "for expiries about 30 days out; yield uses the bid/ask midpoint, * = last trade. Check the earnings date "
+                    "before selling. Puts can be assigned early, so only sell where you are happy to buy the shares at the "
+                    "strike with cash set aside.</div>")
+
     if watch:
         body.append("<div class='section'>WATCH FOR TOMORROW (5 OF 6 CONDITIONS)</div><div class='card'>")
         for i in watch:
@@ -198,20 +217,66 @@ def board_pages(infos, rules):
             body.append(f"<div class='cond'><span class='mark' style='width:70px'>{e(i['ticker'])}</span>"
                         f"<span>missing #{missing}: {e(signals.CONDITION_LABELS[missing - 1])}</span></div>")
         body.append("</div>")
+
+    body.append("<div class='section'>ALL STOCKS: CONDITIONS 1-6</div><div class='card'><table class='matrix'>"
+                "<tr><th>STOCK</th><th>CLOSE</th>" + "".join(f"<th>{n}</th>" for n in range(1, 7)) + "<th>SCORE</th></tr>")
+    for i in sorted(scanned, key=lambda i: -i["result"]["met"]):
+        r = i["result"]
+        cls, tag = _status(r)
+        marks = "".join(f"<td class='{'ok' if ok else 'no'}'>{'&#10003;' if ok else '&#10007;'}</td>" for ok, _ in r["checks"])
+        body.append(f"<tr><td><b>{e(i['ticker'])}</b></td><td class='mono'>{r['close']:,.2f}</td>{marks}"
+                    f"<td><span class='pill {cls}'>{tag}</span></td></tr>")
+    body.append("</table></div>")
+
     body.append("<div class='section'>THE 6 CONDITIONS</div><div class='card legend'>"
                 + "".join(f"<div><b>{n}</b>{e(label)}</div>" for n, label in enumerate(signals.CONDITION_LABELS, 1))
                 + "</div>")
     body.append(f"<div class='footer'>Generated {datetime.now(SGT).strftime('%d %b %Y %H:%M')} SGT &middot; "
                 "rules-based scan, not investment advice</div>")
-    pages = [_page("".join(body))]
+    return [_page("".join(body)), valuation_page(infos)]
 
-    ordered = sorted(infos, key=lambda i: -(i["result"]["met"] if i.get("result") else -1))
-    chunks = [ordered[k:k + CARDS_PER_PAGE] for k in range(0, len(ordered), CARDS_PER_PAGE)]
-    for n, chunk in enumerate(chunks, 1):
-        pages.append(_page(f"<div class='head'><h1>Stock cards</h1><span class='muted mono'>{n} of {len(chunks)}"
-                           f" &middot; data through {e(date)}</span></div><div class='grid'>"
-                           + "".join(stock_card(i) for i in chunk) + "</div>"))
-    return pages
+
+def valuation_card(info):
+    val = info.get("val") or {}
+    sector = val.get("sector") or ""
+    tags = "<span class='tag'>DCF</span>" + (f"<span class='tag'>{e(sector)}</span>" if sector else "")
+    result = info.get("result")
+    signal = f"<div class='small'>25-60 signal {result['met']}/6</div>" if result else ""
+    if "error" in val or not val:
+        price = f"{val['currency']} {val['price']:,.2f}" if val.get("price") else "n/a"
+        return (f"<div class='card'><div class='row'><span class='ticker'>{e(info['ticker'])}</span>"
+                f"<span class='pill na'>N/A</span></div><div class='name'>{e(info.get('name', ''))}</div>"
+                f"<div class='tags'>{tags}</div><div class='boxes'><div class='box'><small>VALUE</small><b>n/a</b></div>"
+                f"<div class='box'><small>PRICE</small><b>{e(price)}</b></div><div class='box'><small>SAFETY</small><b>n/a</b></div></div>"
+                f"<div class='small'>{e(val.get('error', 'no valuation data'))}</div>{signal}</div>")
+    under = val["safety"] > 0
+    ccy = val["currency"]
+    fill = min(val["pct_of_value"], 200) / 2
+    colour = "linear-gradient(90deg,#2ea86b,#56d38a)" if under else "linear-gradient(90deg,#f0883e,#f47067)"
+    price_date = result["date"] if result else ""
+    as_of = f" &middot; price as of {e(price_date)}" if price_date else ""
+    return (f"<div class='card'><div class='row'><span class='ticker'>{e(info['ticker'])}</span>"
+            f"<span class='pill {'under' if under else 'over'}'>{'Undervalued' if under else 'Overvalued'}</span></div>"
+            f"<div class='name'>{e(info.get('name', ''))}</div><div class='tags'>{tags}</div>"
+            f"<div class='boxes'><div class='box'><small>VALUE</small><b>{e(ccy)} {val['value']:,.2f}</b></div>"
+            f"<div class='box'><small>PRICE</small><b>{e(ccy)} {val['price']:,.2f}</b></div>"
+            f"<div class='box'><small>SAFETY</small><b class='{'ok' if under else 'no'}'>{val['safety']:.0f}%</b></div></div>"
+            f"<div class='bar'><div class='fill' style='width:{fill:.0f}%;background:{colour}'></div><div class='tick'></div></div>"
+            f"<div class='small' style='margin-top:6px'>Price is {val['pct_of_value']:.0f}% of intrinsic value</div>"
+            f"<div class='small'>Growth {val['growth'] * 100:.0f}% &middot; discount "
+            f"{val['settings']['discount_rate'] * 100:.0f}%{as_of}</div>{signal}</div>")
+
+
+def valuation_page(infos):
+    def order(i):
+        val = i.get("val") or {}
+        return 1e9 if "error" in val or not val else -val["safety"]
+    cards = "".join(valuation_card(i) for i in sorted(infos, key=order))
+    return _page(f"<div class='head'><h1>Valuations</h1><span class='muted mono'>two-stage DCF &middot; "
+                 f"{len(infos)} stocks</span></div><div class='grid'>{cards}</div>"
+                 "<div class='footer'>DCF: trailing free cash flow grown at analysts' next-year EPS growth (capped at 20%) "
+                 "for 5 years, fading to 3% over 5 more, discounted at 9%, plus cash minus debt. Not meaningful for "
+                 "banks, insurers and REITs.</div>")
 
 
 def single_card_page(info):

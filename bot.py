@@ -40,8 +40,20 @@ TOPIC_COLORS = [0xFF93B2, 0x6FB9F0, 0xFFD67E, 0xCB86DB, 0x8EEE98, 0xFB6F5F]
 SGT = timezone(timedelta(hours=8))
 BRIEF_TOPIC = "Daily Brief"
 SIGNALS_TOPIC = "Signals"
-DEFAULT_SCAN_TICKERS = ["AVGO", "MU", "AMD", "MELI", "GOOGL", "NVDA", "AMZN", "MSFT", "META",
-                        "CRWD", "INTU", "BRK-B", "ZTS", "LIN", "VLO"]
+DEFAULT_SCAN_TICKERS = ["NVDA", "AMZN", "GOOGL", "BRK-B", "MELI", "CRWD", "PANW", "LIN"]
+SCAN_LIST_VERSION = 2
+ADD_PROMPT = "Reply to this message with the ticker symbol(s) to add"
+BOT_COMMANDS = [
+    ("stocks", "Show, add or remove stocks (buttons)"),
+    ("scan", "Full report now: signal board and valuations"),
+    ("check", "One stock: conditions, put ideas, value"),
+    ("addstock", "Add stocks, e.g. /addstock PANW TSM"),
+    ("removestock", "Remove stocks, e.g. /removestock PANW"),
+    ("puts", "Cash-secured put ideas for a stock"),
+    ("value", "DCF value and its assumptions"),
+    ("status", "Bot health and failing sources"),
+    ("help", "All commands"),
+]
 WATCH_TOPIC = "Watchlist"
 WATCH_EXTRA_FEEDS = {
     "Business Times Companies": "https://www.businesstimes.com.sg/rss/companies-markets",
@@ -87,7 +99,9 @@ def load_config():
     sig = cfg.setdefault("signals", {})
     sig.setdefault("topic_id", None)
     sig.setdefault("hour_sgt", 19)
-    sig.setdefault("tickers", list(DEFAULT_SCAN_TICKERS))
+    if sig.get("list_version") != SCAN_LIST_VERSION:
+        sig["tickers"] = list(DEFAULT_SCAN_TICKERS)
+        sig["list_version"] = SCAN_LIST_VERSION
     for key, default in (("rules", signals.DEFAULT_RULES), ("puts", signals.DEFAULT_PUTS), ("dcf", signals.DEFAULT_DCF)):
         sig[key] = {**default, **sig.get(key, {})}
     sync_watchlist(cfg)
@@ -561,7 +575,7 @@ def puts_text(cfg, ticker, spot=None):
         if not quote:
             return f"<b>Put ideas {html.escape(ticker)}</b>: no price on Yahoo"
         spot = quote["price"]
-    ideas = signals.put_ideas(session, crumb, ticker, spot, cfg["signals"]["puts"])
+    ideas = signals.best_put_ideas(session, crumb, ticker, spot, cfg["signals"]["puts"])
     return signals.fmt_puts(ticker, ideas, earnings_ts(ticker))
 
 
@@ -638,7 +652,7 @@ def gather_info(cfg, ticker):
     info = {"ticker": ticker, "name": quote["name"] if quote else "", "result": result,
             "val": signals.dcf(session, crumb, ticker, cfg["signals"]["dcf"]),
             "earnings": earnings_ts(ticker)}
-    info["puts"] = signals.put_ideas(session, crumb, ticker, spot, cfg["signals"]["puts"]) if spot else None
+    info["puts"] = signals.best_put_ideas(session, crumb, ticker, spot, cfg["signals"]["puts"])
     return info
 
 
@@ -688,6 +702,77 @@ def maybe_send_board(cfg, state):
                       lambda text: post_to_topic(cfg, SIGNALS_TOPIC, text))
 
 
+# ---------- Stock list buttons ----------
+
+def stocks_menu(cfg):
+    tickers = cfg["signals"]["tickers"]
+    buttons = [{"text": f"Remove {t}", "callback_data": f"rm:{t}"} for t in tickers]
+    rows = [buttons[k:k + 3] for k in range(0, len(buttons), 3)]
+    rows.append([{"text": "+ Add stock", "callback_data": "add"}, {"text": "Run report now", "callback_data": "scan"}])
+    text = (f"<b>Your stocks ({len(tickers)})</b>\n{', '.join(tickers) or 'none'}\n\n"
+            "Tap a button to remove a stock, or <b>+ Add stock</b> to add one. "
+            "You can also type /addstock PANW TSM or /removestock PANW.")
+    return text, {"inline_keyboard": rows}
+
+
+def send_stocks_menu(cfg, chat_id, thread_id):
+    text, keyboard = stocks_menu(cfg)
+    params = {"chat_id": chat_id, "text": text, "parse_mode": "HTML", "reply_markup": keyboard}
+    if thread_id:
+        params["message_thread_id"] = thread_id
+    tg("sendMessage", **params)
+
+
+def add_stocks(cfg, tickers, reply, photo):
+    for ticker in tickers:
+        if not get_quote(ticker):
+            reply(f"Couldn't find {html.escape(ticker)} on Yahoo Finance. SGX tickers end in .SI (e.g. D05.SI).")
+            continue
+        if ticker not in cfg["signals"]["tickers"]:
+            cfg["signals"]["tickers"].append(ticker)
+        reply(f"Added {html.escape(ticker)}. It will be in the 7pm report. Here is its card:")
+        send_card_image(cfg, ticker, photo, reply)
+
+
+def handle_callback(cq, cfg, state):
+    msg = cq.get("message") or {}
+    chat_id = str(msg.get("chat", {}).get("id", ""))
+    thread_id = msg.get("message_thread_id") if msg.get("is_topic_message") else None
+    data = cq.get("data", "")
+    if chat_id != GROUP_ID:
+        tg("answerCallbackQuery", callback_query_id=cq["id"], text="Not authorised")
+        return
+    reply = lambda t: send(chat_id, t, thread_id)
+    photo = lambda path, caption="": send_photo(chat_id, path, caption, thread_id)
+    if data.startswith("rm:"):
+        ticker = data[3:]
+        cfg["signals"]["tickers"] = [t for t in cfg["signals"]["tickers"] if t != ticker]
+        tg("answerCallbackQuery", callback_query_id=cq["id"], text=f"Removed {ticker}")
+        text, keyboard = stocks_menu(cfg)
+        tg("editMessageText", chat_id=chat_id, message_id=msg.get("message_id"), text=text,
+           parse_mode="HTML", reply_markup=keyboard)
+    elif data == "add":
+        tg("answerCallbackQuery", callback_query_id=cq["id"])
+        params = {"chat_id": chat_id, "text": f"{ADD_PROMPT} (e.g. <code>PANW TSM</code>).", "parse_mode": "HTML",
+                  "reply_markup": {"force_reply": True, "input_field_placeholder": "PANW TSM"}}
+        if thread_id:
+            params["message_thread_id"] = thread_id
+        tg("sendMessage", **params)
+    elif data == "scan":
+        tg("answerCallbackQuery", callback_query_id=cq["id"], text="Building the report, about a minute")
+        send_board_images(cfg, photo, reply)
+    else:
+        tg("answerCallbackQuery", callback_query_id=cq["id"])
+
+
+def register_commands(state):
+    if state.get("commands_version") == len(BOT_COMMANDS):
+        return
+    res = tg("setMyCommands", commands=[{"command": c, "description": d} for c, d in BOT_COMMANDS])
+    if res.get("ok"):
+        state["commands_version"] = len(BOT_COMMANDS)
+
+
 # ---------- Commands ----------
 
 HELP = (
@@ -712,9 +797,9 @@ HELP = (
     "/earnings - upcoming earnings dates\n\n"
     "<b>25-60 signals, puts &amp; valuation</b>\n"
     "/scan - signal board for your scan list now\n"
-    "/scanlist - stocks being scanned\n"
-    "/scanadd &lt;ticker&gt; [ticker...] - add stocks and show their conditions, puts and value\n"
-    "/scanremove &lt;ticker&gt; [ticker...] - remove stocks\n"
+    "/stocks - your stock list with add/remove buttons\n"
+    "/addstock &lt;ticker&gt; [ticker...] - add stocks and show their card\n"
+    "/removestock &lt;ticker&gt; [ticker...] - remove stocks\n"
     "/check &lt;ticker&gt; - conditions, puts and value for any stock without adding it\n"
     "/puts &lt;ticker&gt; - cash-secured put ideas about 30 days out\n"
     "/value &lt;ticker&gt; - DCF value with its assumptions\n"
@@ -886,22 +971,17 @@ def handle_command(chat_id, thread_id, text, cfg, state):
     elif cmd in ("/scan", "/signals"):
         reply(f"Scanning {len(cfg['signals']['tickers'])} stocks, the report takes about a minute...")
         send_board_images(cfg, photo, reply)
+    elif cmd == "/stocks":
+        send_stocks_menu(cfg, chat_id, thread_id)
     elif cmd == "/scanlist":
         reply(f"<b>Scan list ({len(cfg['signals']['tickers'])})</b>\n" + ", ".join(cfg["signals"]["tickers"]))
-    elif cmd == "/scanadd":
+    elif cmd in ("/scanadd", "/addstock"):
         tickers = [t.upper() for t in re.split(r"[\s,]+", raw_arg) if t]
         if not tickers:
-            reply("Usage: /scanadd &lt;ticker&gt; [ticker...]  e.g. /scanadd TSM ORCL")
+            reply("Usage: /addstock &lt;ticker&gt; [ticker...]  e.g. /addstock PANW TSM")
             return
-        for ticker in tickers:
-            if not get_quote(ticker):
-                reply(f"Couldn't find {html.escape(ticker)} on Yahoo Finance. SGX tickers end in .SI (e.g. D05.SI).")
-                continue
-            if ticker not in cfg["signals"]["tickers"]:
-                cfg["signals"]["tickers"].append(ticker)
-            reply(f"Added {html.escape(ticker)} to the scan list.")
-            send_card_image(cfg, ticker, photo, reply)
-    elif cmd == "/scanremove":
+        add_stocks(cfg, tickers, reply, photo)
+    elif cmd in ("/scanremove", "/removestock"):
         tickers = [t.upper() for t in re.split(r"[\s,]+", raw_arg) if t]
         removed = [t for t in tickers if t in cfg["signals"]["tickers"]]
         cfg["signals"]["tickers"] = [t for t in cfg["signals"]["tickers"] if t not in removed]
@@ -934,7 +1014,7 @@ def handle_command(chat_id, thread_id, text, cfg, state):
 
 
 def process_updates(cfg, state, wait):
-    params = {"timeout": wait, "allowed_updates": ["message"]}
+    params = {"timeout": wait, "allowed_updates": ["message", "callback_query"]}
     if state["offset"]:
         params["offset"] = state["offset"]
     try:
@@ -945,10 +1025,22 @@ def process_updates(cfg, state, wait):
         return
     for u in updates:
         state["offset"] = u["update_id"] + 1
+        if u.get("callback_query"):
+            try:
+                handle_callback(u["callback_query"], cfg, state)
+            except Exception as e:
+                print(f"[callback] failed: {e!r}", file=sys.stderr)
+            continue
         msg = u.get("message") or {}
         text = msg.get("text", "")
         chat_id = str(msg.get("chat", {}).get("id", ""))
         thread_id = msg.get("message_thread_id") if msg.get("is_topic_message") else None
+        replied = (msg.get("reply_to_message") or {}).get("text", "")
+        if text and not text.startswith("/") and replied.startswith(ADD_PROMPT) and chat_id == GROUP_ID:
+            tickers = [t.upper() for t in re.split(r"[\s,]+", text) if t]
+            add_stocks(cfg, tickers, lambda t: send(chat_id, t, thread_id),
+                       lambda path, caption="": send_photo(chat_id, path, caption, thread_id))
+            continue
         if not text.startswith("/") or not chat_id:
             continue
         if chat_id != GROUP_ID:
@@ -976,6 +1068,7 @@ def main():
     cfg, state = load_config(), load_state()
     if GROUP_ID:
         ensure_all_topics(cfg, state)
+        register_commands(state)
     deadline = time.time() + args.minutes * 60
     next_check = 0
     try:

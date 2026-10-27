@@ -5,13 +5,16 @@ Every threshold lives in config.json under "signals" so it can be tuned without 
 
 import html
 import math
+import re
 import sys
 import time
 from datetime import datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
 
 import requests
 
 SGT = timezone(timedelta(hours=8))
+US_EASTERN = ZoneInfo("America/New_York")
 
 DEFAULT_RULES = {
     "sma_days": 25,             # 1, 6: moving average length
@@ -206,6 +209,63 @@ def put_ideas(session, crumb, ticker, spot, settings):
     return {"expiry": expiry, "days": days, "spot": spot, "rows": rows[:p["max_rows"]]}
 
 
+CBOE_URL = "https://cdn.cboe.com/api/global/delayed_quotes/options/{}.json"
+OPTION_SYMBOL = re.compile(r"^(?P<root>.+?)(?P<date>\d{6})(?P<kind>[CP])(?P<strike>\d{8})$")
+
+
+def put_ideas_cboe(ticker, settings):
+    """Put ideas from CBOE's free delayed quotes: real bid/ask (kept after the close) and exchange deltas."""
+    p = {**DEFAULT_PUTS, **settings}
+    try:
+        resp = requests.get(CBOE_URL.format(ticker.replace("-", ".")), headers={"User-Agent": "Mozilla/5.0"}, timeout=40)
+        resp.raise_for_status()
+        data = resp.json()["data"]
+    except (requests.RequestException, ValueError, KeyError) as e:
+        print(f"[cboe] {ticker}: {e}", file=sys.stderr)
+        return {"error": "no CBOE option quotes"}
+    spot = data.get("current_price") or data.get("close")
+    if not spot:
+        return {"error": "no CBOE price"}
+    today = datetime.now(US_EASTERN).date()
+    by_expiry = {}
+    for o in data.get("options", []):
+        m = OPTION_SYMBOL.match(o.get("option", ""))
+        if not m or m["kind"] != "P":
+            continue
+        expiry = datetime.strptime(m["date"], "%y%m%d").date()
+        by_expiry.setdefault(expiry, []).append((int(m["strike"]) / 1000, o))
+    candidates = [d for d in by_expiry if p["min_days"] <= (d - today).days <= p["max_days"]]
+    if not candidates:
+        return {"error": f"no expiry {p['min_days']}-{p['max_days']} days out"}
+    expiry = min(candidates, key=lambda d: abs((d - today).days - p["target_days"]))
+    days = (expiry - today).days
+    rows = []
+    for strike, o in by_expiry[expiry]:
+        delta = o.get("delta")
+        if strike >= spot or delta is None or not p["delta_min"] <= delta <= p["delta_max"]:
+            continue
+        bid, ask = o.get("bid") or 0, o.get("ask") or 0
+        live = bid > 0 and ask >= bid
+        premium = (bid + ask) / 2 if live else (o.get("last_trade_price") or 0)
+        if premium <= 0:
+            continue
+        yld = premium / strike
+        rows.append({"strike": strike, "delta": delta, "bid": bid, "ask": ask, "premium": premium, "live": live,
+                     "yield": yld * 100, "annual": yld * 365 / days * 100, "breakeven": strike - premium,
+                     "below": (1 - strike / spot) * 100})
+    rows.sort(key=lambda r: -r["strike"])
+    expiry_ts = datetime(expiry.year, expiry.month, expiry.day, 12, tzinfo=timezone.utc).timestamp()
+    return {"expiry": expiry_ts, "days": days, "spot": spot, "rows": rows[:p["max_rows"]], "source": "CBOE"}
+
+
+def best_put_ideas(session, crumb, ticker, spot, settings):
+    ideas = put_ideas_cboe(ticker, settings)
+    if "error" in ideas and spot:
+        ideas = put_ideas(session, crumb, ticker, spot, settings)
+        ideas.setdefault("source", "Yahoo")
+    return ideas
+
+
 # ---------- DCF ----------
 
 def dcf(session, crumb, ticker, settings):
@@ -223,7 +283,8 @@ def dcf(session, crumb, ticker, settings):
     market_cap = res.get("price", {}).get("marketCap", {}).get("raw")
     fin_currency = res.get("financialData", {}).get("financialCurrency") or currency
     if sector in NO_DCF_SECTORS:
-        return {"error": f"DCF not meaningful for {sector.lower()} companies", "price": price, "currency": currency}
+        return {"error": f"DCF not meaningful for {sector.lower()} companies", "price": price, "currency": currency,
+                "sector": sector}
 
     types = "trailingFreeCashFlow,annualFreeCashFlow,annualDilutedAverageShares," \
             "annualCashCashEquivalentsAndShortTermInvestments,annualTotalDebt"
@@ -243,7 +304,8 @@ def dcf(session, crumb, ticker, settings):
     if not fcf or not shares or not price:
         return {"error": "missing free cash flow, share count or price"}
     if fcf <= 0:
-        return {"error": "free cash flow is negative, DCF not meaningful", "price": price, "currency": currency}
+        return {"error": "free cash flow is negative, DCF not meaningful", "price": price, "currency": currency,
+                "sector": sector}
 
     trend = {t["period"]: t.get("growth", {}).get("raw") for t in res.get("earningsTrend", {}).get("trend", [])}
     raw_growth = trend.get("+1y") if trend.get("+1y") is not None else trend.get("0y")
@@ -276,7 +338,7 @@ def dcf(session, crumb, ticker, settings):
     value = price * equity * fx / market_cap if market_cap else equity * fx / shares
     return {"value": value, "price": price, "currency": currency, "safety": (1 - price / value) * 100,
             "pct_of_value": price / value * 100, "growth": growth, "raw_growth": raw_growth,
-            "fcf": fcf, "fin_currency": fin_currency, "shares": shares, "settings": d}
+            "fcf": fcf, "fin_currency": fin_currency, "shares": shares, "settings": d, "sector": sector}
 
 
 # ---------- Formatting ----------
@@ -324,7 +386,7 @@ def fmt_puts(ticker, ideas, earnings_ts=None):
         notes.append("* market closed or no bid: the last traded price is used instead.")
     if earnings_ts and time.time() < earnings_ts <= ideas["expiry"] + 86400:
         notes.append(f"Earnings on {datetime.fromtimestamp(earnings_ts, SGT).strftime('%d %b')}, before this expiry.")
-    notes.append("Quotes from Yahoo (about 15 min delayed). Puts can be assigned early; only sell where "
+    notes.append(f"Quotes from {ideas.get('source', 'Yahoo')} (about 15 min delayed). Puts can be assigned early; only sell where "
                  "you are happy to buy the shares at the strike with cash set aside.")
     return head + "\n" + "\n".join(lines) + "\n<i>" + html.escape(" ".join(notes)) + "</i>"
 
