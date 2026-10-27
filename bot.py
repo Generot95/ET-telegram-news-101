@@ -83,7 +83,7 @@ def load_config():
     brief.setdefault("earnings_alert_days", 2)
     sig = cfg.setdefault("signals", {})
     sig.setdefault("topic_id", None)
-    sig.setdefault("hour_sgt", 6)
+    sig.setdefault("hour_sgt", 19)
     sig.setdefault("tickers", list(DEFAULT_SCAN_TICKERS))
     for key, default in (("rules", signals.DEFAULT_RULES), ("puts", signals.DEFAULT_PUTS), ("dcf", signals.DEFAULT_DCF)):
         sig[key] = {**default, **sig.get(key, {})}
@@ -607,13 +607,13 @@ def valuations_table(cfg):
 
 
 def maybe_send_board(cfg, state):
-    """Post the board once per US trading day, after the close (Tue-Sat morning SGT)."""
+    """Post the daily report (signal board, put ideas, valuations) once a day at hour_sgt."""
     now = sgt_now()
     today = now.date().isoformat()
-    if now.weekday() in (0, 6) or now.hour < cfg["signals"]["hour_sgt"] or state.get("last_board") == today:
+    if now.hour < cfg["signals"]["hour_sgt"] or state.get("last_board") == today:
         return
     state["last_board"] = today
-    for message in signal_board(cfg):
+    for message in signal_board(cfg) + [valuations_table(cfg)]:
         post_to_topic(cfg, SIGNALS_TOPIC, message)
 
 
