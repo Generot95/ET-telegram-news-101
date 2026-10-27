@@ -1,8 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "AI|8d9fa41d-040d-30da-a416-e5b775170e49",
-    "Watchlist|8d9fa41d-040d-30da-a416-e5b775170e49",
     "Crypto|7eaadf0a-51af-389a-92b9-26272881df65",
     "War|https://www.investing.com/news/commodities-news/iran-has-ramped-up-efforts-to-target-us-personnel-intelligence-memo-warns-4970887",
     "AI|https://www.investing.com/news/commodities-news/iran-has-ramped-up-efforts-to-target-us-personnel-intelligence-memo-warns-4970887",
@@ -5000,7 +4998,9 @@
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-minerals-260-lifts-cash-expands-bullabulling-in-q1-2026-93CH-4974115",
     "Watchlist|https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-firm-yen-retreats-ahead-of-fed-decision-4974116",
     "AI|a0a0f90b-3a2a-3816-8ebf-e0469417145f",
-    "Watchlist|a0a0f90b-3a2a-3816-8ebf-e0469417145f"
+    "Watchlist|a0a0f90b-3a2a-3816-8ebf-e0469417145f",
+    "SG Banks|/companies-markets/energy-commodities/energy-market-authority-awards-s14-9-million-grants-strengthen-power-grid",
+    "Watchlist|/companies-markets/energy-commodities/energy-market-authority-awards-s14-9-million-grants-strengthen-power-grid"
   ],
   "topic_error": "",
   "last_digest": "2026-10-27",
@@ -5080,5 +5080,5 @@
     "MSFT|2026-10-29",
     "LIN|2026-10-29"
   ],
-  "last_check": 1793072230.0469396
+  "last_check": 1793073155.3383517
 }
