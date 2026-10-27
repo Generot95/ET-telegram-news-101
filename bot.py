@@ -678,9 +678,9 @@ def maybe_send_board(cfg, state):
     """Post the daily report (board, stock cards with all indicators) once a day at hour_sgt."""
     now = sgt_now()
     today = now.date().isoformat()
-    if now.hour < cfg["signals"]["hour_sgt"] or state.get("last_board") == today:
+    if now.hour < cfg["signals"]["hour_sgt"] or state.get("last_report") == today:
         return
-    state["last_board"] = today
+    state["last_report"] = today
     holders = topic_holders(cfg)
     index = [n for n, _ in holders].index(SIGNALS_TOPIC)
     thread = ensure_topic(SIGNALS_TOPIC, cfg["signals"], index)
