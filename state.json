@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/earnings/zedge-earnings-missed-by-003-revenue-topped-estimates-4973755",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/globe-life-evp-michael-majors-sells-222m-in-common-stock-93CH-4973736",
-    "Watchlist|https://www.investing.com/news/sec-filings/zeo-energy-receives-extension-from-nasdaq-to-regain-minimum-bid-compliance-93CH-4973743",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-jetblue-airways-stock-surging-today-93CH-4973745",
-    "Watchlist|https://www.investing.com/news/company-news/pinnacle-financial-approves-dividends-for-common-preferred-stock-93CH-4973747",
-    "Watchlist|https://www.investing.com/news/company-news/aptar-pharma-acquires-pulmotree-to-expand-inhaler-portfolio-93CH-4973748",
-    "Watchlist|https://www.investing.com/news/company-news/ffr-completes-robotics-acquisition-issues-2026-guidance-93CH-4973750",
-    "Watchlist|https://www.investing.com/news/company-news/eldorado-gold-activates-first-filter-presses-at-skouries-mine-93CH-4973749",
-    "Watchlist|https://www.investing.com/news/earnings/jetblue-shares-soar-over-11-on-strong-revenue-outlook-despite-q3-miss-93CH-4973751",
     "Watchlist|https://www.investing.com/news/stock-market-news/exclusive-hypromag-usa-maps-three-new-magnet-plants-to-quadruple-us-capacity-4973754",
     "Watchlist|https://www.investing.com/news/earnings/zedge-earnings-missed-by-003-revenue-topped-estimates-4973755",
     "AI|3864e770-1fe5-3fb9-901e-76ca011df624",
@@ -5000,7 +4991,16 @@
     "Watchlist|https://www.investing.com/news/company-news/costar-q3-2026-slides-ebitda-doubles-as-bookings-disappoint-93CH-4977192",
     "Watchlist|https://www.investing.com/news/economy-news/alexander-brothers-get-30-years-each-in-prison-after-sex-trafficking-convictions-4977193",
     "Watchlist|https://www.investing.com/news/stock-market-news/visa-quarterly-profit-rises-on-resilient-consumer-spending-4976822",
-    "Watchlist|https://www.investing.com/news/company-news/lpl-financial-q3-2026-slides-strong-growth-amid-integration-concerns-93CH-4977194"
+    "Watchlist|https://www.investing.com/news/company-news/lpl-financial-q3-2026-slides-strong-growth-amid-integration-concerns-93CH-4977194",
+    "Iran|https://www.iranintl.com/en/202610277978",
+    "War|d8d2be93-e36c-3260-9d54-8918384a3e44",
+    "War|3fdfdb9c-6627-40dc-86b0-31266b9c4cb6",
+    "AI|42f1a629-e951-3c99-8b39-21f5dbe66cfc",
+    "AI|e8bdbce3-8c61-34c9-b0d6-41a981ac1657",
+    "Crypto|e8bdbce3-8c61-34c9-b0d6-41a981ac1657",
+    "Watchlist|e8bdbce3-8c61-34c9-b0d6-41a981ac1657",
+    "AI|d5857739-22f4-3b59-a700-7acf5ba74b2e",
+    "Watchlist|d5857739-22f4-3b59-a700-7acf5ba74b2e"
   ],
   "topic_error": "",
   "last_digest": "2026-10-27",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793142116.7884579,
+  "last_check": 1793143029.1240642,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-27"
