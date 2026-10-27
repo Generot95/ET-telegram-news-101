@@ -1,9 +1,6 @@
 {
   "offset": 424373870,
   "seen": [
-    "Watchlist|/international/global/apple-emerges-wall-streets-favourite-ai-haven-spending-fears-hit",
-    "Watchlist|/companies-markets/reits-property/keppel-dc-reit-9m-dpu-11-7-s0-08571-organic-growth-acquisitions",
-    "AI|b90191c7-8126-35c5-836b-55b1fb0b28d5",
     "Watchlist|b90191c7-8126-35c5-836b-55b1fb0b28d5",
     "Watchlist|f46e35c7-7818-3a7f-95d2-4cfd05c4581a",
     "AI|https://www.investing.com/news/world-news/serbia-votes-as-students-seek-to-unseatvucic-in-snap-election-4971009",
@@ -5000,7 +4997,10 @@
     "Watchlist|c0cacb59-18b1-36da-b988-6da45748a4a4",
     "Watchlist|/international/sydneys-new-international-airport-opens-passengers",
     "Watchlist|/companies-markets/capital-markets-currencies/why-ai-boom-may-pose-more-peril-us-markets-meets-eye",
-    "Watchlist|/singapore/singapore-expects-all-parties-honour-commitments-says-pm-wong-after-indonesia-cuts-gas-exports"
+    "Watchlist|/singapore/singapore-expects-all-parties-honour-commitments-says-pm-wong-after-indonesia-cuts-gas-exports",
+    "SG Banks|https://www.channelnewsasia.com/business/japans-trend-inflation-index-hits-3-year-high-cements-case-boj-rate-hike-6494756",
+    "AI|6dfc2bc5-34b8-378b-a2ed-a2f59e5e4a03",
+    "Watchlist|6dfc2bc5-34b8-378b-a2ed-a2f59e5e4a03"
   ],
   "topic_error": "",
   "last_digest": "2026-10-27",
@@ -5080,5 +5080,5 @@
     "MSFT|2026-10-29",
     "LIN|2026-10-29"
   ],
-  "last_check": 1793083257.3509452
+  "last_check": 1793084175.9522388
 }
