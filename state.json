@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|bc74f675-fb9c-460a-b1e6-35b5492073bc",
-    "Watchlist|bc74f675-fb9c-460a-b1e6-35b5492073bc",
-    "War|https://www.investing.com/news/commodities-news/diesel-refining-margins-drop-7-as-russian-output-rises-93CH-4976638",
-    "AI|https://www.investing.com/news/company-news/saintgobain-q3-2026-slides-pricing-drives-growth-amid-volume-pressure-93CH-4976623",
-    "AI|https://www.investing.com/news/company-news/eaton-declares-110-quarterly-dividend-payable-in-november-93CH-4976626",
     "AI|https://www.investing.com/news/economy-news/exclusivegm-plans-to-offer-hybrid-suvs-in-strategic-pivot-4976540",
     "AI|https://www.investing.com/news/company-news/worldline-q3-2026-slides-revenue-stabilizes-as-turnaround-progresses-93CH-4976628",
     "AI|https://www.investing.com/news/company-news/alaska-airlines-to-launch-anchoragetokyo-nonstop-service-in-2027-93CH-4976635",
@@ -5000,7 +4995,12 @@
     "Watchlist|https://www.investing.com/news/economy-news/judge-skeptical-of-justice-dept-lawsuit-over-alleged-noncitizens-on-voting-rolls-4980480",
     "Watchlist|https://www.investing.com/news/commodities-news/northwest-european-diesel-margins-hold-steady-amid-mixed-signals-93CH-4980484",
     "Watchlist|https://www.investing.com/news/company-news/hii-marks-progress-on-unmanned-vessels-for-us-navy-93CH-4980485",
-    "Cybersecurity|88f9d0a3-6435-3852-bed7-8bc5a1a39c7b"
+    "Cybersecurity|88f9d0a3-6435-3852-bed7-8bc5a1a39c7b",
+    "War|e36e6581-bfb0-3a34-a5fb-a9c36fbc3f98",
+    "War|bef4666b-d5e1-36af-b2b7-cc6fedc39677",
+    "SG Banks|https://www.channelnewsasia.com/business/oracle-eases-ai-spending-worries-plan-turn-cash-flow-positive-6501096",
+    "Watchlist|5fb04013-257a-339c-adb1-4d96df9443bd",
+    "AI|5fb04013-257a-339c-adb1-4d96df9443bd"
   ],
   "topic_error": "",
   "last_digest": "2026-10-28",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793214647.2576725,
+  "last_check": 1793215560.6876175,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-28"
