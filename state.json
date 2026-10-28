@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|/companies-markets/telcos-media-tech/instacart-talks-doordash-and-uber-sale-report",
-    "AI|dd9e6428-5d77-384f-bd61-52b860aaf8fe",
-    "Watchlist|dd9e6428-5d77-384f-bd61-52b860aaf8fe",
-    "Iran|https://www.iranintl.com/en/202610235803",
-    "Crypto|38f8ef5c-ec49-3679-92c2-d912b7910a5a",
-    "Iran|https://www.iranintl.com/en/202610210181",
-    "AI|c76aecf3-44ea-3292-b9d2-d292518d07ce",
-    "Watchlist|c76aecf3-44ea-3292-b9d2-d292518d07ce",
-    "AI|https://www.investing.com/news/stock-market-news/fitch-affirms-flagstar-bank-at-bb-but-lowers-outlook-on-delayed-recovery-4973827",
-    "AI|https://www.investing.com/news/sec-filings/bold-eagle-acquisition-extends-merger-deadline-amends-investor-agreements-93CH-4973828",
-    "AI|https://www.investing.com/news/forex-news/canadian-dollar-steadies-after-sevenday-rally-ahead-of-rate-decisions-4973829",
-    "AI|https://www.investing.com/news/earnings/celestica-stock-surges-10-after-earnings-beat-as-ai-demand-boosts-2027-outlook-4973830",
     "AI|https://www.investing.com/news/stock-market-news/universal-music-discussed-buyout-options-with-private-equity-giants--bloomberg-4973836",
     "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-clearwater-paper-q3-2026-miss-sends-shares-lower-93CH-4973838",
     "AI|https://www.investing.com/news/stock-market-news/best-defence-stocks-to-watch-as-piper-sandler-flags-growth-opportunities-4973800",
@@ -5000,7 +4988,19 @@
     "Watchlist|https://www.investing.com/news/economy-news/us-judge-says-he-will-rule-wednesday-in-lawsuit-over-california-voter-rolls-4977254",
     "Watchlist|https://www.investing.com/news/earnings/sk-hynix-q3-profit-beats-expectations-vows-75-bln-in-shareholders-returns-4977255",
     "AI|549e1118-6a36-4096-98f0-9e606290800f",
-    "Watchlist|549e1118-6a36-4096-98f0-9e606290800f"
+    "Watchlist|549e1118-6a36-4096-98f0-9e606290800f",
+    "SG Banks|/companies-markets/telcos-media-tech/sk-hynix-q3-profit-jumps-more-7-fold-beats-forecasts",
+    "Watchlist|/companies-markets/telcos-media-tech/sk-hynix-q3-profit-jumps-more-7-fold-beats-forecasts",
+    "SG Banks|https://www.channelnewsasia.com/business/sk-hynix-unveils-shareholder-return-plan-worth-75-billion-after-posting-7-fold-jump-in-q3-profit-6498106",
+    "SG Banks|57c13068-449f-35f2-b9af-bab3f6064597",
+    "Iran|https://www.iranintl.com/en/202610235803",
+    "War|a1b2395e-215f-4251-9c1d-84daff850c91",
+    "War|6e2a53e7-83a0-3968-8357-11963b9ec6c1",
+    "SG Banks|/companies-markets/telcos-media-tech/sk-hynix-posts-7-fold-jump-q3-profit-unveils-shareholder-return-plan-worth-us75-billion",
+    "Watchlist|/companies-markets/telcos-media-tech/sk-hynix-posts-7-fold-jump-q3-profit-unveils-shareholder-return-plan-worth-us75-billion",
+    "AI|181451ec-6fd0-3c14-a2ae-fb8688bb8661",
+    "Watchlist|181451ec-6fd0-3c14-a2ae-fb8688bb8661",
+    "Crypto|11f4ba5e-bbd8-3269-9ed0-8d38fee8aef9"
   ],
   "topic_error": "",
   "last_digest": "2026-10-28",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793145796.7412267,
+  "last_check": 1793146709.1935155,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-27"
