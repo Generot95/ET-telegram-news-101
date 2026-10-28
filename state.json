@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/us-judge-lets-eli-lilly-continue-ads-for-weightloss-drugs-rules-against-novo-nordisk-4973544",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-perseus-mining-posts-strong-q1-2026-cash-flow-93CH-4973883",
-    "War|d42f1499-2e72-306e-85d5-51d1516b091e",
-    "War|e7233113-3e8b-345f-986e-1d22c839f107",
     "Iran|https://www.iranintl.com/en/202610219901",
     "SG Banks|/companies-markets/memory-titans-test-ai-demand-while-bubble-fears-transfix-markets",
     "Watchlist|/companies-markets/memory-titans-test-ai-demand-while-bubble-fears-transfix-markets",
@@ -5000,7 +4996,11 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/anthropic-taps-jpmorgan-to-lead-ipos-us-retail-sales-bloomberg-reports-4977334",
     "Watchlist|https://www.investing.com/news/company-news/edison-lithium-plans-c19m-private-placement-at-c007unit-93CH-4977335",
     "SG Banks|/companies-markets/energy-commodities/oil-settles-lower-peace-hopes-saudi-attacks-limit-losses",
-    "Watchlist|/companies-markets/energy-commodities/oil-settles-lower-peace-hopes-saudi-attacks-limit-losses"
+    "Watchlist|/companies-markets/energy-commodities/oil-settles-lower-peace-hopes-saudi-attacks-limit-losses",
+    "War|cdbe9b8c-4a22-3b42-bc2b-24f9d3b9273a",
+    "AI|cee70c38-e5d4-3fcb-8eaa-3809ec791d41",
+    "Watchlist|cee70c38-e5d4-3fcb-8eaa-3809ec791d41",
+    "SG Banks|https://www.channelnewsasia.com/business/openai-plans-buy-googles-ai-chips-information-reports-6498406"
   ],
   "topic_error": "",
   "last_digest": "2026-10-28",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793150378.5135257,
+  "last_check": 1793151297.6930807,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-27"
