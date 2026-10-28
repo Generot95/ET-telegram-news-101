@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|89ba7cce-2655-3136-9fbe-c53c9b7bf216",
-    "Watchlist|89ba7cce-2655-3136-9fbe-c53c9b7bf216",
-    "War|63866502-57e3-39cd-9a23-2152c8ddef39",
-    "AI|5beb2b3d-7ac3-341e-8f75-741af7ae1324",
-    "AI|https://www.investing.com/news/commodities-news/gold-slips-near-4010-as-traders-await-fed-decision-iran-diplomacy-offers-hope-4974024",
-    "AI|https://www.investing.com/news/insider-trading-news/smartfinancial-evp-rhett-jordan-sells-9960-in-shares-93CH-4974034",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/gold-slips-near-4010-as-traders-await-fed-decision-iran-diplomacy-offers-hope-4974024",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/smartfinancial-evp-rhett-jordan-sells-9960-in-shares-93CH-4974034",
     "SG Banks|https://www.investing.com/news/commodities-news/gold-slips-near-4010-as-traders-await-fed-decision-iran-diplomacy-offers-hope-4974024",
     "SG Banks|https://www.investing.com/news/insider-trading-news/smartfinancial-evp-rhett-jordan-sells-9960-in-shares-93CH-4974034",
     "Watchlist|https://www.investing.com/news/commodities-news/gold-slips-near-4010-as-traders-await-fed-decision-iran-diplomacy-offers-hope-4974024",
@@ -5000,7 +4992,15 @@
     "AI|d945a43d-d41d-353e-8de9-148f6b0a6911",
     "SG Banks|/companies-markets/banking-finance/australian-inflation-runs-hot-q3-cements-case-imminent-rate-rise",
     "Watchlist|d945a43d-d41d-353e-8de9-148f6b0a6911",
-    "Watchlist|/companies-markets/banking-finance/australian-inflation-runs-hot-q3-cements-case-imminent-rate-rise"
+    "Watchlist|/companies-markets/banking-finance/australian-inflation-runs-hot-q3-cements-case-imminent-rate-rise",
+    "AI|f843c64c-c855-3890-a427-853ce7bde695",
+    "Watchlist|f843c64c-c855-3890-a427-853ce7bde695",
+    "AI|c7395fae-5aca-371f-8e98-003735aee1ed",
+    "War|289a4309-795a-3e98-920d-a3f5b1679a80",
+    "AI|e7eed746-6924-301b-b442-315aec3a7535",
+    "SG Banks|/companies-markets/capital-markets-currencies/asian-stocks-advance-ai-rally-returns-ahead-big-tech-earnings-fed-decision",
+    "Watchlist|3e666cd9-1e8b-35de-ac2f-0c1d9576ea25",
+    "Watchlist|/companies-markets/capital-markets-currencies/asian-stocks-advance-ai-rally-returns-ahead-big-tech-earnings-fed-decision"
   ],
   "topic_error": "",
   "last_digest": "2026-10-28",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793159549.9268572,
+  "last_check": 1793160465.3676262,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-27"
