@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/insider-trading-news/stewart-information-services-director-buys-93640-in-shares-93CH-4973951",
-    "AI|https://www.investing.com/news/economic-indicators/south-korea-gdp-grows-more-than-expected-in-q3-on-ai-boost-4973952",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/stewart-information-director-thomas-apel-buys-95470-in-stock-93CH-4973950",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/stewart-information-services-director-buys-93640-in-shares-93CH-4973951",
     "Cybersecurity|https://www.investing.com/news/economic-indicators/south-korea-gdp-grows-more-than-expected-in-q3-on-ai-boost-4973952",
     "SG Banks|https://www.investing.com/news/insider-trading-news/stewart-information-director-thomas-apel-buys-95470-in-stock-93CH-4973950",
@@ -5000,7 +4997,10 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/stifels-surprise-gaming-pick-leads-a-sector-bracing-for-a-choppy-earnings-season-4977382",
     "Watchlist|https://www.investing.com/news/stock-market-news/us-closes-51-billion-loan-to-alliant-energy-for-new-gas-power-generation-energy-storage-4977383",
     "Watchlist|https://www.investing.com/news/stock-market-news/nearly-90-of-businesses-are-turning-to-tokenised-money-dbs-survey-shows-4977384",
-    "SG Banks|https://www.straitstimes.com/business/singapores-wealthy-keep-more-than-70-of-assets-in-cash-despite-rising-wealth-citi"
+    "SG Banks|https://www.straitstimes.com/business/singapores-wealthy-keep-more-than-70-of-assets-in-cash-despite-rising-wealth-citi",
+    "War|8c1ba86b-5084-31fa-bb6f-27311a388b56",
+    "Cybersecurity|e57cc3cc-44b8-309e-84ee-04d9e7f4f88a",
+    "Crypto|e1ae73c6-1bb1-3013-bddf-46e57cb76436"
   ],
   "topic_error": "",
   "last_digest": "2026-10-28",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793154039.3788328,
+  "last_check": 1793154958.393692,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-27"
