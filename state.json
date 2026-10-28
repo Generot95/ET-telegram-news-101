@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/commodities-news/oil-extends-losses-as-iran-mediation-efforts-ease-escalation-fears-4973997",
-    "Iran|https://www.iranintl.com/en/202610218656",
-    "SG Banks|44f2c04b-127a-33f5-a1c7-34ca24531855",
-    "SG Banks|/opinion-features/cabin-fever-airlines-are-rushing-refurbish-plane-interiors-will-their-bets-pay",
-    "SG Banks|/companies-markets/capitaland-ascott-trusts-same-store-operating-performance-4-q3",
-    "Watchlist|44f2c04b-127a-33f5-a1c7-34ca24531855",
-    "Watchlist|/opinion-features/cabin-fever-airlines-are-rushing-refurbish-plane-interiors-will-their-bets-pay",
-    "Watchlist|/companies-markets/capitaland-ascott-trusts-same-store-operating-performance-4-q3",
     "AI|749a3fc3-8240-32d4-ab06-4655d7672332",
     "SG Banks|https://www.channelnewsasia.com/business/japans-september-corporate-services-prices-rise-37-yryr-6494756",
     "AI|ccfd8b60-4bf1-3f4e-a4b5-4297fcd1c323",
@@ -5000,7 +4992,15 @@
     "Watchlist|https://www.investing.com/news/company-news/mapletree-industrial-q2-fy2627-slides-dpu-falls-66-on-us-weakness-93CH-4977417",
     "Watchlist|https://www.investing.com/news/stock-market-news/six-ai-picks-are-up-1366-since-entry-and-a-genericdrug-maker-leads-them-all-4977418",
     "SG Banks|/companies-markets/banking-finance/new-zealand-central-bank-unexpectedly-holds-rates-signals-likely-hikes",
-    "Watchlist|/companies-markets/banking-finance/new-zealand-central-bank-unexpectedly-holds-rates-signals-likely-hikes"
+    "Watchlist|/companies-markets/banking-finance/new-zealand-central-bank-unexpectedly-holds-rates-signals-likely-hikes",
+    "SG Banks|/companies-markets/capitaland-india-trust-q3-net-property-income-down-8-cent-rupee-weakness",
+    "Watchlist|/companies-markets/capitaland-india-trust-q3-net-property-income-down-8-cent-rupee-weakness",
+    "SG Banks|/companies-markets/telcos-media-tech/sk-hynix-unveils-us75-billion-shareholder-return-plan-after-posting-record-profit",
+    "Watchlist|/companies-markets/telcos-media-tech/sk-hynix-unveils-us75-billion-shareholder-return-plan-after-posting-record-profit",
+    "SG Banks|44f2c04b-127a-33f5-a1c7-34ca24531855",
+    "SG Banks|/companies-markets/capitaland-ascott-trusts-same-store-operating-performance-4-q3",
+    "Watchlist|44f2c04b-127a-33f5-a1c7-34ca24531855",
+    "AI|https://www.investing.com/news/stock-market-news/asia-stocks-rally-as-sk-hynix-earnings-boost-ai-trade-fed-decision-ahead-4977421"
   ],
   "topic_error": "",
   "last_digest": "2026-10-28",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793157706.7809935,
+  "last_check": 1793158630.4729857,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-27"
