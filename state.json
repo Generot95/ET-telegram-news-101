@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/why-is-citic-securities-stock-sliding-today-93CH-4974194",
-    "AI|https://www.investing.com/news/earnings/bucher-industries-notes-demand-stabilising-as-ninemonth-sales-stay-under-pressure-4974195",
-    "AI|https://www.investing.com/news/stock-market-news/cdc-deputy-director-to-leave-trump-admin-after-midterms-post-reports-93CH-4974196",
-    "AI|https://www.investing.com/news/insider-trading-news/selective-insurance-director-cynthia-nicholson-sells-364342-in-stock-93CH-4974202",
-    "AI|https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-046-4974203",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/citic-securities-shares-fall-on-soft-q3-profit-4974189",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/dell-technologies-director-sells-930120-in-shares-93CH-4974192",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-citic-securities-stock-sliding-today-93CH-4974194",
-    "Cybersecurity|https://www.investing.com/news/earnings/bucher-industries-notes-demand-stabilising-as-ninemonth-sales-stay-under-pressure-4974195",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/cdc-deputy-director-to-leave-trump-admin-after-midterms-post-reports-93CH-4974196",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/selective-insurance-director-cynthia-nicholson-sells-364342-in-stock-93CH-4974202",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-046-4974203",
@@ -5000,7 +4991,16 @@
     "SG Banks|/companies-markets/banking-finance/ubs-meets-expectations-us2-7-billion-q3-profit",
     "SG Banks|https://www.channelnewsasia.com/business/south-koreas-hd-hyundai-decide-size-us-shipbuilding-investment-year-end-6499091",
     "Watchlist|/companies-markets/banking-finance/ubs-meets-expectations-us2-7-billion-q3-profit",
-    "SG Banks|https://www.straitstimes.com/business/hsbc-announces-us1-billion-buyback-after-profit-growth-misses"
+    "SG Banks|https://www.straitstimes.com/business/hsbc-announces-us1-billion-buyback-after-profit-growth-misses",
+    "SG Banks|https://www.channelnewsasia.com/business/dassault-systemes-raises-2026-targets-6499041",
+    "SG Banks|/companies-markets/mi-material-opens-flat-s1-80-mainboard-debut",
+    "Watchlist|/companies-markets/mi-material-opens-flat-s1-80-mainboard-debut",
+    "AI|18c09935-847b-3554-b635-348eee1c7b40",
+    "SG Banks|/companies-markets/mainboard-newbie-mi-material-opens-flat-s1-80-early-trading",
+    "Watchlist|18c09935-847b-3554-b635-348eee1c7b40",
+    "Watchlist|/companies-markets/mainboard-newbie-mi-material-opens-flat-s1-80-early-trading",
+    "SG Banks|/companies-markets/philippines-will-defend-peso-hard-we-possibly-can-president",
+    "Watchlist|/companies-markets/philippines-will-defend-peso-hard-we-possibly-can-president"
   ],
   "topic_error": "",
   "last_digest": "2026-10-28",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793169648.71486,
+  "last_check": 1793170557.398389,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-27"
