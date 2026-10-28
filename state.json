@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-ultra-clean-technology-tops-q3-2026-estimates-93CH-4977089",
-    "Cybersecurity|https://www.investing.com/news/earnings/lpl-financial-earnings-beat-by-030-revenue-fell-short-of-estimates-4977091",
-    "Cybersecurity|https://www.investing.com/news/earnings/first-busey-earnings-missed-by-004-revenue-fell-short-of-estimates-4977090",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/bnp-paribas-exane-cuts-itron-stock-price-target-on-valuation-shift-93CH-4977092",
-    "Cybersecurity|https://www.investing.com/news/company-news/ribbon-q3-2026-slides-sequential-recovery-drives-profit-beat-93CH-4977067",
-    "Cybersecurity|https://www.investing.com/news/company-news/kyivstar-acquires-gigacloud-for-up-to-50-million-93CH-4977068",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-manhattan-associates-tops-q3-2026-forecasts-stock-jumps-93CH-4977072",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/goldman-sachs-cuts-innio-stock-price-target-on-raised-estimates-93CH-4977073",
     "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-nxp-beats-q3-2026-estimates-but-shares-fall-after-hours-93CH-4977074",
     "SG Banks|https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-035-4977075",
     "SG Banks|https://www.investing.com/news/stock-market-news/walmarts-margins-in-mexico-tighten-as-costs-outpace-sales-growth-4977085",
@@ -5000,7 +4992,15 @@
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-houlihan-lokey-tops-estimates-in-q2-2027-shares-slip-93CH-4981013",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-tmobile-beats-q3-2026-estimates-lifts-outlook-93CH-4981014",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-aware-narrows-q3-2026-loss-as-recurring-revenue-rises-93CH-4981015",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-everspin-posts-record-q3-2026-revenue-stock-falls-after-hours-93CH-4981016"
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-everspin-posts-record-q3-2026-revenue-stock-falls-after-hours-93CH-4981016",
+    "War|4b239c8a-28a2-3567-b4ba-782df3a9b2df",
+    "Watchlist|ce543c50-4d9b-3018-a7a8-1c640df1ccb1",
+    "AI|5c150256-e3be-3224-b3d8-3770e0379506",
+    "Watchlist|5c150256-e3be-3224-b3d8-3770e0379506",
+    "Crypto|3a1b99cc-0d74-3a0a-a626-404dbda7a685",
+    "AI|ddd4baf5-b6d3-3ae0-8650-05d80e0cef0e",
+    "Watchlist|ddd4baf5-b6d3-3ae0-8650-05d80e0cef0e",
+    "Cybersecurity|5ebdf6af-4324-3baf-aede-8eb7e2531156"
   ],
   "topic_error": "",
   "last_digest": "2026-10-28",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793223849.3770528,
+  "last_check": 1793224756.8591077,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-28"
