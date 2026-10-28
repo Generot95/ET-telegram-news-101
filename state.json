@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/paypal-raises-2026-profit-forecast-as-turnaround-gains-traction-4975016",
-    "AI|https://www.investing.com/news/stock-market-news/gsk-to-nearly-double-cancer-drug-trials-in-2027-as-deals-boost-pipeline--report-4975025",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-midcap-financial-investment-stock-surging-today-93CH-4975045",
-    "AI|https://www.investing.com/news/company-news/galaxy-digital-reports-q3-net-income-of-323-million-93CH-4975048",
-    "AI|https://www.investing.com/news/company-news/randy-rogers-band-to-play-new-venues-new-years-eve-show-93CH-4975051",
-    "AI|https://www.investing.com/news/company-news/transmedics-selects-gogo-connectivity-for-organ-transport-fleet-93CH-4975050",
-    "AI|https://www.investing.com/news/company-news/encore-energy-nears-permit-approval-for-south-texas-uranium-project-93CH-4975055",
-    "AI|https://www.investing.com/news/company-news/anfield-energy-receives-draft-license-for-utah-uranium-mill-93CH-4975054",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitget-wallet-adds-usd-eur-accounts-that-convert-deposits-into-stablecoins-4974963",
-    "Cybersecurity|https://www.investing.com/news/company-news/stereolabs-launches-zed-box-2-edge-ai-computers-for-robots-93CH-4975053",
-    "Cybersecurity|https://www.investing.com/news/company-news/sunpower-expands-in-texas-through-acquisition-and-partnership-93CH-4975052",
     "Cybersecurity|https://www.investing.com/news/company-news/athena-gold-announces-private-placement-to-raise-up-to-1-million-93CH-4975056",
     "Cybersecurity|https://www.investing.com/news/company-news/metatek-signs-aircraft-services-deal-with-bridger-aerospace-93CH-4975057",
     "Cybersecurity|https://www.investing.com/news/company-news/foremost-reports-uranium-drilling-results-at-saskatchewan-project-93CH-4975058",
@@ -5000,7 +4989,18 @@
     "AI|f284998e-e0cf-3a6e-8c03-192f94b4a0d1",
     "AI|b0e65ad2-42e4-3cee-8ca4-0974add73cc3",
     "AI|e40f47ce-d450-3874-9b5a-373f8363b535",
-    "Watchlist|0e9891f3-88b2-3275-9632-d7962bb5c578"
+    "Watchlist|0e9891f3-88b2-3275-9632-d7962bb5c578",
+    "AI|f94d0d80-c4b0-39f2-9db6-5cccb236f765",
+    "AI|52e8a846-1dd7-31cc-baa9-720c4edc2ff0",
+    "Watchlist|f94d0d80-c4b0-39f2-9db6-5cccb236f765",
+    "Watchlist|52e8a846-1dd7-31cc-baa9-720c4edc2ff0",
+    "Watchlist|13640f89-74b2-3c7c-9232-e0664f4695f9",
+    "War|2e937d70-c66d-3dd3-9457-65a4222fbe5a",
+    "AI|315dbfaa-dba6-3b0d-83d6-554b24301c31",
+    "Watchlist|315dbfaa-dba6-3b0d-83d6-554b24301c31",
+    "Crypto|6a24f68b-c746-32b7-8d68-85b342c393f2",
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitget-wallet-adds-usd-eur-accounts-that-convert-deposits-into-stablecoins-4974963",
+    "SG Banks|https://www.straitstimes.com/business/as-iran-war-drags-on-airlines-pull-back-on-fuel-hedges-and-warn-on-rising-fares"
   ],
   "topic_error": "",
   "last_digest": "2026-10-28",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793187116.341215,
+  "last_check": 1793188019.2900321,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-28"
