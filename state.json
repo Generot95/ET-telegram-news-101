@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/ferrovial-shares-climb-8-on-tennessee-concession-payment-details-93CH-4974843",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/citizens-reiterates-tko-group-stock-rating-on-strong-demand-outlook-93CH-4974844",
-    "Watchlist|https://www.investing.com/news/earnings/provident-financial-posts-mixed-q1-results-with-earnings-miss-93CH-4974845",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-sumitomo-chemical-india-misses-q2-2026-profit-view-93CH-4974846",
-    "Watchlist|https://www.investing.com/news/earnings/cms-energy-earnings-beat-by-021-revenue-topped-estimates-4974847",
-    "Watchlist|https://www.investing.com/news/stock-market-news/gm-to-transfer-stock-listing-to-nasdaq-4974848",
-    "Watchlist|https://www.investing.com/news/company-news/akamai-launches-ai-inference-and-agent-sandbox-products-93CH-4974850",
-    "Watchlist|https://www.investing.com/news/company-news/atrium-doses-first-patient-in-prkag2-syndrome-trial-93CH-4974851",
-    "SG Banks|/companies-markets/transport-logistics/byds-south-korea-expansion-challenges-hyundai-dominance-home-turf",
-    "SG Banks|/companies-markets/uncovering-the-singapore-bourse/hidden-value-why-sgx-consumer-stocks-deserve-closer-look",
     "SG Banks|/companies-markets/nasdaq-100-faces-renewed-selling-pressure-below-key-moving-averages",
     "SG Banks|/companies-markets/telcos-media-tech/ai-spending-fears-threaten-swamp-big-techs-strong-earnings",
     "SG Banks|/companies-markets/eqdp-puts-sgx-listings-back-radar-singapore-startups",
@@ -5000,7 +4990,17 @@
     "Watchlist|3f7cf18a-d025-356c-b4ff-bf57cb6d4333",
     "Watchlist|8267243b-366d-3702-b4fa-4076a43a2f4d",
     "Watchlist|5cf99fac-b81d-3d4e-b6fb-3c482509c7ba",
-    "Watchlist|/singapore/coe-review-motor-traders-suggest-using-vehicle-length-engine-size-and-power-classify-cars"
+    "Watchlist|/singapore/coe-review-motor-traders-suggest-using-vehicle-length-engine-size-and-power-classify-cars",
+    "AI|17ce5838-b914-34c2-ad67-f458fbd8906a",
+    "Crypto|39808ab3-55c0-3daa-82ed-51229cf59d30",
+    "Watchlist|17ce5838-b914-34c2-ad67-f458fbd8906a",
+    "SG Banks|https://www.straitstimes.com/business/doing-good-for-others-builds-long-term-success-says-temasek-chairman-as-sl25-winners-named",
+    "SG Banks|https://www.channelnewsasia.com/business/south-korea-media-commission-fines-google-and-apple-over-app-payment-systems-6499616",
+    "AI|239b8c4d-7062-3cfe-9fe2-590a71f7dc9d",
+    "SG Banks|https://www.straitstimes.com/business/unilever-flags-price-hikes-as-iran-war-costs-stack-up",
+    "Watchlist|239b8c4d-7062-3cfe-9fe2-590a71f7dc9d",
+    "Iran|https://www.iranintl.com/en/202610282816",
+    "Crypto|aa554b29-ce3a-3716-8a34-5d7ea6542dcc"
   ],
   "topic_error": "",
   "last_digest": "2026-10-28",
@@ -5081,8 +5081,8 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793184346.6056862,
+  "last_check": 1793185254.4118803,
   "last_board": "2026-10-27",
   "commands_version": 9,
-  "last_report": "2026-10-27"
+  "last_report": "2026-10-28"
 }
