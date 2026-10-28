@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/asia-chipmaking-ai-stocks-surge-on-anthropic-ipo-cheer-4974130",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/capital-city-bank-group-director-william-butler-buys-20019-in-stock-93CH-4974136",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/atlantic-union-bankshares-evp-linderman-sells-309840-in-common-stock-93CH-4974125",
-    "Watchlist|https://www.investing.com/news/stock-market-news/japans-gmo-internet-warns-users-of-impending-ransomware-attack-4974126",
-    "Watchlist|https://www.investing.com/news/stock-market-news/fire-sale--investingpro-for-less-than-8month-all-features-included-in-the-app-4974128",
-    "Watchlist|https://www.investing.com/news/economic-indicators/chinas-industrial-profit-growth-picks-up-amid-deepening-economic-divergence-4974129",
-    "Watchlist|https://www.investing.com/news/stock-market-news/asia-chipmaking-ai-stocks-surge-on-anthropic-ipo-cheer-4974130",
     "Watchlist|https://www.investing.com/news/insider-trading-news/capital-city-bank-group-director-william-butler-buys-20019-in-stock-93CH-4974136",
     "War|WP-MKTW-0005308221",
     "AI|WP-MKTW-0005308221",
@@ -5000,7 +4993,14 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/tpg-in-talks-to-buy-ark-data-centres-for-about-5-billion-ft-93CH-4977487",
     "Watchlist|https://www.investing.com/news/economy-news/ai-chips-worth-121-million-seized-at-malaysia-airport-customs-authority-says-4977488",
     "Watchlist|https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-003-4977489",
-    "Watchlist|https://www.investing.com/news/economy-news/malaysia-customs-seizes-1211-million-in-ai-chips-at-airport-93CH-4977493"
+    "Watchlist|https://www.investing.com/news/economy-news/malaysia-customs-seizes-1211-million-in-ai-chips-at-airport-93CH-4977493",
+    "War|eb16ddcb-0ea1-30c4-b763-a71b809078f5",
+    "AI|eb16ddcb-0ea1-30c4-b763-a71b809078f5",
+    "SG Banks|/companies-markets/energy-commodities/energy-market-authority-awards-s14-9-million-grants-strengthen-power-grid",
+    "Watchlist|eb16ddcb-0ea1-30c4-b763-a71b809078f5",
+    "Watchlist|/companies-markets/energy-commodities/energy-market-authority-awards-s14-9-million-grants-strengthen-power-grid",
+    "AI|36147336-cd45-3ccd-b77f-4b9233fc7a47",
+    "Watchlist|36147336-cd45-3ccd-b77f-4b9233fc7a47"
   ],
   "topic_error": "",
   "last_digest": "2026-10-28",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793165978.7124023,
+  "last_check": 1793166892.864552,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-27"
