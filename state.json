@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/earnings/novartis-adr-earnings-beat-by-018-revenue-fell-short-of-estimates-4974261",
-    "SG Banks|https://www.investing.com/news/earnings/porsche-keeps-2026-outlook-as-q3-profit-rebounds-deliveries-fall-16-4974262",
-    "SG Banks|https://www.investing.com/news/stock-market-news/inficon-raises-fullyear-guidance-as-semiconductor-demand-drives-record-sales-4974264",
-    "SG Banks|https://www.investing.com/news/stock-market-news/porsche-profit-rebounds-in-ninemonth-period-after-restructuring-costs-4974263",
-    "SG Banks|https://www.investing.com/news/earnings/shinetsu-chemicals-firsthalf-profit-rises-11-on-ai-chip-demand-4974268",
-    "Watchlist|https://www.investing.com/news/stock-market-news/pharming-q3-operating-profit-jumps-89-narrows-2026-revenue-outlook-93CH-4974253",
     "Watchlist|https://www.investing.com/news/stock-market-news/citi-bca-downgrade-brazilian-assets-after-lula-comeback-4974254",
     "Watchlist|https://www.investing.com/news/economy-news/japans-trend-inflation-index-hits-3year-high-cements-case-for-boj-rate-hike-4974255",
     "Watchlist|https://www.investing.com/news/earnings/novartis-adr-earnings-beat-by-018-revenue-fell-short-of-estimates-4974261",
@@ -5000,7 +4994,13 @@
     "Watchlist|https://www.investing.com/news/analyst-ratings/jpmorgan-cuts-innio-stock-price-target-on-peer-valuations-93CH-4977614",
     "Iran|https://www.iranintl.com/en/202610252197",
     "SG Banks|b12d0e92-11ff-3cad-a80b-8107aad3cd8b",
-    "Watchlist|c0cacb59-18b1-36da-b988-6da45748a4a4"
+    "Watchlist|c0cacb59-18b1-36da-b988-6da45748a4a4",
+    "War|8da76900-9743-339f-a48b-a1d00babc8ed",
+    "Crypto|b5c4292e-1194-3fb8-acf1-7d3222710a29",
+    "Crypto|f824e40e-1138-3217-8e2f-0c8350845474",
+    "SG Banks|/companies-markets/singapore-payments-network-appoints-ceo-board",
+    "Watchlist|/companies-markets/singapore-payments-network-appoints-ceo-board",
+    "SG Banks|https://www.straitstimes.com/business/half-blind-delivery-rider-loses-bid-for-500-monthly-maintenance-from-ex-wife-after-divorce"
   ],
   "topic_error": "",
   "last_digest": "2026-10-28",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793173311.437534,
+  "last_check": 1793174250.4748542,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-27"
