@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|/companies-markets/energy-commodities/gold-eases-stronger-us-dollar-weighs-fed-meeting-focus",
-    "Watchlist|/companies-markets/first-sponsor-posts-14-8-rise-europe-portfolios-q3-operating-income",
-    "SG Banks|/companies-markets/chinese-government-speed-bond-sales-stimulate-growth",
-    "SG Banks|https://www.channelnewsasia.com/business/stanchart-third-quarter-profit-surges-27-lifts-income-target-6498871",
-    "Watchlist|/companies-markets/chinese-government-speed-bond-sales-stimulate-growth",
-    "SG Banks|/companies-markets/singpost-streamline-eu-bound-shipments-under-new-customs-rules-nov-1",
-    "Watchlist|/companies-markets/singpost-streamline-eu-bound-shipments-under-new-customs-rules-nov-1",
-    "SG Banks|/international/global/ambani-looks-defy-gravity-jio-debuts-after-record-ipo",
-    "Watchlist|/international/global/ambani-looks-defy-gravity-jio-debuts-after-record-ipo",
-    "AI|209da77e-5c5e-3f94-9f86-3c8a858e956a",
-    "AI|https://www.investing.com/news/earnings/mainstreet-earnings-missed-by-015-revenue-topped-estimates-4977444",
-    "AI|https://www.investing.com/news/company-news/landstar-q3-2026-slides-revenue-surges-25-insurance-costs-weigh-93CH-4977445",
     "AI|https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-29923-in-ellsworth-growth-fund-93CH-4977446",
     "AI|https://www.investing.com/news/insider-trading-news/northpointe-bancshares-coo-joseph-long-buys-49799-in-stock-93CH-4977448",
     "AI|https://www.investing.com/news/insider-trading-news/northpointe-bancshares-director-carrie-boer-buys-184761-in-stock-93CH-4977447",
@@ -5000,7 +4988,19 @@
     "Watchlist|https://www.investing.com/news/company-news/samsung-q3-2026-slides-first-tech-firm-to-top-100t-won-profit-93CH-4981381",
     "Watchlist|https://www.investing.com/news/stock-market-news/cash-is-king-as-investors-draw-new-battle-lines-in-ai-spending-boom-4981382",
     "Iran|https://www.iranintl.com/en/202610243567",
-    "Watchlist|d21f4a9d-5c0b-38db-b8e3-d014b9725cc9"
+    "Watchlist|d21f4a9d-5c0b-38db-b8e3-d014b9725cc9",
+    "AI|d21f4a9d-5c0b-38db-b8e3-d014b9725cc9",
+    "SG Banks|/companies-markets/energy-commodities/gold-eases-stronger-us-dollar-weighs-fed-meeting-focus",
+    "SG Banks|/companies-markets/first-sponsor-posts-14-8-rise-europe-portfolios-q3-operating-income",
+    "SG Banks|/companies-markets/chinese-government-speed-bond-sales-stimulate-growth",
+    "Watchlist|/companies-markets/energy-commodities/gold-eases-stronger-us-dollar-weighs-fed-meeting-focus",
+    "Watchlist|/companies-markets/first-sponsor-posts-14-8-rise-europe-portfolios-q3-operating-income",
+    "SG Banks|/companies-markets/singpost-streamline-eu-bound-shipments-under-new-customs-rules-nov-1",
+    "Watchlist|/companies-markets/chinese-government-speed-bond-sales-stimulate-growth",
+    "Watchlist|/companies-markets/singpost-streamline-eu-bound-shipments-under-new-customs-rules-nov-1",
+    "AI|5930cb5b-4c01-3f95-a6fc-1ecb9d8692e4",
+    "SG Banks|https://www.channelnewsasia.com/business/vietnam-sets-minimum-state-ownership-major-banks-65-6502101",
+    "Watchlist|5930cb5b-4c01-3f95-a6fc-1ecb9d8692e4"
   ],
   "topic_error": "",
   "last_digest": "2026-10-29",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793242177.1656613,
+  "last_check": 1793243074.4193473,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-28"
