@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/exclusiverio-tinto-proposes-56-pay-jump-for-ceo-as-mining-sector-fights-for-talent-4977483",
-    "AI|c2203f36-fa56-300c-be6c-9c4b8cf03c2f",
-    "SG Banks|/companies-markets/capital-markets-currencies/asian-stocks-surge-anthropic-ipo-lifts-sentiment-ahead-earnings-central-banks",
-    "SG Banks|https://www.straitstimes.com/business/asian-stocks-surge-as-anthropic-ipo-lifts-sentiment-ahead-of-earnings-central-banks",
-    "SG Banks|https://www.straitstimes.com/business/asean-labour-statistician-network-launched-ahead-of-singapores-2027-chairmanship",
-    "Watchlist|/companies-markets/capital-markets-currencies/asian-stocks-surge-anthropic-ipo-lifts-sentiment-ahead-earnings-central-banks",
-    "SG Banks|https://www.channelnewsasia.com/business/stanchart-lifts-full-year-targets-after-quarterly-profit-trounces-forecasts-6498871",
     "AI|bbe3b418-12cf-3e4b-a68b-d035025eb5a2",
     "Watchlist|bbe3b418-12cf-3e4b-a68b-d035025eb5a2",
     "AI|307d07d6-c9c6-3e23-92c5-c53bff12123d",
@@ -5000,7 +4993,14 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/beacon-financial-director-eric-rosengren-purchases-21168-in-stock-93CH-4981439",
     "Watchlist|https://www.investing.com/news/insider-trading-news/live-oak-bancshares-general-counsel-gregory-seward-sells-176550-in-stock-93CH-4981440",
     "Watchlist|https://www.investing.com/news/stock-market-news/asia-stocks-fall-as-alphabet-samsung-results-disappoint-more-tech-earnings-loom-4981441",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/liberty-energy-director-ken-babcock-buys-223300-of-company-stock-93CH-4981442"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/liberty-energy-director-ken-babcock-buys-223300-of-company-stock-93CH-4981442",
+    "War|68431ceb-1228-3b8e-a85c-9526b9f4be40",
+    "War|11ae6265-bb9b-3a7d-9225-33de135ab6d1",
+    "SG Banks|https://www.channelnewsasia.com/business/samsung-sees-chip-shortage-worsening-keeps-investors-in-suspense-returns-6501761",
+    "SG Banks|/companies-markets/capital-markets-currencies/asian-stocks-surge-anthropic-ipo-lifts-sentiment-ahead-earnings-central-banks",
+    "AI|be2c24b7-8b7f-34da-bf74-0d59ec911dd1",
+    "Watchlist|be2c24b7-8b7f-34da-bf74-0d59ec911dd1",
+    "Watchlist|/companies-markets/capital-markets-currencies/asian-stocks-surge-anthropic-ipo-lifts-sentiment-ahead-earnings-central-banks"
   ],
   "topic_error": "",
   "last_digest": "2026-10-29",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793246746.6797767,
+  "last_check": 1793247657.494035,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-28"
