@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|57c13068-449f-35f2-b9af-bab3f6064597",
-    "Iran|https://www.iranintl.com/en/202610235803",
-    "War|a1b2395e-215f-4251-9c1d-84daff850c91",
-    "War|6e2a53e7-83a0-3968-8357-11963b9ec6c1",
-    "SG Banks|/companies-markets/telcos-media-tech/sk-hynix-posts-7-fold-jump-q3-profit-unveils-shareholder-return-plan-worth-us75-billion",
-    "Watchlist|/companies-markets/telcos-media-tech/sk-hynix-posts-7-fold-jump-q3-profit-unveils-shareholder-return-plan-worth-us75-billion",
     "AI|181451ec-6fd0-3c14-a2ae-fb8688bb8661",
     "Watchlist|181451ec-6fd0-3c14-a2ae-fb8688bb8661",
     "Crypto|11f4ba5e-bbd8-3269-9ed0-8d38fee8aef9",
@@ -5000,10 +4994,16 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/dexcom-evp-sadie-stern-sells-201660-in-shares-93CH-4981203",
     "Watchlist|https://www.investing.com/news/insider-trading-news/fastly-ceo-charles-compton-sells-223346-in-company-stock-93CH-4981204",
     "Watchlist|https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-4652-of-ellsworth-growth--income-fund-93CH-4981205",
-    "Watchlist|https://www.investing.com/news/economy-news/feds-warsh-announces-changes-in-how-future-fomc-meetings-will-go-4980835"
+    "Watchlist|https://www.investing.com/news/economy-news/feds-warsh-announces-changes-in-how-future-fomc-meetings-will-go-4980835",
+    "War|b6f4d703-0723-423c-ba9d-5f0989cb3f57",
+    "SG Banks|57c13068-449f-35f2-b9af-bab3f6064597",
+    "Iran|https://www.iranintl.com/en/202610235803",
+    "AI|2bb88293-3775-3ae8-a9e2-e112dfb28c8a",
+    "Watchlist|2bb88293-3775-3ae8-a9e2-e112dfb28c8a",
+    "SG Banks|https://www.straitstimes.com/business/alphabet-shares-fall-after-revenue-miss-cash-burn-worsens"
   ],
   "topic_error": "",
-  "last_digest": "2026-10-28",
+  "last_digest": "2026-10-29",
   "earnings": {
     "AMD": {
       "ts": 1793736000,
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793231180.467955,
+  "last_check": 1793232080.999274,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-28"
