@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/earnings/gsk-beats-q3-profit-estimates-on-specialty-medicines-strength-4977620",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/piper-sandler-downgrades-f5-networks-stock-rating-on-valuation-93CH-4977621",
-    "SG Banks|https://www.investing.com/news/earnings/remy-cointreau-sales-beat-estimates-on-cognac-strength-4977627",
-    "SG Banks|https://www.investing.com/news/earnings/unilever-tops-q3-sales-forecasts-on-strong-volume-emerging-markets-growth-4977633",
-    "SG Banks|https://www.investing.com/news/stock-market-news/elementis-sees-strong-third-quarter-growth-raises-guidance-93CH-4977634",
-    "SG Banks|https://www.investing.com/news/earnings/ssab-posts-6-ebitda-beat-as-as-higher-steel-prices-offset-maintenance-costs-4977637",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-pt-indosat-tbk-q3-2026-shares-fall-on-heavy-spending-93CH-4977638",
-    "SG Banks|https://www.investing.com/news/stock-market-news/dove-maker-unilever-beats-quarterly-sales-estimates-onstrong-demand-pricing-4977601",
-    "Watchlist|e25e22d7-2d6a-32a2-ad99-9bdfab39873b",
-    "Watchlist|https://www.investing.com/news/earnings/gsk-beats-q3-profit-estimates-on-specialty-medicines-strength-4977620",
     "Watchlist|https://www.investing.com/news/analyst-ratings/piper-sandler-downgrades-f5-networks-stock-rating-on-valuation-93CH-4977621",
     "Watchlist|https://www.investing.com/news/earnings/remy-cointreau-sales-beat-estimates-on-cognac-strength-4977627",
     "Watchlist|https://www.investing.com/news/earnings/unilever-tops-q3-sales-forecasts-on-strong-volume-emerging-markets-growth-4977633",
@@ -5000,7 +4990,17 @@
     "SG Banks|/companies-markets/singapore-payments-network-appoints-ceo-board",
     "SG Banks|https://www.straitstimes.com/business/half-blind-delivery-rider-loses-bid-for-500-monthly-maintenance-from-ex-wife-after-divorce",
     "Watchlist|c0cacb59-18b1-36da-b988-6da45748a4a4",
-    "Watchlist|/companies-markets/singapore-payments-network-appoints-ceo-board"
+    "Watchlist|/companies-markets/singapore-payments-network-appoints-ceo-board",
+    "SG Banks|/companies-markets/singtels-ncs-more-triple-ai-specialist-workforce-over-300-two-years",
+    "Watchlist|/companies-markets/singtels-ncs-more-triple-ai-specialist-workforce-over-300-two-years",
+    "AI|089bef39-f80b-352f-b82b-2163eb691b26",
+    "AI|55963e5d-9d0d-3045-b555-4f9a5c8a72a4",
+    "Crypto|089bef39-f80b-352f-b82b-2163eb691b26",
+    "Watchlist|55963e5d-9d0d-3045-b555-4f9a5c8a72a4",
+    "Watchlist|089bef39-f80b-352f-b82b-2163eb691b26",
+    "War|820b5d39-b4fe-3c90-815d-1d1cd97c793f",
+    "Watchlist|28c8cf7b-82cc-355f-acf1-8032270e28e0",
+    "SG Banks|https://www.channelnewsasia.com/business/stmicro-nearly-doubles-quarterly-profit-sees-q4-sales-exceeding-4-billion-6502626"
   ],
   "topic_error": "",
   "last_digest": "2026-10-29",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793257749.4674447,
+  "last_check": 1793258671.3713691,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-28"
