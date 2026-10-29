@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "War|97b4e8c0-f8f1-3e52-b821-3fafe906752a",
-    "AI|https://www.investing.com/news/company-news/saluda-medical-q1-fy27-slides-patient-growth-surges-despite-revenue-miss-93CH-4981366",
-    "AI|https://www.investing.com/news/economy-news/asian-shares-fall-as-alphabet-earnings-miss-drags-wall-st-futures-lower-4981378",
-    "AI|https://www.investing.com/news/company-news/renesas-q3-2026-slides-revenue-beats-shares-fall-on-margin-outlook-93CH-4981379",
-    "AI|https://www.investing.com/news/stock-market-news/deepseek-moonshot-used-openaisgpt6-astra-to-train-latest-models-the-information-reports-4981380",
-    "AI|https://www.investing.com/news/company-news/samsung-q3-2026-slides-first-tech-firm-to-top-100t-won-profit-93CH-4981381",
-    "AI|https://www.investing.com/news/stock-market-news/cash-is-king-as-investors-draw-new-battle-lines-in-ai-spending-boom-4981382",
-    "Cybersecurity|https://www.investing.com/news/company-news/saluda-medical-q1-fy27-slides-patient-growth-surges-despite-revenue-miss-93CH-4981366",
-    "Cybersecurity|https://www.investing.com/news/economy-news/asian-shares-fall-as-alphabet-earnings-miss-drags-wall-st-futures-lower-4981378",
     "Cybersecurity|https://www.investing.com/news/company-news/renesas-q3-2026-slides-revenue-beats-shares-fall-on-margin-outlook-93CH-4981379",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/deepseek-moonshot-used-openaisgpt6-astra-to-train-latest-models-the-information-reports-4981380",
     "Cybersecurity|https://www.investing.com/news/company-news/samsung-q3-2026-slides-first-tech-firm-to-top-100t-won-profit-93CH-4981381",
@@ -5000,7 +4991,16 @@
     "SG Banks|/companies-markets/capital-markets-currencies/asian-stocks-advance-ai-rally-returns-ahead-big-tech-earnings-fed-decision",
     "Watchlist|/companies-markets/capital-markets-currencies/asian-stocks-advance-ai-rally-returns-ahead-big-tech-earnings-fed-decision",
     "Watchlist|/companies-markets/banking-finance/australian-inflation-runs-hot-q3-cements-case-imminent-rate-rise",
-    "Iran|https://www.iranintl.com/en/202610280475"
+    "Iran|https://www.iranintl.com/en/202610280475",
+    "Crypto|e7cddc9b-7360-3ca6-9c86-20ff7def3b63",
+    "War|d249f49f-04f8-3e12-8dcc-060bbf55a1c7",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/suspected-billion-dollar-binance-hack-sends-fear-through-crypto",
+    "Cybersecurity|f94a5d38-2f77-38b1-8cb4-71b7a66dff3f",
+    "Watchlist|f94a5d38-2f77-38b1-8cb4-71b7a66dff3f",
+    "SG Banks|https://www.straitstimes.com/business/amazon-slides-on-light-q4-sales-estimates-high-cash-burn",
+    "Watchlist|ba2f75dc-c6ba-32a6-8930-f8833eb74157",
+    "AI|ba2f75dc-c6ba-32a6-8930-f8833eb74157",
+    "Crypto|266f3713-8d89-34f0-b273-ff7eea15233a"
   ],
   "topic_error": "",
   "last_digest": "2026-10-29",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793316512.1981611,
+  "last_check": 1793317416.6222057,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-29"
