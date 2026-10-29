@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-29923-in-ellsworth-growth-fund-93CH-4977446",
-    "AI|https://www.investing.com/news/insider-trading-news/northpointe-bancshares-coo-joseph-long-buys-49799-in-stock-93CH-4977448",
-    "AI|https://www.investing.com/news/insider-trading-news/northpointe-bancshares-director-carrie-boer-buys-184761-in-stock-93CH-4977447",
-    "AI|https://www.investing.com/news/earnings/nov-earnings-missed-revenue-topped-estimates-4977449",
-    "AI|https://www.investing.com/news/earnings/cocacola-femsa-adr-earnings-missed-by-mex109-revenue-topped-estimates-4977450",
-    "AI|https://www.investing.com/news/stock-market-news/stanchart-thirdquarter-profit-surges-27-lifts-income-target-4977451",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-canon-stock-sliding-today-93CH-4977452",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-shinetsu-chemical-stock-rallying-today-93CH-4977453",
-    "Cybersecurity|https://www.investing.com/news/earnings/mainstreet-earnings-missed-by-015-revenue-topped-estimates-4977444",
-    "Cybersecurity|https://www.investing.com/news/company-news/landstar-q3-2026-slides-revenue-surges-25-insurance-costs-weigh-93CH-4977445",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-29923-in-ellsworth-growth-fund-93CH-4977446",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/northpointe-bancshares-coo-joseph-long-buys-49799-in-stock-93CH-4977448",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/northpointe-bancshares-director-carrie-boer-buys-184761-in-stock-93CH-4977447",
     "Cybersecurity|https://www.investing.com/news/earnings/nov-earnings-missed-revenue-topped-estimates-4977449",
     "Cybersecurity|https://www.investing.com/news/earnings/cocacola-femsa-adr-earnings-missed-by-mex109-revenue-topped-estimates-4977450",
@@ -5000,7 +4988,19 @@
     "Watchlist|/companies-markets/singpost-streamline-eu-bound-shipments-under-new-customs-rules-nov-1",
     "AI|5930cb5b-4c01-3f95-a6fc-1ecb9d8692e4",
     "SG Banks|https://www.channelnewsasia.com/business/vietnam-sets-minimum-state-ownership-major-banks-65-6502101",
-    "Watchlist|5930cb5b-4c01-3f95-a6fc-1ecb9d8692e4"
+    "Watchlist|5930cb5b-4c01-3f95-a6fc-1ecb9d8692e4",
+    "War|eb41d799-38dc-3747-bc23-54bcb28c4be6",
+    "AI|d1032521-5710-3e20-ba52-7158a8fcaf79",
+    "Watchlist|d1032521-5710-3e20-ba52-7158a8fcaf79",
+    "AI|db5545c5-9e45-3441-92ca-e449a0e577b5",
+    "Watchlist|db5545c5-9e45-3441-92ca-e449a0e577b5",
+    "AI|f9ef2461-ff58-36ff-8dc1-644185e0d54e",
+    "Crypto|d2c76e1f-20d1-3b6f-abfa-a031f4f95774",
+    "Watchlist|f9ef2461-ff58-36ff-8dc1-644185e0d54e",
+    "SG Banks|https://www.straitstimes.com/business/banking/dbs-says-no-truth-to-rumour-that-it-will-merge-with-major-indonesian-bank-bca",
+    "SG Banks|https://www.channelnewsasia.com/business/japans-industry-ministry-siemens-energy-partner-floating-offshore-wind-project-6502181",
+    "Cybersecurity|76874a50-c36e-3787-950c-c4f70d59998f",
+    "SG Banks|https://www.straitstimes.com/business/asian-shares-fall-as-alphabet-earnings-miss-drags-wall-st-futures-lower"
   ],
   "topic_error": "",
   "last_digest": "2026-10-29",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793243074.4193473,
+  "last_check": 1793244005.748075,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-28"
