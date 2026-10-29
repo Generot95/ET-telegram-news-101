@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/analyst-ratings/jpmorgan-downgrades-xylem-stock-rating-on-guidance-cut-slower-orders-93CH-4977546",
-    "Watchlist|https://www.investing.com/news/earnings/basf-raises-2026-outlook-after-beating-third-quarter-estimates-4977548",
-    "Watchlist|https://www.investing.com/news/earnings/dassault-systemes-raises-2026-outlook-as-revenue-growth-rebound-gathers-pace-4977549",
-    "Watchlist|https://www.investing.com/news/earnings/japans-advantest-raises-fy-earnings-outlook-as-ai-demand-drives-profit-surge-4977553",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/wpp-stock-price-target-raised-to-410-by-bernstein-on-tracker-93CH-4977554",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-hd-korea-shipbuilding-posts-mixed-q3-2026-results-as-stock-falls-93CH-4977555",
     "Watchlist|https://www.investing.com/news/earnings/dws-q3-profit-misses-forecasts-net-inflows-hit-record-309-bln-4977556",
     "Watchlist|https://www.investing.com/news/earnings/melexis-posts-inline-q3-results-maintains-h2-guidance-4977559",
@@ -5000,7 +4995,12 @@
     "Watchlist|/companies-markets/samsung-sees-ai-chip-shortage-worsening-keeps-investors-suspense-returns",
     "AI|fc0f2d48-34b5-31d5-b611-4d1fee51d692",
     "Watchlist|fc0f2d48-34b5-31d5-b611-4d1fee51d692",
-    "Crypto|3d3c4948-d715-3961-9efd-f83727b44cd4"
+    "Crypto|3d3c4948-d715-3961-9efd-f83727b44cd4",
+    "War|763cc806-dc3d-355a-bcc3-8ddf98bcad26",
+    "SG Banks|/companies-markets/singapores-easy-wins-attracting-global-capital-are-over-say-panellists",
+    "Watchlist|/companies-markets/singapores-easy-wins-attracting-global-capital-are-over-say-panellists",
+    "Watchlist|ffef6922-b4ac-3b64-b89a-93bd1eca97b1",
+    "AI|ffef6922-b4ac-3b64-b89a-93bd1eca97b1"
   ],
   "topic_error": "",
   "last_digest": "2026-10-29",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793254092.173639,
+  "last_check": 1793255008.698806,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-28"
