@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|63b30320-e9b8-397e-a15d-e6970af3cd98",
-    "AI|https://www.investing.com/news/stock-market-news/67-48-39-our-ai-called-these-bluechip-breakouts-and-still-holds-them-4977394",
-    "AI|https://www.investing.com/news/economy-news/israel-elections-exit-polls-show-netanyahu-eisenkot-deadlocked-with-no-majority-4977398",
-    "AI|https://www.investing.com/news/insider-trading-news/nuveen-municipal-credit-opportunities-fund-trustee-robert-young-l-buys-248882-in-stock-93CH-4977399",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4977400",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/67-48-39-our-ai-called-these-bluechip-breakouts-and-still-holds-them-4977394",
-    "Cybersecurity|https://www.investing.com/news/economy-news/israel-elections-exit-polls-show-netanyahu-eisenkot-deadlocked-with-no-majority-4977398",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/nuveen-municipal-credit-opportunities-fund-trustee-robert-young-l-buys-248882-in-stock-93CH-4977399",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4977400",
-    "SG Banks|https://www.investing.com/news/stock-market-news/67-48-39-our-ai-called-these-bluechip-breakouts-and-still-holds-them-4977394",
-    "SG Banks|https://www.investing.com/news/economy-news/israel-elections-exit-polls-show-netanyahu-eisenkot-deadlocked-with-no-majority-4977398",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/nuveen-municipal-credit-opportunities-fund-trustee-robert-young-l-buys-248882-in-stock-93CH-4977399",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4977400",
     "Watchlist|https://www.investing.com/news/stock-market-news/67-48-39-our-ai-called-these-bluechip-breakouts-and-still-holds-them-4977394",
     "Watchlist|https://www.investing.com/news/economy-news/israel-elections-exit-polls-show-netanyahu-eisenkot-deadlocked-with-no-majority-4977398",
@@ -5000,7 +4988,19 @@
     "Cybersecurity|f96aa4df-c08e-3880-a68e-f60ff9e42713",
     "Watchlist|7899ca7a-649b-3167-943d-42271caf5e0b",
     "Watchlist|f96aa4df-c08e-3880-a68e-f60ff9e42713",
-    "Watchlist|6e4132b0-d161-336b-8df9-08984c84ca07"
+    "Watchlist|6e4132b0-d161-336b-8df9-08984c84ca07",
+    "War|39a2a2ea-5d69-34c0-83e6-390329c5b0d6",
+    "AI|804b4bfe-4c86-3462-9761-ea32fce6cd3b",
+    "SG Banks|/companies-markets/ultragreen-ai-shares-down-9-7-after-guiding-lower-fy2026-revenue",
+    "Watchlist|804b4bfe-4c86-3462-9761-ea32fce6cd3b",
+    "Watchlist|/companies-markets/ultragreen-ai-shares-down-9-7-after-guiding-lower-fy2026-revenue",
+    "AI|6f03ffc5-01d3-3952-aef7-c0316f4ba48d",
+    "Watchlist|6f03ffc5-01d3-3952-aef7-c0316f4ba48d",
+    "AI|https://www.investing.com/news/insider-trading-news/consumers-bancorp-svp-derek-williams-buys-3171-in-stock-93CH-4981318",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/consumers-bancorp-svp-derek-williams-buys-3171-in-stock-93CH-4981318",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/consumers-bancorp-svp-derek-williams-buys-3171-in-stock-93CH-4981318",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/consumers-bancorp-svp-derek-williams-buys-3171-in-stock-93CH-4981318",
+    "SG Banks|https://www.straitstimes.com/business/samsung-posts-record-profit-in-q3-on-ai-chip-boom"
   ],
   "topic_error": "",
   "last_digest": "2026-10-29",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793237602.3203616,
+  "last_check": 1793238497.0639951,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-28"
