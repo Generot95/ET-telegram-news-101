@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-satin-creditcare-posts-strong-h1-fy27-recovery-93CH-4981574",
-    "Watchlist|https://www.investing.com/news/earnings/stmicroelectronics-forecasts-higher-q4-revenue-on-ai-chip-demand-4981576",
-    "Iran|https://www.iranintl.com/en/202610242914",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-dips-below-80k-as-strategy-pauses-buying-fed-caution-weighs-4974244",
-    "AI|e9c0d53f-7e26-3eda-ab22-3a56a08a495e",
     "Watchlist|e9c0d53f-7e26-3eda-ab22-3a56a08a495e",
     "AI|f9ae5e12-12a6-3c44-9f34-70c3a14e6f34",
     "Watchlist|f9ae5e12-12a6-3c44-9f34-70c3a14e6f34",
@@ -5000,7 +4995,12 @@
     "SG Banks|https://www.investing.com/news/economy-news/analysts-react-as-binance-freezes-assets-after-63-billion-security-breach-4985760",
     "Watchlist|https://www.investing.com/news/press-releases/alfieholdingslimited-announces-renewed-focus-on-responsible-ai-and-transparent-financial-data-analysis-4985757",
     "Watchlist|https://www.investing.com/news/stock-market-news/asia-stocks-tumble-as-ai-spending-concerns-deepen-boj-holds-rates-4985759",
-    "Watchlist|https://www.investing.com/news/economy-news/analysts-react-as-binance-freezes-assets-after-63-billion-security-breach-4985760"
+    "Watchlist|https://www.investing.com/news/economy-news/analysts-react-as-binance-freezes-assets-after-63-billion-security-breach-4985760",
+    "AI|e51aaede-2aa3-37b4-a6b7-ed63638517ca",
+    "Watchlist|e51aaede-2aa3-37b4-a6b7-ed63638517ca",
+    "SG Banks|https://www.channelnewsasia.com/business/boj-keeps-rates-steady-declares-victory-in-hitting-price-target-6504991",
+    "SG Banks|https://www.channelnewsasia.com/business/yen-gains-after-boj-ai-jitters-drive-treasury-rally-weigh-dollar-6505611",
+    "SG Banks|https://www.channelnewsasia.com/business/boj-keeps-rates-steady-declares-victory-in-hitting-price-target-6505836"
   ],
   "topic_error": "",
   "last_digest": "2026-10-30",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793332107.9218407,
+  "last_check": 1793333032.9741075,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-29"
