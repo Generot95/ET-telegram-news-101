@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/analyst-ratings/canaccord-reiterates-alphabet-stock-rating-on-cloud-strength-93CH-4981947",
-    "AI|https://www.investing.com/news/earnings/st-jamess-place-shares-down-as-q3-net-inflows-slump-4981950",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-lumentum-stock-surging-today-93CH-4981951",
     "AI|https://www.investing.com/news/stock-market-news/why-is-marvell-technology-stock-tumbling-today-93CH-4981952",
     "AI|https://www.investing.com/news/stock-market-news/why-is-air-liquide-stock-rallying-today-93CH-4981895",
     "AI|https://www.investing.com/news/stock-market-news/why-is-dbv-technologies-stock-sliding-today-93CH-4981924",
@@ -5000,7 +4997,10 @@
     "AI|WP-MKTW-0003986044",
     "AI|WP-MKTW-0004302286",
     "SG Banks|/companies-markets/analysts-cut-target-price-wilmar-amid-regulatory-overhang-higher-raw-material-costs",
-    "Watchlist|/companies-markets/analysts-cut-target-price-wilmar-amid-regulatory-overhang-higher-raw-material-costs"
+    "Watchlist|/companies-markets/analysts-cut-target-price-wilmar-amid-regulatory-overhang-higher-raw-material-costs",
+    "SG Banks|https://www.channelnewsasia.com/business/panasonics-battery-unit-posts-higher-q2-operating-profit-lifts-forecast-6506256",
+    "Crypto|7cd6cf92-78fc-3777-af28-f3482b2f459d",
+    "SG Banks|https://www.channelnewsasia.com/business/yen-has-brief-gain-after-boj-while-ai-jitters-weigh-dollar-6505611"
   ],
   "topic_error": "",
   "last_digest": "2026-10-30",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793345868.6043656,
+  "last_check": 1793346779.6810555,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-29"
