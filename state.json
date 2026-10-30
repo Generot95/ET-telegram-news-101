@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|db5545c5-9e45-3441-92ca-e449a0e577b5",
-    "AI|f9ef2461-ff58-36ff-8dc1-644185e0d54e",
-    "Crypto|d2c76e1f-20d1-3b6f-abfa-a031f4f95774",
-    "Watchlist|f9ef2461-ff58-36ff-8dc1-644185e0d54e",
-    "SG Banks|https://www.straitstimes.com/business/banking/dbs-says-no-truth-to-rumour-that-it-will-merge-with-major-indonesian-bank-bca",
-    "SG Banks|https://www.channelnewsasia.com/business/japans-industry-ministry-siemens-energy-partner-floating-offshore-wind-project-6502181",
-    "Cybersecurity|76874a50-c36e-3787-950c-c4f70d59998f",
-    "SG Banks|https://www.straitstimes.com/business/asian-shares-fall-as-alphabet-earnings-miss-drags-wall-st-futures-lower",
-    "AI|a718605a-e869-36a2-a380-ee4978c534c4",
-    "Watchlist|a718605a-e869-36a2-a380-ee4978c534c4",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-alphabet-stock-plunging-afterhours-today-93CH-4981395",
     "AI|https://www.investing.com/news/stock-market-news/why-is-nomura-stock-climbing-today-93CH-4981396",
     "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-sk-innovation-q3-2026-profit-jumps-shares-fall-67-93CH-4981397",
     "AI|https://www.investing.com/news/insider-trading-news/worthington-steel-ceo-americas-buys-31492-in-shares-93CH-4981403",
@@ -5000,10 +4989,21 @@
     "War|WP-MKTW-0005316826",
     "AI|WP-MKTW-0005316826",
     "Cybersecurity|WP-MKTW-0005316826",
-    "Watchlist|/companies-markets/singpost-streamline-eu-bound-shipments-under-new-customs-rules-nov-1"
+    "Watchlist|/companies-markets/singpost-streamline-eu-bound-shipments-under-new-customs-rules-nov-1",
+    "Watchlist|443a6c18-a8ff-3744-bb5c-d8e867c2e8f7",
+    "AI|dcadeca5-c1fd-3f82-91c3-387891744a8a",
+    "Watchlist|3c2985d9-2d99-31c7-9efa-947e4b9d58ed",
+    "Watchlist|5cf92f30-358d-375b-92cc-af716ab6392a",
+    "Watchlist|dcadeca5-c1fd-3f82-91c3-387891744a8a",
+    "Crypto|23cae00b-22b2-321e-a258-78882429d9ca",
+    "SG Banks|https://www.straitstimes.com/business/banking/dbs-says-no-truth-to-rumour-that-it-will-merge-with-major-indonesian-bank-bca",
+    "SG Banks|/companies-markets/mpact-q2-dpu-falls-3-5-s0-0194-weaker-overseas-contributions",
+    "Watchlist|/companies-markets/mpact-q2-dpu-falls-3-5-s0-0194-weaker-overseas-contributions",
+    "SG Banks|https://www.straitstimes.com/business/asian-shares-fall-as-alphabet-earnings-miss-drags-wall-st-futures-lower",
+    "SG Banks|https://www.channelnewsasia.com/business/intel-shares-tumble-after-hours-hit-chip-supply-constraints-big-cash-burn-6504881"
   ],
   "topic_error": "",
-  "last_digest": "2026-10-29",
+  "last_digest": "2026-10-30",
   "earnings": {
     "AMD": {
       "ts": 1793736000,
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793318340.818569,
+  "last_check": 1793319280.575607,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-29"
