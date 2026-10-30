@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/liontown-q1-fy27-slides-expansion-approved-amid-rampup-progress-93CH-4981420",
-    "Cybersecurity|https://www.investing.com/news/economy-news/boj-preview-october-hawkish-hold-expected-as-inflation-remains-sticky-4981430",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/argentina-sees-eu-soymeal-opportunity-as-deforestation-rules-threaten-brazil-trade-4978230",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-embassy-reit-posts-strong-q2-2026-beat-on-profit-revenue-93CH-4981433",
     "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-hexaware-q3-2026-revenue-growth-slows-as-ai-push-builds-93CH-4981434",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/beacon-financial-director-eric-rosengren-purchases-21168-in-stock-93CH-4981439",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/live-oak-bancshares-general-counsel-gregory-seward-sells-176550-in-stock-93CH-4981440",
@@ -5000,7 +4996,11 @@
     "Watchlist|/international/global/ambanis-jio-surges-debut-after-india-record-us3-1-billion-ipo",
     "Crypto|756ba6a9-9c0c-31cb-aecc-90a39f3c61b5",
     "SG Banks|/companies-markets/stocks-watch-clar-seatrium-sheng-siong-mpact-netlink-nbn-starhill-global-reit",
-    "Watchlist|/companies-markets/stocks-watch-clar-seatrium-sheng-siong-mpact-netlink-nbn-starhill-global-reit"
+    "Watchlist|/companies-markets/stocks-watch-clar-seatrium-sheng-siong-mpact-netlink-nbn-starhill-global-reit",
+    "AI|33469e83-ce26-3f7b-9557-abbe54d8dc59",
+    "Watchlist|33469e83-ce26-3f7b-9557-abbe54d8dc59",
+    "Crypto|611b9337-c0e3-3e36-a1e0-4b122b9b78fd",
+    "SG Banks|https://www.straitstimes.com/business/economy/warshs-forward-silence-risks-bigger-treasury-market-swings-say-experts"
   ],
   "topic_error": "",
   "last_digest": "2026-10-30",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793320190.614923,
+  "last_check": 1793321089.0321236,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-29"
