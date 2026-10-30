@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/earnings/geely-auto-shares-rise-despite-q3-profit-miss-as-revenue-climbs-10-4981470",
-    "SG Banks|https://www.channelnewsasia.com/business/hyundai-motor-reports-55-rise-in-q3-operating-profit-beats-forecasts-6502376",
-    "Iran|https://www.iranintl.com/en/202610246039",
-    "SG Banks|/companies-markets/microsoft-offer-buyouts-60000-workers-new-cost-cut",
     "Watchlist|/companies-markets/microsoft-offer-buyouts-60000-workers-new-cost-cut",
     "War|923cac79-7525-3238-85bf-f5b653b55c32",
     "War|7225649e-c401-3bfa-9d33-726704dbebff",
@@ -5000,7 +4996,11 @@
     "Watchlist|/companies-markets/energy-commodities/oil-rises-over-1-after-saudi-arabian-refinery-attack-reignites-supply-risk",
     "Watchlist|/companies-markets/sgx-regco-seeks-further-disclosures-plantation-firms-including-links-haze-notice-recipients",
     "Crypto|ecf0a777-478d-3636-9697-c72b678ddc6e",
-    "Crypto|414ae40a-8ced-3ad8-9899-7f9e4ea6a02d"
+    "Crypto|414ae40a-8ced-3ad8-9899-7f9e4ea6a02d",
+    "SG Banks|https://www.channelnewsasia.com/business/nvidia-in-talks-give-credit-support-nscales-deal-anthropic-information-reports-6505526",
+    "AI|e95a0bef-0959-3cd2-acd2-e0018ddb54df",
+    "Watchlist|e95a0bef-0959-3cd2-acd2-e0018ddb54df",
+    "Watchlist|13b2a52e-30d3-365f-bb1e-492f1e4ed5a1"
   ],
   "topic_error": "",
   "last_digest": "2026-10-30",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793323854.0285532,
+  "last_check": 1793324755.8907924,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-29"
