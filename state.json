@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.straitstimes.com/business/totalenergies-profit-hits-record-on-high-oil-prices",
-    "AI|e77deee6-ad18-3fe8-8bd7-6bf7cf700f73",
-    "Crypto|b605284c-6ebd-3bc6-a2ab-f0ff1aa77c9c",
-    "AI|9534c298-f69c-3064-8a46-8fc5986fe746",
-    "AI|https://www.investing.com/news/company-news/chedraui-q3-2026-slides-margin-gains-offset-weak-consumer-demand-93CH-4982184",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-tangen-tops-q3-2026-with-69-sales-growth-93CH-4982191",
-    "AI|https://www.investing.com/news/company-news/tecnotree-q3-2026-slides-margin-expansion-drives-guidance-raise-93CH-4982192",
-    "AI|https://www.investing.com/news/company-news/chedraui-q3-2026-slides-margins-rise-despite-revenue-headwinds-93CH-4982193",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-posti-q3-2026-profit-jumps-stock-slips-22-93CH-4982194",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-stmicroelectronics-posts-revenue-beat-in-q3-2026-93CH-4982196",
-    "AI|https://www.investing.com/news/company-news/axactor-q3-2026-slides-refinancing-success-amid-revenue-pressure-93CH-4982197",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-ayvens-q3-2026-margins-rise-as-usedcar-pressure-bites-93CH-4982199",
     "AI|https://www.investing.com/news/stock-market-news/why-is-alzchem-stock-sliding-today-93CH-4982131",
     "AI|https://www.investing.com/news/stock-market-news/why-is-wacker-chemie-stock-gaining-today-93CH-4982134",
     "AI|https://www.investing.com/news/stock-market-news/why-is-prysmian-stock-rallying-today-93CH-4982157",
@@ -5000,7 +4988,19 @@
     "Watchlist|/companies-markets/dbs-denies-rumours-indonesia-unit-merging-bank-central-asia-analysts-see-sense-deal",
     "AI|b922de16-68a5-3909-8978-ca568a5b3d51",
     "SG Banks|/companies-markets/ultragreen-ai-shares-plunge-15-9-after-guiding-lower-fy2026-revenue",
-    "Watchlist|b922de16-68a5-3909-8978-ca568a5b3d51"
+    "Watchlist|b922de16-68a5-3909-8978-ca568a5b3d51",
+    "SG Banks|/companies-markets/wilmar-slides-almost-5-after-weaker-q3-earnings-indonesian-police-probe-plantation-fires",
+    "SG Banks|/companies-markets/capital-markets-currencies/european-shares-ease-ai-driven-tech-selloff-deepens",
+    "Watchlist|/companies-markets/ultragreen-ai-shares-plunge-15-9-after-guiding-lower-fy2026-revenue",
+    "Watchlist|/companies-markets/wilmar-slides-almost-5-after-weaker-q3-earnings-indonesian-police-probe-plantation-fires",
+    "Watchlist|/companies-markets/capital-markets-currencies/european-shares-ease-ai-driven-tech-selloff-deepens",
+    "SG Banks|https://www.straitstimes.com/business/totalenergies-profit-hits-record-on-high-oil-prices",
+    "SG Banks|/companies-markets/energy-commodities/bp-posts-highest-net-income-least-five-years",
+    "Watchlist|/companies-markets/energy-commodities/bp-posts-highest-net-income-least-five-years",
+    "Iran|https://www.iranintl.com/en/202610307228",
+    "SG Banks|https://www.channelnewsasia.com/business/foxconn-working-new-tie-up-openai-says-there-no-ai-bubble-6506396",
+    "AI|639589ad-8240-36ce-9eb2-189565cc2cff",
+    "Watchlist|639589ad-8240-36ce-9eb2-189565cc2cff"
   ],
   "topic_error": "",
   "last_digest": "2026-10-30",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793349530.0293472,
+  "last_check": 1793350440.4082055,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-29"
