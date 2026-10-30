@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|23161029-c68c-32f5-97e4-1602aa4b9e5c",
-    "Watchlist|b19c6e1a-ed1d-3f04-8a85-fb91af9a3ec9",
-    "Watchlist|ffb4e402-9ab9-396b-bec1-ec646b40a6cb",
-    "War|f04b3ec4-6f47-3cec-b49b-7faa795ed209",
-    "AI|23161029-c68c-32f5-97e4-1602aa4b9e5c",
-    "AI|cc9fcfb1-d1fd-3e7c-989d-8f51bb1190c8",
-    "Watchlist|23161029-c68c-32f5-97e4-1602aa4b9e5c",
-    "Watchlist|5985e0e4-e7c4-39da-9416-533354f62c4b",
-    "Watchlist|cc9fcfb1-d1fd-3e7c-989d-8f51bb1190c8",
-    "Watchlist|c52ecce9-bcfe-4cc2-a9ef-53f62462edc4",
     "Watchlist|87c59b55-ea62-379c-894d-3c9697bcc4e8",
     "Iran|https://www.iranintl.com/en/202610264703",
     "AI|45e2e84c-bd45-3fb8-a928-f03c4dd97040",
@@ -5000,7 +4990,17 @@
     "Cybersecurity|9caa5bbe-db77-33ed-aec8-9298712adc25",
     "Watchlist|9c6f7f41-b911-3266-aef4-0cdcc23c803a",
     "AI|4231d7fd-3d65-323f-a535-45271b926028",
-    "AI|4973563f-fd7f-34e1-ac33-b3419afb6de7"
+    "AI|4973563f-fd7f-34e1-ac33-b3419afb6de7",
+    "Watchlist|4231d7fd-3d65-323f-a535-45271b926028",
+    "Watchlist|4973563f-fd7f-34e1-ac33-b3419afb6de7",
+    "AI|c3212bba-4b18-3154-927c-112d817e8d61",
+    "War|e337b7a0-2011-38af-8593-6a39cc898499",
+    "AI|102a72f9-5e86-3ee9-ae32-3779835cbb8a",
+    "AI|0136d256-b9c6-323e-938e-e8f15c6e7299",
+    "Watchlist|0136d256-b9c6-323e-938e-e8f15c6e7299",
+    "Watchlist|102a72f9-5e86-3ee9-ae32-3779835cbb8a",
+    "SG Banks|https://www.channelnewsasia.com/business/sp-global-revises-metas-outlook-negative-ai-spending-cash-flow-worries-6508631",
+    "War|1274034d-9cd5-45bd-99a6-a56dc0444e6d"
   ],
   "topic_error": "",
   "last_digest": "2026-10-30",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793399559.7661438,
+  "last_check": 1793400462.6350405,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-30"
