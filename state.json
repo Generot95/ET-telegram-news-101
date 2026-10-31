@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|45055eb4-ffd4-3188-a8d4-b92f4ecb803e",
-    "War|WP-MKTW-0005307492",
-    "AI|e57160eb-b058-3c64-9e66-707e9881d89e",
-    "AI|33e5df81-5a76-3c9f-a2ad-3a7c40aca00b",
-    "AI|WP-MKTW-0005307492",
-    "Crypto|b39bc062-1cc7-3258-bfb8-6180b4d568ee",
-    "Cybersecurity|WP-MKTW-0005307492",
-    "Watchlist|e57160eb-b058-3c64-9e66-707e9881d89e",
-    "Watchlist|33e5df81-5a76-3c9f-a2ad-3a7c40aca00b",
     "AI|72c6265b-3fbe-3556-abe0-89b5e119c0a4",
     "SG Banks|/companies-markets/capital-markets-currencies/wall-street-ends-lower-alphabet-revenue-miss-revives-ai-capex-jitters",
     "Watchlist|/companies-markets/capital-markets-currencies/wall-street-ends-lower-alphabet-revenue-miss-revives-ai-capex-jitters",
@@ -5000,7 +4991,16 @@
     "Watchlist|dfa46364-9323-319c-832f-e4b3107edda4",
     "Watchlist|d10d2712-2eaf-3cc8-ba18-9149734e79c7",
     "AI|dfa46364-9323-319c-832f-e4b3107edda4",
-    "AI|d10d2712-2eaf-3cc8-ba18-9149734e79c7"
+    "AI|d10d2712-2eaf-3cc8-ba18-9149734e79c7",
+    "AI|https://www.investing.com/news/insider-trading-news/group-1-automotive-director-steven-mizell-sells-143286-in-shares-93CH-4989184",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/group-1-automotive-director-steven-mizell-sells-143286-in-shares-93CH-4989184",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/group-1-automotive-director-steven-mizell-sells-143286-in-shares-93CH-4989184",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/group-1-automotive-director-steven-mizell-sells-143286-in-shares-93CH-4989184",
+    "AI|02e3f71b-62c9-30fc-81c8-2a34856ed4c4",
+    "AI|b4953b7f-e6f9-317b-81ac-4d6f15931569",
+    "Watchlist|02e3f71b-62c9-30fc-81c8-2a34856ed4c4",
+    "Watchlist|b4953b7f-e6f9-317b-81ac-4d6f15931569",
+    "AI|933c979a-566f-33f0-80d1-877b5109b3d8"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793435299.7585065,
+  "last_check": 1793436235.5655255,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-30"
