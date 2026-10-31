@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/rivian-says-its-on-track-for-250-million-uber-funding-by-yearend-r2-demand-strong-4985570",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/sierra-bancorp-ceo-kevin-mcphaill-sells-171413-in-common-stock-93CH-4985550",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/sierra-bancorp-director-lynda-scearcy-sells-247696-in-shares-93CH-4985549",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/boundless-bio-director-kevin-tang-buys-25696-of-common-stock-93CH-4985551",
-    "Watchlist|https://www.investing.com/news/stock-market-news/starbucks-beats-quarterly-sales-and-profit-expectations-4984998",
-    "Watchlist|https://www.investing.com/news/company-news/impedimed-q1-fy27-slides-regulatory-wins-offset-sales-headwinds-93CH-4985556",
-    "Watchlist|https://www.investing.com/news/economic-indicators/colombia-government-proposes-steep-spending-cut-as-fiscal-woes-deepen-4985563",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/apple-svp-jennifer-newstead-sells-823720-in-stock-93CH-4985566",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/keycorp-head-andrew-paine-sells-829556-in-shares-93CH-4985567",
-    "Watchlist|https://www.investing.com/news/stock-market-news/rivian-says-its-on-track-for-250-million-uber-funding-by-yearend-r2-demand-strong-4985570",
-    "Crypto|7524a15d-6592-3124-a2ae-3d2465f24971",
     "SG Banks|/companies-markets/banking-finance/new-zealand-central-bank-unexpectedly-holds-rates-signals-likely-hikes",
     "SG Banks|https://www.straitstimes.com/business/billionaire-ambanis-jio-to-debut-after-record-india-ipo",
     "War|WP-MKTW-0005316701",
@@ -5000,7 +4989,18 @@
     "AI|7adf2062-6cc2-37c4-94a3-47ca717e96e4",
     "Watchlist|ebb642ff-2b06-3bac-80fa-81f5174bab90",
     "Watchlist|c63ce065-abbf-38d7-b61f-986f735dd325",
-    "Watchlist|7adf2062-6cc2-37c4-94a3-47ca717e96e4"
+    "Watchlist|7adf2062-6cc2-37c4-94a3-47ca717e96e4",
+    "War|0b53fb1a-5fd2-35f6-a9f1-f06f0dbdcd9c",
+    "AI|01584d2e-6205-3a72-aa22-a462a94b1981",
+    "AI|03a57729-6d81-3b97-9395-89df92ef6a65",
+    "Watchlist|8b0c9387-4b4e-34dc-8509-fabf7f1e6588",
+    "Watchlist|03a57729-6d81-3b97-9395-89df92ef6a65",
+    "Watchlist|01584d2e-6205-3a72-aa22-a462a94b1981",
+    "SG Banks|https://www.channelnewsasia.com/business/binance-replenishes-90-assets-stolen-in-security-incident-6509761",
+    "AI|e19599ac-7fe1-36b8-9a1c-01121624c451",
+    "AI|dd2de0f9-b305-3e6a-96f6-f73814bcff7d",
+    "Watchlist|e19599ac-7fe1-36b8-9a1c-01121624c451",
+    "Watchlist|dd2de0f9-b305-3e6a-96f6-f73814bcff7d"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793460985.7294695,
+  "last_check": 1793461910.8766923,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
