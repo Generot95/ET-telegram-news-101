@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/rivian-says-its-on-track-for-250-million-uber-funding-by-yearend-r2-demand-strong-4985570",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/sierra-bancorp-ceo-kevin-mcphaill-sells-171413-in-common-stock-93CH-4985550",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/sierra-bancorp-director-lynda-scearcy-sells-247696-in-shares-93CH-4985549",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/boundless-bio-director-kevin-tang-buys-25696-of-common-stock-93CH-4985551",
-    "SG Banks|https://www.investing.com/news/stock-market-news/starbucks-beats-quarterly-sales-and-profit-expectations-4984998",
-    "SG Banks|https://www.investing.com/news/company-news/impedimed-q1-fy27-slides-regulatory-wins-offset-sales-headwinds-93CH-4985556",
-    "SG Banks|https://www.investing.com/news/economic-indicators/colombia-government-proposes-steep-spending-cut-as-fiscal-woes-deepen-4985563",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/apple-svp-jennifer-newstead-sells-823720-in-stock-93CH-4985566",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/keycorp-head-andrew-paine-sells-829556-in-shares-93CH-4985567",
     "SG Banks|https://www.investing.com/news/stock-market-news/rivian-says-its-on-track-for-250-million-uber-funding-by-yearend-r2-demand-strong-4985570",
     "Watchlist|https://www.investing.com/news/insider-trading-news/sierra-bancorp-ceo-kevin-mcphaill-sells-171413-in-common-stock-93CH-4985550",
     "Watchlist|https://www.investing.com/news/insider-trading-news/sierra-bancorp-director-lynda-scearcy-sells-247696-in-shares-93CH-4985549",
@@ -5000,7 +4991,16 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/binance-says-90-of-stolen-assets-replenished-4989287",
     "Watchlist|https://www.investing.com/news/commodities-news/iranian-envoys-meet-qatari-mediators-as-threat-looms-of-us-strikes-after-midterms-4989288",
     "AI|1d820073-2a30-3522-9abe-802ab22e9d85",
-    "Watchlist|1d820073-2a30-3522-9abe-802ab22e9d85"
+    "Watchlist|1d820073-2a30-3522-9abe-802ab22e9d85",
+    "War|d676e1fa-3447-329b-be10-5eb1fff6dcec",
+    "War|2e491d5b-2964-31e6-89a0-fd235629b295",
+    "Crypto|a55ee73e-958e-3a57-838d-f1bed2c02c57",
+    "AI|ebb642ff-2b06-3bac-80fa-81f5174bab90",
+    "AI|c63ce065-abbf-38d7-b61f-986f735dd325",
+    "AI|7adf2062-6cc2-37c4-94a3-47ca717e96e4",
+    "Watchlist|ebb642ff-2b06-3bac-80fa-81f5174bab90",
+    "Watchlist|c63ce065-abbf-38d7-b61f-986f735dd325",
+    "Watchlist|7adf2062-6cc2-37c4-94a3-47ca717e96e4"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793460084.9124644,
+  "last_check": 1793460985.7294695,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
