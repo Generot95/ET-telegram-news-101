@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|/companies-markets/energy-commodities/sembcorp-dayone-sign-pact-explore-powering-data-centres-asia",
-    "AI|a90fac49-2709-331a-8c93-896f0f980da0",
-    "SG Banks|https://www.channelnewsasia.com/business/microsoft-expects-raise-25-billion-in-us-bond-sale-sources-say-6504501",
-    "SG Banks|https://www.channelnewsasia.com/business/amazon-burns-cash-intel-flags-weak-pc-demand-ai-booms-costs-ripple-across-markets-6504986",
-    "Watchlist|8a1f9549-26a8-3cfe-8f45-635db04b21ed",
     "Watchlist|a90fac49-2709-331a-8c93-896f0f980da0",
     "AI|8a1f9549-26a8-3cfe-8f45-635db04b21ed",
     "Watchlist|/companies-markets/energy-commodities/sembcorp-dayone-sign-pact-explore-powering-data-centres-asia",
@@ -5000,7 +4995,12 @@
     "AI|d0f053fd-501a-36e9-8b71-178a22ca87c8",
     "SG Banks|https://www.channelnewsasia.com/business/vietnam-cuts-retail-electricity-price-removes-gasoline-tax-november-1-6510361",
     "AI|67c18211-89eb-3e16-85d0-74710de03501",
-    "Watchlist|67c18211-89eb-3e16-85d0-74710de03501"
+    "Watchlist|67c18211-89eb-3e16-85d0-74710de03501",
+    "AI|https://www.investing.com/news/stock-market-news/top-takeaways-from-bernsteins-annual-global-sportswear-survey-4989345",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/top-takeaways-from-bernsteins-annual-global-sportswear-survey-4989345",
+    "SG Banks|https://www.investing.com/news/stock-market-news/top-takeaways-from-bernsteins-annual-global-sportswear-survey-4989345",
+    "Watchlist|https://www.investing.com/news/stock-market-news/top-takeaways-from-bernsteins-annual-global-sportswear-survey-4989345",
+    "SG Banks|/companies-markets/energy-commodities/sembcorp-dayone-sign-pact-explore-powering-data-centres-asia"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793487558.6841185,
+  "last_check": 1793488487.9673016,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
