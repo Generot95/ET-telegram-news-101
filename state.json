@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/sec-filings/kimberlyclark-completes-49-billion-senior-notes-offering-to-support-kenvue-deal-93CH-4985337",
-    "AI|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-132-4985316",
-    "AI|https://www.investing.com/news/company-news/sensient-technologies-declares-041-quarterly-dividend-93CH-4985311",
-    "AI|https://www.investing.com/news/company-news/kimberlyclark-closes-49-billion-senior-notes-offering-93CH-4985312",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-idacorp-tops-q3-2026-profit-view-raises-outlook-93CH-4985317",
     "Cybersecurity|https://www.investing.com/news/company-news/narragansett-bancorp-sets-nov-2-for-ipo-nasdaq-debut-93CH-4985323",
     "Cybersecurity|https://www.investing.com/news/company-news/unifuels-to-implement-1for10-reverse-stock-split-monday-93CH-4985321",
     "Cybersecurity|https://www.investing.com/news/earnings/middlesex-water-earnings-beat-by-013-revenue-topped-estimates-4985328",
@@ -5000,7 +4995,12 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/american-tower-evp-ruth-dowling-sells-290823-in-stock-93CH-4989073",
     "Watchlist|https://www.investing.com/news/insider-trading-news/american-tower-evp-ruth-dowling-sells-290823-in-stock-93CH-4989073",
     "Watchlist|d0982429-2092-3701-8014-7c1b1324ee36",
-    "AI|d0982429-2092-3701-8014-7c1b1324ee36"
+    "AI|d0982429-2092-3701-8014-7c1b1324ee36",
+    "War|4d1c12ce-7982-3f54-9599-c768f7137ca4",
+    "AI|https://www.investing.com/news/economy-news/china-factory-activity-contracts-in-october-as-economic-recovery-falters-4989075",
+    "Cybersecurity|https://www.investing.com/news/economy-news/china-factory-activity-contracts-in-october-as-economic-recovery-falters-4989075",
+    "SG Banks|https://www.investing.com/news/economy-news/china-factory-activity-contracts-in-october-as-economic-recovery-falters-4989075",
+    "Watchlist|https://www.investing.com/news/economy-news/china-factory-activity-contracts-in-october-as-economic-recovery-falters-4989075"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793417888.7009666,
+  "last_check": 1793418802.6969967,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-30"
