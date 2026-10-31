@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/earnings/pennymac-mortgage-earnings-beat-by-005-revenue-fell-short-of-estimates-4985624",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/slb-chief-accounting-officer-sells-539021-in-company-stock-93CH-4985630",
-    "SG Banks|https://www.investing.com/news/earnings/unifi-earnings-beat-by-006-revenue-fell-short-of-estimates-4985631",
     "SG Banks|https://www.investing.com/news/insider-trading-news/adaptive-biotechnologies-president-julie-rubinstein-sells-998k-in-shares-93CH-4985633",
     "SG Banks|https://www.investing.com/news/company-news/strategx-completes-379255-final-tranche-of-private-placement-93CH-4985634",
     "SG Banks|https://www.investing.com/news/company-news/bambusa-therapeutics-prices-upsized-ipo-at-16-per-share-93CH-4985637",
@@ -5000,7 +4997,10 @@
     "Watchlist|95d694dd-272f-3cf6-929e-f11d79950baa",
     "Crypto|3d056c94-9115-386f-8792-9eea4e27dbd9",
     "Watchlist|212858f6-6ba1-3ffe-a3de-df5e0f8438f2",
-    "AI|212858f6-6ba1-3ffe-a3de-df5e0f8438f2"
+    "AI|212858f6-6ba1-3ffe-a3de-df5e0f8438f2",
+    "AI|afb089fe-4fc4-3781-bf1b-c78806bda9e6",
+    "Watchlist|afb089fe-4fc4-3781-bf1b-c78806bda9e6",
+    "War|28f7b83f-6176-3726-92d3-2ffb0b1f3284"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793474736.2630537,
+  "last_check": 1793475656.4366362,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
