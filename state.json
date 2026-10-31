@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-exponent-tops-q3-2026-eps-views-as-growth-stays-strong-93CH-4985329",
-    "Cybersecurity|https://www.investing.com/news/sec-filings/amass-brands-updates-bylaws-to-modify-quorum-requirement-for-shareholder-meetings-93CH-4985330",
     "Cybersecurity|https://www.investing.com/news/earnings/bridgebio-pharma-earnings-beat-by-014-revenue-topped-estimates-4985331",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/goldman-sachs-downgrades-bicara-therapeutics-stock-rating-to-sell-93CH-4985332",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-064-4985334",
@@ -5000,7 +4998,9 @@
     "Watchlist|https://www.investing.com/news/economy-news/china-factory-activity-contracts-in-october-as-economic-recovery-falters-4989075",
     "AI|09ae743e-0308-3d01-a1ce-a9be850553ec",
     "Watchlist|09ae743e-0308-3d01-a1ce-a9be850553ec",
-    "SG Banks|https://www.channelnewsasia.com/business/chinas-factory-activity-marks-third-contraction-in-four-months-6508946"
+    "SG Banks|https://www.channelnewsasia.com/business/chinas-factory-activity-marks-third-contraction-in-four-months-6508946",
+    "AI|570bbbda-edfe-39f6-bcc6-1efdcc71a19a",
+    "Watchlist|570bbbda-edfe-39f6-bcc6-1efdcc71a19a"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793419702.2026947,
+  "last_check": 1793420636.6870356,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-30"
