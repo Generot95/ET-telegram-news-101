@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "War|WP-MKTW-0005308926",
-    "AI|https://www.investing.com/news/company-news/twilio-q3-2026-slides-record-profits-meet-cautious-outlook-93CH-4985530",
-    "AI|https://www.investing.com/news/insider-trading-news/lindblad-expeditions-director-sells-825m-in-lind-common-stock-93CH-4985531",
-    "AI|https://www.investing.com/news/company-news/coveo-q2-fy27-slides-record-bookings-ai-differentiation-strategy-93CH-4985532",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-pinterest-misses-q3-2026-estimates-as-shares-slide-93CH-4985533",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-air-canada-beats-q3-2026-eps-as-fuel-costs-bite-93CH-4985534",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-arthur-j-gallagher-tops-eps-in-q3-2026-shares-ease-93CH-4985535",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-onespan-tops-q3-2026-estimates-shares-jump-195-93CH-4985537",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-impedimed-q1-2026-sales-stumble-clouds-outlook-93CH-4985539",
     "AI|https://www.investing.com/news/company-news/stonepeak-completes-acquisition-of-bmo-finance-units-93CH-4985540",
     "AI|https://www.investing.com/news/stock-market-news/tether-circle-freeze-238-billion-after-binance-reports-security-incident-4985511",
     "AI|https://www.investing.com/news/company-news/exelixis-q3-2026-slides-cabometyx-growth-funds-zanzalintinib-push-93CH-4985506",
@@ -5000,7 +4991,16 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/gs-flags-interest-rates-and-ai-disruption-as-risks-to-longterm-equity-demand-4989261",
     "SG Banks|/companies-markets/energy-commodities/oil-declines-traders-parse-signs-fresh-diplomacy-iran",
     "AI|7bc3c5b4-0a8d-48db-8bed-d49afb4f89fb",
-    "Watchlist|7bc3c5b4-0a8d-48db-8bed-d49afb4f89fb"
+    "Watchlist|7bc3c5b4-0a8d-48db-8bed-d49afb4f89fb",
+    "AI|13611d45-b9c4-3ad1-86af-7fb31ec55f1b",
+    "Watchlist|13611d45-b9c4-3ad1-86af-7fb31ec55f1b",
+    "AI|fdb9853d-60b3-3eff-82ff-d93d70a0ad26",
+    "War|WP-MKTW-0005317128",
+    "War|WP-MKTW-0005319856",
+    "AI|WP-MKTW-0005317128",
+    "AI|WP-MKTW-0005319856",
+    "Cybersecurity|WP-MKTW-0005317128",
+    "Cybersecurity|WP-MKTW-0005319856"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793450907.6805284,
+  "last_check": 1793451822.0470006,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
