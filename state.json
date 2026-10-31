@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|a90fac49-2709-331a-8c93-896f0f980da0",
-    "AI|8a1f9549-26a8-3cfe-8f45-635db04b21ed",
-    "Watchlist|/companies-markets/energy-commodities/sembcorp-dayone-sign-pact-explore-powering-data-centres-asia",
-    "AI|5b82a71c-36e1-336c-a926-ce477c03684d",
-    "Watchlist|5b82a71c-36e1-336c-a926-ce477c03684d",
     "War|https://www.investing.com/news/commodities-news/gold-hovers-near-4000-as-pce-inflation-oil-risks-revive-fed-hike-concerns-4985685",
     "AI|https://www.investing.com/news/stock-market-news/us-stock-futures-sink-nasdaq-down-2-as-amazon-intel-earnings-underwhelm-4985675",
     "AI|https://www.investing.com/news/stock-market-news/sk-hynix-neutral-in-notrade-zone-awaiting-breakout-live-93CH-4971337",
@@ -5000,7 +4995,12 @@
     "Cybersecurity|https://www.investing.com/news/stock-market-news/top-takeaways-from-bernsteins-annual-global-sportswear-survey-4989345",
     "SG Banks|https://www.investing.com/news/stock-market-news/top-takeaways-from-bernsteins-annual-global-sportswear-survey-4989345",
     "Watchlist|https://www.investing.com/news/stock-market-news/top-takeaways-from-bernsteins-annual-global-sportswear-survey-4989345",
-    "SG Banks|/companies-markets/energy-commodities/sembcorp-dayone-sign-pact-explore-powering-data-centres-asia"
+    "SG Banks|/companies-markets/energy-commodities/sembcorp-dayone-sign-pact-explore-powering-data-centres-asia",
+    "AI|2463e87a-8818-39e8-84fb-28f2b1fbdbc2",
+    "Watchlist|2463e87a-8818-39e8-84fb-28f2b1fbdbc2",
+    "War|c1e3a89c-931f-3089-9b7c-fb23b85dbb67",
+    "Watchlist|ac20108a-b351-3b9e-8806-f8f0569f5264",
+    "Watchlist|/companies-markets/energy-commodities/sembcorp-dayone-sign-pact-explore-powering-data-centres-asia"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793488487.9673016,
+  "last_check": 1793489404.41838,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
