@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|5e0d7355-865d-3891-8d02-dcc86798f622",
-    "Watchlist|49be61bf-3436-35c0-aea3-46dfb9b3e9e8",
-    "Watchlist|6ff05ce1-233d-3888-af08-6b6b7188c766",
-    "Watchlist|6cb14b03-6dbf-3630-b38e-db42793f817d",
-    "Watchlist|8ca6e313-9f42-33cd-958f-b933c34ffde1",
-    "Watchlist|c5d0bf28-f916-3ca0-a5d2-3559a002412c",
-    "Watchlist|5e0d7355-865d-3891-8d02-dcc86798f622",
-    "Watchlist|51e91ee8-a53e-3b87-826f-a4def0d28fd0",
-    "SG Banks|/companies-markets/stocks-watch-seatrium-mit-keppel-reit-clint-ui-boustead-reit-digital-core-reit-st-engineering",
-    "SG Banks|/companies-markets/keppel-reit-9m-distributable-income-rises-24-4-s179-9-million",
-    "SG Banks|https://www.straitstimes.com/business/sk-hynix-unveils-shareholder-return-plan-worth-s96-billion-after-posting-7-fold-jump-in-q3-profit",
-    "Watchlist|/companies-markets/stocks-watch-seatrium-mit-keppel-reit-clint-ui-boustead-reit-digital-core-reit-st-engineering",
     "Watchlist|/companies-markets/keppel-reit-9m-distributable-income-rises-24-4-s179-9-million",
     "AI|85208c3b-69e9-3320-a8cf-862ed35a5e89",
     "AI|https://www.investing.com/news/company-news/ryan-specialty-oct-2026-slides-growth-story-meets-margin-pressure-93CH-4985493",
@@ -5000,7 +4988,19 @@
     "AI|https://www.investing.com/news/insider-trading-news/first-financial-director-michael-b-denny-buys-99816-of-common-stock-93CH-4989234",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/first-financial-director-michael-b-denny-buys-99816-of-common-stock-93CH-4989234",
     "SG Banks|https://www.investing.com/news/insider-trading-news/first-financial-director-michael-b-denny-buys-99816-of-common-stock-93CH-4989234",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/first-financial-director-michael-b-denny-buys-99816-of-common-stock-93CH-4989234"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/first-financial-director-michael-b-denny-buys-99816-of-common-stock-93CH-4989234",
+    "SG Banks|https://www.channelnewsasia.com/business/power-bills-and-data-centers-cast-rare-spotlight-utilities-in-us-midterms-6509406",
+    "AI|490b5942-474d-3732-9a63-7daa9d35177f",
+    "AI|d2ca6611-b72d-3916-9fc7-6dde2d504845",
+    "Watchlist|d2ca6611-b72d-3916-9fc7-6dde2d504845",
+    "Watchlist|490b5942-474d-3732-9a63-7daa9d35177f",
+    "AI|5cee6243-e84c-3214-97fb-159593605fd6",
+    "AI|45f70fbe-5c88-316b-9f93-7e3bef19d284",
+    "AI|561ffac5-3fa7-35c6-97ee-b62a9e00ce7b",
+    "Watchlist|5cee6243-e84c-3214-97fb-159593605fd6",
+    "Watchlist|45f70fbe-5c88-316b-9f93-7e3bef19d284",
+    "Watchlist|561ffac5-3fa7-35c6-97ee-b62a9e00ce7b",
+    "SG Banks|https://www.straitstimes.com/business/binance-in-talks-for-malaysia-licence-after-five-year-absence"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793444470.6000092,
+  "last_check": 1793445396.2175279,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
