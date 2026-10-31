@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|/international/asean/plantation-stocks-trading-sizeable-upside-after-haze-induced-sell-ocbc",
-    "Watchlist|/companies-markets/telcos-media-tech/meta-rolls-out-consumer-ai-agent-singapore-amid-global-safety-retail-pushback",
-    "Watchlist|/companies-markets/over-8-10-businesses-tap-tokenised-money-expansion-liquidity-management-dbs-survey",
-    "SG Banks|https://www.straitstimes.com/business/nearly-90-of-businesses-are-turning-to-tokenised-money-dbs-survey-shows",
-    "Watchlist|5eb54722-6987-355e-9c6e-a932927cb97e",
-    "AI|48a8a4d4-3748-345b-a1f1-6bcf4c14a0b1",
-    "AI|97d14d87-9ff9-3c64-ae53-147d945c3a52",
     "Watchlist|48a8a4d4-3748-345b-a1f1-6bcf4c14a0b1",
     "Watchlist|97d14d87-9ff9-3c64-ae53-147d945c3a52",
     "AI|da2ea11f-218c-3579-bba1-0b87214d5e5c",
@@ -5000,7 +4993,14 @@
     "Iran|https://www.iranintl.com/en/202610279331",
     "AI|ccedb809-a252-30e3-a512-055b0ef189f1",
     "SG Banks|/companies-markets/telcos-media-tech/meta-rolls-out-consumer-ai-agent-singapore-amid-global-safety-retail-pushback",
-    "SG Banks|/companies-markets/over-8-10-businesses-tap-tokenised-money-expansion-liquidity-management-dbs-survey"
+    "SG Banks|/companies-markets/over-8-10-businesses-tap-tokenised-money-expansion-liquidity-management-dbs-survey",
+    "War|686280c1-154a-37f7-9b80-a3ab8ce0ec35",
+    "War|55abbd3f-08f0-3b67-b43c-fdd484f74a5e",
+    "Watchlist|/companies-markets/telcos-media-tech/meta-rolls-out-consumer-ai-agent-singapore-amid-global-safety-retail-pushback",
+    "Watchlist|/companies-markets/over-8-10-businesses-tap-tokenised-money-expansion-liquidity-management-dbs-survey",
+    "Crypto|752ea03b-3bae-33d9-823e-12089e547cc2",
+    "AI|955d5ba9-da7e-3a26-8888-21ba172ad742",
+    "Watchlist|955d5ba9-da7e-3a26-8888-21ba172ad742"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793456418.8379288,
+  "last_check": 1793457326.7153664,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
