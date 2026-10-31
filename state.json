@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/kestra-medical-technologies-cfo-vaseem-mahboob-sells-24m-in-shares-93CH-4985578",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/samsara-ceo-sanjit-biswas-sells-113m-in-shares-93CH-4985579",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-microstrategy-q3-2026-eps-beats-as-stock-falls-93CH-4985580",
-    "Watchlist|https://www.investing.com/news/stock-market-news/chinese-evs-win-over-some-in-south-korea-but-japan-is-proving-to-be-a-rougher-road-4985581",
-    "AI|6cb3e224-646a-39e5-b159-9191f9e6325c",
-    "SG Banks|/companies-markets/banking-finance/australian-inflation-runs-hot-q3-cements-case-imminent-rate-rise",
-    "SG Banks|/companies-markets/capital-markets-currencies/asian-stocks-advance-ai-rally-returns-ahead-big-tech-earnings-fed-decision",
-    "Watchlist|/companies-markets/capital-markets-currencies/asian-stocks-advance-ai-rally-returns-ahead-big-tech-earnings-fed-decision",
-    "Watchlist|/companies-markets/banking-finance/australian-inflation-runs-hot-q3-cements-case-imminent-rate-rise",
-    "Iran|https://www.iranintl.com/en/202610280475",
-    "Crypto|e7cddc9b-7360-3ca6-9c86-20ff7def3b63",
-    "War|d249f49f-04f8-3e12-8dcc-060bbf55a1c7",
     "SG Banks|https://www.straitstimes.com/business/companies-markets/suspected-billion-dollar-binance-hack-sends-fear-through-crypto",
     "Cybersecurity|f94a5d38-2f77-38b1-8cb4-71b7a66dff3f",
     "Watchlist|f94a5d38-2f77-38b1-8cb4-71b7a66dff3f",
@@ -5000,7 +4988,19 @@
     "Watchlist|534d3dbe-bf49-3dff-b174-2cc3fca95fe9",
     "Watchlist|97eeda85-623a-3890-86c4-b1e4878b19d7",
     "Watchlist|https://www.investing.com/news/stock-market-news/meta-builds-humanoid-robot-with-chinese-startup-fourier-the-information-says-4989297",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-reliance-posts-q2-2026-beat-as-energy-drives-record-profit-93CH-4989298"
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-reliance-posts-q2-2026-beat-as-energy-drives-record-profit-93CH-4989298",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/binance-replenishes-90-of-assets-stolen-in-security-incident",
+    "Iran|https://www.iranintl.com/en/202610316682",
+    "AI|2f919513-989b-320b-bc69-d88482ed5bed",
+    "AI|2a391233-e592-3d34-8d65-9e604480f473",
+    "Watchlist|2f919513-989b-320b-bc69-d88482ed5bed",
+    "Watchlist|2a391233-e592-3d34-8d65-9e604480f473",
+    "SG Banks|/companies-markets/banking-finance/australian-inflation-runs-hot-q3-cements-case-imminent-rate-rise",
+    "War|WP-MKTW-0005316089",
+    "AI|WP-MKTW-0005316089",
+    "Cybersecurity|WP-MKTW-0005316089",
+    "Iran|https://www.iranintl.com/en/202610280475",
+    "Watchlist|/companies-markets/banking-finance/australian-inflation-runs-hot-q3-cements-case-imminent-rate-rise"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793464658.9629848,
+  "last_check": 1793465570.7962608,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
