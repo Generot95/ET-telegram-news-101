@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/merck-tops-thirdquarter-estimates-as-keytruda-gardasil-outperform-4982557",
-    "Watchlist|https://www.investing.com/news/company-news/illumina-q3-2026-slides-strong-beat-masks-growth-concerns-93CH-4985401",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-schneider-national-posts-mixed-q3-2026-results-raises-outlook-93CH-4985402",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-sandisk-beats-q1-2027-estimates-shares-fall-93CH-4985403",
     "SG Banks|https://www.straitstimes.com/business/microsoft-beats-expectations-fuelled-by-azure-cloud-business",
@@ -5000,7 +4998,9 @@
     "SG Banks|/companies-markets/openai-slashes-funding-target-us10-billion-amid-tech-rout-ft",
     "Watchlist|/companies-markets/openai-slashes-funding-target-us10-billion-amid-tech-rout-ft",
     "AI|2d2ca849-713e-3fed-b862-65484d912bdf",
-    "Watchlist|2d2ca849-713e-3fed-b862-65484d912bdf"
+    "Watchlist|2d2ca849-713e-3fed-b862-65484d912bdf",
+    "War|ccbdcc54-44c1-3a8a-b0ed-e5281a370ac5",
+    "Watchlist|fa74192f-3566-3191-8ffa-e46532345ef6"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793433465.7030933,
+  "last_check": 1793434382.3092375,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-30"
