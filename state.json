@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/3d-systems-donates-printer-to-nonprofit-for-denture-production-93CH-4985161",
-    "AI|https://www.investing.com/news/company-news/new-fortress-energy-leases-300-mw-turbines-to-us-company-93CH-4985160",
-    "AI|https://www.investing.com/news/company-news/seer-rejects-acquisition-proposals-cites-undervaluation-93CH-4985162",
-    "AI|https://www.investing.com/news/company-news/summit-hotel-properties-names-new-cfo-promotes-coo-93CH-4985163",
-    "AI|https://www.investing.com/news/company-news/x4-pharmaceuticals-estimates-15000patient-us-market-for-drug-93CH-4985164",
-    "AI|https://www.investing.com/news/company-news/fingermotion-enters-term-sheet-for-blueflare-business-combination-93CH-4985165",
-    "AI|https://www.investing.com/news/company-news/bristow-group-declares-0125-quarterly-cash-dividend-93CH-4985178",
-    "AI|https://www.investing.com/news/company-news/smithfield-foods-declares-quarterly-dividend-of-03125-per-share-93CH-4985179",
     "Cybersecurity|https://www.investing.com/news/earnings/weyerhaeuser-earnings-beat-by-002-revenue-fell-short-of-estimates-4985184",
     "Cybersecurity|https://www.investing.com/news/earnings/ptc-therapeutics-earnings-missed-by-092-revenue-topped-estimates-4985199",
     "Cybersecurity|https://www.investing.com/news/earnings/exelixis-earnings-beat-by-007-revenue-topped-estimates-4985198",
@@ -5000,10 +4992,18 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/cheesecake-factory-cfo-matthew-clark-sells-27m-in-stock-93CH-4988922",
     "Watchlist|https://www.investing.com/news/insider-trading-news/pacs-group-chief-accounting-officer-sells-592647-in-shares-93CH-4988923",
     "Watchlist|https://www.investing.com/news/insider-trading-news/alphabet-director-frances-arnold-sells-23288-in-class-c-stock-93CH-4988924",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/syndax-pharmaceuticals-director-dennis-podlesak-sells-113716-in-stock-93CH-4988925"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/syndax-pharmaceuticals-director-dennis-podlesak-sells-113716-in-stock-93CH-4988925",
+    "AI|b4748259-0cd7-39bb-bcf7-d20d6c18b5be",
+    "Watchlist|b4748259-0cd7-39bb-bcf7-d20d6c18b5be",
+    "AI|https://www.investing.com/news/company-news/university-bancorp-completes-acquisition-of-uif-corporation-stake-93CH-4988942",
+    "Cybersecurity|https://www.investing.com/news/company-news/university-bancorp-completes-acquisition-of-uif-corporation-stake-93CH-4988942",
+    "SG Banks|https://www.investing.com/news/company-news/university-bancorp-completes-acquisition-of-uif-corporation-stake-93CH-4988942",
+    "Watchlist|https://www.investing.com/news/company-news/university-bancorp-completes-acquisition-of-uif-corporation-stake-93CH-4988942",
+    "AI|5a6344e1-d4c1-3bae-a65d-f1c74f458d29",
+    "Watchlist|5a6344e1-d4c1-3bae-a65d-f1c74f458d29"
   ],
   "topic_error": "",
-  "last_digest": "2026-10-30",
+  "last_digest": "2026-10-31",
   "earnings": {
     "AMD": {
       "ts": 1793736000,
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793404127.1352382,
+  "last_check": 1793405043.0556934,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-30"
