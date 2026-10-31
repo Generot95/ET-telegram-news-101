@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|fe843ac7-16e9-35be-90d3-ee4678b78370",
-    "Watchlist|8367a516-fc92-3716-96bd-4e765682dbf7",
-    "Watchlist|fe843ac7-16e9-35be-90d3-ee4678b78370",
     "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-idacorp-tops-q3-2026-profit-view-raises-outlook-93CH-4985317",
     "AI|https://www.investing.com/news/company-news/narragansett-bancorp-sets-nov-2-for-ipo-nasdaq-debut-93CH-4985323",
     "AI|https://www.investing.com/news/company-news/unifuels-to-implement-1for10-reverse-stock-split-monday-93CH-4985321",
@@ -5000,7 +4997,10 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/impinj-director-meera-rao-sells-348566-in-company-shares-93CH-4989055",
     "Watchlist|https://www.investing.com/news/insider-trading-news/zoom-communications-director-subotovsky-sells-144400-in-stock-93CH-4989056",
     "Watchlist|https://www.investing.com/news/economy-news/what-comes-next-for-euchina-trade-4989058",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/blue-biofuels-director-chris-kneppers-sells-47220-in-stock-93CH-4989068"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/blue-biofuels-director-chris-kneppers-sells-47220-in-stock-93CH-4989068",
+    "SG Banks|/companies-markets/microsofts-cloud-growth-cash-flow-offer-respite-ai-spending-fears",
+    "Watchlist|/companies-markets/microsofts-cloud-growth-cash-flow-offer-respite-ai-spending-fears",
+    "War|83d915ba-6d79-31e3-b82b-acc525e5ffe6"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793416060.0190806,
+  "last_check": 1793416975.8301766,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-30"
