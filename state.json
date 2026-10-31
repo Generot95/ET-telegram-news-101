@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/earnings/columbia-financial-earnings-missed-by-005-revenue-fell-short-of-estimates-4985639",
-    "Cybersecurity|https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-selloff-4985640",
-    "Cybersecurity|https://www.investing.com/news/company-news/cathie-woods-ark-sees-strong-interest-in-cerebras-stock-trims-tempus-ai-93CH-4985622",
-    "SG Banks|https://www.investing.com/news/earnings/cherry-hill-mortgage-earnings-matched-revenue-fell-short-of-estimates-4985623",
     "SG Banks|https://www.investing.com/news/earnings/pennymac-mortgage-earnings-beat-by-005-revenue-fell-short-of-estimates-4985624",
     "SG Banks|https://www.investing.com/news/insider-trading-news/slb-chief-accounting-officer-sells-539021-in-company-stock-93CH-4985630",
     "SG Banks|https://www.investing.com/news/earnings/unifi-earnings-beat-by-006-revenue-fell-short-of-estimates-4985631",
@@ -5000,7 +4996,11 @@
     "SG Banks|https://www.investing.com/news/economy-news/countries-reach-cop17-deal-to-speed-up-biodiversity-action-but-money-still-short-4989314",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-the-selloff-in-french-bonds-is-a-warning-for-global-governments-4989316",
     "Watchlist|https://www.investing.com/news/economy-news/countries-reach-cop17-deal-to-speed-up-biodiversity-action-but-money-still-short-4989314",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-the-selloff-in-french-bonds-is-a-warning-for-global-governments-4989316"
+    "Watchlist|https://www.investing.com/news/stock-market-news/why-the-selloff-in-french-bonds-is-a-warning-for-global-governments-4989316",
+    "Watchlist|95d694dd-272f-3cf6-929e-f11d79950baa",
+    "Crypto|3d056c94-9115-386f-8792-9eea4e27dbd9",
+    "Watchlist|212858f6-6ba1-3ffe-a3de-df5e0f8438f2",
+    "AI|212858f6-6ba1-3ffe-a3de-df5e0f8438f2"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793473822.696796,
+  "last_check": 1793474736.2630537,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
