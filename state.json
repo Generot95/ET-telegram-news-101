@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/narragansett-bancorp-sets-nov-2-for-ipo-nasdaq-debut-93CH-4985323",
-    "Cybersecurity|https://www.investing.com/news/company-news/unifuels-to-implement-1for10-reverse-stock-split-monday-93CH-4985321",
-    "Cybersecurity|https://www.investing.com/news/earnings/middlesex-water-earnings-beat-by-013-revenue-topped-estimates-4985328",
     "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-exponent-tops-q3-2026-eps-views-as-growth-stays-strong-93CH-4985329",
     "Cybersecurity|https://www.investing.com/news/sec-filings/amass-brands-updates-bylaws-to-modify-quorum-requirement-for-shareholder-meetings-93CH-4985330",
     "Cybersecurity|https://www.investing.com/news/earnings/bridgebio-pharma-earnings-beat-by-014-revenue-topped-estimates-4985331",
@@ -5000,7 +4997,10 @@
     "AI|https://www.investing.com/news/economy-news/china-factory-activity-contracts-in-october-as-economic-recovery-falters-4989075",
     "Cybersecurity|https://www.investing.com/news/economy-news/china-factory-activity-contracts-in-october-as-economic-recovery-falters-4989075",
     "SG Banks|https://www.investing.com/news/economy-news/china-factory-activity-contracts-in-october-as-economic-recovery-falters-4989075",
-    "Watchlist|https://www.investing.com/news/economy-news/china-factory-activity-contracts-in-october-as-economic-recovery-falters-4989075"
+    "Watchlist|https://www.investing.com/news/economy-news/china-factory-activity-contracts-in-october-as-economic-recovery-falters-4989075",
+    "AI|09ae743e-0308-3d01-a1ce-a9be850553ec",
+    "Watchlist|09ae743e-0308-3d01-a1ce-a9be850553ec",
+    "SG Banks|https://www.channelnewsasia.com/business/chinas-factory-activity-marks-third-contraction-in-four-months-6508946"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793418802.6969967,
+  "last_check": 1793419702.2026947,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-30"
