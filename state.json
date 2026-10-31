@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-american-coastal-tops-q3-2026-estimates-as-shares-dip-93CH-4985396",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-rimini-street-tops-revenue-in-q3-2026-shares-jump-after-hours-93CH-4985398",
-    "Watchlist|https://www.investing.com/news/stock-market-news/gilead-hikes-2026-sales-outlook-says-medicare-cuts-biktarvy-price-by-38-starting-in-2028-4985399",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/canaccord-says-sandisk-stock-data-center-surge-drives-results-93CH-4985400",
     "Watchlist|https://www.investing.com/news/stock-market-news/merck-tops-thirdquarter-estimates-as-keytruda-gardasil-outperform-4982557",
     "Watchlist|https://www.investing.com/news/company-news/illumina-q3-2026-slides-strong-beat-masks-growth-concerns-93CH-4985401",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-schneider-national-posts-mixed-q3-2026-results-raises-outlook-93CH-4985402",
@@ -5000,7 +4996,11 @@
     "SG Banks|https://www.investing.com/news/company-news/openai-raises-just-11bn-of-30bn-target-as-ai-investor-appetite-cools--wsj-4989165",
     "Watchlist|https://www.investing.com/news/company-news/openai-raises-just-11bn-of-30bn-target-as-ai-investor-appetite-cools--wsj-4989165",
     "AI|63a31cb9-1fa6-3d96-88d1-3a748ce2633f",
-    "Watchlist|63a31cb9-1fa6-3d96-88d1-3a748ce2633f"
+    "Watchlist|63a31cb9-1fa6-3d96-88d1-3a748ce2633f",
+    "SG Banks|/companies-markets/openai-slashes-funding-target-us10-billion-amid-tech-rout-ft",
+    "Watchlist|/companies-markets/openai-slashes-funding-target-us10-billion-amid-tech-rout-ft",
+    "AI|2d2ca849-713e-3fed-b862-65484d912bdf",
+    "Watchlist|2d2ca849-713e-3fed-b862-65484d912bdf"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793432551.8545892,
+  "last_check": 1793433465.7030933,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-30"
