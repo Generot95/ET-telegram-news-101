@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-idacorp-tops-q3-2026-profit-view-raises-outlook-93CH-4985317",
-    "AI|https://www.investing.com/news/company-news/narragansett-bancorp-sets-nov-2-for-ipo-nasdaq-debut-93CH-4985323",
-    "AI|https://www.investing.com/news/company-news/unifuels-to-implement-1for10-reverse-stock-split-monday-93CH-4985321",
-    "AI|https://www.investing.com/news/earnings/middlesex-water-earnings-beat-by-013-revenue-topped-estimates-4985328",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-exponent-tops-q3-2026-eps-views-as-growth-stays-strong-93CH-4985329",
-    "AI|https://www.investing.com/news/sec-filings/amass-brands-updates-bylaws-to-modify-quorum-requirement-for-shareholder-meetings-93CH-4985330",
-    "AI|https://www.investing.com/news/earnings/bridgebio-pharma-earnings-beat-by-014-revenue-topped-estimates-4985331",
-    "AI|https://www.investing.com/news/analyst-ratings/goldman-sachs-downgrades-bicara-therapeutics-stock-rating-to-sell-93CH-4985332",
-    "AI|https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-064-4985334",
     "AI|https://www.investing.com/news/sec-filings/kimberlyclark-completes-49-billion-senior-notes-offering-to-support-kenvue-deal-93CH-4985337",
     "AI|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-132-4985316",
     "AI|https://www.investing.com/news/company-news/sensient-technologies-declares-041-quarterly-dividend-93CH-4985311",
@@ -5000,7 +4991,16 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/blue-biofuels-director-chris-kneppers-sells-47220-in-stock-93CH-4989068",
     "SG Banks|/companies-markets/microsofts-cloud-growth-cash-flow-offer-respite-ai-spending-fears",
     "Watchlist|/companies-markets/microsofts-cloud-growth-cash-flow-offer-respite-ai-spending-fears",
-    "War|83d915ba-6d79-31e3-b82b-acc525e5ffe6"
+    "War|83d915ba-6d79-31e3-b82b-acc525e5ffe6",
+    "War|b0cc4c68-aed4-39b4-aba5-082c2ce595c3",
+    "AI|faa9a08f-9242-3f4a-8b22-b8a8c0a7d7e0",
+    "Watchlist|faa9a08f-9242-3f4a-8b22-b8a8c0a7d7e0",
+    "AI|https://www.investing.com/news/insider-trading-news/american-tower-evp-ruth-dowling-sells-290823-in-stock-93CH-4989073",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/american-tower-evp-ruth-dowling-sells-290823-in-stock-93CH-4989073",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/american-tower-evp-ruth-dowling-sells-290823-in-stock-93CH-4989073",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/american-tower-evp-ruth-dowling-sells-290823-in-stock-93CH-4989073",
+    "Watchlist|d0982429-2092-3701-8014-7c1b1324ee36",
+    "AI|d0982429-2092-3701-8014-7c1b1324ee36"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793416975.8301766,
+  "last_check": 1793417888.7009666,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-30"
