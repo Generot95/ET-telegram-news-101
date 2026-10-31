@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "War|f73b94db-8466-4e2b-a67d-486ecd6f91c8",
-    "Watchlist|64e22d01-bb71-418b-8407-34d837f3790e",
-    "AI|cd8ef44b-325f-3d44-a284-4c233fa42755",
-    "Crypto|651f15f0-983a-37b3-b960-ad8330eb0c62",
     "Crypto|06f69f42-49b9-3f90-8fcb-161afa9faca5",
     "Watchlist|cd8ef44b-325f-3d44-a284-4c233fa42755",
     "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-first-solar-tops-profit-estimates-in-q3-2026-93CH-4985395",
@@ -5000,7 +4996,11 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/booz-allen-hamilton-evp--general-counsel-sells-124380-in-stock-93CH-4989121",
     "Watchlist|https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-77000-as-binance-hack-recovery-takes-shape-4989115",
     "Watchlist|https://www.investing.com/news/insider-trading-news/umb-financial-director-gallagher-sells-49883-in-common-stock-93CH-4989120",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/booz-allen-hamilton-evp--general-counsel-sells-124380-in-stock-93CH-4989121"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/booz-allen-hamilton-evp--general-counsel-sells-124380-in-stock-93CH-4989121",
+    "Iran|https://www.iranintl.com/en/202610277978",
+    "AI|f74e058d-f0a1-3344-b0de-026b567000f3",
+    "Watchlist|f74e058d-f0a1-3344-b0de-026b567000f3",
+    "Watchlist|fb1b7797-f973-3b2d-be4d-fac609be81d4"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793426148.8272972,
+  "last_check": 1793427058.0737152,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-30"
