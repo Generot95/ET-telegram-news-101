@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-bright-horizons-q3-2026-earnings-beat-stock-falls-93CH-4985442",
-    "Cybersecurity|https://www.investing.com/news/company-news/kansas-city-life-appoints-kellie-needham-to-board-of-directors-93CH-4985447",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-the-realreal-tops-q3-2026-estimates-shares-rise-93CH-4985446",
-    "Cybersecurity|https://www.investing.com/news/company-news/public-storage-prices-500-million-bond-offering-due-2036-93CH-4985448",
-    "Cybersecurity|https://www.investing.com/news/company-news/atec-q3-2026-slides-show-profitability-surge-despite-execution-gaps-93CH-4985450",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-hercules-capital-posts-record-q3-2026-results-as-stock-stays-flat-93CH-4985451",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-starz-q3-2026-revenue-grows-as-streaming-gains-traction-93CH-4985452",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-dxc-beats-q2-2026-estimates-but-shares-slide-on-outlook-93CH-4985453",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-monolithic-power-tops-q3-2026-estimates-but-shares-fall-93CH-4985454",
-    "Cybersecurity|https://www.investing.com/news/company-news/first-internet-q3-2026-slides-show-record-revenue-margin-expansion-93CH-4985455",
     "Cybersecurity|https://www.investing.com/news/company-news/stoke-q3-2026-slides-emperor-trial-advances-with-zero-dropouts-93CH-4985428",
     "Cybersecurity|https://www.investing.com/news/company-news/caredx-q3-2026-slides-39-revenue-growth-guidance-raised-30m-93CH-4985430",
     "Cybersecurity|https://www.investing.com/news/company-news/colonial-coal-appoints-former-bc-premier-to-board-93CH-4985431",
@@ -5000,7 +4990,17 @@
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-tempsens-posts-strong-h1-2026-growth-shares-fall-93CH-4989207",
     "Watchlist|a242028a-aa56-3d47-bf1d-804f0fca1e4a",
     "AI|1a66ec93-e33a-3e83-abb9-9f4a0faccb39",
-    "Watchlist|1a66ec93-e33a-3e83-abb9-9f4a0faccb39"
+    "Watchlist|1a66ec93-e33a-3e83-abb9-9f4a0faccb39",
+    "AI|8b2d9095-2ce8-3acc-a67a-de926d4fbe50",
+    "Watchlist|8b2d9095-2ce8-3acc-a67a-de926d4fbe50",
+    "AI|https://www.investing.com/news/company-news/samsung-hosts-openais-altman-for-talks-on-ai-chips-and-infrastructure-4989209",
+    "AI|https://www.investing.com/news/company-news/tempsens-q2-fy27-slides-34-revenue-growth-amid-margin-pressure-93CH-4989210",
+    "Cybersecurity|https://www.investing.com/news/company-news/samsung-hosts-openais-altman-for-talks-on-ai-chips-and-infrastructure-4989209",
+    "Cybersecurity|https://www.investing.com/news/company-news/tempsens-q2-fy27-slides-34-revenue-growth-amid-margin-pressure-93CH-4989210",
+    "SG Banks|https://www.investing.com/news/company-news/samsung-hosts-openais-altman-for-talks-on-ai-chips-and-infrastructure-4989209",
+    "SG Banks|https://www.investing.com/news/company-news/tempsens-q2-fy27-slides-34-revenue-growth-amid-margin-pressure-93CH-4989210",
+    "Watchlist|https://www.investing.com/news/company-news/samsung-hosts-openais-altman-for-talks-on-ai-chips-and-infrastructure-4989209",
+    "Watchlist|https://www.investing.com/news/company-news/tempsens-q2-fy27-slides-34-revenue-growth-amid-margin-pressure-93CH-4989210"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793439886.1128073,
+  "last_check": 1793440819.8328323,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-30"
