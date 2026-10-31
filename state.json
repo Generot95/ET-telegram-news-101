@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/stonepeak-completes-acquisition-of-bmo-finance-units-93CH-4985540",
-    "AI|https://www.investing.com/news/stock-market-news/tether-circle-freeze-238-billion-after-binance-reports-security-incident-4985511",
-    "AI|https://www.investing.com/news/company-news/exelixis-q3-2026-slides-cabometyx-growth-funds-zanzalintinib-push-93CH-4985506",
-    "AI|https://www.investing.com/news/company-news/ingram-micro-q3-2026-slides-record-sales-ai-platform-drive-growth-93CH-4985510",
-    "AI|https://www.investing.com/news/company-news/digital-realty-q3-2026-slides-record-bookings-fuel-doubledigit-growth-93CH-4985512",
-    "AI|https://www.investing.com/news/company-news/intel-q3-2026-slides-record-data-center-growth-stock-tumbles-on-outlook-93CH-4985517",
-    "AI|https://www.investing.com/news/company-news/godaddy-q3-2026-slides-airo-momentum-drives-6-growth-margins-expand-93CH-4985527",
-    "AI|https://www.investing.com/news/company-news/grid-dynamics-q3-2026-slides-record-margins-fuel-stock-surge-93CH-4985529",
     "AI|WP-MKTW-0005308926",
     "Cybersecurity|https://www.investing.com/news/company-news/twilio-q3-2026-slides-record-profits-meet-cautious-outlook-93CH-4985530",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/lindblad-expeditions-director-sells-825m-in-lind-common-stock-93CH-4985531",
@@ -5000,7 +4992,15 @@
     "AI|WP-MKTW-0005317128",
     "AI|WP-MKTW-0005319856",
     "Cybersecurity|WP-MKTW-0005317128",
-    "Cybersecurity|WP-MKTW-0005319856"
+    "Cybersecurity|WP-MKTW-0005319856",
+    "AI|0c0a7a4f-097f-3190-b6fe-6309ad772d9c",
+    "Watchlist|0c0a7a4f-097f-3190-b6fe-6309ad772d9c",
+    "Watchlist|5d2ebdfc-9519-33c5-96c9-6ecb77d2fb77",
+    "AI|6aa34315-0349-34e4-adec-b8dd2cc9a97c",
+    "Watchlist|6aa34315-0349-34e4-adec-b8dd2cc9a97c",
+    "War|WP-MKTW-0005320002",
+    "AI|WP-MKTW-0005320002",
+    "Cybersecurity|WP-MKTW-0005320002"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793451822.0470006,
+  "last_check": 1793452731.7120185,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
