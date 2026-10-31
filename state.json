@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/shutterstock-founder-jon-oringer-returns-as-chief-executive-93CH-4985266",
-    "Watchlist|e0fa3f13-779b-3521-a294-aad7770ced96",
-    "Watchlist|https://www.investing.com/news/earnings/davita-shares-tumble-as-earnings-outlook-disappoints-4985234",
-    "Watchlist|https://www.investing.com/news/earnings/hercules-capital-earnings-missed-by-001-revenue-fell-short-of-estimates-4985235",
-    "Watchlist|https://www.investing.com/news/earnings/credit-acceptance-earnings-beat-by-019-revenue-fell-short-of-estimates-4985236",
-    "Watchlist|https://www.investing.com/news/company-news/aptargroup-raises-quarterly-dividend-4-to-050-per-share-93CH-4985248",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/td-cowen-raises-quanta-services-stock-price-target-on-strong-quarter-93CH-4985253",
     "Watchlist|https://www.investing.com/news/insider-trading-news/texas-instruments-director-robert-sanchez-sells-183m-in-shares-93CH-4985254",
     "Watchlist|https://www.investing.com/news/earnings/healthcare-realty-trust-earnings-missed-by-006-revenue-topped-estimates-4985260",
     "Watchlist|https://www.investing.com/news/earnings/stryker-plunges-12-q3-results-guidance-disappoint-93CH-4985263",
@@ -5000,7 +4993,14 @@
     "AI|1818c9d0-5192-30ed-a267-501c7a4527ad",
     "Watchlist|1818c9d0-5192-30ed-a267-501c7a4527ad",
     "SG Banks|https://www.straitstimes.com/business/companies-markets/apple-overtakes-nvidia-to-become-worlds-most-valuable-company",
-    "War|7c8f6c65-6af4-31e8-885e-7e3e6c08281a"
+    "War|7c8f6c65-6af4-31e8-885e-7e3e6c08281a",
+    "Crypto|e01a02cb-d045-3c03-850d-6f39ac9a3ef3",
+    "SG Banks|https://www.straitstimes.com/business/france-gets-budget-warning-as-fitch-turns-negative-on-rating",
+    "Watchlist|14091f1c-b2e6-3a39-81f9-1713a1c44302",
+    "AI|https://www.investing.com/news/company-news/openai-cuts-funding-target-by-10-billion-to-20-billion--ft-4989018",
+    "Cybersecurity|https://www.investing.com/news/company-news/openai-cuts-funding-target-by-10-billion-to-20-billion--ft-4989018",
+    "SG Banks|https://www.investing.com/news/company-news/openai-cuts-funding-target-by-10-billion-to-20-billion--ft-4989018",
+    "Watchlist|https://www.investing.com/news/company-news/openai-cuts-funding-target-by-10-billion-to-20-billion--ft-4989018"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793409640.531794,
+  "last_check": 1793410562.5743136,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-30"
