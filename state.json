@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/matson-chairman--ceo-matthew-cox-sells-228m-in-company-stock-93CH-4985663",
-    "Watchlist|https://www.investing.com/news/economic-indicators/australia-q3-producer-prices-beat-forecasts-keeping-rba-inflation-focus-4985664",
-    "SG Banks|https://www.straitstimes.com/business/cdl-hospitality-trusts-q3-net-property-income-rises-7-1-to-36-7-million",
-    "AI|d62d893e-1333-37b5-98d0-d9db29f6a501",
-    "Watchlist|d62d893e-1333-37b5-98d0-d9db29f6a501",
     "Crypto|9b0cd814-7c5b-3278-89d7-0bb4508c5653",
     "AI|df26a17f-80c1-3bb1-b27b-00be64f123f0",
     "Watchlist|df26a17f-80c1-3bb1-b27b-00be64f123f0",
@@ -5000,7 +4995,12 @@
     "SG Banks|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4989336",
     "Watchlist|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4989336",
     "Watchlist|f479b834-7784-3594-99e8-b2cd8c5dcce5",
-    "Watchlist|9ee3c739-21ac-327f-b6a8-9196ed591810"
+    "Watchlist|9ee3c739-21ac-327f-b6a8-9196ed591810",
+    "AI|a47fb9d1-94ae-375a-8026-0b252eccc27e",
+    "Watchlist|a47fb9d1-94ae-375a-8026-0b252eccc27e",
+    "Watchlist|00ba42f4-d9e8-30a7-acb3-3f50d57fe152",
+    "AI|4a53ceb9-7b58-3603-8e86-73784adba2c8",
+    "Watchlist|4a53ceb9-7b58-3603-8e86-73784adba2c8"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793482073.1107965,
+  "last_check": 1793482987.5429957,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
