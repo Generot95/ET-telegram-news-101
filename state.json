@@ -1,19 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/impedimed-q1-fy27-slides-regulatory-wins-offset-sales-headwinds-93CH-4985556",
-    "AI|https://www.investing.com/news/economic-indicators/colombia-government-proposes-steep-spending-cut-as-fiscal-woes-deepen-4985563",
-    "AI|https://www.investing.com/news/insider-trading-news/apple-svp-jennifer-newstead-sells-823720-in-stock-93CH-4985566",
-    "AI|https://www.investing.com/news/insider-trading-news/keycorp-head-andrew-paine-sells-829556-in-shares-93CH-4985567",
-    "AI|https://www.investing.com/news/stock-market-news/rivian-says-its-on-track-for-250-million-uber-funding-by-yearend-r2-demand-strong-4985570",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/sierra-bancorp-ceo-kevin-mcphaill-sells-171413-in-common-stock-93CH-4985550",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/sierra-bancorp-director-lynda-scearcy-sells-247696-in-shares-93CH-4985549",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/boundless-bio-director-kevin-tang-buys-25696-of-common-stock-93CH-4985551",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/starbucks-beats-quarterly-sales-and-profit-expectations-4984998",
-    "Cybersecurity|https://www.investing.com/news/company-news/impedimed-q1-fy27-slides-regulatory-wins-offset-sales-headwinds-93CH-4985556",
-    "Cybersecurity|https://www.investing.com/news/economic-indicators/colombia-government-proposes-steep-spending-cut-as-fiscal-woes-deepen-4985563",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/apple-svp-jennifer-newstead-sells-823720-in-stock-93CH-4985566",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/keycorp-head-andrew-paine-sells-829556-in-shares-93CH-4985567",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/rivian-says-its-on-track-for-250-million-uber-funding-by-yearend-r2-demand-strong-4985570",
     "SG Banks|https://www.investing.com/news/insider-trading-news/sierra-bancorp-ceo-kevin-mcphaill-sells-171413-in-common-stock-93CH-4985550",
     "SG Banks|https://www.investing.com/news/insider-trading-news/sierra-bancorp-director-lynda-scearcy-sells-247696-in-shares-93CH-4985549",
@@ -5000,78 +4987,91 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/citi-explains-what-hawk-and-dove-really-mean-as-ecb-faces-leadership-change-4989285",
     "AI|515301d4-63dc-3c8f-b093-4bacf7a00cc5",
     "Watchlist|515301d4-63dc-3c8f-b093-4bacf7a00cc5",
-    "SG Banks|https://www.channelnewsasia.com/business/binance-says-90-stolen-assets-replenished-6509761"
+    "SG Banks|https://www.channelnewsasia.com/business/binance-says-90-stolen-assets-replenished-6509761",
+    "AI|5ef538d7-9ed0-3c5a-b7f5-2c465e859f9d",
+    "Watchlist|5ef538d7-9ed0-3c5a-b7f5-2c465e859f9d",
+    "War|https://www.investing.com/news/commodities-news/iranian-envoys-meet-qatari-mediators-as-threat-looms-of-us-strikes-after-midterms-4989288",
+    "AI|https://www.investing.com/news/stock-market-news/binance-says-90-of-stolen-assets-replenished-4989287",
+    "AI|https://www.investing.com/news/commodities-news/iranian-envoys-meet-qatari-mediators-as-threat-looms-of-us-strikes-after-midterms-4989288",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/binance-says-90-of-stolen-assets-replenished-4989287",
+    "Cybersecurity|https://www.investing.com/news/commodities-news/iranian-envoys-meet-qatari-mediators-as-threat-looms-of-us-strikes-after-midterms-4989288",
+    "SG Banks|https://www.investing.com/news/stock-market-news/binance-says-90-of-stolen-assets-replenished-4989287",
+    "SG Banks|https://www.investing.com/news/commodities-news/iranian-envoys-meet-qatari-mediators-as-threat-looms-of-us-strikes-after-midterms-4989288",
+    "Watchlist|https://www.investing.com/news/stock-market-news/binance-says-90-of-stolen-assets-replenished-4989287",
+    "Watchlist|https://www.investing.com/news/commodities-news/iranian-envoys-meet-qatari-mediators-as-threat-looms-of-us-strikes-after-midterms-4989288",
+    "AI|1d820073-2a30-3522-9abe-802ab22e9d85",
+    "Watchlist|1d820073-2a30-3522-9abe-802ab22e9d85"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
   "earnings": {
     "AMD": {
       "ts": 1793736000,
-      "fetched": 1793373330.895017
+      "fetched": 1793459772.2732935
     },
     "NVDA": {
       "ts": 1794945600,
-      "fetched": 1793373330.895017
+      "fetched": 1793459772.2732935
     },
     "CRWD": {
       "ts": 1796155200,
-      "fetched": 1793373330.895017
+      "fetched": 1793459772.2732935
     },
     "MSFT": {
       "ts": 1801080000,
-      "fetched": 1793373330.895017
+      "fetched": 1793459772.2732935
     },
     "INTU": {
       "ts": 1795118400,
-      "fetched": 1793373330.895017
+      "fetched": 1793459772.2732935
     },
     "BRK-B": {
       "ts": 1794081600,
-      "fetched": 1793373330.895017
+      "fetched": 1793459772.2732935
     },
     "AMZN": {
       "ts": 1793304000,
-      "fetched": 1793373330.895017
+      "fetched": 1793459772.2732935
     },
     "GOOG": {
       "ts": 1793217600,
-      "fetched": 1793373330.895017
+      "fetched": 1793459772.2732935
     },
     "ZTS": {
       "ts": 1793881800,
-      "fetched": 1793373330.895017
+      "fetched": 1793459772.2732935
     },
     "LIN": {
       "ts": 1793277000,
-      "fetched": 1793373330.895017
+      "fetched": 1793459772.2732935
     },
     "VLO": {
       "ts": 1792672200,
-      "fetched": 1793373330.895017
+      "fetched": 1793459772.2732935
     },
     "D05.SI": {
       "ts": 1793869200,
-      "fetched": 1793373330.895017
+      "fetched": 1793459772.2732935
     },
     "O39.SI": {
       "ts": 1793955600,
-      "fetched": 1793373330.895017
+      "fetched": 1793459772.2732935
     },
     "U11.SI": {
       "ts": 1793782800,
-      "fetched": 1793373330.895017
+      "fetched": 1793459772.2732935
     },
     "A17U.SI": {
       "ts": 1785920400,
-      "fetched": 1793373330.895017
+      "fetched": 1793459772.2732935
     },
     "HMN.SI": {
       "ts": null,
-      "fetched": 1793373330.895017
+      "fetched": 1793459772.2732935
     },
     "JYEU.SI": {
       "ts": null,
-      "fetched": 1793373330.895017
+      "fetched": 1793459772.2732935
     }
   },
   "earnings_notified": [
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793459155.2713065,
+  "last_check": 1793460084.9124644,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
