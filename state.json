@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|51e91ee8-a53e-3b87-826f-a4def0d28fd0",
-    "AI|49be61bf-3436-35c0-aea3-46dfb9b3e9e8",
-    "AI|6ff05ce1-233d-3888-af08-6b6b7188c766",
-    "AI|6cb14b03-6dbf-3630-b38e-db42793f817d",
-    "AI|8ca6e313-9f42-33cd-958f-b933c34ffde1",
-    "AI|c5d0bf28-f916-3ca0-a5d2-3559a002412c",
     "AI|5e0d7355-865d-3891-8d02-dcc86798f622",
     "Watchlist|49be61bf-3436-35c0-aea3-46dfb9b3e9e8",
     "Watchlist|6ff05ce1-233d-3888-af08-6b6b7188c766",
@@ -5000,7 +4994,13 @@
     "Watchlist|5c28f463-7186-3e85-8b0e-449d352b8c08",
     "Iran|https://www.iranintl.com/en/202610319893",
     "SG Banks|/companies-markets/amazon-slides-light-q4-sales-estimates-high-cash-burn",
-    "Watchlist|/companies-markets/amazon-slides-light-q4-sales-estimates-high-cash-burn"
+    "Watchlist|/companies-markets/amazon-slides-light-q4-sales-estimates-high-cash-burn",
+    "AI|db30eb79-0e14-35cd-afb3-41942845538d",
+    "Watchlist|db30eb79-0e14-35cd-afb3-41942845538d",
+    "AI|https://www.investing.com/news/insider-trading-news/first-financial-director-michael-b-denny-buys-99816-of-common-stock-93CH-4989234",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/first-financial-director-michael-b-denny-buys-99816-of-common-stock-93CH-4989234",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/first-financial-director-michael-b-denny-buys-99816-of-common-stock-93CH-4989234",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/first-financial-director-michael-b-denny-buys-99816-of-common-stock-93CH-4989234"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,8 +5081,8 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793443556.9994724,
+  "last_check": 1793444470.6000092,
   "last_board": "2026-10-27",
   "commands_version": 9,
-  "last_report": "2026-10-30"
+  "last_report": "2026-10-31"
 }
