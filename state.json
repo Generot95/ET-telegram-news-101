@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/insider-trading-news/berkshire-hathaway-sells-6903-million-of-davita-nysedva-stock-93CH-4985673",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/bayer-wins-us-trial-in-which-it-was-alleged-that-roundup-caused-cancer-in-threewomen-4985665",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/berkshire-hathaway-sells-6903-million-of-davita-nysedva-stock-93CH-4985673",
     "SG Banks|https://www.investing.com/news/stock-market-news/bayer-wins-us-trial-in-which-it-was-alleged-that-roundup-caused-cancer-in-threewomen-4985665",
     "SG Banks|https://www.investing.com/news/insider-trading-news/berkshire-hathaway-sells-6903-million-of-davita-nysedva-stock-93CH-4985673",
     "Watchlist|https://www.investing.com/news/stock-market-news/bayer-wins-us-trial-in-which-it-was-alleged-that-roundup-caused-cancer-in-threewomen-4985665",
@@ -5000,7 +4997,10 @@
     "Watchlist|d2e6fbb8-64b7-31a1-988c-030daffbea6f",
     "Crypto|3c5e2d0b-1b21-3ecf-a922-69bad356de30",
     "AI|f0145ddf-e968-3ca6-8af7-34abcb62ba87",
-    "Watchlist|f0145ddf-e968-3ca6-8af7-34abcb62ba87"
+    "Watchlist|f0145ddf-e968-3ca6-8af7-34abcb62ba87",
+    "SG Banks|https://www.channelnewsasia.com/business/binance-says-it-has-covered-90-losses-63-billion-hack-6509761",
+    "AI|857fc2ad-e4a8-36bd-9096-01e0d3ce4836",
+    "Watchlist|857fc2ad-e4a8-36bd-9096-01e0d3ce4836"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793484829.690127,
+  "last_check": 1793485730.548103,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
