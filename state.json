@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-rimini-street-tops-revenue-in-q3-2026-shares-jump-after-hours-93CH-4985398",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/gilead-hikes-2026-sales-outlook-says-medicare-cuts-biktarvy-price-by-38-starting-in-2028-4985399",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/canaccord-says-sandisk-stock-data-center-surge-drives-results-93CH-4985400",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/merck-tops-thirdquarter-estimates-as-keytruda-gardasil-outperform-4982557",
-    "Cybersecurity|https://www.investing.com/news/company-news/illumina-q3-2026-slides-strong-beat-masks-growth-concerns-93CH-4985401",
     "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-schneider-national-posts-mixed-q3-2026-results-raises-outlook-93CH-4985402",
     "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-sandisk-beats-q1-2027-estimates-shares-fall-93CH-4985403",
     "Cybersecurity|https://www.investing.com/news/company-news/weis-markets-declares-034-quarterly-dividend-93CH-4985347",
@@ -5000,7 +4995,12 @@
     "Watchlist|bcbce227-deb9-3618-aca1-6d21f1d85cf1",
     "Watchlist|https://www.investing.com/news/insider-trading-news/texas-instruments-director-kirk-sells-188m-in-stock-93CH-4989139",
     "Watchlist|https://www.investing.com/news/insider-trading-news/dutch-bros-director-10-owner-sells-625-million-in-shares-93CH-4989140",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/dutch-bros-director-entity-sells-117m-in-bros-shares-93CH-4989146"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/dutch-bros-director-entity-sells-117m-in-bros-shares-93CH-4989146",
+    "War|1997a16c-b7b2-3039-9305-b458e02486f4",
+    "AI|https://www.investing.com/news/economy-news/china-reports-sharp-increase-in-gold-nickel-and-strategic-minerals--xinhua-4989148",
+    "Cybersecurity|https://www.investing.com/news/economy-news/china-reports-sharp-increase-in-gold-nickel-and-strategic-minerals--xinhua-4989148",
+    "SG Banks|https://www.investing.com/news/economy-news/china-reports-sharp-increase-in-gold-nickel-and-strategic-minerals--xinhua-4989148",
+    "Watchlist|https://www.investing.com/news/economy-news/china-reports-sharp-increase-in-gold-nickel-and-strategic-minerals--xinhua-4989148"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793428881.984665,
+  "last_check": 1793429791.6748097,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-30"
