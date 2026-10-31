@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/forex-news/bitcoin-cryptocurrency-prices-fall-after-binance-reports-security-issue-4985655",
-    "AI|https://www.investing.com/news/insider-trading-news/matson-chairman--ceo-matthew-cox-sells-228m-in-company-stock-93CH-4985663",
-    "AI|https://www.investing.com/news/economic-indicators/australia-q3-producer-prices-beat-forecasts-keeping-rba-inflation-focus-4985664",
-    "AI|https://www.investing.com/news/stock-market-news/bambusa-therapeutics-prices-ipo-at-16-per-share-on-nasdaq-432SI-4985632",
-    "Cybersecurity|https://www.investing.com/news/cryptocurrency-news/litecoin-falls-10-in-rout-4985641",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-binances-bnb-crashing-today-93CH-4985642",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-bitcoin-dropping-today-93CH-4985643",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-53-million-in-company-stock-93CH-4985653",
-    "Cybersecurity|https://www.investing.com/news/forex-news/bitcoin-cryptocurrency-prices-fall-after-binance-reports-security-issue-4985655",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/matson-chairman--ceo-matthew-cox-sells-228m-in-company-stock-93CH-4985663",
-    "Cybersecurity|https://www.investing.com/news/economic-indicators/australia-q3-producer-prices-beat-forecasts-keeping-rba-inflation-focus-4985664",
     "SG Banks|https://www.investing.com/news/cryptocurrency-news/litecoin-falls-10-in-rout-4985641",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-binances-bnb-crashing-today-93CH-4985642",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-bitcoin-dropping-today-93CH-4985643",
@@ -5000,7 +4989,18 @@
     "SG Banks|/companies-markets/sheng-siong-q3-profit-1-9-s44-6-million",
     "Watchlist|/companies-markets/sheng-siong-q3-profit-1-9-s44-6-million",
     "War|40967b5b-0e31-3723-8a4e-b8a9133b0457",
-    "Watchlist|a4ef90a4-5bec-330e-ad8d-4483ab939798"
+    "Watchlist|a4ef90a4-5bec-330e-ad8d-4483ab939798",
+    "SG Banks|https://www.straitstimes.com/business/invest/expensive-but-worth-it-exhausted-by-the-digital-world-i-turn-to-grandma-hobbies",
+    "SG Banks|https://www.straitstimes.com/business/invest/me-my-money-she-went-from-designing-buildings-to-creating-healthy-snack-choices",
+    "SG Banks|https://www.straitstimes.com/business/invest/woman-lost-her-inheritance-after-disputing-dads-right-to-sell-his-property",
+    "AI|769589a9-5cae-3edb-94ea-827eb3c1393b",
+    "Watchlist|769589a9-5cae-3edb-94ea-827eb3c1393b",
+    "SG Banks|https://www.channelnewsasia.com/business/binance-says-has-covered-90-us63-billion-hack-losses-6510271",
+    "War|https://www.investing.com/news/commodities-news/opec-set-to-hold-december-oil-output-steady-4989332",
+    "AI|https://www.investing.com/news/commodities-news/opec-set-to-hold-december-oil-output-steady-4989332",
+    "Cybersecurity|https://www.investing.com/news/commodities-news/opec-set-to-hold-december-oil-output-steady-4989332",
+    "SG Banks|https://www.investing.com/news/commodities-news/opec-set-to-hold-december-oil-output-steady-4989332",
+    "Watchlist|https://www.investing.com/news/commodities-news/opec-set-to-hold-december-oil-output-steady-4989332"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793480227.2389693,
+  "last_check": 1793481154.9243379,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
