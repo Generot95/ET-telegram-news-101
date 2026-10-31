@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|791bdfcb-9887-3628-93b6-524be19ca083",
-    "Cybersecurity|606e52e1-c5eb-3d1d-9678-02b87eb80d98",
-    "AI|792cbf7a-885c-3a76-8cf5-7e84ab8048cf",
-    "SG Banks|57c13068-449f-35f2-b9af-bab3f6064597",
-    "SG Banks|https://www.straitstimes.com/business/you-dont-need-to-be-a-natural-salesperson-to-be-a-banker-bank-of-singapore-ceo",
-    "SG Banks|https://www.channelnewsasia.com/commentary/ai-disruption-jobs-middle-managers-6502721",
     "Watchlist|606e52e1-c5eb-3d1d-9678-02b87eb80d98",
     "Watchlist|10a8adac-1351-3bd5-bf4c-ac5e3833f338",
     "Watchlist|6ac17b1b-a1ae-329e-95c0-425fa34a71d0",
@@ -5000,7 +4994,13 @@
     "AI|https://www.investing.com/news/economy-news/swiss-firms-plan-to-expand-china-investments-as-trade-deal-deepens-ties-4989188",
     "Cybersecurity|https://www.investing.com/news/economy-news/swiss-firms-plan-to-expand-china-investments-as-trade-deal-deepens-ties-4989188",
     "SG Banks|https://www.investing.com/news/economy-news/swiss-firms-plan-to-expand-china-investments-as-trade-deal-deepens-ties-4989188",
-    "Watchlist|https://www.investing.com/news/economy-news/swiss-firms-plan-to-expand-china-investments-as-trade-deal-deepens-ties-4989188"
+    "Watchlist|https://www.investing.com/news/economy-news/swiss-firms-plan-to-expand-china-investments-as-trade-deal-deepens-ties-4989188",
+    "AI|fcf6e1d9-971c-3bce-946e-9b7badaac4ee",
+    "AI|39d4dbf9-afe1-3064-8862-aa2648f788bc",
+    "Watchlist|fcf6e1d9-971c-3bce-946e-9b7badaac4ee",
+    "Watchlist|39d4dbf9-afe1-3064-8862-aa2648f788bc",
+    "SG Banks|57c13068-449f-35f2-b9af-bab3f6064597",
+    "SG Banks|https://www.straitstimes.com/business/you-dont-need-to-be-a-natural-salesperson-to-be-a-banker-bank-of-singapore-ceo"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793437130.5066001,
+  "last_check": 1793438047.315444,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-30"
