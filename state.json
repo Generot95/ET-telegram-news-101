@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.straitstimes.com/business/economy/warshs-forward-silence-risks-bigger-treasury-market-swings-say-experts",
-    "SG Banks|https://www.channelnewsasia.com/business/binance-says-254-billion-in-assets-frozen-it-probes-security-incident-6505091",
-    "SG Banks|/companies-markets/sheng-siong-q3-profit-1-9-s44-6-million",
-    "Watchlist|/companies-markets/sheng-siong-q3-profit-1-9-s44-6-million",
-    "AI|c4a4fac8-4df6-3bf4-9748-699f31d4e911",
-    "AI|https://www.investing.com/news/cryptocurrency-news/litecoin-falls-10-in-rout-4985641",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-binances-bnb-crashing-today-93CH-4985642",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-bitcoin-dropping-today-93CH-4985643",
-    "AI|https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-53-million-in-company-stock-93CH-4985653",
     "AI|https://www.investing.com/news/forex-news/bitcoin-cryptocurrency-prices-fall-after-binance-reports-security-issue-4985655",
     "AI|https://www.investing.com/news/insider-trading-news/matson-chairman--ceo-matthew-cox-sells-228m-in-company-stock-93CH-4985663",
     "AI|https://www.investing.com/news/economic-indicators/australia-q3-producer-prices-beat-forecasts-keeping-rba-inflation-focus-4985664",
@@ -5000,7 +4991,16 @@
     "SG Banks|/companies-markets/stocks-watch-clar-seatrium-sheng-siong-mpact-netlink-nbn-starhill-global-reit",
     "AI|44a915ef-694c-37e5-b9dc-fa36eb010aad",
     "Watchlist|44a915ef-694c-37e5-b9dc-fa36eb010aad",
-    "Watchlist|/companies-markets/stocks-watch-clar-seatrium-sheng-siong-mpact-netlink-nbn-starhill-global-reit"
+    "Watchlist|/companies-markets/stocks-watch-clar-seatrium-sheng-siong-mpact-netlink-nbn-starhill-global-reit",
+    "AI|65be34b0-56ba-3c6b-8d7a-dca5ef7c5f7a",
+    "Watchlist|65be34b0-56ba-3c6b-8d7a-dca5ef7c5f7a",
+    "AI|0586d845-51fd-3071-8f38-6e469a4ce340",
+    "SG Banks|https://www.straitstimes.com/business/economy/warshs-forward-silence-risks-bigger-treasury-market-swings-say-experts",
+    "Watchlist|0586d845-51fd-3071-8f38-6e469a4ce340",
+    "SG Banks|/companies-markets/sheng-siong-q3-profit-1-9-s44-6-million",
+    "Watchlist|/companies-markets/sheng-siong-q3-profit-1-9-s44-6-million",
+    "War|40967b5b-0e31-3723-8a4e-b8a9133b0457",
+    "Watchlist|a4ef90a4-5bec-330e-ad8d-4483ab939798"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793478381.6948671,
+  "last_check": 1793479306.1849992,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
