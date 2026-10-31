@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "War|9e7e65b0-f541-4e57-a4a1-4f11fe58b253",
-    "AI|06031482-e661-3b7a-abc1-6f15af02e5a7",
-    "AI|172ce255-c8d4-3226-9b4c-8e251351c8b0",
-    "AI|af89da4d-4473-3e7f-93e4-63803489d9fc",
-    "Watchlist|06031482-e661-3b7a-abc1-6f15af02e5a7",
     "Watchlist|172ce255-c8d4-3226-9b4c-8e251351c8b0",
     "Watchlist|af89da4d-4473-3e7f-93e4-63803489d9fc",
     "AI|f57653b6-c859-3a5e-b9ff-1b0d63e6f400",
@@ -5000,7 +4995,12 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/natera-cfo-michael-brophy-sells-131-million-in-common-stock-93CH-4989039",
     "SG Banks|/companies-markets/capital-markets-currencies/europes-stoxx-600-subdued-earnings-and-oil-prices-weigh",
     "Watchlist|/companies-markets/capital-markets-currencies/europes-stoxx-600-subdued-earnings-and-oil-prices-weigh",
-    "SG Banks|https://www.straitstimes.com/business/companies-markets/wall-street-ends-lower-as-alphabet-revenue-miss-revives-ai-capex-jitters"
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/wall-street-ends-lower-as-alphabet-revenue-miss-revives-ai-capex-jitters",
+    "Crypto|af9dd97d-a356-3836-937b-9434bb7bd6dc",
+    "AI|a77582da-8318-3966-8a7c-111a60621aac",
+    "Crypto|c8a387c2-0155-3e72-b99d-2d6327f305e0",
+    "Watchlist|a77582da-8318-3966-8a7c-111a60621aac",
+    "Watchlist|b5447f5e-2dc5-3fa9-8046-7f6174408fe4"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793413303.988071,
+  "last_check": 1793414216.4702282,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-30"
