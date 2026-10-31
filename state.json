@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/economy-news/asian-shares-fall-as-alphabet-earnings-miss-drags-wall-st-futures-lower-4981378",
-    "Watchlist|https://www.investing.com/news/economy-news/asian-shares-fall-as-alphabet-earnings-miss-drags-wall-st-futures-lower-4981378",
-    "War|edc18373-8d85-4830-bb23-5cea05721c0d",
-    "SG Banks|https://www.channelnewsasia.com/business/tokyo-core-inflation-exceeds-boj-target-in-october-6505246",
-    "Crypto|119a7258-d1db-3808-9a05-6c8f96d43ccc",
-    "SG Banks|/companies-markets/chinese-government-speed-bond-sales-stimulate-growth",
-    "AI|eafddc17-d27c-3618-b754-9294c1112c82",
-    "Watchlist|eafddc17-d27c-3618-b754-9294c1112c82",
     "Crypto|b2b36d7d-df45-311c-aabf-53f4c68adfac",
     "SG Banks|/companies-markets/singpost-streamline-eu-bound-shipments-under-new-customs-rules-nov-1",
     "SG Banks|https://www.straitstimes.com/business/reddit-search-traffic-slumps-will-push-visitor-sign-ins-to-curb-ai-scraping",
@@ -5000,7 +4992,15 @@
     "SG Banks|https://www.investing.com/news/cryptocurrency-news/binance-says-it-has-replaced-90-of-63-billion-stolen-in-record-crypto-hack-4989304",
     "Watchlist|https://www.investing.com/news/cryptocurrency-news/binance-says-it-has-replaced-90-of-63-billion-stolen-in-record-crypto-hack-4989304",
     "AI|c5775743-10eb-35c4-9840-ef0008fb6cb4",
-    "Watchlist|c5775743-10eb-35c4-9840-ef0008fb6cb4"
+    "Watchlist|c5775743-10eb-35c4-9840-ef0008fb6cb4",
+    "SG Banks|https://www.channelnewsasia.com/business/binance-says-it-has-covered-90-losses-63-billion-hack-so-far-6509761",
+    "War|WP-MKTW-0005313573",
+    "AI|WP-MKTW-0005313573",
+    "Cybersecurity|WP-MKTW-0005313573",
+    "AI|c779eab3-d283-3927-b77d-5a0bf01204ff",
+    "Watchlist|c779eab3-d283-3927-b77d-5a0bf01204ff",
+    "SG Banks|/companies-markets/chinese-government-speed-bond-sales-stimulate-growth",
+    "Crypto|7427a025-d53e-39d2-a5c8-c8ffad716909"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793467395.20426,
+  "last_check": 1793468317.703989,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
