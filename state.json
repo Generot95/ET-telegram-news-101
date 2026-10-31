@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-onespan-tops-q3-2026-estimates-shares-jump-195-93CH-4985537",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-impedimed-q1-2026-sales-stumble-clouds-outlook-93CH-4985539",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/coinbase-snaps-losing-streak-with-thirdquarter-profit-on-crypto-trading-rebound-4985073",
-    "Cybersecurity|https://www.investing.com/news/company-news/stonepeak-completes-acquisition-of-bmo-finance-units-93CH-4985540",
-    "Cybersecurity|https://www.investing.com/news/company-news/exelixis-q3-2026-slides-cabometyx-growth-funds-zanzalintinib-push-93CH-4985506",
-    "Cybersecurity|https://www.investing.com/news/company-news/ingram-micro-q3-2026-slides-record-sales-ai-platform-drive-growth-93CH-4985510",
-    "Cybersecurity|https://www.investing.com/news/company-news/digital-realty-q3-2026-slides-record-bookings-fuel-doubledigit-growth-93CH-4985512",
-    "Cybersecurity|https://www.investing.com/news/company-news/intel-q3-2026-slides-record-data-center-growth-stock-tumbles-on-outlook-93CH-4985517",
-    "Cybersecurity|https://www.investing.com/news/company-news/godaddy-q3-2026-slides-airo-momentum-drives-6-growth-margins-expand-93CH-4985527",
-    "Cybersecurity|https://www.investing.com/news/company-news/grid-dynamics-q3-2026-slides-record-margins-fuel-stock-surge-93CH-4985529",
-    "Cybersecurity|WP-MKTW-0005308926",
     "SG Banks|https://www.investing.com/news/company-news/twilio-q3-2026-slides-record-profits-meet-cautious-outlook-93CH-4985530",
     "SG Banks|https://www.investing.com/news/insider-trading-news/lindblad-expeditions-director-sells-825m-in-lind-common-stock-93CH-4985531",
     "SG Banks|https://www.investing.com/news/company-news/coveo-q2-fy27-slides-record-bookings-ai-differentiation-strategy-93CH-4985532",
@@ -5000,7 +4989,18 @@
     "AI|8af5a374-5bcc-3c86-b822-cbffe259fb53",
     "Watchlist|8af5a374-5bcc-3c86-b822-cbffe259fb53",
     "AI|f20da629-da53-3341-be27-f189771b64d5",
-    "Watchlist|62610623-413a-3dd3-beaf-7301ecfecfbb"
+    "Watchlist|62610623-413a-3dd3-beaf-7301ecfecfbb",
+    "AI|https://www.investing.com/news/insider-trading-news/medifast-director-kiai-parsa-buys-68027-in-company-stock-93CH-4989272",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/medifast-director-kiai-parsa-buys-68027-in-company-stock-93CH-4989272",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/medifast-director-kiai-parsa-buys-68027-in-company-stock-93CH-4989272",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/medifast-director-kiai-parsa-buys-68027-in-company-stock-93CH-4989272",
+    "AI|4cd1748c-7763-3899-9530-896472e02488",
+    "War|f81c2fcc-f599-4598-bb20-06e0f8d7d1df",
+    "Watchlist|4cd1748c-7763-3899-9530-896472e02488",
+    "Watchlist|af24b02a-6df4-352e-90d9-6052a6529e75",
+    "Watchlist|3e7d3348-7abc-35ee-a802-348f1448bfa7",
+    "AI|9939da20-d8ad-3397-bd76-55edeeee302d",
+    "Watchlist|9939da20-d8ad-3397-bd76-55edeeee302d"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793453648.5587933,
+  "last_check": 1793454561.039816,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
