@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|48a8a4d4-3748-345b-a1f1-6bcf4c14a0b1",
-    "Watchlist|97d14d87-9ff9-3c64-ae53-147d945c3a52",
-    "AI|da2ea11f-218c-3579-bba1-0b87214d5e5c",
-    "AI|6566608b-ea73-3e02-aa38-7afe7744f241",
-    "AI|3b010eaf-185c-3470-812e-cb06c6388d5a",
-    "AI|5c8095eb-614d-34f9-a52a-69fa4f94c102",
-    "AI|54be1500-5556-3118-bc02-a19f66efa1e6",
-    "Watchlist|da2ea11f-218c-3579-bba1-0b87214d5e5c",
     "Watchlist|6566608b-ea73-3e02-aa38-7afe7744f241",
     "Watchlist|3b010eaf-185c-3470-812e-cb06c6388d5a",
     "Watchlist|5c8095eb-614d-34f9-a52a-69fa4f94c102",
@@ -5000,7 +4992,15 @@
     "Watchlist|/companies-markets/over-8-10-businesses-tap-tokenised-money-expansion-liquidity-management-dbs-survey",
     "Crypto|752ea03b-3bae-33d9-823e-12089e547cc2",
     "AI|955d5ba9-da7e-3a26-8888-21ba172ad742",
-    "Watchlist|955d5ba9-da7e-3a26-8888-21ba172ad742"
+    "Watchlist|955d5ba9-da7e-3a26-8888-21ba172ad742",
+    "AI|452a668b-2bb2-34b9-960c-564d779c9632",
+    "Watchlist|452a668b-2bb2-34b9-960c-564d779c9632",
+    "AI|1075ce02-652b-3524-b94f-25ba14ab02f5",
+    "AI|e69635fe-2632-36b6-88cd-fc7d363844f3",
+    "Watchlist|1075ce02-652b-3524-b94f-25ba14ab02f5",
+    "Watchlist|e69635fe-2632-36b6-88cd-fc7d363844f3",
+    "War|758dde35-c50c-3b7a-8594-3fe9aa7e89ef",
+    "War|778ecbde-1828-4200-8f14-40480463eae8"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793457326.7153664,
+  "last_check": 1793458246.9831839,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
