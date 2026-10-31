@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|172ce255-c8d4-3226-9b4c-8e251351c8b0",
-    "Watchlist|af89da4d-4473-3e7f-93e4-63803489d9fc",
-    "AI|f57653b6-c859-3a5e-b9ff-1b0d63e6f400",
-    "Crypto|e2ecde2a-f25f-38dc-8f9c-2e8f998fd67d",
-    "AI|fef51431-14da-3b6d-9508-0bda8be47b32",
-    "Crypto|063806b8-cba8-369b-b202-9bb931815dcb",
-    "Watchlist|fef51431-14da-3b6d-9508-0bda8be47b32",
-    "SG Banks|/international/global/mpact-singapore-land-enter-top-tier-global-esg-benchmark-real-estate-hongkong-land-slips",
-    "Watchlist|/international/global/mpact-singapore-land-enter-top-tier-global-esg-benchmark-real-estate-hongkong-land-slips",
-    "AI|bf813c52-7778-3794-85dc-e4273f20fc6c",
-    "AI|3cde0a47-b64f-3a06-b5e8-f8788916ae6b",
     "AI|https://www.investing.com/news/company-news/methanex-approves-share-buyback-program-of-up-to-5-of-shares-93CH-4985280",
     "AI|https://www.investing.com/news/company-news/newmarket-raises-quarterly-dividend-8-to-325-per-share-93CH-4985281",
     "AI|https://www.investing.com/news/company-news/canadian-national-railway-names-jamie-lockwood-as-new-cfo-93CH-4985282",
@@ -5000,7 +4989,18 @@
     "AI|a77582da-8318-3966-8a7c-111a60621aac",
     "Crypto|c8a387c2-0155-3e72-b99d-2d6327f305e0",
     "Watchlist|a77582da-8318-3966-8a7c-111a60621aac",
-    "Watchlist|b5447f5e-2dc5-3fa9-8046-7f6174408fe4"
+    "Watchlist|b5447f5e-2dc5-3fa9-8046-7f6174408fe4",
+    "SG Banks|https://www.channelnewsasia.com/business/openai-slashes-funding-target-10-billion-amid-tech-rout-ft-reports-6508816",
+    "AI|https://www.investing.com/news/company-news/hedge-fund-arini-sells-800-million-in-debt-as-losses-mount--wsj-4989041",
+    "Cybersecurity|https://www.investing.com/news/company-news/hedge-fund-arini-sells-800-million-in-debt-as-losses-mount--wsj-4989041",
+    "SG Banks|/companies-markets/metas-rating-outlook-cut-negative-sp-ai-spending",
+    "SG Banks|https://www.investing.com/news/company-news/hedge-fund-arini-sells-800-million-in-debt-as-losses-mount--wsj-4989041",
+    "Watchlist|/companies-markets/metas-rating-outlook-cut-negative-sp-ai-spending",
+    "Watchlist|https://www.investing.com/news/company-news/hedge-fund-arini-sells-800-million-in-debt-as-losses-mount--wsj-4989041",
+    "AI|36031bfa-fc7a-33b1-9b20-aa4969420354",
+    "AI|a7fe4d6b-da11-39bd-88d4-a9cd252d4095",
+    "Watchlist|36031bfa-fc7a-33b1-9b20-aa4969420354",
+    "Watchlist|a7fe4d6b-da11-39bd-88d4-a9cd252d4095"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793414216.4702282,
+  "last_check": 1793415135.7727497,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-30"
