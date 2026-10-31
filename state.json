@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/cryptocurrency-news/litecoin-falls-10-in-rout-4985641",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-binances-bnb-crashing-today-93CH-4985642",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-bitcoin-dropping-today-93CH-4985643",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-53-million-in-company-stock-93CH-4985653",
-    "SG Banks|https://www.investing.com/news/forex-news/bitcoin-cryptocurrency-prices-fall-after-binance-reports-security-issue-4985655",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/matson-chairman--ceo-matthew-cox-sells-228m-in-company-stock-93CH-4985663",
-    "SG Banks|https://www.investing.com/news/economic-indicators/australia-q3-producer-prices-beat-forecasts-keeping-rba-inflation-focus-4985664",
-    "Watchlist|https://www.investing.com/news/cryptocurrency-news/litecoin-falls-10-in-rout-4985641",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-binances-bnb-crashing-today-93CH-4985642",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-bitcoin-dropping-today-93CH-4985643",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-53-million-in-company-stock-93CH-4985653",
-    "Watchlist|https://www.investing.com/news/forex-news/bitcoin-cryptocurrency-prices-fall-after-binance-reports-security-issue-4985655",
     "Watchlist|https://www.investing.com/news/insider-trading-news/matson-chairman--ceo-matthew-cox-sells-228m-in-company-stock-93CH-4985663",
     "Watchlist|https://www.investing.com/news/economic-indicators/australia-q3-producer-prices-beat-forecasts-keeping-rba-inflation-focus-4985664",
     "SG Banks|https://www.straitstimes.com/business/cdl-hospitality-trusts-q3-net-property-income-rises-7-1-to-36-7-million",
@@ -5000,7 +4988,19 @@
     "AI|https://www.investing.com/news/commodities-news/opec-set-to-hold-december-oil-output-steady-4989332",
     "Cybersecurity|https://www.investing.com/news/commodities-news/opec-set-to-hold-december-oil-output-steady-4989332",
     "SG Banks|https://www.investing.com/news/commodities-news/opec-set-to-hold-december-oil-output-steady-4989332",
-    "Watchlist|https://www.investing.com/news/commodities-news/opec-set-to-hold-december-oil-output-steady-4989332"
+    "Watchlist|https://www.investing.com/news/commodities-news/opec-set-to-hold-december-oil-output-steady-4989332",
+    "Crypto|36f79c30-35e2-3752-b661-0f6185664b1d",
+    "War|1f2c2804-0f12-33dc-acbf-d28ea9888860",
+    "Crypto|720d3a78-79c1-3298-bb92-a0d7ee694bac",
+    "War|1da612e2-7d0f-3071-a8ed-31f45ab88c67",
+    "AI|dcd7f3ab-b00e-3e8e-b12f-a3dbf56e133a",
+    "AI|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4989336",
+    "Crypto|748233b5-e51c-3573-9daa-00c6ade2572f",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4989336",
+    "SG Banks|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4989336",
+    "Watchlist|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4989336",
+    "Watchlist|f479b834-7784-3594-99e8-b2cd8c5dcce5",
+    "Watchlist|9ee3c739-21ac-327f-b6a8-9196ed591810"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793481154.9243379,
+  "last_check": 1793482073.1107965,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
