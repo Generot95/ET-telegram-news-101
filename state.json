@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "War|https://www.investing.com/news/commodities-news/gold-hovers-near-4000-as-pce-inflation-oil-risks-revive-fed-hike-concerns-4985685",
-    "AI|https://www.investing.com/news/stock-market-news/us-stock-futures-sink-nasdaq-down-2-as-amazon-intel-earnings-underwhelm-4985675",
-    "AI|https://www.investing.com/news/stock-market-news/sk-hynix-neutral-in-notrade-zone-awaiting-breakout-live-93CH-4971337",
     "AI|https://www.investing.com/news/stock-market-news/why-is-spacex-stock-falling-afterhours-today-93CH-4985677",
     "AI|https://www.investing.com/news/stock-market-news/anthropic-accounts-for-over-a-third-of-spacex-revenue-in-q3-bloomberg-reports-4985678",
     "AI|https://www.investing.com/news/insider-trading-news/stride-director-dylan-haggart-buys-62187-in-company-stock-93CH-4985683",
@@ -5000,7 +4997,10 @@
     "Watchlist|2463e87a-8818-39e8-84fb-28f2b1fbdbc2",
     "War|c1e3a89c-931f-3089-9b7c-fb23b85dbb67",
     "Watchlist|ac20108a-b351-3b9e-8806-f8f0569f5264",
-    "Watchlist|/companies-markets/energy-commodities/sembcorp-dayone-sign-pact-explore-powering-data-centres-asia"
+    "Watchlist|/companies-markets/energy-commodities/sembcorp-dayone-sign-pact-explore-powering-data-centres-asia",
+    "Iran|https://www.iranintl.com/en/202610317760",
+    "War|https://www.investing.com/news/commodities-news/gold-hovers-near-4000-as-pce-inflation-oil-risks-revive-fed-hike-concerns-4985685",
+    "Crypto|48155f14-9ef9-3f42-90fa-5c44f8bf62de"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793489404.41838,
+  "last_check": 1793490324.268779,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
