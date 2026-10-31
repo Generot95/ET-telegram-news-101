@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Crypto|663b24a7-17bb-3c4b-872a-368164e1efba",
-    "SG Banks|https://www.straitstimes.com/business/invest/five-ways-to-keep-online-transactions-safe-in-the-wake-of-ai-hacking",
-    "Watchlist|5a2f0eb0-b6aa-3a50-a1d1-f28f06645b05",
-    "AI|0122aaac-b36a-416e-a7cb-56f25dba69cb",
-    "SG Banks|https://www.channelnewsasia.com/business/euro-edges-up-versus-dollar-after-ecb-holds-rates-6501936",
-    "AI|0fd39bdd-f21b-3c6a-b4c1-ab974394e5cb",
-    "AI|9ce0be51-704e-39d3-9c31-b1d1ab789571",
-    "AI|eb9652bc-c300-3338-9d80-3f9cc26606b3",
-    "AI|aca61b2d-958c-3e8a-bcae-34d2b48529c8",
-    "AI|bc1f784c-a049-3633-8b8c-3dc3fec7f84e",
     "Watchlist|0fd39bdd-f21b-3c6a-b4c1-ab974394e5cb",
     "Watchlist|9ce0be51-704e-39d3-9c31-b1d1ab789571",
     "Watchlist|eb9652bc-c300-3338-9d80-3f9cc26606b3",
@@ -5000,7 +4990,17 @@
     "SG Banks|/companies-markets/capital-markets-currencies/wall-street-ends-higher-fed-holds-key-rate-steady-focus-turns-earnings",
     "Watchlist|ce543c50-4d9b-3018-a7a8-1c640df1ccb1",
     "Watchlist|/companies-markets/capital-markets-currencies/wall-street-ends-higher-fed-holds-key-rate-steady-focus-turns-earnings",
-    "SG Banks|https://www.channelnewsasia.com/business/crypto-exchanges-call-quick-moves-bolster-defenses-after-binance-heist-6508836"
+    "SG Banks|https://www.channelnewsasia.com/business/crypto-exchanges-call-quick-moves-bolster-defenses-after-binance-heist-6508836",
+    "AI|https://www.investing.com/news/stock-market-news/crypto-exchanges-call-for-quick-moves-to-bolster-defenses-after-binance-heist-4988976",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/crypto-exchanges-call-for-quick-moves-to-bolster-defenses-after-binance-heist-4988976",
+    "SG Banks|https://www.investing.com/news/stock-market-news/crypto-exchanges-call-for-quick-moves-to-bolster-defenses-after-binance-heist-4988976",
+    "Watchlist|https://www.investing.com/news/stock-market-news/crypto-exchanges-call-for-quick-moves-to-bolster-defenses-after-binance-heist-4988976",
+    "SG Banks|/companies-markets/oil-jumps-2-settles-6-month-highs-fears-escalation-iran",
+    "SG Banks|https://www.straitstimes.com/business/invest/five-ways-to-keep-online-transactions-safe-in-the-wake-of-ai-hacking",
+    "Watchlist|/companies-markets/oil-jumps-2-settles-6-month-highs-fears-escalation-iran",
+    "AI|5715788e-db5c-36d9-a0fc-b3107433bac8",
+    "Watchlist|5715788e-db5c-36d9-a0fc-b3107433bac8",
+    "SG Banks|https://www.straitstimes.com/business/what-protections-exist-for-binances-customers"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793406897.9969559,
+  "last_check": 1793407809.2293575,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-30"
