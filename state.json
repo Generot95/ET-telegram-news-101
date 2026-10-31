@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/company-news/fedex-freight-q3-2026-slides-volumes-stabilize-margins-expand-postspin-93CH-4985495",
-    "Watchlist|https://www.investing.com/news/company-news/business-first-bancshares-approves-30m-buyback-program-93CH-4985496",
-    "Watchlist|https://www.investing.com/news/company-news/covista-q1-fy27-slides-enrollment-growth-drives-guidance-raise-93CH-4985497",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-intel-beats-q3-2026-estimates-but-stock-sinks-93CH-4985498",
-    "Watchlist|https://www.investing.com/news/company-news/atomera-q3-2026-slides-zero-revenue-despite-tech-progress-93CH-4985499",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-capstone-copper-posts-record-ebitda-in-q3-2026-93CH-4985500",
-    "Watchlist|https://www.investing.com/news/company-news/axos-q1-fy27-slides-loan-growth-accelerates-margin-flat-ahead-93CH-4985501",
-    "Watchlist|https://www.investing.com/news/company-news/klabin-3q26-slides-revenue-up-3-as-costs-squeeze-margins-93CH-4985502",
-    "War|https://www.investing.com/news/commodities-news/us-oil-prices-fall-as-investors-gauge-risks-to-mideast-supply-4981268",
-    "War|https://www.investing.com/news/commodities-news/oil-dips-as-traders-weigh-iran-diplomacy-against-renewed-strike-risks-4981275",
-    "SG Banks|/companies-markets/telcos-media-tech/anthropic-said-pick-jpmorgan-lead-ipos-us-retail-offering",
-    "SG Banks|/companies-markets/far-east-hospitality-trust-q3-net-property-income-6-3-s27-6-million",
     "SG Banks|https://www.straitstimes.com/business/bank-of-japan-set-to-hold-rate-as-inflation-reaches-long-awaited-milestone",
     "Watchlist|/companies-markets/telcos-media-tech/anthropic-said-pick-jpmorgan-lead-ipos-us-retail-offering",
     "Watchlist|/companies-markets/far-east-hospitality-trust-q3-net-property-income-6-3-s27-6-million",
@@ -5000,7 +4988,19 @@
     "Crypto|5f11e4e8-8418-3427-abfe-a1565ceada8a",
     "War|68c8a380-c257-3254-940e-10124655016d",
     "AI|68c8a380-c257-3254-940e-10124655016d",
-    "Watchlist|68c8a380-c257-3254-940e-10124655016d"
+    "Watchlist|68c8a380-c257-3254-940e-10124655016d",
+    "AI|e9bbb0c4-8ea2-310f-a75e-83cf31682204",
+    "AI|db876531-c3c9-3092-9e97-9a399a3fa354",
+    "Watchlist|e9bbb0c4-8ea2-310f-a75e-83cf31682204",
+    "Watchlist|db876531-c3c9-3092-9e97-9a399a3fa354",
+    "Crypto|3188efa4-0211-3552-8138-44451ed729d6",
+    "AI|9f64f875-35a4-3cac-86e3-a7d06eb54605",
+    "AI|e6c3c393-9f82-3f5f-8b39-7f64fbd3c2bc",
+    "AI|b06fcd0c-9749-3d83-84cf-f7b17a779d3d",
+    "Watchlist|9f64f875-35a4-3cac-86e3-a7d06eb54605",
+    "Watchlist|e6c3c393-9f82-3f5f-8b39-7f64fbd3c2bc",
+    "Watchlist|b06fcd0c-9749-3d83-84cf-f7b17a779d3d",
+    "Iran|https://www.iranintl.com/en/202610318569"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793447230.2935698,
+  "last_check": 1793448154.608202,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
