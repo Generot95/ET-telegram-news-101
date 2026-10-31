@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/earnings/medallion-earnings-missed-by-022-revenue-fell-short-of-estimates-4985638",
-    "AI|https://www.investing.com/news/earnings/columbia-financial-earnings-missed-by-005-revenue-fell-short-of-estimates-4985639",
     "AI|https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-selloff-4985640",
     "AI|https://www.investing.com/news/stock-market-news/japans-beleaguered-shoppers-are-a-worry-for-convenience-stores-and-the-economy-4985612",
     "AI|https://www.investing.com/news/company-news/cathie-woods-ark-sees-strong-interest-in-cerebras-stock-trims-tempus-ai-93CH-4985622",
@@ -5000,7 +4998,9 @@
     "AI|https://www.investing.com/news/insider-trading-news/uscb-financial-holdings-director-buys-20000-in-stock-93CH-4989312",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/uscb-financial-holdings-director-buys-20000-in-stock-93CH-4989312",
     "SG Banks|https://www.investing.com/news/insider-trading-news/uscb-financial-holdings-director-buys-20000-in-stock-93CH-4989312",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/uscb-financial-holdings-director-buys-20000-in-stock-93CH-4989312"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/uscb-financial-holdings-director-buys-20000-in-stock-93CH-4989312",
+    "AI|81adf583-f45a-30a4-917d-c9f523d390ec",
+    "Watchlist|81adf583-f45a-30a4-917d-c9f523d390ec"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793471990.667815,
+  "last_check": 1793472908.2006352,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
