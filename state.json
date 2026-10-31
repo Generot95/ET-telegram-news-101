@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Crypto|9b0cd814-7c5b-3278-89d7-0bb4508c5653",
-    "AI|df26a17f-80c1-3bb1-b27b-00be64f123f0",
-    "Watchlist|df26a17f-80c1-3bb1-b27b-00be64f123f0",
-    "War|49b56cf7-121e-3bb7-b540-264f004ef724",
-    "AI|https://www.investing.com/news/stock-market-news/bayer-wins-us-trial-in-which-it-was-alleged-that-roundup-caused-cancer-in-threewomen-4985665",
     "AI|https://www.investing.com/news/insider-trading-news/berkshire-hathaway-sells-6903-million-of-davita-nysedva-stock-93CH-4985673",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/bayer-wins-us-trial-in-which-it-was-alleged-that-roundup-caused-cancer-in-threewomen-4985665",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/berkshire-hathaway-sells-6903-million-of-davita-nysedva-stock-93CH-4985673",
@@ -5000,7 +4995,12 @@
     "Watchlist|a47fb9d1-94ae-375a-8026-0b252eccc27e",
     "Watchlist|00ba42f4-d9e8-30a7-acb3-3f50d57fe152",
     "AI|4a53ceb9-7b58-3603-8e86-73784adba2c8",
-    "Watchlist|4a53ceb9-7b58-3603-8e86-73784adba2c8"
+    "Watchlist|4a53ceb9-7b58-3603-8e86-73784adba2c8",
+    "AI|d2e6fbb8-64b7-31a1-988c-030daffbea6f",
+    "Watchlist|d2e6fbb8-64b7-31a1-988c-030daffbea6f",
+    "Crypto|3c5e2d0b-1b21-3ecf-a922-69bad356de30",
+    "AI|f0145ddf-e968-3ca6-8af7-34abcb62ba87",
+    "Watchlist|f0145ddf-e968-3ca6-8af7-34abcb62ba87"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793482987.5429957,
+  "last_check": 1793483911.8389506,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
