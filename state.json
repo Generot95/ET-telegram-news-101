@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/stoke-q3-2026-slides-emperor-trial-advances-with-zero-dropouts-93CH-4985428",
-    "Cybersecurity|https://www.investing.com/news/company-news/caredx-q3-2026-slides-39-revenue-growth-guidance-raised-30m-93CH-4985430",
-    "Cybersecurity|https://www.investing.com/news/company-news/colonial-coal-appoints-former-bc-premier-to-board-93CH-4985431",
-    "Cybersecurity|https://www.investing.com/news/company-news/sandisk-q1-fy2027-slides-ai-surge-drives-record-margins-shares-fall-93CH-4985432",
-    "Cybersecurity|https://www.investing.com/news/company-news/resmed-q1-fy27-slides-strong-margins-1b-shareholder-returns-93CH-4985433",
     "Cybersecurity|https://www.investing.com/news/company-news/gilead-q3-2026-slides-hiv-sales-surge-drives-decadebest-growth-93CH-4985434",
     "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-bright-horizons-q3-2026-earnings-beat-stock-falls-93CH-4985442",
     "SG Banks|https://www.investing.com/news/company-news/kansas-city-life-appoints-kellie-needham-to-board-of-directors-93CH-4985447",
@@ -5000,7 +4995,12 @@
     "SG Banks|https://www.investing.com/news/company-news/samsung-hosts-openais-altman-for-talks-on-ai-chips-and-infrastructure-4989209",
     "SG Banks|https://www.investing.com/news/company-news/tempsens-q2-fy27-slides-34-revenue-growth-amid-margin-pressure-93CH-4989210",
     "Watchlist|https://www.investing.com/news/company-news/samsung-hosts-openais-altman-for-talks-on-ai-chips-and-infrastructure-4989209",
-    "Watchlist|https://www.investing.com/news/company-news/tempsens-q2-fy27-slides-34-revenue-growth-amid-margin-pressure-93CH-4989210"
+    "Watchlist|https://www.investing.com/news/company-news/tempsens-q2-fy27-slides-34-revenue-growth-amid-margin-pressure-93CH-4989210",
+    "AI|f92c8c8b-f461-4422-95fc-a2dc57be39ed",
+    "Crypto|905faf48-9444-4d2f-9c8c-65cad67a6594",
+    "Watchlist|f92c8c8b-f461-4422-95fc-a2dc57be39ed",
+    "AI|2d0fe49c-9ab7-3ec7-9c7b-a58dc8dc0eef",
+    "Watchlist|2d0fe49c-9ab7-3ec7-9c7b-a58dc8dc0eef"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793440819.8328323,
+  "last_check": 1793441727.146294,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-30"
