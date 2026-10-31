@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|/companies-markets/mpact-q2-dpu-falls-3-5-s0-0194-weaker-overseas-contributions",
-    "Watchlist|/companies-markets/mpact-q2-dpu-falls-3-5-s0-0194-weaker-overseas-contributions",
-    "SG Banks|https://www.straitstimes.com/business/asian-shares-fall-as-alphabet-earnings-miss-drags-wall-st-futures-lower",
-    "SG Banks|https://www.channelnewsasia.com/business/intel-shares-tumble-after-hours-hit-chip-supply-constraints-big-cash-burn-6504881",
     "Crypto|c26493e1-eff4-36f2-b55d-aae3b4a3b284",
     "SG Banks|https://www.straitstimes.com/business/intel-shares-drop-21-on-israel-factory-blast-pc-weakness",
     "AI|dc86a2d5-a35f-3c77-97bf-432b5dc4827e",
@@ -5000,7 +4996,11 @@
     "AI|bae89ba6-9989-31d2-bd29-d985799f9901",
     "AI|e1bcc19d-0970-37eb-b3f9-d699a7de1e92",
     "Watchlist|bae89ba6-9989-31d2-bd29-d985799f9901",
-    "Watchlist|e1bcc19d-0970-37eb-b3f9-d699a7de1e92"
+    "Watchlist|e1bcc19d-0970-37eb-b3f9-d699a7de1e92",
+    "AI|f4d587b5-839f-375b-b542-7648f150a0ae",
+    "SG Banks|/companies-markets/mpact-q2-dpu-falls-3-5-s0-0194-weaker-overseas-contributions",
+    "Watchlist|f4d587b5-839f-375b-b542-7648f150a0ae",
+    "Watchlist|/companies-markets/mpact-q2-dpu-falls-3-5-s0-0194-weaker-overseas-contributions"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793470153.789411,
+  "last_check": 1793471072.2732675,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
