@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Iran|https://www.iranintl.com/en/202610280690",
-    "SG Banks|bb75d1b6-c5f4-3186-bb69-4a83121fd095",
-    "SG Banks|823e114a-be39-36d8-ad49-ea4cd59799ce",
-    "SG Banks|/companies-markets/capitaland-india-trust-q3-net-property-income-down-8-rupee-weakness",
-    "SG Banks|/international/global/ambanis-jio-surges-debut-after-india-record-us3-1-billion-ipo",
-    "SG Banks|/companies-markets/sia-buy-4800-tonnes-sustainable-aviation-fuel-aethers-singapore-plant",
-    "SG Banks|https://www.straitstimes.com/business/keppel-posts-20-rise-in-q3-net-profit-new-keppel-earnings-up-15",
-    "Watchlist|/companies-markets/sia-buy-4800-tonnes-sustainable-aviation-fuel-aethers-singapore-plant",
-    "Iran|https://www.iranintl.com/en/202610286064",
-    "SG Banks|https://www.straitstimes.com/business/these-mid-career-workers-are-back-in-class-to-learn-ai-is-it-paying-off",
-    "Watchlist|/companies-markets/capitaland-india-trust-q3-net-property-income-down-8-rupee-weakness",
     "Watchlist|/international/global/ambanis-jio-surges-debut-after-india-record-us3-1-billion-ipo",
     "Crypto|756ba6a9-9c0c-31cb-aecc-90a39f3c61b5",
     "SG Banks|/companies-markets/stocks-watch-clar-seatrium-sheng-siong-mpact-netlink-nbn-starhill-global-reit",
@@ -5000,7 +4989,18 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/us-judge-dismisses-trumps-lawsuit-against-wall-street-journal-with-prejudice-4989324",
     "Watchlist|https://www.investing.com/news/economic-indicators/thousands-return-to-lisbon-square-press-government-to-scrap-rental-bill-4989325",
     "AI|0efc8601-84f4-3b27-9ea0-7357ac9a498f",
-    "Watchlist|0efc8601-84f4-3b27-9ea0-7357ac9a498f"
+    "Watchlist|0efc8601-84f4-3b27-9ea0-7357ac9a498f",
+    "Watchlist|d2bc84f3-6ff9-3297-b6e9-b93ea629e53b",
+    "Watchlist|afdbaf43-f0c6-3156-a7c1-45fb5a61977f",
+    "Iran|https://www.iranintl.com/en/202610280690",
+    "SG Banks|bb75d1b6-c5f4-3186-bb69-4a83121fd095",
+    "SG Banks|823e114a-be39-36d8-ad49-ea4cd59799ce",
+    "Crypto|a5a02e8e-1739-33e3-9e90-2646396177e3",
+    "SG Banks|/companies-markets/sia-buy-4800-tonnes-sustainable-aviation-fuel-aethers-singapore-plant",
+    "AI|2bb777f1-d56f-32de-b1a2-e4f21dee9b25",
+    "Watchlist|2bb777f1-d56f-32de-b1a2-e4f21dee9b25",
+    "Iran|https://www.iranintl.com/en/202610286064",
+    "Watchlist|/companies-markets/sia-buy-4800-tonnes-sustainable-aviation-fuel-aethers-singapore-plant"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793476563.980829,
+  "last_check": 1793477472.5225363,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
