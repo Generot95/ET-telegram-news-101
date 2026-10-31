@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|606e52e1-c5eb-3d1d-9678-02b87eb80d98",
-    "Watchlist|10a8adac-1351-3bd5-bf4c-ac5e3833f338",
-    "Watchlist|6ac17b1b-a1ae-329e-95c0-425fa34a71d0",
-    "Watchlist|09d6298c-b117-362f-be14-6f9c6fd67520",
-    "Watchlist|82f9025d-816d-3dfa-8988-8f84f539f02a",
-    "Watchlist|791bdfcb-9887-3628-93b6-524be19ca083",
-    "SG Banks|https://www.straitstimes.com/business/alphabet-shares-fall-after-revenue-miss-cash-burn-worsens",
     "War|0172264a-45cf-37f2-a348-89181597eaab",
     "AI|aad9ec82-82a1-3736-b183-a2dbe6248b0b",
     "SG Banks|/companies-markets/capital-markets-currencies/european-shares-close-seven-week-high-after-ecb-pause-lagarde-resigns",
@@ -5000,7 +4993,14 @@
     "Watchlist|fcf6e1d9-971c-3bce-946e-9b7badaac4ee",
     "Watchlist|39d4dbf9-afe1-3064-8862-aa2648f788bc",
     "SG Banks|57c13068-449f-35f2-b9af-bab3f6064597",
-    "SG Banks|https://www.straitstimes.com/business/you-dont-need-to-be-a-natural-salesperson-to-be-a-banker-bank-of-singapore-ceo"
+    "SG Banks|https://www.straitstimes.com/business/you-dont-need-to-be-a-natural-salesperson-to-be-a-banker-bank-of-singapore-ceo",
+    "AI|https://www.investing.com/news/company-news/softbankbacked-opay-cancels-304m-us-ipo-over-regulatory-inquiry--bloomberg-4989192",
+    "Cybersecurity|https://www.investing.com/news/company-news/softbankbacked-opay-cancels-304m-us-ipo-over-regulatory-inquiry--bloomberg-4989192",
+    "SG Banks|https://www.investing.com/news/company-news/softbankbacked-opay-cancels-304m-us-ipo-over-regulatory-inquiry--bloomberg-4989192",
+    "Watchlist|https://www.investing.com/news/company-news/softbankbacked-opay-cancels-304m-us-ipo-over-regulatory-inquiry--bloomberg-4989192",
+    "AI|b58685cc-6710-3bba-88eb-080719137f23",
+    "Watchlist|b58685cc-6710-3bba-88eb-080719137f23",
+    "Crypto|d9bb0a0d-f580-3023-9d00-76804568cef3"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793438047.315444,
+  "last_check": 1793438976.5230474,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-30"
