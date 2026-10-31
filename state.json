@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/binance-halts-withdrawals-after-53-bln-hack-4985601",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/ares-capital-director-mary-beth-henson-buys-46150-in-shares-93CH-4985598",
-    "Cybersecurity|https://www.investing.com/news/cryptocurrency-news/binance-halts-withdrawals-after-53-bln-hack-4985601",
-    "Cybersecurity|https://www.investing.com/news/economy-news/asian-shares-fall-as-alphabet-earnings-miss-drags-wall-st-futures-lower-4981378",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/reddit-puts-logged-in-experience-first-as-google-ai-hits-traffic-4985602",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/ares-capital-director-mary-beth-henson-buys-46150-in-shares-93CH-4985598",
-    "SG Banks|https://www.investing.com/news/cryptocurrency-news/binance-halts-withdrawals-after-53-bln-hack-4985601",
-    "SG Banks|https://www.investing.com/news/stock-market-news/reddit-puts-logged-in-experience-first-as-google-ai-hits-traffic-4985602",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/ares-capital-director-mary-beth-henson-buys-46150-in-shares-93CH-4985598",
-    "Watchlist|https://www.investing.com/news/cryptocurrency-news/binance-halts-withdrawals-after-53-bln-hack-4985601",
-    "Watchlist|https://www.investing.com/news/stock-market-news/reddit-puts-logged-in-experience-first-as-google-ai-hits-traffic-4985602",
-    "SG Banks|https://www.channelnewsasia.com/business/reddit-puts-logged-in-experience-first-google-ai-hits-traffic-6504906",
     "SG Banks|https://www.investing.com/news/economy-news/asian-shares-fall-as-alphabet-earnings-miss-drags-wall-st-futures-lower-4981378",
     "Watchlist|https://www.investing.com/news/economy-news/asian-shares-fall-as-alphabet-earnings-miss-drags-wall-st-futures-lower-4981378",
     "War|edc18373-8d85-4830-bb23-5cea05721c0d",
@@ -5000,7 +4988,19 @@
     "Watchlist|https://www.investing.com/news/company-news/reliance-q2-fy27-slides-record-ebitda-on-o2c-surge-jio-ipo-milestone-93CH-4989300",
     "Watchlist|https://www.investing.com/news/commodities-news/opec-set-to-keep-production-targets-unchanged-in-december-source-says-4989301",
     "SG Banks|https://www.straitstimes.com/business/amazon-slides-on-light-q4-sales-estimates-high-cash-burn",
-    "Watchlist|8f5534d9-df1b-32ff-b45d-897c31ff37a9"
+    "Watchlist|8f5534d9-df1b-32ff-b45d-897c31ff37a9",
+    "AI|e7f68c45-afb9-3ffd-ad1c-4b0f5ae75bd6",
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/binance-halts-withdrawals-after-53-bln-hack-4985601",
+    "Watchlist|e7f68c45-afb9-3ffd-ad1c-4b0f5ae75bd6",
+    "AI|3c4c3b18-7cd1-3b27-b158-7964bfc37d5d",
+    "Watchlist|3c4c3b18-7cd1-3b27-b158-7964bfc37d5d",
+    "AI|https://www.investing.com/news/cryptocurrency-news/binance-says-it-has-replaced-90-of-63-billion-stolen-in-record-crypto-hack-4989304",
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/binance-says-it-has-replaced-90-of-63-billion-stolen-in-record-crypto-hack-4989304",
+    "Cybersecurity|https://www.investing.com/news/cryptocurrency-news/binance-says-it-has-replaced-90-of-63-billion-stolen-in-record-crypto-hack-4989304",
+    "SG Banks|https://www.investing.com/news/cryptocurrency-news/binance-says-it-has-replaced-90-of-63-billion-stolen-in-record-crypto-hack-4989304",
+    "Watchlist|https://www.investing.com/news/cryptocurrency-news/binance-says-it-has-replaced-90-of-63-billion-stolen-in-record-crypto-hack-4989304",
+    "AI|c5775743-10eb-35c4-9840-ef0008fb6cb4",
+    "Watchlist|c5775743-10eb-35c4-9840-ef0008fb6cb4"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793466483.4718597,
+  "last_check": 1793467395.20426,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
