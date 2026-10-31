@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/klx-energy-services-adds-two-independent-directors-to-board-93CH-4985231",
-    "SG Banks|https://www.channelnewsasia.com/business/bank-japan-hold-rates-signal-further-hikes-6504991",
-    "SG Banks|https://www.channelnewsasia.com/business/weak-quarter-intel-sends-shivers-through-cooling-chip-stocks-6504986",
-    "SG Banks|https://www.investing.com/news/earnings/davita-shares-tumble-as-earnings-outlook-disappoints-4985234",
-    "SG Banks|https://www.investing.com/news/earnings/hercules-capital-earnings-missed-by-001-revenue-fell-short-of-estimates-4985235",
-    "SG Banks|https://www.investing.com/news/earnings/credit-acceptance-earnings-beat-by-019-revenue-fell-short-of-estimates-4985236",
-    "SG Banks|https://www.investing.com/news/company-news/aptargroup-raises-quarterly-dividend-4-to-050-per-share-93CH-4985248",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/td-cowen-raises-quanta-services-stock-price-target-on-strong-quarter-93CH-4985253",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/texas-instruments-director-robert-sanchez-sells-183m-in-shares-93CH-4985254",
-    "SG Banks|https://www.investing.com/news/earnings/healthcare-realty-trust-earnings-missed-by-006-revenue-topped-estimates-4985260",
-    "SG Banks|https://www.investing.com/news/earnings/stryker-plunges-12-q3-results-guidance-disappoint-93CH-4985263",
-    "SG Banks|https://www.investing.com/news/earnings/mondelez-climbs-on-earnings-beat-4985264",
     "SG Banks|https://www.investing.com/news/company-news/shutterstock-founder-jon-oringer-returns-as-chief-executive-93CH-4985266",
     "Watchlist|e0fa3f13-779b-3521-a294-aad7770ced96",
     "Watchlist|https://www.investing.com/news/earnings/davita-shares-tumble-as-earnings-outlook-disappoints-4985234",
@@ -5000,7 +4988,19 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/acadia-evp-cfo-mark-schneyer-sells-69342-in-company-stock-93CH-4988992",
     "Watchlist|https://www.investing.com/news/insider-trading-news/coreweaves-jeff-baker-principal-accounting-officer-sells-407946-in-stock-93CH-4988993",
     "Watchlist|https://www.investing.com/news/insider-trading-news/porch-group-cfo-shawn-tabak-sells-630738-in-stock-93CH-4988994",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/porch-group-director-sean-kell-sells-418790-in-company-shares-93CH-4988995"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/porch-group-director-sean-kell-sells-418790-in-company-shares-93CH-4988995",
+    "AI|https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-5045-in-gabelli-healthcare-shares-93CH-4989003",
+    "AI|https://www.investing.com/news/insider-trading-news/southern-copper-director-sells-20000-in-shares-93CH-4989004",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-5045-in-gabelli-healthcare-shares-93CH-4989003",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/southern-copper-director-sells-20000-in-shares-93CH-4989004",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-5045-in-gabelli-healthcare-shares-93CH-4989003",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/southern-copper-director-sells-20000-in-shares-93CH-4989004",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-5045-in-gabelli-healthcare-shares-93CH-4989003",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/southern-copper-director-sells-20000-in-shares-93CH-4989004",
+    "AI|1818c9d0-5192-30ed-a267-501c7a4527ad",
+    "Watchlist|1818c9d0-5192-30ed-a267-501c7a4527ad",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/apple-overtakes-nvidia-to-become-worlds-most-valuable-company",
+    "War|7c8f6c65-6af4-31e8-885e-7e3e6c08281a"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793408737.5374675,
+  "last_check": 1793409640.531794,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-30"
