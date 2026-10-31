@@ -1,7 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/texas-instruments-director-robert-sanchez-sells-183m-in-shares-93CH-4985254",
     "Watchlist|https://www.investing.com/news/earnings/healthcare-realty-trust-earnings-missed-by-006-revenue-topped-estimates-4985260",
     "Watchlist|https://www.investing.com/news/earnings/stryker-plunges-12-q3-results-guidance-disappoint-93CH-4985263",
     "Watchlist|https://www.investing.com/news/earnings/mondelez-climbs-on-earnings-beat-4985264",
@@ -5000,7 +4999,8 @@
     "AI|https://www.investing.com/news/company-news/openai-cuts-funding-target-by-10-billion-to-20-billion--ft-4989018",
     "Cybersecurity|https://www.investing.com/news/company-news/openai-cuts-funding-target-by-10-billion-to-20-billion--ft-4989018",
     "SG Banks|https://www.investing.com/news/company-news/openai-cuts-funding-target-by-10-billion-to-20-billion--ft-4989018",
-    "Watchlist|https://www.investing.com/news/company-news/openai-cuts-funding-target-by-10-billion-to-20-billion--ft-4989018"
+    "Watchlist|https://www.investing.com/news/company-news/openai-cuts-funding-target-by-10-billion-to-20-billion--ft-4989018",
+    "Crypto|0c08e606-62dd-3117-8796-d9666a8ece10"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793410562.5743136,
+  "last_check": 1793411471.1003535,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-30"
