@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|/international/global/ambanis-jio-surges-debut-after-india-record-us3-1-billion-ipo",
-    "Crypto|756ba6a9-9c0c-31cb-aecc-90a39f3c61b5",
-    "SG Banks|/companies-markets/stocks-watch-clar-seatrium-sheng-siong-mpact-netlink-nbn-starhill-global-reit",
-    "Watchlist|/companies-markets/stocks-watch-clar-seatrium-sheng-siong-mpact-netlink-nbn-starhill-global-reit",
-    "AI|33469e83-ce26-3f7b-9557-abbe54d8dc59",
-    "Watchlist|33469e83-ce26-3f7b-9557-abbe54d8dc59",
-    "Crypto|611b9337-c0e3-3e36-a1e0-4b122b9b78fd",
     "SG Banks|https://www.straitstimes.com/business/economy/warshs-forward-silence-risks-bigger-treasury-market-swings-say-experts",
     "SG Banks|https://www.channelnewsasia.com/business/binance-says-254-billion-in-assets-frozen-it-probes-security-incident-6505091",
     "SG Banks|/companies-markets/sheng-siong-q3-profit-1-9-s44-6-million",
@@ -5000,7 +4993,14 @@
     "AI|2bb777f1-d56f-32de-b1a2-e4f21dee9b25",
     "Watchlist|2bb777f1-d56f-32de-b1a2-e4f21dee9b25",
     "Iran|https://www.iranintl.com/en/202610286064",
-    "Watchlist|/companies-markets/sia-buy-4800-tonnes-sustainable-aviation-fuel-aethers-singapore-plant"
+    "Watchlist|/companies-markets/sia-buy-4800-tonnes-sustainable-aviation-fuel-aethers-singapore-plant",
+    "War|WP-MKTW-0005308926",
+    "AI|WP-MKTW-0005308926",
+    "Cybersecurity|WP-MKTW-0005308926",
+    "SG Banks|/companies-markets/stocks-watch-clar-seatrium-sheng-siong-mpact-netlink-nbn-starhill-global-reit",
+    "AI|44a915ef-694c-37e5-b9dc-fa36eb010aad",
+    "Watchlist|44a915ef-694c-37e5-b9dc-fa36eb010aad",
+    "Watchlist|/companies-markets/stocks-watch-clar-seatrium-sheng-siong-mpact-netlink-nbn-starhill-global-reit"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793477472.5225363,
+  "last_check": 1793478381.6948671,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
