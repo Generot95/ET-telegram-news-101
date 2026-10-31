@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/earnings/healthcare-realty-trust-earnings-missed-by-006-revenue-topped-estimates-4985260",
-    "Watchlist|https://www.investing.com/news/earnings/stryker-plunges-12-q3-results-guidance-disappoint-93CH-4985263",
-    "Watchlist|https://www.investing.com/news/earnings/mondelez-climbs-on-earnings-beat-4985264",
-    "Watchlist|https://www.investing.com/news/company-news/shutterstock-founder-jon-oringer-returns-as-chief-executive-93CH-4985266",
-    "AI|6c029a70-4efc-3dba-837e-97632a522f06",
-    "Crypto|fbc57400-0205-31ef-a1dc-dc9a2e7c9012",
-    "SG Banks|/companies-markets/energy-commodities/innovative-finance-tools-can-help-ensure-workers-arent-left-behind-shift-away-coal-report",
     "SG Banks|/companies-markets/capital-markets-currencies/us-stocks-wall-street-ends-higher-revived-ai-momentum",
     "SG Banks|/companies-markets/capital-markets-currencies/european-shares-shrug-hsbc-miss-other-earnings-oil-relief-lift-sentiment",
     "SG Banks|/companies-markets/capital-markets-currencies/europes-stoxx-600-subdued-earnings-and-oil-prices-weigh",
@@ -5000,7 +4993,14 @@
     "Cybersecurity|https://www.investing.com/news/company-news/openai-cuts-funding-target-by-10-billion-to-20-billion--ft-4989018",
     "SG Banks|https://www.investing.com/news/company-news/openai-cuts-funding-target-by-10-billion-to-20-billion--ft-4989018",
     "Watchlist|https://www.investing.com/news/company-news/openai-cuts-funding-target-by-10-billion-to-20-billion--ft-4989018",
-    "Crypto|0c08e606-62dd-3117-8796-d9666a8ece10"
+    "Crypto|0c08e606-62dd-3117-8796-d9666a8ece10",
+    "SG Banks|/companies-markets/crypto-exchanges-call-quick-moves-bolster-defences-after-binance-heist",
+    "Watchlist|/companies-markets/crypto-exchanges-call-quick-moves-bolster-defences-after-binance-heist",
+    "AI|f1b44527-b777-30aa-a8e3-87c0a3bdac8e",
+    "Watchlist|f1b44527-b777-30aa-a8e3-87c0a3bdac8e",
+    "Iran|https://www.iranintl.com/en/202610317316",
+    "AI|f951d2dc-d259-37f5-bad8-32ecef1c9a63",
+    "Watchlist|f951d2dc-d259-37f5-bad8-32ecef1c9a63"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793411471.1003535,
+  "last_check": 1793412378.4329875,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-30"
