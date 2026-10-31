@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/weis-markets-declares-034-quarterly-dividend-93CH-4985347",
-    "Cybersecurity|https://www.investing.com/news/company-news/idacorp-q3-2026-slides-industrial-growth-drives-earnings-beat-93CH-4985366",
-    "Cybersecurity|https://www.investing.com/news/company-news/adtran-holdings-appoints-christian-terlinde-to-board-93CH-4985370",
-    "Cybersecurity|https://www.investing.com/news/company-news/polaris-declares-068-quarterly-dividend-for-december-93CH-4985379",
-    "Cybersecurity|https://www.investing.com/news/company-news/starbucks-fy26-q4-slides-turnaround-becomes-growth-plan-93CH-4985381",
-    "Cybersecurity|https://www.investing.com/news/company-news/roblox-q3-2026-slides-first-user-decline-marks-inflection-point-93CH-4985385",
-    "Cybersecurity|https://www.investing.com/news/company-news/edison-q3-2026-slides-guidance-intact-despite-wildfire-headwinds-93CH-4985386",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-first-solar-tops-profit-estimates-in-q3-2026-93CH-4985395",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-dexcom-beats-q3-2026-estimates-lifts-outlook-93CH-4985397",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-american-coastal-tops-q3-2026-estimates-as-shares-dip-93CH-4985396",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-rimini-street-tops-revenue-in-q3-2026-shares-jump-after-hours-93CH-4985398",
-    "SG Banks|https://www.investing.com/news/stock-market-news/gilead-hikes-2026-sales-outlook-says-medicare-cuts-biktarvy-price-by-38-starting-in-2028-4985399",
     "SG Banks|https://www.investing.com/news/analyst-ratings/canaccord-says-sandisk-stock-data-center-surge-drives-results-93CH-4985400",
     "SG Banks|https://www.investing.com/news/stock-market-news/merck-tops-thirdquarter-estimates-as-keytruda-gardasil-outperform-4982557",
     "SG Banks|https://www.investing.com/news/company-news/illumina-q3-2026-slides-strong-beat-masks-growth-concerns-93CH-4985401",
@@ -5000,7 +4988,19 @@
     "SG Banks|https://www.investing.com/news/economy-news/china-reports-sharp-increase-in-gold-nickel-and-strategic-minerals--xinhua-4989148",
     "Watchlist|https://www.investing.com/news/economy-news/china-reports-sharp-increase-in-gold-nickel-and-strategic-minerals--xinhua-4989148",
     "AI|e73f4b2b-e981-3777-a2b5-3c4b14c1a203",
-    "Watchlist|e73f4b2b-e981-3777-a2b5-3c4b14c1a203"
+    "Watchlist|e73f4b2b-e981-3777-a2b5-3c4b14c1a203",
+    "AI|c87c1f67-7e8d-3e32-a321-55370038842a",
+    "Watchlist|c87c1f67-7e8d-3e32-a321-55370038842a",
+    "AI|https://www.investing.com/news/insider-trading-news/moodys-ceo-michael-west-sells-485m-in-moodys-nysemco-stock-93CH-4989159",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/moodys-ceo-michael-west-sells-485m-in-moodys-nysemco-stock-93CH-4989159",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/moodys-ceo-michael-west-sells-485m-in-moodys-nysemco-stock-93CH-4989159",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/moodys-ceo-michael-west-sells-485m-in-moodys-nysemco-stock-93CH-4989159",
+    "AI|383f4089-93a7-3d48-a8fe-d82c580161a5",
+    "Watchlist|383f4089-93a7-3d48-a8fe-d82c580161a5",
+    "War|debb14f7-5cb3-30bb-beed-4139f2ccf062",
+    "AI|a007ea2d-d865-3f82-bce4-6e223deddf84",
+    "AI|995d5902-f5da-3afa-b09d-1ef853a5bed5",
+    "Watchlist|23a137fe-e62b-3e0e-a5a9-a83c5b6894e6"
   ],
   "topic_error": "",
   "last_digest": "2026-10-31",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793430710.713327,
+  "last_check": 1793431626.5736916,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-30"
