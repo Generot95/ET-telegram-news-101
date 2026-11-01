@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/commodities-news/gold-hovers-near-4000-as-pce-inflation-oil-risks-revive-fed-hike-concerns-4985685",
-    "Watchlist|https://www.investing.com/news/stock-market-news/weak-quarter-for-intel-sends-shivers-through-cooling-chip-stocks-4985272",
-    "Watchlist|https://www.investing.com/news/stock-market-news/bayer-wins-roundup-weedkiller-cancer-trial-while-awaiting-settlement-ruling-4985676",
-    "AI|994c1cbf-e023-3a11-9182-31e79bf01c78",
-    "SG Banks|/companies-markets/energy-commodities/oil-rises-over-1-after-saudi-arabian-refinery-attack-reignites-supply-risk",
     "SG Banks|/companies-markets/sgx-regco-seeks-further-disclosures-plantation-firms-including-links-haze-notice-recipients",
     "Watchlist|994c1cbf-e023-3a11-9182-31e79bf01c78",
     "Watchlist|/companies-markets/energy-commodities/oil-rises-over-1-after-saudi-arabian-refinery-attack-reignites-supply-risk",
@@ -5000,7 +4995,12 @@
     "Watchlist|729db8a0-841e-3b54-9542-8f179920dade",
     "AI|35e58dbc-8ce7-3eb0-957c-9e4e7ecedf5e",
     "Crypto|35e58dbc-8ce7-3eb0-957c-9e4e7ecedf5e",
-    "Watchlist|35e58dbc-8ce7-3eb0-957c-9e4e7ecedf5e"
+    "Watchlist|35e58dbc-8ce7-3eb0-957c-9e4e7ecedf5e",
+    "SG Banks|https://www.straitstimes.com/business/economy/south-korea-exports-extend-robust-growth-on-ai-fuelled-chip-boom",
+    "AI|https://www.investing.com/news/economy-news/south-korea-exports-surge-937-in-october-fastest-growth-since-1974-4989360",
+    "Cybersecurity|https://www.investing.com/news/economy-news/south-korea-exports-surge-937-in-october-fastest-growth-since-1974-4989360",
+    "SG Banks|https://www.investing.com/news/economy-news/south-korea-exports-surge-937-in-october-fastest-growth-since-1974-4989360",
+    "Watchlist|https://www.investing.com/news/economy-news/south-korea-exports-surge-937-in-october-fastest-growth-since-1974-4989360"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793496750.613479,
+  "last_check": 1793497655.3153543,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
