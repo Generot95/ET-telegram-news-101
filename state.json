@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/bayer-wins-roundup-weedkiller-cancer-trial-while-awaiting-settlement-ruling-4985676",
-    "SG Banks|https://www.investing.com/news/stock-market-news/us-stock-futures-sink-nasdaq-down-2-as-amazon-intel-earnings-underwhelm-4985675",
-    "SG Banks|https://www.investing.com/news/stock-market-news/sk-hynix-neutral-in-notrade-zone-awaiting-breakout-live-93CH-4971337",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-spacex-stock-falling-afterhours-today-93CH-4985677",
-    "SG Banks|https://www.investing.com/news/stock-market-news/anthropic-accounts-for-over-a-third-of-spacex-revenue-in-q3-bloomberg-reports-4985678",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/stride-director-dylan-haggart-buys-62187-in-company-stock-93CH-4985683",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/hf-sinclair-ceo-franklin-myers-buys-111-million-in-company-stock-93CH-4985684",
-    "SG Banks|https://www.investing.com/news/commodities-news/gold-hovers-near-4000-as-pce-inflation-oil-risks-revive-fed-hike-concerns-4985685",
-    "SG Banks|https://www.investing.com/news/stock-market-news/weak-quarter-for-intel-sends-shivers-through-cooling-chip-stocks-4985272",
     "SG Banks|https://www.investing.com/news/stock-market-news/bayer-wins-roundup-weedkiller-cancer-trial-while-awaiting-settlement-ruling-4985676",
     "Watchlist|https://www.investing.com/news/stock-market-news/us-stock-futures-sink-nasdaq-down-2-as-amazon-intel-earnings-underwhelm-4985675",
     "Watchlist|https://www.investing.com/news/stock-market-news/sk-hynix-neutral-in-notrade-zone-awaiting-breakout-live-93CH-4971337",
@@ -5000,7 +4991,16 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/republic-bancorp-evp-jeff-starke-sells-75769-in-stock-93CH-4989350",
     "Watchlist|15ef3470-caaa-3368-97d6-c28279ee4c35",
     "Watchlist|1133428c-9ba1-3568-a4bd-9903bfa5dc3a",
-    "AI|1133428c-9ba1-3568-a4bd-9903bfa5dc3a"
+    "AI|1133428c-9ba1-3568-a4bd-9903bfa5dc3a",
+    "AI|https://www.investing.com/news/economy-news/fbi-links-record-63-billion-binance-crypto-theft-to-north-korea-4989353",
+    "AI|https://www.investing.com/news/economic-indicators/south-korea-exports-nearly-double-in-october-strongest-growth-since-1974-4989354",
+    "Cybersecurity|https://www.investing.com/news/economy-news/fbi-links-record-63-billion-binance-crypto-theft-to-north-korea-4989353",
+    "Cybersecurity|https://www.investing.com/news/economic-indicators/south-korea-exports-nearly-double-in-october-strongest-growth-since-1974-4989354",
+    "SG Banks|https://www.channelnewsasia.com/business/south-korea-exports-nearly-double-in-october-strongest-growth-1974-6510436",
+    "SG Banks|https://www.investing.com/news/economy-news/fbi-links-record-63-billion-binance-crypto-theft-to-north-korea-4989353",
+    "SG Banks|https://www.investing.com/news/economic-indicators/south-korea-exports-nearly-double-in-october-strongest-growth-since-1974-4989354",
+    "Watchlist|https://www.investing.com/news/economy-news/fbi-links-record-63-billion-binance-crypto-theft-to-north-korea-4989353",
+    "Watchlist|https://www.investing.com/news/economic-indicators/south-korea-exports-nearly-double-in-october-strongest-growth-since-1974-4989354"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793493995.8141947,
+  "last_check": 1793494913.5208101,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
