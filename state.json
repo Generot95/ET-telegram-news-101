@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/analyst-ratings/rosenblatt-raises-lumentum-stock-price-target-on-acquisition-prospects-93CH-4986238",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-sparebanken-norge-stock-sliding-today-93CH-4986239",
-    "Watchlist|https://www.investing.com/news/forex-news/german-bunds-set-for-best-month-since-february-as-tech-rout-triggers-safety-bid-4985952",
-    "War|WP-MKTW-0005316129",
     "AI|WP-MKTW-0005316129",
     "Cybersecurity|WP-MKTW-0005316129",
     "SG Banks|https://www.straitstimes.com/business/ultra-wealthy-families-in-asia-including-spore-lack-succession-and-crisis-planning-dbs-report",
@@ -5000,7 +4996,11 @@
     "AI|3b930708-b528-3b0d-9e6d-90356d49ae48",
     "Watchlist|3b930708-b528-3b0d-9e6d-90356d49ae48",
     "AI|aac46291-f993-39fb-8118-5dab482d0339",
-    "Watchlist|aac46291-f993-39fb-8118-5dab482d0339"
+    "Watchlist|aac46291-f993-39fb-8118-5dab482d0339",
+    "AI|https://www.investing.com/news/analyst-ratings/raymond-james-cuts-oil-states-stock-price-target-on-guidance-outlook-93CH-4989767",
+    "Cybersecurity|https://www.investing.com/news/analyst-ratings/raymond-james-cuts-oil-states-stock-price-target-on-guidance-outlook-93CH-4989767",
+    "SG Banks|https://www.investing.com/news/analyst-ratings/raymond-james-cuts-oil-states-stock-price-target-on-guidance-outlook-93CH-4989767",
+    "Watchlist|https://www.investing.com/news/analyst-ratings/raymond-james-cuts-oil-states-stock-price-target-on-guidance-outlook-93CH-4989767"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5079,9 +5079,11 @@
     "GOOG|2026-10-29",
     "MSFT|2026-10-29",
     "LIN|2026-10-29",
-    "AMZN|2026-10-30"
+    "AMZN|2026-10-30",
+    "AMD|2026-11-04",
+    "U11.SI|2026-11-04"
   ],
-  "last_check": 1793548029.6671627,
+  "last_check": 1793548953.1596358,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
