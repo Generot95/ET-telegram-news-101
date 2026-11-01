@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|WP-MKTW-0005316129",
-    "Cybersecurity|WP-MKTW-0005316129",
-    "SG Banks|https://www.straitstimes.com/business/ultra-wealthy-families-in-asia-including-spore-lack-succession-and-crisis-planning-dbs-report",
-    "War|5848ee99-38fe-3c39-bbb8-b4421ed6cdf3",
-    "AI|5848ee99-38fe-3c39-bbb8-b4421ed6cdf3",
-    "AI|900f09a4-48d1-31d7-bbd2-0756465f5deb",
-    "Watchlist|5848ee99-38fe-3c39-bbb8-b4421ed6cdf3",
-    "Watchlist|900f09a4-48d1-31d7-bbd2-0756465f5deb",
     "War|a6f2bd01-18d7-3e7d-bdd3-a5b09c1b86be",
     "AI|a8ca6ac7-6c28-4704-a454-af1e20b3f208",
     "Watchlist|a8ca6ac7-6c28-4704-a454-af1e20b3f208",
@@ -5000,7 +4992,15 @@
     "AI|https://www.investing.com/news/analyst-ratings/raymond-james-cuts-oil-states-stock-price-target-on-guidance-outlook-93CH-4989767",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/raymond-james-cuts-oil-states-stock-price-target-on-guidance-outlook-93CH-4989767",
     "SG Banks|https://www.investing.com/news/analyst-ratings/raymond-james-cuts-oil-states-stock-price-target-on-guidance-outlook-93CH-4989767",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/raymond-james-cuts-oil-states-stock-price-target-on-guidance-outlook-93CH-4989767"
+    "Watchlist|https://www.investing.com/news/analyst-ratings/raymond-james-cuts-oil-states-stock-price-target-on-guidance-outlook-93CH-4989767",
+    "AI|0b1099b2-87cd-31d1-b0e0-a3490e91e74d",
+    "Watchlist|0b1099b2-87cd-31d1-b0e0-a3490e91e74d",
+    "War|38ee080d-03d4-3e99-92f1-dc2d80fa52ec",
+    "AI|38ee080d-03d4-3e99-92f1-dc2d80fa52ec",
+    "Watchlist|38ee080d-03d4-3e99-92f1-dc2d80fa52ec",
+    "AI|21181d31-6b03-37a3-8792-324626a2c5c4",
+    "Watchlist|21181d31-6b03-37a3-8792-324626a2c5c4",
+    "Crypto|3265aacd-9367-3952-9e7a-3112077b005a"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5083,7 +5083,7 @@
     "AMD|2026-11-04",
     "U11.SI|2026-11-04"
   ],
-  "last_check": 1793548953.1596358,
+  "last_check": 1793549854.468446,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
