@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|d4b31408-4c31-3769-9a25-54cccbd1ed91",
-    "Watchlist|792bae87-1331-31f5-aa1e-0767a2376b8f",
-    "Watchlist|73ff6769-11eb-372d-a22d-8a802b2835e3",
-    "Watchlist|https://www.investing.com/news/sec-filings/news-corp-updates-on-1-billion-stock-repurchase-program-93CH-4986496",
     "Watchlist|https://www.investing.com/news/analyst-ratings/keybanc-lowers-amazon-stock-price-target-to-345-on-valuation-93CH-4986497",
     "Watchlist|https://www.investing.com/news/analyst-ratings/citizens-reiterates-ares-management-stock-rating-on-strong-deployment-outlook-93CH-4986498",
     "Watchlist|https://www.investing.com/news/analyst-ratings/copt-defense-properties-stock-holds-buy-rating-on-strong-defense-demand-93CH-4986499",
@@ -5000,7 +4996,11 @@
     "SG Banks|https://www.investing.com/news/commodities-news/oil-slips-more-than-1-as-talks-continue-on-ending-iran-war-4989784",
     "Watchlist|https://www.investing.com/news/stock-market-news/chinas-big-banks-post-fastest-quarterly-profit-growth-in-years-as-margins-stabilise-4989783",
     "Watchlist|https://www.investing.com/news/commodities-news/oil-slips-more-than-1-as-talks-continue-on-ending-iran-war-4989784",
-    "Crypto|e6a2cb23-171a-3b59-b5c1-9fbb4dfe210c"
+    "Crypto|e6a2cb23-171a-3b59-b5c1-9fbb4dfe210c",
+    "AI|9b1d1bcc-b9b1-3d50-b948-7ae5f3d5b74d",
+    "Watchlist|9b1d1bcc-b9b1-3d50-b948-7ae5f3d5b74d",
+    "SG Banks|/companies-markets/energy-commodities/oil-slips-more-1-talks-continue-ending-iran-war",
+    "Watchlist|/companies-markets/energy-commodities/oil-slips-more-1-talks-continue-ending-iran-war"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5083,7 +5083,7 @@
     "AMD|2026-11-04",
     "U11.SI|2026-11-04"
   ],
-  "last_check": 1793576437.539194,
+  "last_check": 1793577338.4126737,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
