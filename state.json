@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/commodities-news/oil-rises-on-prospects-of-fresh-us-military-action-against-iran-4985693",
-    "AI|d20fb826-3eaa-359f-94bf-68ef9bdb50dd",
-    "Watchlist|d20fb826-3eaa-359f-94bf-68ef9bdb50dd",
-    "SG Banks|/companies-markets/energy-commodities/gold-prices-edge-lower-us-inflation-data-reinforces-fed-outlook",
-    "SG Banks|https://www.channelnewsasia.com/business/yen-steady-boj-ai-jitters-drive-treasury-rally-weigh-dollar-6505611",
-    "Watchlist|/companies-markets/energy-commodities/gold-prices-edge-lower-us-inflation-data-reinforces-fed-outlook",
-    "War|af2d1bc3-4887-34f2-9190-13a04b7f42d6",
-    "SG Banks|https://www.straitstimes.com/business/crypto-platform-binance-confirms-major-hack-more-than-us2-5-billion-frozen",
     "SG Banks|https://www.straitstimes.com/business/interrogating-the-singapore-dream-and-exploring-the-issue-of-liquidity",
     "Crypto|0a5ce393-a6df-312b-af64-1893a264d0df",
     "SG Banks|/companies-markets/aem-tumbles-11-along-singapore-and-regional-chip-peers-following-alphabets-record-plunge",
@@ -5000,7 +4992,15 @@
     "AI|https://www.investing.com/news/economy-news/trump-calls-50-million-contract-for-exlawyer-habba-mildon-not-acceptable-4989369",
     "Cybersecurity|https://www.investing.com/news/economy-news/trump-calls-50-million-contract-for-exlawyer-habba-mildon-not-acceptable-4989369",
     "SG Banks|https://www.investing.com/news/economy-news/trump-calls-50-million-contract-for-exlawyer-habba-mildon-not-acceptable-4989369",
-    "Watchlist|https://www.investing.com/news/economy-news/trump-calls-50-million-contract-for-exlawyer-habba-mildon-not-acceptable-4989369"
+    "Watchlist|https://www.investing.com/news/economy-news/trump-calls-50-million-contract-for-exlawyer-habba-mildon-not-acceptable-4989369",
+    "AI|394c77e1-0889-36ac-b753-385c50deb99f",
+    "Watchlist|394c77e1-0889-36ac-b753-385c50deb99f",
+    "AI|fd8ca7d5-a0d6-34f3-b1a0-12125e2bb55f",
+    "AI|https://www.investing.com/news/stock-market-news/ai-investors-rush-to-hedge-against-potential-tech-market-downturn--wsj-4989371",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/ai-investors-rush-to-hedge-against-potential-tech-market-downturn--wsj-4989371",
+    "SG Banks|https://www.investing.com/news/stock-market-news/ai-investors-rush-to-hedge-against-potential-tech-market-downturn--wsj-4989371",
+    "Watchlist|fd8ca7d5-a0d6-34f3-b1a0-12125e2bb55f",
+    "Watchlist|https://www.investing.com/news/stock-market-news/ai-investors-rush-to-hedge-against-potential-tech-market-downturn--wsj-4989371"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793500411.3065352,
+  "last_check": 1793501337.1564646,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
