@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/insider-trading-news/natera-cfo-michael-brophy-sells-827841-in-company-stock-93CH-4985703",
-    "AI|https://www.investing.com/news/insider-trading-news/natera-executive-chairman-matthew-rabinowitz-sells-697508-stock-93CH-4985705",
-    "AI|https://www.investing.com/news/company-news/holley-acquires-sxth-element-for-toyota-performance-parts-93CH-4985708",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-12337-of-ellsworth-growth--income-fund-93CH-4985697",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/block-director-anthony-eisen-sells-446640-in-stock-93CH-4985698",
     "Cybersecurity|https://www.investing.com/news/economy-news/yen-steady-before-boj-ai-jitters-drive-treasury-rally-weigh-on-dollar-4985701",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/natera-ceo-steven-chapman-sells-238m-in-shares-for-tax-obligations-93CH-4985702",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/natera-legal-chief-daniel-rabinowitz-sells-771601-in-stock-93CH-4985704",
@@ -5000,7 +4995,12 @@
     "Watchlist|https://www.investing.com/news/commodities-news/bangladesh-to-form-wage-board-after-garment-protests-shut-factories-4989374",
     "AI|4ef25fcb-b5f1-3bce-829e-26a4c969a43b",
     "Watchlist|4ef25fcb-b5f1-3bce-829e-26a4c969a43b",
-    "Crypto|56effaa2-5479-3b18-bb29-3dc7fff945dd"
+    "Crypto|56effaa2-5479-3b18-bb29-3dc7fff945dd",
+    "AI|bb933dfd-d358-363f-a853-5195da5cd07f",
+    "AI|5e5214cf-3edc-3430-b616-a419b393fdb8",
+    "Crypto|bb933dfd-d358-363f-a853-5195da5cd07f",
+    "Watchlist|5e5214cf-3edc-3430-b616-a419b393fdb8",
+    "Watchlist|bb933dfd-d358-363f-a853-5195da5cd07f"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793503163.4732194,
+  "last_check": 1793504069.4037235,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
