@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/canadian-pacific-kansas-city-stock-held-at-buy-by-jefferies-on-merger-focus-93CH-4986178",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/jefferies-lowers-coinbase-stock-price-target-on-expense-outlook-93CH-4986181",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/bnp-paribas-exane-lowers-tmobile-stock-price-target-on-fcf-outlook-93CH-4986180",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/jefferies-reiterates-xpo-stock-rating-on-volume-growth-margin-gains-93CH-4986179",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/ingram-micro-stock-holds-at-in-line-as-evercore-cites-q3-beat-93CH-4986184",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/canaccord-cuts-mobileye-stock-price-target-on-autonomy-concerns-93CH-4986187",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-twilio-stock-tumbling-today-93CH-4986170",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-amplifon-stock-fell-sharply-today-93CH-4986171",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-rivian-automotive-stock-surging-today-93CH-4986172",
     "SG Banks|https://www.investing.com/news/earnings/acerinox-beats-third-quarter-ebitda-estimates-by-8-93CH-4986176",
@@ -5000,7 +4993,14 @@
     "AI|ddd62e0a-0488-31db-a3e4-eb0630d874c4",
     "Watchlist|ddd62e0a-0488-31db-a3e4-eb0630d874c4",
     "SG Banks|/companies-markets/wilmar-sold-goods-6-firms-issued-notices-under-singapore-haze-law-no-operational-relationship",
-    "Watchlist|/companies-markets/wilmar-sold-goods-6-firms-issued-notices-under-singapore-haze-law-no-operational-relationship"
+    "Watchlist|/companies-markets/wilmar-sold-goods-6-firms-issued-notices-under-singapore-haze-law-no-operational-relationship",
+    "AI|9aec2ab6-86b8-3fe5-94c9-05f54e3943db",
+    "Watchlist|9aec2ab6-86b8-3fe5-94c9-05f54e3943db",
+    "SG Banks|https://www.straitstimes.com/business/opec-keeps-december-oil-output-targets-steady-as-iran-war-continues-to-disrupt-flows",
+    "AI|6caac03b-655e-3ece-a2dc-0b811035649c",
+    "SG Banks|https://www.channelnewsasia.com/business/opec-keeps-december-oil-output-targets-steady-ahead-tougher-call-2027-6510756",
+    "Watchlist|6caac03b-655e-3ece-a2dc-0b811035649c",
+    "Crypto|ff292417-a365-3a50-bb6a-64543401690b"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793539780.0019023,
+  "last_check": 1793540700.8005605,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
