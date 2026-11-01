@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/copt-defense-properties-stock-holds-buy-rating-on-strong-defense-demand-93CH-4986499",
-    "Cybersecurity|https://www.investing.com/news/economy-news/new-economic-data-challenges-fed-chiefs-nottoohot-perspective-4986500",
-    "Cybersecurity|https://www.investing.com/news/earnings/wisdomtree-stock-soars-11-on-third-quarter-earnings-beat-93CH-4986507",
-    "Cybersecurity|https://www.investing.com/news/economy-news/rifts-over-wars-in-ukraine-middle-east-loom-over-g20-meeting-in-us-4986508",
-    "Cybersecurity|https://www.investing.com/news/economy-news/analysisus-fiscal-deterioration-main-headache-for-investors-as-midterms-loom-4986509",
-    "Cybersecurity|https://www.investing.com/news/economy-news/euro-zone-growth-beats-projections-again-4986510",
     "Cybersecurity|https://www.investing.com/news/earnings/banco-de-chile-adr-earnings-missed-by-001-revenue-fell-short-of-estimates-4986511",
     "Cybersecurity|https://www.investing.com/news/company-news/dorian-lpg-declares-125-per-share-irregular-dividend-93CH-4986446",
     "Cybersecurity|https://www.investing.com/news/company-news/repligen-issues-1b-in-convertible-notes-exchanges-2028-debt-93CH-4986447",
@@ -5000,7 +4994,13 @@
     "Watchlist|/companies-markets/beyond-funding-improved-trading-volume-smid-pricing-also-good-metrics-eqdps-success",
     "Watchlist|/companies-markets/nasdaq-100-losing-momentum-ai-trade-divides",
     "Watchlist|/companies-markets/not-playing-red-ocean-sp-group-aims-triple-china-district-cooling-capacity-5-years",
-    "Watchlist|/companies-markets/singapore-banks-wealth-fees-may-ease-q3-ai-lending-bond-yields-draw-scrutiny"
+    "Watchlist|/companies-markets/singapore-banks-wealth-fees-may-ease-q3-ai-lending-bond-yields-draw-scrutiny",
+    "War|e05bbcc7-507c-3297-9e8a-31bb9f348acc",
+    "AI|https://www.investing.com/news/stock-market-news/chinas-robot-makers-have-mastered-the-moves-now-comes-the-race-for-brains-4989782",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/chinas-robot-makers-have-mastered-the-moves-now-comes-the-race-for-brains-4989782",
+    "SG Banks|https://www.investing.com/news/stock-market-news/chinas-robot-makers-have-mastered-the-moves-now-comes-the-race-for-brains-4989782",
+    "Watchlist|https://www.investing.com/news/stock-market-news/chinas-robot-makers-have-mastered-the-moves-now-comes-the-race-for-brains-4989782",
+    "SG Banks|https://www.straitstimes.com/business/binance-details-us3-6-billion-in-net-outflows-after-cyber-theft"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5083,7 +5083,7 @@
     "AMD|2026-11-04",
     "U11.SI|2026-11-04"
   ],
-  "last_check": 1793574591.4009564,
+  "last_check": 1793575515.5524352,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
