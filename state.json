@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-life-time-group-stock-price-target-on-membership-growth-93CH-4986335",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/goldman-sachs-lowers-oreilly-automotive-stock-price-target-to-104-93CH-4986334",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-acerinox-stock-sliding-today-93CH-4986336",
-    "Watchlist|https://www.investing.com/news/economic-indicators/german-economy-grows-by-02-in-q3-preliminary-data-shows-4986289",
     "Watchlist|https://www.investing.com/news/economy-news/central-banks-take-a-breather-though-more-hikes-are-to-come-4984337",
     "SG Banks|https://www.straitstimes.com/business/toyota-monthly-sales-fall-as-china-slump-enters-eighth-month",
     "SG Banks|https://www.straitstimes.com/business/companies-markets/chipmaker-stmicro-lifts-data-centre-revenue-forecast-after-q3-profit-beat",
@@ -5000,7 +4996,11 @@
     "AI|fbd66c06-8b55-3762-8ad3-950d32c530f6",
     "Watchlist|adfd3f1d-c900-3262-889e-5585039be5ca",
     "Watchlist|fbd66c06-8b55-3762-8ad3-950d32c530f6",
-    "Crypto|ffc6626b-70c2-3f9c-8d99-82897c09f565"
+    "Crypto|ffc6626b-70c2-3f9c-8d99-82897c09f565",
+    "Crypto|1d4eda0e-9190-3b1a-a249-f48ae9d5bfaa",
+    "AI|caf8c114-fac9-3001-9a31-78cac3de22e1",
+    "Watchlist|caf8c114-fac9-3001-9a31-78cac3de22e1",
+    "Crypto|3cccf23a-cd2d-3a6b-9748-0e915702f7ea"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5083,7 +5083,7 @@
     "AMD|2026-11-04",
     "U11.SI|2026-11-04"
   ],
-  "last_check": 1793556285.1368701,
+  "last_check": 1793557203.155511,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
