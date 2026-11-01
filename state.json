@@ -1,7 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/earnings/fst-ltd-earnings-matched-revenue-fell-short-of-estimates-4985720",
     "Cybersecurity|https://www.investing.com/news/earnings/alliant-energy-earnings-beat-by-026-revenue-was-in-line-with-estimates-4985721",
     "Cybersecurity|https://www.investing.com/news/company-news/aspen-neuroscience-prices-ipo-at-15-per-share-93CH-4985728",
     "Cybersecurity|https://www.investing.com/news/earnings/tfs-financial-earnings-matched-revenue-topped-estimates-4985729",
@@ -5000,7 +4999,8 @@
     "SG Banks|https://www.investing.com/news/company-news/deepseek-launches-autonomous-coding-agent-to-challenge-anthropics-claude-code-4989391",
     "Watchlist|https://www.investing.com/news/cryptocurrency-news/bitcoin-faces-further-downside-risks-as-fear-surges-binance-hack-rattles-markets-4989389",
     "Watchlist|https://www.investing.com/news/company-news/deepseek-launches-autonomous-coding-agent-to-challenge-anthropics-claude-code-4989391",
-    "Crypto|0571d4b0-5e5d-3089-87cb-e0c5ce1a153f"
+    "Crypto|0571d4b0-5e5d-3089-87cb-e0c5ce1a153f",
+    "War|97d3d9e6-2bc9-3f31-8f8a-e24694427422"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793513220.6638541,
+  "last_check": 1793514131.609226,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
