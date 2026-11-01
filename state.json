@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/why-is-spacex-stock-falling-afterhours-today-93CH-4985677",
-    "AI|https://www.investing.com/news/stock-market-news/anthropic-accounts-for-over-a-third-of-spacex-revenue-in-q3-bloomberg-reports-4985678",
-    "AI|https://www.investing.com/news/insider-trading-news/stride-director-dylan-haggart-buys-62187-in-company-stock-93CH-4985683",
-    "AI|https://www.investing.com/news/insider-trading-news/hf-sinclair-ceo-franklin-myers-buys-111-million-in-company-stock-93CH-4985684",
-    "AI|https://www.investing.com/news/commodities-news/gold-hovers-near-4000-as-pce-inflation-oil-risks-revive-fed-hike-concerns-4985685",
-    "AI|https://www.investing.com/news/stock-market-news/bayer-wins-roundup-weedkiller-cancer-trial-while-awaiting-settlement-ruling-4985676",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/us-stock-futures-sink-nasdaq-down-2-as-amazon-intel-earnings-underwhelm-4985675",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/sk-hynix-neutral-in-notrade-zone-awaiting-breakout-live-93CH-4971337",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-spacex-stock-falling-afterhours-today-93CH-4985677",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/anthropic-accounts-for-over-a-third-of-spacex-revenue-in-q3-bloomberg-reports-4985678",
@@ -5000,7 +4993,14 @@
     "Watchlist|/companies-markets/energy-commodities/sembcorp-dayone-sign-pact-explore-powering-data-centres-asia",
     "Iran|https://www.iranintl.com/en/202610317760",
     "War|https://www.investing.com/news/commodities-news/gold-hovers-near-4000-as-pce-inflation-oil-risks-revive-fed-hike-concerns-4985685",
-    "Crypto|48155f14-9ef9-3f42-90fa-5c44f8bf62de"
+    "Crypto|48155f14-9ef9-3f42-90fa-5c44f8bf62de",
+    "AI|https://www.investing.com/news/economy-news/russian-oil-tankers-deploy-makeshift-drone-defenses-amid-ukraine-attacks--wsj-4989348",
+    "Cybersecurity|https://www.investing.com/news/economy-news/russian-oil-tankers-deploy-makeshift-drone-defenses-amid-ukraine-attacks--wsj-4989348",
+    "SG Banks|https://www.investing.com/news/economy-news/russian-oil-tankers-deploy-makeshift-drone-defenses-amid-ukraine-attacks--wsj-4989348",
+    "Watchlist|https://www.investing.com/news/economy-news/russian-oil-tankers-deploy-makeshift-drone-defenses-amid-ukraine-attacks--wsj-4989348",
+    "Crypto|7539670f-bbab-374c-82cf-8df459881d27",
+    "AI|c38b8f8f-25a8-3b8a-8726-c65dd84309db",
+    "Watchlist|c38b8f8f-25a8-3b8a-8726-c65dd84309db"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793491230.723544,
+  "last_check": 1793492155.590042,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
