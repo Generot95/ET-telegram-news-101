@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-strategy-stock-sliding-today-93CH-4986080",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/energy-rally-lifts-ftse-100-to-lone-gain-in-europe-as-oil-approaches-6month-high-4986085",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/sparebanken-norge-shares-fall-after-net-interest-income-drops-93CH-4986086",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/amd-stock-falls-as-intels-weak-pc-outlook-weighs-on-sector-93CH-4986087",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-amazon-stock-plunging-today-93CH-4986088",
-    "SG Banks|https://www.investing.com/news/stock-market-news/european-shares-ease-as-aidriven-tech-selloff-deepens-4986074",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-bp-stock-rallying-today-93CH-4986078",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-gerresheimer-stock-rallying-today-93CH-4986077",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-coinbase-stock-sliding-today-93CH-4986079",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-strategy-stock-sliding-today-93CH-4986080",
-    "SG Banks|https://www.investing.com/news/stock-market-news/energy-rally-lifts-ftse-100-to-lone-gain-in-europe-as-oil-approaches-6month-high-4986085",
     "SG Banks|https://www.investing.com/news/stock-market-news/sparebanken-norge-shares-fall-after-net-interest-income-drops-93CH-4986086",
     "SG Banks|https://www.investing.com/news/stock-market-news/amd-stock-falls-as-intels-weak-pc-outlook-weighs-on-sector-93CH-4986087",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-amazon-stock-plunging-today-93CH-4986088",
@@ -5000,7 +4989,18 @@
     "Cybersecurity|WP-MKTW-0003853114",
     "Cybersecurity|WP-MKTW-0003853112",
     "Cybersecurity|WP-MKTW-0004179843",
-    "Cybersecurity|WP-MKTW-0004255367"
+    "Cybersecurity|WP-MKTW-0004255367",
+    "SG Banks|https://www.straitstimes.com/business/thomson-reserve-sells-90-of-units-at-average-of-2900-psf-over-launch-weekend",
+    "War|f432131d-5a50-3775-9996-c5258193630f",
+    "AI|f432131d-5a50-3775-9996-c5258193630f",
+    "AI|8043cc74-84c0-39da-8475-2a27e23d173b",
+    "Cybersecurity|8043cc74-84c0-39da-8475-2a27e23d173b",
+    "Watchlist|f432131d-5a50-3775-9996-c5258193630f",
+    "Watchlist|8043cc74-84c0-39da-8475-2a27e23d173b",
+    "AI|4a6a5943-b559-3b6c-a6ff-452a90c49979",
+    "Crypto|4a6a5943-b559-3b6c-a6ff-452a90c49979",
+    "SG Banks|https://www.straitstimes.com/business/one-in-five-prime-region-private-home-resale-deals-sold-at-a-loss-in-q3",
+    "Watchlist|4a6a5943-b559-3b6c-a6ff-452a90c49979"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793536126.8868291,
+  "last_check": 1793537022.0129573,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
