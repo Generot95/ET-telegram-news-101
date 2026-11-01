@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|dd459b55-9afa-3982-a8fb-09fa7127cd1a",
-    "War|WP-MKTW-0005314336",
-    "SG Banks|/companies-markets/aem-tumbles-8-6-along-singapore-and-regional-peers-following-alphabets-record-plunge",
-    "Watchlist|/companies-markets/aem-tumbles-8-6-along-singapore-and-regional-peers-following-alphabets-record-plunge",
-    "Iran|https://www.iranintl.com/en/202610282816",
-    "AI|WP-MKTW-0005314336",
-    "War|WP-MKTW-0005317183",
-    "AI|WP-MKTW-0005317183",
     "Cybersecurity|WP-MKTW-0005314336",
     "Cybersecurity|WP-MKTW-0005317183",
     "SG Banks|/companies-markets/banking-finance/jpmorgans-private-bank-using-ai-make-advisers-more-efficient",
@@ -5000,7 +4992,15 @@
     "Watchlist|9845c2d9-1a70-342b-9c09-5caac169afec",
     "Watchlist|53b6c34b-f2f2-3cf4-be17-2553c5fe8185",
     "AI|357f0cae-ff34-368c-942e-1061a11d2b13",
-    "Watchlist|357f0cae-ff34-368c-942e-1061a11d2b13"
+    "Watchlist|357f0cae-ff34-368c-942e-1061a11d2b13",
+    "Watchlist|5b0b0ed2-c59e-36c9-bc5f-bc5d34f73da8",
+    "AI|0c9f4263-ec68-3024-8f7c-b8aa8a4fd066",
+    "Watchlist|0c9f4263-ec68-3024-8f7c-b8aa8a4fd066",
+    "SG Banks|/companies-markets/aem-tumbles-8-6-along-singapore-and-regional-peers-following-alphabets-record-plunge",
+    "Watchlist|/companies-markets/aem-tumbles-8-6-along-singapore-and-regional-peers-following-alphabets-record-plunge",
+    "Iran|https://www.iranintl.com/en/202610282816",
+    "AI|efd76238-402c-39d7-be64-415821d3f91e",
+    "Watchlist|efd76238-402c-39d7-be64-415821d3f91e"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5083,7 +5083,7 @@
     "AMD|2026-11-04",
     "U11.SI|2026-11-04"
   ],
-  "last_check": 1793559963.3896024,
+  "last_check": 1793560864.4688082,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
