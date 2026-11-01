@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|86d0a14e-08b9-39c3-aac0-32772b62269d",
-    "Watchlist|62e0ddf1-215e-3f35-b1df-fdd8c47ed0bf",
-    "Watchlist|86d0a14e-08b9-39c3-aac0-32772b62269d",
-    "Watchlist|3a73f015-dde7-3fcd-a292-29dfc0d83a31",
-    "SG Banks|https://www.channelnewsasia.com/business/crypto-exchange-binance-freezes-assets-after-63-billion-security-breach-6505091",
-    "SG Banks|https://www.straitstimes.com/business/stocks-slump-bonds-leap-as-ai-giants-spending-spooks-investors",
-    "War|WP-MKTW-0005308221",
-    "AI|16e3db15-9962-3795-9256-ccf1b00ddb3e",
-    "AI|WP-MKTW-0005308221",
-    "Cybersecurity|WP-MKTW-0005308221",
-    "Watchlist|16e3db15-9962-3795-9256-ccf1b00ddb3e",
     "AI|4f7fada5-da89-3e0e-869c-da80e7d41102",
     "AI|507c9538-973e-314d-a02a-6fd2c7ae56e7",
     "Watchlist|507c9538-973e-314d-a02a-6fd2c7ae56e7",
@@ -5000,7 +4989,18 @@
     "AI|https://www.investing.com/news/economy-news/saudi-arabias-economy-contracts-38-as-war-disrupts-oil-production-4989425",
     "Cybersecurity|https://www.investing.com/news/economy-news/saudi-arabias-economy-contracts-38-as-war-disrupts-oil-production-4989425",
     "SG Banks|https://www.investing.com/news/economy-news/saudi-arabias-economy-contracts-38-as-war-disrupts-oil-production-4989425",
-    "Watchlist|https://www.investing.com/news/economy-news/saudi-arabias-economy-contracts-38-as-war-disrupts-oil-production-4989425"
+    "Watchlist|https://www.investing.com/news/economy-news/saudi-arabias-economy-contracts-38-as-war-disrupts-oil-production-4989425",
+    "Iran|https://www.iranintl.com/en/202611016130",
+    "AI|3f399d57-b0e7-315a-b367-4437eb26abef",
+    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-altria-tops-q3-2026-forecasts-and-lifts-outlook-93CH-4989427",
+    "AI|https://www.investing.com/news/company-news/altria-q3-2026-slides-eps-beats-smokefree-push-gains-momentum-93CH-4989429",
+    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-altria-tops-q3-2026-forecasts-and-lifts-outlook-93CH-4989427",
+    "Cybersecurity|https://www.investing.com/news/company-news/altria-q3-2026-slides-eps-beats-smokefree-push-gains-momentum-93CH-4989429",
+    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-altria-tops-q3-2026-forecasts-and-lifts-outlook-93CH-4989427",
+    "SG Banks|https://www.investing.com/news/company-news/altria-q3-2026-slides-eps-beats-smokefree-push-gains-momentum-93CH-4989429",
+    "Watchlist|3f399d57-b0e7-315a-b367-4437eb26abef",
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-altria-tops-q3-2026-forecasts-and-lifts-outlook-93CH-4989427",
+    "Watchlist|https://www.investing.com/news/company-news/altria-q3-2026-slides-eps-beats-smokefree-push-gains-momentum-93CH-4989429"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793523293.3574276,
+  "last_check": 1793524218.2381756,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
