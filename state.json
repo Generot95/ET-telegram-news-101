@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/forex-news/german-bunds-set-for-best-month-since-february-as-tech-rout-triggers-safety-bid-4985952",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/goldman-sachs-maintains-sell-on-ao-smith-stock-amid-pricing-pressures-93CH-4986232",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/trinet-stock-price-target-lowered-to-65-by-td-cowen-on-revenue-miss-93CH-4986233",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/rosenblatt-raises-lumentum-stock-price-target-on-acquisition-prospects-93CH-4986234",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/raymond-james-raises-dexcom-stock-price-target-to-97-on-us-growth-93CH-4986235",
     "SG Banks|https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-arthur-j-gallagher-stock-rating-on-inline-q3-results-93CH-4986236",
     "SG Banks|https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-intel-stock-rating-ahead-of-earnings-93CH-4986237",
     "SG Banks|https://www.investing.com/news/analyst-ratings/rosenblatt-raises-lumentum-stock-price-target-on-acquisition-prospects-93CH-4986238",
@@ -5000,78 +4995,83 @@
     "Watchlist|96f3cb6f-d586-3e4b-91bd-d4f55264642f",
     "War|WP-MKTW-0005318247",
     "AI|WP-MKTW-0005318247",
-    "Cybersecurity|WP-MKTW-0005318247"
+    "Cybersecurity|WP-MKTW-0005318247",
+    "SG Banks|/esg/indonesia-philippines-and-vietnam-need-us3-7-billion-development-finance-meet-climate-targets-report",
+    "Watchlist|/esg/indonesia-philippines-and-vietnam-need-us3-7-billion-development-finance-meet-climate-targets-report",
+    "AI|3b2c329b-db32-3f19-9d07-2324a4fa35b0",
+    "Watchlist|3b2c329b-db32-3f19-9d07-2324a4fa35b0",
+    "Crypto|d2ee9900-6d9c-3bd4-b6c7-83626b45b489"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
   "earnings": {
     "AMD": {
-      "ts": 1793736000,
-      "fetched": 1793459772.2732935
+      "ts": 1793739600,
+      "fetched": 1793546191.3163717
     },
     "NVDA": {
-      "ts": 1794945600,
-      "fetched": 1793459772.2732935
+      "ts": 1794949200,
+      "fetched": 1793546191.3163717
     },
     "CRWD": {
-      "ts": 1796155200,
-      "fetched": 1793459772.2732935
+      "ts": 1796158800,
+      "fetched": 1793546191.3163717
     },
     "MSFT": {
-      "ts": 1801080000,
-      "fetched": 1793459772.2732935
+      "ts": 1801083600,
+      "fetched": 1793546191.3163717
     },
     "INTU": {
-      "ts": 1795118400,
-      "fetched": 1793459772.2732935
+      "ts": 1795122000,
+      "fetched": 1793546191.3163717
     },
     "BRK-B": {
-      "ts": 1794081600,
-      "fetched": 1793459772.2732935
+      "ts": 1794085200,
+      "fetched": 1793546191.3163717
     },
     "AMZN": {
       "ts": 1793304000,
-      "fetched": 1793459772.2732935
+      "fetched": 1793546191.3163717
     },
     "GOOG": {
       "ts": 1793217600,
-      "fetched": 1793459772.2732935
+      "fetched": 1793546191.3163717
     },
     "ZTS": {
-      "ts": 1793881800,
-      "fetched": 1793459772.2732935
+      "ts": 1793885400,
+      "fetched": 1793546191.3163717
     },
     "LIN": {
       "ts": 1793277000,
-      "fetched": 1793459772.2732935
+      "fetched": 1793546191.3163717
     },
     "VLO": {
-      "ts": 1792672200,
-      "fetched": 1793459772.2732935
+      "ts": 1801143000,
+      "fetched": 1793546191.3163717
     },
     "D05.SI": {
       "ts": 1793869200,
-      "fetched": 1793459772.2732935
+      "fetched": 1793546191.3163717
     },
     "O39.SI": {
       "ts": 1793955600,
-      "fetched": 1793459772.2732935
+      "fetched": 1793546191.3163717
     },
     "U11.SI": {
       "ts": 1793782800,
-      "fetched": 1793459772.2732935
+      "fetched": 1793546191.3163717
     },
     "A17U.SI": {
       "ts": 1785920400,
-      "fetched": 1793459772.2732935
+      "fetched": 1793546191.3163717
     },
     "HMN.SI": {
       "ts": null,
-      "fetched": 1793459772.2732935
+      "fetched": 1793546191.3163717
     },
     "JYEU.SI": {
       "ts": null,
-      "fetched": 1793459772.2732935
+      "fetched": 1793546191.3163717
     }
   },
   "earnings_notified": [
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793545283.7729697,
+  "last_check": 1793546191.3157127,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
