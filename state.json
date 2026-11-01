@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "War|ee56a8b5-b7f5-3153-a17c-f271f36e43ce",
-    "AI|ee56a8b5-b7f5-3153-a17c-f271f36e43ce",
-    "Watchlist|ee56a8b5-b7f5-3153-a17c-f271f36e43ce",
-    "SG Banks|https://www.channelnewsasia.com/business/us-airlines-deploy-ai-pricing-tools-startups-help-travelers-cash-in-fare-drops-6506646",
-    "War|7e4209a7-25f3-3b70-a7da-c7c9d9674f8d",
-    "AI|7e4209a7-25f3-3b70-a7da-c7c9d9674f8d",
-    "Watchlist|7e4209a7-25f3-3b70-a7da-c7c9d9674f8d",
-    "War|WP-MKTW-0005317003",
-    "AI|035e1f81-410c-3185-889a-05d72e27e1d7",
-    "AI|29edd366-dca6-3cec-ac94-34602bbcc593",
     "AI|45c7780b-e40b-31e1-96e9-75d23e734c2d",
     "AI|WP-MKTW-0005317003",
     "Cybersecurity|WP-MKTW-0005317003",
@@ -5000,7 +4990,17 @@
     "War|https://www.investing.com/news/commodities-news/trump-says-us-canada-have-concept-of-a-new-trade-deal-4989778",
     "SG Banks|WP-MKTW-0004179843",
     "SG Banks|WP-MKTW-0004255367",
-    "Watchlist|/singapore/coe-review-motor-traders-suggest-using-vehicle-length-engine-size-and-power-classify-cars"
+    "Watchlist|/singapore/coe-review-motor-traders-suggest-using-vehicle-length-engine-size-and-power-classify-cars",
+    "Watchlist|2c0421e4-0eb7-3b22-9aba-c6dddd680b3f",
+    "AI|d4b44028-92ea-30f8-b6d5-d36dacbcccc8",
+    "AI|8e5de392-e3f7-3db7-bb5d-903e4d9e6e86",
+    "Watchlist|d4b44028-92ea-30f8-b6d5-d36dacbcccc8",
+    "Watchlist|8e5de392-e3f7-3db7-bb5d-903e4d9e6e86",
+    "AI|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4989779",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4989779",
+    "SG Banks|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4989779",
+    "Watchlist|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4989779",
+    "War|WP-MKTW-0005317003"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5083,7 +5083,7 @@
     "AMD|2026-11-04",
     "U11.SI|2026-11-04"
   ],
-  "last_check": 1793568189.4198895,
+  "last_check": 1793569107.6783416,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
