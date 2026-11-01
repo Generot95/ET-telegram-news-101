@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/economic-indicators/germanys-october-unemployment-rises-by-4000-below-forecasts-93CH-4986392",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-buy-on-first-solar-stock-on-solid-quarter-93CH-4986393",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/starbucks-stock-rating-reaffirmed-at-outperform-by-william-blair-93CH-4986395",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/needham-cuts-alphatec-stock-price-target-on-biologics-concerns-93CH-4986394",
-    "SG Banks|https://www.investing.com/news/stock-market-news/foxconn-working-on-a-new-tieup-with-openai-says-there-is-no-ai-bubble-4986121",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/bmo-raises-hubspot-stock-price-target-to-255-on-steady-smb-trends-93CH-4986403",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/evercore-isi-maintains-floor--decor-stock-rating-on-margin-concerns-93CH-4986404",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/evercore-isi-raises-tpg-stock-price-target-to-52-on-fundraising-93CH-4986405",
     "SG Banks|https://www.investing.com/news/analyst-ratings/bmo-capital-raises-atlassian-stock-price-target-on-revenue-mix-93CH-4986406",
     "SG Banks|https://www.investing.com/news/analyst-ratings/truist-raises-api-group-stock-price-target-on-safety-growth-93CH-4986407",
     "SG Banks|WP-MKTW-0003805097",
@@ -5000,7 +4992,15 @@
     "AI|436c7852-81a3-3869-9014-bda45fc1ec46",
     "Watchlist|a13d2e38-fc67-32dc-9f3f-cc8b2313f0ad",
     "Watchlist|436c7852-81a3-3869-9014-bda45fc1ec46",
-    "Crypto|d284502e-d21a-302a-8c14-786d3bbf0e53"
+    "Crypto|d284502e-d21a-302a-8c14-786d3bbf0e53",
+    "Iran|https://www.iranintl.com/en/202611014416",
+    "Crypto|2cb27381-4789-35a8-b7b2-53ff0b824187",
+    "SG Banks|https://www.straitstimes.com/business/when-wealth-outruns-wages-the-changing-dynamics-of-global-property-markets",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/ai-doesnt-destroy-art-but-raises-the-bar-for-even-better-content-creation-says-adobe-apac-chief",
+    "SG Banks|https://www.straitstimes.com/business/askst-jobs-my-boss-keeps-making-passive-aggressive-remarks-how-should-i-respond",
+    "AI|b4eb03d4-1112-3e40-8c41-c59dea81f8ef",
+    "Watchlist|b4eb03d4-1112-3e40-8c41-c59dea81f8ef",
+    "Watchlist|2e1c0017-fde6-35bf-914a-bc15e9f59244"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5083,7 +5083,7 @@
     "AMD|2026-11-04",
     "U11.SI|2026-11-04"
   ],
-  "last_check": 1793566364.917935,
+  "last_check": 1793567271.3191679,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
