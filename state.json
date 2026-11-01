@@ -1,7 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|303f7a6d-ccba-3d74-8645-88481b76befe",
     "Crypto|303f7a6d-ccba-3d74-8645-88481b76befe",
     "Watchlist|303f7a6d-ccba-3d74-8645-88481b76befe",
     "SG Banks|/companies-markets/singapores-easy-wins-attracting-global-capital-are-over-say-panellists",
@@ -5000,7 +4999,8 @@
     "SG Banks|/companies-markets/philippines-will-defend-peso-hard-we-possibly-can-president",
     "Watchlist|/companies-markets/banking-finance/ubs-meets-expectations-us2-7-billion-q3-profit",
     "Watchlist|/companies-markets/philippines-will-defend-peso-hard-we-possibly-can-president",
-    "SG Banks|/companies-markets/samsung-sees-ai-chip-shortage-worsening-keeps-investors-suspense-returns"
+    "SG Banks|/companies-markets/samsung-sees-ai-chip-shortage-worsening-keeps-investors-suspense-returns",
+    "Watchlist|/companies-markets/samsung-sees-ai-chip-shortage-worsening-keeps-investors-suspense-returns"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793520546.7838671,
+  "last_check": 1793521468.5281081,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
