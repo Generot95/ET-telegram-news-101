@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|/companies-markets/banking-finance/bnp-paribas-beats-q3-profit-forecast-unveils-us1-4-billion-share-buyback",
-    "War|6f81ac9d-13cd-3dfa-b839-0cb7ca663db4",
     "War|8ee50583-9479-3a56-951e-72a9ee96dc07",
     "Watchlist|6f81ac9d-13cd-3dfa-b839-0cb7ca663db4",
     "Watchlist|5f6f472e-e0af-339a-8393-3abf083c7e63",
@@ -5000,7 +4998,9 @@
     "SG Banks|https://www.investing.com/news/stock-market-news/who-are-the-spillover-winners-from-the-ai-export-boom-in-asia-4989410",
     "Watchlist|https://www.investing.com/news/insider-trading-news/truist-financial-ceo-michael-lyons-buys-12m-in-company-stock-93CH-4989408",
     "Watchlist|https://www.investing.com/news/stock-market-news/who-are-the-spillover-winners-from-the-ai-export-boom-in-asia-4989410",
-    "SG Banks|/companies-markets/banking-finance/bnp-paribas-beats-q3-profit-forecast-unveils-us1-4-billion-share-buyback"
+    "SG Banks|/companies-markets/banking-finance/bnp-paribas-beats-q3-profit-forecast-unveils-us1-4-billion-share-buyback",
+    "War|3864f686-a426-3669-9610-de9200dbde17",
+    "Watchlist|/companies-markets/banking-finance/bnp-paribas-beats-q3-profit-forecast-unveils-us1-4-billion-share-buyback"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793516878.898245,
+  "last_check": 1793517791.2633152,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
