@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/economy-news/stocks-slump-bonds-leap-as-ai-giants-spending-spooks-investors-4985741",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/eos-energy-cco-michelle-buczkowski-sells-100000-in-shares-93CH-4985739",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/nippon-life-corebridge-financial-10-owner-buys-626m-stock-93CH-4985740",
-    "Watchlist|https://www.investing.com/news/economy-news/stocks-slump-bonds-leap-as-ai-giants-spending-spooks-investors-4985741",
     "AI|86d0a14e-08b9-39c3-aac0-32772b62269d",
     "Watchlist|62e0ddf1-215e-3f35-b1df-fdd8c47ed0bf",
     "Watchlist|86d0a14e-08b9-39c3-aac0-32772b62269d",
@@ -5000,7 +4996,11 @@
     "Watchlist|/companies-markets/capital-markets-currencies/yen-gains-against-us-dollar-after-bank-japan-holds-rates",
     "SG Banks|/companies-markets/banking-finance/bank-england-may-raise-high-risk-mortgage-threshold-ft",
     "Watchlist|/companies-markets/banking-finance/bank-england-may-raise-high-risk-mortgage-threshold-ft",
-    "War|9408ebf1-a7ba-3388-a97d-a2a3b8447af6"
+    "War|9408ebf1-a7ba-3388-a97d-a2a3b8447af6",
+    "AI|https://www.investing.com/news/economy-news/saudi-arabias-economy-contracts-38-as-war-disrupts-oil-production-4989425",
+    "Cybersecurity|https://www.investing.com/news/economy-news/saudi-arabias-economy-contracts-38-as-war-disrupts-oil-production-4989425",
+    "SG Banks|https://www.investing.com/news/economy-news/saudi-arabias-economy-contracts-38-as-war-disrupts-oil-production-4989425",
+    "Watchlist|https://www.investing.com/news/economy-news/saudi-arabias-economy-contracts-38-as-war-disrupts-oil-production-4989425"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793522387.575346,
+  "last_check": 1793523293.3574276,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
