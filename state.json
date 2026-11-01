@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/analyst-ratings/starbucks-stock-rating-reaffirmed-at-outperform-by-william-blair-93CH-4986395",
-    "AI|https://www.investing.com/news/analyst-ratings/needham-cuts-alphatec-stock-price-target-on-biologics-concerns-93CH-4986394",
-    "AI|https://www.investing.com/news/stock-market-news/foxconn-working-on-a-new-tieup-with-openai-says-there-is-no-ai-bubble-4986121",
-    "AI|https://www.investing.com/news/analyst-ratings/bmo-raises-hubspot-stock-price-target-to-255-on-steady-smb-trends-93CH-4986403",
-    "AI|https://www.investing.com/news/analyst-ratings/evercore-isi-maintains-floor--decor-stock-rating-on-margin-concerns-93CH-4986404",
     "AI|https://www.investing.com/news/analyst-ratings/evercore-isi-raises-tpg-stock-price-target-to-52-on-fundraising-93CH-4986405",
     "AI|https://www.investing.com/news/analyst-ratings/bmo-capital-raises-atlassian-stock-price-target-on-revenue-mix-93CH-4986406",
     "AI|https://www.investing.com/news/analyst-ratings/truist-raises-api-group-stock-price-target-on-safety-growth-93CH-4986407",
@@ -5000,7 +4995,12 @@
     "SG Banks|WP-MKTW-0003509284",
     "AI|2941c7c9-698a-3be6-a337-9c1027c6da87",
     "SG Banks|WP-MKTW-0003805099",
-    "Watchlist|2941c7c9-698a-3be6-a337-9c1027c6da87"
+    "Watchlist|2941c7c9-698a-3be6-a337-9c1027c6da87",
+    "War|WP-MKTW-0005306475",
+    "AI|WP-MKTW-0005306475",
+    "Cybersecurity|WP-MKTW-0005306475",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/retirement-wealth-ai-what-a-changing-asia-means-for-investors-wellington-management",
+    "SG Banks|https://www.straitstimes.com/singapore/jobs/community-care-day-home-nurse-methodist-welfare-services-aic"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5083,7 +5083,7 @@
     "AMD|2026-11-04",
     "U11.SI|2026-11-04"
   ],
-  "last_check": 1793562702.0896988,
+  "last_check": 1793563612.4835944,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
