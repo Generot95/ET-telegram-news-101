@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|7c6d2dd6-22fd-3591-83cf-43ca732f73d6",
-    "Watchlist|5b1dc86a-c06e-3396-9813-a0d1ac388dec",
-    "Watchlist|30ff5ba4-a23b-3125-9575-3ffa4053320d",
-    "SG Banks|https://www.straitstimes.com/business/nvidias-web-of-ai-bets-smart-strategy-or-bubble-risk",
-    "AI|https://www.investing.com/news/insider-trading-news/natera-president-moshkevich-sells-905k-in-company-stock-93CH-4985714",
     "AI|https://www.investing.com/news/insider-trading-news/natera-president-john-fesko-sells-699939-in-common-stock-93CH-4985715",
     "AI|https://www.investing.com/news/insider-trading-news/natera-director-jonathan-sheena-sells-197871-in-company-stock-93CH-4985716",
     "AI|https://www.investing.com/news/earnings/fst-ltd-earnings-matched-revenue-fell-short-of-estimates-4985720",
@@ -5000,7 +4995,12 @@
     "Watchlist|1b5d5b99-8777-3329-ade8-5c3d8d080a8b",
     "Watchlist|/companies-markets/hyundai-motor-reports-5-5-rise-q3-operating-profit-beats-forecasts",
     "Watchlist|/companies-markets/analysts-cut-mapletree-industrial-trust-targets-amid-murky-dpu-outlook-cgsi-downgrades-hold",
-    "Watchlist|/companies-markets/ai-outlook-energy-prices-drive-asian-markets-fed-holds-rate-steady"
+    "Watchlist|/companies-markets/ai-outlook-energy-prices-drive-asian-markets-fed-holds-rate-steady",
+    "AI|https://www.investing.com/news/stock-market-news/binance-to-resume-withdrawals-after-recovering-bulk-of-6-billion-in-stolen-funds-4989388",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/binance-to-resume-withdrawals-after-recovering-bulk-of-6-billion-in-stolen-funds-4989388",
+    "SG Banks|https://www.investing.com/news/stock-market-news/binance-to-resume-withdrawals-after-recovering-bulk-of-6-billion-in-stolen-funds-4989388",
+    "Watchlist|https://www.investing.com/news/stock-market-news/binance-to-resume-withdrawals-after-recovering-bulk-of-6-billion-in-stolen-funds-4989388",
+    "AI|a2093aa9-2b1d-3740-8672-f402631ecfa1"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793509569.7537887,
+  "last_check": 1793510485.2157698,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
