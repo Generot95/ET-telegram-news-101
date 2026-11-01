@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/economic-indicators/singapore-thirdquarter-layoffs-at-highest-level-since-2020-4985736",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/oil-rises-on-supply-concerns-as-houthis-attack-saudi-arabia-4985735",
-    "SG Banks|https://www.investing.com/news/economic-indicators/singapore-thirdquarter-layoffs-at-highest-level-since-2020-4985736",
-    "SG Banks|https://www.investing.com/news/commodities-news/oil-rises-on-supply-concerns-as-houthis-attack-saudi-arabia-4985735",
-    "Watchlist|https://www.investing.com/news/economic-indicators/singapore-thirdquarter-layoffs-at-highest-level-since-2020-4985736",
-    "Watchlist|https://www.investing.com/news/commodities-news/oil-rises-on-supply-concerns-as-houthis-attack-saudi-arabia-4985735",
-    "Iran|https://www.iranintl.com/en/202610266454",
     "SG Banks|/companies-markets/banking-finance/ubs-meets-expectations-us2-7-billion-q3-profit",
     "AI|6ab42fca-2bec-3941-a144-bb8c9150c42a",
     "Watchlist|6ab42fca-2bec-3941-a144-bb8c9150c42a",
@@ -5000,7 +4993,14 @@
     "Watchlist|fa2122b2-e88e-3aab-a5a1-3f0cc020778a",
     "SG Banks|/international/high-credit-card-rates-emerge-rare-bipartisan-midterms-issue",
     "Watchlist|/international/high-credit-card-rates-emerge-rare-bipartisan-midterms-issue",
-    "War|https://www.investing.com/news/commodities-news/oil-rises-on-supply-concerns-as-houthis-attack-saudi-arabia-4985735"
+    "War|https://www.investing.com/news/commodities-news/oil-rises-on-supply-concerns-as-houthis-attack-saudi-arabia-4985735",
+    "SG Banks|https://www.straitstimes.com/business/binance-resumes-bitcoin-withdrawals-after-covering-bulk-of-stolen-us6-3-billion",
+    "War|fe472159-3dd8-3361-9562-40a8918fdb5b",
+    "SG Banks|https://www.channelnewsasia.com/business/xiaomis-october-ev-deliveries-top-50000-hit-2026-monthly-high-6510711",
+    "AI|https://www.investing.com/news/stock-market-news/xiaomis-october-ev-deliveries-top-50000-hit-2026-monthly-high-4989416",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/xiaomis-october-ev-deliveries-top-50000-hit-2026-monthly-high-4989416",
+    "SG Banks|https://www.investing.com/news/stock-market-news/xiaomis-october-ev-deliveries-top-50000-hit-2026-monthly-high-4989416",
+    "Watchlist|https://www.investing.com/news/stock-market-news/xiaomis-october-ev-deliveries-top-50000-hit-2026-monthly-high-4989416"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793518709.0395923,
+  "last_check": 1793519637.4540021,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
