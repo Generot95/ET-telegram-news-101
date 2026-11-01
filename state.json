@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/economy-news/yen-steady-before-boj-ai-jitters-drive-treasury-rally-weigh-on-dollar-4985701",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/natera-ceo-steven-chapman-sells-238m-in-shares-for-tax-obligations-93CH-4985702",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/natera-legal-chief-daniel-rabinowitz-sells-771601-in-stock-93CH-4985704",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/natera-cfo-michael-brophy-sells-827841-in-company-stock-93CH-4985703",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/natera-executive-chairman-matthew-rabinowitz-sells-697508-stock-93CH-4985705",
@@ -5000,7 +4998,9 @@
     "AI|5e5214cf-3edc-3430-b616-a419b393fdb8",
     "Crypto|bb933dfd-d358-363f-a853-5195da5cd07f",
     "Watchlist|5e5214cf-3edc-3430-b616-a419b393fdb8",
-    "Watchlist|bb933dfd-d358-363f-a853-5195da5cd07f"
+    "Watchlist|bb933dfd-d358-363f-a853-5195da5cd07f",
+    "AI|036a48f7-5736-37ed-b389-b8da12b25270",
+    "Watchlist|036a48f7-5736-37ed-b389-b8da12b25270"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793504069.4037235,
+  "last_check": 1793504974.7319405,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
