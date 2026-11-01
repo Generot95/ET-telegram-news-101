@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/earnings/alliant-energy-earnings-beat-by-026-revenue-was-in-line-with-estimates-4985721",
-    "SG Banks|https://www.investing.com/news/company-news/aspen-neuroscience-prices-ipo-at-15-per-share-93CH-4985728",
-    "SG Banks|https://www.investing.com/news/earnings/tfs-financial-earnings-matched-revenue-topped-estimates-4985729",
-    "SG Banks|https://www.investing.com/news/stock-market-news/aspen-neuroscience-prices-ipo-at-15-per-share-on-nasdaq-432SI-4985722",
-    "SG Banks|https://www.investing.com/news/economy-news/japans-nikkei-slumps-3-as-tech-stocks-tumble-on-ai-worries-4985730",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/natera-president-moshkevich-sells-905k-in-company-stock-93CH-4985714",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/natera-president-john-fesko-sells-699939-in-common-stock-93CH-4985715",
     "Watchlist|https://www.investing.com/news/insider-trading-news/natera-director-jonathan-sheena-sells-197871-in-company-stock-93CH-4985716",
     "Watchlist|https://www.investing.com/news/earnings/fst-ltd-earnings-matched-revenue-fell-short-of-estimates-4985720",
     "Watchlist|https://www.investing.com/news/earnings/alliant-energy-earnings-beat-by-026-revenue-was-in-line-with-estimates-4985721",
@@ -5000,7 +4993,14 @@
     "SG Banks|https://www.investing.com/news/cryptocurrency-news/binance-to-resume-crypto-withdrawals-in-phases-after-record-6-billion-hack-4989397",
     "Watchlist|https://www.investing.com/news/insider-trading-news/bank-first-corp-director-sprang-buys-59348-of-common-stock-93CH-4989395",
     "Watchlist|https://www.investing.com/news/cryptocurrency-news/binance-to-resume-crypto-withdrawals-in-phases-after-record-6-billion-hack-4989397",
-    "War|59557a90-f440-308e-93da-861f4e6aa81c"
+    "War|59557a90-f440-308e-93da-861f4e6aa81c",
+    "AI|https://www.investing.com/news/insider-trading-news/actuate-therapeutics-ceo-daniel-schmitt-purchases-49999-in-stock-93CH-4989402",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/actuate-therapeutics-ceo-daniel-schmitt-purchases-49999-in-stock-93CH-4989402",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/actuate-therapeutics-ceo-daniel-schmitt-purchases-49999-in-stock-93CH-4989402",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/actuate-therapeutics-ceo-daniel-schmitt-purchases-49999-in-stock-93CH-4989402",
+    "War|6b3a23ab-3404-3aac-8c6b-3802467652ac",
+    "SG Banks|/companies-markets/banking-finance/money-managers-including-kkr-get-ready-snatch-bargain-leveraged-loans",
+    "Watchlist|/companies-markets/banking-finance/money-managers-including-kkr-get-ready-snatch-bargain-leveraged-loans"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793515047.270445,
+  "last_check": 1793515970.8722556,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
