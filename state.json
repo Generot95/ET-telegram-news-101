@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "War|8ee50583-9479-3a56-951e-72a9ee96dc07",
-    "Watchlist|6f81ac9d-13cd-3dfa-b839-0cb7ca663db4",
-    "Watchlist|5f6f472e-e0af-339a-8393-3abf083c7e63",
-    "AI|35957ba2-6a78-3334-b5b9-b6e176337055",
-    "Watchlist|35957ba2-6a78-3334-b5b9-b6e176337055",
-    "SG Banks|https://www.straitstimes.com/business/sheng-siong-q3-profit-up-1-9-at-44-6-million",
-    "War|https://www.investing.com/news/commodities-news/oil-rises-on-supply-concerns-as-houthis-attack-saudi-arabia-4985735",
-    "AI|https://www.investing.com/news/economic-indicators/singapore-thirdquarter-layoffs-at-highest-level-since-2020-4985736",
-    "AI|https://www.investing.com/news/commodities-news/oil-rises-on-supply-concerns-as-houthis-attack-saudi-arabia-4985735",
     "Cybersecurity|https://www.investing.com/news/economic-indicators/singapore-thirdquarter-layoffs-at-highest-level-since-2020-4985736",
     "Cybersecurity|https://www.investing.com/news/commodities-news/oil-rises-on-supply-concerns-as-houthis-attack-saudi-arabia-4985735",
     "SG Banks|https://www.investing.com/news/economic-indicators/singapore-thirdquarter-layoffs-at-highest-level-since-2020-4985736",
@@ -5000,7 +4991,16 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/who-are-the-spillover-winners-from-the-ai-export-boom-in-asia-4989410",
     "SG Banks|/companies-markets/banking-finance/bnp-paribas-beats-q3-profit-forecast-unveils-us1-4-billion-share-buyback",
     "War|3864f686-a426-3669-9610-de9200dbde17",
-    "Watchlist|/companies-markets/banking-finance/bnp-paribas-beats-q3-profit-forecast-unveils-us1-4-billion-share-buyback"
+    "Watchlist|/companies-markets/banking-finance/bnp-paribas-beats-q3-profit-forecast-unveils-us1-4-billion-share-buyback",
+    "AI|https://www.investing.com/news/economy-news/iran-offers-48hour-hormuz-reopening-plan-as-trump-signals-progress-in-talks-4989413",
+    "Cybersecurity|https://www.investing.com/news/economy-news/iran-offers-48hour-hormuz-reopening-plan-as-trump-signals-progress-in-talks-4989413",
+    "SG Banks|https://www.investing.com/news/economy-news/iran-offers-48hour-hormuz-reopening-plan-as-trump-signals-progress-in-talks-4989413",
+    "Watchlist|https://www.investing.com/news/economy-news/iran-offers-48hour-hormuz-reopening-plan-as-trump-signals-progress-in-talks-4989413",
+    "AI|fa2122b2-e88e-3aab-a5a1-3f0cc020778a",
+    "Watchlist|fa2122b2-e88e-3aab-a5a1-3f0cc020778a",
+    "SG Banks|/international/high-credit-card-rates-emerge-rare-bipartisan-midterms-issue",
+    "Watchlist|/international/high-credit-card-rates-emerge-rare-bipartisan-midterms-issue",
+    "War|https://www.investing.com/news/commodities-news/oil-rises-on-supply-concerns-as-houthis-attack-saudi-arabia-4985735"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793517791.2633152,
+  "last_check": 1793518709.0395923,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
