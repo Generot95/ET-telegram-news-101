@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/why-is-american-bitcoin-stock-sliding-today-93CH-4986325",
-    "Cybersecurity|https://www.investing.com/news/forex-news/ubs-raises-zloty-forecast-as-currency-faces-mounting-pressure-93CH-4986332",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/wells-fargo-cuts-bristolmyers-squibb-stock-price-target-on-loe-concerns-93CH-4986333",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-life-time-group-stock-price-target-on-membership-growth-93CH-4986335",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/goldman-sachs-lowers-oreilly-automotive-stock-price-target-to-104-93CH-4986334",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-acerinox-stock-sliding-today-93CH-4986336",
-    "Cybersecurity|https://www.investing.com/news/economic-indicators/german-economy-grows-by-02-in-q3-preliminary-data-shows-4986289",
-    "Cybersecurity|https://www.investing.com/news/economy-news/central-banks-take-a-breather-though-more-hikes-are-to-come-4984337",
     "SG Banks|https://www.straitstimes.com/business/taiwan-posts-longest-run-of-double-digit-gdp-growth-since-1987",
     "SG Banks|https://www.investing.com/news/forex-news/ubs-raises-zloty-forecast-as-currency-faces-mounting-pressure-93CH-4986332",
     "SG Banks|https://www.investing.com/news/analyst-ratings/wells-fargo-cuts-bristolmyers-squibb-stock-price-target-on-loe-concerns-93CH-4986333",
@@ -5000,7 +4992,15 @@
     "AI|https://www.investing.com/news/economic-indicators/new-zealands-twospeed-economy-poses-election-dilemma-for-ruling-national-party-4989769",
     "Cybersecurity|https://www.investing.com/news/economic-indicators/new-zealands-twospeed-economy-poses-election-dilemma-for-ruling-national-party-4989769",
     "SG Banks|https://www.investing.com/news/economic-indicators/new-zealands-twospeed-economy-poses-election-dilemma-for-ruling-national-party-4989769",
-    "Watchlist|https://www.investing.com/news/economic-indicators/new-zealands-twospeed-economy-poses-election-dilemma-for-ruling-national-party-4989769"
+    "Watchlist|https://www.investing.com/news/economic-indicators/new-zealands-twospeed-economy-poses-election-dilemma-for-ruling-national-party-4989769",
+    "AI|aa7f6ef5-444d-3bef-b8b4-d0d4db2119d0",
+    "War|3fbd7ff7-77f2-3821-97fc-f1f986940b01",
+    "Watchlist|aa7f6ef5-444d-3bef-b8b4-d0d4db2119d0",
+    "War|WP-MKTW-0005316129",
+    "AI|fad01b1d-94fa-3a14-84b3-ba43af7b97fb",
+    "AI|WP-MKTW-0005316129",
+    "Cybersecurity|WP-MKTW-0005316129",
+    "Watchlist|fad01b1d-94fa-3a14-84b3-ba43af7b97fb"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5083,7 +5083,7 @@
     "AMD|2026-11-04",
     "U11.SI|2026-11-04"
   ],
-  "last_check": 1793553541.114645,
+  "last_check": 1793554450.5422213,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
