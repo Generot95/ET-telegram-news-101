@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/analyst-ratings/keybanc-lowers-amazon-stock-price-target-to-345-on-valuation-93CH-4986497",
-    "AI|https://www.investing.com/news/analyst-ratings/citizens-reiterates-ares-management-stock-rating-on-strong-deployment-outlook-93CH-4986498",
     "AI|https://www.investing.com/news/analyst-ratings/copt-defense-properties-stock-holds-buy-rating-on-strong-defense-demand-93CH-4986499",
     "AI|https://www.investing.com/news/economy-news/new-economic-data-challenges-fed-chiefs-nottoohot-perspective-4986500",
     "AI|https://www.investing.com/news/earnings/wisdomtree-stock-soars-11-on-third-quarter-earnings-beat-93CH-4986507",
@@ -5000,7 +4998,9 @@
     "Watchlist|/companies-markets/banking-finance/binance-sees-spike-withdrawals-exchange-returns-online-after-us6-3-billion-heist",
     "Watchlist|06cd5d5f-3358-3111-bfeb-b21555ea88af",
     "AI|749cf8f9-7933-3695-bc52-dd537cb560b1",
-    "Watchlist|749cf8f9-7933-3695-bc52-dd537cb560b1"
+    "Watchlist|749cf8f9-7933-3695-bc52-dd537cb560b1",
+    "AI|17c2c2aa-0a93-3cd7-8fc3-9915305977ab",
+    "Watchlist|17c2c2aa-0a93-3cd7-8fc3-9915305977ab"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5083,7 +5083,7 @@
     "AMD|2026-11-04",
     "U11.SI|2026-11-04"
   ],
-  "last_check": 1793571840.4899838,
+  "last_check": 1793572759.0216932,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
