@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "War|f8db415b-c0a7-3b4e-8037-3d40fefff4ea",
-    "AI|f8db415b-c0a7-3b4e-8037-3d40fefff4ea",
-    "Watchlist|f8db415b-c0a7-3b4e-8037-3d40fefff4ea",
-    "AI|fae10e70-c27b-3cb2-abca-f81a1777c3b3",
-    "Watchlist|fae10e70-c27b-3cb2-abca-f81a1777c3b3",
-    "Watchlist|/companies-markets/reits-property/us-data-centre-divestments-top-priority-mapletree-industrial-trust-q2-income-slips",
-    "AI|c6612199-f9dd-3f65-9d9f-c302ab619007",
-    "SG Banks|/property/temaseks-mapletree-investments-headed-sgx-ipo-next-year-sources",
-    "SG Banks|https://www.channelnewsasia.com/business/long-distance-flights-can-interfere-internal-clocks-seabirds-6506501",
-    "Watchlist|c6612199-f9dd-3f65-9d9f-c302ab619007",
     "Watchlist|/property/temaseks-mapletree-investments-headed-sgx-ipo-next-year-sources",
     "SG Banks|/property/temaseks-mapletree-investments-headed-sgx-ipo-2027-sources",
     "Watchlist|/property/temaseks-mapletree-investments-headed-sgx-ipo-2027-sources",
@@ -5000,7 +4990,17 @@
     "AI|279cc2a0-9d1b-31d7-b921-12d8d1de6321",
     "Watchlist|279cc2a0-9d1b-31d7-b921-12d8d1de6321",
     "SG Banks|/companies-markets/reits-property/us-data-centre-divestments-top-priority-mapletree-industrial-trust-q2-income-slips",
-    "Iran|https://www.iranintl.com/en/202611011139"
+    "Iran|https://www.iranintl.com/en/202611011139",
+    "AI|c410bf49-c56c-3f3b-9a8c-aa27747a9e31",
+    "Crypto|913a2a76-47cd-3e83-b4a7-c817b8f8747d",
+    "Watchlist|c0a283d2-7d5c-3c4b-bc54-927f209b5b46",
+    "Watchlist|f284df21-084d-39ae-828d-e711846d2346",
+    "AI|f284df21-084d-39ae-828d-e711846d2346",
+    "AI|c0a283d2-7d5c-3c4b-bc54-927f209b5b46",
+    "AI|1eac1fbd-61bc-3603-8d8b-88304bd262b8",
+    "Watchlist|1eac1fbd-61bc-3603-8d8b-88304bd262b8",
+    "Watchlist|/companies-markets/reits-property/us-data-centre-divestments-top-priority-mapletree-industrial-trust-q2-income-slips",
+    "Crypto|71a54e50-f926-335b-80d9-a39a75cbae04"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793543433.0106034,
+  "last_check": 1793544360.7604206,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
