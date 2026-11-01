@@ -1,7 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.straitstimes.com/business/interrogating-the-singapore-dream-and-exploring-the-issue-of-liquidity",
     "Crypto|0a5ce393-a6df-312b-af64-1893a264d0df",
     "SG Banks|/companies-markets/aem-tumbles-11-along-singapore-and-regional-chip-peers-following-alphabets-record-plunge",
     "Watchlist|/companies-markets/aem-tumbles-11-along-singapore-and-regional-chip-peers-following-alphabets-record-plunge",
@@ -5000,7 +4999,8 @@
     "Cybersecurity|https://www.investing.com/news/stock-market-news/ai-investors-rush-to-hedge-against-potential-tech-market-downturn--wsj-4989371",
     "SG Banks|https://www.investing.com/news/stock-market-news/ai-investors-rush-to-hedge-against-potential-tech-market-downturn--wsj-4989371",
     "Watchlist|fd8ca7d5-a0d6-34f3-b1a0-12125e2bb55f",
-    "Watchlist|https://www.investing.com/news/stock-market-news/ai-investors-rush-to-hedge-against-potential-tech-market-downturn--wsj-4989371"
+    "Watchlist|https://www.investing.com/news/stock-market-news/ai-investors-rush-to-hedge-against-potential-tech-market-downturn--wsj-4989371",
+    "SG Banks|https://www.straitstimes.com/business/bitcoin-slips-after-binance-hack-tech-stocks-slide-as-ai-realities-bite-markets-this-week"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793501337.1564646,
+  "last_check": 1793502241.1070309,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
