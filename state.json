@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/bmo-raises-hubspot-stock-price-target-to-255-on-steady-smb-trends-93CH-4986403",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/evercore-isi-maintains-floor--decor-stock-rating-on-margin-concerns-93CH-4986404",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/evercore-isi-raises-tpg-stock-price-target-to-52-on-fundraising-93CH-4986405",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/bmo-capital-raises-atlassian-stock-price-target-on-revenue-mix-93CH-4986406",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/truist-raises-api-group-stock-price-target-on-safety-growth-93CH-4986407",
     "SG Banks|https://www.investing.com/news/economic-indicators/germanys-october-unemployment-rises-by-4000-below-forecasts-93CH-4986392",
     "SG Banks|https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-buy-on-first-solar-stock-on-solid-quarter-93CH-4986393",
     "SG Banks|https://www.investing.com/news/analyst-ratings/starbucks-stock-rating-reaffirmed-at-outperform-by-william-blair-93CH-4986395",
@@ -5000,7 +4995,12 @@
     "Watchlist|204b0ea7-b219-3538-9de2-a2a4c9413f0e",
     "AI|f92c11cf-0cdb-32cc-8471-19678be38514",
     "Watchlist|f92c11cf-0cdb-32cc-8471-19678be38514",
-    "Crypto|7c6e7d1c-9f86-33be-b37d-d2496149530e"
+    "Crypto|7c6e7d1c-9f86-33be-b37d-d2496149530e",
+    "AI|a13d2e38-fc67-32dc-9f3f-cc8b2313f0ad",
+    "AI|436c7852-81a3-3869-9014-bda45fc1ec46",
+    "Watchlist|a13d2e38-fc67-32dc-9f3f-cc8b2313f0ad",
+    "Watchlist|436c7852-81a3-3869-9014-bda45fc1ec46",
+    "Crypto|d284502e-d21a-302a-8c14-786d3bbf0e53"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5083,7 +5083,7 @@
     "AMD|2026-11-04",
     "U11.SI|2026-11-04"
   ],
-  "last_check": 1793565438.358452,
+  "last_check": 1793566364.917935,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
