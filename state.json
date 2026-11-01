@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|/companies-markets/sgx-regco-seeks-further-disclosures-plantation-firms-including-links-haze-notice-recipients",
-    "Watchlist|994c1cbf-e023-3a11-9182-31e79bf01c78",
-    "Watchlist|/companies-markets/energy-commodities/oil-rises-over-1-after-saudi-arabian-refinery-attack-reignites-supply-risk",
-    "Watchlist|/companies-markets/sgx-regco-seeks-further-disclosures-plantation-firms-including-links-haze-notice-recipients",
-    "Crypto|ecf0a777-478d-3636-9697-c72b678ddc6e",
-    "Crypto|414ae40a-8ced-3ad8-9899-7f9e4ea6a02d",
-    "SG Banks|https://www.channelnewsasia.com/business/nvidia-in-talks-give-credit-support-nscales-deal-anthropic-information-reports-6505526",
-    "AI|e95a0bef-0959-3cd2-acd2-e0018ddb54df",
     "Watchlist|e95a0bef-0959-3cd2-acd2-e0018ddb54df",
     "Watchlist|13b2a52e-30d3-365f-bb1e-492f1e4ed5a1",
     "AI|e1d133de-c325-34c9-96f0-76fba340cfd5",
@@ -5000,7 +4992,15 @@
     "AI|https://www.investing.com/news/economy-news/south-korea-exports-surge-937-in-october-fastest-growth-since-1974-4989360",
     "Cybersecurity|https://www.investing.com/news/economy-news/south-korea-exports-surge-937-in-october-fastest-growth-since-1974-4989360",
     "SG Banks|https://www.investing.com/news/economy-news/south-korea-exports-surge-937-in-october-fastest-growth-since-1974-4989360",
-    "Watchlist|https://www.investing.com/news/economy-news/south-korea-exports-surge-937-in-october-fastest-growth-since-1974-4989360"
+    "Watchlist|https://www.investing.com/news/economy-news/south-korea-exports-surge-937-in-october-fastest-growth-since-1974-4989360",
+    "AI|27a024ca-82c2-30b2-87b7-c8f6653d49d5",
+    "Cybersecurity|adf569d4-4cc6-3266-b669-065849639063",
+    "Watchlist|27a024ca-82c2-30b2-87b7-c8f6653d49d5",
+    "SG Banks|/companies-markets/sgx-regco-seeks-further-disclosures-plantation-firms-including-links-haze-notice-recipients",
+    "SG Banks|/companies-markets/consumer-healthcare/ramen-s9-90-steaks-japan-foods-cuts-third-outlets-serves-profit-steak-99",
+    "Watchlist|/companies-markets/consumer-healthcare/ramen-s9-90-steaks-japan-foods-cuts-third-outlets-serves-profit-steak-99",
+    "Watchlist|/companies-markets/sgx-regco-seeks-further-disclosures-plantation-firms-including-links-haze-notice-recipients",
+    "Iran|https://www.iranintl.com/en/202610319548"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793497655.3153543,
+  "last_check": 1793498564.6879563,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
