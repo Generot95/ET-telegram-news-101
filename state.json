@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/why-is-pinterest-stock-sliding-today-93CH-4986162",
-    "AI|https://www.investing.com/news/stock-market-news/nasdaq-futures-tumble-as-amazon-intel-results-deepen-ai-spending-woes-4986163",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-imerys-stock-surging-today-93CH-4986168",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-robinhood-markets-stock-sliding-today-93CH-4986169",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-twilio-stock-tumbling-today-93CH-4986170",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-amplifon-stock-fell-sharply-today-93CH-4986171",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-rivian-automotive-stock-surging-today-93CH-4986172",
-    "Cybersecurity|https://www.investing.com/news/earnings/acerinox-beats-third-quarter-ebitda-estimates-by-8-93CH-4986176",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/canadian-pacific-kansas-city-stock-held-at-buy-by-jefferies-on-merger-focus-93CH-4986178",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/jefferies-lowers-coinbase-stock-price-target-on-expense-outlook-93CH-4986181",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/bnp-paribas-exane-lowers-tmobile-stock-price-target-on-fcf-outlook-93CH-4986180",
@@ -5000,7 +4992,15 @@
     "Watchlist|2cbd89e4-2947-32f0-9393-3ceaaa68112a",
     "SG Banks|https://www.channelnewsasia.com/business/opec-keeps-december-oil-output-targets-steady-iran-war-continues-disrupt-flows-6510756",
     "AI|bdc566db-7234-3a10-bd90-ce784a1eaec5",
-    "Watchlist|bdc566db-7234-3a10-bd90-ce784a1eaec5"
+    "Watchlist|bdc566db-7234-3a10-bd90-ce784a1eaec5",
+    "AI|https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-084-4989744",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-084-4989744",
+    "SG Banks|https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-084-4989744",
+    "Watchlist|https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-084-4989744",
+    "AI|ddd62e0a-0488-31db-a3e4-eb0630d874c4",
+    "Watchlist|ddd62e0a-0488-31db-a3e4-eb0630d874c4",
+    "SG Banks|/companies-markets/wilmar-sold-goods-6-firms-issued-notices-under-singapore-haze-law-no-operational-relationship",
+    "Watchlist|/companies-markets/wilmar-sold-goods-6-firms-issued-notices-under-singapore-haze-law-no-operational-relationship"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793538851.588449,
+  "last_check": 1793539780.0019023,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
