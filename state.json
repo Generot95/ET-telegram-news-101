@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|45c7780b-e40b-31e1-96e9-75d23e734c2d",
-    "AI|WP-MKTW-0005317003",
-    "Cybersecurity|WP-MKTW-0005317003",
-    "Watchlist|29edd366-dca6-3cec-ac94-34602bbcc593",
-    "Watchlist|45c7780b-e40b-31e1-96e9-75d23e734c2d",
-    "Watchlist|035e1f81-410c-3185-889a-05d72e27e1d7",
     "Watchlist|76c86197-a092-3486-8438-899ba84fcdd4",
     "AI|d4b31408-4c31-3769-9a25-54cccbd1ed91",
     "AI|792bae87-1331-31f5-aa1e-0767a2376b8f",
@@ -5000,7 +4994,13 @@
     "Cybersecurity|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4989779",
     "SG Banks|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4989779",
     "Watchlist|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4989779",
-    "War|WP-MKTW-0005317003"
+    "War|WP-MKTW-0005317003",
+    "War|8c53c84f-e98d-3f06-8c67-b7e97c0c4437",
+    "SG Banks|/companies-markets/telcos-media-tech/australian-outback-data-centre-pulls-timeline-after-regulator-stalls",
+    "Watchlist|/companies-markets/telcos-media-tech/australian-outback-data-centre-pulls-timeline-after-regulator-stalls",
+    "AI|WP-MKTW-0005317003",
+    "Cybersecurity|WP-MKTW-0005317003",
+    "Crypto|1966b540-51ad-3f9b-bb17-91ddbccd8c4e"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5083,7 +5083,7 @@
     "AMD|2026-11-04",
     "U11.SI|2026-11-04"
   ],
-  "last_check": 1793570030.99118,
+  "last_check": 1793570941.97428,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
