@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "War|a6f2bd01-18d7-3e7d-bdd3-a5b09c1b86be",
-    "AI|a8ca6ac7-6c28-4704-a454-af1e20b3f208",
-    "Watchlist|a8ca6ac7-6c28-4704-a454-af1e20b3f208",
-    "AI|fa846c86-b3c4-3ed3-a4a7-3e518b512ed9",
-    "Watchlist|fa846c86-b3c4-3ed3-a4a7-3e518b512ed9",
-    "SG Banks|https://www.straitstimes.com/business/french-economy-unexpectedly-shrinks-in-third-quarter-as-headwinds-strengthen",
-    "SG Banks|/companies-markets/singapore-stocks-fall-amid-mixed-regional-showing-sti-closes-almost-flat",
-    "AI|31a367df-91c3-3801-9df0-8d5a970b6a6d",
-    "AI|524cbb4f-66db-340b-9bea-525fd5919b2a",
     "AI|a7dae7c8-066a-32b7-97b2-605e42dba1f7",
     "AI|d0ffbc37-7c43-33d7-b7cd-51ad5f4f5dea",
     "SG Banks|https://www.straitstimes.com/business/insead-gets-3-8-million-google-backing-for-new-lab-to-study-ais-impact-on-work-and-life",
@@ -5000,7 +4991,16 @@
     "Watchlist|38ee080d-03d4-3e99-92f1-dc2d80fa52ec",
     "AI|21181d31-6b03-37a3-8792-324626a2c5c4",
     "Watchlist|21181d31-6b03-37a3-8792-324626a2c5c4",
-    "Crypto|3265aacd-9367-3952-9e7a-3112077b005a"
+    "Crypto|3265aacd-9367-3952-9e7a-3112077b005a",
+    "AI|e758a2ca-20ae-3d4a-9ede-b26d98877f03",
+    "Watchlist|e758a2ca-20ae-3d4a-9ede-b26d98877f03",
+    "Watchlist|1d61cb07-88fa-3bdc-b850-81e28ae06b1d",
+    "AI|1d61cb07-88fa-3bdc-b850-81e28ae06b1d",
+    "SG Banks|https://www.channelnewsasia.com/business/crew-nasas-simulated-mars-mission-emerges-after-378-days-in-isolation-6511101",
+    "AI|383198e4-3fd3-3245-8e53-fbb9004811e6",
+    "AI|de8a4234-1f89-3075-bb4f-2c283729ffe8",
+    "Watchlist|de8a4234-1f89-3075-bb4f-2c283729ffe8",
+    "Watchlist|383198e4-3fd3-3245-8e53-fbb9004811e6"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5083,7 +5083,7 @@
     "AMD|2026-11-04",
     "U11.SI|2026-11-04"
   ],
-  "last_check": 1793550784.1740618,
+  "last_check": 1793551702.7780335,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
