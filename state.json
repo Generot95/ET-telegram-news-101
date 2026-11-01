@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/natera-director-jonathan-sheena-sells-197871-in-company-stock-93CH-4985716",
-    "Watchlist|https://www.investing.com/news/earnings/fst-ltd-earnings-matched-revenue-fell-short-of-estimates-4985720",
-    "Watchlist|https://www.investing.com/news/earnings/alliant-energy-earnings-beat-by-026-revenue-was-in-line-with-estimates-4985721",
-    "Watchlist|https://www.investing.com/news/company-news/aspen-neuroscience-prices-ipo-at-15-per-share-93CH-4985728",
-    "Watchlist|https://www.investing.com/news/earnings/tfs-financial-earnings-matched-revenue-topped-estimates-4985729",
-    "Watchlist|https://www.investing.com/news/stock-market-news/aspen-neuroscience-prices-ipo-at-15-per-share-on-nasdaq-432SI-4985722",
-    "Watchlist|https://www.investing.com/news/economy-news/japans-nikkei-slumps-3-as-tech-stocks-tumble-on-ai-worries-4985730",
-    "AI|a432f03b-0530-3f5d-a659-53d5ab5ff68c",
-    "SG Banks|/companies-markets/banking-finance/bnp-paribas-beats-q3-profit-forecast-unveils-us1-4-billion-share-buyback",
-    "SG Banks|https://www.straitstimes.com/business/wilmar-slides-more-than-4-after-weaker-q3-earnings-indonesian-police-probe-plantation-fires",
-    "SG Banks|https://www.straitstimes.com/business/retrenchments-in-singapore-inch-up-in-q3-2026",
-    "Watchlist|a432f03b-0530-3f5d-a659-53d5ab5ff68c",
     "Watchlist|/companies-markets/banking-finance/bnp-paribas-beats-q3-profit-forecast-unveils-us1-4-billion-share-buyback",
     "War|6f81ac9d-13cd-3dfa-b839-0cb7ca663db4",
     "War|8ee50583-9479-3a56-951e-72a9ee96dc07",
@@ -5000,7 +4988,19 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/actuate-therapeutics-ceo-daniel-schmitt-purchases-49999-in-stock-93CH-4989402",
     "War|6b3a23ab-3404-3aac-8c6b-3802467652ac",
     "SG Banks|/companies-markets/banking-finance/money-managers-including-kkr-get-ready-snatch-bargain-leveraged-loans",
-    "Watchlist|/companies-markets/banking-finance/money-managers-including-kkr-get-ready-snatch-bargain-leveraged-loans"
+    "Watchlist|/companies-markets/banking-finance/money-managers-including-kkr-get-ready-snatch-bargain-leveraged-loans",
+    "Crypto|89746bcf-642a-3bb6-88fd-c23327b28c64",
+    "AI|77a11d9e-d22f-3a30-86ce-5284efee2326",
+    "Watchlist|77a11d9e-d22f-3a30-86ce-5284efee2326",
+    "AI|https://www.investing.com/news/insider-trading-news/truist-financial-ceo-michael-lyons-buys-12m-in-company-stock-93CH-4989408",
+    "AI|https://www.investing.com/news/stock-market-news/who-are-the-spillover-winners-from-the-ai-export-boom-in-asia-4989410",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/truist-financial-ceo-michael-lyons-buys-12m-in-company-stock-93CH-4989408",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/who-are-the-spillover-winners-from-the-ai-export-boom-in-asia-4989410",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/truist-financial-ceo-michael-lyons-buys-12m-in-company-stock-93CH-4989408",
+    "SG Banks|https://www.investing.com/news/stock-market-news/who-are-the-spillover-winners-from-the-ai-export-boom-in-asia-4989410",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/truist-financial-ceo-michael-lyons-buys-12m-in-company-stock-93CH-4989408",
+    "Watchlist|https://www.investing.com/news/stock-market-news/who-are-the-spillover-winners-from-the-ai-export-boom-in-asia-4989410",
+    "SG Banks|/companies-markets/banking-finance/bnp-paribas-beats-q3-profit-forecast-unveils-us1-4-billion-share-buyback"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793515970.8722556,
+  "last_check": 1793516878.898245,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
