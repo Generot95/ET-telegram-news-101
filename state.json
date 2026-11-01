@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/starbucks-stock-rating-reaffirmed-at-outperform-by-william-blair-93CH-4986395",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/needham-cuts-alphatec-stock-price-target-on-biologics-concerns-93CH-4986394",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/foxconn-working-on-a-new-tieup-with-openai-says-there-is-no-ai-bubble-4986121",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/bmo-raises-hubspot-stock-price-target-to-255-on-steady-smb-trends-93CH-4986403",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/evercore-isi-maintains-floor--decor-stock-rating-on-margin-concerns-93CH-4986404",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/evercore-isi-raises-tpg-stock-price-target-to-52-on-fundraising-93CH-4986405",
@@ -5000,7 +4997,10 @@
     "SG Banks|https://www.investing.com/news/commodities-news/russian-strikes-cut-power-to-thousands-in-ukraine-as-drones-damage-russian-facility-4989707",
     "Watchlist|https://www.investing.com/news/commodities-news/russian-strikes-cut-power-to-thousands-in-ukraine-as-drones-damage-russian-facility-4989707",
     "AI|204b0ea7-b219-3538-9de2-a2a4c9413f0e",
-    "Watchlist|204b0ea7-b219-3538-9de2-a2a4c9413f0e"
+    "Watchlist|204b0ea7-b219-3538-9de2-a2a4c9413f0e",
+    "AI|f92c11cf-0cdb-32cc-8471-19678be38514",
+    "Watchlist|f92c11cf-0cdb-32cc-8471-19678be38514",
+    "Crypto|7c6e7d1c-9f86-33be-b37d-d2496149530e"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5083,7 +5083,7 @@
     "AMD|2026-11-04",
     "U11.SI|2026-11-04"
   ],
-  "last_check": 1793564522.9644468,
+  "last_check": 1793565438.358452,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
