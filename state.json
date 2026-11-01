@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|4f7fada5-da89-3e0e-869c-da80e7d41102",
-    "AI|507c9538-973e-314d-a02a-6fd2c7ae56e7",
-    "Watchlist|507c9538-973e-314d-a02a-6fd2c7ae56e7",
     "Watchlist|4f7fada5-da89-3e0e-869c-da80e7d41102",
     "SG Banks|https://www.channelnewsasia.com/business/boj-keeps-interest-rates-steady-signals-further-rate-hikes-6505836",
     "SG Banks|/international/asean/tuas-power-explore-importing-500-mw-year-hydropower-laos",
@@ -5000,7 +4997,10 @@
     "SG Banks|https://www.investing.com/news/company-news/altria-q3-2026-slides-eps-beats-smokefree-push-gains-momentum-93CH-4989429",
     "Watchlist|3f399d57-b0e7-315a-b367-4437eb26abef",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-altria-tops-q3-2026-forecasts-and-lifts-outlook-93CH-4989427",
-    "Watchlist|https://www.investing.com/news/company-news/altria-q3-2026-slides-eps-beats-smokefree-push-gains-momentum-93CH-4989429"
+    "Watchlist|https://www.investing.com/news/company-news/altria-q3-2026-slides-eps-beats-smokefree-push-gains-momentum-93CH-4989429",
+    "War|15efc0cf-58f8-3a75-8208-93afcf9fe0c1",
+    "AI|29fdfa52-f0a6-320c-b833-033fb3790ca4",
+    "AI|a3d96efc-ce84-3b57-90f9-737eacf705b2"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793524218.2381756,
+  "last_check": 1793525127.9780424,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
