@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|7c6d2dd6-22fd-3591-83cf-43ca732f73d6",
-    "Crypto|92b26649-620a-3859-aab4-2d49f494f9c0",
     "Watchlist|7c6d2dd6-22fd-3591-83cf-43ca732f73d6",
     "Watchlist|5b1dc86a-c06e-3396-9813-a0d1ac388dec",
     "Watchlist|30ff5ba4-a23b-3125-9575-3ffa4053320d",
@@ -5000,7 +4998,9 @@
     "SG Banks|/companies-markets/ai-outlook-energy-prices-drive-asian-markets-fed-holds-rate-steady",
     "AI|1b5d5b99-8777-3329-ade8-5c3d8d080a8b",
     "Watchlist|1b5d5b99-8777-3329-ade8-5c3d8d080a8b",
-    "Watchlist|/companies-markets/hyundai-motor-reports-5-5-rise-q3-operating-profit-beats-forecasts"
+    "Watchlist|/companies-markets/hyundai-motor-reports-5-5-rise-q3-operating-profit-beats-forecasts",
+    "Watchlist|/companies-markets/analysts-cut-mapletree-industrial-trust-targets-amid-murky-dpu-outlook-cgsi-downgrades-hold",
+    "Watchlist|/companies-markets/ai-outlook-energy-prices-drive-asian-markets-fed-holds-rate-steady"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793508649.7274337,
+  "last_check": 1793509569.7537887,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
