@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/natera-legal-chief-daniel-rabinowitz-sells-771601-in-stock-93CH-4985704",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/natera-cfo-michael-brophy-sells-827841-in-company-stock-93CH-4985703",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/natera-executive-chairman-matthew-rabinowitz-sells-697508-stock-93CH-4985705",
-    "Watchlist|https://www.investing.com/news/company-news/holley-acquires-sxth-element-for-toyota-performance-parts-93CH-4985708",
-    "Cybersecurity|f1c310f2-6105-340d-a0bf-ca2cd8f445c0",
-    "SG Banks|/companies-markets/hyundai-motor-reports-5-5-rise-q3-operating-profit-beats-forecasts",
-    "SG Banks|/companies-markets/analysts-cut-mapletree-industrial-trust-targets-amid-murky-dpu-outlook-cgsi-downgrades-hold",
-    "SG Banks|/companies-markets/ai-outlook-energy-prices-drive-asian-markets-fed-holds-rate-steady",
-    "Watchlist|/companies-markets/hyundai-motor-reports-5-5-rise-q3-operating-profit-beats-forecasts",
-    "Watchlist|/companies-markets/analysts-cut-mapletree-industrial-trust-targets-amid-murky-dpu-outlook-cgsi-downgrades-hold",
-    "Watchlist|/companies-markets/ai-outlook-energy-prices-drive-asian-markets-fed-holds-rate-steady",
-    "War|bccd9a47-f871-31bd-ae2b-bef5272cbd9c",
     "AI|7c6d2dd6-22fd-3591-83cf-43ca732f73d6",
     "Crypto|92b26649-620a-3859-aab4-2d49f494f9c0",
     "Watchlist|7c6d2dd6-22fd-3591-83cf-43ca732f73d6",
@@ -5000,7 +4988,19 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/shore-bancshares-director-john-lamon-buys-7753-of-common-stock-93CH-4989381",
     "Watchlist|9b31cb7a-ef54-3cd9-a45b-e41080150790",
     "Watchlist|https://www.investing.com/news/insider-trading-news/shore-bancshares-director-john-lamon-buys-7753-of-common-stock-93CH-4989381",
-    "AI|9b31cb7a-ef54-3cd9-a45b-e41080150790"
+    "AI|9b31cb7a-ef54-3cd9-a45b-e41080150790",
+    "War|81333500-f62c-30fc-9386-b70dd5e4330b",
+    "Watchlist|f7964834-07d4-3d02-8bab-78baae418997",
+    "AI|https://www.investing.com/news/company-news/hanwha-secures-269-million-us-navy-shipbuilding-contract-eyes-more-orders-4989385",
+    "Cybersecurity|https://www.investing.com/news/company-news/hanwha-secures-269-million-us-navy-shipbuilding-contract-eyes-more-orders-4989385",
+    "SG Banks|https://www.investing.com/news/company-news/hanwha-secures-269-million-us-navy-shipbuilding-contract-eyes-more-orders-4989385",
+    "Watchlist|https://www.investing.com/news/company-news/hanwha-secures-269-million-us-navy-shipbuilding-contract-eyes-more-orders-4989385",
+    "SG Banks|/companies-markets/hyundai-motor-reports-5-5-rise-q3-operating-profit-beats-forecasts",
+    "SG Banks|/companies-markets/analysts-cut-mapletree-industrial-trust-targets-amid-murky-dpu-outlook-cgsi-downgrades-hold",
+    "SG Banks|/companies-markets/ai-outlook-energy-prices-drive-asian-markets-fed-holds-rate-steady",
+    "AI|1b5d5b99-8777-3329-ade8-5c3d8d080a8b",
+    "Watchlist|1b5d5b99-8777-3329-ade8-5c3d8d080a8b",
+    "Watchlist|/companies-markets/hyundai-motor-reports-5-5-rise-q3-operating-profit-beats-forecasts"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793507736.906065,
+  "last_check": 1793508649.7274337,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
