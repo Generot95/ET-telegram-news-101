@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|a7dae7c8-066a-32b7-97b2-605e42dba1f7",
-    "AI|d0ffbc37-7c43-33d7-b7cd-51ad5f4f5dea",
-    "SG Banks|https://www.straitstimes.com/business/insead-gets-3-8-million-google-backing-for-new-lab-to-study-ais-impact-on-work-and-life",
-    "Watchlist|31a367df-91c3-3801-9df0-8d5a970b6a6d",
     "Watchlist|a7dae7c8-066a-32b7-97b2-605e42dba1f7",
     "Watchlist|d0ffbc37-7c43-33d7-b7cd-51ad5f4f5dea",
     "Watchlist|524cbb4f-66db-340b-9bea-525fd5919b2a",
@@ -5000,7 +4996,11 @@
     "AI|383198e4-3fd3-3245-8e53-fbb9004811e6",
     "AI|de8a4234-1f89-3075-bb4f-2c283729ffe8",
     "Watchlist|de8a4234-1f89-3075-bb4f-2c283729ffe8",
-    "Watchlist|383198e4-3fd3-3245-8e53-fbb9004811e6"
+    "Watchlist|383198e4-3fd3-3245-8e53-fbb9004811e6",
+    "SG Banks|/companies-markets/singapore-stocks-fall-amid-mixed-regional-showing-sti-closes-almost-flat",
+    "Iran|https://www.iranintl.com/en/202611019340",
+    "AI|e6cac4a0-2ac7-38b9-902a-cca3e830d8be",
+    "Watchlist|e6cac4a0-2ac7-38b9-902a-cca3e830d8be"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5083,7 +5083,7 @@
     "AMD|2026-11-04",
     "U11.SI|2026-11-04"
   ],
-  "last_check": 1793551702.7780335,
+  "last_check": 1793552611.6297297,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
