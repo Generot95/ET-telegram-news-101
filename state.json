@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-12337-of-ellsworth-growth--income-fund-93CH-4985697",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/block-director-anthony-eisen-sells-446640-in-stock-93CH-4985698",
-    "SG Banks|https://www.investing.com/news/economy-news/yen-steady-before-boj-ai-jitters-drive-treasury-rally-weigh-on-dollar-4985701",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/natera-ceo-steven-chapman-sells-238m-in-shares-for-tax-obligations-93CH-4985702",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/natera-legal-chief-daniel-rabinowitz-sells-771601-in-stock-93CH-4985704",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/natera-cfo-michael-brophy-sells-827841-in-company-stock-93CH-4985703",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/natera-executive-chairman-matthew-rabinowitz-sells-697508-stock-93CH-4985705",
-    "SG Banks|https://www.investing.com/news/company-news/holley-acquires-sxth-element-for-toyota-performance-parts-93CH-4985708",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-12337-of-ellsworth-growth--income-fund-93CH-4985697",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/block-director-anthony-eisen-sells-446640-in-stock-93CH-4985698",
-    "Watchlist|https://www.investing.com/news/economy-news/yen-steady-before-boj-ai-jitters-drive-treasury-rally-weigh-on-dollar-4985701",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/natera-ceo-steven-chapman-sells-238m-in-shares-for-tax-obligations-93CH-4985702",
     "Watchlist|https://www.investing.com/news/insider-trading-news/natera-legal-chief-daniel-rabinowitz-sells-771601-in-stock-93CH-4985704",
     "Watchlist|https://www.investing.com/news/insider-trading-news/natera-cfo-michael-brophy-sells-827841-in-company-stock-93CH-4985703",
     "Watchlist|https://www.investing.com/news/insider-trading-news/natera-executive-chairman-matthew-rabinowitz-sells-697508-stock-93CH-4985705",
@@ -5000,7 +4988,19 @@
     "SG Banks|/companies-markets/asset-light-or-asset-heavy-it-need-not-be-either-or-says-guocoland-ceo",
     "SG Banks|/companies-markets/stake-increases-stand-out-amid-net-institutional-selling",
     "Watchlist|/companies-markets/asset-light-or-asset-heavy-it-need-not-be-either-or-says-guocoland-ceo",
-    "Watchlist|/companies-markets/stake-increases-stand-out-amid-net-institutional-selling"
+    "Watchlist|/companies-markets/stake-increases-stand-out-amid-net-institutional-selling",
+    "AI|https://www.investing.com/news/general-news/whats-next-for-euro-bonds-and-the-euro-after-lagardes-resignation-4989379",
+    "Cybersecurity|https://www.investing.com/news/general-news/whats-next-for-euro-bonds-and-the-euro-after-lagardes-resignation-4989379",
+    "SG Banks|https://www.investing.com/news/general-news/whats-next-for-euro-bonds-and-the-euro-after-lagardes-resignation-4989379",
+    "Watchlist|https://www.investing.com/news/general-news/whats-next-for-euro-bonds-and-the-euro-after-lagardes-resignation-4989379",
+    "SG Banks|/companies-markets/energy-commodities/opec-agrees-principle-keep-oil-output-targets-steady-december-sources-say",
+    "Watchlist|/companies-markets/energy-commodities/opec-agrees-principle-keep-oil-output-targets-steady-december-sources-say",
+    "AI|https://www.investing.com/news/insider-trading-news/shore-bancshares-director-john-lamon-buys-7753-of-common-stock-93CH-4989381",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/shore-bancshares-director-john-lamon-buys-7753-of-common-stock-93CH-4989381",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/shore-bancshares-director-john-lamon-buys-7753-of-common-stock-93CH-4989381",
+    "Watchlist|9b31cb7a-ef54-3cd9-a45b-e41080150790",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/shore-bancshares-director-john-lamon-buys-7753-of-common-stock-93CH-4989381",
+    "AI|9b31cb7a-ef54-3cd9-a45b-e41080150790"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793506819.4803429,
+  "last_check": 1793507736.906065,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-10-31"
