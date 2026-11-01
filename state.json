@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.straitstimes.com/business/taiwan-posts-longest-run-of-double-digit-gdp-growth-since-1987",
-    "SG Banks|https://www.investing.com/news/forex-news/ubs-raises-zloty-forecast-as-currency-faces-mounting-pressure-93CH-4986332",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/wells-fargo-cuts-bristolmyers-squibb-stock-price-target-on-loe-concerns-93CH-4986333",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-life-time-group-stock-price-target-on-membership-growth-93CH-4986335",
     "SG Banks|https://www.investing.com/news/analyst-ratings/goldman-sachs-lowers-oreilly-automotive-stock-price-target-to-104-93CH-4986334",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-acerinox-stock-sliding-today-93CH-4986336",
     "SG Banks|https://www.investing.com/news/economic-indicators/german-economy-grows-by-02-in-q3-preliminary-data-shows-4986289",
@@ -5000,7 +4996,11 @@
     "AI|fad01b1d-94fa-3a14-84b3-ba43af7b97fb",
     "AI|WP-MKTW-0005316129",
     "Cybersecurity|WP-MKTW-0005316129",
-    "Watchlist|fad01b1d-94fa-3a14-84b3-ba43af7b97fb"
+    "Watchlist|fad01b1d-94fa-3a14-84b3-ba43af7b97fb",
+    "Crypto|c0c0624c-1d6c-38c3-9f4c-3ac5d03777b3",
+    "Watchlist|d3fc41f7-141e-3a83-b476-79e2452143f5",
+    "AI|e8f79436-7538-3963-a420-982bcbf17669",
+    "Watchlist|e8f79436-7538-3963-a420-982bcbf17669"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5083,7 +5083,7 @@
     "AMD|2026-11-04",
     "U11.SI|2026-11-04"
   ],
-  "last_check": 1793554450.5422213,
+  "last_check": 1793555365.9617596,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
