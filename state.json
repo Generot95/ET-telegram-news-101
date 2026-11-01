@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-arthur-j-gallagher-stock-rating-on-inline-q3-results-93CH-4986236",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-intel-stock-rating-ahead-of-earnings-93CH-4986237",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/rosenblatt-raises-lumentum-stock-price-target-on-acquisition-prospects-93CH-4986238",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-sparebanken-norge-stock-sliding-today-93CH-4986239",
-    "SG Banks|https://www.investing.com/news/forex-news/german-bunds-set-for-best-month-since-february-as-tech-rout-triggers-safety-bid-4985952",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/goldman-sachs-maintains-sell-on-ao-smith-stock-amid-pricing-pressures-93CH-4986232",
     "Watchlist|https://www.investing.com/news/analyst-ratings/trinet-stock-price-target-lowered-to-65-by-td-cowen-on-revenue-miss-93CH-4986233",
     "Watchlist|https://www.investing.com/news/analyst-ratings/rosenblatt-raises-lumentum-stock-price-target-on-acquisition-prospects-93CH-4986234",
     "Watchlist|https://www.investing.com/news/analyst-ratings/raymond-james-raises-dexcom-stock-price-target-to-97-on-us-growth-93CH-4986235",
@@ -5000,7 +4994,13 @@
     "Watchlist|/esg/indonesia-philippines-and-vietnam-need-us3-7-billion-development-finance-meet-climate-targets-report",
     "AI|3b2c329b-db32-3f19-9d07-2324a4fa35b0",
     "Watchlist|3b2c329b-db32-3f19-9d07-2324a4fa35b0",
-    "Crypto|d2ee9900-6d9c-3bd4-b6c7-83626b45b489"
+    "Crypto|d2ee9900-6d9c-3bd4-b6c7-83626b45b489",
+    "AI|c2b9cb0e-8d3f-3c96-a040-b7da05c34b55",
+    "Watchlist|c2b9cb0e-8d3f-3c96-a040-b7da05c34b55",
+    "War|fb2c5ba3-cec5-3596-aa9b-749334bfd8e0",
+    "AI|a9b599e9-0e24-30a0-b5d2-34f6e3a400c0",
+    "AI|d17721b6-2acf-3f3d-8aa1-559e1eb90019",
+    "Watchlist|d17721b6-2acf-3f3d-8aa1-559e1eb90019"
   ],
   "topic_error": "",
   "last_digest": "2026-11-01",
@@ -5081,7 +5081,7 @@
     "LIN|2026-10-29",
     "AMZN|2026-10-30"
   ],
-  "last_check": 1793546191.3157127,
+  "last_check": 1793547124.3830943,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
