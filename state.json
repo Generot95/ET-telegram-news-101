@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/inve-technologies-revises-q3-results-to-net-loss-from-profit-93CH-4986944",
-    "AI|https://www.investing.com/news/company-news/aurora-mobile-integrates-modellixai-with-comfyui-platform-93CH-4986946",
-    "AI|https://www.investing.com/news/company-news/fda-extends-mitapivat-review-for-sickle-cell-disease-to-feb-2027-93CH-4986948",
-    "AI|https://www.investing.com/news/company-news/alkermes-begins-phase-2-trial-of-depression-treatment-candidate-93CH-4986947",
-    "AI|https://www.investing.com/news/company-news/nrx-pharmaceuticals-receives-fda-approval-for-ketamine-drug-93CH-4986950",
-    "AI|https://www.investing.com/news/company-news/agility-robotics-merger-to-raise-465-million-in-capital-93CH-4986949",
-    "AI|https://www.investing.com/news/company-news/acumen-halts-alzheimers-drug-after-phase-2-trial-fails-93CH-4986951",
-    "AI|https://www.investing.com/news/company-news/vail-resorts-urges-shareholders-to-back-board-nominees-93CH-4986952",
     "AI|https://www.investing.com/news/company-news/tnl-mediagene-completes-sale-of-japanese-business-for-55m-93CH-4986953",
     "AI|https://www.investing.com/news/company-news/lightbridge-receives-south-korean-patent-for-nuclear-fuel-design-93CH-4986954",
     "Crypto|https://www.investing.com/news/cryptocurrency-news/binance-already-reserved-over-634b-of-company-funds-to-cover-432SI-4986886",
@@ -5000,7 +4992,15 @@
     "Watchlist|https://www.investing.com/news/economy-news/chinas-shift-to-new-policy-rate-signals-easier-funding-conditions-4989818",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-china-merchants-bank-misses-q3-2026-estimates-93CH-4989819",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-china-construction-bank-stock-climbing-today-93CH-4989820",
-    "Watchlist|https://www.investing.com/news/economic-indicators/south-koreas-manufacturing-pmi-slows-to-8month-low-in-october-4989822"
+    "Watchlist|https://www.investing.com/news/economic-indicators/south-koreas-manufacturing-pmi-slows-to-8month-low-in-october-4989822",
+    "Iran|https://www.iranintl.com/en/202611021920",
+    "SG Banks|https://www.straitstimes.com/business/metrocon-chairman-resigns-after-charge-over-unlicensed-worker-dormitory-was-discovered-in-january",
+    "SG Banks|/companies-markets/sheng-siong-shares-continue-last-weeks-slide-falls-over-9-hit-one-year-low",
+    "Watchlist|/companies-markets/sheng-siong-shares-continue-last-weeks-slide-falls-over-9-hit-one-year-low",
+    "AI|https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yuan-holds-near-fouryear-high-dollar-steadies-4989824",
+    "Cybersecurity|https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yuan-holds-near-fouryear-high-dollar-steadies-4989824",
+    "SG Banks|https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yuan-holds-near-fouryear-high-dollar-steadies-4989824",
+    "Watchlist|https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yuan-holds-near-fouryear-high-dollar-steadies-4989824"
   ],
   "topic_error": "",
   "last_digest": "2026-11-02",
@@ -5083,7 +5083,7 @@
     "AMD|2026-11-04",
     "U11.SI|2026-11-04"
   ],
-  "last_check": 1793590184.6354146,
+  "last_check": 1793591093.5808797,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
