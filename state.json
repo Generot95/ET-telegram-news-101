@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.channelnewsasia.com/business/midterm-elections-earnings-jobs-data-loom-ai-wary-market-6506696",
-    "War|1f1a94d6-9555-33bd-a434-4a5a0dd520c5",
-    "AI|59c11f38-a220-3e3e-963a-0a70d03227db",
-    "SG Banks|/companies-markets/singapores-easy-wins-attracting-global-capital-are-over-say-industry-watchers",
-    "Watchlist|59c11f38-a220-3e3e-963a-0a70d03227db",
-    "Watchlist|5caf4e44-b5ee-3670-b6af-427ec4d6f6ea",
-    "Watchlist|/companies-markets/singapores-easy-wins-attracting-global-capital-are-over-say-industry-watchers",
-    "War|5caf4e44-b5ee-3670-b6af-427ec4d6f6ea",
     "SG Banks|https://www.channelnewsasia.com/business/meta-tiktok-x-lose-legal-challenge-against-uk-watchdog-over-online-safety-data-demands-6506706",
     "AI|11794569-d187-370d-83db-7e3116b13ddb",
     "Iran|https://www.iranintl.com/en/202610305124",
@@ -5000,7 +4992,15 @@
     "Watchlist|/companies-markets/airbus-dodges-bad-news-after-boeing-tumbles-outlook-cut",
     "Watchlist|/companies-markets/singapore-shares-fall-chip-stocks-take-beating-sti-down-0-4",
     "SG Banks|https://www.straitstimes.com/business/australian-home-prices-fall-for-seventh-month-looming-rate-hike-adds-to-pain",
-    "SG Banks|https://www.straitstimes.com/business/chinas-big-banks-post-fastest-quarterly-profit-growth-in-years-as-margins-stabilise"
+    "SG Banks|https://www.straitstimes.com/business/chinas-big-banks-post-fastest-quarterly-profit-growth-in-years-as-margins-stabilise",
+    "SG Banks|/companies-markets/stocks-watch-wilmar-keppel-nio-lendlease-global-reit",
+    "Watchlist|/companies-markets/stocks-watch-wilmar-keppel-nio-lendlease-global-reit",
+    "SG Banks|/companies-markets/banking-finance/bank-england-poised-raise-rates-may-push-back-bets-more",
+    "Watchlist|/companies-markets/banking-finance/bank-england-poised-raise-rates-may-push-back-bets-more",
+    "AI|1143deb9-1dc1-3b0b-9b34-3ca5884fae06",
+    "SG Banks|/companies-markets/singapores-easy-wins-attracting-global-capital-are-over-say-industry-watchers",
+    "Watchlist|1143deb9-1dc1-3b0b-9b34-3ca5884fae06",
+    "Watchlist|/companies-markets/singapores-easy-wins-attracting-global-capital-are-over-say-industry-watchers"
   ],
   "topic_error": "",
   "last_digest": "2026-11-02",
@@ -5083,7 +5083,7 @@
     "AMD|2026-11-04",
     "U11.SI|2026-11-04"
   ],
-  "last_check": 1793579174.310108,
+  "last_check": 1793580102.3622518,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
