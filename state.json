@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/analyst-ratings/keybanc-lowers-amazon-stock-price-target-to-345-on-valuation-93CH-4986497",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/citizens-reiterates-ares-management-stock-rating-on-strong-deployment-outlook-93CH-4986498",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/copt-defense-properties-stock-holds-buy-rating-on-strong-defense-demand-93CH-4986499",
-    "Watchlist|https://www.investing.com/news/economy-news/new-economic-data-challenges-fed-chiefs-nottoohot-perspective-4986500",
     "Watchlist|https://www.investing.com/news/earnings/wisdomtree-stock-soars-11-on-third-quarter-earnings-beat-93CH-4986507",
     "Watchlist|https://www.investing.com/news/economy-news/rifts-over-wars-in-ukraine-middle-east-loom-over-g20-meeting-in-us-4986508",
     "Watchlist|https://www.investing.com/news/economy-news/analysisus-fiscal-deterioration-main-headache-for-investors-as-midterms-loom-4986509",
@@ -5000,10 +4996,14 @@
     "AI|9b1d1bcc-b9b1-3d50-b948-7ae5f3d5b74d",
     "Watchlist|9b1d1bcc-b9b1-3d50-b948-7ae5f3d5b74d",
     "SG Banks|/companies-markets/energy-commodities/oil-slips-more-1-talks-continue-ending-iran-war",
-    "Watchlist|/companies-markets/energy-commodities/oil-slips-more-1-talks-continue-ending-iran-war"
+    "Watchlist|/companies-markets/energy-commodities/oil-slips-more-1-talks-continue-ending-iran-war",
+    "SG Banks|/international/global/binance-sees-spike-withdrawals-exchange-returns-online-after-us6-3-billion-heist",
+    "Watchlist|/international/global/binance-sees-spike-withdrawals-exchange-returns-online-after-us6-3-billion-heist",
+    "AI|b5f58a6b-d2f4-302f-a4b3-25925ac0ef11",
+    "Watchlist|b5f58a6b-d2f4-302f-a4b3-25925ac0ef11"
   ],
   "topic_error": "",
-  "last_digest": "2026-11-01",
+  "last_digest": "2026-11-02",
   "earnings": {
     "AMD": {
       "ts": 1793739600,
@@ -5083,7 +5083,7 @@
     "AMD|2026-11-04",
     "U11.SI|2026-11-04"
   ],
-  "last_check": 1793577338.4126737,
+  "last_check": 1793578255.2366269,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
