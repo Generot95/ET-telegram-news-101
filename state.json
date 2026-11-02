@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/nour-private-wealth-on-boutique-wealth-managements-new-era-as-advisors-seek-independence-and-client-alignment-4986684",
-    "Cybersecurity|https://www.investing.com/news/company-news/willis-lease-finance-raises-dividend-128-expands-buyback-program-93CH-4986729",
-    "Cybersecurity|https://www.investing.com/news/company-news/marti-partners-with-calmcar-for-autonomous-vehicle-testing-93CH-4986730",
-    "Cybersecurity|https://www.investing.com/news/company-news/newlinks-technology-partners-with-tencent-cloud-on-ai-energy-iot-93CH-4986732",
-    "Cybersecurity|https://www.investing.com/news/company-news/aevex-secures-416m-navy-mine-countermeasures-contracts-93CH-4986731",
-    "Cybersecurity|https://www.investing.com/news/company-news/ingersoll-rand-names-new-group-presidents-extends-ceo-contract-93CH-4986733",
-    "SG Banks|https://www.channelnewsasia.com/business/panasonic-raises-annual-profit-forecast-20-sees-strong-ai-demand-6506256",
     "SG Banks|https://www.channelnewsasia.com/business/binance-does-not-need-sell-spacex-shares-cover-losses-co-founder-says-6506791",
     "SG Banks|https://www.investing.com/news/analyst-ratings/td-cowen-reiterates-starbucks-stock-buy-rating-on-2027-outlook-93CH-4986791",
     "SG Banks|https://www.investing.com/news/analyst-ratings/bmo-raises-eli-lilly-stock-price-target-on-metabolic-strength-93CH-4986793",
@@ -5000,7 +4993,14 @@
     "SG Banks|https://www.investing.com/news/economic-indicators/china-factory-output-grows-at-fastest-pace-in-6-months-ratingdog-pmi-4989808",
     "Watchlist|https://www.investing.com/news/economic-indicators/china-factory-output-grows-at-fastest-pace-in-6-months-ratingdog-pmi-4989808",
     "AI|d95c3b0d-187f-3720-b92a-7ac676c433da",
-    "Watchlist|d95c3b0d-187f-3720-b92a-7ac676c433da"
+    "Watchlist|d95c3b0d-187f-3720-b92a-7ac676c433da",
+    "SG Banks|/companies-markets/sheng-shiong-shares-slide-7-9-after-modest-q3-earnings-growth",
+    "Watchlist|/companies-markets/sheng-shiong-shares-slide-7-9-after-modest-q3-earnings-growth",
+    "War|e8d2d861-58dd-3d77-8f78-6c73bbe56765",
+    "War|1d38f7b0-d382-33e7-8a95-87a557679124",
+    "SG Banks|https://www.channelnewsasia.com/business/shares-steady-apple-earnings-near-oil-eases-6511816",
+    "SG Banks|/companies-markets/sheng-siong-shares-slide-7-9-after-modest-q3-earnings-growth",
+    "Watchlist|/companies-markets/sheng-siong-shares-slide-7-9-after-modest-q3-earnings-growth"
   ],
   "topic_error": "",
   "last_digest": "2026-11-02",
@@ -5083,7 +5083,7 @@
     "AMD|2026-11-04",
     "U11.SI|2026-11-04"
   ],
-  "last_check": 1793586502.2517364,
+  "last_check": 1793587420.5455494,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
