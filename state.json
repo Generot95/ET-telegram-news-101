@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/fedex-freight-shares-surge-as-analysts-back-growth-targets-after-quarterly-beat-4988218",
-    "Cybersecurity|https://www.investing.com/news/earnings/panasonic-raises-fullyear-profit-guidance-by-20-after-strong-quarter-93CH-4988219",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/exxon-chevron-earnings-propelled-by-wardriven-refining-surge-4986750",
-    "Cybersecurity|https://www.investing.com/news/company-news/constellation-energy-declares-04265-quarterly-dividend-93CH-4988200",
-    "Cybersecurity|WP-MKTW-0005316666",
-    "Cybersecurity|WP-MKTW-0005306373",
-    "SG Banks|https://www.investing.com/news/economy-news/canadas-budget-deficit-over-first-five-months-of-202627-almost-halves-to-c536-billion-4988212",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/cantor-cuts-pinterest-stock-price-target-on-ad-spending-weakness-93CH-4988213",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-lowers-amazon-stock-price-target-to-280-on-valuation-93CH-4988214",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-cuts-broadstone-net-lease-stock-price-target-on-rates-93CH-4988215",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-doordash-stock-rating-on-strong-growth-93CH-4988217",
     "SG Banks|https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-cuts-reddit-stock-price-target-on-revenue-deceleration-93CH-4988216",
     "SG Banks|https://www.investing.com/news/stock-market-news/fedex-freight-shares-surge-as-analysts-back-growth-targets-after-quarterly-beat-4988218",
     "SG Banks|https://www.investing.com/news/earnings/panasonic-raises-fullyear-profit-guidance-by-20-after-strong-quarter-93CH-4988219",
@@ -5000,7 +4989,18 @@
     "Cybersecurity|https://www.investing.com/news/earnings/entergy-earnings-on-deck-as-data-center-demand-tests-execution-93CH-4990550",
     "SG Banks|https://www.investing.com/news/earnings/entergy-earnings-on-deck-as-data-center-demand-tests-execution-93CH-4990550",
     "Watchlist|a2e75661-0dfd-383d-83df-b3cfce21ca4f",
-    "Watchlist|https://www.investing.com/news/earnings/entergy-earnings-on-deck-as-data-center-demand-tests-execution-93CH-4990550"
+    "Watchlist|https://www.investing.com/news/earnings/entergy-earnings-on-deck-as-data-center-demand-tests-execution-93CH-4990550",
+    "SG Banks|/companies-markets/singapore-shares-end-lower-local-banks-decline-sti-falls-1-4",
+    "SG Banks|https://www.channelnewsasia.com/business/analysisoctober-dive-ai-related-shares-tests-broader-us-stock-markets-resilience-6512791",
+    "Watchlist|/companies-markets/singapore-shares-end-lower-local-banks-decline-sti-falls-1-4",
+    "SG Banks|https://www.channelnewsasia.com/business/analysisinvestors-gaming-out-congress-control-spending-ai-outlook-6512806",
+    "War|WP-MKTW-0005320755",
+    "AI|9468a773-8713-3557-8275-874e0de6f076",
+    "AI|WP-MKTW-0005320755",
+    "Cybersecurity|WP-MKTW-0005320755",
+    "Watchlist|9468a773-8713-3557-8275-874e0de6f076",
+    "AI|b9c6f724-e967-3a99-baec-cbafc5fe2fd9",
+    "Watchlist|b9c6f724-e967-3a99-baec-cbafc5fe2fd9"
   ],
   "topic_error": "",
   "last_digest": "2026-11-02",
@@ -5083,7 +5083,7 @@
     "AMD|2026-11-04",
     "U11.SI|2026-11-04"
   ],
-  "last_check": 1793614080.2891634,
+  "last_check": 1793615008.992953,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
