@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/acumen-halts-alzheimers-drug-after-phase-2-trial-fails-93CH-4986951",
-    "Cybersecurity|https://www.investing.com/news/company-news/vail-resorts-urges-shareholders-to-back-board-nominees-93CH-4986952",
-    "Cybersecurity|https://www.investing.com/news/company-news/tnl-mediagene-completes-sale-of-japanese-business-for-55m-93CH-4986953",
-    "Cybersecurity|https://www.investing.com/news/company-news/lightbridge-receives-south-korean-patent-for-nuclear-fuel-design-93CH-4986954",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/mizuho-raises-amazon-stock-price-target-to-335-on-aws-growth-93CH-4986963",
-    "SG Banks|https://www.investing.com/news/earnings/autonation-earnings-missed-by-006-revenue-topped-estimates-4986965",
     "SG Banks|https://www.investing.com/news/earnings/lear-earnings-beat-by-039-revenue-fell-short-of-estimates-4986966",
     "SG Banks|https://www.investing.com/news/earnings/capri-holdings-earnings-beat-by-021-revenue-topped-estimates-4986967",
     "SG Banks|https://www.investing.com/news/earnings/mastech-earnings-missed-revenue-topped-estimates-4986968",
@@ -5000,7 +4994,13 @@
     "SG Banks|/companies-markets/sheng-siong-shares-continue-last-weeks-slide-fall-over-9-hit-one-year-low",
     "Watchlist|/companies-markets/sheng-siong-shares-continue-last-weeks-slide-fall-over-9-hit-one-year-low",
     "SG Banks|/companies-markets/singapore-banks-fall-ahead-earnings-release-ocbc-leads-losses",
-    "Watchlist|/companies-markets/singapore-banks-fall-ahead-earnings-release-ocbc-leads-losses"
+    "Watchlist|/companies-markets/singapore-banks-fall-ahead-earnings-release-ocbc-leads-losses",
+    "SG Banks|/companies-markets/manufacturings-black-art-retiring-ai-may-be-best-chance-keep-it",
+    "Watchlist|/companies-markets/manufacturings-black-art-retiring-ai-may-be-best-chance-keep-it",
+    "SG Banks|https://www.channelnewsasia.com/business/stock-market-tech-ai-selloff-6512111",
+    "Watchlist|2cb91e2c-8f47-3a12-934d-66b7f56d48ec",
+    "AI|bebb91b0-1552-3ba6-9f23-a93b1b3bbeb6",
+    "Watchlist|bebb91b0-1552-3ba6-9f23-a93b1b3bbeb6"
   ],
   "topic_error": "",
   "last_digest": "2026-11-02",
@@ -5083,7 +5083,7 @@
     "AMD|2026-11-04",
     "U11.SI|2026-11-04"
   ],
-  "last_check": 1793592015.4150498,
+  "last_check": 1793592932.416472,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
