@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/higher-yields-now-hurting-ai-stock-bull-as-bond-markets-police-capex-bofa-4986587",
-    "Watchlist|https://www.investing.com/news/earnings/chevron-beats-estimates-as-refining-margins-lift-earnings-4986588",
-    "Watchlist|https://www.investing.com/news/company-news/volkswagen-halts-electric-golf-development-at-wolfsburg-plant--report-93CH-4986589",
-    "Watchlist|https://www.investing.com/news/earnings/gerresheimer-revenue-rises-8-in-q3-on-demand-for-drug-delivery-devices-4985972",
-    "Watchlist|https://www.investing.com/news/company-news/valero-to-acquire-houston-refinery-for-3205-million-93CH-4986613",
-    "Watchlist|https://www.investing.com/news/sec-filings/constellation-acquisition-draws-5000-to-extend-deadline-for-business-combination-93CH-4986614",
     "Watchlist|https://www.investing.com/news/economic-indicators/eurozone-grows-by-13-yearonyear-in-thirdquarter-4986493",
     "Iran|https://www.iranintl.com/en/202610299306",
     "SG Banks|/companies-markets/hong-kong-listed-metasurface-launches-s9-72-million-placement-ahead-sgx-catalist-dual-listing",
@@ -5000,7 +4994,13 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/nikkei-225-bear-flag-forms-under-cloud-resistance-live-levels-93CH-4989795",
     "Watchlist|https://www.investing.com/news/commodities-news/gold-rebounds-toward-3900-as-dip-buyers-emerge-iran-risks-persist-4989797",
     "Watchlist|https://www.investing.com/news/stock-market-news/sk-hynix-trapped-in-cloud-resistance-bear-flag-live-levels-93CH-4989796",
-    "Watchlist|https://www.investing.com/news/stock-market-news/tesla-samsung-oppose-new-us-tariffs-on-vietnam-as-probe-deadline-nears-4989798"
+    "Watchlist|https://www.investing.com/news/stock-market-news/tesla-samsung-oppose-new-us-tariffs-on-vietnam-as-probe-deadline-nears-4989798",
+    "AI|7e078f08-4b98-30c3-b783-01f9b8539dd8",
+    "Cybersecurity|fdf6e38f-3a75-3a6e-a554-bf31e514530e",
+    "Watchlist|b4c5156c-b218-373d-93ae-929b2d6745ee",
+    "Watchlist|7e078f08-4b98-30c3-b783-01f9b8539dd8",
+    "AI|36211aef-3c4b-33e8-a4a0-fbcc8d1da94b",
+    "Watchlist|36211aef-3c4b-33e8-a4a0-fbcc8d1da94b"
   ],
   "topic_error": "",
   "last_digest": "2026-11-02",
@@ -5083,7 +5083,7 @@
     "AMD|2026-11-04",
     "U11.SI|2026-11-04"
   ],
-  "last_check": 1793582856.3455513,
+  "last_check": 1793583766.478687,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
