@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|e8af0d39-c5b0-3317-aefd-81611b946754",
-    "AI|73b0c14d-6012-38d2-8077-c5b6149e9c43",
-    "AI|a4e4d401-8f1e-3f79-9dc5-03a84d8d9393",
-    "AI|37b35930-b417-3ca9-901c-0d60e7b147d0",
-    "AI|1ebd9b4e-f016-3257-9bb0-f7c8203c80a1",
-    "SG Banks|/companies-markets/capital-markets-currencies/us-stocks-nasdaq-tumbles-open-amazon-intel-add-ai-spending-woes",
-    "Watchlist|e8af0d39-c5b0-3317-aefd-81611b946754",
-    "Watchlist|73b0c14d-6012-38d2-8077-c5b6149e9c43",
-    "Watchlist|a4e4d401-8f1e-3f79-9dc5-03a84d8d9393",
-    "Watchlist|37b35930-b417-3ca9-901c-0d60e7b147d0",
-    "Watchlist|1ebd9b4e-f016-3257-9bb0-f7c8203c80a1",
     "Watchlist|b87a7856-0939-3190-8d1b-0a7fdbefb3a9",
     "Watchlist|/companies-markets/capital-markets-currencies/us-stocks-nasdaq-tumbles-open-amazon-intel-add-ai-spending-woes",
     "War|WP-MKTW-0005316691",
@@ -5000,7 +4989,18 @@
     "Watchlist|https://www.investing.com/news/analyst-ratings/raymond-james-cuts-farmers-national-banc-stock-rating-on-valuation-93CH-4990236",
     "Watchlist|https://www.investing.com/news/economic-indicators/czechia-manufacturing-pmi-hits-56month-high-in-october-93CH-4990238",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-mutares-stock-rallying-today-93CH-4990239",
-    "SG Banks|/companies-markets/banking-finance/hang-seng-investment-arm-merge-hsbcs-asset-business-sources"
+    "SG Banks|/companies-markets/banking-finance/hang-seng-investment-arm-merge-hsbcs-asset-business-sources",
+    "AI|595de902-abc9-336c-b612-531ce5f92673",
+    "Cybersecurity|87cba027-e186-3be2-830d-a75d2de34353",
+    "Watchlist|595de902-abc9-336c-b612-531ce5f92673",
+    "AI|9619f3f6-ef4c-3af5-b358-6b8600ba841b",
+    "Watchlist|9619f3f6-ef4c-3af5-b358-6b8600ba841b",
+    "War|5cfa81c7-5ef7-32b5-b98f-49c480253305",
+    "AI|5cfa81c7-5ef7-32b5-b98f-49c480253305",
+    "AI|da743e4a-4c85-39ce-aeeb-00cb89b48b4f",
+    "SG Banks|/companies-markets/capital-markets-currencies/us-stocks-nasdaq-tumbles-open-amazon-intel-add-ai-spending-woes",
+    "Watchlist|5cfa81c7-5ef7-32b5-b98f-49c480253305",
+    "Watchlist|da743e4a-4c85-39ce-aeeb-00cb89b48b4f"
   ],
   "topic_error": "",
   "last_digest": "2026-11-02",
@@ -5083,7 +5083,7 @@
     "AMD|2026-11-04",
     "U11.SI|2026-11-04"
   ],
-  "last_check": 1793609471.8278043,
+  "last_check": 1793610382.9068544,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
