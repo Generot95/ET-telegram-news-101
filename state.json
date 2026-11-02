@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|e5e611c1-0f13-354c-ac52-c85b76fa2907",
-    "War|cee8845b-93fe-3852-baba-4dd411b99482",
-    "Watchlist|cee8845b-93fe-3852-baba-4dd411b99482",
-    "War|416660e1-c910-3f91-b078-2e5a6e10f561",
-    "AI|1ff41e4a-981f-34c4-b236-99b0bacc1e76",
-    "AI|5217ca82-9749-3cf6-b28d-0000fb57397e",
     "Watchlist|5217ca82-9749-3cf6-b28d-0000fb57397e",
     "Watchlist|1ff41e4a-981f-34c4-b236-99b0bacc1e76",
     "AI|715dea19-0de2-3ec3-b0a6-08986cccc508",
@@ -5000,7 +4994,13 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/walmart-president--ceo-john-furner-sells-14-million-in-company-stock-93CH-4990005",
     "Watchlist|https://www.investing.com/news/insider-trading-news/united-therapeutics-evp-paul-mahon-sells-41m-in-uthr-shares-93CH-4990004",
     "Watchlist|https://www.investing.com/news/insider-trading-news/united-therapeutics-rothblatt-sells-47-million-in-stock-93CH-4990007",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-posco-holdings-posts-stronger-q3-2026-profit-shares-jump-93CH-4990009"
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-posco-holdings-posts-stronger-q3-2026-profit-shares-jump-93CH-4990009",
+    "Watchlist|76bad217-84c3-3e06-80ff-80ce033c01c9",
+    "War|3ee30adc-d905-387f-9d06-97f1f5264a0e",
+    "War|1ea6d639-541a-3f50-90b8-9fb9d9050a41",
+    "SG Banks|/companies-markets/capital-markets-currencies/anthropic-plans-sell-us3-5-billion-shares-japan-investors-ipo",
+    "Watchlist|/companies-markets/capital-markets-currencies/anthropic-plans-sell-us3-5-billion-shares-japan-investors-ipo",
+    "War|82c347a5-423c-3852-a597-97a7e83be48c"
   ],
   "topic_error": "",
   "last_digest": "2026-11-02",
@@ -5083,7 +5083,7 @@
     "AMD|2026-11-04",
     "U11.SI|2026-11-04"
   ],
-  "last_check": 1793603018.471116,
+  "last_check": 1793603946.6843703,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
