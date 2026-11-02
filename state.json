@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/mohawk-industries-stock-hits-52week-high-at-14039-usd-93CH-4987955",
-    "AI|https://www.investing.com/news/analyst-ratings/susquehanna-cuts-first-solar-stock-price-target-on-lower-guidance-93CH-4987956",
-    "AI|https://www.investing.com/news/company-news/motorola-stock-hits-52week-high-at-4950-usd-93CH-4987958",
-    "AI|https://www.investing.com/news/company-news/chevron-stock-hits-alltime-high-at-23439-usd-93CH-4987959",
-    "AI|https://www.investing.com/news/company-news/morningstar-stock-reaches-52week-high-at-2264-usd-93CH-4987960",
-    "AI|https://www.investing.com/news/company-news/bjs-wholesale-club-stock-hits-52week-high-at-1080-usd-93CH-4987961",
-    "AI|https://www.investing.com/news/company-news/stanley-black--decker-stock-hits-52week-high-at-10475-93CH-4987962",
     "AI|https://www.investing.com/news/stock-market-news/international-consolidated-airlines-shares-may-move-48-on-earnings-93CH-4987801",
     "AI|https://www.investing.com/news/stock-market-news/daimler-truck-shares-may-move-46-on-nov-6-earnings-93CH-4987804",
     "AI|https://www.investing.com/news/stock-market-news/amg-critical-materials-shares-may-move-72-on-earnings-93CH-4987806",
@@ -5000,7 +4993,14 @@
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-crizac-q2-2026-revenue-drops-37-as-stock-slips-93CH-4990068",
     "Watchlist|https://www.investing.com/news/analyst-ratings/deutsche-bank-downgrades-novartis-stock-rating-to-sell-on-valuation-93CH-4990069",
     "Iran|https://www.iranintl.com/en/202610282156",
-    "SG Banks|https://www.straitstimes.com/business/investor-scrutiny-of-the-ai-spending-boom-is-rising-but-big-tech-is-unlikely-to-give-up"
+    "SG Banks|https://www.straitstimes.com/business/investor-scrutiny-of-the-ai-spending-boom-is-rising-but-big-tech-is-unlikely-to-give-up",
+    "Iran|https://www.iranintl.com/en/202611017443",
+    "SG Banks|/companies-markets/energy-commodities/worlds-energy-supply-buffers-have-been-eroded-adnoc-ceo-says",
+    "Watchlist|/companies-markets/energy-commodities/worlds-energy-supply-buffers-have-been-eroded-adnoc-ceo-says",
+    "SG Banks|/companies-markets/mas-moves-spur-infrastructure-investments-easing-capital-requirements-insurers",
+    "Watchlist|/companies-markets/mas-moves-spur-infrastructure-investments-easing-capital-requirements-insurers",
+    "AI|821c16d4-daeb-3ed9-8382-f1d93dcca818",
+    "Watchlist|821c16d4-daeb-3ed9-8382-f1d93dcca818"
   ],
   "topic_error": "",
   "last_digest": "2026-11-02",
@@ -5083,7 +5083,7 @@
     "AMD|2026-11-04",
     "U11.SI|2026-11-04"
   ],
-  "last_check": 1793605770.6882904,
+  "last_check": 1793606700.8968318,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-01"
