@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.straitstimes.com/business/australian-home-prices-fall-for-seventh-month-looming-rate-hike-adds-to-pain",
-    "SG Banks|https://www.straitstimes.com/business/chinas-big-banks-post-fastest-quarterly-profit-growth-in-years-as-margins-stabilise",
-    "SG Banks|/companies-markets/stocks-watch-wilmar-keppel-nio-lendlease-global-reit",
-    "Watchlist|/companies-markets/stocks-watch-wilmar-keppel-nio-lendlease-global-reit",
-    "SG Banks|/companies-markets/banking-finance/bank-england-poised-raise-rates-may-push-back-bets-more",
-    "Watchlist|/companies-markets/banking-finance/bank-england-poised-raise-rates-may-push-back-bets-more",
-    "AI|1143deb9-1dc1-3b0b-9b34-3ca5884fae06",
-    "SG Banks|/companies-markets/singapores-easy-wins-attracting-global-capital-are-over-say-industry-watchers",
-    "Watchlist|1143deb9-1dc1-3b0b-9b34-3ca5884fae06",
-    "Watchlist|/companies-markets/singapores-easy-wins-attracting-global-capital-are-over-say-industry-watchers",
     "AI|https://www.investing.com/news/stock-market-news/us-stock-futures-edge-high-after-bruising-oct-earnings-elections-in-focus-4989789",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/us-stock-futures-edge-high-after-bruising-oct-earnings-elections-in-focus-4989789",
     "SG Banks|https://www.investing.com/news/stock-market-news/us-stock-futures-edge-high-after-bruising-oct-earnings-elections-in-focus-4989789",
@@ -5000,7 +4990,17 @@
     "Watchlist|/companies-markets/not-playing-red-ocean-sp-group-aims-triple-china-district-cooling-capacity-5-years",
     "Watchlist|/companies-markets/beyond-funding-improved-trading-volume-smid-pricing-also-good-metrics-eqdps-success",
     "Watchlist|/companies-markets/nasdaq-100-losing-momentum-ai-trade-divides",
-    "Watchlist|/companies-markets/energy-commodities/oil-slips-more-1-talks-continue-ending-iran-war"
+    "Watchlist|/companies-markets/energy-commodities/oil-slips-more-1-talks-continue-ending-iran-war",
+    "SG Banks|/companies-markets/singapore-shares-fall-chip-stocks-take-beating-sti-down-0-4",
+    "Watchlist|/companies-markets/singapore-shares-fall-chip-stocks-take-beating-sti-down-0-4",
+    "SG Banks|https://www.straitstimes.com/business/australian-home-prices-fall-for-seventh-month-looming-rate-hike-adds-to-pain",
+    "SG Banks|https://www.straitstimes.com/business/chinas-big-banks-post-fastest-quarterly-profit-growth-in-years-as-margins-stabilise",
+    "Crypto|4f83c51e-e8c6-3397-9070-b9383864488d",
+    "SG Banks|/companies-markets/banking-finance/bank-england-poised-raise-rates-may-push-back-bets-more",
+    "Watchlist|/companies-markets/banking-finance/bank-england-poised-raise-rates-may-push-back-bets-more",
+    "SG Banks|/companies-markets/ix-biopharma-wafermine-plans-not-dependent-nevada-partner-orion-which-lacks-state-licence",
+    "Watchlist|/companies-markets/ix-biopharma-wafermine-plans-not-dependent-nevada-partner-orion-which-lacks-state-licence",
+    "SG Banks|https://www.channelnewsasia.com/business/binance-reopen-withdrawals-more-assets-several-networks-6515136"
   ],
   "topic_error": "",
   "last_digest": "2026-11-03",
@@ -5085,7 +5085,7 @@
     "D05.SI|2026-11-05",
     "ZTS|2026-11-05"
   ],
-  "last_check": 1793673499.2041447,
+  "last_check": 1793674404.907287,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-02"
