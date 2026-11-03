@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/commodities-news/natural-gas-consolidates-near-618-fib-with-bear-flag-live-levels-93CH-4990030",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-cdsl-posts-modest-q2-fy27-eps-beat-as-ipo-boom-lifts-results-93CH-4990032",
-    "Watchlist|https://www.investing.com/news/economic-indicators/german-retail-sales-falls-unexpectedly-in-september-4990033",
-    "Watchlist|https://www.investing.com/news/company-news/posco-holdings-q3-2026-slides-steel-recovery-drives-48-profit-surge-93CH-4990034",
-    "Watchlist|https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-key-support-in-descending-channel-live-levels-93CH-4990035",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-lic-housing-finance-posts-mixed-q2-2026-results-93CH-4990036",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/phillip-securities-upgrades-amazon-stock-rating-on-aws-strength-93CH-4990042",
-    "SG Banks|/wealth/crypto-alternative-assets/binance-estimates-us6-3-billion-hacked-cryptos-biggest-heist",
-    "Watchlist|/international/global/jios-blockbuster-debut-puts-valuation-earnings-focus",
-    "Watchlist|/wealth/crypto-alternative-assets/binance-estimates-us6-3-billion-hacked-cryptos-biggest-heist",
-    "War|WP-MKTW-0005312471",
-    "AI|WP-MKTW-0005312471",
     "Cybersecurity|WP-MKTW-0005312471",
     "SG Banks|/companies-markets/ocbc-leads-bank-losses-sti-slides-1-4",
     "Watchlist|/companies-markets/ocbc-leads-bank-losses-sti-slides-1-4",
@@ -5000,7 +4988,19 @@
     "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-key-support-in-descending-channel-live-levels-93CH-4990035",
     "SG Banks|/companies-markets/banking-finance/quant-firms-are-racing-fund-phds-build-labs-ai-talent-war-goes",
     "SG Banks|/companies-markets/mas-urges-banks-limit-exposure-or-cut-ties-clients-over-clear-environmental-breaches-linked-haze",
-    "AI|8293d6ec-9289-367c-9485-4c44a8b8a77f"
+    "AI|8293d6ec-9289-367c-9485-4c44a8b8a77f",
+    "Watchlist|8293d6ec-9289-367c-9485-4c44a8b8a77f",
+    "Cybersecurity|688ae616-592a-3a06-806f-43e36b770e84",
+    "Watchlist|688ae616-592a-3a06-806f-43e36b770e84",
+    "AI|be996fd5-2d35-36eb-a418-70a7863223b4",
+    "Watchlist|be996fd5-2d35-36eb-a418-70a7863223b4",
+    "AI|97ed0186-27c8-3110-ac50-084fc8e07d8d",
+    "AI|dd4dd846-0587-45e4-914b-545de5a043c2",
+    "Watchlist|97ed0186-27c8-3110-ac50-084fc8e07d8d",
+    "Watchlist|dd4dd846-0587-45e4-914b-545de5a043c2",
+    "SG Banks|https://www.channelnewsasia.com/business/virgin-media-o2-cut-thousands-jobs-halt-uk-fibre-expansion-6516211",
+    "War|dab90ebe-3a12-3aef-9dc4-9f18c96f24d5",
+    "War|b50f0bc8-0cb6-3e17-a7d7-4590f97b3467"
   ],
   "topic_error": "",
   "last_digest": "2026-11-03",
@@ -5085,7 +5085,7 @@
     "D05.SI|2026-11-05",
     "ZTS|2026-11-05"
   ],
-  "last_check": 1793696481.5748603,
+  "last_check": 1793697391.167753,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-02"
