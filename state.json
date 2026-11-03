@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-soil-posts-strong-q3-2026-profit-on-refining-lube-boom-93CH-4989940",
-    "AI|https://www.investing.com/news/economy-news/boj-flags-progress-in-anchoring-inflation-around-target-4989941",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/morgan-stanley-upgrades-caixabank-stock-rating-on-nii-growth-outlook-93CH-4989934",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/morgan-stanley-cuts-coinbase-stock-rating-on-weaker-earnings-outlook-93CH-4989935",
-    "Cybersecurity|https://www.investing.com/news/company-news/rainbow-childrens-q2-fy27-slides-23-revenue-growth-amid-margin-pressure-93CH-4989936",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/td-cowen-initiates-azora-therapeutics-stock-with-buy-rating-93CH-4989938",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-sagar-cements-q2-2026-misses-eps-forecast-93CH-4989937",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-juniper-green-energy-posts-record-q2-2027-growth-93CH-4989939",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-soil-posts-strong-q3-2026-profit-on-refining-lube-boom-93CH-4989940",
-    "Cybersecurity|https://www.investing.com/news/economy-news/boj-flags-progress-in-anchoring-inflation-around-target-4989941",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/morgan-stanley-upgrades-caixabank-stock-rating-on-nii-growth-outlook-93CH-4989934",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/morgan-stanley-cuts-coinbase-stock-rating-on-weaker-earnings-outlook-93CH-4989935",
     "SG Banks|https://www.investing.com/news/company-news/rainbow-childrens-q2-fy27-slides-23-revenue-growth-amid-margin-pressure-93CH-4989936",
     "SG Banks|https://www.investing.com/news/analyst-ratings/td-cowen-initiates-azora-therapeutics-stock-with-buy-rating-93CH-4989938",
     "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-sagar-cements-q2-2026-misses-eps-forecast-93CH-4989937",
@@ -5000,7 +4988,19 @@
     "Watchlist|https://www.investing.com/news/analyst-ratings/morgan-stanley-initiates-pony-ai-stock-with-overweight-rating-93CH-4993729",
     "Watchlist|https://www.investing.com/news/company-news/krbl-q2-fy27-slides-domestic-surge-offsets-export-decline-93CH-4993731",
     "Watchlist|https://www.investing.com/news/analyst-ratings/itau-bba-downgrades-coca-cola-femsa-stock-rating-on-valuation-93CH-4993733",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-krsnaa-diagnostics-posts-record-q2-2026-revenue-shares-fall-93CH-4993732"
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-krsnaa-diagnostics-posts-record-q2-2026-revenue-shares-fall-93CH-4993732",
+    "Iran|https://www.iranintl.com/en/202610290508",
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-breaks-below-key-mas-amid-distribution-live-levels-93CH-4971508",
+    "SG Banks|/companies-markets/energy-commodities/energy-nationalism-asean-businesses-face-risks-cant-ignore-opportunities",
+    "Watchlist|/companies-markets/energy-commodities/energy-nationalism-asean-businesses-face-risks-cant-ignore-opportunities",
+    "SG Banks|https://www.channelnewsasia.com/business/uks-virgin-media-o2-slash-jobs-halt-fibre-roll-out-6516211",
+    "AI|b660117a-938f-3beb-8d58-a7c9f6f03bd9",
+    "Watchlist|b660117a-938f-3beb-8d58-a7c9f6f03bd9",
+    "SG Banks|/companies-markets/shell-sell-us1-5-billion-stake-australian-lng-plant-adnoc-energy-investment-arm",
+    "Watchlist|/companies-markets/shell-sell-us1-5-billion-stake-australian-lng-plant-adnoc-energy-investment-arm",
+    "AI|89c75bed-52f5-3372-921c-3c708bc86a43",
+    "AI|ee6f43ad-692c-3811-869e-4bbe908e4e93",
+    "Watchlist|ee6f43ad-692c-3811-869e-4bbe908e4e93"
   ],
   "topic_error": "",
   "last_digest": "2026-11-03",
@@ -5085,7 +5085,7 @@
     "D05.SI|2026-11-05",
     "ZTS|2026-11-05"
   ],
-  "last_check": 1793692817.4997466,
+  "last_check": 1793693731.0371182,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-02"
