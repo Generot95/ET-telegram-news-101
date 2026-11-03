@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/reconnaissance-energy-grants-stock-options-to-new-director-93CH-4993157",
-    "SG Banks|https://www.investing.com/news/company-news/saba-fund-renews-share-buyback-program-for-up-to-10-stake-93CH-4993158",
-    "SG Banks|https://www.investing.com/news/company-news/saba-fund-renews-share-buyback-plan-for-up-to-10-of-shares-93CH-4993159",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-match-group-q3-2026-revenue-nearly-meets-forecast-93CH-4993160",
     "SG Banks|https://www.investing.com/news/company-news/backblaze-q3-2026-slides-ai-strategy-drives-47-b2-growth-93CH-4993161",
     "Watchlist|c7272522-8371-37e7-89f0-0b444697b8fd",
     "Watchlist|c4c67f91-5f1b-31c5-a1b3-ef5667c3766a",
@@ -5000,7 +4996,11 @@
     "Watchlist|6b92386f-f5ee-3dbb-9343-b5cd98043bf5",
     "War|676acefc-42ff-4fcf-9c68-21da36e0a857",
     "SG Banks|/companies-markets/uob-q3-net-profit-rebounds-182-2-s1-25-billion-low-base-misses-forecasts",
-    "Watchlist|/companies-markets/uob-q3-net-profit-rebounds-182-2-s1-25-billion-low-base-misses-forecasts"
+    "Watchlist|/companies-markets/uob-q3-net-profit-rebounds-182-2-s1-25-billion-low-base-misses-forecasts",
+    "AI|0689c4ee-795a-30de-8b70-d4f88aa853fb",
+    "Watchlist|0689c4ee-795a-30de-8b70-d4f88aa853fb",
+    "AI|68760004-2ef1-3fc4-9125-1ee6568f3719",
+    "Watchlist|68760004-2ef1-3fc4-9125-1ee6568f3719"
   ],
   "topic_error": "",
   "last_digest": "2026-11-03",
@@ -5086,7 +5086,7 @@
     "ZTS|2026-11-05",
     "O39.SI|2026-11-06"
   ],
-  "last_check": 1793748217.1858077,
+  "last_check": 1793749131.7507792,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-03"
