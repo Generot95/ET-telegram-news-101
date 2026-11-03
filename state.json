@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|436c7852-81a3-3869-9014-bda45fc1ec46",
-    "Watchlist|a13d2e38-fc67-32dc-9f3f-cc8b2313f0ad",
-    "Watchlist|436c7852-81a3-3869-9014-bda45fc1ec46",
-    "Crypto|d284502e-d21a-302a-8c14-786d3bbf0e53",
-    "Iran|https://www.iranintl.com/en/202611014416",
-    "Crypto|2cb27381-4789-35a8-b7b2-53ff0b824187",
-    "SG Banks|https://www.straitstimes.com/business/when-wealth-outruns-wages-the-changing-dynamics-of-global-property-markets",
-    "SG Banks|https://www.straitstimes.com/business/companies-markets/ai-doesnt-destroy-art-but-raises-the-bar-for-even-better-content-creation-says-adobe-apac-chief",
-    "SG Banks|https://www.straitstimes.com/business/askst-jobs-my-boss-keeps-making-passive-aggressive-remarks-how-should-i-respond",
-    "AI|b4eb03d4-1112-3e40-8c41-c59dea81f8ef",
-    "Watchlist|b4eb03d4-1112-3e40-8c41-c59dea81f8ef",
     "Watchlist|2e1c0017-fde6-35bf-914a-bc15e9f59244",
     "SG Banks|https://www.channelnewsasia.com/business/exclusive-australian-outback-data-centre-pulls-timeline-after-regulator-stalls-6511551",
     "AI|6cb58d13-e041-3608-9388-d15e86a65bc3",
@@ -5000,7 +4989,18 @@
     "SG Banks|WP-MKTW-0003509216",
     "SG Banks|WP-MKTW-0003509284",
     "SG Banks|WP-MKTW-0003805099",
-    "Watchlist|/companies-markets/aem-tumbles-8-6-along-singapore-and-regional-peers-following-alphabets-record-plunge"
+    "Watchlist|/companies-markets/aem-tumbles-8-6-along-singapore-and-regional-peers-following-alphabets-record-plunge",
+    "War|1daceaed-40aa-328f-9c89-d59783f85e99",
+    "Crypto|ffc6626b-70c2-3f9c-8d99-82897c09f565",
+    "AI|cc57a79a-df4c-3ff0-8186-c318b36defd1",
+    "Watchlist|cc57a79a-df4c-3ff0-8186-c318b36defd1",
+    "Iran|https://www.iranintl.com/en/202611025390",
+    "Iran|https://www.iranintl.com/en/202611014416",
+    "SG Banks|/international/asean/malaysias-ioi-properties-makes-reit-listing-springboard-next-wave-growth",
+    "Watchlist|/international/asean/malaysias-ioi-properties-makes-reit-listing-springboard-next-wave-growth",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/ai-doesnt-destroy-art-but-raises-the-bar-for-even-better-content-creation-says-adobe-apac-chief",
+    "SG Banks|https://www.straitstimes.com/business/when-wealth-outruns-wages-the-changing-dynamics-of-global-property-markets",
+    "SG Banks|https://www.straitstimes.com/business/askst-jobs-my-boss-keeps-making-passive-aggressive-remarks-how-should-i-respond"
   ],
   "topic_error": "",
   "last_digest": "2026-11-03",
@@ -5085,7 +5085,7 @@
     "D05.SI|2026-11-05",
     "ZTS|2026-11-05"
   ],
-  "last_check": 1793670738.2487266,
+  "last_check": 1793671659.5339332,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-02"
