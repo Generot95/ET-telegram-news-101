@@ -1,7 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Crypto|9afbefc7-d285-3f93-be7c-0879a38ca143",
     "SG Banks|/companies-markets/singapores-data-centre-operator-stt-gdc-eyes-us2-4-billion-loan-adds-ai-debt-binge",
     "Watchlist|/companies-markets/singapores-data-centre-operator-stt-gdc-eyes-us2-4-billion-loan-adds-ai-debt-binge",
     "AI|75d3c955-dfc8-3104-8b80-c22b1b30cd90",
@@ -5000,7 +4999,8 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/australian-chinese-airline-stocks-jump-as-oil-prices-plunge-more-than-7-4993511",
     "SG Banks|/opinion-features/keppel-south-central-deals-juiced-income-support-need-not-be-bad-ones",
     "Crypto|ad2e0a36-1031-31b2-91ef-15c87d6fb62e",
-    "Watchlist|/opinion-features/keppel-south-central-deals-juiced-income-support-need-not-be-bad-ones"
+    "Watchlist|/opinion-features/keppel-south-central-deals-juiced-income-support-need-not-be-bad-ones",
+    "Watchlist|7c3e17bc-b9fe-3aa8-9480-8561934f91da"
   ],
   "topic_error": "",
   "last_digest": "2026-11-03",
@@ -5085,7 +5085,7 @@
     "D05.SI|2026-11-05",
     "ZTS|2026-11-05"
   ],
-  "last_check": 1793683615.9122005,
+  "last_check": 1793684538.1962101,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-02"
