@@ -1,30 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-estee-lauder-beats-q1-2027-estimates-and-raises-outlook-93CH-4992099",
-    "AI|https://www.investing.com/news/economic-indicators/manufacturing-pmi-slips-below-expectations-signaling-potential-slowdown-93CH-4992109",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-fluence-energy-stock-climbing-today-93CH-4991919",
-    "AI|https://www.investing.com/news/stock-market-news/buy-these-ai-infrastructure-stocks-amid-midterm-election-risks-bernstein-says-4991973",
-    "AI|https://www.investing.com/news/stock-market-news/crowdstrike-deutsche-bank-sees-ai-fueling-cyber-demand-tsunami-upgrades-to-buy-4991974",
-    "AI|https://www.investing.com/news/stock-market-news/teva-shares-slide-after-drug-trial-discontinuation-4991982",
-    "AI|https://www.investing.com/news/stock-market-news/uniqure-stock-jumps-as-fda-accepts-huntingtons-therapy-filing-4991988",
-    "AI|https://www.investing.com/news/stock-market-news/cyberattack-on-fridges-hits-supermarkets-across-europe-4991995",
-    "AI|https://www.investing.com/news/stock-market-news/bright-minds-stock-plunges-as-fda-halts-epilepsy-trial-4992031",
-    "AI|https://www.investing.com/news/company-news/marriott-stock-hits-alltime-high-at-42353-usd-93CH-4992035",
-    "AI|https://www.investing.com/news/company-news/cno-financial-group-stock-hits-alltime-high-at-5777-usd-93CH-4992037",
-    "AI|https://www.investing.com/news/company-news/ryerson-holding-corp-stock-hits-52week-high-at-3215-usd-93CH-4992043",
-    "AI|https://www.investing.com/news/company-news/smartstop-self-storage-stock-hits-52week-high-at-368-usd-93CH-4992045",
-    "AI|https://www.investing.com/news/company-news/arch-capital-group-stock-hits-52week-high-at-10717-93CH-4992046",
-    "AI|https://www.investing.com/news/company-news/trex-stock-hits-52week-high-at-5198-usd-93CH-4992048",
-    "AI|https://www.investing.com/news/company-news/cbc-stock-hits-alltime-high-at-3613-usd-93CH-4992049",
-    "AI|https://www.investing.com/news/company-news/roche-receives-fda-clearance-for-respiratory-pathogen-test-93CH-4992061",
-    "Cybersecurity|https://www.investing.com/news/economic-indicators/canadian-factory-pmi-shows-sector-contracting-for-first-time-in-2026-4992053",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-tempus-ai-beats-q3-2026-eps-forecast-lifts-outlook-93CH-4992054",
-    "Cybersecurity|https://www.investing.com/news/company-news/nucor-corp-stock-hits-alltime-high-at-28022-usd-93CH-4992057",
-    "Cybersecurity|https://www.investing.com/news/earnings/healthstream-earnings-up-next-can-platform-shift-sustain-growth-93CH-4992058",
-    "Cybersecurity|https://www.investing.com/news/company-news/toro-co-stock-hits-52week-high-at-10882-93CH-4992062",
-    "Cybersecurity|https://www.investing.com/news/earnings/clarivate-earnings-on-deck-as-restructuring-faces-revenue-test-93CH-4992063",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-idexx-beats-q3-2026-estimates-and-raises-outlook-93CH-4992064",
     "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-check-point-q3-2026-shares-fall-on-cautious-outlook-93CH-4992084",
     "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-estee-lauder-beats-q1-2027-estimates-and-raises-outlook-93CH-4992099",
     "Cybersecurity|https://www.investing.com/news/economic-indicators/manufacturing-pmi-slips-below-expectations-signaling-potential-slowdown-93CH-4992109",
@@ -5000,78 +4976,102 @@
     "Cybersecurity|1ee883be-e8f1-3ab8-a8d9-854127716a5b",
     "SG Banks|/companies-markets/capital-markets-currencies/sp-500-nasdaq-open-higher-oil-prices-extend-declines-midterms-tap",
     "Watchlist|1ee883be-e8f1-3ab8-a8d9-854127716a5b",
-    "Watchlist|/companies-markets/capital-markets-currencies/sp-500-nasdaq-open-higher-oil-prices-extend-declines-midterms-tap"
+    "Watchlist|/companies-markets/capital-markets-currencies/sp-500-nasdaq-open-higher-oil-prices-extend-declines-midterms-tap",
+    "AI|ebf76c85-1e76-427c-8125-a6b229c77a1a",
+    "AI|2e236fdf-31a5-30dd-8fd8-01b8acb88635",
+    "Watchlist|ebf76c85-1e76-427c-8125-a6b229c77a1a",
+    "Watchlist|6a2b12bf-d6ed-33ce-a875-eeb66aa2ad3a",
+    "Watchlist|c2bca8b2-4ed9-365c-8dae-22f47cd46d07",
+    "AI|98bfd56d-7e2f-3df4-948e-74b27fe3dc4c",
+    "AI|6a2b12bf-d6ed-33ce-a875-eeb66aa2ad3a",
+    "AI|c2bca8b2-4ed9-365c-8dae-22f47cd46d07",
+    "AI|86893b48-9aa4-44bc-9ad1-5f2b5026ead0",
+    "AI|39db11ea-91ff-3063-873a-7ccb018ce5cb",
+    "Watchlist|98bfd56d-7e2f-3df4-948e-74b27fe3dc4c",
+    "AI|cf4931a5-acb8-32c9-adb1-aad75ffbf699",
+    "AI|24561e86-0234-3a68-bebd-d5b079fd81dd",
+    "Crypto|994a72e1-e8b8-3b81-a5ea-3793b0713928",
+    "Crypto|a515f862-e4bf-3921-a3b8-f171f7fffb61",
+    "Watchlist|24561e86-0234-3a68-bebd-d5b079fd81dd",
+    "War|02bdbc85-fc0c-3a59-912d-36329fda4d0a",
+    "AI|cd710690-181a-314f-a42c-c8ab73c6197a",
+    "AI|168c2a0e-0ca4-3fe6-979a-c1926926710d",
+    "Watchlist|cd710690-181a-314f-a42c-c8ab73c6197a",
+    "Watchlist|168c2a0e-0ca4-3fe6-979a-c1926926710d",
+    "War|3afec1e5-3e51-3b26-8999-16727e3df1f8",
+    "AI|28e47cf8-f34b-4d10-8a3b-8a5310a4f3d5",
+    "Watchlist|28e47cf8-f34b-4d10-8a3b-8a5310a4f3d5"
   ],
   "topic_error": "",
   "last_digest": "2026-11-03",
   "earnings": {
     "AMD": {
       "ts": 1793739600,
-      "fetched": 1793632596.786039
+      "fetched": 1793719021.9000313
     },
     "NVDA": {
       "ts": 1794949200,
-      "fetched": 1793632596.786039
+      "fetched": 1793719021.9000313
     },
     "CRWD": {
       "ts": 1796158800,
-      "fetched": 1793632596.786039
+      "fetched": 1793719021.9000313
     },
     "MSFT": {
       "ts": 1801083600,
-      "fetched": 1793632596.786039
+      "fetched": 1793719021.9000313
     },
     "INTU": {
       "ts": 1795122000,
-      "fetched": 1793632596.786039
+      "fetched": 1793719021.9000313
     },
     "BRK-B": {
       "ts": 1794085200,
-      "fetched": 1793632596.786039
+      "fetched": 1793719021.9000313
     },
     "AMZN": {
       "ts": 1793304000,
-      "fetched": 1793632596.786039
+      "fetched": 1793719021.9000313
     },
     "GOOG": {
       "ts": 1793217600,
-      "fetched": 1793632596.786039
+      "fetched": 1793719021.9000313
     },
     "ZTS": {
       "ts": 1793885400,
-      "fetched": 1793632596.786039
+      "fetched": 1793719021.9000313
     },
     "LIN": {
       "ts": 1793277000,
-      "fetched": 1793632596.786039
+      "fetched": 1793719021.9000313
     },
     "VLO": {
       "ts": 1801143000,
-      "fetched": 1793632596.786039
+      "fetched": 1793719021.9000313
     },
     "D05.SI": {
       "ts": 1793869200,
-      "fetched": 1793632596.786039
+      "fetched": 1793719021.9000313
     },
     "O39.SI": {
       "ts": 1793955600,
-      "fetched": 1793632596.786039
+      "fetched": 1793719021.9000313
     },
     "U11.SI": {
       "ts": 1793782800,
-      "fetched": 1793632596.786039
+      "fetched": 1793719021.9000313
     },
     "A17U.SI": {
       "ts": 1785920400,
-      "fetched": 1793632596.786039
+      "fetched": 1793719021.9000313
     },
     "HMN.SI": {
       "ts": null,
-      "fetched": 1793632596.786039
+      "fetched": 1793719021.9000313
     },
     "JYEU.SI": {
       "ts": null,
-      "fetched": 1793632596.786039
+      "fetched": 1793719021.9000313
     }
   },
   "earnings_notified": [
@@ -5085,7 +5085,7 @@
     "D05.SI|2026-11-05",
     "ZTS|2026-11-05"
   ],
-  "last_check": 1793718534.4427118,
+  "last_check": 1793719449.7078583,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-03"
