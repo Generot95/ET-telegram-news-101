@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-caixabank-stock-rallying-today-93CH-4990232",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/texas-capital-cuts-national-cinemedia-stock-rating-on-leverage-concerns-93CH-4990233",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/raymond-james-cuts-farmers-national-banc-stock-rating-on-valuation-93CH-4990236",
-    "SG Banks|https://www.investing.com/news/economic-indicators/czechia-manufacturing-pmi-hits-56month-high-in-october-93CH-4990238",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-mutares-stock-rallying-today-93CH-4990239",
-    "Watchlist|01ff4705-ea35-39cc-9092-3d91cdd94f1a",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/citizens-reiterates-kratos-defense-stock-rating-on-national-security-strength-93CH-4990227",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/citizens-reiterates-ondas-holdings-stock-rating-on-ionstrike-updates-93CH-4990228",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-fresenius-stock-rallying-today-93CH-4990230",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-lodha-developers-misses-q2-2026-estimates-stock-slips-93CH-4990231",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-caixabank-stock-rallying-today-93CH-4990232",
     "Watchlist|https://www.investing.com/news/analyst-ratings/texas-capital-cuts-national-cinemedia-stock-rating-on-leverage-concerns-93CH-4990233",
     "Watchlist|https://www.investing.com/news/analyst-ratings/raymond-james-cuts-farmers-national-banc-stock-rating-on-valuation-93CH-4990236",
     "Watchlist|https://www.investing.com/news/economic-indicators/czechia-manufacturing-pmi-hits-56month-high-in-october-93CH-4990238",
@@ -5000,7 +4989,18 @@
     "Watchlist|9a9c3694-e7a9-34f2-ba66-7fa733a88b76",
     "Iran|https://www.iranintl.com/en/202611036564",
     "AI|04861ad0-85df-3788-bfe2-02c2565229fb",
-    "Watchlist|04861ad0-85df-3788-bfe2-02c2565229fb"
+    "Watchlist|04861ad0-85df-3788-bfe2-02c2565229fb",
+    "War|WP-MKTW-0005319906",
+    "AI|WP-MKTW-0005319906",
+    "Cybersecurity|WP-MKTW-0005319906",
+    "Cybersecurity|2b645db4-ed05-3234-8fbe-64936711cf20",
+    "Cybersecurity|4c4a8cde-3cc6-3df1-8ac7-503baa7f7df9",
+    "Watchlist|2b645db4-ed05-3234-8fbe-64936711cf20",
+    "Watchlist|4c4a8cde-3cc6-3df1-8ac7-503baa7f7df9",
+    "AI|523a7257-0157-3517-9ee3-b06c10b962ac",
+    "AI|0a77393b-81b0-3df0-8dfa-425153426591",
+    "Watchlist|523a7257-0157-3517-9ee3-b06c10b962ac",
+    "Watchlist|0a77393b-81b0-3df0-8dfa-425153426591"
   ],
   "topic_error": "",
   "last_digest": "2026-11-03",
@@ -5085,7 +5085,7 @@
     "D05.SI|2026-11-05",
     "ZTS|2026-11-05"
   ],
-  "last_check": 1793700145.187995,
+  "last_check": 1793701084.1180723,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-02"
