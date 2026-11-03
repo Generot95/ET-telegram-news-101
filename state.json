@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|/companies-markets/banking-finance/paypal-raises-2026-profit-forecast-turnaround-gains-traction",
-    "SG Banks|/companies-markets/reits-property/capitaland-ascendas-reit-scores-higher-rental-reversion-q3-occupancy-also",
-    "Watchlist|/companies-markets/reits-property/capitaland-ascendas-reit-scores-higher-rental-reversion-q3-occupancy-also",
-    "SG Banks|/companies-markets/alpha-integrated-reit-ceo-karen-lee-steps-down",
-    "Watchlist|/companies-markets/alpha-integrated-reit-ceo-karen-lee-steps-down",
-    "Iran|https://www.iranintl.com/en/202611029934",
-    "AI|03237b2f-6b8f-362f-a47d-5376ec369edd",
     "Watchlist|03237b2f-6b8f-362f-a47d-5376ec369edd",
     "War|1e414a57-3b71-3314-ad70-0a0da7366379",
     "AI|https://www.investing.com/news/insider-trading-news/ambarella-ceo-wang-fengming-sells-394555-in-shares-93CH-4989850",
@@ -5000,7 +4993,14 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-lenovo-stock-sliding-today-93CH-4993528",
     "Watchlist|https://www.investing.com/news/earnings/salmar-q3-operating-profit-more-than-doubles-2026-harvest-outlook-cut-4993529",
     "Watchlist|https://www.investing.com/news/analyst-ratings/ubs-downgrades-adidas-stock-rating-to-sell-on-growth-concerns-93CH-4993532",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/td-cowen-downgrades-marvell-stock-rating-on-deal-concerns-93CH-4993531"
+    "Watchlist|https://www.investing.com/news/analyst-ratings/td-cowen-downgrades-marvell-stock-rating-on-deal-concerns-93CH-4993531",
+    "SG Banks|b2d2ccef-91a4-3830-9ed8-b5a8cf0a30b0",
+    "SG Banks|/companies-markets/banking-finance/paypal-raises-2026-profit-forecast-turnaround-gains-traction",
+    "War|84ff7fce-e2bf-36e1-ab56-b57bbf62784a",
+    "War|2cc4b569-15ce-35a6-bbce-7647dd2ccfa8",
+    "SG Banks|/companies-markets/alpha-integrated-reit-ceo-karen-lee-steps-down",
+    "Watchlist|/companies-markets/alpha-integrated-reit-ceo-karen-lee-steps-down",
+    "Iran|https://www.iranintl.com/en/202611029934"
   ],
   "topic_error": "",
   "last_digest": "2026-11-03",
@@ -5085,7 +5085,7 @@
     "D05.SI|2026-11-05",
     "ZTS|2026-11-05"
   ],
-  "last_check": 1793685453.9608674,
+  "last_check": 1793686375.02134,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-02"
