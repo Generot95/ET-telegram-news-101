@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|/companies-markets/capital-markets-currencies/taiwan-said-ease-exporter-fx-rule-after-record-stocks-exodus",
-    "Watchlist|/companies-markets/capital-markets-currencies/taiwan-said-ease-exporter-fx-rule-after-record-stocks-exodus",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-rio-tinto-stock-sliding-today-93CH-4989915",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-motherson-sumi-wiring-india-stock-surging-today-93CH-4989916",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-delhivery-stock-surging-today-93CH-4989917",
-    "AI|https://www.investing.com/news/analyst-ratings/guggenheim-initiates-retension-pharmaceuticals-stock-with-buy-rating-93CH-4989918",
     "AI|https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-043-4989919",
     "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-rainbow-childrens-medicare-misses-q2-2026-eps-forecast-93CH-4989920",
     "AI|https://www.investing.com/news/company-news/lazard-completes-campbell-lutyens-acquisition-launches-new-unit-93CH-4989923",
@@ -5000,7 +4994,13 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-cnooc-stock-sliding-today-93CH-4993616",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-vrl-logistics-stock-surging-today-93CH-4993617",
     "Watchlist|0b5f0051-fc93-3731-ba55-b9f563a0062c",
-    "AI|0b5f0051-fc93-3731-ba55-b9f563a0062c"
+    "AI|0b5f0051-fc93-3731-ba55-b9f563a0062c",
+    "SG Banks|/companies-markets/lufthansa-beats-q3-profit-expectations-cost-discipline-demand-offset-higher-fuel-prices",
+    "Watchlist|/companies-markets/lufthansa-beats-q3-profit-expectations-cost-discipline-demand-offset-higher-fuel-prices",
+    "SG Banks|/companies-markets/capital-markets-currencies/taiwan-said-ease-exporter-fx-rule-after-record-stocks-exodus",
+    "Watchlist|/companies-markets/capital-markets-currencies/taiwan-said-ease-exporter-fx-rule-after-record-stocks-exodus",
+    "AI|1024be7f-37f5-3eb3-ab93-75efa2f9b217",
+    "Watchlist|1024be7f-37f5-3eb3-ab93-75efa2f9b217"
   ],
   "topic_error": "",
   "last_digest": "2026-11-03",
@@ -5085,7 +5085,7 @@
     "D05.SI|2026-11-05",
     "ZTS|2026-11-05"
   ],
-  "last_check": 1793689122.2965484,
+  "last_check": 1793690058.7934337,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-02"
