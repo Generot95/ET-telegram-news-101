@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/earnings/evonik-q3-ebitda-jumps-40-narrows-2026-outlook-4993556",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/jefferies-upgrades-tempus-ai-stock-rating-to-hold-raises-price-target-to-70-93CH-4993557",
-    "SG Banks|https://www.investing.com/news/commodities-news/gold-holds-near-3950-as-iran-peace-hopes-ease-oil-us-vote-in-focus-4993318",
-    "SG Banks|https://www.investing.com/news/stock-market-news/bernstein-names-top-eu-capital-goods-stocks-for-data-center-growth-4993561",
-    "SG Banks|https://www.investing.com/news/stock-market-news/lufthansa-q3-results-meet-expectations-bogged-down-by-high-jet-fuel-costs-4993562",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/jpmorgan-downgrades-alstom-stock-rating-on-profit-warning-93CH-4993566",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/briley-downgrades-lumentum-stock-rating-on-marvell-deal-terms-93CH-4993567",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-kec-international-q2-2027-profit-weak-stock-falls-98-93CH-4993553",
     "Watchlist|https://www.investing.com/news/earnings/evonik-q3-ebitda-jumps-40-narrows-2026-outlook-4993556",
     "Watchlist|https://www.investing.com/news/analyst-ratings/jefferies-upgrades-tempus-ai-stock-rating-to-hold-raises-price-target-to-70-93CH-4993557",
@@ -5000,7 +4993,14 @@
     "AI|17f57e5d-c1cb-310e-8828-8d1d4d552f87",
     "SG Banks|/companies-markets/alpha-integrated-reit-ceo-karen-lee-steps-down",
     "Watchlist|17f57e5d-c1cb-310e-8828-8d1d4d552f87",
-    "Watchlist|/companies-markets/alpha-integrated-reit-ceo-karen-lee-steps-down"
+    "Watchlist|/companies-markets/alpha-integrated-reit-ceo-karen-lee-steps-down",
+    "Watchlist|e31026b4-b1d4-3a18-be77-448573e4b26e",
+    "AI|77877947-3f7c-35f4-abac-eeb8a45ed951",
+    "Watchlist|77877947-3f7c-35f4-abac-eeb8a45ed951",
+    "AI|1b7a6506-c563-3311-b84e-a83901bbc6d1",
+    "Watchlist|1b7a6506-c563-3311-b84e-a83901bbc6d1",
+    "AI|6b98fa9b-7fa2-3135-9dab-1349b2de4c61",
+    "Watchlist|6b98fa9b-7fa2-3135-9dab-1349b2de4c61"
   ],
   "topic_error": "",
   "last_digest": "2026-11-04",
@@ -5086,7 +5086,7 @@
     "ZTS|2026-11-05",
     "O39.SI|2026-11-06"
   ],
-  "last_check": 1793776690.653237,
+  "last_check": 1793777620.4979355,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-03"
