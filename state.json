@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/earnings/grifols-adr-earnings-beat-by-002-revenue-topped-estimates-4993269",
-    "Cybersecurity|https://www.investing.com/news/earnings/capital-southwest-earnings-missed-revenue-topped-estimates-4993272",
-    "Cybersecurity|https://www.investing.com/news/company-news/biomarin-q3-2026-slides-first-1b-quarter-guidance-cut-on-timing-93CH-4993251",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/wingstop-svp-coo-raj-kapoor-sells-409025-in-stock-93CH-4993262",
-    "SG Banks|https://www.investing.com/news/earnings/california-resources-earnings-beat-by-021-revenue-fell-short-of-estimates-4993263",
-    "SG Banks|https://www.investing.com/news/earnings/viper-energy-earnings-beat-by-095-revenue-topped-estimates-4993264",
-    "SG Banks|https://www.investing.com/news/earnings/independence-realty-trust-inc-earnings-beat-by-007-revenue-topped-estimates-4993265",
-    "SG Banks|https://www.investing.com/news/earnings/centerspace-earnings-beat-by-713-revenue-fell-short-of-estimates-4993267",
     "SG Banks|https://www.investing.com/news/earnings/vornado-earnings-missed-by-012-revenue-fell-short-of-estimates-4993266",
     "SG Banks|https://www.investing.com/news/earnings/healthpeak-properties-earnings-missed-by-003-revenue-topped-estimates-4993268",
     "SG Banks|https://www.investing.com/news/earnings/grifols-adr-earnings-beat-by-002-revenue-topped-estimates-4993269",
@@ -5000,7 +4992,15 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/agilysys-cfo-william-wood-sells-111476-in-company-shares-93CH-4997165",
     "Watchlist|https://www.investing.com/news/insider-trading-news/sandisk-chief-legal-officer-sells-694956-in-shares-93CH-4997166",
     "Watchlist|https://www.investing.com/news/insider-trading-news/first-united-corp-director-rudy-sells-46255-in-shares-93CH-4997167",
-    "Watchlist|https://www.investing.com/news/earnings/marubeni-h1-profit-jumps-45-on-commodities-trading-hikes-annual-guidance-4997168"
+    "Watchlist|https://www.investing.com/news/earnings/marubeni-h1-profit-jumps-45-on-commodities-trading-hikes-annual-guidance-4997168",
+    "SG Banks|/companies-markets/dbs-denies-rumours-indonesia-unit-merging-bank-central-asia-analysts-see-sense-deal",
+    "SG Banks|/companies-markets/cse-global-shares-7-after-q3-new-orders-nearly-triple-s434-9-million",
+    "Watchlist|/companies-markets/cse-global-shares-7-after-q3-new-orders-nearly-triple-s434-9-million",
+    "War|ecd3483f-06cc-4176-9e35-cc17b771bb7c",
+    "AI|8fb8f6f4-3b6a-3437-a945-81aeadc6978a",
+    "Watchlist|8fb8f6f4-3b6a-3437-a945-81aeadc6978a",
+    "War|0b1b8aa4-79a2-3135-a310-014246a6e5d3",
+    "Crypto|d0c0d176-f308-36fc-8017-9c599a7b715f"
   ],
   "topic_error": "",
   "last_digest": "2026-11-04",
@@ -5086,7 +5086,7 @@
     "ZTS|2026-11-05",
     "O39.SI|2026-11-06"
   ],
-  "last_check": 1793761086.7095408,
+  "last_check": 1793761996.1574178,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-03"
