@@ -1,106 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|94314038-3354-38d5-80f9-a7b862e02644",
-    "Watchlist|2fe77610-3618-3483-acb9-35b5b89a2f55",
-    "Watchlist|779d2e48-0fc4-3f3c-8616-4afa947bf027",
-    "War|686611ee-56ff-481f-ab6c-378c6acb2f4d",
-    "AI|686611ee-56ff-481f-ab6c-378c6acb2f4d",
-    "Watchlist|686611ee-56ff-481f-ab6c-378c6acb2f4d",
-    "War|WP-MKTW-0005323093",
-    "AI|9f90ab5e-eea8-3fff-99ea-1e21724f7e7a",
-    "AI|c0c18df1-4f96-45f3-be74-fe511c3cf872",
-    "AI|WP-MKTW-0005323093",
-    "Cybersecurity|WP-MKTW-0005323093",
-    "Watchlist|9f90ab5e-eea8-3fff-99ea-1e21724f7e7a",
-    "War|146bd076-3807-3a86-b717-ecd58c2c2d86",
-    "AI|146bd076-3807-3a86-b717-ecd58c2c2d86",
-    "AI|https://www.investing.com/news/economic-indicators/job-openings-surge-as-us-labor-market-remains-robust-93CH-4995640",
-    "AI|https://www.investing.com/news/company-news/fortis-q3-2026-slides-322b-capital-plan-drives-75-rate-base-growth-93CH-4995641",
-    "AI|https://www.investing.com/news/earnings/versigent-earnings-loom-as-investors-eye-postspinoff-momentum-93CH-4995642",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-fiserv-tops-q3-2026-eps-forecast-shares-jump-78-93CH-4995643",
-    "AI|https://www.investing.com/news/earnings/pinnacle-west-earnings-beat-by-029-revenue-topped-estimates-4995644",
-    "AI|https://www.investing.com/news/analyst-ratings/stifel-reiterates-compass-pathways-stock-rating-on-nda-progress-93CH-4995645",
-    "AI|https://www.investing.com/news/company-news/patria-investments-stock-hits-52week-low-at-904-usd-93CH-4995646",
-    "AI|https://www.investing.com/news/earnings/horace-mann-earnings-on-deck-as-profitability-test-looms-ahead-93CH-4995647",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-archrock-beats-on-q3-2026-profit-shares-rise-93CH-4995648",
-    "AI|https://www.investing.com/news/stock-market-news/shopify-stock-outlook-after-q3-earnings-selloff-what-our-ai-model-says-93CH-4995582",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-advanced-micro-devices-stock-rallying-today-93CH-4995601",
-    "AI|https://www.investing.com/news/stock-market-news/rockwell-medical-stock-surges-on-125m-vantive-acquisition-deal-4995606",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-western-digital-stock-rallying-today-93CH-4995611",
-    "AI|https://www.investing.com/news/stock-market-news/exclusive-owlting-ceo-on-scaling-harbor-growth-and-path-to-profitability-4995616",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-dell-technologies-stock-rallying-today-93CH-4995632",
-    "AI|https://www.investing.com/news/stock-market-news/apples-unprecedented-memory-warning-adds-fuel-to-wobbly-micron-sk-hynix-trade-4995638",
-    "AI|https://www.investing.com/news/company-news/nse-q2-fy2027-slides-profit-surges-23-yoy-amid-market-dominance-93CH-4995600",
-    "AI|https://www.investing.com/news/company-news/xometry-q3-2026-slides-first-gaap-profit-40-revenue-growth-93CH-4995610",
-    "AI|https://www.investing.com/news/company-news/sportradar-q3-2026-slides-prediction-markets-fuel-24-revenue-surge-93CH-4995613",
-    "AI|https://www.investing.com/news/company-news/xplr-infrastructure-q3-2026-slides-ebitda-rises-cash-flow-pressured-93CH-4995615",
-    "AI|https://www.investing.com/news/company-news/leidos-q3-fy26-slides-strong-eps-growth-masks-revenue-headwinds-93CH-4995617",
-    "AI|https://www.investing.com/news/company-news/digitalocean-q3-2026-slides-ai-growth-accelerates-2027-outlook-raised-93CH-4995626",
-    "Cybersecurity|https://www.investing.com/news/economic-indicators/job-openings-surge-as-us-labor-market-remains-robust-93CH-4995640",
-    "Cybersecurity|https://www.investing.com/news/company-news/fortis-q3-2026-slides-322b-capital-plan-drives-75-rate-base-growth-93CH-4995641",
-    "Cybersecurity|https://www.investing.com/news/earnings/versigent-earnings-loom-as-investors-eye-postspinoff-momentum-93CH-4995642",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-fiserv-tops-q3-2026-eps-forecast-shares-jump-78-93CH-4995643",
-    "Cybersecurity|https://www.investing.com/news/earnings/pinnacle-west-earnings-beat-by-029-revenue-topped-estimates-4995644",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/stifel-reiterates-compass-pathways-stock-rating-on-nda-progress-93CH-4995645",
-    "Cybersecurity|https://www.investing.com/news/company-news/patria-investments-stock-hits-52week-low-at-904-usd-93CH-4995646",
-    "Cybersecurity|https://www.investing.com/news/earnings/horace-mann-earnings-on-deck-as-profitability-test-looms-ahead-93CH-4995647",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-archrock-beats-on-q3-2026-profit-shares-rise-93CH-4995648",
-    "Cybersecurity|https://www.investing.com/news/company-news/nse-q2-fy2027-slides-profit-surges-23-yoy-amid-market-dominance-93CH-4995600",
-    "Cybersecurity|https://www.investing.com/news/company-news/xometry-q3-2026-slides-first-gaap-profit-40-revenue-growth-93CH-4995610",
-    "Cybersecurity|https://www.investing.com/news/company-news/sportradar-q3-2026-slides-prediction-markets-fuel-24-revenue-surge-93CH-4995613",
-    "Cybersecurity|https://www.investing.com/news/company-news/xplr-infrastructure-q3-2026-slides-ebitda-rises-cash-flow-pressured-93CH-4995615",
-    "Cybersecurity|https://www.investing.com/news/company-news/leidos-q3-fy26-slides-strong-eps-growth-masks-revenue-headwinds-93CH-4995617",
-    "Cybersecurity|https://www.investing.com/news/company-news/digitalocean-q3-2026-slides-ai-growth-accelerates-2027-outlook-raised-93CH-4995626",
-    "SG Banks|https://www.investing.com/news/economic-indicators/job-openings-surge-as-us-labor-market-remains-robust-93CH-4995640",
-    "SG Banks|https://www.investing.com/news/company-news/fortis-q3-2026-slides-322b-capital-plan-drives-75-rate-base-growth-93CH-4995641",
-    "SG Banks|https://www.investing.com/news/earnings/versigent-earnings-loom-as-investors-eye-postspinoff-momentum-93CH-4995642",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-fiserv-tops-q3-2026-eps-forecast-shares-jump-78-93CH-4995643",
-    "SG Banks|https://www.investing.com/news/earnings/pinnacle-west-earnings-beat-by-029-revenue-topped-estimates-4995644",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/stifel-reiterates-compass-pathways-stock-rating-on-nda-progress-93CH-4995645",
-    "SG Banks|https://www.investing.com/news/company-news/patria-investments-stock-hits-52week-low-at-904-usd-93CH-4995646",
-    "SG Banks|https://www.investing.com/news/earnings/horace-mann-earnings-on-deck-as-profitability-test-looms-ahead-93CH-4995647",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-archrock-beats-on-q3-2026-profit-shares-rise-93CH-4995648",
-    "Watchlist|https://www.investing.com/news/economic-indicators/job-openings-surge-as-us-labor-market-remains-robust-93CH-4995640",
-    "Watchlist|https://www.investing.com/news/company-news/fortis-q3-2026-slides-322b-capital-plan-drives-75-rate-base-growth-93CH-4995641",
-    "Watchlist|https://www.investing.com/news/earnings/versigent-earnings-loom-as-investors-eye-postspinoff-momentum-93CH-4995642",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-fiserv-tops-q3-2026-eps-forecast-shares-jump-78-93CH-4995643",
-    "Watchlist|https://www.investing.com/news/earnings/pinnacle-west-earnings-beat-by-029-revenue-topped-estimates-4995644",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/stifel-reiterates-compass-pathways-stock-rating-on-nda-progress-93CH-4995645",
-    "Watchlist|https://www.investing.com/news/company-news/patria-investments-stock-hits-52week-low-at-904-usd-93CH-4995646",
-    "Watchlist|https://www.investing.com/news/earnings/horace-mann-earnings-on-deck-as-profitability-test-looms-ahead-93CH-4995647",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-archrock-beats-on-q3-2026-profit-shares-rise-93CH-4995648",
-    "SG Banks|/companies-markets/us-stocks-set-higher-open-ai-trade-steadies-midterms-focus",
-    "Watchlist|/companies-markets/us-stocks-set-higher-open-ai-trade-steadies-midterms-focus",
-    "War|8911ce39-49e4-3b2a-b39a-7333d46e0a1d",
-    "AI|ce87ca9f-6bb0-3a94-b217-2a81a2d2b186",
-    "Cybersecurity|1ee883be-e8f1-3ab8-a8d9-854127716a5b",
-    "SG Banks|/companies-markets/capital-markets-currencies/sp-500-nasdaq-open-higher-oil-prices-extend-declines-midterms-tap",
-    "Watchlist|1ee883be-e8f1-3ab8-a8d9-854127716a5b",
-    "Watchlist|/companies-markets/capital-markets-currencies/sp-500-nasdaq-open-higher-oil-prices-extend-declines-midterms-tap",
-    "AI|ebf76c85-1e76-427c-8125-a6b229c77a1a",
-    "AI|2e236fdf-31a5-30dd-8fd8-01b8acb88635",
-    "Watchlist|ebf76c85-1e76-427c-8125-a6b229c77a1a",
-    "Watchlist|6a2b12bf-d6ed-33ce-a875-eeb66aa2ad3a",
-    "Watchlist|c2bca8b2-4ed9-365c-8dae-22f47cd46d07",
-    "AI|98bfd56d-7e2f-3df4-948e-74b27fe3dc4c",
-    "AI|6a2b12bf-d6ed-33ce-a875-eeb66aa2ad3a",
-    "AI|c2bca8b2-4ed9-365c-8dae-22f47cd46d07",
-    "AI|86893b48-9aa4-44bc-9ad1-5f2b5026ead0",
-    "AI|39db11ea-91ff-3063-873a-7ccb018ce5cb",
-    "Watchlist|98bfd56d-7e2f-3df4-948e-74b27fe3dc4c",
-    "AI|cf4931a5-acb8-32c9-adb1-aad75ffbf699",
-    "AI|24561e86-0234-3a68-bebd-d5b079fd81dd",
-    "Crypto|994a72e1-e8b8-3b81-a5ea-3793b0713928",
-    "Crypto|a515f862-e4bf-3921-a3b8-f171f7fffb61",
-    "Watchlist|24561e86-0234-3a68-bebd-d5b079fd81dd",
-    "War|02bdbc85-fc0c-3a59-912d-36329fda4d0a",
-    "AI|cd710690-181a-314f-a42c-c8ab73c6197a",
-    "AI|168c2a0e-0ca4-3fe6-979a-c1926926710d",
-    "Watchlist|cd710690-181a-314f-a42c-c8ab73c6197a",
-    "Watchlist|168c2a0e-0ca4-3fe6-979a-c1926926710d",
-    "War|3afec1e5-3e51-3b26-8999-16727e3df1f8",
-    "AI|28e47cf8-f34b-4d10-8a3b-8a5310a4f3d5",
     "Watchlist|28e47cf8-f34b-4d10-8a3b-8a5310a4f3d5",
     "Watchlist|bfc3fa01-0d93-36ff-be72-0041094c6079",
     "SG Banks|https://www.channelnewsasia.com/business/binance-hackers-used-fake-job-interview-compromise-computer-63-billion-attack-6517421",
@@ -5000,78 +4900,178 @@
     "SG Banks|https://www.channelnewsasia.com/business/shein-invest-eu500-million-in-polish-hub-after-eu-parcel-charges-6524826",
     "War|WP-MKTW-0005326586",
     "AI|WP-MKTW-0005326586",
-    "Cybersecurity|WP-MKTW-0005326586"
+    "Cybersecurity|WP-MKTW-0005326586",
+    "AI|43aa72cb-85a8-31c7-90b4-e78b06d33d6e",
+    "AI|4fdfa99e-e08f-3e1a-8dca-b5440d5b953e",
+    "Watchlist|43aa72cb-85a8-31c7-90b4-e78b06d33d6e",
+    "Watchlist|4fdfa99e-e08f-3e1a-8dca-b5440d5b953e",
+    "AI|58042c2e-38ea-3e2f-8486-8eaa89a39db7",
+    "SG Banks|/companies-markets/elon-musks-business-empire-tesla-spacex-and-all-braces-impact-after-us-midterms",
+    "Watchlist|58042c2e-38ea-3e2f-8486-8eaa89a39db7",
+    "Watchlist|/companies-markets/elon-musks-business-empire-tesla-spacex-and-all-braces-impact-after-us-midterms",
+    "War|d83f286c-34fa-33e8-ba39-9b58f9c46877",
+    "War|1207e674-7f24-3e75-a2e0-d4a7f694ec11",
+    "AI|92a71e01-c565-3e0b-a70f-eaad6858bbb0",
+    "AI|3b9e2da1-920f-3209-9197-724978ef1cb8",
+    "AI|20859727-b3c8-33d1-9489-84c998a38fa1",
+    "Watchlist|92a71e01-c565-3e0b-a70f-eaad6858bbb0",
+    "Watchlist|3b9e2da1-920f-3209-9197-724978ef1cb8",
+    "Watchlist|20859727-b3c8-33d1-9489-84c998a38fa1",
+    "AI|82b0ed01-e44f-3b67-90b7-a92f9ebcfb3d",
+    "Watchlist|82b0ed01-e44f-3b67-90b7-a92f9ebcfb3d",
+    "War|WP-MKTW-0005326563",
+    "AI|WP-MKTW-0005326563",
+    "Cybersecurity|WP-MKTW-0005326563",
+    "Crypto|1e6509ce-4790-321c-9862-e2216fe77f8f",
+    "War|https://www.investing.com/news/commodities-news/has-the-global-oil-market-returned-to-surplus-jpmorgan-thinks-so-5000230",
+    "AI|https://www.investing.com/news/analyst-ratings/stifel-lowers-tetra-technologies-stock-price-target-on-valuation-93CH-5000241",
+    "AI|https://www.investing.com/news/company-news/disco-q3-fy26-slides-profitability-milestone-amid-ai-momentum-93CH-5000242",
+    "AI|https://www.investing.com/news/analyst-ratings/clarivate-stock-gains-on-positive-growth-outlook-from-stifel-93CH-5000243",
+    "AI|https://www.investing.com/news/earnings/encore-capital-set-to-report-earnings-as-margin-questions-loom-93CH-5000244",
+    "AI|https://www.investing.com/news/analyst-ratings/stifel-reiterates-buy-on-newamsterdam-pharma-stock-50-target-93CH-5000245",
+    "AI|https://www.investing.com/news/analyst-ratings/stifel-raises-sprout-social-stock-price-target-on-margin-outlook-93CH-5000247",
+    "AI|https://www.investing.com/news/analyst-ratings/stifel-raises-revvity-stock-price-target-to-177-on-ai-demand-93CH-5000246",
+    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-banco-santanderchile-q3-2026-misses-estimates-93CH-5000248",
+    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-aquestive-therapeutics-misses-q3-2026-estimates-93CH-5000249",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-citigroup-stock-gaining-today-93CH-5000192",
+    "AI|https://www.investing.com/news/stock-market-news/amprius-technologies-stock-may-move-11-on-nov-11-earnings-93CH-5000199",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-alphabet-stock-surging-today-93CH-5000209",
+    "AI|https://www.investing.com/news/stock-market-news/rum-group-stock-may-move-61-on-nov-11-earnings-report-93CH-5000216",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-qualcomm-stock-surging-today-93CH-5000223",
+    "AI|https://www.investing.com/news/stock-market-news/asmpt-shelves-plan-to-sell-smt-solutions-business--bloomberg-93CH-5000229",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-datadog-stock-sliding-today-93CH-5000233",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-walmart-stock-rallying-today-93CH-5000240",
+    "AI|https://www.investing.com/news/company-news/brookfield-renewable-q3-2026-slides-ffo-surges-15-on-growth-93CH-5000190",
+    "AI|https://www.investing.com/news/company-news/syndax-pharmaceuticals-stock-hits-52week-low-at-1279-usd-93CH-5000195",
+    "AI|https://www.investing.com/news/company-news/array-shoals-q3-2026-slides-merger-to-unlock-100m-synergies-93CH-5000200",
+    "AI|https://www.investing.com/news/company-news/structure-therapeutics-stock-hits-52week-low-at-2028-93CH-5000215",
+    "AI|https://www.investing.com/news/company-news/vishay-q3-2026-slides-record-revenue-255-margin-expansion-93CH-5000220",
+    "AI|https://www.investing.com/news/company-news/neuronetics-q3-2026-slides-margins-expand-as-profitability-nears-93CH-5000221",
+    "AI|https://www.investing.com/news/company-news/kmts-stock-hits-alltime-high-at-3109-usd-93CH-5000227",
+    "AI|https://www.investing.com/news/company-news/globale-online-stock-hits-52week-high-at-4402-usd-93CH-5000237",
+    "AI|https://www.investing.com/news/company-news/sixth-street-q3-2026-slides-steady-earnings-declining-nav-93CH-5000239",
+    "Cybersecurity|https://www.investing.com/news/analyst-ratings/stifel-lowers-tetra-technologies-stock-price-target-on-valuation-93CH-5000241",
+    "Cybersecurity|https://www.investing.com/news/company-news/disco-q3-fy26-slides-profitability-milestone-amid-ai-momentum-93CH-5000242",
+    "Cybersecurity|https://www.investing.com/news/analyst-ratings/clarivate-stock-gains-on-positive-growth-outlook-from-stifel-93CH-5000243",
+    "Cybersecurity|https://www.investing.com/news/earnings/encore-capital-set-to-report-earnings-as-margin-questions-loom-93CH-5000244",
+    "Cybersecurity|https://www.investing.com/news/analyst-ratings/stifel-reiterates-buy-on-newamsterdam-pharma-stock-50-target-93CH-5000245",
+    "Cybersecurity|https://www.investing.com/news/analyst-ratings/stifel-raises-sprout-social-stock-price-target-on-margin-outlook-93CH-5000247",
+    "Cybersecurity|https://www.investing.com/news/analyst-ratings/stifel-raises-revvity-stock-price-target-to-177-on-ai-demand-93CH-5000246",
+    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-banco-santanderchile-q3-2026-misses-estimates-93CH-5000248",
+    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-aquestive-therapeutics-misses-q3-2026-estimates-93CH-5000249",
+    "Cybersecurity|https://www.investing.com/news/company-news/brookfield-renewable-q3-2026-slides-ffo-surges-15-on-growth-93CH-5000190",
+    "Cybersecurity|https://www.investing.com/news/company-news/syndax-pharmaceuticals-stock-hits-52week-low-at-1279-usd-93CH-5000195",
+    "Cybersecurity|https://www.investing.com/news/company-news/array-shoals-q3-2026-slides-merger-to-unlock-100m-synergies-93CH-5000200",
+    "Cybersecurity|https://www.investing.com/news/company-news/structure-therapeutics-stock-hits-52week-low-at-2028-93CH-5000215",
+    "Cybersecurity|https://www.investing.com/news/company-news/vishay-q3-2026-slides-record-revenue-255-margin-expansion-93CH-5000220",
+    "Cybersecurity|https://www.investing.com/news/company-news/neuronetics-q3-2026-slides-margins-expand-as-profitability-nears-93CH-5000221",
+    "Cybersecurity|https://www.investing.com/news/company-news/kmts-stock-hits-alltime-high-at-3109-usd-93CH-5000227",
+    "Cybersecurity|https://www.investing.com/news/company-news/globale-online-stock-hits-52week-high-at-4402-usd-93CH-5000237",
+    "Cybersecurity|https://www.investing.com/news/company-news/sixth-street-q3-2026-slides-steady-earnings-declining-nav-93CH-5000239",
+    "SG Banks|https://www.investing.com/news/analyst-ratings/stifel-lowers-tetra-technologies-stock-price-target-on-valuation-93CH-5000241",
+    "SG Banks|https://www.investing.com/news/company-news/disco-q3-fy26-slides-profitability-milestone-amid-ai-momentum-93CH-5000242",
+    "SG Banks|https://www.investing.com/news/analyst-ratings/clarivate-stock-gains-on-positive-growth-outlook-from-stifel-93CH-5000243",
+    "SG Banks|https://www.investing.com/news/earnings/encore-capital-set-to-report-earnings-as-margin-questions-loom-93CH-5000244",
+    "SG Banks|https://www.investing.com/news/analyst-ratings/stifel-reiterates-buy-on-newamsterdam-pharma-stock-50-target-93CH-5000245",
+    "SG Banks|https://www.investing.com/news/analyst-ratings/stifel-raises-sprout-social-stock-price-target-on-margin-outlook-93CH-5000247",
+    "SG Banks|https://www.investing.com/news/analyst-ratings/stifel-raises-revvity-stock-price-target-to-177-on-ai-demand-93CH-5000246",
+    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-banco-santanderchile-q3-2026-misses-estimates-93CH-5000248",
+    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-aquestive-therapeutics-misses-q3-2026-estimates-93CH-5000249",
+    "Watchlist|https://www.investing.com/news/analyst-ratings/stifel-lowers-tetra-technologies-stock-price-target-on-valuation-93CH-5000241",
+    "Watchlist|https://www.investing.com/news/company-news/disco-q3-fy26-slides-profitability-milestone-amid-ai-momentum-93CH-5000242",
+    "Watchlist|https://www.investing.com/news/analyst-ratings/clarivate-stock-gains-on-positive-growth-outlook-from-stifel-93CH-5000243",
+    "Watchlist|https://www.investing.com/news/earnings/encore-capital-set-to-report-earnings-as-margin-questions-loom-93CH-5000244",
+    "Watchlist|https://www.investing.com/news/analyst-ratings/stifel-reiterates-buy-on-newamsterdam-pharma-stock-50-target-93CH-5000245",
+    "Watchlist|https://www.investing.com/news/analyst-ratings/stifel-raises-sprout-social-stock-price-target-on-margin-outlook-93CH-5000247",
+    "Watchlist|https://www.investing.com/news/analyst-ratings/stifel-raises-revvity-stock-price-target-to-177-on-ai-demand-93CH-5000246",
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-banco-santanderchile-q3-2026-misses-estimates-93CH-5000248",
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-aquestive-therapeutics-misses-q3-2026-estimates-93CH-5000249",
+    "SG Banks|/companies-markets/us-stocks-set-higher-open-ai-trade-steadies-midterms-focus",
+    "SG Banks|/companies-markets/capital-markets-currencies/sp-500-nasdaq-open-higher-oil-prices-extend-declines-midterms-tap",
+    "Watchlist|/companies-markets/us-stocks-set-higher-open-ai-trade-steadies-midterms-focus",
+    "Watchlist|/companies-markets/capital-markets-currencies/sp-500-nasdaq-open-higher-oil-prices-extend-declines-midterms-tap",
+    "AI|a4d1d251-da9d-4f0b-9af9-dcf4dbe352c2",
+    "Watchlist|a4d1d251-da9d-4f0b-9af9-dcf4dbe352c2",
+    "War|441a3903-c8df-449b-8425-aa03f0270256",
+    "AI|441a3903-c8df-449b-8425-aa03f0270256",
+    "Crypto|8f8af67f-c3bb-3a05-96e3-f2ed83082868",
+    "Crypto|9b3b0bf5-01f0-3c24-ad58-77f5662a4e8f",
+    "Watchlist|441a3903-c8df-449b-8425-aa03f0270256",
+    "AI|85ffe06b-b488-38c4-9fdd-389b291baa84",
+    "Watchlist|85ffe06b-b488-38c4-9fdd-389b291baa84",
+    "AI|f01562a2-61e4-3a29-98d5-cc465a05e4de",
+    "AI|e8824105-c1f5-340a-9632-df31f68fbdda"
   ],
   "topic_error": "",
   "last_digest": "2026-11-04",
   "earnings": {
     "AMD": {
-      "ts": 1793739600,
-      "fetched": 1793719021.9000313
+      "ts": 1801602000,
+      "fetched": 1793805434.10427
     },
     "NVDA": {
       "ts": 1794949200,
-      "fetched": 1793719021.9000313
+      "fetched": 1793805434.10427
     },
     "CRWD": {
       "ts": 1796158800,
-      "fetched": 1793719021.9000313
+      "fetched": 1793805434.10427
     },
     "MSFT": {
       "ts": 1801083600,
-      "fetched": 1793719021.9000313
+      "fetched": 1793805434.10427
     },
     "INTU": {
       "ts": 1795122000,
-      "fetched": 1793719021.9000313
+      "fetched": 1793805434.10427
     },
     "BRK-B": {
       "ts": 1794085200,
-      "fetched": 1793719021.9000313
+      "fetched": 1793805434.10427
     },
     "AMZN": {
       "ts": 1793304000,
-      "fetched": 1793719021.9000313
+      "fetched": 1793805434.10427
     },
     "GOOG": {
       "ts": 1793217600,
-      "fetched": 1793719021.9000313
+      "fetched": 1793805434.10427
     },
     "ZTS": {
       "ts": 1793885400,
-      "fetched": 1793719021.9000313
+      "fetched": 1793805434.10427
     },
     "LIN": {
       "ts": 1793277000,
-      "fetched": 1793719021.9000313
+      "fetched": 1793805434.10427
     },
     "VLO": {
       "ts": 1801143000,
-      "fetched": 1793719021.9000313
+      "fetched": 1793805434.10427
     },
     "D05.SI": {
       "ts": 1793869200,
-      "fetched": 1793719021.9000313
+      "fetched": 1793805434.10427
     },
     "O39.SI": {
       "ts": 1793955600,
-      "fetched": 1793719021.9000313
+      "fetched": 1793805434.10427
     },
     "U11.SI": {
       "ts": 1793782800,
-      "fetched": 1793719021.9000313
+      "fetched": 1793805434.10427
     },
     "A17U.SI": {
       "ts": 1785920400,
-      "fetched": 1793719021.9000313
+      "fetched": 1793805434.10427
     },
     "HMN.SI": {
       "ts": null,
-      "fetched": 1793719021.9000313
+      "fetched": 1793805434.10427
     },
     "JYEU.SI": {
       "ts": null,
-      "fetched": 1793719021.9000313
+      "fetched": 1793805434.10427
     }
   },
   "earnings_notified": [
@@ -5086,7 +5086,7 @@
     "ZTS|2026-11-05",
     "O39.SI|2026-11-06"
   ],
-  "last_check": 1793805244.8072655,
+  "last_check": 1793806161.884036,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-04"
