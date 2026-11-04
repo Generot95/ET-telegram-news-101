@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/geberit-maintains-2026-outlook-as-ninemonth-sales-edge-above-estimates-4993643",
-    "AI|https://www.investing.com/news/company-news/startrader-spotlights-anthusd-preipo-cfd-as-anthropic-files-to-list-on-nasdaq-4993634",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-petrochina-stock-sliding-today-93CH-4993641",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-true-corp-posts-record-q3-2026-profit-lifts-dividend-93CH-4993642",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/gold-in-oversold-freefall-tests-key-support-live-levels-93CH-4990025",
     "Cybersecurity|https://www.investing.com/news/commodities-news/crude-oil-wti-consolidates-at-cloud-support-near-101-live-93CH-4990026",
     "Cybersecurity|https://www.investing.com/news/company-news/startrader-spotlights-anthusd-preipo-cfd-as-anthropic-files-to-list-on-nasdaq-4993634",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-petrochina-stock-sliding-today-93CH-4993641",
@@ -5000,7 +4995,12 @@
     "Watchlist|eeaef306-c13e-3f06-934e-efe88c468cd8",
     "Watchlist|059c6d71-1b6f-3b3e-9f3e-e731c8e81a67",
     "Watchlist|31cdf09b-e2ae-3a4a-8e6a-7d35667898ab",
-    "SG Banks|/companies-markets/banking-finance/hedge-funds-flag-growing-private-credit-risks-amid-rising-rates"
+    "SG Banks|/companies-markets/banking-finance/hedge-funds-flag-growing-private-credit-risks-amid-rising-rates",
+    "Watchlist|/companies-markets/banking-finance/hedge-funds-flag-growing-private-credit-risks-amid-rising-rates",
+    "SG Banks|https://www.straitstimes.com/business/crypto-dips-on-democrat-midterm-wins-binance-hacks-dent-optimism",
+    "SG Banks|/companies-markets/hsbc-jp-morgan-mufg-socgen-stanchart-collaborate-boost-infrastructure-tokenised-financial-markets",
+    "Watchlist|/companies-markets/hsbc-jp-morgan-mufg-socgen-stanchart-collaborate-boost-infrastructure-tokenised-financial-markets",
+    "War|24adbcc7-81d1-4c43-b8d0-f34ad1a20c4f"
   ],
   "topic_error": "",
   "last_digest": "2026-11-04",
@@ -5086,7 +5086,7 @@
     "ZTS|2026-11-05",
     "O39.SI|2026-11-06"
   ],
-  "last_check": 1793779472.8100994,
+  "last_check": 1793780367.0342956,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-03"
