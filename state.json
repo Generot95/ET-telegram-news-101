@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/earnings/otter-tail-earnings-missed-by-009-revenue-fell-short-of-estimates-4993375",
-    "Watchlist|https://www.investing.com/news/company-news/lg-energy-solution-q3-2026-slides-ess-surge-drives-revenue-beat-93CH-4993376",
     "Watchlist|https://www.investing.com/news/earnings/site-centers-earnings-matched-revenue-fell-short-of-estimates-4993377",
     "Watchlist|https://www.investing.com/news/earnings/tactile-systems-earnings-beat-by-002-revenue-fell-short-of-estimates-4993378",
     "Watchlist|https://www.investing.com/news/earnings/douglas-dynamics-earnings-beat-by-006-revenue-fell-short-of-estimates-4993379",
@@ -5000,7 +4998,9 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/jetblue-chief-digital--tech-officer-sells-5920-in-stock-93CH-4997306",
     "Watchlist|https://www.investing.com/news/insider-trading-news/playboy-director-10-owner-fig-buyer-gp-sells-5-million-in-stock-93CH-4997307",
     "Watchlist|https://www.investing.com/news/insider-trading-news/drawbridge-special-opportunities-fund-sells-5-million-in-playboy-shares-93CH-4997308",
-    "Watchlist|https://www.investing.com/news/stock-market-news/toyota-secondquarter-profit-seen-climbing-18-first-increase-in-six-quarters-4997297"
+    "Watchlist|https://www.investing.com/news/stock-market-news/toyota-secondquarter-profit-seen-climbing-18-first-increase-in-six-quarters-4997297",
+    "AI|46b6dc06-cf6b-367b-a9fa-ebca3dccad3d",
+    "Watchlist|46b6dc06-cf6b-367b-a9fa-ebca3dccad3d"
   ],
   "topic_error": "",
   "last_digest": "2026-11-04",
@@ -5086,7 +5086,7 @@
     "ZTS|2026-11-05",
     "O39.SI|2026-11-06"
   ],
-  "last_check": 1793768424.1791768,
+  "last_check": 1793769353.0812144,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-03"
