@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/gilead-sciences-ceo-daniel-oday-sells-53m-in-shares-93CH-4993300",
-    "Watchlist|https://www.investing.com/news/economy-news/china-to-raise-forex-deposit-reserve-ratio-to-6-starting-november-15-4993312",
-    "Watchlist|https://www.investing.com/news/stock-market-news/us-stock-futures-steady-apple-dips-after-mixed-earnings-4993314",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-apple-stock-falling-afterhours-today-93CH-4993315",
     "SG Banks|https://www.channelnewsasia.com/business/anthropic-plans-australian-share-offer-in-ipo-commsec-says-6514811",
     "SG Banks|/companies-markets/consumer-healthcare/disney-eyes-thousands-layoffs-managers-asked-cut-20",
@@ -5000,7 +4997,10 @@
     "SG Banks|/companies-markets/consumer-healthcare/venture-builder-neosci-ventures-raises-s70-million-inaugural-biotech-fund",
     "SG Banks|https://www.straitstimes.com/business/asian-stocks-fall-after-us-losses-oil-holds-drop",
     "Watchlist|/companies-markets/consumer-healthcare/venture-builder-neosci-ventures-raises-s70-million-inaugural-biotech-fund",
-    "Watchlist|/companies-markets/banking-finance/north-korea-says-us-allegations-linking-it-binance-heist-are-absurd-rhetoric-kcna-says"
+    "Watchlist|/companies-markets/banking-finance/north-korea-says-us-allegations-linking-it-binance-heist-are-absurd-rhetoric-kcna-says",
+    "SG Banks|https://www.straitstimes.com/business/south-koreas-ai-darlings-become-big-casualty-of-us-midterm-vote",
+    "Iran|https://www.iranintl.com/en/202611047153",
+    "Watchlist|bc4fb829-1a5d-3a74-ad95-4f99191a4a19"
   ],
   "topic_error": "",
   "last_digest": "2026-11-04",
@@ -5086,7 +5086,7 @@
     "ZTS|2026-11-05",
     "O39.SI|2026-11-06"
   ],
-  "last_check": 1793764766.3432052,
+  "last_check": 1793765684.2204297,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-03"
