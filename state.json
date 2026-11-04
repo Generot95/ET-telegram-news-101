@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|/companies-markets/metrocon-chairman-steps-down-after-being-charged-over-unlicensed-worker-dormitory",
-    "AI|https://www.investing.com/news/company-news/atomo-q1-2027-slides-140-revenue-surge-new-partnerships-expand-pipeline-93CH-4993436",
-    "AI|https://www.investing.com/news/economy-news/japanese-korean-taiwanese-firms-us-investment-set-to-keep-climbing-citi-4993441",
-    "AI|https://www.investing.com/news/economy-news/rba-raises-interest-rates-to-2008-levels-sees-more-hikes-to-ward-off-inflation-4993442",
-    "Cybersecurity|https://www.investing.com/news/company-news/atomo-q1-2027-slides-140-revenue-surge-new-partnerships-expand-pipeline-93CH-4993436",
-    "Cybersecurity|https://www.investing.com/news/economy-news/japanese-korean-taiwanese-firms-us-investment-set-to-keep-climbing-citi-4993441",
-    "Cybersecurity|https://www.investing.com/news/economy-news/rba-raises-interest-rates-to-2008-levels-sees-more-hikes-to-ward-off-inflation-4993442",
-    "SG Banks|https://www.investing.com/news/company-news/atomo-q1-2027-slides-140-revenue-surge-new-partnerships-expand-pipeline-93CH-4993436",
     "SG Banks|https://www.investing.com/news/economy-news/japanese-korean-taiwanese-firms-us-investment-set-to-keep-climbing-citi-4993441",
     "SG Banks|https://www.investing.com/news/economy-news/rba-raises-interest-rates-to-2008-levels-sees-more-hikes-to-ward-off-inflation-4993442",
     "Watchlist|https://www.investing.com/news/company-news/atomo-q1-2027-slides-140-revenue-surge-new-partnerships-expand-pipeline-93CH-4993436",
@@ -5000,7 +4992,15 @@
     "Watchlist|0e9891f3-88b2-3275-9632-d7962bb5c578",
     "SG Banks|/companies-markets/energy-commodities/gold-climbs-back-one-year-low-dip-buyers-arrest-slide",
     "SG Banks|/companies-markets/metrocon-chairman-steps-down-after-being-charged-over-unlicensed-worker-dormitory",
-    "Watchlist|/companies-markets/energy-commodities/gold-climbs-back-one-year-low-dip-buyers-arrest-slide"
+    "Watchlist|/companies-markets/energy-commodities/gold-climbs-back-one-year-low-dip-buyers-arrest-slide",
+    "AI|e2e05051-fd01-3f09-9512-758a26d9e6e3",
+    "Watchlist|e2e05051-fd01-3f09-9512-758a26d9e6e3",
+    "Watchlist|/companies-markets/metrocon-chairman-steps-down-after-being-charged-over-unlicensed-worker-dormitory",
+    "AI|ba965eb9-280d-36bc-ba5f-386a773b553a",
+    "Watchlist|ba965eb9-280d-36bc-ba5f-386a773b553a",
+    "SG Banks|https://www.channelnewsasia.com/east-asia/china-apple-artificial-intelligence-developers-6522361",
+    "SG Banks|/companies-markets/manulife-us-reit-prioritises-debt-extensions-seeks-lender-waivers-exit-restructuring",
+    "Watchlist|/companies-markets/manulife-us-reit-prioritises-debt-extensions-seeks-lender-waivers-exit-restructuring"
   ],
   "topic_error": "",
   "last_digest": "2026-11-04",
@@ -5086,7 +5086,7 @@
     "ZTS|2026-11-05",
     "O39.SI|2026-11-06"
   ],
-  "last_check": 1793772108.5393503,
+  "last_check": 1793773031.8057127,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-03"
