@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Iran|https://www.iranintl.com/en/202611029934",
-    "Iran|https://www.iranintl.com/en/202611030117",
-    "AI|17f57e5d-c1cb-310e-8828-8d1d4d552f87",
-    "SG Banks|/companies-markets/alpha-integrated-reit-ceo-karen-lee-steps-down",
-    "Watchlist|17f57e5d-c1cb-310e-8828-8d1d4d552f87",
-    "Watchlist|/companies-markets/alpha-integrated-reit-ceo-karen-lee-steps-down",
-    "Watchlist|e31026b4-b1d4-3a18-be77-448573e4b26e",
-    "AI|77877947-3f7c-35f4-abac-eeb8a45ed951",
-    "Watchlist|77877947-3f7c-35f4-abac-eeb8a45ed951",
-    "AI|1b7a6506-c563-3311-b84e-a83901bbc6d1",
-    "Watchlist|1b7a6506-c563-3311-b84e-a83901bbc6d1",
     "AI|6b98fa9b-7fa2-3135-9dab-1349b2de4c61",
     "Watchlist|6b98fa9b-7fa2-3135-9dab-1349b2de4c61",
     "Watchlist|9cf2ed42-4c1c-3563-885f-58997f7e21b6",
@@ -5000,7 +4989,18 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/natera-ceo-steven-chapman-sells-156-million-in-natera-common-stock-93CH-5002066",
     "Watchlist|https://www.investing.com/news/insider-trading-news/natera-executive-chairman-matthew-rabinowitz-sells-299214-in-shares-93CH-5002065",
     "Watchlist|https://www.investing.com/news/insider-trading-news/natera-cofounder-director-jonathan-sheena-sells-44796-in-shares-93CH-5002067",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-near-78k-as-democrats-sweep-midterm-elections-4997542"
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-near-78k-as-democrats-sweep-midterm-elections-4997542",
+    "SG Banks|/companies-markets/george-yeo-adds-100000-wilmar-shares-s2-97-apiece-taking-stake-over-1-million-shares",
+    "Watchlist|/companies-markets/george-yeo-adds-100000-wilmar-shares-s2-97-apiece-taking-stake-over-1-million-shares",
+    "Iran|https://www.iranintl.com/en/202611029934",
+    "Iran|https://www.iranintl.com/en/202611030117",
+    "AI|21fcf7e5-17bd-3eb9-957d-624c20c1a702",
+    "Watchlist|21fcf7e5-17bd-3eb9-957d-624c20c1a702",
+    "War|21fcf7e5-17bd-3eb9-957d-624c20c1a702",
+    "War|4be94d43-722e-38cc-a4db-c6f02fcd21ab",
+    "Crypto|2865c067-be1b-3efb-98f0-27d0ce9534f9",
+    "SG Banks|/companies-markets/banking-finance/prudential-posts-slight-rise-third-quarter-new-business-profit",
+    "Watchlist|/companies-markets/banking-finance/prudential-posts-slight-rise-third-quarter-new-business-profit"
   ],
   "topic_error": "",
   "last_digest": "2026-11-05",
@@ -5086,7 +5086,7 @@
     "ZTS|2026-11-05",
     "O39.SI|2026-11-06"
   ],
-  "last_check": 1793847481.37759,
+  "last_check": 1793848391.871477,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-04"
