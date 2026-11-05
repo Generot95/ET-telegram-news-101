@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/economy-news/hakeem-jeffries-poised-to-become-speaker-of-us-house-of-representatives-4997462",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-enil-q2-2027-revenue-falls-as-ebitda-improves-93CH-4997464",
-    "SG Banks|https://www.investing.com/news/company-news/power-grid-q2-fy27-slides-capex-raised-capitalization-surges-139-93CH-4997467",
-    "SG Banks|https://www.investing.com/news/company-news/aarti-drugs-q2-fy27-slides-record-revenue-margins-hit-6year-high-93CH-4997468",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/piper-sandler-reiterates-apollo-global-stock-rating-on-growth-outlook-93CH-4997469",
     "SG Banks|https://www.investing.com/news/earnings/barry-callebaut-misses-revenue-estimates-as-cocoa-prices-fall-debt-drops-42-4997472",
     "SG Banks|https://www.investing.com/news/company-news/samhi-hotels-q2-fy2027-slides-samestore-growth-tops-guidance-93CH-4997473",
     "SG Banks|https://www.investing.com/news/analyst-ratings/morgan-stanley-downgrades-flagstar-bank-stock-rating-on-earnings-outlook-93CH-4997474",
@@ -5000,7 +4995,12 @@
     "SG Banks|https://www.straitstimes.com/business/china-to-raise-fx-reserve-requirement-to-slow-yuans-rally",
     "SG Banks|https://www.straitstimes.com/business/bitcoin-slides-as-democratic-sweep-bets-threaten-crypto-agenda",
     "Watchlist|/companies-markets/banking-finance/australias-central-bank-lifts-rates-18-year-high-4-85",
-    "Watchlist|/companies-markets/uob-cuts-2026-margin-guidance-funding-costs-rise-q3-profit-rebounds-s1-25-billion"
+    "Watchlist|/companies-markets/uob-cuts-2026-margin-guidance-funding-costs-rise-q3-profit-rebounds-s1-25-billion",
+    "Crypto|81e3e892-e00f-365e-928f-c060e955142a",
+    "War|d9e7f324-0a80-314f-88c9-b97f1f8603f6",
+    "SG Banks|https://www.straitstimes.com/business/visa-sets-up-6-global-tech-hubs-in-singapore-with-1500-staff-at-new-paya-lebar-centre",
+    "AI|09ea91bb-6a21-395b-ab75-eb93356eba56",
+    "Watchlist|09ea91bb-6a21-395b-ab75-eb93356eba56"
   ],
   "topic_error": "",
   "last_digest": "2026-11-05",
@@ -5086,7 +5086,7 @@
     "ZTS|2026-11-05",
     "O39.SI|2026-11-06"
   ],
-  "last_check": 1793843820.1999745,
+  "last_check": 1793844727.6082263,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-04"
