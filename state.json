@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/btig-raises-one-gas-stock-price-target-to-95-on-growth-outlook-93CH-4998251",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/evercore-isi-maintains-cvs-health-stock-rating-amid-spinoff-reports-93CH-4998254",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/mizuho-reiterates-cvs-health-stock-rating-amid-spinoff-reports-93CH-4998253",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/cvs-health-stock-holds-buy-rating-at-td-cowen-on-retail-spin-report-93CH-4998256",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/btig-raises-flywire-stock-price-target-to-22-on-strong-results-93CH-4998255",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-cvs-health-stock-sliding-today-93CH-4998257",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-adtraction-tops-growth-target-in-q3-2026-as-stock-jumps-93CH-4998259",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-geo-group-stock-sliding-6-today-93CH-4998262",
-    "Cybersecurity|https://www.investing.com/news/company-news/marks--spencer-h1-2026-slides-profit-doubles-on-food-strength-93CH-4998226",
     "Cybersecurity|https://www.investing.com/news/company-news/saregama-q2-fy27-slides-music-margins-expand-as-catalog-matures-93CH-4998247",
     "SG Banks|https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-cvs-health-stock-rating-ahead-of-earnings-93CH-4998252",
     "SG Banks|https://www.investing.com/news/analyst-ratings/btig-raises-one-gas-stock-price-target-to-95-on-growth-outlook-93CH-4998251",
@@ -5000,7 +4991,16 @@
     "Iran|https://www.iranintl.com/en/202611042988",
     "AI|ce7871b5-afd8-3582-b2bb-fbc191f406af",
     "SG Banks|/companies-markets/mas-future-finance-institute-starts-operations-ai-focus-names-interim-ceo",
-    "Watchlist|ce7871b5-afd8-3582-b2bb-fbc191f406af"
+    "Watchlist|ce7871b5-afd8-3582-b2bb-fbc191f406af",
+    "AI|599cf51e-4b10-35ad-b0c1-5a4f9435c04f",
+    "AI|ae88736a-56d7-30dc-ab8b-362efea3ed41",
+    "Watchlist|599cf51e-4b10-35ad-b0c1-5a4f9435c04f",
+    "Watchlist|ae88736a-56d7-30dc-ab8b-362efea3ed41",
+    "AI|a4ddaf9e-7e07-34a6-bd80-52f60618069e",
+    "Watchlist|a4ddaf9e-7e07-34a6-bd80-52f60618069e",
+    "War|974371ad-95fa-34f6-9578-ef8bfb25bec5",
+    "AI|4e8d1a90-cc00-3379-8092-16909143f81c",
+    "Watchlist|4e8d1a90-cc00-3379-8092-16909143f81c"
   ],
   "topic_error": "",
   "last_digest": "2026-11-05",
@@ -5086,7 +5086,7 @@
     "ZTS|2026-11-05",
     "O39.SI|2026-11-06"
   ],
-  "last_check": 1793866754.7205722,
+  "last_check": 1793867658.6595252,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-04"
