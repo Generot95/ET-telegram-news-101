@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-lancashire-holdings-lifts-dividend-sees-highteens-roe-in-q3-2026-93CH-4997823",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/mizuho-reiterates-toast-stock-rating-citing-strong-market-position-93CH-4997825",
-    "Cybersecurity|https://www.investing.com/news/company-news/alfen-q3-2026-slides-margin-gains-offset-revenue-dip-guidance-intact-93CH-4997834",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-ctt-correios-de-portugal-stock-plunging-today-93CH-4997835",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/visa-ceo-ryan-mcinerney-sells-245-million-in-company-stock-93CH-4997837",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/us-stock-futures-steady-with-midterms-in-focus-amd-rallies-on-strong-earnings-4997029",
-    "Cybersecurity|https://www.investing.com/news/company-news/aker-q3-2026-slides-nav-hits-record-on-energy-ai-gains-93CH-4997747",
-    "Cybersecurity|https://www.investing.com/news/company-news/primexbt-launches-aiassisted-trading-with-mcp-integration-connecting-chatgpt-and-claude-to-trading-accounts-4997787",
     "SG Banks|https://www.investing.com/news/economy-news/euro-zone-economic-growth-slows-to-fourmonth-low-in-october-pmi-shows-4997820",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-space-exploration-technologies-stock-falling-today-93CH-4997821",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-turkish-airlines-stock-surging-today-93CH-4997822",
@@ -5000,7 +4992,15 @@
     "Watchlist|https://www.investing.com/news/analyst-ratings/td-cowen-cuts-enerflex-stock-rating-on-texas-permitting-concerns-93CH-5002250",
     "Watchlist|https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-expedia-stock-price-target-on-solid-q3-results-93CH-5002254",
     "Watchlist|https://www.investing.com/news/economy-news/morning-bid-goldilocks-or-gridlock-5002256",
-    "Watchlist|https://www.investing.com/news/stock-market-news/microsoft-declines-nscale-texas-expansion-ahead-of-35-bln-ipo--report-5002260"
+    "Watchlist|https://www.investing.com/news/stock-market-news/microsoft-declines-nscale-texas-expansion-ahead-of-35-bln-ipo--report-5002260",
+    "AI|86e9cd24-3e9f-33f8-b4e6-98274658142a",
+    "Watchlist|86e9cd24-3e9f-33f8-b4e6-98274658142a",
+    "SG Banks|/companies-markets/visa-sets-six-global-tech-hubs-singapore-1500-staff-new-paya-lebar-centre",
+    "Watchlist|/companies-markets/visa-sets-six-global-tech-hubs-singapore-1500-staff-new-paya-lebar-centre",
+    "SG Banks|https://www.channelnewsasia.com/business/ai-sharpens-cat-and-mouse-hacking-battle-companies-strengthen-defences-6526661",
+    "AI|https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-328-5002268",
+    "AI|https://www.investing.com/news/stock-market-news/ai-sharpens-catandmouse-hacking-battle-as-companies-strengthen-defences-5002290",
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-firms-to-805k-as-us-elections-buoy-risk-appetite-but-outlook-unclear-5002271"
   ],
   "topic_error": "",
   "last_digest": "2026-11-05",
@@ -5086,7 +5086,7 @@
     "ZTS|2026-11-05",
     "O39.SI|2026-11-06"
   ],
-  "last_check": 1793858483.1992998,
+  "last_check": 1793859438.2604284,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-04"
