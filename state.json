@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/citizens-raises-mirum-pharmaceuticals-price-target-on-pipeline-progress-93CH-4998111",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/wells-fargo-cuts-pennymac-mortgage-investment-trust-price-target-to-9-93CH-4998113",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/citizens-raises-hagerty-stock-price-target-on-growth-and-margins-93CH-4998112",
-    "Cybersecurity|https://www.investing.com/news/economic-indicators/eurozone-october-inflation-accelerates-to-4-as-energy-costs-jump-4998115",
-    "Cybersecurity|https://www.investing.com/news/company-news/cleanmax-q2-fy27-slides-ebitda-surges-56-data-center-demand-accelerates-93CH-4998114",
-    "Cybersecurity|https://www.investing.com/news/company-news/trainline-h1-fy2027-slides-international-turns-profitable-amid-uk-headwinds-93CH-4998116",
     "Cybersecurity|https://www.investing.com/news/company-news/link-mobility-q3-2026-slides-organic-growth-returns-to-high-single-digits-93CH-4998117",
     "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-ctt-q3-2026-profit-pressure-sends-shares-lower-93CH-4998118",
     "Cybersecurity|https://www.investing.com/news/company-news/evonile-pharma-q2-fy27-slides-transition-costs-hit-results-93CH-4998045",
@@ -5000,7 +4994,13 @@
     "Watchlist|https://www.investing.com/news/analyst-ratings/morgan-stanley-upgrades-afya-stock-rating-on-valuation-despite-merger-concerns-93CH-5002387",
     "Watchlist|https://www.investing.com/news/commodities-news/natural-gas-consolidates-near-618-fib-with-bear-flag-live-levels-93CH-4990030",
     "Watchlist|https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-key-support-in-descending-channel-live-levels-93CH-4990035",
-    "Watchlist|https://www.investing.com/news/economic-indicators/german-industrial-orders-rise-44-in-september-5002389"
+    "Watchlist|https://www.investing.com/news/economic-indicators/german-industrial-orders-rise-44-in-september-5002389",
+    "War|447738e4-ea6b-369f-bd36-f5cac9124a49",
+    "Watchlist|5da66bb0-4ed4-3c57-9674-2e0fe4d7af40",
+    "War|1e20659d-edc9-3005-b90e-abb8121c3c3e",
+    "Crypto|3a73e9e3-c4e1-3216-bed9-743be23f0ab5",
+    "AI|e5fae967-ffbe-38b0-a468-49c15716d5d1",
+    "Watchlist|e5fae967-ffbe-38b0-a468-49c15716d5d1"
   ],
   "topic_error": "",
   "last_digest": "2026-11-05",
@@ -5086,7 +5086,7 @@
     "ZTS|2026-11-05",
     "O39.SI|2026-11-06"
   ],
-  "last_check": 1793863097.886402,
+  "last_check": 1793864007.0910873,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-04"
