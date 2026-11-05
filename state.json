@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/commodities-news/panama-canal-to-name-shortlisted-bidders-for-terminal-project-by-yearend-5000786",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-vermilion-energy-stock-tumbling-today-93CH-5001098",
-    "Crypto|df2020aa-a07a-3a4f-86f0-1c54634aab2b",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/northwest-european-diesel-margins-fall-over-4-on-oil-price-drop-93CH-5001084",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-canadian-natural-resources-stock-sliding-today-93CH-5001085",
-    "Cybersecurity|https://www.investing.com/news/company-news/darden-restaurants-stock-hits-alltime-high-at-2298-usd-93CH-5001086",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/rgc-resources-vp-miles-buys-99-in-company-stock-93CH-5001092",
-    "Cybersecurity|https://www.investing.com/news/company-news/fox-factory-promotes-troy-henige-to-chief-technology-officer-93CH-5001095",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/panama-canal-to-name-shortlisted-bidders-for-terminal-project-by-yearend-5000786",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-vermilion-energy-stock-tumbling-today-93CH-5001098",
     "SG Banks|https://www.investing.com/news/commodities-news/northwest-european-diesel-margins-fall-over-4-on-oil-price-drop-93CH-5001084",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-canadian-natural-resources-stock-sliding-today-93CH-5001085",
     "SG Banks|https://www.investing.com/news/company-news/darden-restaurants-stock-hits-alltime-high-at-2298-usd-93CH-5001086",
@@ -5000,7 +4990,17 @@
     "Crypto|657cabb8-0e0f-360c-aa67-214c94aa63c1",
     "Watchlist|657cabb8-0e0f-360c-aa67-214c94aa63c1",
     "AI|0a23472b-6c52-4072-806f-e46622a1a0db",
-    "Watchlist|0a23472b-6c52-4072-806f-e46622a1a0db"
+    "Watchlist|0a23472b-6c52-4072-806f-e46622a1a0db",
+    "War|WP-MKTW-0005330462",
+    "AI|WP-MKTW-0005330462",
+    "Crypto|0c6857f2-6bdd-3111-8a7b-350ff011c9b7",
+    "Cybersecurity|WP-MKTW-0005330462",
+    "Watchlist|97b56a63-e95e-3936-ba6f-86f76339a2dc",
+    "AI|97b56a63-e95e-3936-ba6f-86f76339a2dc",
+    "AI|ab9b3721-d0da-3f6c-9755-486bf40802dc",
+    "AI|02352986-28e6-34a9-a4da-c8b9208189ee",
+    "Cybersecurity|01246959-a9c1-3b31-a6c5-caa908b6705c",
+    "Watchlist|02352986-28e6-34a9-a4da-c8b9208189ee"
   ],
   "topic_error": "",
   "last_digest": "2026-11-05",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1793908056.5159707,
+  "last_check": 1793908981.8313699,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-05"
