@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Crypto|b24ec8f7-488a-3f77-8028-c08c6375712f",
-    "Crypto|7eceff1a-5b1c-3dc6-92da-ac924eebedfe",
-    "AI|https://www.investing.com/news/analyst-ratings/truist-raises-palomar-holdings-stock-price-target-on-earnings-growth-93CH-5005489",
-    "AI|https://www.investing.com/news/stock-market-news/teekay-corp-stock-may-move-59-on-upcoming-earnings-report-93CH-5005492",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-hertz-stock-crashing-today-93CH-5005496",
-    "AI|https://www.investing.com/news/stock-market-news/arm-holdings-earnings-analysis-questions-answered-and-next-catalysts-93CH-5005497",
-    "AI|https://www.investing.com/news/stock-market-news/dlocal-shares-may-move-12-on-nov-12-earnings-release-93CH-5005498",
-    "AI|https://www.investing.com/news/stock-market-news/snap-earnings-analysis-questions-answered-and-next-catalysts-93CH-5005499",
     "AI|https://www.investing.com/news/stock-market-news/coherent-earnings-analysis-questions-answered-and-next-catalysts-93CH-5005500",
     "AI|https://www.investing.com/news/stock-market-news/cisco-systems-options-suggest-79-stock-move-on-earnings-93CH-5005505",
     "AI|https://www.investing.com/news/stock-market-news/arrowhead-pharmaceuticals-options-signal-81-move-on-earnings-93CH-5005487",
@@ -5000,7 +4992,15 @@
     "Watchlist|https://www.investing.com/news/economy-news/paraguay-authorities-order-expresidents-arrest-after-impeachment-5009375",
     "Crypto|60ad36b8-5c6f-3e5b-b170-ce1ff4f21ee7",
     "AI|e4da963b-8882-39fc-98b6-ac2f98a5a472",
-    "Watchlist|e4da963b-8882-39fc-98b6-ac2f98a5a472"
+    "Watchlist|e4da963b-8882-39fc-98b6-ac2f98a5a472",
+    "AI|3956f9fa-4214-3746-ab58-5e9557c02b2c",
+    "SG Banks|https://www.channelnewsasia.com/world/tech-stocks-wall-street-ai-markets-6532311",
+    "Watchlist|3956f9fa-4214-3746-ab58-5e9557c02b2c",
+    "AI|58b63027-1188-314c-9a35-d2d124509f0f",
+    "SG Banks|https://www.channelnewsasia.com/business/openai-gets-11-billion-funding-125-trillion-valuation-source-says-6532301",
+    "Watchlist|e4791c09-9d68-3086-bf4a-06c7a179af8f",
+    "AI|0057559c-9015-3867-8876-2bf8224361c4",
+    "Watchlist|0057559c-9015-3867-8876-2bf8224361c4"
   ],
   "topic_error": "",
   "last_digest": "2026-11-06",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794006898.0591636,
+  "last_check": 1794007820.454057,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-06"
