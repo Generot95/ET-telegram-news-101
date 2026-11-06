@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/hub-group-stock-hits-52week-low-at-2497-usd-93CH-5005430",
-    "Cybersecurity|https://www.investing.com/news/company-news/netclass-technology-raises-12m-in-registered-direct-offering-93CH-5005441",
-    "Cybersecurity|https://www.investing.com/news/company-news/connectone-bancorp-inc-adr-stock-hits-alltime-high-at-2552-usd-93CH-5005442",
     "SG Banks|https://www.investing.com/news/stock-market-news/ai-freefall-triggers-another-major-hedge-fund-shakeout-5005449",
     "SG Banks|https://www.investing.com/news/analyst-ratings/raymond-james-raises-targa-resources-stock-price-target-on-permian-growth-93CH-5005453",
     "SG Banks|https://www.investing.com/news/analyst-ratings/mizuho-raises-cardinal-health-stock-price-target-on-strong-pharma-growth-93CH-5005454",
@@ -5000,7 +4997,10 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/sibone-ceo-laura-francis-sells-19-million-in-company-stock-93CH-5009344",
     "Watchlist|https://www.investing.com/news/sec-filings/auddia-announces-warrant-exchange-agreements-for-common-stock-on-nasdaq-93CH-5009345",
     "Watchlist|https://www.investing.com/news/sec-filings/tuhura-biosciences-draws-15-million-from-existing-revolving-credit-facility-93CH-5009347",
-    "Watchlist|https://www.investing.com/news/sec-filings/cvd-equipment-shareholders-elect-directors-and-approve-proposals-at-annual-meeting-93CH-5009350"
+    "Watchlist|https://www.investing.com/news/sec-filings/cvd-equipment-shareholders-elect-directors-and-approve-proposals-at-annual-meeting-93CH-5009350",
+    "SG Banks|https://www.channelnewsasia.com/business/wall-street-stocks-rally-after-heavy-ai-related-selloff-6529361",
+    "AI|184891a8-3c3b-3102-98fb-9b10a5ca6d91",
+    "Watchlist|184891a8-3c3b-3102-98fb-9b10a5ca6d91"
   ],
   "topic_error": "",
   "last_digest": "2026-11-06",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794005068.0792935,
+  "last_check": 1794005998.8388205,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-06"
