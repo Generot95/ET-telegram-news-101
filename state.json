@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-rsted-stock-climbing-today-93CH-5002563",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-harbour-energy-stock-sliding-today-93CH-5002564",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-ap-moeller--maersk-stock-tumbling-today-93CH-5002565",
-    "SG Banks|https://www.investing.com/news/stock-market-news/ambu-shares-jump-6-on-strong-q4-growth-upbeat-guidance-93CH-5002566",
     "SG Banks|https://www.investing.com/news/stock-market-news/ftse-100-touches-3month-high-as-bank-rally-preceding-boe-rate-decision-5002567",
     "SG Banks|https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-196-5002587",
     "SG Banks|https://www.investing.com/news/earnings/verbund-cuts-2026-outlook-on-low-water-supply-weak-prices-93CH-5002592",
@@ -5000,7 +4996,11 @@
     "Watchlist|https://www.investing.com/news/earnings/mitsubishi-heavy-raises-order-target-and-announces-first-buyback-93CH-5007066",
     "Iran|https://www.iranintl.com/en/202611042988",
     "SG Banks|/companies-markets/mas-future-finance-institute-starts-operations-ai-focus-names-interim-ceo",
-    "SG Banks|https://www.straitstimes.com/business/toyota-posts-profit-surge-and-lifts-annual-outlook-as-hybrid-sales-shine"
+    "SG Banks|https://www.straitstimes.com/business/toyota-posts-profit-surge-and-lifts-annual-outlook-as-hybrid-sales-shine",
+    "War|WP-MKTW-0005320729",
+    "AI|WP-MKTW-0005320729",
+    "Cybersecurity|WP-MKTW-0005320729",
+    "SG Banks|https://www.channelnewsasia.com/business/binance-63-billion-heist-prompt-closer-scrutiny-insurers-6530746"
   ],
   "topic_error": "",
   "last_digest": "2026-11-06",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1793959158.387447,
+  "last_check": 1793960066.9163427,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-05"
