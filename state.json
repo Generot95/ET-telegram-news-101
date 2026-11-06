@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|9e5d359d-95ef-3750-a106-0ca8fb210ad3",
-    "AI|https://www.investing.com/news/economy-news/oil-and-data-centre-stocks-sink-after-us-midterms-5002057",
-    "AI|https://www.investing.com/news/insider-trading-news/natera-cfo-michael-brophy-sells-313997-of-ntra-shares-93CH-5002059",
-    "AI|https://www.investing.com/news/insider-trading-news/nateras-president-chief-business-officer-sells-120804-in-stock-93CH-5002058",
-    "AI|https://www.investing.com/news/insider-trading-news/natera-chief-legal-officer-sells-136415-in-shares-93CH-5002060",
-    "AI|https://www.investing.com/news/insider-trading-news/natera-president-solomon-moshkevich-sells-14m-stock-93CH-5002061",
-    "AI|https://www.investing.com/news/insider-trading-news/natera-ceo-steven-chapman-sells-156-million-in-natera-common-stock-93CH-5002066",
     "AI|https://www.investing.com/news/insider-trading-news/natera-executive-chairman-matthew-rabinowitz-sells-299214-in-shares-93CH-5002065",
     "AI|https://www.investing.com/news/insider-trading-news/natera-cofounder-director-jonathan-sheena-sells-44796-in-shares-93CH-5002067",
     "Cybersecurity|https://www.investing.com/news/economy-news/oil-and-data-centre-stocks-sink-after-us-midterms-5002057",
@@ -5000,7 +4993,14 @@
     "Watchlist|WP-MKTW-0004179843",
     "Watchlist|WP-MKTW-0004255367",
     "War|c5c43419-4d14-360d-8c5b-8f1abd54d8a7",
-    "SG Banks|https://www.straitstimes.com/business/oracle-scraps-us7-billion-deal-to-lease-chips-to-tencent-ft-says"
+    "SG Banks|https://www.straitstimes.com/business/oracle-scraps-us7-billion-deal-to-lease-chips-to-tencent-ft-says",
+    "AI|3f49ed29-5cdb-3cf0-beea-fee2a2733227",
+    "Watchlist|3f49ed29-5cdb-3cf0-beea-fee2a2733227",
+    "SG Banks|https://www.channelnewsasia.com/business/sri-lanka-budget-faces-post-imf-test-energy-costs-bite-6530001",
+    "Watchlist|ffc74fc4-5364-31e8-aa6a-2eec4e204d2f",
+    "War|bd3d3f69-9553-3930-a1b2-023dfd6abbd3",
+    "AI|0645092a-9e74-39fd-a78a-31f48ff8bf7a",
+    "Watchlist|bd3d3f69-9553-3930-a1b2-023dfd6abbd3"
   ],
   "topic_error": "",
   "last_digest": "2026-11-06",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1793936248.8588216,
+  "last_check": 1793937178.5772245,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-05"
