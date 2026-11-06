@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/asian-chip-stocks-slide-as-disappointing-qualcomm-arm-earnings-weigh-5002173",
-    "Watchlist|https://www.investing.com/news/earnings/gold-royalty-earnings-beat-revenue-topped-estimates-5002174",
-    "Watchlist|https://www.investing.com/news/stock-market-news/rea-group-shares-rally-on-strong-q1-revenue-5002175",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-1018-of-gabelli-healthcare--wellnessrx-trust-93CH-5002181",
     "SG Banks|/companies-markets/hsbc-jpmorgan-mufg-socgen-stanchart-tie-boost-tokenised-financial-markets-infrastructure",
     "SG Banks|/companies-markets/energy-commodities/central-banks-buy-gold-fastest-pace-2024-wgc-says",
     "SG Banks|/companies-markets/estee-lauder-sees-sales-growth-through-2030-turnaround-plan-china-push",
@@ -5000,7 +4996,11 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/ppg-senior-vp-hagerty-sells-317862-in-company-stock-93CH-5006501",
     "Watchlist|https://www.investing.com/news/insider-trading-news/crocs-ceo-andrew-rees-sells-61-million-in-crox-shares-93CH-5006500",
     "Watchlist|https://www.investing.com/news/stock-market-news/eu-electricity-grid-costs-may-rise-up-to-100-by-2050-93CH-5006502",
-    "War|2c2420b0-de0f-3e13-833b-9c0c890e2c20"
+    "War|2c2420b0-de0f-3e13-833b-9c0c890e2c20",
+    "SG Banks|/companies-markets/ocbc-wealth-clients-turn-defensive-amid-market-volatility-q3-profit-rises-3",
+    "Watchlist|/companies-markets/ocbc-wealth-clients-turn-defensive-amid-market-volatility-q3-profit-rises-3",
+    "Cybersecurity|28dbd097-f1c4-3323-918a-c4c4a6f20b47",
+    "SG Banks|https://www.channelnewsasia.com/business/x-says-takedown-notices-targeting-indian-free-speech-groups-were-fake-6530306"
   ],
   "topic_error": "",
   "last_digest": "2026-11-06",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1793943591.9360716,
+  "last_check": 1793944486.7201438,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-05"
