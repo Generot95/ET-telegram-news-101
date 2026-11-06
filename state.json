@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/why-is-sino-biopharmaceutical-stock-surging-today-93CH-5002132",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-softbank-stock-sliding-today-93CH-5002133",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/what-does-the-democratic-midterm-sweep-mean-for-softbanks-us-data-center-plans-93CH-5002120",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-tencent-stock-surging-today-93CH-5002131",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-sino-biopharmaceutical-stock-surging-today-93CH-5002132",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-softbank-stock-sliding-today-93CH-5002133",
-    "SG Banks|https://www.investing.com/news/stock-market-news/what-does-the-democratic-midterm-sweep-mean-for-softbanks-us-data-center-plans-93CH-5002120",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-tencent-stock-surging-today-93CH-5002131",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-sino-biopharmaceutical-stock-surging-today-93CH-5002132",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-softbank-stock-sliding-today-93CH-5002133",
     "Watchlist|https://www.investing.com/news/stock-market-news/what-does-the-democratic-midterm-sweep-mean-for-softbanks-us-data-center-plans-93CH-5002120",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-tencent-stock-surging-today-93CH-5002131",
@@ -5000,7 +4991,16 @@
     "Watchlist|https://www.investing.com/news/earnings/ziff-davis-earnings-beat-by-018-revenue-fell-short-of-estimates-5006444",
     "Watchlist|https://www.investing.com/news/earnings/hkex-shares-fall-nearly-2-as-q3-profit-slips-amid-slower-market-activity-5006450",
     "Watchlist|https://www.investing.com/news/earnings/brighthouse-financial-earnings-missed-by-133-revenue-fell-short-of-estimates-5006452",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/aware-ceo-ajay-amlani-buys-32425-in-company-stock-93CH-5006453"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/aware-ceo-ajay-amlani-buys-32425-in-company-stock-93CH-5006453",
+    "SG Banks|/companies-markets/banking-finance/hsbc-open-hong-kong-ai-institute-following-singapore-launch",
+    "Watchlist|5f14fa6d-7447-31a3-b3d4-fda9849e3653",
+    "SG Banks|/companies-markets/telcos-media-tech/huang-drops-worlds-top-10-richest-after-chips-selloff",
+    "Watchlist|/companies-markets/telcos-media-tech/huang-drops-worlds-top-10-richest-after-chips-selloff",
+    "War|9ca143ec-2066-3f59-9e4e-f0e71a0bde31",
+    "SG Banks|/companies-markets/telcos-media-tech/nvidia-ceo-jensen-huang-drops-worlds-top-10-richest-after-chips-sell",
+    "Watchlist|/companies-markets/telcos-media-tech/nvidia-ceo-jensen-huang-drops-worlds-top-10-richest-after-chips-sell",
+    "War|0a7c6f40-d3f8-3ec7-be78-8392bbb8239d",
+    "Watchlist|3d5bd123-62f0-3c6a-961a-fc56b57e7afe"
   ],
   "topic_error": "",
   "last_digest": "2026-11-06",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1793939906.4568045,
+  "last_check": 1793940826.757953,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-05"
