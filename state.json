@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Crypto|a8ffdade-4f30-3695-8e60-b9495bb11222",
-    "Crypto|f87bc514-1a60-353b-8533-202ef8f06c8c",
-    "Cybersecurity|e1b3d1c2-c40a-38b3-87c0-d8051ab2370c",
-    "Cybersecurity|324392c6-2a98-31ca-814e-b1ea520cad00",
-    "Cybersecurity|https://www.investing.com/news/earnings/clarus-earnings-beat-by-008-revenue-topped-estimates-5006106",
-    "Cybersecurity|https://www.investing.com/news/earnings/dentsply-earnings-missed-by-002-revenue-fell-short-of-estimates-5006107",
     "Cybersecurity|https://www.investing.com/news/earnings/ocbc-q3-profit-rises-3-as-expected-on-lending-strength-5006108",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/wisconsin-reports-infant-death-linked-to-measles-outbreak-5006111",
     "Cybersecurity|https://www.investing.com/news/company-news/ventas-prices-500-million-senior-notes-offering-due-2033-93CH-5006112",
@@ -5000,7 +4994,13 @@
     "Watchlist|https://www.investing.com/news/company-news/panvel-q3-2026-slides-digital-sales-surge-to-47-as-profits-jump-35-93CH-5009845",
     "Watchlist|https://www.investing.com/news/insider-trading-news/kayne-anderson-evp-harrison-little-buys-51538-in-kyn-stock-93CH-5009847",
     "Watchlist|https://www.investing.com/news/insider-trading-news/marriott-president--ceo-anthony-capuano-sells-266m-in-company-stock-93CH-5009848",
-    "Watchlist|https://www.investing.com/news/company-news/modivo-platform-q3-2026-slides-gross-margin-tops-50-ebitda-up-48-93CH-5009851"
+    "Watchlist|https://www.investing.com/news/company-news/modivo-platform-q3-2026-slides-gross-margin-tops-50-ebitda-up-48-93CH-5009851",
+    "AI|752687d6-20df-3798-a52b-1b1a1db1c9e7",
+    "AI|9170948e-359b-3117-8b64-5550ca95256e",
+    "Watchlist|752687d6-20df-3798-a52b-1b1a1db1c9e7",
+    "Watchlist|9170948e-359b-3117-8b64-5550ca95256e",
+    "AI|2299a8bf-cbc8-36c3-a91d-647eec7bf651",
+    "Watchlist|2299a8bf-cbc8-36c3-a91d-647eec7bf651"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794052724.6741776,
+  "last_check": 1794053634.093699,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
