@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.channelnewsasia.com/business/iren-tops-quarterly-revenue-estimates-delays-some-microsoft-ai-infrastructure-deliveries-6529076",
-    "Watchlist|4c32b0d1-a277-3900-80a8-7026ea0771af",
-    "AI|894d0b16-d8e6-3c8b-99a7-d6ffda271dd1",
-    "Watchlist|894d0b16-d8e6-3c8b-99a7-d6ffda271dd1",
-    "Iran|https://www.iranintl.com/en/202611033758",
-    "AI|0883c53d-bf84-3ce8-ae58-513aaad7e5c4",
     "AI|2e7efb03-5599-34a8-9601-71a41ff4260f",
     "AI|9c9d7ce5-5b9e-32ec-9fff-69075c2d3a0c",
     "AI|1213af8d-338e-388d-be42-cd176186cd78",
@@ -5000,7 +4994,13 @@
     "AI|https://www.investing.com/news/company-news/ceo-ternus-says-apple-is-the-best-company-on-earth-but-is-it-the-best-stock-5009773",
     "Cybersecurity|https://www.investing.com/news/company-news/ceo-ternus-says-apple-is-the-best-company-on-earth-but-is-it-the-best-stock-5009773",
     "SG Banks|https://www.investing.com/news/company-news/ceo-ternus-says-apple-is-the-best-company-on-earth-but-is-it-the-best-stock-5009773",
-    "Watchlist|https://www.investing.com/news/company-news/ceo-ternus-says-apple-is-the-best-company-on-earth-but-is-it-the-best-stock-5009773"
+    "Watchlist|https://www.investing.com/news/company-news/ceo-ternus-says-apple-is-the-best-company-on-earth-but-is-it-the-best-stock-5009773",
+    "Iran|https://www.iranintl.com/en/202611029406",
+    "SG Banks|/companies-markets/private-equitys-liquidity-crunch-fuels-growth-secondaries-alternative-fund-structures",
+    "Watchlist|4c32b0d1-a277-3900-80a8-7026ea0771af",
+    "Watchlist|6982ca4e-619f-3b96-9a22-3e6ee4843b02",
+    "AI|6982ca4e-619f-3b96-9a22-3e6ee4843b02",
+    "Iran|https://www.iranintl.com/en/202611033758"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794041729.3853548,
+  "last_check": 1794042641.2783692,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-06"
