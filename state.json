@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/economy-news/asia-stocks-to-drop-after-ai-rout-rocks-us-markets-5006125",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/apple-svp-jennifer-newstead-sells-781474-in-stock-93CH-5006130",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/rush-street-interactive-cfo-sauers-sells-276000-in-shares-93CH-5006132",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/udr-svpcoo-michael-lacy-sells-364799-of-common-stock-93CH-5006133",
     "SG Banks|https://www.investing.com/news/insider-trading-news/wex-cto-sachin-dhawan-sells-708952-in-company-stock-93CH-5006134",
     "SG Banks|https://www.investing.com/news/economy-news/texas-governorelect-says-state-will-have-laws-to-shield-citizens-from-data-centers-5006141",
     "SG Banks|https://www.investing.com/news/economic-indicators/japan-average-wages-climb-at-fastest-pace-in-29-yrs-in-sept-5006142",
@@ -5000,7 +4996,11 @@
     "SG Banks|https://www.investing.com/news/earnings/berkshire-hathaway-a-earnings-beat-by-700-revenue-topped-estimates-5009889",
     "Watchlist|99367469-2d40-3cac-9557-fede17fed237",
     "Watchlist|01a6a6c3-998c-375c-aac7-724200ea6e84",
-    "Watchlist|https://www.investing.com/news/earnings/berkshire-hathaway-a-earnings-beat-by-700-revenue-topped-estimates-5009889"
+    "Watchlist|https://www.investing.com/news/earnings/berkshire-hathaway-a-earnings-beat-by-700-revenue-topped-estimates-5009889",
+    "Watchlist|fd9032f5-af98-3cd8-b911-36de57ebc091",
+    "AI|83f49125-44a5-3e0c-ab61-c2d3f7a4fad8",
+    "Watchlist|83f49125-44a5-3e0c-ab61-c2d3f7a4fad8",
+    "Watchlist|0f373e94-c052-3c38-aeda-37e3a81b7c87"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794059150.1517067,
+  "last_check": 1794060061.856075,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
