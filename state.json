@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Crypto|641dd1cf-fe1a-3618-9a93-7823de0ee84d",
-    "AI|4ffc2a9d-32d6-31de-ba8f-7be67fd39b9a",
-    "AI|67e2b15b-b996-34d1-a4f6-1452e34b7ac8",
-    "AI|https://www.investing.com/news/insider-trading-news/basswood-capital-management-sells-14m-regional-management-shares-93CH-5006204",
-    "AI|https://www.investing.com/news/insider-trading-news/south-plains-financial-director-richard-campbell-sells-23m-in-stock-93CH-5006205",
-    "AI|https://www.investing.com/news/insider-trading-news/globus-medical-director-ann-rhoads-sells-425000-in-shares-93CH-5006206",
     "AI|https://www.investing.com/news/insider-trading-news/standard-biotools-director-thomas-carey-buys-46897-in-stock-93CH-5006207",
     "AI|https://www.investing.com/news/stock-market-news/south-koreas-kospi-halts-trade-after-8-wipeout-on-ai-losses-5006208",
     "AI|https://www.investing.com/news/economy-news/japan-vigilant-to-market-moves-will-focus-on-boosting-economy-pm-takaichi-says-5006209",
@@ -5000,7 +4994,13 @@
     "SG Banks|/companies-markets/capital-markets-currencies/stocks-wilt-dollar-slides-early-midterm-results-point-blue-sweep",
     "SG Banks|/companies-markets/stocks-watch-ocbc-ihh-healthcare-flct-singpost-koh-brothers-eco-engineering",
     "Watchlist|/companies-markets/capital-markets-currencies/stocks-wilt-dollar-slides-early-midterm-results-point-blue-sweep",
-    "Watchlist|/companies-markets/stocks-watch-ocbc-ihh-healthcare-flct-singpost-koh-brothers-eco-engineering"
+    "Watchlist|/companies-markets/stocks-watch-ocbc-ihh-healthcare-flct-singpost-koh-brothers-eco-engineering",
+    "AI|https://www.investing.com/news/economy-news/employers-watchmen-at-california-ports-extend-contract-talks-5009914",
+    "Cybersecurity|https://www.investing.com/news/economy-news/employers-watchmen-at-california-ports-extend-contract-talks-5009914",
+    "SG Banks|https://www.investing.com/news/economy-news/employers-watchmen-at-california-ports-extend-contract-talks-5009914",
+    "Watchlist|https://www.investing.com/news/economy-news/employers-watchmen-at-california-ports-extend-contract-talks-5009914",
+    "Watchlist|f42ba89c-0fee-3986-8b50-ef3bcdc374dd",
+    "AI|f42ba89c-0fee-3986-8b50-ef3bcdc374dd"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794062806.0303473,
+  "last_check": 1794063708.1681101,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
