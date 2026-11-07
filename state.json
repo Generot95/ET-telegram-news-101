@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/earnings/workiva-inc-earnings-missed-by-008-revenue-topped-estimates-5005893",
-    "SG Banks|https://www.investing.com/news/earnings/egain-earnings-beat-revenue-topped-estimates-5005894",
     "SG Banks|https://www.investing.com/news/company-news/thermo-fisher-declares-047-quarterly-dividend-93CH-5005895",
     "SG Banks|https://www.investing.com/news/company-news/extra-space-storage-declares-q4-dividend-of-162-per-share-93CH-5005896",
     "SG Banks|https://www.investing.com/news/company-news/centerra-gold-renews-share-buyback-program-for-up-to-10-float-93CH-5005898",
@@ -5000,7 +4998,9 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/generac-home-president-norman-taffe-sells-54603-in-gnrc-shares-93CH-5009669",
     "Watchlist|https://www.investing.com/news/insider-trading-news/oreilly-automotive-director-maria-sastre-sells-shares-for-110064-93CH-5009670",
     "Watchlist|https://www.investing.com/news/insider-trading-news/omada-health-ceo-sean-duffy-sells-248730-in-company-shares-93CH-5009671",
-    "Watchlist|https://www.investing.com/news/press-releases/drivx-announces-fleet-expansion-and-vesting-strategy-ahead-of-final-presale-stage-5009672"
+    "Watchlist|https://www.investing.com/news/press-releases/drivx-announces-fleet-expansion-and-vesting-strategy-ahead-of-final-presale-stage-5009672",
+    "Iran|https://www.iranintl.com/en/202611051413",
+    "Crypto|cbd153e2-4c42-3568-a5a1-de369c3729fe"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794029828.3273907,
+  "last_check": 1794030749.7632098,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-06"
