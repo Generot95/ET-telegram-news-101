@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/japans-nikkei-nears-bear-market-as-ai-rout-batters-tech-valuations-5006297",
-    "SG Banks|https://www.investing.com/news/commodities-news/as-high-oil-prices-curb-demand-fresh-signs-of-glut-appear-5006302",
-    "SG Banks|https://www.investing.com/news/stock-market-news/ai-data-center-firm-iren-delays-microsoft-ai-deliveries-plans-15-billion-spending-push-5006291",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-tsmc-stock-plunging-today-93CH-5006303",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-crashing-today-93CH-5006304",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-plunging-today-93CH-5006286",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/servicetitan-ceo-ara-mahdessian-sells-903-million-in-shares-93CH-5006293",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/flowco-holdings-director-jonathan-fairbanks-buys-292924-in-stock-93CH-5006295",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/united-therapeutics-chairperson--ceo-rothblatt-sells-105m-shares-93CH-5006296",
     "Watchlist|https://www.investing.com/news/stock-market-news/japans-nikkei-nears-bear-market-as-ai-rout-batters-tech-valuations-5006297",
     "Watchlist|https://www.investing.com/news/commodities-news/as-high-oil-prices-curb-demand-fresh-signs-of-glut-appear-5006302",
     "Watchlist|https://www.investing.com/news/stock-market-news/ai-data-center-firm-iren-delays-microsoft-ai-deliveries-plans-15-billion-spending-push-5006291",
@@ -5000,7 +4991,16 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/sierra-bancorp-director-lynda-scearcy-sells-337604-in-stock-93CH-5009981",
     "Watchlist|5f12d513-c627-3194-8af6-01a9df2319ba",
     "AI|7a1caeb7-8c5d-3cdc-9949-a6ee56fdd62e",
-    "Watchlist|7a1caeb7-8c5d-3cdc-9949-a6ee56fdd62e"
+    "Watchlist|7a1caeb7-8c5d-3cdc-9949-a6ee56fdd62e",
+    "Watchlist|1de21620-440a-3b50-b330-b7e53927911a",
+    "AI|https://www.investing.com/news/insider-trading-news/kirby-ceo-david-grzebinski-sells-259-million-in-stock-93CH-5009986",
+    "AI|https://www.investing.com/news/insider-trading-news/umh-director-william-mitchell-buys-19578-of-stock-93CH-5009987",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/kirby-ceo-david-grzebinski-sells-259-million-in-stock-93CH-5009986",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/umh-director-william-mitchell-buys-19578-of-stock-93CH-5009987",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/kirby-ceo-david-grzebinski-sells-259-million-in-stock-93CH-5009986",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/umh-director-william-mitchell-buys-19578-of-stock-93CH-5009987",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/kirby-ceo-david-grzebinski-sells-259-million-in-stock-93CH-5009986",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/umh-director-william-mitchell-buys-19578-of-stock-93CH-5009987"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794074712.6343465,
+  "last_check": 1794075625.6313996,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
