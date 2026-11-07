@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|91ef40ac-db64-3637-86ff-3b89d920b3e0",
-    "Watchlist|f3f8d75a-0c01-37d6-9ecb-be91b4005385",
-    "War|7cd09b2a-66b4-36c9-88c4-058a255d98a5",
-    "AI|9a90dae3-61ec-3056-9152-14180b77c3f1",
     "War|WP-MKTW-0005331366",
     "War|WP-MKTW-0005331042",
     "AI|e3d70ea3-fd12-3863-9331-5c9694e8875b",
@@ -5000,7 +4996,11 @@
     "Watchlist|c53e29c2-58a4-36d3-bba0-a225e662c5ad",
     "Watchlist|1f19f85f-c79e-361f-954f-745e8f3d245e",
     "AI|fe90bad5-5cf0-3a82-b10f-fd8af8824a88",
-    "Watchlist|fe90bad5-5cf0-3a82-b10f-fd8af8824a88"
+    "Watchlist|fe90bad5-5cf0-3a82-b10f-fd8af8824a88",
+    "Crypto|9d477295-f23f-3f75-8955-ca22ce358bd9",
+    "Cybersecurity|7fcc404a-9d9e-3a56-b9a7-620c09657fd1",
+    "Cybersecurity|c335a2b2-0d7a-3e03-877b-252dfb4bb2fe",
+    "Watchlist|c335a2b2-0d7a-3e03-877b-252dfb4bb2fe"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794018808.6498747,
+  "last_check": 1794019727.4481533,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-06"
