@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Iran|https://www.iranintl.com/en/202611021408",
-    "SG Banks|https://www.straitstimes.com/business/singapore-equity-funds-draw-record-2-2-billion-as-bank-dividends-bolster-local-market",
-    "SG Banks|https://www.straitstimes.com/business/australian-chain-david-jones-collapses-after-almost-200-years",
-    "Watchlist|105aa821-d157-3b0f-a86e-56417fc3a9b9",
-    "Watchlist|0e9891f3-88b2-3275-9632-d7962bb5c578",
-    "AI|aa5adfd1-0ca8-36f9-8703-2a43654ff7b6",
-    "Watchlist|aa5adfd1-0ca8-36f9-8703-2a43654ff7b6",
-    "AI|0ae23cc0-b093-3d6c-a19c-ce938bf3b301",
-    "Watchlist|0ae23cc0-b093-3d6c-a19c-ce938bf3b301",
     "SG Banks|https://www.channelnewsasia.com/business/msci-says-it-needs-see-south-koreas-regulatory-changes-put-practice-market-upgrade-6529786",
     "SG Banks|https://www.channelnewsasia.com/business/trump-backed-world-liberty-financial-launches-wlfi-token-buyback-program-6529781",
     "Iran|https://www.iranintl.com/en/202611063118",
@@ -5000,7 +4991,16 @@
     "Watchlist|2b92b9df-f230-3c8c-9916-395aea38ce62",
     "AI|fd77d09c-c5de-34d4-8817-dab4ea70a7d9",
     "AI|eb7b220e-f1d4-3c05-a065-28ccdc87d518",
-    "Watchlist|eb7b220e-f1d4-3c05-a065-28ccdc87d518"
+    "Watchlist|eb7b220e-f1d4-3c05-a065-28ccdc87d518",
+    "AI|https://www.investing.com/news/stock-market-news/tesla-to-expand-cybertruck-production-in-bid-to-fill-orders-before-dismantling-line-next-year-5009996",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/tesla-to-expand-cybertruck-production-in-bid-to-fill-orders-before-dismantling-line-next-year-5009996",
+    "SG Banks|https://www.investing.com/news/stock-market-news/tesla-to-expand-cybertruck-production-in-bid-to-fill-orders-before-dismantling-line-next-year-5009996",
+    "Watchlist|https://www.investing.com/news/stock-market-news/tesla-to-expand-cybertruck-production-in-bid-to-fill-orders-before-dismantling-line-next-year-5009996",
+    "AI|f1507081-fff1-3780-bf74-5bf67fdf6ae0",
+    "SG Banks|https://www.channelnewsasia.com/business/tesla-expand-cybertruck-production-in-bid-fill-orders-dismantling-line-next-year-6533391",
+    "Watchlist|f1507081-fff1-3780-bf74-5bf67fdf6ae0",
+    "Watchlist|105aa821-d157-3b0f-a86e-56417fc3a9b9",
+    "Watchlist|0e9891f3-88b2-3275-9632-d7962bb5c578"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794076527.1692636,
+  "last_check": 1794077443.8427608,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
