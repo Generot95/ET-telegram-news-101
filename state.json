@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/earnings/akamai-earnings-beat-by-010-revenue-was-in-line-with-estimates-5005686",
-    "SG Banks|https://www.investing.com/news/earnings/corsair-earnings-beat-by-001-revenue-topped-estimates-5005687",
-    "SG Banks|https://www.investing.com/news/stock-market-news/mattel-cuts-annual-forecasts-as-new-ceo-takes-charge-5005607",
-    "SG Banks|https://www.investing.com/news/economy-news/explainerwhat-is-ueno-bank-and-how-did-it-trigger-paraguays-political-crisis-5005428",
-    "Watchlist|/companies-markets/capital-markets-currencies/european-stocks-slip-middle-east-uncertainty-makes-caution",
     "Watchlist|/companies-markets/energy-commodities/oil-prices-ease-settle-near-4-week-low-hopes-peace-talks-will-end-wars",
     "Watchlist|https://www.investing.com/news/earnings/bill-holdings-earnings-beat-by-020-revenue-fell-short-of-estimates-5005684",
     "Watchlist|https://www.investing.com/news/earnings/consensus-cloud-solutions-earnings-beat-by-006-revenue-topped-estimates-5005685",
@@ -5000,7 +4995,12 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/procore-technologies-chief-legal-officer-sells-193950-in-stock-93CH-5009509",
     "Watchlist|https://www.investing.com/news/insider-trading-news/qualcomm-director-sylvia-acevedo-sells-10074-in-stock-93CH-5009510",
     "Watchlist|https://www.investing.com/news/insider-trading-news/procore-director-elisa-steele-sells-230586-in-pcor-stock-93CH-5009511",
-    "Watchlist|https://www.investing.com/news/company-news/arini-hedge-fund-losses-deepen-to-32-as-credit-selloff-intensifies--bloomberg-5009518"
+    "Watchlist|https://www.investing.com/news/company-news/arini-hedge-fund-losses-deepen-to-32-as-credit-selloff-intensifies--bloomberg-5009518",
+    "Iran|https://www.iranintl.com/en/202611031361",
+    "SG Banks|/companies-markets/banking-finance/bank-england-may-raise-high-risk-mortgage-threshold-ft",
+    "Crypto|b7610f1d-78f0-3f22-93ca-8495f682f076",
+    "Watchlist|5e588d26-0aa8-3110-a71f-c6d58a82920c",
+    "AI|5e588d26-0aa8-3110-a71f-c6d58a82920c"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794016075.9953651,
+  "last_check": 1794016993.883972,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-06"
