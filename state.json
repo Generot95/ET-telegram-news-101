@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/company-news/thermo-fisher-authorizes-5-billion-share-buyback-program-93CH-5005953",
-    "Watchlist|https://www.investing.com/news/company-news/xcf-global-adds-three-directors-following-business-combination-93CH-5005960",
-    "Watchlist|https://www.investing.com/news/earnings/vaalco-energy-earnings-missed-by-018-revenue-topped-estimates-5005966",
-    "Watchlist|https://www.investing.com/news/earnings/ring-energy-inc-earnings-beat-by-004-revenue-topped-estimates-5005967",
-    "Watchlist|https://www.investing.com/news/earnings/mattel-shares-tick-up-despite-guidance-missing-estimates-5005968",
-    "Watchlist|https://www.investing.com/news/sec-filings/dolphin-entertainment-shareholders-elect-directors-and-approve-auditor-at-annual-meeting-93CH-5005970",
     "Watchlist|https://www.investing.com/news/earnings/playboy-earnings-beat-by-186-revenue-topped-estimates-5005971",
     "Watchlist|https://www.investing.com/news/economy-news/analysisjapanese-savers-have-rediscovered-interest-rates-and-banks-are-feeling-it-5005902",
     "Watchlist|https://www.investing.com/news/earnings/pangaea-earnings-beat-by-022-revenue-topped-estimates-5005973",
@@ -5000,7 +4994,13 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/first-commonwealth-financial-evpcfo-reske-sells-49298-in-stock-93CH-5009763",
     "Watchlist|https://www.investing.com/news/insider-trading-news/moodys-corp-chief-accounting-officer-phillips-sells-49335-stock-93CH-5009762",
     "Watchlist|https://www.investing.com/news/insider-trading-news/first-commonwealth-financial-evpcfo-reske-sells-49298-in-stock-93CH-5009763",
-    "SG Banks|https://www.straitstimes.com/business/companies-markets/ex-st-engineering-singtel-exec-low-ka-hoe-to-succeed-tong-yew-heng-as-netlink-nbn-trust-ceo"
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/ex-st-engineering-singtel-exec-low-ka-hoe-to-succeed-tong-yew-heng-as-netlink-nbn-trust-ceo",
+    "AI|https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-to-76000-but-13-billion-etf-exodus-tests-recovery-5009767",
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-to-76000-but-13-billion-etf-exodus-tests-recovery-5009767",
+    "Cybersecurity|https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-to-76000-but-13-billion-etf-exodus-tests-recovery-5009767",
+    "SG Banks|https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-to-76000-but-13-billion-etf-exodus-tests-recovery-5009767",
+    "Watchlist|https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-to-76000-but-13-billion-etf-exodus-tests-recovery-5009767",
+    "Crypto|56d9df0f-866c-3898-90c9-d33fda608960"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794039900.3887827,
+  "last_check": 1794040812.697609,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-06"
