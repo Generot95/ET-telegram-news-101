@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|754c50f5-a7af-3d3a-911e-682d81cbca98",
-    "Cybersecurity|b214692a-0815-34ab-81c6-3f6525438a32",
-    "War|a090313a-d8f3-3cac-90ce-b07405db8102",
-    "SG Banks|/companies-markets/your-board-too-polite-be-effective",
-    "Watchlist|/companies-markets/your-board-too-polite-be-effective",
-    "AI|6d694ac8-80af-35c3-ba67-7647c94d58da",
-    "Watchlist|6d694ac8-80af-35c3-ba67-7647c94d58da",
-    "War|b9933555-6057-312b-85fe-fe44dab63eca",
-    "AI|f645423f-6f48-3a57-ab8e-e93807d83085",
-    "AI|b9933555-6057-312b-85fe-fe44dab63eca",
-    "SG Banks|/international/global/us-stocks-nasdaq-posts-biggest-daily-drop-19-months-fears-ai-regulations",
     "Watchlist|/international/global/us-stocks-nasdaq-posts-biggest-daily-drop-19-months-fears-ai-regulations",
     "War|5ed0b459-737a-3100-ac79-3a7511dad248",
     "AI|d6e4a74f-532d-3e1a-8d92-06819fcffc17",
@@ -5000,7 +4989,18 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/spar-group-director-robert-brown-sells-650-in-shares-93CH-5009806",
     "Watchlist|https://www.investing.com/news/insider-trading-news/aim-immunotech-ceo-equels-buys-3166-in-company-stock-93CH-5009813",
     "Watchlist|https://www.investing.com/news/insider-trading-news/avidia-bancorp-director-micheal-flanigan-sells-20917-in-shares-93CH-5009814",
-    "SG Banks|https://www.straitstimes.com/business/jensen-huang-drops-from-worlds-top-10-richest-after-nvidia-chips-selloff"
+    "SG Banks|https://www.straitstimes.com/business/jensen-huang-drops-from-worlds-top-10-richest-after-nvidia-chips-selloff",
+    "AI|7dcb1510-3c30-38f1-a2ff-93d598c1ce6b",
+    "AI|560d0e75-4a99-3ec5-8668-9474e35391e0",
+    "Watchlist|7dcb1510-3c30-38f1-a2ff-93d598c1ce6b",
+    "Watchlist|560d0e75-4a99-3ec5-8668-9474e35391e0",
+    "SG Banks|/companies-markets/your-board-too-polite-be-effective",
+    "Watchlist|/companies-markets/your-board-too-polite-be-effective",
+    "Crypto|5a44cdab-b769-3bf7-a80f-4aa9e71beae9",
+    "AI|4413b129-c0dc-3587-aacf-74dce3de46b8",
+    "AI|cbf72235-6c58-33c3-a677-6441c0e455b9",
+    "Watchlist|4413b129-c0dc-3587-aacf-74dce3de46b8",
+    "Watchlist|cbf72235-6c58-33c3-a677-6441c0e455b9"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794048138.340025,
+  "last_check": 1794049055.7738016,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-06"
