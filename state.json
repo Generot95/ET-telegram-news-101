@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|fc671f53-57dd-34d2-b734-fdd9254b416e",
-    "AI|755ec331-39c1-366a-b044-982efb3bd5b6",
-    "Watchlist|755ec331-39c1-366a-b044-982efb3bd5b6",
-    "AI|169249a6-d4d3-307c-bd9b-5327718b3c70",
-    "Watchlist|169249a6-d4d3-307c-bd9b-5327718b3c70",
-    "Crypto|e26595d2-9ccf-4d1d-9045-a6663067e10d",
-    "War|37df4238-fd0c-49c9-825a-3567660700f6",
-    "AI|https://www.investing.com/news/company-news/centuri-holdings-stock-hits-52week-low-at-1857-usd-93CH-5005539",
-    "AI|https://www.investing.com/news/company-news/marriott-declares-quarterly-dividend-of-73-cents-per-share-93CH-5005554",
-    "AI|https://www.investing.com/news/company-news/inogen-names-andy-reding-as-ceo-replacing-kevin-smith-93CH-5005555",
-    "AI|https://www.investing.com/news/analyst-ratings/stifel-cuts-six-flags-stock-price-target-on-leverage-concerns-93CH-5005556",
-    "AI|https://www.investing.com/news/stock-market-news/google-plans-17-billion-wyoming-data-center-amid-rising-threats-of-curbs-5005532",
     "AI|https://www.investing.com/news/stock-market-news/sp-500-dipbuying-levels-key-support-zones-to-watch-93CH-5005533",
     "AI|https://www.investing.com/news/stock-market-news/why-is-sun-life-financial-stock-tumbling-today-93CH-5005536",
     "AI|https://www.investing.com/news/stock-market-news/why-is-astera-labs-stock-tumbling-today-93CH-5005537",
@@ -5000,7 +4988,19 @@
     "SG Banks|/international/high-credit-card-rates-emerge-rare-bipartisan-midterms-issue",
     "War|0dbc802c-b96e-3239-9a92-d2663bd632a2",
     "AI|db2820d2-4d7f-301c-972e-33cb8c987467",
-    "Watchlist|db2820d2-4d7f-301c-972e-33cb8c987467"
+    "Watchlist|db2820d2-4d7f-301c-972e-33cb8c987467",
+    "AI|https://www.investing.com/news/insider-trading-news/sprouts-farmers-market-ceo-jack-sinclair-sells-114m-shares-93CH-5009437",
+    "AI|https://www.investing.com/news/stock-market-news/goldman-raises-global-data-center-capacity-forecast-to-273-gw-by-2030-5009439",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/sprouts-farmers-market-ceo-jack-sinclair-sells-114m-shares-93CH-5009437",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/goldman-raises-global-data-center-capacity-forecast-to-273-gw-by-2030-5009439",
+    "SG Banks|https://www.straitstimes.com/business/invest/buy-money-market-funds-to-benefit-from-rising-rates",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/sprouts-farmers-market-ceo-jack-sinclair-sells-114m-shares-93CH-5009437",
+    "SG Banks|https://www.investing.com/news/stock-market-news/goldman-raises-global-data-center-capacity-forecast-to-273-gw-by-2030-5009439",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/sprouts-farmers-market-ceo-jack-sinclair-sells-114m-shares-93CH-5009437",
+    "Watchlist|https://www.investing.com/news/stock-market-news/goldman-raises-global-data-center-capacity-forecast-to-273-gw-by-2030-5009439",
+    "AI|efd1ea0e-9896-3adc-b48e-7641cc214601",
+    "Watchlist|efd1ea0e-9896-3adc-b48e-7641cc214601",
+    "AI|62dfc492-8909-35bb-a562-614255130e85"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794010579.8217947,
+  "last_check": 1794011496.8303187,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-06"
