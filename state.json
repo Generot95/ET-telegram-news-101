@@ -1,7 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/ryerson-ceo-edward-lehner-sells-685840-in-common-stock-93CH-5006361",
     "Watchlist|https://www.investing.com/news/insider-trading-news/bcb-bancorp-director-denny-kim-buys-500-in-common-stock-93CH-5006363",
     "Watchlist|https://www.investing.com/news/cryptocurrency-news/trump-crypto-memecoin-slumps-to-record-low-after-historic-midterm-loss-5006367",
     "Watchlist|https://www.investing.com/news/stock-market-news/japan-tobacco-shares-face-19-slump-after-kremlin-seizes-russian-assets-5006368",
@@ -5000,7 +4999,8 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/dropbox-chief-accounting-officer-sells-74884-in-stock-93CH-5010062",
     "Watchlist|https://www.investing.com/news/insider-trading-news/world-acceptance-director-benjamin-robinson-sells-14878-in-shares-93CH-5010063",
     "AI|7f140955-c1e0-36a1-9c1c-8af3948a596d",
-    "Watchlist|7f140955-c1e0-36a1-9c1c-8af3948a596d"
+    "Watchlist|7f140955-c1e0-36a1-9c1c-8af3948a596d",
+    "Watchlist|WP-MKTW-0003853114"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794089339.4420173,
+  "last_check": 1794090263.9835322,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
