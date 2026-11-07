@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/insider-trading-news/martine-rothblatt-united-therapeutics-ceo-sells-466m-in-shares-93CH-5006270",
-    "AI|https://www.investing.com/news/commodities-news/gold-heads-for-best-week-since-august-as-us-political-shift-lifts-bonds-5006271",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/verastem-ceo-dan-paterson-sells-12470-in-company-stock-93CH-5006247",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/porch-group-director-alan-pickerill-sells-210000-in-common-stock-93CH-5006248",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/hyatt-hotels-ceo-mark-hoplamazian-sells-16-million-in-shares-93CH-5006249",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/hyatt-hotels-corp-evp-margaret-egan-sells-205458-in-stock-93CH-5006253",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/blackstone-mortgage-trust-director-nassau-buys-114291-in-shares-93CH-5006254",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/blackstone-mortgage-trust-ceo-buys-104m-in-shares-93CH-5006255",
     "Cybersecurity|https://www.investing.com/news/economy-news/dollar-holds-yen-gains-as-equity-rout-saps-risk-appetite-ahead-of-payrolls-5006269",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/martine-rothblatt-united-therapeutics-ceo-sells-466m-in-shares-93CH-5006270",
@@ -5000,7 +4993,14 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/steel-dynamics-evp--cto-barry-schneider-sells-124m-in-stock-93CH-5009956",
     "Watchlist|https://www.investing.com/news/insider-trading-news/cf-financial-ceo-mark-fox-sells-111990-of-company-stock-93CH-5009955",
     "Watchlist|https://www.investing.com/news/insider-trading-news/steel-dynamics-evp--cto-barry-schneider-sells-124m-in-stock-93CH-5009956",
-    "War|https://www.investing.com/news/commodities-news/gold-heads-for-best-week-since-august-as-us-political-shift-lifts-bonds-5006271"
+    "War|https://www.investing.com/news/commodities-news/gold-heads-for-best-week-since-august-as-us-political-shift-lifts-bonds-5006271",
+    "War|3b24e9e2-1d39-3d3c-972f-5a6a3dba0524",
+    "AI|46d83533-13a0-3f18-aeb8-378ee303f4b7",
+    "Watchlist|46d83533-13a0-3f18-aeb8-378ee303f4b7",
+    "AI|73a07139-f566-317a-93c0-781c1312dc68",
+    "AI|cad43649-3a47-3dea-ac9a-3a5b41fb3ffa",
+    "Watchlist|73a07139-f566-317a-93c0-781c1312dc68",
+    "Watchlist|cad43649-3a47-3dea-ac9a-3a5b41fb3ffa"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794070121.2083275,
+  "last_check": 1794071035.6337438,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
