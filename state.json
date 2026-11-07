@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/chewy-chief-accounting-officer-sells-110745-in-stock-93CH-5006380",
-    "War|https://www.investing.com/news/commodities-news/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation-5002042",
-    "SG Banks|/international/global/global-asset-managers-warn-geopolitical-and-ai-concentration-risk-need-new-approach-investing",
-    "Watchlist|/international/global/global-asset-managers-warn-geopolitical-and-ai-concentration-risk-need-new-approach-investing",
-    "Watchlist|WP-MKTW-0003853112",
-    "Watchlist|WP-MKTW-0004179843",
-    "Watchlist|WP-MKTW-0004255367",
-    "War|c5c43419-4d14-360d-8c5b-8f1abd54d8a7",
-    "SG Banks|https://www.straitstimes.com/business/oracle-scraps-us7-billion-deal-to-lease-chips-to-tencent-ft-says",
-    "AI|3f49ed29-5cdb-3cf0-beea-fee2a2733227",
     "Watchlist|3f49ed29-5cdb-3cf0-beea-fee2a2733227",
     "SG Banks|https://www.channelnewsasia.com/business/sri-lanka-budget-faces-post-imf-test-energy-costs-bite-6530001",
     "Watchlist|ffc74fc4-5364-31e8-aa6a-2eec4e204d2f",
@@ -5000,7 +4990,17 @@
     "AI|https://www.investing.com/news/company-news/voyager-technologies-selected-for-nasas-10b-lunar-contract-93CH-5010080",
     "Cybersecurity|https://www.investing.com/news/company-news/voyager-technologies-selected-for-nasas-10b-lunar-contract-93CH-5010080",
     "SG Banks|https://www.investing.com/news/company-news/voyager-technologies-selected-for-nasas-10b-lunar-contract-93CH-5010080",
-    "Watchlist|https://www.investing.com/news/company-news/voyager-technologies-selected-for-nasas-10b-lunar-contract-93CH-5010080"
+    "Watchlist|https://www.investing.com/news/company-news/voyager-technologies-selected-for-nasas-10b-lunar-contract-93CH-5010080",
+    "AI|a2e3aa7e-8f97-3f19-a8c3-f96fc4dab37d",
+    "Watchlist|a2e3aa7e-8f97-3f19-a8c3-f96fc4dab37d",
+    "AI|6866fca6-ccb4-3bc0-9391-de910be4c2cf",
+    "Watchlist|6866fca6-ccb4-3bc0-9391-de910be4c2cf",
+    "SG Banks|/international/global/global-asset-managers-warn-geopolitical-and-ai-concentration-risk-need-new-approach-investing",
+    "Watchlist|/international/global/global-asset-managers-warn-geopolitical-and-ai-concentration-risk-need-new-approach-investing",
+    "Watchlist|WP-MKTW-0003853112",
+    "Watchlist|WP-MKTW-0004179843",
+    "Watchlist|WP-MKTW-0004255367",
+    "Crypto|67ee3020-d67a-32d1-b1f3-2999a175b907"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794093913.849785,
+  "last_check": 1794094845.241679,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
