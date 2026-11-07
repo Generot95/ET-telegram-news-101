@@ -1,7 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|/international/global/us-stocks-nasdaq-posts-biggest-daily-drop-19-months-fears-ai-regulations",
     "War|5ed0b459-737a-3100-ac79-3a7511dad248",
     "AI|d6e4a74f-532d-3e1a-8d92-06819fcffc17",
     "AI|d84ac962-a1fe-3ddb-a8a3-44395d5e0094",
@@ -5000,7 +4999,8 @@
     "AI|4413b129-c0dc-3587-aacf-74dce3de46b8",
     "AI|cbf72235-6c58-33c3-a677-6441c0e455b9",
     "Watchlist|4413b129-c0dc-3587-aacf-74dce3de46b8",
-    "Watchlist|cbf72235-6c58-33c3-a677-6441c0e455b9"
+    "Watchlist|cbf72235-6c58-33c3-a677-6441c0e455b9",
+    "War|9d72215a-860e-3d72-b0e2-6f4224ed1b11"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,8 +5087,8 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794049055.7738016,
+  "last_check": 1794049982.1049583,
   "last_board": "2026-10-27",
   "commands_version": 9,
-  "last_report": "2026-11-06"
+  "last_report": "2026-11-07"
 }
