@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-ai-rout-batters-wall-st-payrolls-data-in-focus-5006240",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/analysts-and-investors-react-to-ai-market-rout-5006243",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/glaukos-director-gilbert-kliman-sells-632500-in-shares-93CH-5006224",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/veralto-svp-pqi-mattias-bystrom-sells-105m-in-common-stock-93CH-5006225",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/gatx-president-and-ceo-robert-lyons-sells-228-million-in-shares-93CH-5006227",
-    "SG Banks|https://www.investing.com/news/company-news/national-healthcare-declares-67-cent-quarterly-dividend-93CH-5006234",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/orange-county-bancorp-regional-president-ruhl-sells-77439-in-shares-93CH-5006236",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/hyatts-mark-vondrasek-sells-962513-in-stock-93CH-5006237",
-    "SG Banks|https://www.investing.com/news/company-news/cathie-woods-ark-sells-broadcom-stock-buys-nvidia-and-spacex-93CH-5006238",
     "SG Banks|https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-ai-rout-batters-wall-st-payrolls-data-in-focus-5006240",
     "SG Banks|https://www.investing.com/news/stock-market-news/analysts-and-investors-react-to-ai-market-rout-5006243",
     "Watchlist|https://www.investing.com/news/insider-trading-news/glaukos-director-gilbert-kliman-sells-632500-in-shares-93CH-5006224",
@@ -5000,7 +4991,16 @@
     "Watchlist|5aedef41-b2c3-303d-a6cf-fc630e067362",
     "Watchlist|ad4c87a3-e9ad-327c-9e63-e30f516d6b46",
     "Watchlist|68d0662d-8ece-3ff8-917c-9b61b00d58e7",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/visium-technologies-director-bo-niclas-adler-purchases-108000-in-stock-93CH-5009940"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/visium-technologies-director-bo-niclas-adler-purchases-108000-in-stock-93CH-5009940",
+    "War|7704aacf-000d-3228-9430-1efe339cce4c",
+    "War|0811846d-49bf-31d8-a817-bdb412c241af",
+    "AI|b635865c-5205-3134-b7bd-11e9775841e5",
+    "Watchlist|b635865c-5205-3134-b7bd-11e9775841e5",
+    "War|WP-MKTW-0005332287",
+    "AI|WP-MKTW-0005332287",
+    "Cybersecurity|WP-MKTW-0005332287",
+    "Watchlist|f7f17d50-ffe3-3d1c-839e-8dde234d9429",
+    "AI|f7f17d50-ffe3-3d1c-839e-8dde234d9429"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794066469.0258787,
+  "last_check": 1794067384.1399598,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
