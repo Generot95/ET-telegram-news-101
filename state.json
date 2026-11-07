@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-airbnb-stock-surging-today-93CH-5006012",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-draftkings-stock-plunging-today-93CH-5006013",
-    "Cybersecurity|https://www.investing.com/news/company-news/canada-authorizes-modernas-flu-and-combo-flucovid-vaccines-93CH-5005982",
-    "Cybersecurity|https://www.investing.com/news/company-news/pinnacle-bank-promotes-cliff-dennett-to-ceo-effective-feb-1-93CH-5005981",
-    "SG Banks|https://www.investing.com/news/earnings/quantumsi-earnings-beat-by-002-revenue-fell-short-of-estimates-5006005",
-    "SG Banks|https://www.investing.com/news/earnings/puma-biotechnology-earnings-beat-by-006-revenue-fell-short-of-estimates-5006004",
     "SG Banks|https://www.investing.com/news/earnings/eton-pharmaceuticals-earnings-beat-by-019-revenue-topped-estimates-5006006",
     "SG Banks|https://www.investing.com/news/stock-market-news/audi-may-boost-size-of-new-us-auto-plant-by-3-billion-add-3000-jobs-5005725",
     "SG Banks|https://www.investing.com/news/company-news/pine-cliff-energy-reports-q3-results-cuts-net-debt-14-93CH-5006007",
@@ -5000,7 +4994,13 @@
     "AI|0263094c-b177-3209-9909-61511bfdad73",
     "AI|dc8fe615-bf0c-3d0f-a108-41afb243b5bd",
     "Watchlist|6d35815c-a7ba-3400-a4e1-581434913f6a",
-    "Watchlist|0263094c-b177-3209-9909-61511bfdad73"
+    "Watchlist|0263094c-b177-3209-9909-61511bfdad73",
+    "AI|4f1d6c27-14d6-3e80-93cc-0684ce5bc04f",
+    "Watchlist|4f1d6c27-14d6-3e80-93cc-0684ce5bc04f",
+    "Watchlist|6325ceef-f4f9-369b-b9e6-05a0a7b00784",
+    "SG Banks|https://www.channelnewsasia.com/business/astronomers-spot-white-dwarf-star-two-rings-planetary-debris-6532951",
+    "AI|420ffac7-578c-3a39-b39d-8e832ecab5b0",
+    "Watchlist|420ffac7-578c-3a39-b39d-8e832ecab5b0"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794045392.9246733,
+  "last_check": 1794046311.1845105,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-06"
