@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/xcf-global-adds-three-directors-following-business-combination-93CH-5005960",
-    "SG Banks|https://www.investing.com/news/earnings/vaalco-energy-earnings-missed-by-018-revenue-topped-estimates-5005966",
-    "SG Banks|https://www.investing.com/news/earnings/ring-energy-inc-earnings-beat-by-004-revenue-topped-estimates-5005967",
-    "SG Banks|https://www.investing.com/news/earnings/mattel-shares-tick-up-despite-guidance-missing-estimates-5005968",
-    "SG Banks|https://www.investing.com/news/sec-filings/dolphin-entertainment-shareholders-elect-directors-and-approve-auditor-at-annual-meeting-93CH-5005970",
-    "SG Banks|https://www.investing.com/news/earnings/playboy-earnings-beat-by-186-revenue-topped-estimates-5005971",
-    "SG Banks|https://www.investing.com/news/economy-news/analysisjapanese-savers-have-rediscovered-interest-rates-and-banks-are-feeling-it-5005902",
-    "SG Banks|https://www.investing.com/news/earnings/pangaea-earnings-beat-by-022-revenue-topped-estimates-5005973",
-    "Watchlist|https://www.investing.com/news/earnings/terrascend-narrows-quarterly-loss-as-revenue-rises-48-on-pennsylvania-growth-5005950",
     "Watchlist|https://www.investing.com/news/company-news/thermo-fisher-authorizes-5-billion-share-buyback-program-93CH-5005953",
     "Watchlist|https://www.investing.com/news/company-news/xcf-global-adds-three-directors-following-business-combination-93CH-5005960",
     "Watchlist|https://www.investing.com/news/earnings/vaalco-energy-earnings-missed-by-018-revenue-topped-estimates-5005966",
@@ -5000,7 +4991,16 @@
     "Watchlist|https://www.investing.com/news/economy-news/environmental-groups-turn-to-ai-despite-concerns-over-data-center-emissions-5009743",
     "Watchlist|https://www.investing.com/news/insider-trading-news/capital-one-chairman-and-ceo-fairbank-sells-186-million-in-shares-93CH-5009749",
     "Watchlist|https://www.investing.com/news/insider-trading-news/ranpak-director-alicia-tranen-sells-18696-in-stock-93CH-5009750",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/cargurus-executive-chair-langley-steinert-sells-107641-in-stock-93CH-5009751"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/cargurus-executive-chair-langley-steinert-sells-107641-in-stock-93CH-5009751",
+    "AI|https://www.investing.com/news/insider-trading-news/moodys-corp-chief-accounting-officer-phillips-sells-49335-stock-93CH-5009762",
+    "AI|https://www.investing.com/news/insider-trading-news/first-commonwealth-financial-evpcfo-reske-sells-49298-in-stock-93CH-5009763",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/moodys-corp-chief-accounting-officer-phillips-sells-49335-stock-93CH-5009762",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/first-commonwealth-financial-evpcfo-reske-sells-49298-in-stock-93CH-5009763",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/moodys-corp-chief-accounting-officer-phillips-sells-49335-stock-93CH-5009762",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/first-commonwealth-financial-evpcfo-reske-sells-49298-in-stock-93CH-5009763",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/moodys-corp-chief-accounting-officer-phillips-sells-49335-stock-93CH-5009762",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/first-commonwealth-financial-evpcfo-reske-sells-49298-in-stock-93CH-5009763",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/ex-st-engineering-singtel-exec-low-ka-hoe-to-succeed-tong-yew-heng-as-netlink-nbn-trust-ceo"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794038985.4390502,
+  "last_check": 1794039900.3887827,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-06"
