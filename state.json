@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.channelnewsasia.com/business/msci-says-it-needs-see-south-koreas-regulatory-changes-put-practice-market-upgrade-6529786",
-    "SG Banks|https://www.channelnewsasia.com/business/trump-backed-world-liberty-financial-launches-wlfi-token-buyback-program-6529781",
     "Iran|https://www.iranintl.com/en/202611063118",
     "AI|5744960e-44f5-30fd-90c1-7386ace42968",
     "AI|https://www.investing.com/news/insider-trading-news/f5-chief-technology-ops-officer-montoya-sells-427599-in-stock-93CH-5006313",
@@ -5000,7 +4998,9 @@
     "SG Banks|https://www.channelnewsasia.com/business/tesla-expand-cybertruck-production-in-bid-fill-orders-dismantling-line-next-year-6533391",
     "Watchlist|f1507081-fff1-3780-bf74-5bf67fdf6ae0",
     "Watchlist|105aa821-d157-3b0f-a86e-56417fc3a9b9",
-    "Watchlist|0e9891f3-88b2-3275-9632-d7962bb5c578"
+    "Watchlist|0e9891f3-88b2-3275-9632-d7962bb5c578",
+    "AI|b130fc63-2639-3a32-aad7-fb1d440d25b1",
+    "Watchlist|b130fc63-2639-3a32-aad7-fb1d440d25b1"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794077443.8427608,
+  "last_check": 1794078357.46488,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
