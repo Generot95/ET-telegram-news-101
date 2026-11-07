@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|c82aad94-89aa-37b1-b5a3-a5fe0c9832ef",
-    "Watchlist|62bf15cb-aa2c-4aa1-ac3a-cae07f1d5cf6",
-    "SG Banks|/companies-markets/transport-logistics/bmw-cuts-automotive-outlook-second-time-restructuring-deepens",
-    "Watchlist|c0cacb59-18b1-36da-b988-6da45748a4a4",
-    "War|c8bb3aec-b29b-43d3-adcb-cff64714c69d",
-    "Watchlist|/companies-markets/transport-logistics/bmw-cuts-automotive-outlook-second-time-restructuring-deepens",
-    "SG Banks|/companies-markets/capital-markets-currencies/us-stocks-nasdaq-posts-biggest-daily-drop-19-months-fears-ai-regulations",
-    "Watchlist|/companies-markets/capital-markets-currencies/us-stocks-nasdaq-posts-biggest-daily-drop-19-months-fears-ai-regulations",
-    "Crypto|9c9dc29e-212c-33be-86f7-678faba90872",
-    "AI|50ace79f-0e43-3499-b6f3-9eabf89c32eb",
-    "AI|6091287f-ae3a-3a52-8e0f-da56bc8f712d",
-    "AI|b88bbaf8-2b84-3441-9f83-4292347ffa60",
     "Watchlist|50ace79f-0e43-3499-b6f3-9eabf89c32eb",
     "Watchlist|6091287f-ae3a-3a52-8e0f-da56bc8f712d",
     "Watchlist|b88bbaf8-2b84-3441-9f83-4292347ffa60",
@@ -5000,7 +4988,19 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/dream-finders-homes-director-len-sturm-buys-10530-shares-93CH-5009641",
     "Iran|https://www.iranintl.com/en/202611023974",
     "War|https://www.investing.com/news/world-news/haiti-pm-says-gang-leader-mathias-saintil-dead-5009477",
-    "War|https://www.investing.com/news/world-news/russian-forces-launch-missile-attack-on-ukrainian-capital-kyiv-mayor-says-5009502"
+    "War|https://www.investing.com/news/world-news/russian-forces-launch-missile-attack-on-ukrainian-capital-kyiv-mayor-says-5009502",
+    "AI|https://www.investing.com/news/insider-trading-news/regional-management-director-sandra-johnson-sells-104144-in-stock-93CH-5009649",
+    "AI|https://www.investing.com/news/insider-trading-news/martine-rothblatt-united-therapeutics-ceo-sells-43m-in-shares-93CH-5009650",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/regional-management-director-sandra-johnson-sells-104144-in-stock-93CH-5009649",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/martine-rothblatt-united-therapeutics-ceo-sells-43m-in-shares-93CH-5009650",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/regional-management-director-sandra-johnson-sells-104144-in-stock-93CH-5009649",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/martine-rothblatt-united-therapeutics-ceo-sells-43m-in-shares-93CH-5009650",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/regional-management-director-sandra-johnson-sells-104144-in-stock-93CH-5009649",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/martine-rothblatt-united-therapeutics-ceo-sells-43m-in-shares-93CH-5009650",
+    "Watchlist|c0cacb59-18b1-36da-b988-6da45748a4a4",
+    "AI|139eba89-fc48-32aa-b846-aa783b124f77",
+    "Watchlist|139eba89-fc48-32aa-b846-aa783b124f77",
+    "Crypto|b65c1bac-f3cd-3b42-b191-0cf5cce7bf99"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794028005.0783415,
+  "last_check": 1794028910.4689016,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-06"
