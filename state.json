@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/earnings/devon-energy-earnings-missed-by-039-revenue-topped-estimates-5005776",
-    "Watchlist|https://www.investing.com/news/earnings/klx-energy-earnings-missed-by-032-revenue-topped-estimates-5005778",
     "Watchlist|https://www.investing.com/news/earnings/eog-resources-earnings-beat-by-046-revenue-topped-estimates-5005777",
     "Watchlist|https://www.investing.com/news/stock-market-news/democratic-senator-demands-tech-firms-fcc-chair-turn-over-documents-5005779",
     "Watchlist|https://www.investing.com/news/earnings/saul-centers-earnings-beat-by-057-revenue-fell-short-of-estimates-5005780",
@@ -5000,7 +4998,9 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/abbott-laboratories-evp-mary-moreland-sells-406000-in-shares-93CH-5009622",
     "Watchlist|https://www.investing.com/news/insider-trading-news/hca-healthcare-evp-and-coo-jon-foster-sells-159m-in-stock-93CH-5009623",
     "Watchlist|https://www.investing.com/news/earnings/bumble-earnings-missed-by-004-revenue-fell-short-of-estimates-5009626",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/hca-healthcare-evp-michael-schlosser-sells-593582-in-stock-93CH-5009633"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/hca-healthcare-evp-michael-schlosser-sells-593582-in-stock-93CH-5009633",
+    "Cybersecurity|3b03140d-8268-3c43-9346-df1f92ed8b85",
+    "Watchlist|2b832581-5540-32ea-a137-9d94d9ca4665"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794026171.431727,
+  "last_check": 1794027082.2740743,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-06"
