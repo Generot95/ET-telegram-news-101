@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/blaize-appoints-martin-costas-as-coo-and-cfo-93CH-5005658",
-    "AI|https://www.investing.com/news/company-news/willdan-receives-notices-for-643-mw-energy-infrastructure-projects-93CH-5005657",
-    "Crypto|beb47cb9-f3f6-3e72-a70a-0f14eb203dd1",
-    "Cybersecurity|41705916-2862-364c-992e-ac0170e638bf",
     "Cybersecurity|https://www.investing.com/news/company-news/transunion-names-david-gilbert-interim-cfo-effective-jan-1-93CH-5005664",
     "Cybersecurity|https://www.investing.com/news/company-news/devon-energy-outlines-strategy-after-coterra-merger-93CH-5005662",
     "Cybersecurity|https://www.investing.com/news/company-news/pyxus-international-reaches-debt-restructuring-deal-with-creditors-93CH-5005665",
@@ -5000,7 +4996,11 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/remitly-director-joshua-hug-sells-239965-in-company-stock-93CH-5009465",
     "Watchlist|https://www.investing.com/news/insider-trading-news/adaptive-biotechnologies-president-and-coo-julie-rubinstein-sells-954k-stock-93CH-5009476",
     "Watchlist|https://www.investing.com/news/world-news/haiti-pm-says-gang-leader-mathias-saintil-dead-5009477",
-    "Crypto|b546e60f-0b5c-39b7-947f-a5af233b6bdd"
+    "Crypto|b546e60f-0b5c-39b7-947f-a5af233b6bdd",
+    "SG Banks|https://www.channelnewsasia.com/singapore/dbs-uob-ocbc-banks-earnings-outlook-6531376",
+    "AI|11f8376c-14ce-3e64-99de-60e45a0941e1",
+    "Watchlist|11f8376c-14ce-3e64-99de-60e45a0941e1",
+    "War|1c714363-70d6-37c3-a999-079b6361ef25"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794013326.7083354,
+  "last_check": 1794014246.9133945,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-06"
