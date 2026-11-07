@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|86eedd07-fda0-3502-95e4-38846bf24432",
-    "Watchlist|e59ec231-b9b6-3a5a-82bb-9bad0197c085",
-    "Watchlist|b4af1d65-0c6f-3482-ae73-0e087c3ced01",
-    "SG Banks|/companies-markets/banking-finance/ecbs-lagarde-says-data-will-tell-if-december-rate-hike-needed",
-    "Watchlist|/companies-markets/banking-finance/ecbs-lagarde-says-data-will-tell-if-december-rate-hike-needed",
-    "War|WP-MKTW-0005332432",
-    "AI|WP-MKTW-0005332432",
     "Cybersecurity|WP-MKTW-0005332432",
     "War|3bcc9cc5-0e64-3f45-aa08-568c58e31387",
     "War|WP-MKTW-0005332715",
@@ -5000,7 +4993,14 @@
     "Cybersecurity|https://www.investing.com/news/company-news/schroders-seeks-172-million-sale-of-singapore-shopping-mall--bloomberg-5009721",
     "SG Banks|https://www.investing.com/news/company-news/schroders-seeks-172-million-sale-of-singapore-shopping-mall--bloomberg-5009721",
     "Watchlist|12080461-da5f-36b2-8153-ffdce1b8e4e7",
-    "Watchlist|https://www.investing.com/news/company-news/schroders-seeks-172-million-sale-of-singapore-shopping-mall--bloomberg-5009721"
+    "Watchlist|https://www.investing.com/news/company-news/schroders-seeks-172-million-sale-of-singapore-shopping-mall--bloomberg-5009721",
+    "AI|https://www.investing.com/news/economy-news/trump-administration-drops-california-mailin-ballot-lawsuit-after-midterms-5009726",
+    "Cybersecurity|https://www.investing.com/news/economy-news/trump-administration-drops-california-mailin-ballot-lawsuit-after-midterms-5009726",
+    "SG Banks|https://www.investing.com/news/economy-news/trump-administration-drops-california-mailin-ballot-lawsuit-after-midterms-5009726",
+    "Watchlist|https://www.investing.com/news/economy-news/trump-administration-drops-california-mailin-ballot-lawsuit-after-midterms-5009726",
+    "SG Banks|/companies-markets/banking-finance/ecbs-lagarde-says-data-will-tell-if-december-rate-hike-needed",
+    "Watchlist|/companies-markets/banking-finance/ecbs-lagarde-says-data-will-tell-if-december-rate-hike-needed",
+    "SG Banks|https://www.straitstimes.com/business/property/schroders-seeks-to-sell-wisteria-mall-in-yishun-in-bid-to-offload-singapore-properties"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794034412.1310885,
+  "last_check": 1794035311.9881861,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-06"
