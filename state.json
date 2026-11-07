@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-nintendo-stock-sliding-today-93CH-5006370",
-    "Watchlist|https://www.investing.com/news/stock-market-news/bottler-cocacola-hbc-says-no-notification-from-russia-on-asset-changes-5006376",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/cavco-industries-director-richard-kerley-sells-310683-in-stock-93CH-5006378",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/scientific-industries-chairman-john-moore-buys-6000-in-stock-93CH-5006379",
     "Watchlist|https://www.investing.com/news/insider-trading-news/chewy-chief-accounting-officer-sells-110745-in-stock-93CH-5006380",
     "War|https://www.investing.com/news/commodities-news/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation-5002042",
     "SG Banks|/international/global/global-asset-managers-warn-geopolitical-and-ai-concentration-risk-need-new-approach-investing",
@@ -5000,7 +4996,11 @@
     "War|2df9b5c0-7948-368c-977b-953128651f39",
     "War|71f7a845-c93d-3ea0-a709-3259ae5b1463",
     "SG Banks|/companies-markets/no-two-days-are-same-inside-lives-singapores-remisiers",
-    "Watchlist|/companies-markets/no-two-days-are-same-inside-lives-singapores-remisiers"
+    "Watchlist|/companies-markets/no-two-days-are-same-inside-lives-singapores-remisiers",
+    "AI|https://www.investing.com/news/company-news/voyager-technologies-selected-for-nasas-10b-lunar-contract-93CH-5010080",
+    "Cybersecurity|https://www.investing.com/news/company-news/voyager-technologies-selected-for-nasas-10b-lunar-contract-93CH-5010080",
+    "SG Banks|https://www.investing.com/news/company-news/voyager-technologies-selected-for-nasas-10b-lunar-contract-93CH-5010080",
+    "Watchlist|https://www.investing.com/news/company-news/voyager-technologies-selected-for-nasas-10b-lunar-contract-93CH-5010080"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794093015.3149486,
+  "last_check": 1794093913.849785,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
