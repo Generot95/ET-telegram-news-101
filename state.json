@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/asur-reports-09-decline-in-october-passenger-traffic-93CH-5005757",
-    "AI|https://www.investing.com/news/company-news/xenergy-selects-fluor-for-washington-nuclear-reactor-project-93CH-5005758",
-    "Cybersecurity|https://www.investing.com/news/earnings/devon-energy-earnings-missed-by-039-revenue-topped-estimates-5005776",
-    "Cybersecurity|https://www.investing.com/news/earnings/klx-energy-earnings-missed-by-032-revenue-topped-estimates-5005778",
     "Cybersecurity|https://www.investing.com/news/earnings/eog-resources-earnings-beat-by-046-revenue-topped-estimates-5005777",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/democratic-senator-demands-tech-firms-fcc-chair-turn-over-documents-5005779",
     "Cybersecurity|https://www.investing.com/news/earnings/saul-centers-earnings-beat-by-057-revenue-fell-short-of-estimates-5005780",
@@ -5000,7 +4996,11 @@
     "War|80049582-5d5e-36d2-b1a0-82a9a3e50c1c",
     "Watchlist|a45d8e83-72e7-3992-bcdc-02d22ef4f7b3",
     "AI|b3f39913-cf91-3f5b-8c8c-161cbb93932d",
-    "Watchlist|b3f39913-cf91-3f5b-8c8c-161cbb93932d"
+    "Watchlist|b3f39913-cf91-3f5b-8c8c-161cbb93932d",
+    "Crypto|3366eb6f-191c-39b6-827e-9e0675f9b031",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/bitcoin-steadies-after-record-hack-fallout-us-midterms-turbulence",
+    "AI|fe5ec241-7b2b-3c33-bb60-10a049f7d5d8",
+    "Watchlist|fe5ec241-7b2b-3c33-bb60-10a049f7d5d8"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794022483.8064485,
+  "last_check": 1794023400.1449392,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-06"
