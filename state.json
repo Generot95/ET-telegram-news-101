@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|b4af1d65-0c6f-3482-ae73-0e087c3ced01",
-    "Watchlist|93cb9cff-b7f5-3055-8fdc-8ff022bbc1bf",
-    "Watchlist|8fc1ed06-6941-3291-ae48-976182d12b01",
-    "Watchlist|06ee220b-e987-3776-9ea1-003a8abfe942",
-    "Watchlist|b08361f2-a20a-37f4-bdc5-57fc483e6188",
-    "Watchlist|bdc66753-f26c-32fa-b297-d4388671fb06",
     "Watchlist|86eedd07-fda0-3502-95e4-38846bf24432",
     "Watchlist|e59ec231-b9b6-3a5a-82bb-9bad0197c085",
     "Watchlist|b4af1d65-0c6f-3482-ae73-0e087c3ced01",
@@ -5000,7 +4994,13 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/environmental-groups-embrace-ai-even-as-they-warn-of-data-center-impacts-5009711",
     "Watchlist|https://www.investing.com/news/commodities-news/as-cop31-comes-to-turkey-satellites-reveal-a-landfill-methane-problem-5009712",
     "Iran|https://www.iranintl.com/en/202611041086",
-    "Watchlist|/companies-markets/capital-markets-currencies/european-shares-jump-over-1-after-democrats-sweep-us-congress-novo-nordisk-surges"
+    "Watchlist|/companies-markets/capital-markets-currencies/european-shares-jump-over-1-after-democrats-sweep-us-congress-novo-nordisk-surges",
+    "AI|12080461-da5f-36b2-8153-ffdce1b8e4e7",
+    "Watchlist|12080461-da5f-36b2-8153-ffdce1b8e4e7",
+    "AI|https://www.investing.com/news/company-news/schroders-seeks-172-million-sale-of-singapore-shopping-mall--bloomberg-5009721",
+    "Cybersecurity|https://www.investing.com/news/company-news/schroders-seeks-172-million-sale-of-singapore-shopping-mall--bloomberg-5009721",
+    "SG Banks|https://www.investing.com/news/company-news/schroders-seeks-172-million-sale-of-singapore-shopping-mall--bloomberg-5009721",
+    "Watchlist|https://www.investing.com/news/company-news/schroders-seeks-172-million-sale-of-singapore-shopping-mall--bloomberg-5009721"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794032581.6334999,
+  "last_check": 1794033499.2176452,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-06"
