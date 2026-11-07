@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/chewy-chief-accounting-officer-sells-110745-in-stock-93CH-5006380",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/ryerson-ceo-edward-lehner-sells-685840-in-common-stock-93CH-5006361",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/bcb-bancorp-director-denny-kim-buys-500-in-common-stock-93CH-5006363",
-    "SG Banks|https://www.investing.com/news/cryptocurrency-news/trump-crypto-memecoin-slumps-to-record-low-after-historic-midterm-loss-5006367",
-    "SG Banks|https://www.investing.com/news/stock-market-news/japan-tobacco-shares-face-19-slump-after-kremlin-seizes-russian-assets-5006368",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-li-ning-stock-rallying-today-93CH-5006369",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-nintendo-stock-sliding-today-93CH-5006370",
-    "SG Banks|https://www.investing.com/news/stock-market-news/bottler-cocacola-hbc-says-no-notification-from-russia-on-asset-changes-5006376",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/cavco-industries-director-richard-kerley-sells-310683-in-stock-93CH-5006378",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/scientific-industries-chairman-john-moore-buys-6000-in-stock-93CH-5006379",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/chewy-chief-accounting-officer-sells-110745-in-stock-93CH-5006380",
-    "Watchlist|WP-MKTW-0003853114",
     "Watchlist|https://www.investing.com/news/insider-trading-news/ryerson-ceo-edward-lehner-sells-685840-in-common-stock-93CH-5006361",
     "Watchlist|https://www.investing.com/news/insider-trading-news/bcb-bancorp-director-denny-kim-buys-500-in-common-stock-93CH-5006363",
     "Watchlist|https://www.investing.com/news/cryptocurrency-news/trump-crypto-memecoin-slumps-to-record-low-after-historic-midterm-loss-5006367",
@@ -5000,7 +4988,19 @@
     "AI|https://www.investing.com/news/economy-news/emerging-market-central-banks-turn-hawkish-as-inflation-pressures-mount-citi-says-5010059",
     "Cybersecurity|https://www.investing.com/news/economy-news/emerging-market-central-banks-turn-hawkish-as-inflation-pressures-mount-citi-says-5010059",
     "SG Banks|https://www.investing.com/news/economy-news/emerging-market-central-banks-turn-hawkish-as-inflation-pressures-mount-citi-says-5010059",
-    "Watchlist|https://www.investing.com/news/economy-news/emerging-market-central-banks-turn-hawkish-as-inflation-pressures-mount-citi-says-5010059"
+    "Watchlist|https://www.investing.com/news/economy-news/emerging-market-central-banks-turn-hawkish-as-inflation-pressures-mount-citi-says-5010059",
+    "AI|0866fd80-5f0e-31ac-8e1b-909adaacfb82",
+    "Watchlist|0866fd80-5f0e-31ac-8e1b-909adaacfb82",
+    "AI|https://www.investing.com/news/insider-trading-news/dropbox-chief-accounting-officer-sells-74884-in-stock-93CH-5010062",
+    "AI|https://www.investing.com/news/insider-trading-news/world-acceptance-director-benjamin-robinson-sells-14878-in-shares-93CH-5010063",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/dropbox-chief-accounting-officer-sells-74884-in-stock-93CH-5010062",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/world-acceptance-director-benjamin-robinson-sells-14878-in-shares-93CH-5010063",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/dropbox-chief-accounting-officer-sells-74884-in-stock-93CH-5010062",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/world-acceptance-director-benjamin-robinson-sells-14878-in-shares-93CH-5010063",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/dropbox-chief-accounting-officer-sells-74884-in-stock-93CH-5010062",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/world-acceptance-director-benjamin-robinson-sells-14878-in-shares-93CH-5010063",
+    "AI|7f140955-c1e0-36a1-9c1c-8af3948a596d",
+    "Watchlist|7f140955-c1e0-36a1-9c1c-8af3948a596d"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794088425.0278184,
+  "last_check": 1794089339.4420173,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
