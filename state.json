@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/earnings/vaalco-energy-earnings-missed-by-018-revenue-topped-estimates-5005966",
-    "AI|https://www.investing.com/news/earnings/ring-energy-inc-earnings-beat-by-004-revenue-topped-estimates-5005967",
-    "AI|https://www.investing.com/news/earnings/mattel-shares-tick-up-despite-guidance-missing-estimates-5005968",
     "AI|https://www.investing.com/news/sec-filings/dolphin-entertainment-shareholders-elect-directors-and-approve-auditor-at-annual-meeting-93CH-5005970",
     "AI|https://www.investing.com/news/earnings/playboy-earnings-beat-by-186-revenue-topped-estimates-5005971",
     "AI|https://www.investing.com/news/economy-news/analysisjapanese-savers-have-rediscovered-interest-rates-and-banks-are-feeling-it-5005902",
@@ -5000,7 +4997,10 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/bristol-myers-squibb-director-julia-haller-sells-240578-in-stock-93CH-5009733",
     "SG Banks|https://www.investing.com/news/economy-news/uk-pm-burnham-seeks-closer-eu-ties-as-brexit-tensions-threaten-growth-push-5009734",
     "Watchlist|https://www.investing.com/news/insider-trading-news/bristol-myers-squibb-director-julia-haller-sells-240578-in-stock-93CH-5009733",
-    "Watchlist|https://www.investing.com/news/economy-news/uk-pm-burnham-seeks-closer-eu-ties-as-brexit-tensions-threaten-growth-push-5009734"
+    "Watchlist|https://www.investing.com/news/economy-news/uk-pm-burnham-seeks-closer-eu-ties-as-brexit-tensions-threaten-growth-push-5009734",
+    "AI|76039ad8-c9d2-3da1-a7e8-a247d4355600",
+    "Watchlist|76039ad8-c9d2-3da1-a7e8-a247d4355600",
+    "Watchlist|f01b932e-cf8d-31a1-add0-dad580aa2d61"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794036236.3156693,
+  "last_check": 1794037152.8450391,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-06"
