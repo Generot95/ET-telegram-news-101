@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/audi-may-boost-size-of-new-us-auto-plant-by-3-billion-add-3000-jobs-5005725",
-    "AI|https://www.investing.com/news/stock-market-news/macquarie-group-posts-50-growth-in-firsthalf-profit-5005775",
-    "AI|https://www.investing.com/news/company-news/natera-appoints-solomon-moshkevich-as-new-ceo-93CH-5005701",
-    "AI|https://www.investing.com/news/company-news/stewart-information-services-adds-michael-brown-to-board-93CH-5005704",
-    "AI|https://www.investing.com/news/company-news/pnc-names-overstrom-as-cfo-reilly-to-become-vice-chairman-93CH-5005703",
-    "AI|https://www.investing.com/news/company-news/cloudflare-names-christian-smith-as-president-of-revenue-93CH-5005707",
-    "AI|https://www.investing.com/news/company-news/elutia-plans-q4-fda-submission-for-infectionprevention-device-93CH-5005708",
-    "AI|https://www.investing.com/news/company-news/southside-bancshares-declares-037-quarterly-dividend-93CH-5005755",
-    "AI|https://www.investing.com/news/company-news/granite-wins-515m-contract-for-la-rail-expansion-project-93CH-5005754",
-    "AI|https://www.investing.com/news/company-news/micron-board-director-haynesworth-to-retire-in-january-93CH-5005756",
     "AI|https://www.investing.com/news/company-news/asur-reports-09-decline-in-october-passenger-traffic-93CH-5005757",
     "AI|https://www.investing.com/news/company-news/xenergy-selects-fluor-for-washington-nuclear-reactor-project-93CH-5005758",
     "Cybersecurity|https://www.investing.com/news/earnings/devon-energy-earnings-missed-by-039-revenue-topped-estimates-5005776",
@@ -5000,7 +4990,17 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/ryerson-holding-evp-andrew-greiff-sells-96300-in-common-stock-93CH-5009586",
     "Watchlist|https://www.investing.com/news/economy-news/russia-launches-ballistic-missile-attack-on-kyiv-ahead-of-abu-dhabi-peace-talks-5009587",
     "AI|cee7be5e-fcce-32d5-91cc-f69c7110d024",
-    "Watchlist|cee7be5e-fcce-32d5-91cc-f69c7110d024"
+    "Watchlist|cee7be5e-fcce-32d5-91cc-f69c7110d024",
+    "War|50b50e01-12a3-331a-a3c9-47968dd44321",
+    "AI|https://www.investing.com/news/insider-trading-news/sharkninja-ceo-mark-barrocas-sells-25-million-in-company-shares-93CH-5009595",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/sharkninja-ceo-mark-barrocas-sells-25-million-in-company-shares-93CH-5009595",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/sharkninja-ceo-mark-barrocas-sells-25-million-in-company-shares-93CH-5009595",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/sharkninja-ceo-mark-barrocas-sells-25-million-in-company-shares-93CH-5009595",
+    "War|0e9018ca-50de-3c62-ab73-9a3c5cb2c12a",
+    "War|80049582-5d5e-36d2-b1a0-82a9a3e50c1c",
+    "Watchlist|a45d8e83-72e7-3992-bcdc-02d22ef4f7b3",
+    "AI|b3f39913-cf91-3f5b-8c8c-161cbb93932d",
+    "Watchlist|b3f39913-cf91-3f5b-8c8c-161cbb93932d"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794021579.636223,
+  "last_check": 1794022483.8064485,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-06"
