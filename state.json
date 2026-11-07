@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|535b8dcf-74e7-395b-a409-2995042226a9",
-    "AI|fc671f53-57dd-34d2-b734-fdd9254b416e",
-    "SG Banks|https://www.straitstimes.com/business/invest/buy-money-market-funds-to-benefit-from-rising-rates",
     "Watchlist|fc671f53-57dd-34d2-b734-fdd9254b416e",
     "AI|755ec331-39c1-366a-b044-982efb3bd5b6",
     "Watchlist|755ec331-39c1-366a-b044-982efb3bd5b6",
@@ -5000,7 +4997,10 @@
     "Watchlist|https://www.investing.com/news/economy-news/imfs-georgieva-says-any-slowdown-in-aidriven-growth-would-be-factor-for-central-banks-5009427",
     "Iran|https://www.iranintl.com/en/202611039785",
     "SG Banks|/companies-markets/banking-finance/money-managers-including-kkr-get-ready-snatch-bargain-leveraged-loans",
-    "SG Banks|/international/high-credit-card-rates-emerge-rare-bipartisan-midterms-issue"
+    "SG Banks|/international/high-credit-card-rates-emerge-rare-bipartisan-midterms-issue",
+    "War|0dbc802c-b96e-3239-9a92-d2663bd632a2",
+    "AI|db2820d2-4d7f-301c-972e-33cb8c987467",
+    "Watchlist|db2820d2-4d7f-301c-972e-33cb8c987467"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794009666.9971907,
+  "last_check": 1794010579.8217947,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-06"
