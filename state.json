@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|WP-MKTW-0005332432",
-    "War|3bcc9cc5-0e64-3f45-aa08-568c58e31387",
-    "War|WP-MKTW-0005332715",
-    "AI|WP-MKTW-0005332715",
-    "Cybersecurity|WP-MKTW-0005332715",
-    "AI|https://www.investing.com/news/earnings/terrascend-narrows-quarterly-loss-as-revenue-rises-48-on-pennsylvania-growth-5005950",
-    "AI|https://www.investing.com/news/company-news/thermo-fisher-authorizes-5-billion-share-buyback-program-93CH-5005953",
-    "AI|https://www.investing.com/news/company-news/xcf-global-adds-three-directors-following-business-combination-93CH-5005960",
     "AI|https://www.investing.com/news/earnings/vaalco-energy-earnings-missed-by-018-revenue-topped-estimates-5005966",
     "AI|https://www.investing.com/news/earnings/ring-energy-inc-earnings-beat-by-004-revenue-topped-estimates-5005967",
     "AI|https://www.investing.com/news/earnings/mattel-shares-tick-up-despite-guidance-missing-estimates-5005968",
@@ -5000,7 +4992,15 @@
     "Watchlist|https://www.investing.com/news/economy-news/trump-administration-drops-california-mailin-ballot-lawsuit-after-midterms-5009726",
     "SG Banks|/companies-markets/banking-finance/ecbs-lagarde-says-data-will-tell-if-december-rate-hike-needed",
     "Watchlist|/companies-markets/banking-finance/ecbs-lagarde-says-data-will-tell-if-december-rate-hike-needed",
-    "SG Banks|https://www.straitstimes.com/business/property/schroders-seeks-to-sell-wisteria-mall-in-yishun-in-bid-to-offload-singapore-properties"
+    "SG Banks|https://www.straitstimes.com/business/property/schroders-seeks-to-sell-wisteria-mall-in-yishun-in-bid-to-offload-singapore-properties",
+    "AI|https://www.investing.com/news/insider-trading-news/bristol-myers-squibb-director-julia-haller-sells-240578-in-stock-93CH-5009733",
+    "AI|https://www.investing.com/news/economy-news/uk-pm-burnham-seeks-closer-eu-ties-as-brexit-tensions-threaten-growth-push-5009734",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/bristol-myers-squibb-director-julia-haller-sells-240578-in-stock-93CH-5009733",
+    "Cybersecurity|https://www.investing.com/news/economy-news/uk-pm-burnham-seeks-closer-eu-ties-as-brexit-tensions-threaten-growth-push-5009734",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/bristol-myers-squibb-director-julia-haller-sells-240578-in-stock-93CH-5009733",
+    "SG Banks|https://www.investing.com/news/economy-news/uk-pm-burnham-seeks-closer-eu-ties-as-brexit-tensions-threaten-growth-push-5009734",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/bristol-myers-squibb-director-julia-haller-sells-240578-in-stock-93CH-5009733",
+    "Watchlist|https://www.investing.com/news/economy-news/uk-pm-burnham-seeks-closer-eu-ties-as-brexit-tensions-threaten-growth-push-5009734"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794035311.9881861,
+  "last_check": 1794036236.3156693,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-06"
