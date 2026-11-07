@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-unity-software-stock-surging-afterhours-today-93CH-5006123",
-    "SG Banks|https://www.investing.com/news/stock-market-news/exclusiveai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say-5006110",
     "SG Banks|https://www.investing.com/news/economy-news/analysischinas-yuan-dilemma-too-weak-abroad-and-too-strong-at-home-5006064",
     "Watchlist|3dfc3c7b-6bc6-341d-885a-53512bc132f2",
     "Watchlist|ad231882-ab7a-3e3b-8ba0-6b1bb83087fe",
@@ -5000,7 +4998,9 @@
     "SG Banks|https://www.straitstimes.com/business/qantas-hikes-fares-deepens-cuts-to-flying-as-fuel-costs-bite",
     "SG Banks|https://www.straitstimes.com/business/ocbcs-q3-net-profit-up-3-at-2-04b-lifted-by-record-banking-operations-profit",
     "SG Banks|https://www.straitstimes.com/business/wall-street-fear-gauge-soars-as-steamroller-shows-up-for-the-ai-trade",
-    "SG Banks|https://www.straitstimes.com/business/baggage-handling-jobs-draw-local-applicants-but-recruitment-remains-a-challenge"
+    "SG Banks|https://www.straitstimes.com/business/baggage-handling-jobs-draw-local-applicants-but-recruitment-remains-a-challenge",
+    "AI|6212f77d-4228-3306-aa6a-26649ace754c",
+    "Watchlist|6212f77d-4228-3306-aa6a-26649ace754c"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794055457.4208963,
+  "last_check": 1794056380.0276167,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
