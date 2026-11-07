@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/economy-news/japan-q3-gdp-growth-seen-slowing-sharply-as-consumption-external-demand-drag-reuters-poll-5006357",
-    "SG Banks|https://www.investing.com/news/stock-market-news/asia-stocks-tumble-as-ai-rout-batters-japan-s-korea-5006358",
-    "Watchlist|https://www.investing.com/news/commodities-news/oil-set-for-sharp-weekly-drop-but-middle-east-supply-concerns-provide-floor-5006344",
     "Watchlist|https://www.investing.com/news/insider-trading-news/pc-connection-chairman-patricia-gallup-sells-126m-in-trust-shares-93CH-5006351",
     "Watchlist|https://www.investing.com/news/insider-trading-news/arhaus-10-owner-2018-reed-dynasty-trust-sells-162-million-in-shares-93CH-5006352",
     "Watchlist|https://www.investing.com/news/insider-trading-news/arhaus-ceo-john-reed-sells-186-million-in-shares-93CH-5006353",
@@ -5000,7 +4997,10 @@
     "AI|https://www.investing.com/news/stock-market-news/coreweave-seeks-truce-with-texas-governorelect-hinojosa-5010044",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/coreweave-seeks-truce-with-texas-governorelect-hinojosa-5010044",
     "SG Banks|https://www.investing.com/news/stock-market-news/coreweave-seeks-truce-with-texas-governorelect-hinojosa-5010044",
-    "Watchlist|https://www.investing.com/news/stock-market-news/coreweave-seeks-truce-with-texas-governorelect-hinojosa-5010044"
+    "Watchlist|https://www.investing.com/news/stock-market-news/coreweave-seeks-truce-with-texas-governorelect-hinojosa-5010044",
+    "Watchlist|77c90833-ff82-3b1b-ad9e-8dff1379bbf1",
+    "AI|f5d6d8de-9992-3e44-9ae3-73e6d391da5a",
+    "Watchlist|f5d6d8de-9992-3e44-9ae3-73e6d391da5a"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794085680.983103,
+  "last_check": 1794086597.8310518,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
