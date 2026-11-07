@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "War|WP-MKTW-0005331366",
-    "War|WP-MKTW-0005331042",
-    "AI|e3d70ea3-fd12-3863-9331-5c9694e8875b",
-    "AI|WP-MKTW-0005331366",
     "AI|WP-MKTW-0005331042",
     "Cybersecurity|WP-MKTW-0005331366",
     "Cybersecurity|WP-MKTW-0005331042",
@@ -5000,7 +4996,11 @@
     "Crypto|9d477295-f23f-3f75-8955-ca22ce358bd9",
     "Cybersecurity|7fcc404a-9d9e-3a56-b9a7-620c09657fd1",
     "Cybersecurity|c335a2b2-0d7a-3e03-877b-252dfb4bb2fe",
-    "Watchlist|c335a2b2-0d7a-3e03-877b-252dfb4bb2fe"
+    "Watchlist|c335a2b2-0d7a-3e03-877b-252dfb4bb2fe",
+    "AI|0114ab15-53ed-3469-9618-489016ee3a4e",
+    "Watchlist|0114ab15-53ed-3469-9618-489016ee3a4e",
+    "SG Banks|/companies-markets/capital-markets-currencies/us-wall-street-stocks-rally-after-heavy-ai-related-sell",
+    "Watchlist|/companies-markets/capital-markets-currencies/us-wall-street-stocks-rally-after-heavy-ai-related-sell"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794019727.4481533,
+  "last_check": 1794020656.3415673,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-06"
