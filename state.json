@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|3f49ed29-5cdb-3cf0-beea-fee2a2733227",
-    "SG Banks|https://www.channelnewsasia.com/business/sri-lanka-budget-faces-post-imf-test-energy-costs-bite-6530001",
-    "Watchlist|ffc74fc4-5364-31e8-aa6a-2eec4e204d2f",
-    "War|bd3d3f69-9553-3930-a1b2-023dfd6abbd3",
-    "AI|0645092a-9e74-39fd-a78a-31f48ff8bf7a",
-    "Watchlist|bd3d3f69-9553-3930-a1b2-023dfd6abbd3",
-    "AI|https://www.investing.com/news/company-news/doubleview-gold-closes-32m-flowthrough-financing-tranche-93CH-5006385",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-softbank-stock-tumbling-today-93CH-5006386",
-    "AI|https://www.investing.com/news/insider-trading-news/cavco-industries-evp-sells-371270-in-shares-93CH-5006396",
-    "AI|https://www.investing.com/news/stock-market-news/s-korea-eases-margin-trading-rules-to-stem-forced-stock-sales-5006397",
     "Cybersecurity|https://www.investing.com/news/company-news/doubleview-gold-closes-32m-flowthrough-financing-tranche-93CH-5006385",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-softbank-stock-tumbling-today-93CH-5006386",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/cavco-industries-evp-sells-371270-in-shares-93CH-5006396",
@@ -5000,7 +4990,17 @@
     "Watchlist|WP-MKTW-0003853112",
     "Watchlist|WP-MKTW-0004179843",
     "Watchlist|WP-MKTW-0004255367",
-    "Crypto|67ee3020-d67a-32d1-b1f3-2999a175b907"
+    "Crypto|67ee3020-d67a-32d1-b1f3-2999a175b907",
+    "AI|https://www.investing.com/news/insider-trading-news/southern-co-comptroller-matthew-kim-sells-9339-in-shares-93CH-5010085",
+    "AI|https://www.investing.com/news/insider-trading-news/oceanfirst-director-jack-farris-buys-10008-in-company-stock-93CH-5010086",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/southern-co-comptroller-matthew-kim-sells-9339-in-shares-93CH-5010085",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/oceanfirst-director-jack-farris-buys-10008-in-company-stock-93CH-5010086",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/southern-co-comptroller-matthew-kim-sells-9339-in-shares-93CH-5010085",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/oceanfirst-director-jack-farris-buys-10008-in-company-stock-93CH-5010086",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/southern-co-comptroller-matthew-kim-sells-9339-in-shares-93CH-5010085",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/oceanfirst-director-jack-farris-buys-10008-in-company-stock-93CH-5010086",
+    "AI|f4a78869-fe53-32f1-b4ee-865525012839",
+    "Watchlist|f4a78869-fe53-32f1-b4ee-865525012839"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794094845.241679,
+  "last_check": 1794095763.1274796,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
