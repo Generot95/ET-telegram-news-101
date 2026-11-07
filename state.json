@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-ai-rout-batters-wall-st-payrolls-data-in-focus-5006240",
-    "SG Banks|https://www.investing.com/news/stock-market-news/analysts-and-investors-react-to-ai-market-rout-5006243",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/glaukos-director-gilbert-kliman-sells-632500-in-shares-93CH-5006224",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/veralto-svp-pqi-mattias-bystrom-sells-105m-in-common-stock-93CH-5006225",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/gatx-president-and-ceo-robert-lyons-sells-228-million-in-shares-93CH-5006227",
-    "Watchlist|https://www.investing.com/news/company-news/national-healthcare-declares-67-cent-quarterly-dividend-93CH-5006234",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/orange-county-bancorp-regional-president-ruhl-sells-77439-in-shares-93CH-5006236",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/hyatts-mark-vondrasek-sells-962513-in-stock-93CH-5006237",
-    "Watchlist|https://www.investing.com/news/company-news/cathie-woods-ark-sells-broadcom-stock-buys-nvidia-and-spacex-93CH-5006238",
-    "Watchlist|https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-ai-rout-batters-wall-st-payrolls-data-in-focus-5006240",
-    "Watchlist|https://www.investing.com/news/stock-market-news/analysts-and-investors-react-to-ai-market-rout-5006243",
-    "AI|19884a92-d134-32f9-8612-f037efae114c",
     "AI|54c72f87-3a80-3cc0-a589-5115468f02b8",
     "SG Banks|https://www.channelnewsasia.com/business/shares-plunge-tokyo-seoul-us-tech-rout-ai-stocks-6529531",
     "Watchlist|19884a92-d134-32f9-8612-f037efae114c",
@@ -5000,7 +4988,19 @@
     "AI|WP-MKTW-0005332287",
     "Cybersecurity|WP-MKTW-0005332287",
     "Watchlist|f7f17d50-ffe3-3d1c-839e-8dde234d9429",
-    "AI|f7f17d50-ffe3-3d1c-839e-8dde234d9429"
+    "AI|f7f17d50-ffe3-3d1c-839e-8dde234d9429",
+    "AI|https://www.investing.com/news/insider-trading-news/apogee-enterprises-director-alvord-buys-2416-in-company-stock-93CH-5009944",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/apogee-enterprises-director-alvord-buys-2416-in-company-stock-93CH-5009944",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/apogee-enterprises-director-alvord-buys-2416-in-company-stock-93CH-5009944",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/apogee-enterprises-director-alvord-buys-2416-in-company-stock-93CH-5009944",
+    "War|fb051d31-c4ed-443b-b29a-47cd2e47401e",
+    "AI|3c33d24e-152a-3b8c-b452-26a3dcb3428f",
+    "Watchlist|3c33d24e-152a-3b8c-b452-26a3dcb3428f",
+    "Watchlist|8e378081-1217-34c1-9411-29cb73593b23",
+    "AI|43c74938-900c-323f-871c-9bba9e50c62d",
+    "Watchlist|43c74938-900c-323f-871c-9bba9e50c62d",
+    "AI|70e8b764-a783-38ff-bf5f-23dcc9609d6b",
+    "Watchlist|70e8b764-a783-38ff-bf5f-23dcc9609d6b"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794067384.1399598,
+  "last_check": 1794068293.2342348,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
