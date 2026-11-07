@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|2e7efb03-5599-34a8-9601-71a41ff4260f",
-    "AI|9c9d7ce5-5b9e-32ec-9fff-69075c2d3a0c",
-    "AI|1213af8d-338e-388d-be42-cd176186cd78",
-    "AI|b15d8513-a9b6-32e8-96dd-15fc711db12e",
     "AI|bac5b05b-8624-3d68-b095-b0f982ac96b9",
     "AI|2d669caf-afb7-3c16-b9b8-46661b92ec1e",
     "AI|e2764b8f-dea4-3024-ac89-6266037e231c",
@@ -5000,7 +4996,11 @@
     "Watchlist|4c32b0d1-a277-3900-80a8-7026ea0771af",
     "Watchlist|6982ca4e-619f-3b96-9a22-3e6ee4843b02",
     "AI|6982ca4e-619f-3b96-9a22-3e6ee4843b02",
-    "Iran|https://www.iranintl.com/en/202611033758"
+    "Iran|https://www.iranintl.com/en/202611033758",
+    "AI|https://www.investing.com/news/company-news/softbank-abb-consider-china-carveout-to-rescue-54bn-robotics-deal--bloomberg-5009777",
+    "Cybersecurity|https://www.investing.com/news/company-news/softbank-abb-consider-china-carveout-to-rescue-54bn-robotics-deal--bloomberg-5009777",
+    "AI|16c76979-7c96-3c32-941b-ad20289e22ad",
+    "Watchlist|16c76979-7c96-3c32-941b-ad20289e22ad"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794042641.2783692,
+  "last_check": 1794043563.6061122,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-06"
