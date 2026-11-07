@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/earnings/ocbc-q3-profit-rises-3-as-expected-on-lending-strength-5006108",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/wisconsin-reports-infant-death-linked-to-measles-outbreak-5006111",
-    "Cybersecurity|https://www.investing.com/news/company-news/ventas-prices-500-million-senior-notes-offering-due-2033-93CH-5006112",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-unity-software-stock-surging-afterhours-today-93CH-5006123",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/exclusiveai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say-5006110",
     "Cybersecurity|https://www.investing.com/news/economy-news/analysischinas-yuan-dilemma-too-weak-abroad-and-too-strong-at-home-5006064",
     "Cybersecurity|https://www.investing.com/news/company-news/nvidia-sale-by-daniel-meuser-reported-in-schwab-account-93CH-5006054",
@@ -5000,7 +4996,11 @@
     "Watchlist|752687d6-20df-3798-a52b-1b1a1db1c9e7",
     "Watchlist|9170948e-359b-3117-8b64-5550ca95256e",
     "AI|2299a8bf-cbc8-36c3-a91d-647eec7bf651",
-    "Watchlist|2299a8bf-cbc8-36c3-a91d-647eec7bf651"
+    "Watchlist|2299a8bf-cbc8-36c3-a91d-647eec7bf651",
+    "AI|c79a54ee-1617-31fd-9d13-4c96a119d525",
+    "Watchlist|c79a54ee-1617-31fd-9d13-4c96a119d525",
+    "AI|5d76054c-6463-36b9-95bb-50bf2ab854bc",
+    "Watchlist|5d76054c-6463-36b9-95bb-50bf2ab854bc"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794053634.093699,
+  "last_check": 1794054555.8539267,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
