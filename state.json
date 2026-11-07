@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/insider-trading-news/liberty-energy-ceo-ron-gusek-buys-377335-in-company-stock-93CH-5006338",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/pale-fire-capital-se-acquires-3145m-coursera-stock-93CH-5006339",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/landmark-bancorp-director-patrick-l-alexander-sells-109460-stock-93CH-5006329",
     "Watchlist|https://www.investing.com/news/insider-trading-news/liberty-energy-chief-accounting-officer-buys-45000-in-lbrt-stock-93CH-5006337",
     "Watchlist|https://www.investing.com/news/insider-trading-news/liberty-energy-ceo-ron-gusek-buys-377335-in-company-stock-93CH-5006338",
     "Watchlist|https://www.investing.com/news/insider-trading-news/pale-fire-capital-se-acquires-3145m-coursera-stock-93CH-5006339",
@@ -5000,7 +4997,10 @@
     "AI|431c55b7-4842-3c07-8605-00dd6de24fa9",
     "AI|0bb0ceff-7bd3-3fd8-87d8-78a549148913",
     "Watchlist|431c55b7-4842-3c07-8605-00dd6de24fa9",
-    "Watchlist|0bb0ceff-7bd3-3fd8-87d8-78a549148913"
+    "Watchlist|0bb0ceff-7bd3-3fd8-87d8-78a549148913",
+    "War|WP-MKTW-0005307891",
+    "AI|WP-MKTW-0005307891",
+    "Cybersecurity|WP-MKTW-0005307891"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794080204.010276,
+  "last_check": 1794081105.6154747,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
