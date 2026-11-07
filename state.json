@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/commodities-news/oil-set-for-sharp-weekly-drop-but-middle-east-supply-concerns-provide-floor-5006344",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/pc-connection-chairman-patricia-gallup-sells-126m-in-trust-shares-93CH-5006351",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/arhaus-10-owner-2018-reed-dynasty-trust-sells-162-million-in-shares-93CH-5006352",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/arhaus-ceo-john-reed-sells-186-million-in-shares-93CH-5006353",
     "Cybersecurity|https://www.investing.com/news/economy-news/japan-q3-gdp-growth-seen-slowing-sharply-as-consumption-external-demand-drag-reuters-poll-5006357",
@@ -5000,7 +4998,9 @@
     "Watchlist|0478e3c7-eac6-31db-b8e5-1945dafb4de7",
     "Watchlist|/companies-markets/banking-finance/federal-reserves-hammack-barkin-favour-gradual-rate-hike-path-lower-inflation",
     "Watchlist|a52d6ec0-fa8f-3390-90d0-c7344ca2b1b8",
-    "AI|a52d6ec0-fa8f-3390-90d0-c7344ca2b1b8"
+    "AI|a52d6ec0-fa8f-3390-90d0-c7344ca2b1b8",
+    "AI|e9c8a823-d9db-34ea-a128-aa66842f32c6",
+    "Watchlist|e9c8a823-d9db-34ea-a128-aa66842f32c6"
   ],
   "topic_error": "",
   "last_digest": "2026-11-07",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794083865.1572864,
+  "last_check": 1794084770.6398184,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
