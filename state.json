@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/airbus-delivered-74-aircraft-in-october-faces-yearend-sprint-to-hit-2026-target-5006660",
-    "SG Banks|https://www.investing.com/news/economy-news/south-korean-corporate-reforms-hit-rough-patch-as-samsung-digs-in-5006661",
-    "SG Banks|https://www.investing.com/news/commodities-news/goldman-lowers-yearend-gold-price-forecast-on-hawkish-fed-shift-5006662",
-    "SG Banks|https://www.investing.com/news/stock-market-news/rightmove-raises-2026-eps-growth-forecast-to-at-least-7-5006664",
-    "SG Banks|https://www.investing.com/news/economy-news/boj-to-hike-in-december-seek-terminal-rate-of-2-says-excentral-bank-top-economist-5006665",
-    "Watchlist|/companies-markets/capital-markets-currencies/tech-sell-wipes-out-hedge-fund-gains-prompting-layoffs-and-risk-cuts",
-    "Watchlist|https://www.investing.com/news/economic-indicators/hungarys-retail-sales-rise-43-in-september-93CH-5006659",
     "Watchlist|https://www.investing.com/news/stock-market-news/airbus-delivered-74-aircraft-in-october-faces-yearend-sprint-to-hit-2026-target-5006660",
     "Watchlist|https://www.investing.com/news/economy-news/south-korean-corporate-reforms-hit-rough-patch-as-samsung-digs-in-5006661",
     "Watchlist|https://www.investing.com/news/commodities-news/goldman-lowers-yearend-gold-price-forecast-on-hawkish-fed-shift-5006662",
@@ -5000,7 +4993,14 @@
     "Watchlist|fff6366b-32e3-3555-9327-5394450d8f8f",
     "Watchlist|eccb8e5c-84cf-31b2-8ab5-fb6864155494",
     "AI|eccb8e5c-84cf-31b2-8ab5-fb6864155494",
-    "SG Banks|/companies-markets/capital-markets-currencies/tech-sell-wipes-out-hedge-fund-gains-prompting-layoffs-and-risk-cuts"
+    "SG Banks|/companies-markets/capital-markets-currencies/tech-sell-wipes-out-hedge-fund-gains-prompting-layoffs-and-risk-cuts",
+    "AI|84a56448-596a-313e-a8df-eaf34cd8c0c8",
+    "Watchlist|84a56448-596a-313e-a8df-eaf34cd8c0c8",
+    "AI|https://www.investing.com/news/stock-market-news/top-5-stocks-to-watch-this-week-5010257",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/top-5-stocks-to-watch-this-week-5010257",
+    "SG Banks|https://www.investing.com/news/stock-market-news/top-5-stocks-to-watch-this-week-5010257",
+    "Watchlist|https://www.investing.com/news/stock-market-news/top-5-stocks-to-watch-this-week-5010257",
+    "Watchlist|/companies-markets/capital-markets-currencies/tech-sell-wipes-out-hedge-fund-gains-prompting-layoffs-and-risk-cuts"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794152567.9721014,
+  "last_check": 1794153484.313611,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
