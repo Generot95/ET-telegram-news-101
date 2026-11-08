@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/cryptocurrency-news/trumps-world-liberty-financial-launches-token-buyback-program-5006409",
-    "SG Banks|https://www.investing.com/news/forex-news/asian-fx-mixed-as-yen-gains-on-risk-aversion-taiwan-dollar-breaks-33-amid-ai-rout-5006410",
-    "SG Banks|https://www.investing.com/news/earnings/karat-packaging-earnings-missed-by-018-revenue-fell-short-of-estimates-5006411",
-    "SG Banks|https://www.investing.com/news/earnings/regency-centers-earnings-missed-by-019-revenue-topped-estimates-5006412",
     "Watchlist|https://www.investing.com/news/insider-trading-news/f5-evp-general-counsel-angelique-okeke-disposes-of-326328-in-stock-93CH-5006404",
     "Watchlist|https://www.investing.com/news/insider-trading-news/ncino-chief-legal--admin-officer-sells-182021-in-shares-93CH-5006405",
     "Watchlist|https://www.investing.com/news/stock-market-news/exclusivechinas-top-flash-memory-chipmaker-targets-more-homegrown-tools-for-new-factory-sources-say-5006408",
@@ -5000,7 +4996,11 @@
     "AI|https://www.investing.com/news/economy-news/us-military-disables-cargo-vessel-attempting-to-breach-iran-blockade-5010104",
     "Cybersecurity|https://www.investing.com/news/economy-news/us-military-disables-cargo-vessel-attempting-to-breach-iran-blockade-5010104",
     "SG Banks|https://www.investing.com/news/economy-news/us-military-disables-cargo-vessel-attempting-to-breach-iran-blockade-5010104",
-    "Watchlist|https://www.investing.com/news/economy-news/us-military-disables-cargo-vessel-attempting-to-breach-iran-blockade-5010104"
+    "Watchlist|https://www.investing.com/news/economy-news/us-military-disables-cargo-vessel-attempting-to-breach-iran-blockade-5010104",
+    "SG Banks|/companies-markets/berkshire-ramps-buybacks-under-new-ceo-greg-abel-q3-operating-profit-falls-6",
+    "Watchlist|/companies-markets/berkshire-ramps-buybacks-under-new-ceo-greg-abel-q3-operating-profit-falls-6",
+    "AI|dda244e0-cc18-35d3-9652-0589d0a88d0c",
+    "Watchlist|dda244e0-cc18-35d3-9652-0589d0a88d0c"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794103079.53689,
+  "last_check": 1794104009.8338737,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
