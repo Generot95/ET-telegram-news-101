@@ -1,7 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/insider-trading-news/california-water-service-director-carol-pottenger-sells-132650-in-stock-93CH-5006472",
     "AI|https://www.investing.com/news/stock-market-news/lotte-rental-shares-hit-52week-high-as-tpg-launches-613-million-tender-offer-5006473",
     "AI|https://www.investing.com/news/economy-news/north-koreas-army-of-worldclass-hackers-is-secret-weapon-that-took-down-binance-5006478",
     "AI|https://www.investing.com/news/economy-news/markets-fret-over-growth-and-inflation-despite-easing-oil-prices-5006479",
@@ -5000,7 +4999,8 @@
     "Watchlist|/companies-markets/capital-markets-currencies/rising-innovation-sectors-will-reward-smids-due-course-says-natixis-im-singapore-ceo",
     "War|54e15576-8737-3ffe-8d56-7f8dfdc7d59a",
     "AI|84f9b074-a1fc-3a70-bce1-0a925811fea6",
-    "Watchlist|84f9b074-a1fc-3a70-bce1-0a925811fea6"
+    "Watchlist|84f9b074-a1fc-3a70-bce1-0a925811fea6",
+    "Crypto|37c8cf64-dd3c-3472-a72b-41614f197300"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794119579.7036219,
+  "last_check": 1794120500.732019,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
