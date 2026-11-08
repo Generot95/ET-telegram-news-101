@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/iux-officially-launches-new-credit-campaign-offering-up-to-1500-in-trading-credits-5006623",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/tesla-to-wind-down-cybertruck-production-at-texas-gigafactory-next-year-musk-says-5006624",
-    "SG Banks|https://www.investing.com/news/stock-market-news/goldman-sachs-weighs-in-on-three-australian-gold-stocks-5006619",
-    "SG Banks|https://www.investing.com/news/commodities-news/oil-rises-on-fresh-tanker-attacks-but-heads-for-steep-weekly-loss-5006219",
-    "SG Banks|https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-604-5006620",
-    "SG Banks|https://www.investing.com/news/economy-news/tech-selloff-wipes-out-hedge-fund-gains-prompting-risk-cuts-and-layoffs-5006622",
-    "SG Banks|https://www.investing.com/news/company-news/iux-officially-launches-new-credit-campaign-offering-up-to-1500-in-trading-credits-5006623",
-    "SG Banks|https://www.investing.com/news/stock-market-news/tesla-to-wind-down-cybertruck-production-at-texas-gigafactory-next-year-musk-says-5006624",
-    "Watchlist|https://www.investing.com/news/stock-market-news/goldman-sachs-weighs-in-on-three-australian-gold-stocks-5006619",
-    "Watchlist|https://www.investing.com/news/commodities-news/oil-rises-on-fresh-tanker-attacks-but-heads-for-steep-weekly-loss-5006219",
-    "Watchlist|https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-604-5006620",
-    "Watchlist|https://www.investing.com/news/economy-news/tech-selloff-wipes-out-hedge-fund-gains-prompting-risk-cuts-and-layoffs-5006622",
     "Watchlist|https://www.investing.com/news/company-news/iux-officially-launches-new-credit-campaign-offering-up-to-1500-in-trading-credits-5006623",
     "Watchlist|https://www.investing.com/news/stock-market-news/tesla-to-wind-down-cybertruck-production-at-texas-gigafactory-next-year-musk-says-5006624",
     "AI|https://www.investing.com/news/earnings/daimler-truck-q3-operating-profit-jumps-73-on-north-american-rebound-5006626",
@@ -5000,7 +4988,19 @@
     "SG Banks|https://www.channelnewsasia.com/business/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-6534256",
     "Watchlist|bf6c8b00-8415-360e-95b2-2c7bb43834fd",
     "AI|bf6c8b00-8415-360e-95b2-2c7bb43834fd",
-    "Watchlist|b96e6602-83e7-3d7e-97f2-f239333c643b"
+    "Watchlist|b96e6602-83e7-3d7e-97f2-f239333c643b",
+    "AI|3d4a91d9-79de-3604-b8e9-ba31ab74edd9",
+    "Watchlist|3d4a91d9-79de-3604-b8e9-ba31ab74edd9",
+    "Crypto|af70c8ce-5d07-3e4b-9f67-162629cb2146",
+    "AI|https://www.investing.com/news/insider-trading-news/community-bancorp-president-and-ceo-buys-21492-in-stock-93CH-5010227",
+    "AI|https://www.investing.com/news/insider-trading-news/northrop-grumman-director-mark-welsh-iii-sells-54453-of-common-stock-93CH-5010228",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/community-bancorp-president-and-ceo-buys-21492-in-stock-93CH-5010227",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/northrop-grumman-director-mark-welsh-iii-sells-54453-of-common-stock-93CH-5010228",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/community-bancorp-president-and-ceo-buys-21492-in-stock-93CH-5010227",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/northrop-grumman-director-mark-welsh-iii-sells-54453-of-common-stock-93CH-5010228",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/community-bancorp-president-and-ceo-buys-21492-in-stock-93CH-5010227",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/northrop-grumman-director-mark-welsh-iii-sells-54453-of-common-stock-93CH-5010228",
+    "War|7349e35f-5be6-3f1a-9e66-e75490e9f1dc"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794144307.9140427,
+  "last_check": 1794145234.8800888,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
