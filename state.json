@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-warby-parker-stock-rating-on-eyewear-launch-93CH-5006853",
-    "AI|https://www.investing.com/news/analyst-ratings/tapestry-stock-gains-on-strong-quarterly-results-and-raised-guidance-93CH-5006855",
     "AI|https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-unity-software-stock-price-target-on-strong-q3-results-93CH-5006854",
     "AI|https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-grindr-stock-price-target-on-growth-outlook-93CH-5006856",
     "AI|https://www.investing.com/news/analyst-ratings/goldman-sachs-lowers-sphere-entertainment-stock-price-target-to-150-on-revised-outlook-93CH-5006857",
@@ -5000,7 +4998,9 @@
     "SG Banks|https://www.investing.com/news/economic-indicators/iraq-has-reached-understandings-with-us-to-allow-oil-exports-through-hormuz-minister-says-5010300",
     "Watchlist|https://www.investing.com/news/economic-indicators/iraq-has-reached-understandings-with-us-to-allow-oil-exports-through-hormuz-minister-says-5010300",
     "AI|620d1be4-97c2-3b59-bc09-eaa280ec671f",
-    "Watchlist|620d1be4-97c2-3b59-bc09-eaa280ec671f"
+    "Watchlist|620d1be4-97c2-3b59-bc09-eaa280ec671f",
+    "War|62676663-b2a1-3ea7-853c-7c1bde00454a",
+    "SG Banks|https://www.straitstimes.com/singapore/jobs/music-therapist-help-seniors-find-connection-purpose-strength-aic"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794167214.5348916,
+  "last_check": 1794168131.6681283,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
