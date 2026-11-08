@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-unity-software-stock-price-target-on-strong-q3-results-93CH-5006854",
-    "AI|https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-grindr-stock-price-target-on-growth-outlook-93CH-5006856",
-    "AI|https://www.investing.com/news/analyst-ratings/goldman-sachs-lowers-sphere-entertainment-stock-price-target-to-150-on-revised-outlook-93CH-5006857",
-    "AI|https://www.investing.com/news/analyst-ratings/wynn-resorts-stock-price-target-lowered-to-93-by-goldman-sachs-93CH-5006859",
-    "AI|https://www.investing.com/news/analyst-ratings/goldman-sachs-lowers-yelp-stock-price-target-on-ad-headwinds-93CH-5006858",
-    "AI|https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-opendoor-stock-sell-rating-on-margin-pressure-93CH-5006860",
     "AI|https://www.investing.com/news/economy-news/global-equity-funds-post-seventh-straight-week-of-inflows-5006882",
     "AI|https://www.investing.com/news/company-news/veon-to-acquire-3375-stake-in-jungo-tv-for-473-million-93CH-5006883",
     "AI|https://www.investing.com/news/stock-market-news/why-is-mj-gleeson-stock-sliding-today-93CH-5006805",
@@ -5000,7 +4994,13 @@
     "AI|620d1be4-97c2-3b59-bc09-eaa280ec671f",
     "Watchlist|620d1be4-97c2-3b59-bc09-eaa280ec671f",
     "War|62676663-b2a1-3ea7-853c-7c1bde00454a",
-    "SG Banks|https://www.straitstimes.com/singapore/jobs/music-therapist-help-seniors-find-connection-purpose-strength-aic"
+    "SG Banks|https://www.straitstimes.com/singapore/jobs/music-therapist-help-seniors-find-connection-purpose-strength-aic",
+    "AI|189ac182-3939-3a0e-9030-03f09a37159f",
+    "AI|510788be-b1b7-3a39-8c28-7b410a5192da",
+    "Watchlist|189ac182-3939-3a0e-9030-03f09a37159f",
+    "Watchlist|510788be-b1b7-3a39-8c28-7b410a5192da",
+    "AI|24cbd29a-58d2-3c3b-b078-b0033b7d9fce",
+    "Watchlist|24cbd29a-58d2-3c3b-b078-b0033b7d9fce"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794168131.6681283,
+  "last_check": 1794169054.570245,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
