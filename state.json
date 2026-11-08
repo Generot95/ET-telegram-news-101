@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|35411f94-0eec-3e5e-bff6-211834009914",
-    "AI|83bec249-3fa5-3640-b335-df2ca20601c1",
-    "Watchlist|35411f94-0eec-3e5e-bff6-211834009914",
-    "Watchlist|83bec249-3fa5-3640-b335-df2ca20601c1",
-    "War|9fb4fdfd-fb51-3c89-80f0-51c12f2d9f16",
-    "AI|https://www.investing.com/news/analyst-ratings/jefferies-raises-first-advantage-stock-price-target-on-strong-quarter-93CH-5006968",
-    "AI|https://www.investing.com/news/analyst-ratings/canaccord-reiterates-snap-stock-rating-on-mixed-q3-results-93CH-5006970",
-    "AI|https://www.investing.com/news/analyst-ratings/deutsche-bank-cuts-evercommerce-stock-rating-on-weak-results-93CH-5006969",
-    "AI|https://www.investing.com/news/analyst-ratings/raymond-james-upgrades-solaris-energy-stock-rating-on-contract-visibility-93CH-5006971",
-    "AI|https://www.investing.com/news/earnings/affirm-delivers-quarterly-results-and-guidance-beat-raises-fullyear-gmv-outlook-5005693",
     "AI|https://www.investing.com/news/analyst-ratings/raymond-james-lowers-martin-marietta-materials-price-target-to-620-93CH-5006994",
     "AI|https://www.investing.com/news/analyst-ratings/mizuho-raises-airbnb-stock-price-target-on-ai-expansion-plans-93CH-5006995",
     "AI|https://www.investing.com/news/analyst-ratings/oppenheimer-reiterates-autodesk-stock-rating-on-partner-feedback-93CH-5006996",
@@ -5000,7 +4990,17 @@
     "Cybersecurity|WP-MKTW-0005336188",
     "AI|16c40ed3-ece8-3b35-8a03-15cd09258dc9",
     "Watchlist|16c40ed3-ece8-3b35-8a03-15cd09258dc9",
-    "Watchlist|4ae94cb7-ee80-34bd-8161-f41619b67ef4"
+    "Watchlist|4ae94cb7-ee80-34bd-8161-f41619b67ef4",
+    "AI|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-5010323",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-5010323",
+    "SG Banks|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-5010323",
+    "Watchlist|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-5010323",
+    "AI|04f3662d-c18d-3aa1-a550-8a1a2e23dea6",
+    "Watchlist|04f3662d-c18d-3aa1-a550-8a1a2e23dea6",
+    "AI|6a2dc496-3730-3e29-85ca-4f240a1dfe8c",
+    "Watchlist|6a2dc496-3730-3e29-85ca-4f240a1dfe8c",
+    "AI|40d9622e-6959-31c6-ba47-0f3dd46222d3",
+    "Watchlist|40d9622e-6959-31c6-ba47-0f3dd46222d3"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794173631.867877,
+  "last_check": 1794174550.2412755,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
