@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/earnings/definitive-healthcare-earnings-beat-by-002-revenue-topped-estimates-5006445",
-    "Cybersecurity|https://www.investing.com/news/earnings/ziff-davis-earnings-beat-by-018-revenue-fell-short-of-estimates-5006444",
-    "Cybersecurity|https://www.investing.com/news/earnings/hkex-shares-fall-nearly-2-as-q3-profit-slips-amid-slower-market-activity-5006450",
-    "Cybersecurity|https://www.investing.com/news/earnings/brighthouse-financial-earnings-missed-by-133-revenue-fell-short-of-estimates-5006452",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/aware-ceo-ajay-amlani-buys-32425-in-company-stock-93CH-5006453",
-    "Cybersecurity|https://www.investing.com/news/company-news/inovio-prices-75-million-public-offering-at-105-per-share-93CH-5006437",
-    "SG Banks|https://www.investing.com/news/earnings/honest-company-earnings-beat-by-002-revenue-topped-estimates-5006440",
     "SG Banks|https://www.investing.com/news/earnings/full-house-resorts-inc-earnings-missed-by-008-revenue-topped-estimates-5006439",
     "SG Banks|https://www.investing.com/news/earnings/ftai-infra-earnings-missed-by-077-revenue-topped-estimates-5006441",
     "SG Banks|https://www.investing.com/news/earnings/caribou-biosciences-earnings-beat-by-002-revenue-fell-short-of-estimates-5006442",
@@ -5000,7 +4993,14 @@
     "SG Banks|https://www.investing.com/news/stock-market-news/what-are-the-ai-lab-compute-commitments-5010113",
     "Watchlist|https://www.investing.com/news/stock-market-news/what-are-the-ai-lab-compute-commitments-5010113",
     "SG Banks|/international/global/china-recruited-singapore-based-executive-spy-nvidia-ceo-jensen-huang-us-intelligence",
-    "Watchlist|/international/global/china-recruited-singapore-based-executive-spy-nvidia-ceo-jensen-huang-us-intelligence"
+    "Watchlist|/international/global/china-recruited-singapore-based-executive-spy-nvidia-ceo-jensen-huang-us-intelligence",
+    "War|afaef901-2ae4-3c6b-8f4c-e327c9c4f774",
+    "Watchlist|afaef901-2ae4-3c6b-8f4c-e327c9c4f774",
+    "AI|afaef901-2ae4-3c6b-8f4c-e327c9c4f774",
+    "Watchlist|4f20d399-f9d1-3058-82aa-559320194242",
+    "AI|5ddb0126-1ad9-3bb0-9f85-9a22562f967e",
+    "Watchlist|5ddb0126-1ad9-3bb0-9f85-9a22562f967e",
+    "War|https://www.investing.com/news/world-news/who-is-qiulae-wong-the-outsider-who-could-decide-new-zealands-next-government-5010103"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794108572.7706947,
+  "last_check": 1794109501.4540558,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
