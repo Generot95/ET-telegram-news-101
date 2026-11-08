@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/insider-trading-news/ncino-chief-legal--admin-officer-sells-182021-in-shares-93CH-5006405",
-    "AI|https://www.investing.com/news/stock-market-news/exclusivechinas-top-flash-memory-chipmaker-targets-more-homegrown-tools-for-new-factory-sources-say-5006408",
-    "AI|https://www.investing.com/news/cryptocurrency-news/trumps-world-liberty-financial-launches-token-buyback-program-5006409",
-    "AI|https://www.investing.com/news/forex-news/asian-fx-mixed-as-yen-gains-on-risk-aversion-taiwan-dollar-breaks-33-amid-ai-rout-5006410",
-    "AI|https://www.investing.com/news/earnings/karat-packaging-earnings-missed-by-018-revenue-fell-short-of-estimates-5006411",
-    "AI|https://www.investing.com/news/earnings/regency-centers-earnings-missed-by-019-revenue-topped-estimates-5006412",
     "Crypto|https://www.investing.com/news/cryptocurrency-news/trumps-world-liberty-financial-launches-token-buyback-program-5006409",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/f5-evp-general-counsel-angelique-okeke-disposes-of-326328-in-stock-93CH-5006404",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/ncino-chief-legal--admin-officer-sells-182021-in-shares-93CH-5006405",
@@ -5000,7 +4994,13 @@
     "Watchlist|adfdc1b1-a8aa-3069-9c14-5cce5c7fe70a",
     "AI|e60cf05e-2d30-3a79-9645-980742909ae0",
     "Watchlist|e60cf05e-2d30-3a79-9645-980742909ae0",
-    "SG Banks|99d1f039-a841-34a4-8249-f3c776661183"
+    "SG Banks|99d1f039-a841-34a4-8249-f3c776661183",
+    "AI|https://www.investing.com/news/stock-market-news/ai-stock-selloff-drives-investors-to-china-india-and-overlooked-asian-sectors-5010098",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/ai-stock-selloff-drives-investors-to-china-india-and-overlooked-asian-sectors-5010098",
+    "SG Banks|https://www.investing.com/news/stock-market-news/ai-stock-selloff-drives-investors-to-china-india-and-overlooked-asian-sectors-5010098",
+    "Watchlist|https://www.investing.com/news/stock-market-news/ai-stock-selloff-drives-investors-to-china-india-and-overlooked-asian-sectors-5010098",
+    "SG Banks|/companies-markets/telcos-media-tech/china-recruited-singapore-based-executive-spy-nvidia-ceo-jensen-huang-us-intelligence",
+    "Watchlist|/companies-markets/telcos-media-tech/china-recruited-singapore-based-executive-spy-nvidia-ceo-jensen-huang-us-intelligence"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794100334.282174,
+  "last_check": 1794101251.3200922,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
