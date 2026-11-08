@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|/companies-markets/capital-markets-currencies/rising-innovation-sectors-will-reward-smids-due-course-says-natixis-im-singapore-ceo",
-    "Watchlist|/companies-markets/capital-markets-currencies/rising-innovation-sectors-will-reward-smids-due-course-says-natixis-im-singapore-ceo",
-    "Watchlist|768957c3-c556-39ed-9dfa-6a7f002b54b5",
-    "Watchlist|88b382f8-d556-37d0-adc7-ccb729872689",
-    "SG Banks|https://www.channelnewsasia.com/business/japanese-investors-snap-up-foreign-long-term-bonds-tech-stocks-slide-6530196",
-    "AI|https://www.investing.com/news/economic-indicators/philippines-q2-gdp-revised-higher-ahead-of-q3-print-5006464",
     "AI|https://www.investing.com/news/insider-trading-news/california-water-service-director-carol-pottenger-sells-132650-in-stock-93CH-5006472",
     "AI|https://www.investing.com/news/stock-market-news/lotte-rental-shares-hit-52week-high-as-tpg-launches-613-million-tender-offer-5006473",
     "AI|https://www.investing.com/news/economy-news/north-koreas-army-of-worldclass-hackers-is-secret-weapon-that-took-down-binance-5006478",
@@ -5000,7 +4994,13 @@
     "SG Banks|/companies-markets/singapore-ceos-shift-focus-ai-returns-very-low-tolerance-inefficiency-microsoft-executive",
     "SG Banks|/companies-markets/transport-logistics/cdg-zig-kumpool-join-singapore-malaysia-cross-border-taxi-scheme-nov-16",
     "Watchlist|/companies-markets/singapore-ceos-shift-focus-ai-returns-very-low-tolerance-inefficiency-microsoft-executive",
-    "Watchlist|/companies-markets/transport-logistics/cdg-zig-kumpool-join-singapore-malaysia-cross-border-taxi-scheme-nov-16"
+    "Watchlist|/companies-markets/transport-logistics/cdg-zig-kumpool-join-singapore-malaysia-cross-border-taxi-scheme-nov-16",
+    "Watchlist|/companies-markets/grabs-singapore-malaysia-businesses-worth-more-share-price-dbs",
+    "SG Banks|/companies-markets/capital-markets-currencies/rising-innovation-sectors-will-reward-smids-due-course-says-natixis-im-singapore-ceo",
+    "Watchlist|/companies-markets/capital-markets-currencies/rising-innovation-sectors-will-reward-smids-due-course-says-natixis-im-singapore-ceo",
+    "War|54e15576-8737-3ffe-8d56-7f8dfdc7d59a",
+    "AI|84f9b074-a1fc-3a70-bce1-0a925811fea6",
+    "Watchlist|84f9b074-a1fc-3a70-bce1-0a925811fea6"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794118654.044654,
+  "last_check": 1794119579.7036219,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
