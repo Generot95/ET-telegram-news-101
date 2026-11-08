@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/analyst-ratings/raymond-james-lowers-martin-marietta-materials-price-target-to-620-93CH-5006994",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/mizuho-raises-airbnb-stock-price-target-on-ai-expansion-plans-93CH-5006995",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/oppenheimer-reiterates-autodesk-stock-rating-on-partner-feedback-93CH-5006996",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/briley-cuts-shift4-payments-stock-price-target-on-lowered-guidance-93CH-5006998",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/baird-cuts-sarepta-therapeutics-stock-price-target-on-growth-concerns-93CH-5006999",
-    "Iran|https://www.iranintl.com/en/202611043626",
-    "Iran|https://www.iranintl.com/en/202611059696",
-    "SG Banks|/companies-markets/former-ceo-sgx-listed-gs-holdings-charged-over-false-trading",
-    "SG Banks|https://www.straitstimes.com/business/south-korean-corporate-reforms-hit-rough-patch-as-samsung-digs-in",
-    "Watchlist|/companies-markets/former-ceo-sgx-listed-gs-holdings-charged-over-false-trading",
     "AI|968cdea9-f410-3c13-9f1d-c80765a45f99",
     "Watchlist|968cdea9-f410-3c13-9f1d-c80765a45f99",
     "War|d9219066-11ab-3f08-bfb4-497cbfdd2da3",
@@ -5000,7 +4990,17 @@
     "Watchlist|b56b4303-d8b8-3324-94d1-b103e10b99b4",
     "AI|952f1096-69d3-36d0-a441-2d99b7ca7ee9",
     "AI|09a7b85b-f39c-346a-88bc-f818668a56a9",
-    "Watchlist|09a7b85b-f39c-346a-88bc-f818668a56a9"
+    "Watchlist|09a7b85b-f39c-346a-88bc-f818668a56a9",
+    "AI|https://www.investing.com/news/forex-news/cryptocurrencies-slide-to-twomonth-lows-after-us-midterms-5010335",
+    "Cybersecurity|https://www.investing.com/news/forex-news/cryptocurrencies-slide-to-twomonth-lows-after-us-midterms-5010335",
+    "SG Banks|https://www.investing.com/news/forex-news/cryptocurrencies-slide-to-twomonth-lows-after-us-midterms-5010335",
+    "Watchlist|https://www.investing.com/news/forex-news/cryptocurrencies-slide-to-twomonth-lows-after-us-midterms-5010335",
+    "AI|7efa1f0e-56a6-3099-a4d3-4f7b6fea5839",
+    "Watchlist|7efa1f0e-56a6-3099-a4d3-4f7b6fea5839",
+    "Iran|https://www.iranintl.com/en/202611043626",
+    "Iran|https://www.iranintl.com/en/202611059696",
+    "AI|ce3f8b86-d24e-3bff-b988-644cd5e7055d",
+    "Watchlist|ce3f8b86-d24e-3bff-b988-644cd5e7055d"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794177282.7392828,
+  "last_check": 1794178206.4609692,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
