@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|/companies-markets/grabs-singapore-malaysia-businesses-worth-more-share-price-dbs",
-    "SG Banks|/companies-markets/singapore-ceos-shift-focus-ai-returns-very-low-tolerance-inefficiency-microsoft-executive",
-    "SG Banks|/companies-markets/transport-logistics/cdg-zig-kumpool-join-singapore-malaysia-cross-border-taxi-scheme-nov-16",
-    "Watchlist|/companies-markets/singapore-ceos-shift-focus-ai-returns-very-low-tolerance-inefficiency-microsoft-executive",
-    "Watchlist|/companies-markets/transport-logistics/cdg-zig-kumpool-join-singapore-malaysia-cross-border-taxi-scheme-nov-16",
-    "SG Banks|https://www.straitstimes.com/business/companies-markets/record-hack-on-binance-raises-questions-over-security-shakes-investor-confidence",
-    "Watchlist|/companies-markets/grabs-singapore-malaysia-businesses-worth-more-share-price-dbs",
-    "AI|e413d83f-a94b-3b79-a026-87cf9098b507",
-    "Watchlist|e413d83f-a94b-3b79-a026-87cf9098b507",
-    "Watchlist|31d67cde-9e7e-39db-a743-7c61b2df8878",
     "SG Banks|/companies-markets/capital-markets-currencies/rising-innovation-sectors-will-reward-smids-due-course-says-natixis-im-singapore-ceo",
     "Watchlist|/companies-markets/capital-markets-currencies/rising-innovation-sectors-will-reward-smids-due-course-says-natixis-im-singapore-ceo",
     "Watchlist|768957c3-c556-39ed-9dfa-6a7f002b54b5",
@@ -5000,7 +4990,17 @@
     "SG Banks|https://www.investing.com/news/economy-news/china-energy-investment-to-hit-940-billion-in-2026-as-grid-spending-rises-5010130",
     "Watchlist|https://www.investing.com/news/economy-news/china-energy-investment-to-hit-940-billion-in-2026-as-grid-spending-rises-5010130",
     "AI|a429ed7d-57b3-3309-a861-6a759951706a",
-    "Watchlist|a429ed7d-57b3-3309-a861-6a759951706a"
+    "Watchlist|a429ed7d-57b3-3309-a861-6a759951706a",
+    "AI|https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-76k-as-binance-eu-closures-add-to-crypto-market-pressure-5010133",
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-76k-as-binance-eu-closures-add-to-crypto-market-pressure-5010133",
+    "Cybersecurity|https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-76k-as-binance-eu-closures-add-to-crypto-market-pressure-5010133",
+    "SG Banks|https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-76k-as-binance-eu-closures-add-to-crypto-market-pressure-5010133",
+    "Watchlist|https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-76k-as-binance-eu-closures-add-to-crypto-market-pressure-5010133",
+    "SG Banks|/companies-markets/grabs-singapore-malaysia-businesses-worth-more-share-price-dbs",
+    "SG Banks|/companies-markets/singapore-ceos-shift-focus-ai-returns-very-low-tolerance-inefficiency-microsoft-executive",
+    "SG Banks|/companies-markets/transport-logistics/cdg-zig-kumpool-join-singapore-malaysia-cross-border-taxi-scheme-nov-16",
+    "Watchlist|/companies-markets/singapore-ceos-shift-focus-ai-returns-very-low-tolerance-inefficiency-microsoft-executive",
+    "Watchlist|/companies-markets/transport-logistics/cdg-zig-kumpool-join-singapore-malaysia-cross-border-taxi-scheme-nov-16"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794117751.4526038,
+  "last_check": 1794118654.044654,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
