@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|af85f939-3d06-3842-9295-12edf259c407",
-    "Watchlist|9913bebf-fbba-3171-9649-87834135a5f0",
-    "AI|9606dacd-4b2d-319d-8bab-5d86b32cb6fe",
-    "AI|https://www.investing.com/news/analyst-ratings/guggenheim-reiterates-atlassian-stock-rating-on-cloud-growth-93CH-5007057",
-    "AI|https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-in-line-rating-on-lyft-stock-at-20-93CH-5007058",
-    "AI|https://www.investing.com/news/analyst-ratings/canaccord-raises-irhythm-stock-price-target-on-strong-margins-93CH-5007059",
-    "AI|https://www.investing.com/news/analyst-ratings/canaccord-reiterates-natera-stock-rating-on-strong-q3-results-93CH-5007060",
-    "AI|https://www.investing.com/news/analyst-ratings/canaccord-cuts-artivion-stock-price-target-on-revenue-outlook-93CH-5007061",
-    "AI|https://www.investing.com/news/analyst-ratings/truist-reiterates-cloudflare-stock-buy-rating-on-strong-q3-results-93CH-5007063",
-    "AI|https://www.investing.com/news/analyst-ratings/canaccord-cuts-nuscale-power-stock-price-target-on-contract-uncertainty-93CH-5007065",
-    "AI|https://www.investing.com/news/analyst-ratings/kura-sushi-stock-rating-cut-to-market-perform-by-william-blair-on-weak-traffic-93CH-5007064",
     "AI|https://www.investing.com/news/earnings/mitsubishi-heavy-raises-order-target-and-announces-first-buyback-93CH-5007066",
     "AI|https://www.investing.com/news/stock-market-news/why-is-five9-stock-tumbling-today-93CH-5007022",
     "AI|https://www.investing.com/news/stock-market-news/why-is-teleperformance-stock-plunging-today-93CH-5007027",
@@ -5000,7 +4989,18 @@
     "SG Banks|/companies-markets/fbm-klci-faces-key-test-near-term-momentum-improves",
     "SG Banks|/companies-markets/singapores-deep-tech-startups-tap-china-scale-set-sights-us-higher-margins",
     "Watchlist|/companies-markets/fbm-klci-faces-key-test-near-term-momentum-improves",
-    "Watchlist|/companies-markets/singapores-deep-tech-startups-tap-china-scale-set-sights-us-higher-margins"
+    "Watchlist|/companies-markets/singapores-deep-tech-startups-tap-china-scale-set-sights-us-higher-margins",
+    "Crypto|9ee7692d-f358-34a9-8e47-559498dea38f",
+    "AI|447619cb-1d2a-32a7-94e7-8c80cf41a620",
+    "Watchlist|447619cb-1d2a-32a7-94e7-8c80cf41a620",
+    "AI|https://www.investing.com/news/stock-market-news/national-australia-bank-names-ian-saines-as-next-chair-5010345",
+    "AI|https://www.investing.com/news/company-news/veradermics-to-present-phase-3-hair-loss-trial-results-monday-93CH-5010347",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/national-australia-bank-names-ian-saines-as-next-chair-5010345",
+    "Cybersecurity|https://www.investing.com/news/company-news/veradermics-to-present-phase-3-hair-loss-trial-results-monday-93CH-5010347",
+    "SG Banks|https://www.investing.com/news/stock-market-news/national-australia-bank-names-ian-saines-as-next-chair-5010345",
+    "SG Banks|https://www.investing.com/news/company-news/veradermics-to-present-phase-3-hair-loss-trial-results-monday-93CH-5010347",
+    "Watchlist|https://www.investing.com/news/stock-market-news/national-australia-bank-names-ian-saines-as-next-chair-5010345",
+    "Watchlist|https://www.investing.com/news/company-news/veradermics-to-present-phase-3-hair-loss-trial-results-monday-93CH-5010347"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794179127.6666458,
+  "last_check": 1794180027.9256098,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
