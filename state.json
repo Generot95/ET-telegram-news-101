@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/airbus-delivered-74-aircraft-in-october-faces-yearend-sprint-to-hit-2026-target-5006660",
-    "Watchlist|https://www.investing.com/news/economy-news/south-korean-corporate-reforms-hit-rough-patch-as-samsung-digs-in-5006661",
-    "Watchlist|https://www.investing.com/news/commodities-news/goldman-lowers-yearend-gold-price-forecast-on-hawkish-fed-shift-5006662",
-    "Watchlist|https://www.investing.com/news/stock-market-news/rightmove-raises-2026-eps-growth-forecast-to-at-least-7-5006664",
-    "Watchlist|https://www.investing.com/news/economy-news/boj-to-hike-in-december-seek-terminal-rate-of-2-says-excentral-bank-top-economist-5006665",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-key-support-in-descending-channel-live-levels-93CH-4990035",
-    "SG Banks|/companies-markets/uob-shares-fall-5-after-q3-earnings-miss-forecast",
-    "SG Banks|https://www.straitstimes.com/business/democrats-midterm-sweep-puts-ai-boom-to-the-test-with-much-at-stake-for-asia",
-    "SG Banks|/companies-markets/metasurface-shares-inch-close-s0-56-sgx-catalist-debut",
     "SG Banks|/companies-markets/capital-markets-currencies/dip-buyers-emerge-tech-stocks-traders-look-past-midterms-focus-fundamentals",
     "Watchlist|/companies-markets/metasurface-shares-inch-close-s0-56-sgx-catalist-debut",
     "Watchlist|/companies-markets/uob-shares-fall-5-after-q3-earnings-miss-forecast",
@@ -5000,7 +4991,16 @@
     "Cybersecurity|https://www.investing.com/news/stock-market-news/top-5-stocks-to-watch-this-week-5010257",
     "SG Banks|https://www.investing.com/news/stock-market-news/top-5-stocks-to-watch-this-week-5010257",
     "Watchlist|https://www.investing.com/news/stock-market-news/top-5-stocks-to-watch-this-week-5010257",
-    "Watchlist|/companies-markets/capital-markets-currencies/tech-sell-wipes-out-hedge-fund-gains-prompting-layoffs-and-risk-cuts"
+    "Watchlist|/companies-markets/capital-markets-currencies/tech-sell-wipes-out-hedge-fund-gains-prompting-layoffs-and-risk-cuts",
+    "AI|09027d9d-8c05-3661-b99d-3b2100696cce",
+    "Watchlist|09027d9d-8c05-3661-b99d-3b2100696cce",
+    "War|WP-MKTW-0005335478",
+    "AI|WP-MKTW-0005335478",
+    "Cybersecurity|WP-MKTW-0005335478",
+    "Iran|https://www.iranintl.com/en/202611089896",
+    "AI|c9fca526-33de-3d54-a5b6-960e4d1ad599",
+    "Watchlist|c9fca526-33de-3d54-a5b6-960e4d1ad599",
+    "SG Banks|/companies-markets/uob-shares-fall-5-after-q3-earnings-miss-forecast"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794153484.313611,
+  "last_check": 1794154399.8412263,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
