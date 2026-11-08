@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/analyst-ratings/centrus-energy-stock-rating-upgraded-to-buy-at-rothmkm-on-revenue-risk-mitigation-93CH-5006546",
-    "Watchlist|/companies-markets/singapore-leads-hong-kong-private-markets-allocation-fewer-investors-are-raising-exposure",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/nerdwallet-stock-rating-cut-to-market-perform-by-william-blair-93CH-5006530",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/keybanc-downgrades-cogent-communications-stock-rating-on-growth-concerns-93CH-5006532",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/william-blair-downgrades-cvrx-stock-rating-on-reimbursement-headwinds-93CH-5006531",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-hkex-stock-falling-today-93CH-5006543",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-hua-hong-grace-semiconductor-stock-rising-today-93CH-5006544",
     "Watchlist|https://www.investing.com/news/analyst-ratings/jpmorgan-upgrades-sociedad-quimica-y-minera-stock-rating-on-valuation-93CH-5006545",
@@ -5000,7 +4995,12 @@
     "AI|0d648154-a54c-3a70-a1f1-c41ec86007e9",
     "Watchlist|0d648154-a54c-3a70-a1f1-c41ec86007e9",
     "AI|12f4b2ae-5f1e-3de1-9176-9f81d94cca0f",
-    "Watchlist|12f4b2ae-5f1e-3de1-9176-9f81d94cca0f"
+    "Watchlist|12f4b2ae-5f1e-3de1-9176-9f81d94cca0f",
+    "AI|https://www.investing.com/news/economy-news/eu-uk-near-postbrexit-carbon-market-linkage-deal--bloomberg-5010176",
+    "Cybersecurity|https://www.investing.com/news/economy-news/eu-uk-near-postbrexit-carbon-market-linkage-deal--bloomberg-5010176",
+    "SG Banks|https://www.investing.com/news/economy-news/eu-uk-near-postbrexit-carbon-market-linkage-deal--bloomberg-5010176",
+    "Watchlist|https://www.investing.com/news/economy-news/eu-uk-near-postbrexit-carbon-market-linkage-deal--bloomberg-5010176",
+    "War|https://www.investing.com/news/world-news/south-africas-anc-battered-by-local-election-losses-ahead-of-coalition-talks-5010167"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794131506.8049192,
+  "last_check": 1794132407.3980114,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
