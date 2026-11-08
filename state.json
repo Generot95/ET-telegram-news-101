@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/earnings/mj-gleeson-shares-dip-as-new-home-scheme-delays-demand-93CH-5006751",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/city-holding-evp-legge-sells-74393-in-common-stock-93CH-5006755",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-stabilus-stock-sliding-today-93CH-5006775",
-    "Watchlist|https://www.investing.com/news/stock-market-news/glanbia-shares-tumble-6-after-morgan-stanley-cuts-rating-to-underweight-5006777",
-    "Watchlist|https://www.investing.com/news/earnings/cellnex-says-poland-deal-cuts-2027-cash-flow-by-300-mln-q3-in-line-5006785",
     "Watchlist|https://www.investing.com/news/analyst-ratings/barclays-upgrades-air-franceklm-stock-rating-on-strong-results-93CH-5006786",
     "War|f79ebd16-1c8b-4373-8def-3ef829cf3d8d",
     "AI|6f6838a2-99d9-3f2c-a72b-fd3640f9a6d5",
@@ -5000,7 +4995,12 @@
     "AI|https://www.investing.com/news/commodities-news/us-asks-iraq-to-shut-most-iran-border-crossings-iraqi-foreign-minister-says-5010296",
     "Cybersecurity|https://www.investing.com/news/commodities-news/us-asks-iraq-to-shut-most-iran-border-crossings-iraqi-foreign-minister-says-5010296",
     "SG Banks|https://www.investing.com/news/commodities-news/us-asks-iraq-to-shut-most-iran-border-crossings-iraqi-foreign-minister-says-5010296",
-    "Watchlist|https://www.investing.com/news/commodities-news/us-asks-iraq-to-shut-most-iran-border-crossings-iraqi-foreign-minister-says-5010296"
+    "Watchlist|https://www.investing.com/news/commodities-news/us-asks-iraq-to-shut-most-iran-border-crossings-iraqi-foreign-minister-says-5010296",
+    "AI|47a75a3e-a76f-3c0f-9147-addb13b9df7a",
+    "Watchlist|47a75a3e-a76f-3c0f-9147-addb13b9df7a",
+    "War|8e2ad7c2-1345-3c1f-b441-03d49edd3d24",
+    "AI|72aa174d-b885-36f9-a611-4542728ed886",
+    "Watchlist|72aa174d-b885-36f9-a611-4542728ed886"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794165400.9961593,
+  "last_check": 1794166307.2912354,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
