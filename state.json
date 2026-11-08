@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/economic-indicators/us-job-growth-expected-to-pick-up-in-october-with-moderation-in-wage-gains-5006475",
-    "Cybersecurity|f62f3acf-75ad-3bdf-a950-94d7efb3d0bc",
-    "SG Banks|https://www.channelnewsasia.com/business/japan-tap-proceeds-boj-asset-sales-ai-rout-stokes-fiscal-worries-6529516",
-    "AI|7e3eb3fb-21ab-3a81-9cc0-9960b7f3e671",
-    "Watchlist|7e3eb3fb-21ab-3a81-9cc0-9960b7f3e671",
-    "SG Banks|/companies-markets/banking-finance/hedge-funds-flag-growing-private-credit-risks-amid-rising-rates",
-    "AI|3f9ec8f0-5fac-31c8-9df9-10fd45218b31",
-    "Cybersecurity|0dbc3e55-4a0e-37d6-9b83-70139ca68ffa",
     "Watchlist|3f9ec8f0-5fac-31c8-9df9-10fd45218b31",
     "SG Banks|https://www.straitstimes.com/business/crypto-dips-on-democrat-midterm-wins-binance-hacks-dent-optimism",
     "Watchlist|/companies-markets/banking-finance/hedge-funds-flag-growing-private-credit-risks-amid-rising-rates",
@@ -5000,7 +4992,15 @@
     "SG Banks|https://www.investing.com/news/commodities-news/turkish-villagers-demand-cop31-leaders-see-for-themselves-devastation-caused-by-coal-5010152",
     "Watchlist|https://www.investing.com/news/company-news/how-mercedes-suffered-a-14bn-ebit-drop-5010147",
     "Watchlist|https://www.investing.com/news/insider-trading-news/matthew-janzaruk-pg-svp-sells-155-million-in-shares-93CH-5010150",
-    "Watchlist|https://www.investing.com/news/commodities-news/turkish-villagers-demand-cop31-leaders-see-for-themselves-devastation-caused-by-coal-5010152"
+    "Watchlist|https://www.investing.com/news/commodities-news/turkish-villagers-demand-cop31-leaders-see-for-themselves-devastation-caused-by-coal-5010152",
+    "AI|4ad57a7f-39f9-3a1a-887c-71452ef10b1e",
+    "Watchlist|4ad57a7f-39f9-3a1a-887c-71452ef10b1e",
+    "AI|99572d8d-66ad-3e28-b1c8-1a93f2973c9f",
+    "SG Banks|/companies-markets/capital-markets-currencies/wall-street-stocks-rally-after-heavy-ai-related-sell",
+    "Watchlist|99572d8d-66ad-3e28-b1c8-1a93f2973c9f",
+    "Watchlist|/companies-markets/capital-markets-currencies/wall-street-stocks-rally-after-heavy-ai-related-sell",
+    "SG Banks|/companies-markets/banking-finance/hedge-funds-flag-growing-private-credit-risks-amid-rising-rates",
+    "Cybersecurity|ff0ee40a-ae82-385f-af77-90ac0019ede4"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794122315.1533072,
+  "last_check": 1794123229.2343886,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
