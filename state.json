@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/insider-trading-news/crocs-ceo-andrew-rees-sells-61-million-in-crox-shares-93CH-5006500",
-    "AI|https://www.investing.com/news/stock-market-news/eu-electricity-grid-costs-may-rise-up-to-100-by-2050-93CH-5006502",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/ameren-group-president-moehn-sells-719680-in-company-stock-93CH-5006485",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/oreilly-automotive-svp-larry-gray-sells-699243-in-stock-93CH-5006486",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/moodys-ceo-michael-west-disposes-of-103200-in-company-stock-93CH-5006487",
@@ -5000,7 +4998,9 @@
     "Watchlist|dd6da6c5-bc02-343e-88f0-5fc113e0063f",
     "Crypto|7237d874-ccf4-36d1-b272-a2e69132bc26",
     "Crypto|601a162c-4ab4-3598-9f37-7027fceb45d2",
-    "Crypto|20a295bc-e8d3-3333-896d-364c4864afe0"
+    "Crypto|20a295bc-e8d3-3333-896d-364c4864afe0",
+    "AI|cf7837fa-6bc3-32c9-a374-1596a6c134fe",
+    "Watchlist|cf7837fa-6bc3-32c9-a374-1596a6c134fe"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794125068.0409179,
+  "last_check": 1794125990.2935753,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
