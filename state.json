@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|cf239f35-748f-3630-9bbf-7d0a21c4b107",
-    "SG Banks|/international/global/nvidia-ceo-jensen-huang-drops-worlds-top-10-richest-after-chips-sell",
-    "Watchlist|880ac219-1ff3-3519-b9ff-90e763425da7",
-    "Watchlist|/international/global/nvidia-ceo-jensen-huang-drops-worlds-top-10-richest-after-chips-sell",
-    "War|3d258cf1-e6af-33da-91f9-c9775189c295",
-    "AI|ab7ee7eb-af10-3cdc-9ddb-4766c6c8635e",
-    "Watchlist|ace1edc8-3f44-3eed-8d63-eaaad26342d8",
-    "Watchlist|ab7ee7eb-af10-3cdc-9ddb-4766c6c8635e",
-    "AI|https://www.investing.com/news/analyst-ratings/barclays-downgrades-fortis-stock-rating-on-valuation-concerns-93CH-5006637",
     "AI|https://www.investing.com/news/analyst-ratings/jpmorgan-downgrades-munich-re-stock-rating-on-valuation-concerns-93CH-5006642",
     "AI|https://www.investing.com/news/analyst-ratings/ubs-downgrades-essential-utilities-stock-rating-on-valuation-93CH-5006643",
     "AI|https://www.investing.com/news/earnings/iag-sees-2026-capacity-slightly-down-keeps-margin-target-despite-fuel-headwinds-5006648",
@@ -5000,7 +4991,16 @@
     "Watchlist|ee62b103-8ee3-3f6c-aa99-8233f802e3e1",
     "Watchlist|d7630fc3-2ebb-3e23-94fb-180ece1f756d",
     "SG Banks|/companies-markets/toyota-posts-first-profit-gain-six-quarters-lifts-annual-outlook-hybrid-sales-shine",
-    "Watchlist|/companies-markets/toyota-posts-first-profit-gain-six-quarters-lifts-annual-outlook-hybrid-sales-shine"
+    "Watchlist|/companies-markets/toyota-posts-first-profit-gain-six-quarters-lifts-annual-outlook-hybrid-sales-shine",
+    "Iran|https://www.iranintl.com/en/202611083614",
+    "AI|694ab096-3b25-3954-87d6-eee349ab650e",
+    "Watchlist|694ab096-3b25-3954-87d6-eee349ab650e",
+    "SG Banks|/international/global/nvidia-ceo-jensen-huang-drops-worlds-top-10-richest-after-chips-sell",
+    "AI|https://www.investing.com/news/stock-market-news/as-tech-swoon-roils-market-us-inflation-data-on-tap-5010231",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/as-tech-swoon-roils-market-us-inflation-data-on-tap-5010231",
+    "SG Banks|https://www.investing.com/news/stock-market-news/as-tech-swoon-roils-market-us-inflation-data-on-tap-5010231",
+    "Watchlist|/international/global/nvidia-ceo-jensen-huang-drops-worlds-top-10-richest-after-chips-sell",
+    "Watchlist|https://www.investing.com/news/stock-market-news/as-tech-swoon-roils-market-us-inflation-data-on-tap-5010231"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794147076.5970693,
+  "last_check": 1794147982.519055,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
