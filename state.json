@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Crypto|abd86546-2425-36ba-8367-8c10c3e0da5c",
-    "Cybersecurity|09c4eba0-af7c-3a36-b20f-ccbe00f2cad3",
-    "SG Banks|/companies-markets/visa-sets-six-global-tech-hubs-singapore-1500-staff-new-paya-lebar-centre",
-    "Watchlist|34967224-3910-30a7-828c-65ff4d6047d3",
-    "Watchlist|/companies-markets/visa-sets-six-global-tech-hubs-singapore-1500-staff-new-paya-lebar-centre",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-firms-to-805k-as-us-elections-buoy-risk-appetite-but-outlook-unclear-5002271",
-    "SG Banks|/companies-markets/energy-commodities/china-tax-crackdown-pushes-wealthy-gold-safe-haven-lifting-hong-kong-jewellery-sales",
-    "SG Banks|https://www.channelnewsasia.com/business/ukraines-kyivstar-lifts-outlook-digital-business-gathers-pace-6530336",
     "Watchlist|/companies-markets/energy-commodities/china-tax-crackdown-pushes-wealthy-gold-safe-haven-lifting-hong-kong-jewellery-sales",
     "Cybersecurity|35216973-4e76-36f2-b1f6-eba2fedc3515",
     "War|4e233393-2efc-3c4d-ae70-9b29a822d444",
@@ -5000,7 +4992,15 @@
     "AI|https://www.investing.com/news/insider-trading-news/caterpillar-director-james-fish-jr-buys-620390-in-stock-93CH-5010216",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/caterpillar-director-james-fish-jr-buys-620390-in-stock-93CH-5010216",
     "SG Banks|https://www.investing.com/news/insider-trading-news/caterpillar-director-james-fish-jr-buys-620390-in-stock-93CH-5010216",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/caterpillar-director-james-fish-jr-buys-620390-in-stock-93CH-5010216"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/caterpillar-director-james-fish-jr-buys-620390-in-stock-93CH-5010216",
+    "AI|ad05bb9f-4dbe-37c2-80cf-284079496a20",
+    "Watchlist|ad05bb9f-4dbe-37c2-80cf-284079496a20",
+    "AI|9c34f1ca-23da-3e82-855f-96823f5f6e8d",
+    "Watchlist|9c34f1ca-23da-3e82-855f-96823f5f6e8d",
+    "SG Banks|/companies-markets/visa-sets-six-global-tech-hubs-singapore-1500-staff-new-paya-lebar-centre",
+    "Watchlist|/companies-markets/visa-sets-six-global-tech-hubs-singapore-1500-staff-new-paya-lebar-centre",
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-firms-to-805k-as-us-elections-buoy-risk-appetite-but-outlook-unclear-5002271",
+    "SG Banks|/companies-markets/energy-commodities/china-tax-crackdown-pushes-wealthy-gold-safe-haven-lifting-hong-kong-jewellery-sales"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794141564.545633,
+  "last_check": 1794142494.0542402,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
