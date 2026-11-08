@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/earnings/krones-cuts-2026-revenue-growth-outlook-as-customer-costs-rise-5006572",
-    "SG Banks|https://www.investing.com/news/stock-market-news/chinas-hua-hong-defies-chip-selloff-on-strong-earnings-upbeat-guidance-5006577",
-    "SG Banks|https://www.investing.com/news/earnings/sabesp-adr-earnings-missed-by-003-revenue-fell-short-of-estimates-5006578",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/stifel-cuts-avalo-therapeutics-stock-price-target-on-trial-data-93CH-5006583",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/chemed-corp-president-and-ceo-kevin-mcnamara-sells-108-million-in-stock-93CH-5006589",
     "SG Banks|https://www.investing.com/news/forex-news/jgb-yields-plunge-to-july-lows-as-wall-st-tech-tout-sparks-haven-rush-5006590",
     "Watchlist|https://www.investing.com/news/analyst-ratings/morgan-stanley-downgrades-ebara-stock-rating-on-valuation-concerns-93CH-5006567",
     "Watchlist|https://www.investing.com/news/analyst-ratings/wells-fargo-upgrades-becton-dickinson-stock-rating-on-execution-93CH-5006569",
@@ -5000,7 +4995,12 @@
     "SG Banks|/companies-markets/openai-announces-changes-how-it-handles-data-centres-amid-outcry-after-us-midterms",
     "Watchlist|/companies-markets/openai-announces-changes-how-it-handles-data-centres-amid-outcry-after-us-midterms",
     "AI|877cf5e0-1c12-31ec-90c5-c588cf3066e7",
-    "Watchlist|877cf5e0-1c12-31ec-90c5-c588cf3066e7"
+    "Watchlist|877cf5e0-1c12-31ec-90c5-c588cf3066e7",
+    "Cybersecurity|e5ddf3a2-b7ea-3164-9a88-3d6c63e4aa79",
+    "SG Banks|/opinion-features/dbs-ocbc-uobs-big-sell-was-it-their-q3-numbers-or-broader-market-de-rating",
+    "Watchlist|/opinion-features/dbs-ocbc-uobs-big-sell-was-it-their-q3-numbers-or-broader-market-de-rating",
+    "AI|6527f6be-ca50-3926-a1b6-af2410cdcd34",
+    "Watchlist|6527f6be-ca50-3926-a1b6-af2410cdcd34"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5087,8 +5087,8 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794135153.7028604,
+  "last_check": 1794136066.9777749,
   "last_board": "2026-10-27",
   "commands_version": 9,
-  "last_report": "2026-11-07"
+  "last_report": "2026-11-08"
 }
