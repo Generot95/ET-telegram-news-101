@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|23742d7c-6f4f-3ed3-9390-d4c31e5d6982",
-    "AI|https://www.investing.com/news/earnings/honest-company-earnings-beat-by-002-revenue-topped-estimates-5006440",
     "AI|https://www.investing.com/news/earnings/full-house-resorts-inc-earnings-missed-by-008-revenue-topped-estimates-5006439",
     "AI|https://www.investing.com/news/earnings/ftai-infra-earnings-missed-by-077-revenue-topped-estimates-5006441",
     "AI|https://www.investing.com/news/earnings/caribou-biosciences-earnings-beat-by-002-revenue-fell-short-of-estimates-5006442",
@@ -5000,7 +4998,9 @@
     "SG Banks|/companies-markets/george-yeo-adds-100000-wilmar-shares-s2-97-apiece-taking-stake-over-1-million-shares",
     "Watchlist|/companies-markets/george-yeo-adds-100000-wilmar-shares-s2-97-apiece-taking-stake-over-1-million-shares",
     "Watchlist|/companies-markets/banking-finance/prudential-posts-slight-rise-third-quarter-new-business-profit",
-    "Iran|https://www.iranintl.com/en/202611032762"
+    "Iran|https://www.iranintl.com/en/202611032762",
+    "AI|cb2818d2-4e80-3118-b20a-fa882c96f8ad",
+    "Watchlist|cb2818d2-4e80-3118-b20a-fa882c96f8ad"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794105833.7053142,
+  "last_check": 1794106738.998889,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
