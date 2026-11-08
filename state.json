@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/s-korea-eases-margin-trading-rules-to-stem-forced-stock-sales-5006397",
-    "Watchlist|https://www.investing.com/news/company-news/doubleview-gold-closes-32m-flowthrough-financing-tranche-93CH-5006385",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-softbank-stock-tumbling-today-93CH-5006386",
     "Watchlist|https://www.investing.com/news/insider-trading-news/cavco-industries-evp-sells-371270-in-shares-93CH-5006396",
     "Watchlist|https://www.investing.com/news/stock-market-news/s-korea-eases-margin-trading-rules-to-stem-forced-stock-sales-5006397",
     "AI|2e3e8ca6-745a-3ada-9db5-f9c42e7ba66c",
@@ -5000,7 +4997,10 @@
     "SG Banks|https://www.investing.com/news/stock-market-news/how-to-invest-in-ai-amid-ai-spending-worries-5010090",
     "Watchlist|https://www.investing.com/news/stock-market-news/how-to-invest-in-ai-amid-ai-spending-worries-5010090",
     "AI|328d4238-0a3d-38df-b94e-124758d6dc5c",
-    "Watchlist|328d4238-0a3d-38df-b94e-124758d6dc5c"
+    "Watchlist|328d4238-0a3d-38df-b94e-124758d6dc5c",
+    "War|36a4a3bd-16b3-33eb-a2c2-eaa9cdab76bf",
+    "AI|f98078c1-29b2-318e-a756-7fa888b419e6",
+    "Watchlist|f98078c1-29b2-318e-a756-7fa888b419e6"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794097591.8234544,
+  "last_check": 1794098509.8926797,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
