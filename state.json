@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/tradeweb-markets-cohead-bruni-sells-23m-in-shares-93CH-5006461",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/texas-governorelect-hinojosa-touts-data-center-protection-laws-93CH-5006463",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/tradeweb-markets-cohead-bruni-sells-23m-in-shares-93CH-5006461",
-    "SG Banks|https://www.investing.com/news/stock-market-news/texas-governorelect-hinojosa-touts-data-center-protection-laws-93CH-5006463",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/tradeweb-markets-cohead-bruni-sells-23m-in-shares-93CH-5006461",
-    "Watchlist|https://www.investing.com/news/stock-market-news/texas-governorelect-hinojosa-touts-data-center-protection-laws-93CH-5006463",
     "SG Banks|/companies-markets/grabs-singapore-malaysia-businesses-worth-more-share-price-dbs",
     "SG Banks|/companies-markets/singapore-ceos-shift-focus-ai-returns-very-low-tolerance-inefficiency-microsoft-executive",
     "SG Banks|/companies-markets/transport-logistics/cdg-zig-kumpool-join-singapore-malaysia-cross-border-taxi-scheme-nov-16",
@@ -5000,7 +4994,13 @@
     "Cybersecurity|https://www.investing.com/news/economy-news/saudi-arabia-lifts-oil-region-alerts-after-houthi-missile-intercepted-5010126",
     "SG Banks|https://www.investing.com/news/economy-news/saudi-arabia-lifts-oil-region-alerts-after-houthi-missile-intercepted-5010126",
     "Watchlist|https://www.investing.com/news/economy-news/saudi-arabia-lifts-oil-region-alerts-after-houthi-missile-intercepted-5010126",
-    "War|309ab9f6-2e23-3d06-b2af-8cf2793238a5"
+    "War|309ab9f6-2e23-3d06-b2af-8cf2793238a5",
+    "AI|https://www.investing.com/news/economy-news/china-energy-investment-to-hit-940-billion-in-2026-as-grid-spending-rises-5010130",
+    "Cybersecurity|https://www.investing.com/news/economy-news/china-energy-investment-to-hit-940-billion-in-2026-as-grid-spending-rises-5010130",
+    "SG Banks|https://www.investing.com/news/economy-news/china-energy-investment-to-hit-940-billion-in-2026-as-grid-spending-rises-5010130",
+    "Watchlist|https://www.investing.com/news/economy-news/china-energy-investment-to-hit-940-billion-in-2026-as-grid-spending-rises-5010130",
+    "AI|a429ed7d-57b3-3309-a861-6a759951706a",
+    "Watchlist|a429ed7d-57b3-3309-a861-6a759951706a"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794115914.4539146,
+  "last_check": 1794116814.4960341,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
