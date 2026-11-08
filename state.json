@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/analyst-ratings/raymond-james-lowers-martin-marietta-materials-price-target-to-620-93CH-5006994",
-    "AI|https://www.investing.com/news/analyst-ratings/mizuho-raises-airbnb-stock-price-target-on-ai-expansion-plans-93CH-5006995",
-    "AI|https://www.investing.com/news/analyst-ratings/oppenheimer-reiterates-autodesk-stock-rating-on-partner-feedback-93CH-5006996",
     "AI|https://www.investing.com/news/analyst-ratings/briley-cuts-shift4-payments-stock-price-target-on-lowered-guidance-93CH-5006998",
     "AI|https://www.investing.com/news/analyst-ratings/baird-cuts-sarepta-therapeutics-stock-price-target-on-growth-concerns-93CH-5006999",
     "AI|https://www.investing.com/news/stock-market-news/why-is-cloudflare-stock-surging-today-93CH-5006904",
@@ -5000,7 +4997,10 @@
     "AI|6a2dc496-3730-3e29-85ca-4f240a1dfe8c",
     "Watchlist|6a2dc496-3730-3e29-85ca-4f240a1dfe8c",
     "AI|40d9622e-6959-31c6-ba47-0f3dd46222d3",
-    "Watchlist|40d9622e-6959-31c6-ba47-0f3dd46222d3"
+    "Watchlist|40d9622e-6959-31c6-ba47-0f3dd46222d3",
+    "AI|31c69a30-741d-3a12-8507-be753fb73426",
+    "Watchlist|31c69a30-741d-3a12-8507-be753fb73426",
+    "SG Banks|https://www.straitstimes.com/business/private-banks-risk-losing-the-race-for-wealth-clients-before-they-even-come-on-board-citi-singapore"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794174550.2412755,
+  "last_check": 1794175462.4279847,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
