@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/earnings/daimler-truck-q3-operating-profit-jumps-73-on-north-american-rebound-5006626",
-    "SG Banks|https://www.investing.com/news/earnings/daimler-truck-q3-operating-profit-jumps-73-on-north-american-rebound-5006626",
-    "Watchlist|https://www.investing.com/news/earnings/daimler-truck-q3-operating-profit-jumps-73-on-north-american-rebound-5006626",
-    "SG Banks|/companies-markets/toyota-posts-first-profit-gain-six-quarters-lifts-annual-outlook-hybrid-sales-shine",
-    "SG Banks|https://www.straitstimes.com/business/google-extends-voluntary-buyout-offers-to-employees-in-several-countries",
-    "Watchlist|/companies-markets/toyota-posts-first-profit-gain-six-quarters-lifts-annual-outlook-hybrid-sales-shine",
-    "SG Banks|https://www.channelnewsasia.com/asia/north-korea-army-hackers-took-down-binance-6530186",
-    "War|3c8588d6-515c-31c6-9412-a83778f5e531",
-    "Crypto|ed15f324-c144-3442-a7c8-f8e063067085",
-    "War|1c3ef34e-bb93-30ad-89ee-1dcc4ba5b1c2",
-    "AI|880ac219-1ff3-3519-b9ff-90e763425da7",
     "AI|cf239f35-748f-3630-9bbf-7d0a21c4b107",
     "SG Banks|/international/global/nvidia-ceo-jensen-huang-drops-worlds-top-10-richest-after-chips-sell",
     "Watchlist|880ac219-1ff3-3519-b9ff-90e763425da7",
@@ -5000,7 +4989,18 @@
     "War|7349e35f-5be6-3f1a-9e66-e75490e9f1dc",
     "Iran|https://www.iranintl.com/en/202611081444",
     "Watchlist|020868ee-eda9-38fb-b462-4c11358d8a5f",
-    "War|e5a638e7-b967-3b1b-9856-b427809cc8cc"
+    "War|e5a638e7-b967-3b1b-9856-b427809cc8cc",
+    "War|WP-MKTW-0005334438",
+    "AI|WP-MKTW-0005334438",
+    "Cybersecurity|WP-MKTW-0005334438",
+    "AI|4564df99-268d-3590-ae55-a5079d793b64",
+    "AI|ee62b103-8ee3-3f6c-aa99-8233f802e3e1",
+    "AI|d7630fc3-2ebb-3e23-94fb-180ece1f756d",
+    "Watchlist|4564df99-268d-3590-ae55-a5079d793b64",
+    "Watchlist|ee62b103-8ee3-3f6c-aa99-8233f802e3e1",
+    "Watchlist|d7630fc3-2ebb-3e23-94fb-180ece1f756d",
+    "SG Banks|/companies-markets/toyota-posts-first-profit-gain-six-quarters-lifts-annual-outlook-hybrid-sales-shine",
+    "Watchlist|/companies-markets/toyota-posts-first-profit-gain-six-quarters-lifts-annual-outlook-hybrid-sales-shine"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794146143.0414805,
+  "last_check": 1794147076.5970693,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
