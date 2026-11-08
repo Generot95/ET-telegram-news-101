@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/nasdaq-futures-rise-after-steep-ai-selloff-as-chip-stocks-stabilize-5007026",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/guggenheim-reiterates-atlassian-stock-rating-on-cloud-growth-93CH-5007057",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-in-line-rating-on-lyft-stock-at-20-93CH-5007058",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/canaccord-raises-irhythm-stock-price-target-on-strong-margins-93CH-5007059",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/canaccord-reiterates-natera-stock-rating-on-strong-q3-results-93CH-5007060",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/canaccord-cuts-artivion-stock-price-target-on-revenue-outlook-93CH-5007061",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/truist-reiterates-cloudflare-stock-buy-rating-on-strong-q3-results-93CH-5007063",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/canaccord-cuts-nuscale-power-stock-price-target-on-contract-uncertainty-93CH-5007065",
@@ -5000,7 +4995,12 @@
     "SG Banks|https://www.investing.com/news/world-news/new-zealands-new-lawmakers-start-to-arrive-at-parliament-as-government-remains-in-limbo-5010336",
     "Watchlist|https://www.investing.com/news/world-news/new-zealands-new-lawmakers-start-to-arrive-at-parliament-as-government-remains-in-limbo-5010336",
     "AI|38a4927b-2642-32c9-a087-65f2efc73f03",
-    "Watchlist|38a4927b-2642-32c9-a087-65f2efc73f03"
+    "Watchlist|38a4927b-2642-32c9-a087-65f2efc73f03",
+    "AI|https://www.investing.com/news/economy-news/boj-chief-ueda-sees-some-upside-risks-to-inflation-5010354",
+    "Cybersecurity|https://www.investing.com/news/economy-news/boj-chief-ueda-sees-some-upside-risks-to-inflation-5010354",
+    "SG Banks|https://www.investing.com/news/economy-news/boj-chief-ueda-sees-some-upside-risks-to-inflation-5010354",
+    "Watchlist|https://www.investing.com/news/economy-news/boj-chief-ueda-sees-some-upside-risks-to-inflation-5010354",
+    "War|cf3e56a0-6609-34f6-9a52-b7ef23618603"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794180948.9505439,
+  "last_check": 1794181868.9862533,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
