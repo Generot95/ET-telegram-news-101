@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|/companies-markets/musk-says-tesla-wind-down-production-struggling-cybertruck-texas-factory-around-mid-2027",
-    "Watchlist|/companies-markets/musk-says-tesla-wind-down-production-struggling-cybertruck-texas-factory-around-mid-2027",
-    "SG Banks|https://www.straitstimes.com/business/branching-out-digital-brokerages-in-singapore-expanding-offline-legacy-firms-hitting-heartlands",
-    "Crypto|5366a7ab-6279-3ae8-b4a2-7a3b98524e3f",
-    "War|807d9e5a-1ec9-30c9-a004-216c887d027b",
-    "War|6f324c1b-0363-3d63-a0d9-eb2b1a9c2cf6",
-    "AI|807d9e5a-1ec9-30c9-a004-216c887d027b",
-    "AI|https://www.investing.com/news/analyst-ratings/barclays-reinstates-eversource-energy-stock-rating-at-equalweight-93CH-5006704",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-airbus-stock-sliding-today-93CH-5006723",
     "AI|https://www.investing.com/news/stock-market-news/why-is-international-consolidated-airlines-stock-climbing-today-93CH-5006724",
     "AI|https://www.investing.com/news/earnings/edp-raises-2026-profit-guidance-on-renewables-and-networks-growth-93CH-5006734",
     "AI|https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slump-as-global-tech-rout-deepens-5006735",
@@ -5000,7 +4991,16 @@
     "Watchlist|4dafe8e2-8150-3546-b584-a10dcca8f4e5",
     "Watchlist|3e4712bc-0f49-3f59-a3b2-81022e041b09",
     "AI|7d40ff3d-4752-3e95-84fd-1e66c9f0e0df",
-    "Watchlist|7d40ff3d-4752-3e95-84fd-1e66c9f0e0df"
+    "Watchlist|7d40ff3d-4752-3e95-84fd-1e66c9f0e0df",
+    "AI|8b43dc51-d7d2-3bdd-9f38-f7e83957c2a7",
+    "Watchlist|8b43dc51-d7d2-3bdd-9f38-f7e83957c2a7",
+    "AI|5040c766-5d8b-3e4a-be70-0ee4e1cba462",
+    "Watchlist|5040c766-5d8b-3e4a-be70-0ee4e1cba462",
+    "AI|d6f38330-6215-314d-be6d-c839fe5dde47",
+    "AI|https://www.investing.com/news/stock-market-news/china-ai-bust-threatens-xis-wall-street-east-ambitions-5010271",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/china-ai-bust-threatens-xis-wall-street-east-ambitions-5010271",
+    "SG Banks|https://www.investing.com/news/stock-market-news/china-ai-bust-threatens-xis-wall-street-east-ambitions-5010271",
+    "Watchlist|https://www.investing.com/news/stock-market-news/china-ai-bust-threatens-xis-wall-street-east-ambitions-5010271"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794156239.6456182,
+  "last_check": 1794157144.5607755,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
