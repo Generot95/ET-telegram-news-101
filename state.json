@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/analyst-ratings/barclays-upgrades-air-franceklm-stock-rating-on-strong-results-93CH-5006786",
-    "War|f79ebd16-1c8b-4373-8def-3ef829cf3d8d",
-    "AI|6f6838a2-99d9-3f2c-a72b-fd3640f9a6d5",
-    "Watchlist|6f6838a2-99d9-3f2c-a72b-fd3640f9a6d5",
-    "SG Banks|https://www.channelnewsasia.com/business/oil-set-sharp-weekly-drop-after-us-midterms-raise-hopes-more-mideast-crude-exports-6529851",
-    "SG Banks|https://www.channelnewsasia.com/business/veon-says-fuel-shortages-pose-biggest-threat-it-leans-satellite-data-growth-6530461",
     "AI|https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-warby-parker-stock-rating-on-eyewear-launch-93CH-5006853",
     "AI|https://www.investing.com/news/analyst-ratings/tapestry-stock-gains-on-strong-quarterly-results-and-raised-guidance-93CH-5006855",
     "AI|https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-unity-software-stock-price-target-on-strong-q3-results-93CH-5006854",
@@ -5000,7 +4994,13 @@
     "Watchlist|47a75a3e-a76f-3c0f-9147-addb13b9df7a",
     "War|8e2ad7c2-1345-3c1f-b441-03d49edd3d24",
     "AI|72aa174d-b885-36f9-a611-4542728ed886",
-    "Watchlist|72aa174d-b885-36f9-a611-4542728ed886"
+    "Watchlist|72aa174d-b885-36f9-a611-4542728ed886",
+    "AI|https://www.investing.com/news/economic-indicators/iraq-has-reached-understandings-with-us-to-allow-oil-exports-through-hormuz-minister-says-5010300",
+    "Cybersecurity|https://www.investing.com/news/economic-indicators/iraq-has-reached-understandings-with-us-to-allow-oil-exports-through-hormuz-minister-says-5010300",
+    "SG Banks|https://www.investing.com/news/economic-indicators/iraq-has-reached-understandings-with-us-to-allow-oil-exports-through-hormuz-minister-says-5010300",
+    "Watchlist|https://www.investing.com/news/economic-indicators/iraq-has-reached-understandings-with-us-to-allow-oil-exports-through-hormuz-minister-says-5010300",
+    "AI|620d1be4-97c2-3b59-bc09-eaa280ec671f",
+    "Watchlist|620d1be4-97c2-3b59-bc09-eaa280ec671f"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794166307.2912354,
+  "last_check": 1794167214.5348916,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
