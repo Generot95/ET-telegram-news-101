@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/analyst-ratings/goldman-sachs-lowers-sphere-entertainment-stock-price-target-to-150-on-revised-outlook-93CH-5006857",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/wynn-resorts-stock-price-target-lowered-to-93-by-goldman-sachs-93CH-5006859",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/goldman-sachs-lowers-yelp-stock-price-target-on-ad-headwinds-93CH-5006858",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-opendoor-stock-sell-rating-on-margin-pressure-93CH-5006860",
-    "Watchlist|https://www.investing.com/news/economy-news/global-equity-funds-post-seventh-straight-week-of-inflows-5006882",
-    "Watchlist|https://www.investing.com/news/company-news/veon-to-acquire-3375-stake-in-jungo-tv-for-473-million-93CH-5006883",
-    "War|WP-MKTW-0005325617",
-    "Iran|https://www.iranintl.com/en/202611036564",
-    "Iran|https://www.iranintl.com/en/202611028465",
-    "AI|WP-MKTW-0005325617",
     "Cybersecurity|WP-MKTW-0005325617",
     "SG Banks|/companies-markets/banking-finance/ubs-cuts-about-200-london-jobs-credit-suisse-fusion-ends",
     "Watchlist|/companies-markets/banking-finance/ubs-cuts-about-200-london-jobs-credit-suisse-fusion-ends",
@@ -5000,7 +4990,17 @@
     "Watchlist|25169a6f-3ef8-32f3-9c67-01fa7c0c0c4c",
     "SG Banks|/esg/low-carbon-transition-face-stronger-headwinds-cop31-says-grace-fu",
     "Watchlist|/esg/low-carbon-transition-face-stronger-headwinds-cop31-says-grace-fu",
-    "SG Banks|https://www.straitstimes.com/singapore/jobs/askst-jobs-can-i-secretly-record-my-performance-appraisal-meeting-with-my-boss"
+    "SG Banks|https://www.straitstimes.com/singapore/jobs/askst-jobs-can-i-secretly-record-my-performance-appraisal-meeting-with-my-boss",
+    "AI|864fef10-923d-31bb-8805-d2b24340b794",
+    "Watchlist|864fef10-923d-31bb-8805-d2b24340b794",
+    "AI|https://www.investing.com/news/stock-market-news/how-a-digital-banks-collapse-toppled-paraguays-president-5010316",
+    "AI|https://www.investing.com/news/insider-trading-news/beacon-financial-director-hughes-buys-6146-in-company-stock-93CH-5010317",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/how-a-digital-banks-collapse-toppled-paraguays-president-5010316",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/beacon-financial-director-hughes-buys-6146-in-company-stock-93CH-5010317",
+    "SG Banks|https://www.investing.com/news/stock-market-news/how-a-digital-banks-collapse-toppled-paraguays-president-5010316",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/beacon-financial-director-hughes-buys-6146-in-company-stock-93CH-5010317",
+    "Watchlist|https://www.investing.com/news/stock-market-news/how-a-digital-banks-collapse-toppled-paraguays-president-5010316",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/beacon-financial-director-hughes-buys-6146-in-company-stock-93CH-5010317"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794171799.3170369,
+  "last_check": 1794172709.897651,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
