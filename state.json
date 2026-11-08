@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/moodys-ceo-michael-west-disposes-of-103200-in-company-stock-93CH-5006487",
-    "Cybersecurity|https://www.investing.com/news/economic-indicators/thailand-cpi-inflation-hits-near-fouryear-high-in-october-5006491",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/iran-sent-nuclear-proposal-to-the-us-via-qatar-senior-iranian-official-tells-reuters-5006492",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/ppg-senior-vp-hagerty-sells-317862-in-company-stock-93CH-5006501",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/crocs-ceo-andrew-rees-sells-61-million-in-crox-shares-93CH-5006500",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/eu-electricity-grid-costs-may-rise-up-to-100-by-2050-93CH-5006502",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/ameren-group-president-moehn-sells-719680-in-company-stock-93CH-5006485",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/oreilly-automotive-svp-larry-gray-sells-699243-in-stock-93CH-5006486",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/moodys-ceo-michael-west-disposes-of-103200-in-company-stock-93CH-5006487",
-    "SG Banks|https://www.investing.com/news/economic-indicators/thailand-cpi-inflation-hits-near-fouryear-high-in-october-5006491",
-    "SG Banks|https://www.investing.com/news/commodities-news/iran-sent-nuclear-proposal-to-the-us-via-qatar-senior-iranian-official-tells-reuters-5006492",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/ppg-senior-vp-hagerty-sells-317862-in-company-stock-93CH-5006501",
     "SG Banks|https://www.investing.com/news/insider-trading-news/crocs-ceo-andrew-rees-sells-61-million-in-crox-shares-93CH-5006500",
     "SG Banks|https://www.investing.com/news/stock-market-news/eu-electricity-grid-costs-may-rise-up-to-100-by-2050-93CH-5006502",
     "Watchlist|https://www.investing.com/news/insider-trading-news/ameren-group-president-moehn-sells-719680-in-company-stock-93CH-5006485",
@@ -5000,7 +4988,19 @@
     "AI|cf7837fa-6bc3-32c9-a374-1596a6c134fe",
     "Watchlist|cf7837fa-6bc3-32c9-a374-1596a6c134fe",
     "Cybersecurity|6c982bc1-3deb-31e5-a924-1b7a43f9d543",
-    "War|cd4dde7e-bcaf-37f5-afc2-ac85ad605e32"
+    "War|cd4dde7e-bcaf-37f5-afc2-ac85ad605e32",
+    "AI|https://www.investing.com/news/economy-news/turkeys-coal-dependence-faces-scrutiny-as-cop31-climate-summit-begins-5010161",
+    "AI|https://www.investing.com/news/insider-trading-news/chemed-executive-vice-president-lee-sells-494196-in-stock-93CH-5010162",
+    "Cybersecurity|https://www.investing.com/news/economy-news/turkeys-coal-dependence-faces-scrutiny-as-cop31-climate-summit-begins-5010161",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/chemed-executive-vice-president-lee-sells-494196-in-stock-93CH-5010162",
+    "SG Banks|https://www.investing.com/news/economy-news/turkeys-coal-dependence-faces-scrutiny-as-cop31-climate-summit-begins-5010161",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/chemed-executive-vice-president-lee-sells-494196-in-stock-93CH-5010162",
+    "Watchlist|https://www.investing.com/news/economy-news/turkeys-coal-dependence-faces-scrutiny-as-cop31-climate-summit-begins-5010161",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/chemed-executive-vice-president-lee-sells-494196-in-stock-93CH-5010162",
+    "SG Banks|/companies-markets/greenback-jumps-after-strong-us-payrolls-report",
+    "Watchlist|/companies-markets/greenback-jumps-after-strong-us-payrolls-report",
+    "AI|436a4d20-ebcd-3eea-9945-641dad7b774c",
+    "Watchlist|436a4d20-ebcd-3eea-9945-641dad7b774c"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794126906.5515943,
+  "last_check": 1794127835.0552607,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
