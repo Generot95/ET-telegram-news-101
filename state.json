@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/ameren-group-president-moehn-sells-719680-in-company-stock-93CH-5006485",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/oreilly-automotive-svp-larry-gray-sells-699243-in-stock-93CH-5006486",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/moodys-ceo-michael-west-disposes-of-103200-in-company-stock-93CH-5006487",
     "Cybersecurity|https://www.investing.com/news/economic-indicators/thailand-cpi-inflation-hits-near-fouryear-high-in-october-5006491",
     "Cybersecurity|https://www.investing.com/news/commodities-news/iran-sent-nuclear-proposal-to-the-us-via-qatar-senior-iranian-official-tells-reuters-5006492",
@@ -5000,7 +4998,9 @@
     "Crypto|601a162c-4ab4-3598-9f37-7027fceb45d2",
     "Crypto|20a295bc-e8d3-3333-896d-364c4864afe0",
     "AI|cf7837fa-6bc3-32c9-a374-1596a6c134fe",
-    "Watchlist|cf7837fa-6bc3-32c9-a374-1596a6c134fe"
+    "Watchlist|cf7837fa-6bc3-32c9-a374-1596a6c134fe",
+    "Cybersecurity|6c982bc1-3deb-31e5-a924-1b7a43f9d543",
+    "War|cd4dde7e-bcaf-37f5-afc2-ac85ad605e32"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794125990.2935753,
+  "last_check": 1794126906.5515943,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
