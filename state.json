@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/company-news/iux-officially-launches-new-credit-campaign-offering-up-to-1500-in-trading-credits-5006623",
-    "Watchlist|https://www.investing.com/news/stock-market-news/tesla-to-wind-down-cybertruck-production-at-texas-gigafactory-next-year-musk-says-5006624",
-    "AI|https://www.investing.com/news/earnings/daimler-truck-q3-operating-profit-jumps-73-on-north-american-rebound-5006626",
     "Cybersecurity|https://www.investing.com/news/earnings/daimler-truck-q3-operating-profit-jumps-73-on-north-american-rebound-5006626",
     "SG Banks|https://www.investing.com/news/earnings/daimler-truck-q3-operating-profit-jumps-73-on-north-american-rebound-5006626",
     "Watchlist|https://www.investing.com/news/earnings/daimler-truck-q3-operating-profit-jumps-73-on-north-american-rebound-5006626",
@@ -5000,7 +4997,10 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/northrop-grumman-director-mark-welsh-iii-sells-54453-of-common-stock-93CH-5010228",
     "Watchlist|https://www.investing.com/news/insider-trading-news/community-bancorp-president-and-ceo-buys-21492-in-stock-93CH-5010227",
     "Watchlist|https://www.investing.com/news/insider-trading-news/northrop-grumman-director-mark-welsh-iii-sells-54453-of-common-stock-93CH-5010228",
-    "War|7349e35f-5be6-3f1a-9e66-e75490e9f1dc"
+    "War|7349e35f-5be6-3f1a-9e66-e75490e9f1dc",
+    "Iran|https://www.iranintl.com/en/202611081444",
+    "Watchlist|020868ee-eda9-38fb-b462-4c11358d8a5f",
+    "War|e5a638e7-b967-3b1b-9856-b427809cc8cc"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794145234.8800888,
+  "last_check": 1794146143.0414805,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
