@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/analyst-ratings/jpmorgan-upgrades-sociedad-quimica-y-minera-stock-rating-on-valuation-93CH-5006545",
-    "AI|https://www.investing.com/news/analyst-ratings/seaport-upgrades-sitime-stock-rating-to-buy-on-ai-opportunity-93CH-5006547",
-    "AI|https://www.investing.com/news/analyst-ratings/centrus-energy-stock-rating-upgraded-to-buy-at-rothmkm-on-revenue-risk-mitigation-93CH-5006546",
-    "AI|https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-049-5006506",
-    "AI|https://www.investing.com/news/stock-market-news/singapore-airlines-to-splash-16-billion-on-luxury-longhaul-cabins-as-rivals-up-their-game-5006507",
-    "AI|https://www.investing.com/news/stock-market-news/yangtze-memory-targets-70-domestic-equipment-for-new-chip-plant-reuters-93CH-5006510",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/nerdwallet-stock-rating-cut-to-market-perform-by-william-blair-93CH-5006530",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/keybanc-downgrades-cogent-communications-stock-rating-on-growth-concerns-93CH-5006532",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/william-blair-downgrades-cvrx-stock-rating-on-reimbursement-headwinds-93CH-5006531",
@@ -5000,7 +4994,13 @@
     "Watchlist|674c5b0e-502c-3ea5-ade9-f01adaf51e1f",
     "Watchlist|16b28f93-3eb4-3e58-abdf-de56cd232eb5",
     "Watchlist|/international/global/ai-rout-after-us-midterms-hits-asia-hard-reviving-out-favour-chinese-and-indian-stocks",
-    "Watchlist|/companies-markets/ocbc-wealth-clients-turn-defensive-amid-market-volatility-q3-profit-rises-3"
+    "Watchlist|/companies-markets/ocbc-wealth-clients-turn-defensive-amid-market-volatility-q3-profit-rises-3",
+    "AI|48a263ff-4ba0-37a4-8915-1e9af9e7ae7d",
+    "Watchlist|48a263ff-4ba0-37a4-8915-1e9af9e7ae7d",
+    "SG Banks|/international/china-recruited-singapore-data-centre-firm-exec-spy-nvidia-ceo-jensen-huang-us-intelligence",
+    "Watchlist|/international/china-recruited-singapore-data-centre-firm-exec-spy-nvidia-ceo-jensen-huang-us-intelligence",
+    "SG Banks|/international/china-recruited-exec-singapore-data-centre-firm-spy-nvidia-ceo-jensen-huang-us-intelligence",
+    "Watchlist|/international/china-recruited-exec-singapore-data-centre-firm-spy-nvidia-ceo-jensen-huang-us-intelligence"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794129689.396853,
+  "last_check": 1794130573.8962045,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
