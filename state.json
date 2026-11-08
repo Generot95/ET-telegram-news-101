@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/analyst-ratings/raymond-james-upgrades-solaris-energy-stock-rating-on-contract-visibility-93CH-5006971",
-    "SG Banks|https://www.investing.com/news/earnings/affirm-delivers-quarterly-results-and-guidance-beat-raises-fullyear-gmv-outlook-5005693",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/raymond-james-lowers-martin-marietta-materials-price-target-to-620-93CH-5006994",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/mizuho-raises-airbnb-stock-price-target-on-ai-expansion-plans-93CH-5006995",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/oppenheimer-reiterates-autodesk-stock-rating-on-partner-feedback-93CH-5006996",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/briley-cuts-shift4-payments-stock-price-target-on-lowered-guidance-93CH-5006998",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/baird-cuts-sarepta-therapeutics-stock-price-target-on-growth-concerns-93CH-5006999",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/jefferies-raises-first-advantage-stock-price-target-on-strong-quarter-93CH-5006968",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/canaccord-reiterates-snap-stock-rating-on-mixed-q3-results-93CH-5006970",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/deutsche-bank-cuts-evercommerce-stock-rating-on-weak-results-93CH-5006969",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/raymond-james-upgrades-solaris-energy-stock-rating-on-contract-visibility-93CH-5006971",
-    "Watchlist|https://www.investing.com/news/earnings/affirm-delivers-quarterly-results-and-guidance-beat-raises-fullyear-gmv-outlook-5005693",
     "Watchlist|https://www.investing.com/news/analyst-ratings/raymond-james-lowers-martin-marietta-materials-price-target-to-620-93CH-5006994",
     "Watchlist|https://www.investing.com/news/analyst-ratings/mizuho-raises-airbnb-stock-price-target-on-ai-expansion-plans-93CH-5006995",
     "Watchlist|https://www.investing.com/news/analyst-ratings/oppenheimer-reiterates-autodesk-stock-rating-on-partner-feedback-93CH-5006996",
@@ -5000,7 +4988,19 @@
     "Watchlist|https://www.investing.com/news/company-news/onterris-acquires-ecoz-environmental-consultants-in-australia-93CH-5010333",
     "Watchlist|https://www.investing.com/news/stock-market-news/could-hbf-be-the-solution-to-the-memory-bottleneck-5010334",
     "Watchlist|837ea41f-5016-3734-99ed-05d7408f93e4",
-    "AI|837ea41f-5016-3734-99ed-05d7408f93e4"
+    "AI|837ea41f-5016-3734-99ed-05d7408f93e4",
+    "Watchlist|1db17a44-1f0f-36e8-a46f-6e9caa742047",
+    "SG Banks|https://www.channelnewsasia.com/business/cryptocurrencies-slide-two-month-lows-after-us-midterms-6534751",
+    "Iran|https://www.iranintl.com/en/202611086475",
+    "AI|fd7a9138-e43d-3752-aac8-d390a6093d24",
+    "AI|b56b4303-d8b8-3324-94d1-b103e10b99b4",
+    "AI|b223dd12-5cea-36c6-b5ed-bec876cde1af",
+    "Watchlist|fd7a9138-e43d-3752-aac8-d390a6093d24",
+    "Watchlist|b223dd12-5cea-36c6-b5ed-bec876cde1af",
+    "Watchlist|b56b4303-d8b8-3324-94d1-b103e10b99b4",
+    "AI|952f1096-69d3-36d0-a441-2d99b7ca7ee9",
+    "AI|09a7b85b-f39c-346a-88bc-f818668a56a9",
+    "Watchlist|09a7b85b-f39c-346a-88bc-f818668a56a9"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794176383.1250436,
+  "last_check": 1794177282.7392828,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
