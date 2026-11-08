@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/arlo-technologies-cfo-kurtis-binder-sells-501865-in-company-stock-93CH-5006614",
-    "Watchlist|https://www.investing.com/news/stock-market-news/japans-gpif-posts-333-bln-q2-loss-as-global-bond-selloff-hits-foreign-holdings-5006616",
     "Watchlist|https://www.investing.com/news/stock-market-news/singapore-airlines-unveils-16-bln-cabin-upgrade-plan-93CH-5006618",
     "War|34967224-3910-30a7-828c-65ff4d6047d3",
     "War|23e6e228-c043-3e1c-b3b1-51cd4c264395",
@@ -5000,7 +4998,9 @@
     "AI|7e74e556-3ffa-3d02-a9cb-74e2ab01eefc",
     "AI|e07b52e2-4c34-30b5-a013-bf9a7bf7a7df",
     "Watchlist|7e74e556-3ffa-3d02-a9cb-74e2ab01eefc",
-    "Watchlist|e07b52e2-4c34-30b5-a013-bf9a7bf7a7df"
+    "Watchlist|e07b52e2-4c34-30b5-a013-bf9a7bf7a7df",
+    "AI|94bec9e0-9b6f-3e22-a0a5-555577c5234a",
+    "Watchlist|94bec9e0-9b6f-3e22-a0a5-555577c5234a"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794139739.6998968,
+  "last_check": 1794140647.1960232,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
