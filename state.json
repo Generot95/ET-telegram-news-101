@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-604-5006620",
-    "Cybersecurity|https://www.investing.com/news/economy-news/tech-selloff-wipes-out-hedge-fund-gains-prompting-risk-cuts-and-layoffs-5006622",
     "Cybersecurity|https://www.investing.com/news/company-news/iux-officially-launches-new-credit-campaign-offering-up-to-1500-in-trading-credits-5006623",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/tesla-to-wind-down-cybertruck-production-at-texas-gigafactory-next-year-musk-says-5006624",
     "SG Banks|https://www.investing.com/news/stock-market-news/goldman-sachs-weighs-in-on-three-australian-gold-stocks-5006619",
@@ -5000,7 +4998,9 @@
     "Watchlist|227a0bd0-bd74-3670-be3d-f8f1ba0c54a7",
     "Watchlist|bf09662a-14fd-3bbd-b5e5-d74fc9159140",
     "SG Banks|https://www.channelnewsasia.com/business/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-6534256",
-    "Watchlist|bf6c8b00-8415-360e-95b2-2c7bb43834fd"
+    "Watchlist|bf6c8b00-8415-360e-95b2-2c7bb43834fd",
+    "AI|bf6c8b00-8415-360e-95b2-2c7bb43834fd",
+    "Watchlist|b96e6602-83e7-3d7e-97f2-f239333c643b"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794143399.4348643,
+  "last_check": 1794144307.9140427,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
