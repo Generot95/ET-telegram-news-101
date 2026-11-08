@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|968cdea9-f410-3c13-9f1d-c80765a45f99",
-    "Watchlist|968cdea9-f410-3c13-9f1d-c80765a45f99",
-    "War|d9219066-11ab-3f08-bfb4-497cbfdd2da3",
-    "AI|768eb139-f727-35b1-b410-3990b0ce7b50",
-    "AI|6fe1f578-52a8-3866-9840-45fa2bd4efe1",
-    "AI|af85f939-3d06-3842-9295-12edf259c407",
-    "AI|9913bebf-fbba-3171-9649-87834135a5f0",
-    "SG Banks|https://www.straitstimes.com/business/hackers-paid-us15-to-drain-us2-5b-from-binance-in-one-hit",
-    "Watchlist|768eb139-f727-35b1-b410-3990b0ce7b50",
-    "Watchlist|6fe1f578-52a8-3866-9840-45fa2bd4efe1",
     "Watchlist|af85f939-3d06-3842-9295-12edf259c407",
     "Watchlist|9913bebf-fbba-3171-9649-87834135a5f0",
     "AI|9606dacd-4b2d-319d-8bab-5d86b32cb6fe",
@@ -5000,7 +4990,17 @@
     "Iran|https://www.iranintl.com/en/202611043626",
     "Iran|https://www.iranintl.com/en/202611059696",
     "AI|ce3f8b86-d24e-3bff-b988-644cd5e7055d",
-    "Watchlist|ce3f8b86-d24e-3bff-b988-644cd5e7055d"
+    "Watchlist|ce3f8b86-d24e-3bff-b988-644cd5e7055d",
+    "Crypto|171b61b4-ada1-37c8-9277-b3e9c221c7d7",
+    "SG Banks|https://www.channelnewsasia.com/business/rbas-hunter-says-ai-has-yet-deliver-productivity-boost-trigger-job-losses-6534796",
+    "AI|https://www.investing.com/news/economy-news/rbas-hunter-says-ai-has-yet-to-deliver-productivity-boost-trigger-job-losses-5010341",
+    "Cybersecurity|https://www.investing.com/news/economy-news/rbas-hunter-says-ai-has-yet-to-deliver-productivity-boost-trigger-job-losses-5010341",
+    "SG Banks|https://www.investing.com/news/economy-news/rbas-hunter-says-ai-has-yet-to-deliver-productivity-boost-trigger-job-losses-5010341",
+    "Watchlist|https://www.investing.com/news/economy-news/rbas-hunter-says-ai-has-yet-to-deliver-productivity-boost-trigger-job-losses-5010341",
+    "SG Banks|/companies-markets/fbm-klci-faces-key-test-near-term-momentum-improves",
+    "SG Banks|/companies-markets/singapores-deep-tech-startups-tap-china-scale-set-sights-us-higher-margins",
+    "Watchlist|/companies-markets/fbm-klci-faces-key-test-near-term-momentum-improves",
+    "Watchlist|/companies-markets/singapores-deep-tech-startups-tap-china-scale-set-sights-us-higher-margins"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794178206.4609692,
+  "last_check": 1794179127.6666458,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
