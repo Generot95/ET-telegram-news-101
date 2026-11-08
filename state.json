@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|/companies-markets/capital-markets-currencies/tech-sell-wipes-out-hedge-fund-gains-prompting-layoffs-and-risk-cuts",
-    "SG Banks|https://www.channelnewsasia.com/business/indias-coforge-joins-spacex-partner-network-deploy-grok-ai-tools-enterprises-6530541",
-    "SG Banks|https://www.investing.com/news/economic-indicators/hungarys-retail-sales-rise-43-in-september-93CH-5006659",
     "SG Banks|https://www.investing.com/news/stock-market-news/airbus-delivered-74-aircraft-in-october-faces-yearend-sprint-to-hit-2026-target-5006660",
     "SG Banks|https://www.investing.com/news/economy-news/south-korean-corporate-reforms-hit-rough-patch-as-samsung-digs-in-5006661",
     "SG Banks|https://www.investing.com/news/commodities-news/goldman-lowers-yearend-gold-price-forecast-on-hawkish-fed-shift-5006662",
@@ -5000,7 +4997,10 @@
     "AI|997ca898-cba5-3217-aa33-1f00b2eee0f9",
     "Watchlist|997ca898-cba5-3217-aa33-1f00b2eee0f9",
     "AI|fff6366b-32e3-3555-9327-5394450d8f8f",
-    "Watchlist|fff6366b-32e3-3555-9327-5394450d8f8f"
+    "Watchlist|fff6366b-32e3-3555-9327-5394450d8f8f",
+    "Watchlist|eccb8e5c-84cf-31b2-8ab5-fb6864155494",
+    "AI|eccb8e5c-84cf-31b2-8ab5-fb6864155494",
+    "SG Banks|/companies-markets/capital-markets-currencies/tech-sell-wipes-out-hedge-fund-gains-prompting-layoffs-and-risk-cuts"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794151657.2690058,
+  "last_check": 1794152567.9721014,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
