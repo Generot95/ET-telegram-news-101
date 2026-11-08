@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/exclusivechinas-top-flash-memory-chipmaker-targets-more-homegrown-tools-for-new-factory-sources-say-5006408",
-    "Cybersecurity|https://www.investing.com/news/cryptocurrency-news/trumps-world-liberty-financial-launches-token-buyback-program-5006409",
-    "Cybersecurity|https://www.investing.com/news/forex-news/asian-fx-mixed-as-yen-gains-on-risk-aversion-taiwan-dollar-breaks-33-amid-ai-rout-5006410",
-    "Cybersecurity|https://www.investing.com/news/earnings/karat-packaging-earnings-missed-by-018-revenue-fell-short-of-estimates-5006411",
-    "Cybersecurity|https://www.investing.com/news/earnings/regency-centers-earnings-missed-by-019-revenue-topped-estimates-5006412",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/f5-evp-general-counsel-angelique-okeke-disposes-of-326328-in-stock-93CH-5006404",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/ncino-chief-legal--admin-officer-sells-182021-in-shares-93CH-5006405",
-    "SG Banks|https://www.investing.com/news/stock-market-news/exclusivechinas-top-flash-memory-chipmaker-targets-more-homegrown-tools-for-new-factory-sources-say-5006408",
     "SG Banks|https://www.investing.com/news/cryptocurrency-news/trumps-world-liberty-financial-launches-token-buyback-program-5006409",
     "SG Banks|https://www.investing.com/news/forex-news/asian-fx-mixed-as-yen-gains-on-risk-aversion-taiwan-dollar-breaks-33-amid-ai-rout-5006410",
     "SG Banks|https://www.investing.com/news/earnings/karat-packaging-earnings-missed-by-018-revenue-fell-short-of-estimates-5006411",
@@ -5000,7 +4992,15 @@
     "Watchlist|/companies-markets/telcos-media-tech/china-recruited-singapore-based-executive-spy-nvidia-ceo-jensen-huang-us-intelligence",
     "AI|f94fecf9-0ece-37e6-ba1d-f65925f9214a",
     "Watchlist|f94fecf9-0ece-37e6-ba1d-f65925f9214a",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/trumps-world-liberty-financial-launches-token-buyback-program-5006409"
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/trumps-world-liberty-financial-launches-token-buyback-program-5006409",
+    "War|b8f93d53-1d25-325b-adbf-9e0fe431f24d",
+    "Iran|https://www.iranintl.com/en/202611082093",
+    "SG Banks|/companies-markets/berkshire-hathaway-speeds-stock-buybacks-operating-income-slips",
+    "Watchlist|/companies-markets/berkshire-hathaway-speeds-stock-buybacks-operating-income-slips",
+    "AI|https://www.investing.com/news/economy-news/us-military-disables-cargo-vessel-attempting-to-breach-iran-blockade-5010104",
+    "Cybersecurity|https://www.investing.com/news/economy-news/us-military-disables-cargo-vessel-attempting-to-breach-iran-blockade-5010104",
+    "SG Banks|https://www.investing.com/news/economy-news/us-military-disables-cargo-vessel-attempting-to-breach-iran-blockade-5010104",
+    "Watchlist|https://www.investing.com/news/economy-news/us-military-disables-cargo-vessel-attempting-to-breach-iran-blockade-5010104"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794102155.7522776,
+  "last_check": 1794103079.53689,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
