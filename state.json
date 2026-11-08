@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/aryzta-cfo-martin-huber-to-leave-company-for-new-role-93CH-5006591",
-    "Watchlist|https://www.investing.com/news/earnings/prothena-earnings-missed-by-011-revenue-fell-short-of-estimates-5006593",
-    "Watchlist|https://www.investing.com/news/earnings/carlyle-secured-lending-earnings-missed-revenue-topped-estimates-5006595",
-    "Watchlist|https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-75k-as-us-regulatory-uncertainty-grows-5006596",
-    "Watchlist|https://www.investing.com/news/stock-market-news/ai-boom-turns-chip-packaging-into-the-next-battleground-for-semiconductors-5006549",
-    "SG Banks|/companies-markets/banking-finance/bitcoin-drops-below-us77000-binance-hack-shakes-crypto",
-    "SG Banks|/companies-markets/google-extends-voluntary-buyout-offers-employees-several-countries-amid-heavy-ai-spending",
-    "Watchlist|/companies-markets/google-extends-voluntary-buyout-offers-employees-several-countries-amid-heavy-ai-spending",
-    "AI|https://www.investing.com/news/earnings/aperam-forecasts-higher-q4-ebitda-after-42-rrse-in-q3-5006601",
-    "AI|https://www.investing.com/news/analyst-ratings/baird-downgrades-helios-tech-stock-rating-on-cost-pressures-93CH-5006604",
     "AI|https://www.investing.com/news/analyst-ratings/rbc-capital-downgrades-sonova-stock-rating-on-valuation-concerns-93CH-5006611",
     "AI|https://www.investing.com/news/insider-trading-news/arlo-technologies-cfo-kurtis-binder-sells-501865-in-company-stock-93CH-5006614",
     "AI|https://www.investing.com/news/stock-market-news/japans-gpif-posts-333-bln-q2-loss-as-global-bond-selloff-hits-foreign-holdings-5006616",
@@ -5000,7 +4990,17 @@
     "Watchlist|https://www.investing.com/news/world-news/media-industry-still-has-a-problem-with-sexual-abuse-uk-minister-says-5010187",
     "Watchlist|https://www.investing.com/news/world-news/poland-mourns-victims-of-krakow-mass-shooting-as-security-fears-grow-5010181",
     "Watchlist|https://www.investing.com/news/general-news/factboxdemocratic-attorney-general-wins-could-reshape-us-lawsuits-on-abortion-immigration-and-more-5010199",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-75k-as-us-regulatory-uncertainty-grows-5006596"
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-75k-as-us-regulatory-uncertainty-grows-5006596",
+    "AI|d5e449f4-4e2e-3428-a680-c21b771ca4ea",
+    "AI|dcc69068-4a0f-3e5f-9328-9ad7818bb1f9",
+    "Crypto|dcc69068-4a0f-3e5f-9328-9ad7818bb1f9",
+    "Watchlist|dcc69068-4a0f-3e5f-9328-9ad7818bb1f9",
+    "AI|https://www.investing.com/news/stock-market-news/buy-the-dip-or-wait-bofa-maps-out-3-scenarios-for-chip-stocks-and-top-picks-5010206",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/buy-the-dip-or-wait-bofa-maps-out-3-scenarios-for-chip-stocks-and-top-picks-5010206",
+    "SG Banks|https://www.investing.com/news/stock-market-news/buy-the-dip-or-wait-bofa-maps-out-3-scenarios-for-chip-stocks-and-top-picks-5010206",
+    "Watchlist|https://www.investing.com/news/stock-market-news/buy-the-dip-or-wait-bofa-maps-out-3-scenarios-for-chip-stocks-and-top-picks-5010206",
+    "SG Banks|/companies-markets/google-extends-voluntary-buyout-offers-employees-several-countries-amid-heavy-ai-spending",
+    "Watchlist|/companies-markets/google-extends-voluntary-buyout-offers-employees-several-countries-amid-heavy-ai-spending"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794136997.235398,
+  "last_check": 1794137904.8950841,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
