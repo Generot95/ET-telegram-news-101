@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/earnings/brighthouse-financial-earnings-missed-by-133-revenue-fell-short-of-estimates-5006452",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/aware-ceo-ajay-amlani-buys-32425-in-company-stock-93CH-5006453",
     "SG Banks|/companies-markets/banking-finance/hsbc-open-hong-kong-ai-institute-following-singapore-launch",
     "Watchlist|5f14fa6d-7447-31a3-b3d4-fda9849e3653",
     "SG Banks|/companies-markets/telcos-media-tech/huang-drops-worlds-top-10-richest-after-chips-selloff",
@@ -5000,7 +4998,9 @@
     "Watchlist|https://www.investing.com/news/world-news/who-is-qiulae-wong-the-outsider-who-could-decide-new-zealands-next-government-5010103",
     "SG Banks|https://www.straitstimes.com/business/global-tech-fallout-after-us-democrats-victory-dbs-ocbc-oub-shares-drop-markets-this-week",
     "SG Banks|/companies-markets/directors-increase-stakes-aspial-lifestyle-mi-material-wilmar",
-    "Watchlist|/companies-markets/directors-increase-stakes-aspial-lifestyle-mi-material-wilmar"
+    "Watchlist|/companies-markets/directors-increase-stakes-aspial-lifestyle-mi-material-wilmar",
+    "SG Banks|/companies-markets/positive-rental-reversions-support-s-reits-recent-resilience",
+    "Watchlist|/companies-markets/positive-rental-reversions-support-s-reits-recent-resilience"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794111328.7935827,
+  "last_check": 1794112234.612185,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
