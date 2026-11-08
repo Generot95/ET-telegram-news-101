@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|60f8d5ef-59a4-3dec-b4e5-7f59706797cc",
-    "War|f7274651-bc2e-3b8a-82aa-4318efdd0197",
-    "SG Banks|https://www.channelnewsasia.com/business/tesla-wind-down-cybertruck-production-texas-factory-it-struggles-win-appeal-6530476",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-trainline-stock-sliding-today-93CH-5006750",
-    "AI|https://www.investing.com/news/earnings/mj-gleeson-shares-dip-as-new-home-scheme-delays-demand-93CH-5006751",
-    "AI|https://www.investing.com/news/insider-trading-news/city-holding-evp-legge-sells-74393-in-common-stock-93CH-5006755",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-stabilus-stock-sliding-today-93CH-5006775",
-    "AI|https://www.investing.com/news/stock-market-news/glanbia-shares-tumble-6-after-morgan-stanley-cuts-rating-to-underweight-5006777",
     "AI|https://www.investing.com/news/earnings/cellnex-says-poland-deal-cuts-2027-cash-flow-by-300-mln-q3-in-line-5006785",
     "AI|https://www.investing.com/news/analyst-ratings/barclays-upgrades-air-franceklm-stock-rating-on-strong-results-93CH-5006786",
     "AI|https://www.investing.com/news/stock-market-news/why-is-daimler-truck-stock-sliding-today-93CH-5006746",
@@ -5000,7 +4992,15 @@
     "AI|a1832d9b-a11f-3375-9245-58afaa0a8dbc",
     "Watchlist|a1832d9b-a11f-3375-9245-58afaa0a8dbc",
     "AI|22899235-0323-3d77-980a-c2fee931651c",
-    "Watchlist|22899235-0323-3d77-980a-c2fee931651c"
+    "Watchlist|22899235-0323-3d77-980a-c2fee931651c",
+    "War|9622b187-7dd2-4086-87d2-b9448dd2298a",
+    "War|793f5f4f-9e63-327d-a4d5-a29869a2e016",
+    "AI|952ab271-80a1-3c34-aa13-ae712a44272c",
+    "AI|923f35dd-a617-3366-a959-769584c77280",
+    "Watchlist|952ab271-80a1-3c34-aa13-ae712a44272c",
+    "War|a3290c32-8871-35f1-941b-58a260f0c937",
+    "AI|2cac1975-c821-3308-aa83-bdcc82e4410e",
+    "War|caa55815-4782-3503-9b56-7bc4c1c2f1f5"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794161741.8521254,
+  "last_check": 1794162645.599981,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
