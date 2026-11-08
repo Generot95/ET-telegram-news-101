@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|3f9ec8f0-5fac-31c8-9df9-10fd45218b31",
-    "SG Banks|https://www.straitstimes.com/business/crypto-dips-on-democrat-midterm-wins-binance-hacks-dent-optimism",
     "Watchlist|/companies-markets/banking-finance/hedge-funds-flag-growing-private-credit-risks-amid-rising-rates",
     "Iran|https://www.iranintl.com/en/202611046994",
     "AI|21a5f2ab-857f-3393-9165-82f0c44b5b48",
@@ -5000,7 +4998,9 @@
     "Watchlist|99572d8d-66ad-3e28-b1c8-1a93f2973c9f",
     "Watchlist|/companies-markets/capital-markets-currencies/wall-street-stocks-rally-after-heavy-ai-related-sell",
     "SG Banks|/companies-markets/banking-finance/hedge-funds-flag-growing-private-credit-risks-amid-rising-rates",
-    "Cybersecurity|ff0ee40a-ae82-385f-af77-90ac0019ede4"
+    "Cybersecurity|ff0ee40a-ae82-385f-af77-90ac0019ede4",
+    "AI|a006485c-55f1-388b-b40a-13818d51d4a4",
+    "Watchlist|a006485c-55f1-388b-b40a-13818d51d4a4"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794123229.2343886,
+  "last_check": 1794124147.2482882,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
