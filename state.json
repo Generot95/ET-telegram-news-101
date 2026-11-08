@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/economy-news/global-equity-funds-post-seventh-straight-week-of-inflows-5006882",
-    "AI|https://www.investing.com/news/company-news/veon-to-acquire-3375-stake-in-jungo-tv-for-473-million-93CH-5006883",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-mj-gleeson-stock-sliding-today-93CH-5006805",
     "AI|https://www.investing.com/news/stock-market-news/rbc-initiates-iss-at-outperform-sees-18-annual-eps-growth-through-2028-5006844",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-warby-parker-stock-rating-on-eyewear-launch-93CH-5006853",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/tapestry-stock-gains-on-strong-quarterly-results-and-raised-guidance-93CH-5006855",
@@ -5000,7 +4997,10 @@
     "Watchlist|189ac182-3939-3a0e-9030-03f09a37159f",
     "Watchlist|510788be-b1b7-3a39-8c28-7b410a5192da",
     "AI|24cbd29a-58d2-3c3b-b078-b0033b7d9fce",
-    "Watchlist|24cbd29a-58d2-3c3b-b078-b0033b7d9fce"
+    "Watchlist|24cbd29a-58d2-3c3b-b078-b0033b7d9fce",
+    "SG Banks|https://www.channelnewsasia.com/business/nvidia-launches-probe-after-report-ceo-huang-was-target-foreign-intelligence-6534611",
+    "War|8df2298b-45c6-3290-8eb4-d8841785f6d6",
+    "Watchlist|8df2298b-45c6-3290-8eb4-d8841785f6d6"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794169054.570245,
+  "last_check": 1794169957.5221949,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
