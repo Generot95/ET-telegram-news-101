@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/singapore-airlines-unveils-16-bln-cabin-upgrade-plan-93CH-5006618",
-    "War|34967224-3910-30a7-828c-65ff4d6047d3",
-    "War|23e6e228-c043-3e1c-b3b1-51cd4c264395",
-    "Crypto|d3242240-75b2-3f01-96e8-7587e0b6cdb6",
-    "Crypto|5def63dc-87ae-3d79-b80d-a60b0ed7aa7a",
-    "Crypto|b9d02a3b-61f1-3b43-a900-f09fe020c78b",
     "Crypto|abd86546-2425-36ba-8367-8c10c3e0da5c",
     "Cybersecurity|09c4eba0-af7c-3a36-b20f-ccbe00f2cad3",
     "SG Banks|/companies-markets/visa-sets-six-global-tech-hubs-singapore-1500-staff-new-paya-lebar-centre",
@@ -5000,7 +4994,13 @@
     "Watchlist|7e74e556-3ffa-3d02-a9cb-74e2ab01eefc",
     "Watchlist|e07b52e2-4c34-30b5-a013-bf9a7bf7a7df",
     "AI|94bec9e0-9b6f-3e22-a0a5-555577c5234a",
-    "Watchlist|94bec9e0-9b6f-3e22-a0a5-555577c5234a"
+    "Watchlist|94bec9e0-9b6f-3e22-a0a5-555577c5234a",
+    "AI|baa9e6c9-4d09-3705-9a8f-3cd4ad58dbfc",
+    "Watchlist|baa9e6c9-4d09-3705-9a8f-3cd4ad58dbfc",
+    "AI|https://www.investing.com/news/insider-trading-news/caterpillar-director-james-fish-jr-buys-620390-in-stock-93CH-5010216",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/caterpillar-director-james-fish-jr-buys-620390-in-stock-93CH-5010216",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/caterpillar-director-james-fish-jr-buys-620390-in-stock-93CH-5010216",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/caterpillar-director-james-fish-jr-buys-620390-in-stock-93CH-5010216"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794140647.1960232,
+  "last_check": 1794141564.545633,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
