@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-softbank-stock-tumbling-today-93CH-5006386",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/cavco-industries-evp-sells-371270-in-shares-93CH-5006396",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/s-korea-eases-margin-trading-rules-to-stem-forced-stock-sales-5006397",
-    "SG Banks|https://www.investing.com/news/company-news/doubleview-gold-closes-32m-flowthrough-financing-tranche-93CH-5006385",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-softbank-stock-tumbling-today-93CH-5006386",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/cavco-industries-evp-sells-371270-in-shares-93CH-5006396",
     "SG Banks|https://www.investing.com/news/stock-market-news/s-korea-eases-margin-trading-rules-to-stem-forced-stock-sales-5006397",
     "Watchlist|https://www.investing.com/news/company-news/doubleview-gold-closes-32m-flowthrough-financing-tranche-93CH-5006385",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-softbank-stock-tumbling-today-93CH-5006386",
@@ -5000,7 +4994,13 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/oceanfirst-director-jack-farris-buys-10008-in-company-stock-93CH-5010086",
     "AI|f4a78869-fe53-32f1-b4ee-865525012839",
     "Watchlist|f4a78869-fe53-32f1-b4ee-865525012839",
-    "War|https://www.investing.com/news/world-news/explainerwhat-happens-next-after-new-zealands-vote-5010089"
+    "War|https://www.investing.com/news/world-news/explainerwhat-happens-next-after-new-zealands-vote-5010089",
+    "AI|https://www.investing.com/news/stock-market-news/how-to-invest-in-ai-amid-ai-spending-worries-5010090",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/how-to-invest-in-ai-amid-ai-spending-worries-5010090",
+    "SG Banks|https://www.investing.com/news/stock-market-news/how-to-invest-in-ai-amid-ai-spending-worries-5010090",
+    "Watchlist|https://www.investing.com/news/stock-market-news/how-to-invest-in-ai-amid-ai-spending-worries-5010090",
+    "AI|328d4238-0a3d-38df-b94e-124758d6dc5c",
+    "Watchlist|328d4238-0a3d-38df-b94e-124758d6dc5c"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794096670.1707664,
+  "last_check": 1794097591.8234544,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
