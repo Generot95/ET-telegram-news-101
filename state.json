@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|WP-MKTW-0005325617",
-    "SG Banks|/companies-markets/banking-finance/ubs-cuts-about-200-london-jobs-credit-suisse-fusion-ends",
-    "Watchlist|/companies-markets/banking-finance/ubs-cuts-about-200-london-jobs-credit-suisse-fusion-ends",
-    "Crypto|12eb66b9-b6dc-34f1-9846-6dfae0238d79",
-    "AI|eda04341-89ab-4d13-8654-3cd47c45a139",
-    "Watchlist|eda04341-89ab-4d13-8654-3cd47c45a139",
-    "AI|10adeea3-b708-3db9-9362-8f9f8d0d430f",
-    "Watchlist|10adeea3-b708-3db9-9362-8f9f8d0d430f",
-    "War|5a1c7de0-8021-3709-887d-c5df9a3afdfc",
-    "AI|d81f3833-c4aa-3a65-bddf-03b5de71d5b4",
-    "Crypto|d81f3833-c4aa-3a65-bddf-03b5de71d5b4",
-    "Watchlist|d81f3833-c4aa-3a65-bddf-03b5de71d5b4",
     "AI|35411f94-0eec-3e5e-bff6-211834009914",
     "AI|83bec249-3fa5-3640-b335-df2ca20601c1",
     "Watchlist|35411f94-0eec-3e5e-bff6-211834009914",
@@ -5000,7 +4988,19 @@
     "SG Banks|https://www.investing.com/news/stock-market-news/how-a-digital-banks-collapse-toppled-paraguays-president-5010316",
     "SG Banks|https://www.investing.com/news/insider-trading-news/beacon-financial-director-hughes-buys-6146-in-company-stock-93CH-5010317",
     "Watchlist|https://www.investing.com/news/stock-market-news/how-a-digital-banks-collapse-toppled-paraguays-president-5010316",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/beacon-financial-director-hughes-buys-6146-in-company-stock-93CH-5010317"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/beacon-financial-director-hughes-buys-6146-in-company-stock-93CH-5010317",
+    "War|74f48385-ced5-3d55-8a42-c20b36bd4c37",
+    "War|9fb2677b-30e1-359d-b4c2-d9149b80207b",
+    "AI|3d3f714a-c766-3e51-b12c-b0e5fa3ca4a6",
+    "Watchlist|3d3f714a-c766-3e51-b12c-b0e5fa3ca4a6",
+    "SG Banks|/companies-markets/banking-finance/ubs-cuts-about-200-london-jobs-credit-suisse-fusion-ends",
+    "Watchlist|/companies-markets/banking-finance/ubs-cuts-about-200-london-jobs-credit-suisse-fusion-ends",
+    "War|WP-MKTW-0005336188",
+    "AI|WP-MKTW-0005336188",
+    "Cybersecurity|WP-MKTW-0005336188",
+    "AI|16c40ed3-ece8-3b35-8a03-15cd09258dc9",
+    "Watchlist|16c40ed3-ece8-3b35-8a03-15cd09258dc9",
+    "Watchlist|4ae94cb7-ee80-34bd-8161-f41619b67ef4"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794172709.897651,
+  "last_check": 1794173631.867877,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
