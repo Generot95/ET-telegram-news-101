@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|/companies-markets/banking-finance/hsbc-open-hong-kong-ai-institute-following-singapore-launch",
-    "Watchlist|5f14fa6d-7447-31a3-b3d4-fda9849e3653",
-    "SG Banks|/companies-markets/telcos-media-tech/huang-drops-worlds-top-10-richest-after-chips-selloff",
-    "Watchlist|/companies-markets/telcos-media-tech/huang-drops-worlds-top-10-richest-after-chips-selloff",
-    "War|9ca143ec-2066-3f59-9e4e-f0e71a0bde31",
-    "SG Banks|/companies-markets/telcos-media-tech/nvidia-ceo-jensen-huang-drops-worlds-top-10-richest-after-chips-sell",
-    "Watchlist|/companies-markets/telcos-media-tech/nvidia-ceo-jensen-huang-drops-worlds-top-10-richest-after-chips-sell",
     "War|0a7c6f40-d3f8-3ec7-be78-8392bbb8239d",
     "Watchlist|3d5bd123-62f0-3c6a-961a-fc56b57e7afe",
     "AI|https://www.investing.com/news/insider-trading-news/tradeweb-markets-cohead-bruni-sells-23m-in-shares-93CH-5006461",
@@ -5000,7 +4993,14 @@
     "SG Banks|/companies-markets/directors-increase-stakes-aspial-lifestyle-mi-material-wilmar",
     "Watchlist|/companies-markets/directors-increase-stakes-aspial-lifestyle-mi-material-wilmar",
     "SG Banks|/companies-markets/positive-rental-reversions-support-s-reits-recent-resilience",
-    "Watchlist|/companies-markets/positive-rental-reversions-support-s-reits-recent-resilience"
+    "Watchlist|/companies-markets/positive-rental-reversions-support-s-reits-recent-resilience",
+    "AI|https://www.investing.com/news/earnings/pacira-earnings-missed-by-003-revenue-fell-short-of-estimates-5010123",
+    "Cybersecurity|https://www.investing.com/news/earnings/pacira-earnings-missed-by-003-revenue-fell-short-of-estimates-5010123",
+    "SG Banks|https://www.investing.com/news/earnings/pacira-earnings-missed-by-003-revenue-fell-short-of-estimates-5010123",
+    "Watchlist|https://www.investing.com/news/earnings/pacira-earnings-missed-by-003-revenue-fell-short-of-estimates-5010123",
+    "SG Banks|/companies-markets/banking-finance/hsbc-open-hong-kong-ai-institute-following-singapore-launch",
+    "AI|e404635b-f389-315f-a43a-d0803d045e92",
+    "Watchlist|e404635b-f389-315f-a43a-d0803d045e92"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794112234.612185,
+  "last_check": 1794113148.335364,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
