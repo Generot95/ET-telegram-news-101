@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|87dfc0dd-be3d-3f90-90ad-fc219d2d2820",
-    "Watchlist|87dfc0dd-be3d-3f90-90ad-fc219d2d2820",
     "Watchlist|60f8d5ef-59a4-3dec-b4e5-7f59706797cc",
     "War|f7274651-bc2e-3b8a-82aa-4318efdd0197",
     "SG Banks|https://www.channelnewsasia.com/business/tesla-wind-down-cybertruck-production-texas-factory-it-struggles-win-appeal-6530476",
@@ -5000,7 +4998,9 @@
     "SG Banks|/companies-markets/mas-moves-spur-infrastructure-investments-easing-capital-requirements-insurers",
     "Watchlist|0ccd11c5-a077-35a4-8a28-77b011011b32",
     "AI|a1832d9b-a11f-3375-9245-58afaa0a8dbc",
-    "Watchlist|a1832d9b-a11f-3375-9245-58afaa0a8dbc"
+    "Watchlist|a1832d9b-a11f-3375-9245-58afaa0a8dbc",
+    "AI|22899235-0323-3d77-980a-c2fee931651c",
+    "Watchlist|22899235-0323-3d77-980a-c2fee931651c"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794160829.0782635,
+  "last_check": 1794161741.8521254,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
