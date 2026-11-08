@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/earnings/mitsubishi-heavy-raises-order-target-and-announces-first-buyback-93CH-5007066",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-five9-stock-tumbling-today-93CH-5007022",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-teleperformance-stock-plunging-today-93CH-5007027",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-guardant-health-stock-sliding-today-93CH-5007028",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-affirm-stock-sliding-today-93CH-5007034",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-applied-optoelectronics-stock-rallying-today-93CH-5007035",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-halozyme-therapeutics-stock-sliding-today-93CH-5007036",
     "AI|https://www.investing.com/news/stock-market-news/nasdaq-futures-rise-after-steep-ai-selloff-as-chip-stocks-stabilize-5007026",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/guggenheim-reiterates-atlassian-stock-rating-on-cloud-growth-93CH-5007057",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-in-line-rating-on-lyft-stock-at-20-93CH-5007058",
@@ -5000,7 +4993,14 @@
     "SG Banks|https://www.investing.com/news/stock-market-news/national-australia-bank-names-ian-saines-as-next-chair-5010345",
     "SG Banks|https://www.investing.com/news/company-news/veradermics-to-present-phase-3-hair-loss-trial-results-monday-93CH-5010347",
     "Watchlist|https://www.investing.com/news/stock-market-news/national-australia-bank-names-ian-saines-as-next-chair-5010345",
-    "Watchlist|https://www.investing.com/news/company-news/veradermics-to-present-phase-3-hair-loss-trial-results-monday-93CH-5010347"
+    "Watchlist|https://www.investing.com/news/company-news/veradermics-to-present-phase-3-hair-loss-trial-results-monday-93CH-5010347",
+    "Watchlist|40b000a8-1cb5-3b5c-9e66-facc54018ae7",
+    "AI|https://www.investing.com/news/world-news/new-zealands-new-lawmakers-start-to-arrive-at-parliament-as-government-remains-in-limbo-5010336",
+    "Cybersecurity|https://www.investing.com/news/world-news/new-zealands-new-lawmakers-start-to-arrive-at-parliament-as-government-remains-in-limbo-5010336",
+    "SG Banks|https://www.investing.com/news/world-news/new-zealands-new-lawmakers-start-to-arrive-at-parliament-as-government-remains-in-limbo-5010336",
+    "Watchlist|https://www.investing.com/news/world-news/new-zealands-new-lawmakers-start-to-arrive-at-parliament-as-government-remains-in-limbo-5010336",
+    "AI|38a4927b-2642-32c9-a087-65f2efc73f03",
+    "Watchlist|38a4927b-2642-32c9-a087-65f2efc73f03"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794180027.9256098,
+  "last_check": 1794180948.9505439,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
