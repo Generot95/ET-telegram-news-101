@@ -1,34 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|/companies-markets/dbs-eyes-prime-brokerage-business-q3-profit-falls-5-weaker-trading-income",
-    "Watchlist|76bad217-84c3-3e06-80ff-80ce033c01c9",
-    "Watchlist|/companies-markets/dbs-eyes-prime-brokerage-business-q3-profit-falls-5-weaker-trading-income",
-    "SG Banks|https://www.straitstimes.com/business/ukraines-kyivstar-lifts-outlook-as-digital-business-gathers-pace",
-    "SG Banks|https://www.channelnewsasia.com/business/markets-fret-over-growth-and-inflation-just-tech-rout-gains-speed-6530261",
-    "Crypto|3ece05a5-be38-3ad5-8f33-64824830a837",
-    "SG Banks|/companies-markets/analysts-cut-dbs-target-price-lower-2027-earnings-see-buying-opportunity-after-share-price-slide",
-    "Watchlist|/companies-markets/analysts-cut-dbs-target-price-lower-2027-earnings-see-buying-opportunity-after-share-price-slide",
-    "SG Banks|https://www.channelnewsasia.com/business/tesla-wind-down-cybertruck-production-texas-factory-musk-says-6530476",
-    "SG Banks|https://www.channelnewsasia.com/business/boj-hike-in-december-seek-terminal-rate-2-says-ex-central-bank-top-economist-6530521",
-    "AI|9ac6a506-591f-3087-bb8a-9b26fcc58bf9",
-    "Watchlist|9ac6a506-591f-3087-bb8a-9b26fcc58bf9",
-    "AI|1c16fa53-3957-35d9-887b-9d6d5c10a636",
-    "Cybersecurity|6c2be918-10d3-3364-a9e9-6fe93ac0c685",
-    "Watchlist|1c16fa53-3957-35d9-887b-9d6d5c10a636",
-    "War|https://www.investing.com/news/commodities-news/goldman-lowers-yearend-gold-price-forecast-on-hawkish-fed-shift-5006662",
-    "AI|https://www.investing.com/news/economic-indicators/hungarys-retail-sales-rise-43-in-september-93CH-5006659",
-    "AI|https://www.investing.com/news/stock-market-news/airbus-delivered-74-aircraft-in-october-faces-yearend-sprint-to-hit-2026-target-5006660",
-    "AI|https://www.investing.com/news/economy-news/south-korean-corporate-reforms-hit-rough-patch-as-samsung-digs-in-5006661",
-    "AI|https://www.investing.com/news/commodities-news/goldman-lowers-yearend-gold-price-forecast-on-hawkish-fed-shift-5006662",
-    "AI|https://www.investing.com/news/stock-market-news/rightmove-raises-2026-eps-growth-forecast-to-at-least-7-5006664",
-    "AI|https://www.investing.com/news/economy-news/boj-to-hike-in-december-seek-terminal-rate-of-2-says-excentral-bank-top-economist-5006665",
-    "Cybersecurity|https://www.investing.com/news/economic-indicators/hungarys-retail-sales-rise-43-in-september-93CH-5006659",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/airbus-delivered-74-aircraft-in-october-faces-yearend-sprint-to-hit-2026-target-5006660",
-    "Cybersecurity|https://www.investing.com/news/economy-news/south-korean-corporate-reforms-hit-rough-patch-as-samsung-digs-in-5006661",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/goldman-lowers-yearend-gold-price-forecast-on-hawkish-fed-shift-5006662",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/rightmove-raises-2026-eps-growth-forecast-to-at-least-7-5006664",
-    "Cybersecurity|https://www.investing.com/news/economy-news/boj-to-hike-in-december-seek-terminal-rate-of-2-says-excentral-bank-top-economist-5006665",
     "SG Banks|/companies-markets/capital-markets-currencies/tech-sell-wipes-out-hedge-fund-gains-prompting-layoffs-and-risk-cuts",
     "SG Banks|https://www.channelnewsasia.com/business/indias-coforge-joins-spacex-partner-network-deploy-grok-ai-tools-enterprises-6530541",
     "SG Banks|https://www.investing.com/news/economic-indicators/hungarys-retail-sales-rise-43-in-september-93CH-5006659",
@@ -5000,78 +4972,106 @@
     "Watchlist|5f9ac577-a476-32e1-9ce0-ec31f69e5597",
     "AI|085949e7-34a0-364b-9eae-cef64a4b3f92",
     "AI|5f9ac577-a476-32e1-9ce0-ec31f69e5597",
-    "Watchlist|085949e7-34a0-364b-9eae-cef64a4b3f92"
+    "Watchlist|085949e7-34a0-364b-9eae-cef64a4b3f92",
+    "AI|a2b3f7f4-b95d-350a-b646-68a2ea42d251",
+    "Watchlist|a2b3f7f4-b95d-350a-b646-68a2ea42d251",
+    "SG Banks|/companies-markets/dbs-eyes-prime-brokerage-business-q3-profit-falls-5-weaker-trading-income",
+    "Watchlist|76bad217-84c3-3e06-80ff-80ce033c01c9",
+    "Watchlist|/companies-markets/dbs-eyes-prime-brokerage-business-q3-profit-falls-5-weaker-trading-income",
+    "AI|https://www.investing.com/news/company-news/cabaletta-bio-reports-phase-12-data-for-autoimmune-therapy-93CH-5010250",
+    "Cybersecurity|https://www.investing.com/news/company-news/cabaletta-bio-reports-phase-12-data-for-autoimmune-therapy-93CH-5010250",
+    "AI|https://www.investing.com/news/stock-market-news/private-equity-firm-bc-partners-seeks-to-take-control-of-liv-golf-from-saudi-wealth-fund-ft-reports-5010245",
+    "AI|https://www.investing.com/news/stock-market-news/as-ai-trade-tires-bca-calls-for-european-stocks-to-beat-wall-street-5010247",
+    "AI|https://www.investing.com/news/insider-trading-news/paul-gama-pg-ceohealth-care-sells-477510-in-stock-93CH-5010248",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/private-equity-firm-bc-partners-seeks-to-take-control-of-liv-golf-from-saudi-wealth-fund-ft-reports-5010245",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/as-ai-trade-tires-bca-calls-for-european-stocks-to-beat-wall-street-5010247",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/paul-gama-pg-ceohealth-care-sells-477510-in-stock-93CH-5010248",
+    "SG Banks|/companies-markets/analysts-cut-dbs-target-price-lower-2027-earnings-see-buying-opportunity-after-share-price-slide",
+    "SG Banks|https://www.investing.com/news/stock-market-news/private-equity-firm-bc-partners-seeks-to-take-control-of-liv-golf-from-saudi-wealth-fund-ft-reports-5010245",
+    "SG Banks|https://www.investing.com/news/stock-market-news/as-ai-trade-tires-bca-calls-for-european-stocks-to-beat-wall-street-5010247",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/paul-gama-pg-ceohealth-care-sells-477510-in-stock-93CH-5010248",
+    "SG Banks|https://www.investing.com/news/company-news/cabaletta-bio-reports-phase-12-data-for-autoimmune-therapy-93CH-5010250",
+    "Watchlist|https://www.investing.com/news/stock-market-news/private-equity-firm-bc-partners-seeks-to-take-control-of-liv-golf-from-saudi-wealth-fund-ft-reports-5010245",
+    "Watchlist|https://www.investing.com/news/stock-market-news/as-ai-trade-tires-bca-calls-for-european-stocks-to-beat-wall-street-5010247",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/paul-gama-pg-ceohealth-care-sells-477510-in-stock-93CH-5010248",
+    "Watchlist|https://www.investing.com/news/company-news/cabaletta-bio-reports-phase-12-data-for-autoimmune-therapy-93CH-5010250",
+    "War|3eb4971d-06e4-3692-850a-27e7031c4a37",
+    "Watchlist|/companies-markets/analysts-cut-dbs-target-price-lower-2027-earnings-see-buying-opportunity-after-share-price-slide",
+    "AI|997ca898-cba5-3217-aa33-1f00b2eee0f9",
+    "Watchlist|997ca898-cba5-3217-aa33-1f00b2eee0f9",
+    "AI|fff6366b-32e3-3555-9327-5394450d8f8f",
+    "Watchlist|fff6366b-32e3-3555-9327-5394450d8f8f"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
   "earnings": {
     "AMD": {
       "ts": 1801602000,
-      "fetched": 1794064696.3999221
+      "fetched": 1794151104.7766457
     },
     "NVDA": {
       "ts": 1794949200,
-      "fetched": 1794064696.3999221
+      "fetched": 1794151104.7766457
     },
     "CRWD": {
       "ts": 1796158800,
-      "fetched": 1794064696.3999221
+      "fetched": 1794151104.7766457
     },
     "MSFT": {
       "ts": 1801083600,
-      "fetched": 1794064696.3999221
+      "fetched": 1794151104.7766457
     },
     "INTU": {
       "ts": 1795122000,
-      "fetched": 1794064696.3999221
+      "fetched": 1794151104.7766457
     },
     "BRK-B": {
-      "ts": 1794085200,
-      "fetched": 1794064696.3999221
+      "ts": 1794258000,
+      "fetched": 1794151104.7766457
     },
     "AMZN": {
       "ts": 1793304000,
-      "fetched": 1794064696.3999221
+      "fetched": 1794151104.7766457
     },
     "GOOG": {
       "ts": 1793217600,
-      "fetched": 1794064696.3999221
+      "fetched": 1794151104.7766457
     },
     "ZTS": {
       "ts": 1793885400,
-      "fetched": 1794064696.3999221
+      "fetched": 1794151104.7766457
     },
     "LIN": {
       "ts": 1793277000,
-      "fetched": 1794064696.3999221
+      "fetched": 1794151104.7766457
     },
     "VLO": {
       "ts": 1801143000,
-      "fetched": 1794064696.3999221
+      "fetched": 1794151104.7766457
     },
     "D05.SI": {
       "ts": 1793869200,
-      "fetched": 1794064696.3999221
+      "fetched": 1794151104.7766457
     },
     "O39.SI": {
       "ts": 1793955600,
-      "fetched": 1794064696.3999221
+      "fetched": 1794151104.7766457
     },
     "U11.SI": {
       "ts": 1793782800,
-      "fetched": 1794064696.3999221
+      "fetched": 1794151104.7766457
     },
     "A17U.SI": {
       "ts": null,
-      "fetched": 1794064696.3999221
+      "fetched": 1794151104.7766457
     },
     "HMN.SI": {
       "ts": null,
-      "fetched": 1794064696.3999221
+      "fetched": 1794151104.7766457
     },
     "JYEU.SI": {
       "ts": null,
-      "fetched": 1794064696.3999221
+      "fetched": 1794151104.7766457
     }
   },
   "earnings_notified": [
@@ -5085,9 +5085,10 @@
     "D05.SI|2026-11-05",
     "ZTS|2026-11-05",
     "O39.SI|2026-11-06",
-    "BRK-B|2026-11-08"
+    "BRK-B|2026-11-08",
+    "BRK-B|2026-11-10"
   ],
-  "last_check": 1794150731.0335505,
+  "last_check": 1794151657.2690058,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
