@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/cavco-industries-evp-sells-371270-in-shares-93CH-5006396",
-    "Watchlist|https://www.investing.com/news/stock-market-news/s-korea-eases-margin-trading-rules-to-stem-forced-stock-sales-5006397",
-    "AI|2e3e8ca6-745a-3ada-9db5-f9c42e7ba66c",
     "Watchlist|2e3e8ca6-745a-3ada-9db5-f9c42e7ba66c",
     "SG Banks|99d1f039-a841-34a4-8249-f3c776661183",
     "AI|https://www.investing.com/news/insider-trading-news/f5-evp-general-counsel-angelique-okeke-disposes-of-326328-in-stock-93CH-5006404",
@@ -5000,7 +4997,10 @@
     "Watchlist|328d4238-0a3d-38df-b94e-124758d6dc5c",
     "War|36a4a3bd-16b3-33eb-a2c2-eaa9cdab76bf",
     "AI|f98078c1-29b2-318e-a756-7fa888b419e6",
-    "Watchlist|f98078c1-29b2-318e-a756-7fa888b419e6"
+    "Watchlist|f98078c1-29b2-318e-a756-7fa888b419e6",
+    "AI|69e1aed4-37a9-3b0a-99b0-667f875a3d5e",
+    "AI|adfdc1b1-a8aa-3069-9c14-5cce5c7fe70a",
+    "Watchlist|adfdc1b1-a8aa-3069-9c14-5cce5c7fe70a"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794098509.8926797,
+  "last_check": 1794099426.8238204,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
