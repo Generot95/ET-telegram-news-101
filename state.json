@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/earnings/cellnex-says-poland-deal-cuts-2027-cash-flow-by-300-mln-q3-in-line-5006785",
-    "AI|https://www.investing.com/news/analyst-ratings/barclays-upgrades-air-franceklm-stock-rating-on-strong-results-93CH-5006786",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-daimler-truck-stock-sliding-today-93CH-5006746",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-aperam-stock-sliding-today-93CH-5006747",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-genmab-stock-sliding-today-93CH-5006748",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-trainline-stock-sliding-today-93CH-5006750",
-    "Cybersecurity|https://www.investing.com/news/earnings/mj-gleeson-shares-dip-as-new-home-scheme-delays-demand-93CH-5006751",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/city-holding-evp-legge-sells-74393-in-common-stock-93CH-5006755",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-stabilus-stock-sliding-today-93CH-5006775",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/glanbia-shares-tumble-6-after-morgan-stanley-cuts-rating-to-underweight-5006777",
@@ -5000,7 +4993,14 @@
     "Watchlist|952ab271-80a1-3c34-aa13-ae712a44272c",
     "War|a3290c32-8871-35f1-941b-58a260f0c937",
     "AI|2cac1975-c821-3308-aa83-bdcc82e4410e",
-    "War|caa55815-4782-3503-9b56-7bc4c1c2f1f5"
+    "War|caa55815-4782-3503-9b56-7bc4c1c2f1f5",
+    "AI|d1441b95-b2a1-3ffc-b0d8-dc01d11f6675",
+    "Watchlist|d1441b95-b2a1-3ffc-b0d8-dc01d11f6675",
+    "Crypto|675ee29e-179a-3a5b-83e0-662800880df9",
+    "Watchlist|20ade421-3ec6-32bd-8892-eacdfb096583",
+    "Watchlist|89576f5d-7db5-300c-b086-1a186f678c1d",
+    "AI|20ade421-3ec6-32bd-8892-eacdfb096583",
+    "AI|89576f5d-7db5-300c-b086-1a186f678c1d"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794162645.599981,
+  "last_check": 1794163564.5353756,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
