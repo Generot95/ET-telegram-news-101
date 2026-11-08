@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|3d5bd123-62f0-3c6a-961a-fc56b57e7afe",
-    "AI|https://www.investing.com/news/insider-trading-news/tradeweb-markets-cohead-bruni-sells-23m-in-shares-93CH-5006461",
-    "AI|https://www.investing.com/news/stock-market-news/texas-governorelect-hinojosa-touts-data-center-protection-laws-93CH-5006463",
-    "AI|https://www.investing.com/news/stock-market-news/what-does-a-democratcontrolled-congress-bode-for-bitcoin-93CH-5006430",
-    "Crypto|70f3265a-4c12-3d88-8d83-364025344d27",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/tradeweb-markets-cohead-bruni-sells-23m-in-shares-93CH-5006461",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/texas-governorelect-hinojosa-touts-data-center-protection-laws-93CH-5006463",
     "SG Banks|https://www.investing.com/news/insider-trading-news/tradeweb-markets-cohead-bruni-sells-23m-in-shares-93CH-5006461",
@@ -5000,7 +4995,12 @@
     "SG Banks|/companies-markets/banking-finance/hsbc-open-hong-kong-ai-institute-following-singapore-launch",
     "AI|e404635b-f389-315f-a43a-d0803d045e92",
     "Watchlist|e404635b-f389-315f-a43a-d0803d045e92",
-    "Iran|https://www.iranintl.com/en/202611088895"
+    "Iran|https://www.iranintl.com/en/202611088895",
+    "AI|https://www.investing.com/news/economy-news/saudi-arabia-lifts-oil-region-alerts-after-houthi-missile-intercepted-5010126",
+    "Cybersecurity|https://www.investing.com/news/economy-news/saudi-arabia-lifts-oil-region-alerts-after-houthi-missile-intercepted-5010126",
+    "SG Banks|https://www.investing.com/news/economy-news/saudi-arabia-lifts-oil-region-alerts-after-houthi-missile-intercepted-5010126",
+    "Watchlist|https://www.investing.com/news/economy-news/saudi-arabia-lifts-oil-region-alerts-after-houthi-missile-intercepted-5010126",
+    "War|309ab9f6-2e23-3d06-b2af-8cf2793238a5"
   ],
   "topic_error": "",
   "last_digest": "2026-11-08",
@@ -5087,7 +5087,7 @@
     "O39.SI|2026-11-06",
     "BRK-B|2026-11-08"
   ],
-  "last_check": 1794115003.9694667,
+  "last_check": 1794115914.4539146,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-07"
