@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/analyst-ratings/oppenheimer-reiterates-serve-robotics-stock-rating-on-resilient-demand-93CH-5007263",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/raymond-james-raises-royal-gold-stock-price-target-on-business-model-strength-93CH-5007262",
     "Watchlist|https://www.investing.com/news/analyst-ratings/needham-reiterates-hold-on-blink-charging-stock-after-q3-results-93CH-5007261",
     "Watchlist|https://www.investing.com/news/analyst-ratings/raymond-james-cuts-cvs-health-stock-price-target-on-split-valuation-93CH-5007266",
     "Watchlist|https://www.investing.com/news/analyst-ratings/solventum-stock-price-target-raised-to-100-by-btig-on-results-93CH-5007265",
@@ -5000,7 +4998,9 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-sanrio-stock-sliding-today-93CH-5010472",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-mitsui-chemicals-stock-tumbling-today-93CH-5010473",
     "SG Banks|/companies-markets/sudden-distress-top-rated-firm-tests-chinas-rating-crackdown",
-    "Watchlist|/companies-markets/sudden-distress-top-rated-firm-tests-chinas-rating-crackdown"
+    "Watchlist|/companies-markets/sudden-distress-top-rated-firm-tests-chinas-rating-crackdown",
+    "AI|1e43c864-aac3-366d-8612-062ac1b1cbf3",
+    "Watchlist|1e43c864-aac3-366d-8612-062ac1b1cbf3"
   ],
   "topic_error": "",
   "last_digest": "2026-11-09",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794201124.0527735,
+  "last_check": 1794202025.8112621,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
