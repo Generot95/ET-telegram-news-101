@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/earnings/tokyu-fudosan-reports-first-half-operating-profit-of-676bn-93CH-5007143",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/india-stocks-higher-at-close-of-trade-nifty-50-up-201-5007144",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/world-food-prices-dip-in-october-but-remain-higher-than-a-year-ago-5007138",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/bmo-capital-maintains-lyft-stock-rating-amid-mixed-q3-results-93CH-5007147",
     "SG Banks|https://www.investing.com/news/earnings/mitsubishi-motors-cuts-fullyear-guidance-amid-pricing-pressure-93CH-5007141",
     "SG Banks|https://www.investing.com/news/earnings/mitsui-fudosan-h1-profit-misses-estimates-on-timing-issues-93CH-5007142",
@@ -5000,7 +4997,10 @@
     "SG Banks|https://www.investing.com/news/company-news/bathurst-q1-fy27-slides-ebitda-surges-80-as-growth-projects-advance-93CH-5010400",
     "Watchlist|https://www.investing.com/news/company-news/bathurst-q1-fy27-slides-ebitda-surges-80-as-growth-projects-advance-93CH-5010400",
     "AI|6fe2b228-d27b-3762-b906-fb7c5894978b",
-    "AI|3188b5aa-f85f-3381-b1de-f24975949aef"
+    "AI|3188b5aa-f85f-3381-b1de-f24975949aef",
+    "Watchlist|6fe2b228-d27b-3762-b906-fb7c5894978b",
+    "Watchlist|3188b5aa-f85f-3381-b1de-f24975949aef",
+    "SG Banks|https://www.channelnewsasia.com/business/chinese-energy-storage-firm-relyez-jumps-hong-kong-debut-6535021"
   ],
   "topic_error": "",
   "last_digest": "2026-11-09",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794188271.3108413,
+  "last_check": 1794189195.2474365,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
