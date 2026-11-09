@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.channelnewsasia.com/business/protesters-enter-microsoft-data-centre-site-in-amsterdam-6530866",
-    "SG Banks|/companies-markets/telcos-media-tech/m1-hit-data-breach",
     "Watchlist|/companies-markets/telcos-media-tech/m1-hit-data-breach",
     "AI|562e4998-26f7-3c76-b1ae-bf07749557e5",
     "AI|de12d6d9-1f9c-3000-83c4-6a342b7ace68",
@@ -5000,7 +4998,9 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-anz-stock-sliding-today-93CH-5010436",
     "Watchlist|https://www.investing.com/news/stock-market-news/asia-stocks-roar-back-as-taiwan-jumps-6-nvidia-probe-rattles-ai-trade-5010437",
     "Iran|https://www.iranintl.com/en/202611057584",
-    "SG Banks|https://www.channelnewsasia.com/east-asia/south-korea-nvidia-contracted-gpu-supplies-6535111"
+    "SG Banks|https://www.channelnewsasia.com/east-asia/south-korea-nvidia-contracted-gpu-supplies-6535111",
+    "SG Banks|https://www.straitstimes.com/business/economy/philippine-economy-slows-more-than-expected-in-q3-annual-growth-target-in-doubt",
+    "SG Banks|https://www.channelnewsasia.com/business/nvidia-falls-about-3-in-after-hours-and-perpetual-futures-trade-6535186"
   ],
   "topic_error": "",
   "last_digest": "2026-11-09",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794197439.427333,
+  "last_check": 1794198365.9041302,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
