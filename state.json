@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/pulse-biosciences-reports-interim-thyroid-nodule-study-results-93CH-5007574",
-    "Cybersecurity|https://www.investing.com/news/company-news/roboai-ceo-addresses-shareholders-on-revenue-and-strategy-93CH-5007575",
-    "Cybersecurity|https://www.investing.com/news/company-news/bunker-hill-mining-completes-merger-with-silver47-exploration-93CH-5007577",
-    "Cybersecurity|https://www.investing.com/news/company-news/satellos-changes-primary-endpoint-in-dmd-trial-after-fda-talks-93CH-5007576",
-    "Cybersecurity|https://www.investing.com/news/company-news/pasqal-reports-q3-revenue-decline-amid-shift-in-product-mix-93CH-5007578",
     "Cybersecurity|https://www.investing.com/news/company-news/treace-medical-completes-first-surgeries-with-bunionette-system-93CH-5007582",
     "Cybersecurity|https://www.investing.com/news/earnings/calumet-earnings-beat-by-136-revenue-topped-estimates-5007593",
     "Cybersecurity|https://www.investing.com/news/earnings/starwood-property-earnings-beat-by-020-revenue-topped-estimates-5007594",
@@ -5000,7 +4995,12 @@
     "Watchlist|https://www.investing.com/news/analyst-ratings/jefferies-downgrades-beta-technologies-stock-rating-on-delivery-delays-93CH-5010572",
     "Watchlist|https://www.investing.com/news/earnings/hannover-re-beats-q3-profit-forecasts-holds-2026-target-as-pricing-softens-5010574",
     "Watchlist|https://www.investing.com/news/analyst-ratings/stifel-upgrades-treace-medical-stock-on-growth-profitability-outlook-93CH-5010577",
-    "Watchlist|https://www.investing.com/news/stock-market-news/explainerwhat-we-know-about-nvidias-probe-into-ceo-jensen-huang-5010580"
+    "Watchlist|https://www.investing.com/news/stock-market-news/explainerwhat-we-know-about-nvidias-probe-into-ceo-jensen-huang-5010580",
+    "SG Banks|/companies-markets/telcos-media-tech/data-centre-sector-politically-salient-singapore-takes-practical-approach-regulation-tan-kiat-how",
+    "Watchlist|/companies-markets/telcos-media-tech/data-centre-sector-politically-salient-singapore-takes-practical-approach-regulation-tan-kiat-how",
+    "SG Banks|/companies-markets/keppels-real-ai-story-isnt-humanoid-robot",
+    "Watchlist|/companies-markets/keppels-real-ai-story-isnt-humanoid-robot",
+    "War|1eb6f263-5544-3ba5-873e-7a919733e826"
   ],
   "topic_error": "",
   "last_digest": "2026-11-09",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794207516.879512,
+  "last_check": 1794208439.6219864,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
