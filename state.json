@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/binance-63-billion-heist-to-prompt-closer-scrutiny-by-insurers-5007088",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/chardan-initiates-moonlake-stock-with-buy-rating-on-hs-drug-outlook-93CH-5007089",
-    "SG Banks|https://www.investing.com/news/stock-market-news/skip-the-steel-buyout-drama-is-this-14-domestic-supplier-a-buy-5003907",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/bmo-capital-downgrades-strategic-education-stock-rating-on-enrollment-declines-93CH-5007099",
-    "SG Banks|https://www.investing.com/news/stock-market-news/citi-raises-murata-price-target-to-9000-on-ai-product-mix-shift-93CH-5007116",
     "Watchlist|https://www.investing.com/news/insider-trading-news/bcb-bancorp-director-denny-kim-buys-500-in-shares-93CH-5007080",
     "Watchlist|https://www.investing.com/news/stock-market-news/disney-struggles-as-netflix-pulls-away-time-to-buy-the-dip-5003846",
     "Watchlist|https://www.investing.com/news/stock-market-news/data-centers-need-power-so-why-did-this-dow-stock-fall-26-5003861",
@@ -5000,7 +4995,12 @@
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-dyno-nobel-shares-fall-73-after-strong-h2-2026-93CH-5010371",
     "Watchlist|https://www.investing.com/news/economy-news/brazils-lula-worried-about-high-interest-rates-pledges-budget-discipline-5010375",
     "AI|WP-MKTW-0005333258",
-    "Cybersecurity|WP-MKTW-0005333258"
+    "Cybersecurity|WP-MKTW-0005333258",
+    "Watchlist|7d32b9e8-d926-302c-b726-07cf89e08f92",
+    "SG Banks|https://www.channelnewsasia.com/business/japan-tobacco-shares-untraded-after-all-entities-in-russia-placed-under-temporary-administration-6534891",
+    "War|86e3331f-df03-3d81-9c71-387b68d71cf7",
+    "AI|457eee96-557c-3a72-98e7-fa5f01d43315",
+    "Watchlist|457eee96-557c-3a72-98e7-fa5f01d43315"
   ],
   "topic_error": "",
   "last_digest": "2026-11-09",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794184600.834509,
+  "last_check": 1794185519.030042,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
