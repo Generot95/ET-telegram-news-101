@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/analyst-ratings/guggenheim-reiterates-atlassian-stock-rating-on-cloud-growth-93CH-5007057",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-in-line-rating-on-lyft-stock-at-20-93CH-5007058",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/canaccord-raises-irhythm-stock-price-target-on-strong-margins-93CH-5007059",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/canaccord-reiterates-natera-stock-rating-on-strong-q3-results-93CH-5007060",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/canaccord-cuts-artivion-stock-price-target-on-revenue-outlook-93CH-5007061",
     "SG Banks|https://www.investing.com/news/analyst-ratings/truist-reiterates-cloudflare-stock-buy-rating-on-strong-q3-results-93CH-5007063",
     "SG Banks|https://www.investing.com/news/analyst-ratings/canaccord-cuts-nuscale-power-stock-price-target-on-contract-uncertainty-93CH-5007065",
     "SG Banks|https://www.investing.com/news/analyst-ratings/kura-sushi-stock-rating-cut-to-market-perform-by-william-blair-on-weak-traffic-93CH-5007064",
@@ -5000,7 +4995,12 @@
     "SG Banks|https://www.channelnewsasia.com/business/trump-calls-nvidias-huang-honorable-says-he-has-not-discussed-allegations-him-6534881",
     "SG Banks|/companies-markets/nvidia-ceo-jensen-huangs-confession-engulfs-chip-giant-spying-controversy",
     "Watchlist|/companies-markets/nvidia-ceo-jensen-huangs-confession-engulfs-chip-giant-spying-controversy",
-    "SG Banks|https://www.channelnewsasia.com/business/japan-tobacco-says-all-jt-group-entities-in-russia-under-temporary-administration-6534891"
+    "SG Banks|https://www.channelnewsasia.com/business/japan-tobacco-says-all-jt-group-entities-in-russia-under-temporary-administration-6534891",
+    "Iran|https://www.iranintl.com/en/202611082514",
+    "AI|14fcc0d8-2da1-339f-8940-93a353769600",
+    "Watchlist|14fcc0d8-2da1-339f-8940-93a353769600",
+    "AI|79677d53-b1f5-3420-af2e-a5a7ee37579b",
+    "Watchlist|79677d53-b1f5-3420-af2e-a5a7ee37579b"
   ],
   "topic_error": "",
   "last_digest": "2026-11-09",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794182785.3565094,
+  "last_check": 1794183682.181452,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
