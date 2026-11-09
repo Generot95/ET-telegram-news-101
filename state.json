@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|7f2337f6-01ed-3e12-a172-97005517ffbc",
-    "Watchlist|4a660daf-9d09-352b-8d72-f5323bd0de41",
-    "Watchlist|9c91211c-d105-3f88-abfd-7df8cac455c8",
-    "Iran|https://exclusive.iranintl.com/kaballo-presstv-sovereign-media-tehran",
-    "War|0e8ed84e-3f51-3f39-a2c8-3efc8f8d308e",
-    "AI|ecfbc4c6-cb44-31bd-96d0-9ad7879f7cef",
-    "Watchlist|ecfbc4c6-cb44-31bd-96d0-9ad7879f7cef",
-    "AI|https://www.investing.com/news/economy-news/ecb-says-eu-banking-rule-changes-must-not-hurt-resilience-5007153",
-    "AI|https://www.investing.com/news/economy-news/us-inflation-too-high-essential-to-get-back-to-2-feds-williams-5007154",
-    "AI|https://www.investing.com/news/earnings/lion-posts-q3-business-profit-of-104bn-announces-20bn-buyback-93CH-5007155",
-    "AI|https://www.investing.com/news/stock-market-news/meta-pauses-planned-terms-updates-keeps-existing-rules-in-place-5007156",
-    "AI|https://www.investing.com/news/analyst-ratings/btig-raises-solventum-stock-price-target-to-100-on-strong-results-93CH-5007157",
     "AI|https://www.investing.com/news/analyst-ratings/mizuho-raises-teleflex-stock-price-target-to-160-on-margin-gains-93CH-5007158",
     "AI|https://www.investing.com/news/earnings/unicharm-q3-profit-falls-18-on-higher-costs-and-investments-93CH-5007160",
     "AI|https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-dollar-holds-firm-before-us-payrolls-5007166",
@@ -5000,7 +4988,19 @@
     "Watchlist|/companies-markets/koh-brothers-eco-engineering-plans-s27-6-million-rights-issue-parent-take-s15-1-million-share",
     "Watchlist|c03eeb36-2175-3f18-b2c2-5ed983ac9c90",
     "AI|c03eeb36-2175-3f18-b2c2-5ed983ac9c90",
-    "SG Banks|https://www.straitstimes.com/business/dont-want-to-be-accused-of-a-low-effort-proposal-heres-what-to-know-before-popping-the-question"
+    "SG Banks|https://www.straitstimes.com/business/dont-want-to-be-accused-of-a-low-effort-proposal-heres-what-to-know-before-popping-the-question",
+    "AI|fc058ea8-2f2d-3c2b-879d-9d6deff0d161",
+    "Watchlist|fc058ea8-2f2d-3c2b-879d-9d6deff0d161",
+    "AI|https://www.investing.com/news/stock-market-news/this-cancertesting-stock-is-btigs-top-pick-after-another-major-earnings-beat-5010410",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/this-cancertesting-stock-is-btigs-top-pick-after-another-major-earnings-beat-5010410",
+    "SG Banks|/companies-markets/asia-stocks-follow-us-gains-nvidia-probe-looms",
+    "SG Banks|https://www.investing.com/news/stock-market-news/this-cancertesting-stock-is-btigs-top-pick-after-another-major-earnings-beat-5010410",
+    "Watchlist|/companies-markets/asia-stocks-follow-us-gains-nvidia-probe-looms",
+    "Watchlist|https://www.investing.com/news/stock-market-news/this-cancertesting-stock-is-btigs-top-pick-after-another-major-earnings-beat-5010410",
+    "Iran|https://exclusive.iranintl.com/kaballo-presstv-sovereign-media-tehran",
+    "AI|ab69cf9a-4cca-3fdc-a4e0-b5a55a9c7c3b",
+    "Watchlist|ab69cf9a-4cca-3fdc-a4e0-b5a55a9c7c3b",
+    "SG Banks|https://www.channelnewsasia.com/business/mitsui-chemicals-and-dbj-buy-jsr-116-billion-filing-shows-6535076"
   ],
   "topic_error": "",
   "last_digest": "2026-11-09",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794190108.4580183,
+  "last_check": 1794191018.548191,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
