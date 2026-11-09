@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|/companies-markets/ex-st-engineering-singtel-executive-low-ka-hoe-succeed-tong-yew-heng-netlink-nbn-trust-ceo",
-    "AI|3f6bc59f-cb6a-32d6-af27-d61dba8c4768",
-    "Watchlist|3f6bc59f-cb6a-32d6-af27-d61dba8c4768",
-    "AI|0b20021f-f772-3de0-beba-98184ccf4ddc",
-    "Watchlist|0b20021f-f772-3de0-beba-98184ccf4ddc",
-    "War|7717c8c4-c3d3-36b7-8b8a-fd0d1bbdfeeb",
-    "War|ec116f2b-e911-40db-aa49-3ba3808a5ff8",
-    "War|https://www.investing.com/news/commodities-news/morning-bid-out-of-the-blue-5007351",
-    "AI|3f3856cb-2e4e-3c6a-982f-274c73fb9144",
     "AI|https://www.investing.com/news/analyst-ratings/raymond-james-cuts-construction-partners-stock-price-target-on-valuation-93CH-5007460",
     "AI|https://www.investing.com/news/analyst-ratings/wedbush-raises-unity-software-stock-price-target-on-ad-growth-93CH-5007466",
     "AI|https://www.investing.com/news/analyst-ratings/oppenheimer-reiterates-climb-bio-stock-rating-on-sle-data-93CH-5007465",
@@ -5000,7 +4991,16 @@
     "SG Banks|/companies-markets/telcos-media-tech/nvidia-ceo-jensen-huangs-confession-engulfs-chip-giant-spying-controversy",
     "Watchlist|/companies-markets/telcos-media-tech/nvidia-ceo-jensen-huangs-confession-engulfs-chip-giant-spying-controversy",
     "SG Banks|/companies-markets/capital-markets-currencies/branching-out-digital-brokerages-singapore-expanding-offline-legacy-firms-hitting-heartlands",
-    "Watchlist|/companies-markets/singapore-shares-rise-banks-end-mixed-sti-0-5"
+    "Watchlist|/companies-markets/singapore-shares-rise-banks-end-mixed-sti-0-5",
+    "SG Banks|/companies-markets/ex-st-engineering-singtel-executive-low-ka-hoe-succeed-tong-yew-heng-netlink-nbn-trust-ceo",
+    "Watchlist|/companies-markets/capital-markets-currencies/branching-out-digital-brokerages-singapore-expanding-offline-legacy-firms-hitting-heartlands",
+    "Watchlist|/companies-markets/ex-st-engineering-singtel-executive-low-ka-hoe-succeed-tong-yew-heng-netlink-nbn-trust-ceo",
+    "Watchlist|48159fb6-faae-3f77-a208-f3452e8b1269",
+    "AI|48159fb6-faae-3f77-a208-f3452e8b1269",
+    "SG Banks|https://www.channelnewsasia.com/business/sojitz-signs-mou-acquire-5-vietnam-tungsten-supplier-masan-high-tech-materials-6535521",
+    "SG Banks|https://www.channelnewsasia.com/business/analysisai-power-rush-sends-data-centres-hunting-used-turbines-and-jet-engines-6535516",
+    "AI|ee5ad05c-884b-3ee1-9d27-ab434fa2124a",
+    "Watchlist|ee5ad05c-884b-3ee1-9d27-ab434fa2124a"
   ],
   "topic_error": "",
   "last_digest": "2026-11-09",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794204762.456539,
+  "last_check": 1794205683.0223575,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
