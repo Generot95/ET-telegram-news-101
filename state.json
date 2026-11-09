@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/meta-pauses-planned-terms-updates-keeps-existing-rules-in-place-5007156",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/btig-raises-solventum-stock-price-target-to-100-on-strong-results-93CH-5007157",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/mizuho-raises-teleflex-stock-price-target-to-160-on-margin-gains-93CH-5007158",
-    "SG Banks|https://www.investing.com/news/earnings/unicharm-q3-profit-falls-18-on-higher-costs-and-investments-93CH-5007160",
-    "SG Banks|https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-dollar-holds-firm-before-us-payrolls-5007166",
-    "Watchlist|https://www.investing.com/news/economy-news/ecb-says-eu-banking-rule-changes-must-not-hurt-resilience-5007153",
     "Watchlist|https://www.investing.com/news/economy-news/us-inflation-too-high-essential-to-get-back-to-2-feds-williams-5007154",
     "Watchlist|https://www.investing.com/news/earnings/lion-posts-q3-business-profit-of-104bn-announces-20bn-buyback-93CH-5007155",
     "Watchlist|https://www.investing.com/news/stock-market-news/meta-pauses-planned-terms-updates-keeps-existing-rules-in-place-5007156",
@@ -5000,7 +4994,13 @@
     "AI|81cf6e6e-4ef2-3112-8c9a-49055db2ff3b",
     "SG Banks|https://www.channelnewsasia.com/business/asian-stocks-steady-ai-middle-east-jitters-recede-6535041",
     "SG Banks|https://www.channelnewsasia.com/business/ubs-ceo-says-ai-investors-had-been-pricing-perfection-until-sectors-sharp-correction-6535121",
-    "War|28b1b74e-063e-3fc9-86a7-605a10149308"
+    "War|28b1b74e-063e-3fc9-86a7-605a10149308",
+    "Iran|https://www.iranintl.com/en/202611090040",
+    "SG Banks|https://www.straitstimes.com/business/economy/chinas-factory-gate-inflation-gains-momentum-in-october-consumer-price-pressures-stay-muted",
+    "AI|cae4733a-fab3-36e9-a708-e0bfc2c1b25c",
+    "Watchlist|cae4733a-fab3-36e9-a708-e0bfc2c1b25c",
+    "AI|8597f6b6-5132-301f-a246-e62d3ecdf5a3",
+    "Watchlist|8597f6b6-5132-301f-a246-e62d3ecdf5a3"
   ],
   "topic_error": "",
   "last_digest": "2026-11-09",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794192846.5180547,
+  "last_check": 1794193764.0737782,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
