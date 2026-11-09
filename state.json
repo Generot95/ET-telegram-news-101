@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Iran|https://www.iranintl.com/en/202611049978",
-    "AI|876c3d25-4d0a-3435-947c-cc52a9890444",
-    "Watchlist|876c3d25-4d0a-3435-947c-cc52a9890444",
-    "AI|4328c80c-a9c2-3da0-8c10-64ec7c1670b2",
-    "AI|9264ec8e-0d96-3279-b1d7-e4f526342975",
-    "AI|6ff2f17d-298a-3bc1-a08e-916c8e757b56",
-    "AI|18c46b4c-f732-3dc8-914e-1de64d147c12",
-    "AI|6fe2eb81-b460-3330-8753-19b93795d4e2",
-    "AI|b0c1c0b9-5d0e-3a01-8fb3-695c378d0f28",
-    "Cybersecurity|b0c1c0b9-5d0e-3a01-8fb3-695c378d0f28",
     "Watchlist|6fe2eb81-b460-3330-8753-19b93795d4e2",
     "Watchlist|b0c1c0b9-5d0e-3a01-8fb3-695c378d0f28",
     "Watchlist|4328c80c-a9c2-3da0-8c10-64ec7c1670b2",
@@ -5000,7 +4990,17 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/orthopediatrics-director-pelizzon-disposes-of-943k-in-shares-93CH-5010658",
     "Watchlist|https://www.investing.com/news/company-news/tesla-to-halt-cybertruck-production-in-eight-months-musk-93CH-5010659",
     "Watchlist|https://www.investing.com/news/earnings/enka-insaat-shares-drop-4-on-disappointing-q3-earnings-93CH-5010663",
-    "Watchlist|https://www.investing.com/news/earnings/ulker-biskuvi-shares-drop-4-on-unexpected-third-quarter-loss-93CH-5010664"
+    "Watchlist|https://www.investing.com/news/earnings/ulker-biskuvi-shares-drop-4-on-unexpected-third-quarter-loss-93CH-5010664",
+    "AI|d2e7f6be-6841-337c-99f2-aa800a2810dc",
+    "AI|6cfb51c2-cee5-3d6d-b0d3-7c5bd0ff0e43",
+    "Watchlist|6cfb51c2-cee5-3d6d-b0d3-7c5bd0ff0e43",
+    "Watchlist|d2e7f6be-6841-337c-99f2-aa800a2810dc",
+    "Iran|https://www.iranintl.com/en/202611049978",
+    "War|https://www.investing.com/news/world-news/europeans-will-join-ukraine-talks-in-abu-dhabi-french-minister-says-5010393",
+    "War|https://www.investing.com/news/world-news/g7-allies-to-assess-impact-of-trumps-midterm-setback-at-paris-talks-5010426",
+    "War|https://www.investing.com/news/world-news/exclusivecovert-russian-network-exploited-french-riots-on-social-media-eu-report-says-5010548",
+    "War|https://www.investing.com/news/world-news/uaes-gargash-warns-of-prolonged-regional-uncertainty-says-usiran-settlement-appears-difficult-5010613",
+    "SG Banks|https://www.channelnewsasia.com/business/tesla-refund-many-cybertruck-deposits-demand-exceeds-production-musk-says-6535666"
   ],
   "topic_error": "",
   "last_digest": "2026-11-09",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794211173.5551445,
+  "last_check": 1794212104.8916097,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-08"
