@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/accor-and-hard-rock-announce-global-partnership-deal-93CH-5012672",
-    "Cybersecurity|https://www.investing.com/news/company-news/starwood-property-trust-stock-hits-52week-low-at-1184-usd-93CH-5012697",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-brac-bank-posts-strong-q3-2026-profit-growth-93CH-5012713",
-    "SG Banks|https://www.investing.com/news/stock-market-news/karnioltambour-to-leave-bridgewater-to-lead-canadas-sovereign-fund-5012714",
-    "SG Banks|https://www.investing.com/news/earnings/legend-biotech-in-spotlight-earnings-test-profit-momentum-93CH-5012715",
-    "SG Banks|https://www.investing.com/news/company-news/scandium-canada-adds-two-executives-to-alloys-subsidiary-93CH-5012716",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-lam-research-stock-surging-today-93CH-5012717",
-    "SG Banks|https://www.investing.com/news/earnings/amprius-earnings-on-deck-can-silicon-battery-maker-sustain-momentum-93CH-5012718",
-    "SG Banks|https://www.investing.com/news/earnings/credicorp-earnings-on-deck-as-digital-push-meets-climate-risk-93CH-5012719",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-caterpillar-stock-surging-today-93CH-5012720",
-    "SG Banks|https://www.investing.com/news/earnings/scholar-rock-earnings-loom-as-first-isembyld-sales-take-focus-93CH-5012723",
     "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-constellation-energy-tops-q3-2026-forecasts-shares-rise-93CH-5012724",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-brac-bank-posts-strong-q3-2026-profit-growth-93CH-5012713",
     "Watchlist|https://www.investing.com/news/stock-market-news/karnioltambour-to-leave-bridgewater-to-lead-canadas-sovereign-fund-5012714",
@@ -5000,7 +4989,18 @@
     "Watchlist|https://www.investing.com/news/transcripts/herc-holdings-at-baird-2026-global-industrial-conference-scale-gains-93CH-5016189",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-sabaf-posts-steady-q3-2026-growth-as-margins-improve-93CH-5016190",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-nordhealth-q3-2026-profit-turns-positive-as-growth-accelerates-93CH-5016191",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-infinity-natural-resources-misses-q3-2026-eps-forecast-93CH-5016192"
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-infinity-natural-resources-misses-q3-2026-eps-forecast-93CH-5016192",
+    "AI|95f0049f-7c23-3d06-843c-d2401a0f3834",
+    "AI|045827ba-2d4c-3e13-9e22-095daf83beda",
+    "Watchlist|95f0049f-7c23-3d06-843c-d2401a0f3834",
+    "Watchlist|045827ba-2d4c-3e13-9e22-095daf83beda",
+    "AI|dacc94ec-6355-3376-9425-defc3120436e",
+    "AI|9d5bb984-e68e-3159-b36a-79f63f3fadd1",
+    "Crypto|9d5bb984-e68e-3159-b36a-79f63f3fadd1",
+    "Watchlist|dacc94ec-6355-3376-9425-defc3120436e",
+    "Watchlist|9d5bb984-e68e-3159-b36a-79f63f3fadd1",
+    "Watchlist|84201bad-fe8d-3c02-8527-d5b151269d60",
+    "Crypto|8d9ce1c6-7b6c-3770-8c94-f084529f29f1"
   ],
   "topic_error": "",
   "last_digest": "2026-11-10",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794325888.746046,
+  "last_check": 1794326802.267853,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-10"
