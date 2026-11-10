@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/insider-trading-news/labcorp-director-richelle-parham-sells-389395-in-shares-93CH-5010259",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/labcorp-director-richelle-parham-sells-389395-in-shares-93CH-5010259",
-    "AI|9b416ed9-e1e2-38cb-8b18-6bcac6d15c29",
-    "AI|a73b73bf-df44-3036-b12c-b9915ecdb8c9",
-    "AI|0aa3d5b0-3dab-3b1c-ad73-ede40f50453c",
-    "SG Banks|/companies-markets/capital-markets-currencies/dip-buyers-emerge-tech-stocks-traders-look-past-midterms-focus-fundamentals",
-    "Watchlist|9b416ed9-e1e2-38cb-8b18-6bcac6d15c29",
-    "Watchlist|a73b73bf-df44-3036-b12c-b9915ecdb8c9",
-    "Watchlist|0aa3d5b0-3dab-3b1c-ad73-ede40f50453c",
-    "Watchlist|/companies-markets/capital-markets-currencies/dip-buyers-emerge-tech-stocks-traders-look-past-midterms-focus-fundamentals",
     "War|64d124e1-74ab-3ea9-9d35-37940beda172",
     "War|09726a3f-0281-3f7c-af31-687632e22f99",
     "AI|376b088a-5d15-365c-9498-dd7af87e8daf",
@@ -5000,7 +4990,17 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/8x8-chief-legal-officer-laurence-denny-sells-23202-of-stock-93CH-5014033",
     "Watchlist|https://www.investing.com/news/insider-trading-news/archerdanielsmidland-director-david-mcatee-buys-196756-in-stock-93CH-5014034",
     "Iran|https://www.iranintl.com/en/202611089896",
-    "SG Banks|/companies-markets/uob-shares-fall-5-after-q3-earnings-miss-forecast"
+    "SG Banks|/companies-markets/uob-shares-fall-5-after-q3-earnings-miss-forecast",
+    "SG Banks|https://www.channelnewsasia.com/world/qantas-cut-850-jobs-ai-accenture-india-6538201",
+    "SG Banks|/companies-markets/maybank-initiates-moneymax-coverage-buy-call-s0-69-target-price",
+    "Watchlist|/companies-markets/maybank-initiates-moneymax-coverage-buy-call-s0-69-target-price",
+    "SG Banks|/companies-markets/transport-logistics/qantas-axe-850-jobs-offshoring-deal-accenture",
+    "Watchlist|/companies-markets/transport-logistics/qantas-axe-850-jobs-offshoring-deal-accenture",
+    "SG Banks|https://www.channelnewsasia.com/business/exclusive-anthropics-nearly-70-billion-ipo-plan-briefly-circulated-banks-then-retracted-6537751",
+    "AI|https://www.investing.com/news/economy-news/us-extends-vietnam-trade-probe-on-intellectual-property-to-end-of-february-5014037",
+    "Cybersecurity|https://www.investing.com/news/economy-news/us-extends-vietnam-trade-probe-on-intellectual-property-to-end-of-february-5014037",
+    "SG Banks|https://www.investing.com/news/economy-news/us-extends-vietnam-trade-probe-on-intellectual-property-to-end-of-february-5014037",
+    "Watchlist|https://www.investing.com/news/economy-news/us-extends-vietnam-trade-probe-on-intellectual-property-to-end-of-february-5014037"
   ],
   "topic_error": "",
   "last_digest": "2026-11-10",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794283614.4002154,
+  "last_check": 1794284544.7592936,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-09"
