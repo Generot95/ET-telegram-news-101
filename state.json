@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|acb27a29-ce46-3239-8432-310b440acb60",
-    "Watchlist|acb27a29-ce46-3239-8432-310b440acb60",
-    "SG Banks|/companies-markets/softbank-acquisition-abb-robot-unit-blocked-china-regulator-opposed-metas-manus-deal-ft",
-    "War|0054c46c-82a2-475c-a7e4-eafae27a1d46",
     "AI|479f0d4d-d203-3252-a811-7ab9314fe6b1",
     "Watchlist|b7a969c3-5c2d-37ee-ae20-c244e1ca64da",
     "Watchlist|479f0d4d-d203-3252-a811-7ab9314fe6b1",
@@ -5000,7 +4996,11 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/avis-budget-group-director-glenn-lurie-sells-734425-in-shares-93CH-5014059",
     "Watchlist|https://www.investing.com/news/insider-trading-news/sierra-bancorp-director-lynda-scearcy-sells-751013-in-shares-93CH-5014060",
     "Watchlist|https://www.investing.com/news/insider-trading-news/advanced-flower-capital-president-robyn-tannenbaum-buys-30900-in-stock-93CH-5014061",
-    "Watchlist|e641bebf-fde0-31e8-8225-33a5757fca85"
+    "Watchlist|e641bebf-fde0-31e8-8225-33a5757fca85",
+    "SG Banks|https://www.channelnewsasia.com/business/analysismarket-rout-tests-bojs-upbeat-view-financial-conditions-6538291",
+    "AI|c3103d88-d422-3112-915d-fcb59a6cdbc6",
+    "Watchlist|c3103d88-d422-3112-915d-fcb59a6cdbc6",
+    "SG Banks|https://www.channelnewsasia.com/business/chinese-chipmakers-denglin-xinde-trade-mixed-in-hong-kong-debuts-6537796"
   ],
   "topic_error": "",
   "last_digest": "2026-11-10",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794285463.671146,
+  "last_check": 1794286371.5062172,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-09"
