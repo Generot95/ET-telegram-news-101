@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|cadf608b-e34f-37cb-a481-1ebd058e1137",
-    "Watchlist|cadf608b-e34f-37cb-a481-1ebd058e1137",
-    "AI|https://www.investing.com/news/stock-market-news/coreweave-seeks-truce-with-texas-governorelect-hinojosa-5010044",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/coreweave-seeks-truce-with-texas-governorelect-hinojosa-5010044",
-    "SG Banks|https://www.investing.com/news/stock-market-news/coreweave-seeks-truce-with-texas-governorelect-hinojosa-5010044",
-    "Watchlist|https://www.investing.com/news/stock-market-news/coreweave-seeks-truce-with-texas-governorelect-hinojosa-5010044",
     "Watchlist|77c90833-ff82-3b1b-ad9e-8dff1379bbf1",
     "AI|f5d6d8de-9992-3e44-9ae3-73e6d391da5a",
     "Watchlist|f5d6d8de-9992-3e44-9ae3-73e6d391da5a",
@@ -5000,7 +4994,13 @@
     "SG Banks|/companies-markets/banking-finance/federal-reserves-hammack-barkin-favour-gradual-rate-hike-path-lower-inflation",
     "SG Banks|/companies-markets/ihh-healthcare-cut-close-400-jobs-across-singapore-hong-kong-and-malaysia",
     "Watchlist|/companies-markets/ihh-healthcare-cut-close-400-jobs-across-singapore-hong-kong-and-malaysia",
-    "Watchlist|/companies-markets/banking-finance/federal-reserves-hammack-barkin-favour-gradual-rate-hike-path-lower-inflation"
+    "Watchlist|/companies-markets/banking-finance/federal-reserves-hammack-barkin-favour-gradual-rate-hike-path-lower-inflation",
+    "Crypto|4d325cc2-b463-343f-a72b-5bf8a7e4e043",
+    "AI|90ca875d-74a7-39fe-baef-26a60873f6e0",
+    "AI|bfeffdc5-84db-3583-9a29-7f6313637a2d",
+    "Watchlist|90ca875d-74a7-39fe-baef-26a60873f6e0",
+    "Watchlist|bfeffdc5-84db-3583-9a29-7f6313637a2d",
+    "Crypto|eca332db-d0ae-3fa4-a483-2cf68b2da4ac"
   ],
   "topic_error": "",
   "last_digest": "2026-11-10",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794268961.136003,
+  "last_check": 1794269862.8543386,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-09"
