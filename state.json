@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|WP-MKTW-0005333258",
-    "Cybersecurity|WP-MKTW-0005333258",
-    "Watchlist|7d32b9e8-d926-302c-b726-07cf89e08f92",
-    "SG Banks|https://www.channelnewsasia.com/business/japan-tobacco-shares-untraded-after-all-entities-in-russia-placed-under-temporary-administration-6534891",
-    "War|86e3331f-df03-3d81-9c71-387b68d71cf7",
-    "AI|457eee96-557c-3a72-98e7-fa5f01d43315",
-    "Watchlist|457eee96-557c-3a72-98e7-fa5f01d43315",
     "AI|467f0d38-7fef-328d-a9f4-420cee5ec786",
     "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-bathurst-resources-lifts-q1-ebitda-80-in-fy2027-93CH-5010376",
     "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-anz-posts-strong-h2-2026-profit-as-strategy-gains-pace-93CH-5010378",
@@ -5000,7 +4993,14 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/softbank-swings-to-7-billion-net-loss-in-second-quarter-5014234",
     "Watchlist|https://www.investing.com/news/earnings/infineon-fy27-revenue-outlook-tops-forecasts-on-ai-demand-cash-flow-disappoints-5014236",
     "Watchlist|https://www.investing.com/news/earnings/softbank-group-logs-unexpected-7-bln-q2-loss-as-ai-rout-hits-portfolio-5014239",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/jpmorgan-initiates-comfort-systems-usa-stock-at-overweight-93CH-5014244"
+    "Watchlist|https://www.investing.com/news/analyst-ratings/jpmorgan-initiates-comfort-systems-usa-stock-at-overweight-93CH-5014244",
+    "SG Banks|/companies-markets/mas-future-finance-institute-starts-operations-ai-focus-names-interim-ceo",
+    "SG Banks|/companies-markets/capital-markets-currencies/european-shares-fall-global-ai-rout-gathers-pace",
+    "Watchlist|/companies-markets/capital-markets-currencies/european-shares-fall-global-ai-rout-gathers-pace",
+    "SG Banks|https://www.channelnewsasia.com/business/australia-regulator-rejects-warning-internet-safety-bill-chilling-free-speech-6538546",
+    "AI|43df1f7f-f2e2-38a5-b6dd-f559688fe2e3",
+    "AI|374020c8-b8cd-35aa-899b-41831249bc76",
+    "Watchlist|374020c8-b8cd-35aa-899b-41831249bc76"
   ],
   "topic_error": "",
   "last_digest": "2026-11-10",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794293715.0732539,
+  "last_check": 1794294636.350323,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-09"
