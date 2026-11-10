@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|WP-MKTW-0005334908",
-    "Watchlist|5f9ac577-a476-32e1-9ce0-ec31f69e5597",
-    "AI|085949e7-34a0-364b-9eae-cef64a4b3f92",
-    "AI|5f9ac577-a476-32e1-9ce0-ec31f69e5597",
-    "Watchlist|085949e7-34a0-364b-9eae-cef64a4b3f92",
-    "AI|a2b3f7f4-b95d-350a-b646-68a2ea42d251",
     "Watchlist|a2b3f7f4-b95d-350a-b646-68a2ea42d251",
     "SG Banks|/companies-markets/dbs-eyes-prime-brokerage-business-q3-profit-falls-5-weaker-trading-income",
     "Watchlist|76bad217-84c3-3e06-80ff-80ce033c01c9",
@@ -5000,7 +4994,13 @@
     "Watchlist|https://www.investing.com/news/economy-news/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-website-5013877",
     "Watchlist|https://www.investing.com/news/stock-market-news/trump-says-fbi-investigating-nvidia-ceo-huang-over-chinese-scandal-5014009",
     "Watchlist|https://www.investing.com/news/insider-trading-news/progyny-ceo-peter-anevski-sells-618-million-in-company-stock-93CH-5014015",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/xrp-falls-10-in-selloff-5006654"
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/xrp-falls-10-in-selloff-5006654",
+    "AI|627957cf-c2f8-3af9-aea0-1f01f5416502",
+    "Watchlist|627957cf-c2f8-3af9-aea0-1f01f5416502",
+    "SG Banks|https://www.straitstimes.com/singapore/jobs/data-centre-building-doctor-he-keeps-power-cooling-systems-running",
+    "AI|ace3858d-9cb7-3737-b4a7-15b58f757acd",
+    "Watchlist|ace3858d-9cb7-3737-b4a7-15b58f757acd",
+    "SG Banks|https://www.straitstimes.com/business/chinas-trade-surplus-soars-past-us1-trillion-as-ai-boom-powers-exports"
   ],
   "topic_error": "",
   "last_digest": "2026-11-10",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794281781.737398,
+  "last_check": 1794282711.8160214,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-09"
