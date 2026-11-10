@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/nvidia-launches-probe-into-reported-espionage-plot-targeting-ceo-jensen-huang-5010308",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/production-suspended-at-iraqs-khor-mor-gas-field-after-drone-attack-sources-say-5010313",
-    "SG Banks|https://www.investing.com/news/stock-market-news/nvidia-launches-probe-into-reported-espionage-plot-targeting-ceo-jensen-huang-5010308",
-    "SG Banks|https://www.investing.com/news/commodities-news/production-suspended-at-iraqs-khor-mor-gas-field-after-drone-attack-sources-say-5010313",
-    "Watchlist|https://www.investing.com/news/stock-market-news/nvidia-launches-probe-into-reported-espionage-plot-targeting-ceo-jensen-huang-5010308",
-    "Watchlist|https://www.investing.com/news/commodities-news/production-suspended-at-iraqs-khor-mor-gas-field-after-drone-attack-sources-say-5010313",
-    "AI|25169a6f-3ef8-32f3-9c67-01fa7c0c0c4c",
     "Watchlist|25169a6f-3ef8-32f3-9c67-01fa7c0c0c4c",
     "SG Banks|/esg/low-carbon-transition-face-stronger-headwinds-cop31-says-grace-fu",
     "Watchlist|/esg/low-carbon-transition-face-stronger-headwinds-cop31-says-grace-fu",
@@ -5000,7 +4993,14 @@
     "SG Banks|https://www.investing.com/news/stock-market-news/alice-huang-chinese-businesswoman-tied-to-nvidia-ceo-went-from-finance-to-chips-5014096",
     "Watchlist|https://www.investing.com/news/stock-market-news/alice-huang-chinese-businesswoman-tied-to-nvidia-ceo-went-from-finance-to-chips-5014096",
     "AI|e7285776-0c53-3022-9018-a13010144d89",
-    "Watchlist|e7285776-0c53-3022-9018-a13010144d89"
+    "Watchlist|e7285776-0c53-3022-9018-a13010144d89",
+    "AI|25300b99-e515-3d30-bc98-402a267da891",
+    "Crypto|bd0ac6d0-1080-3f7d-8614-c2da377de083",
+    "Watchlist|25300b99-e515-3d30-bc98-402a267da891",
+    "War|be5f6d65-1cd6-3c20-9fcc-1523623d1a14",
+    "AI|9aec397e-92f3-3da6-a0a9-cd3cd4539507",
+    "SG Banks|https://www.channelnewsasia.com/business/japanese-investors-become-net-buyers-foreign-bonds-first-time-in-three-months-6538431",
+    "Watchlist|9aec397e-92f3-3da6-a0a9-cd3cd4539507"
   ],
   "topic_error": "",
   "last_digest": "2026-11-10",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794289148.9298556,
+  "last_check": 1794290050.1301148,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-09"
