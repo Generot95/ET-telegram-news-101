@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|627957cf-c2f8-3af9-aea0-1f01f5416502",
-    "SG Banks|https://www.straitstimes.com/singapore/jobs/data-centre-building-doctor-he-keeps-power-cooling-systems-running",
-    "AI|ace3858d-9cb7-3737-b4a7-15b58f757acd",
-    "Watchlist|ace3858d-9cb7-3737-b4a7-15b58f757acd",
-    "SG Banks|https://www.straitstimes.com/business/chinas-trade-surplus-soars-past-us1-trillion-as-ai-boom-powers-exports",
-    "War|c3d83a6b-0ea9-3917-bdb6-8b43e36692cd",
-    "AI|c18a8ccf-4892-37ac-9f7a-60cc952e21a4",
-    "SG Banks|/companies-markets/dbs-eyes-prime-brokerage-business-q3-profit-falls-5-weaker-trading-income",
-    "Watchlist|c18a8ccf-4892-37ac-9f7a-60cc952e21a4",
-    "Watchlist|76bad217-84c3-3e06-80ff-80ce033c01c9",
-    "War|https://www.investing.com/news/commodities-news/china-october-rare-earth-exports-jump-27-from-prior-month-5014019",
     "War|https://www.investing.com/news/commodities-news/chinas-october-crude-oil-imports-rise-to-highest-level-since-march-amid-middle-east-war-5014020",
     "AI|https://www.investing.com/news/transcripts/orvana-minerals-at-precious-metals-summit-zurich-bolivia-restart-lifts-outlook-93CH-5014017",
     "AI|https://www.investing.com/news/stock-market-news/new-zealand-pmluxon-meets-opportunitys-wong-ahead-of-possible-pact-5014018",
@@ -4999,8 +4988,19 @@
     "Watchlist|0735eb34-c7c8-3701-a8ab-9b437ad37585",
     "War|45d1338f-d4e7-3aeb-944c-e3a65cf56d41",
     "AI|c2667c5b-9c6e-3d57-ac49-666302d12022",
+    "AI|https://www.investing.com/news/company-news/prime-medicine-prices-125m-stock-offering-at-350share-93CH-5017543",
+    "Cybersecurity|https://www.investing.com/news/company-news/prime-medicine-prices-125m-stock-offering-at-350share-93CH-5017543",
+    "SG Banks|https://www.straitstimes.com/business/accountancy-sector-adds-jobs-raises-pay-as-firms-prepare-workers-for-ai",
+    "SG Banks|https://www.investing.com/news/company-news/prime-medicine-prices-125m-stock-offering-at-350share-93CH-5017543",
     "Watchlist|c2667c5b-9c6e-3d57-ac49-666302d12022",
-    "SG Banks|https://www.straitstimes.com/business/accountancy-sector-adds-jobs-raises-pay-as-firms-prepare-workers-for-ai"
+    "Watchlist|https://www.investing.com/news/company-news/prime-medicine-prices-125m-stock-offering-at-350share-93CH-5017543",
+    "SG Banks|https://www.straitstimes.com/singapore/jobs/data-centre-building-doctor-he-keeps-power-cooling-systems-running",
+    "SG Banks|https://www.straitstimes.com/business/chinas-trade-surplus-soars-past-us1-trillion-as-ai-boom-powers-exports",
+    "AI|b316e366-e3c4-3f03-a79c-0fc209406c43",
+    "Watchlist|b316e366-e3c4-3f03-a79c-0fc209406c43",
+    "SG Banks|/companies-markets/dbs-eyes-prime-brokerage-business-q3-profit-falls-5-weaker-trading-income",
+    "Watchlist|90002b8a-a19e-3e79-a691-29d8d0b4c4b4",
+    "Watchlist|76bad217-84c3-3e06-80ff-80ce033c01c9"
   ],
   "topic_error": "",
   "last_digest": "2026-11-11",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794366250.164316,
+  "last_check": 1794367169.860188,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-10"
