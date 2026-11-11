@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/morgan-stanley-downgrades-flatexdegiro-as-customer-growth-slows-slashes-target-5014415",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-mynt-posts-strong-q3-2026-growth-as-stock-hits-52week-high-93CH-5014416",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-oxford-instruments-stock-rallying-today-93CH-5014417",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-scandic-hotels-posts-record-q3-2026-profit-93CH-5014418",
     "Watchlist|https://www.investing.com/news/company-news/srt-marine-fy26-slides-46-revenue-growth-24bn-pipeline-93CH-5014419",
@@ -5000,7 +4998,9 @@
     "Watchlist|/companies-markets/sudden-distress-top-rated-firm-tests-chinas-rating-crackdown",
     "AI|b13cc110-70e3-3a4f-a3e6-9d1063ef70fe",
     "Watchlist|b13cc110-70e3-3a4f-a3e6-9d1063ef70fe",
-    "Cybersecurity|6a3689af-8435-3558-adb7-6363437fad08"
+    "Cybersecurity|6a3689af-8435-3558-adb7-6363437fad08",
+    "War|37fa8b6e-e7c6-39d5-b387-7f7d68f26733",
+    "SG Banks|https://www.channelnewsasia.com/business/some-tang-suvs-fitted-incorrect-wheel-rims-byd-says-6542526"
   ],
   "topic_error": "",
   "last_digest": "2026-11-11",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794386408.2292082,
+  "last_check": 1794387333.9066768,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-10"
