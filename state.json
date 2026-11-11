@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/mayrmelnhof-surges-16-on-24-billion-deal-to-sell-packaging-stake-to-kps-5014383",
-    "Watchlist|https://www.investing.com/news/stock-market-news/playtech-shares-jump-over-3-as-2026-earnings-forecast-raised-93CH-5014384",
-    "Watchlist|https://www.investing.com/news/company-news/arendals-fossekompani-q3-2026-slides-profit-triples-on-margins-93CH-5014385",
-    "Watchlist|https://www.investing.com/news/company-news/eisai-q2-fy2026-slides-3l-products-drive-175-revenue-growth-93CH-5014389",
     "Watchlist|https://www.investing.com/news/company-news/psp-swiss-property-q1q3-2026-slides-ebitda-surges-15-vacancy-falls-93CH-5014390",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-ab-dynamics-stock-sliding-today-93CH-5014391",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-playtech-stock-rallying-today-93CH-5014392",
@@ -5000,7 +4996,11 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/super-micro-director-scott-angel-buys-49940-in-smci-shares-93CH-5017974",
     "Watchlist|https://www.investing.com/news/insider-trading-news/host-hotels--resorts-president-and-ceo-sells-167-million-in-shares-93CH-5017975",
     "Watchlist|https://www.investing.com/news/earnings/embracer-tops-cash-operating-profit-forecasts-keeps-guidance-shares-drop-5017977",
-    "Watchlist|https://www.investing.com/news/economic-indicators/german-october-inflation-eases-to-28-as-expected-core-slows-to-21-5017981"
+    "Watchlist|https://www.investing.com/news/economic-indicators/german-october-inflation-eases-to-28-as-expected-core-slows-to-21-5017981",
+    "SG Banks|https://www.channelnewsasia.com/business/deutsche-bank-launches-digital-asset-custody-service-6542456",
+    "AI|6f59c13e-8b23-3361-95aa-e7e0765c379d",
+    "AI|51d9b155-f0f8-3988-8541-f6d57f13a2a8",
+    "Watchlist|51d9b155-f0f8-3988-8541-f6d57f13a2a8"
   ],
   "topic_error": "",
   "last_digest": "2026-11-11",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794384578.0861788,
+  "last_check": 1794385495.2154834,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-10"
