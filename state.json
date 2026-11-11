@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/asian-airline-stocks-surge-as-oil-prices-slide-on-iran-peace-hopes-5014084",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/three-workers-die-at-tata-facility-making-apple-iphone-components--report-5014086",
-    "Cybersecurity|https://www.investing.com/news/economy-news/us-consumer-prices-expected-to-have-risen-at-slower-pace-in-october-5014085",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-chiba-bank-stock-rallying-today-93CH-5014087",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-towa-stock-surging-today-93CH-5014088",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/moonshot-ai-rents-nvidias-top-chips-in-china-bloomberg-reports-5014089",
     "SG Banks|https://www.investing.com/news/stock-market-news/asian-airline-stocks-surge-as-oil-prices-slide-on-iran-peace-hopes-5014084",
     "SG Banks|https://www.investing.com/news/stock-market-news/three-workers-die-at-tata-facility-making-apple-iphone-components--report-5014086",
@@ -5000,7 +4995,12 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/casella-waste-systems-executive-vp-and-cfo-sells-19250-shares-93CH-5017616",
     "Watchlist|https://www.investing.com/news/insider-trading-news/honest-company-svp-thomas-sternweis-sells-117500-in-shares-93CH-5017617",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-honda-motor-stock-sliding-today-93CH-5017618",
-    "Watchlist|https://www.investing.com/news/stock-market-news/asian-stocks-mixed-as-coreweave-lifts-chipmakers-hot-us-inflation-weighs-5017621"
+    "Watchlist|https://www.investing.com/news/stock-market-news/asian-stocks-mixed-as-coreweave-lifts-chipmakers-hot-us-inflation-weighs-5017621",
+    "AI|2296eea4-57fb-3b32-87a5-e0401d89b8e2",
+    "Watchlist|2296eea4-57fb-3b32-87a5-e0401d89b8e2",
+    "AI|3371e30c-30b0-3ef9-96ec-fb8bf64abd0c",
+    "AI|77c57e00-6373-30d3-a744-f3e1180c2d72",
+    "Watchlist|77c57e00-6373-30d3-a744-f3e1180c2d72"
   ],
   "topic_error": "",
   "last_digest": "2026-11-11",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794369921.7020154,
+  "last_check": 1794370838.9766245,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-10"
