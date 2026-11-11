@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/bt-to-hold-off-starlink-launch-until-ukraine-noise-dies-down-ceo-tells-ft-5014219",
-    "SG Banks|https://www.investing.com/news/stock-market-news/softbank-swings-to-7-billion-net-loss-in-second-quarter-5014234",
-    "SG Banks|https://www.investing.com/news/earnings/infineon-fy27-revenue-outlook-tops-forecasts-on-ai-demand-cash-flow-disappoints-5014236",
-    "SG Banks|https://www.investing.com/news/earnings/softbank-group-logs-unexpected-7-bln-q2-loss-as-ai-rout-hits-portfolio-5014239",
     "SG Banks|https://www.investing.com/news/analyst-ratings/jpmorgan-initiates-comfort-systems-usa-stock-at-overweight-93CH-5014244",
     "Watchlist|https://www.investing.com/news/stock-market-news/banco-bpm-to-review-credit-agricole-merger-proposal-93CH-5014221",
     "Watchlist|https://www.investing.com/news/insider-trading-news/primerica-ceo-glenn-williams-sells-442410-in-company-shares-93CH-5014230",
@@ -5000,7 +4996,11 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-311-5017744",
     "Iran|https://www.iranintl.com/en/202611082514",
     "AI|043c8c6f-3957-3694-ae87-7321ebff9083",
-    "Watchlist|043c8c6f-3957-3694-ae87-7321ebff9083"
+    "Watchlist|043c8c6f-3957-3694-ae87-7321ebff9083",
+    "SG Banks|https://www.channelnewsasia.com/business/cathay-pacific-orders-14-airbus-aircrafts-expand-its-fleet-6542041",
+    "SG Banks|https://www.channelnewsasia.com/business/japans-eneos-ups-fy26-net-profit-forecast-48-stronger-oil-prices-6542066",
+    "Crypto|d87480ba-1533-302f-a55b-c20de03c4d75",
+    "Crypto|03377184-f08d-3cc5-a79c-9268fc269247"
   ],
   "topic_error": "",
   "last_digest": "2026-11-11",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794377257.4847958,
+  "last_check": 1794378169.1384437,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-10"
