@@ -1,23 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|4daa0a49-27a0-3f83-ad04-6ef751dc6022",
-    "Watchlist|98a5fa35-1978-3ea6-a162-534237088336",
-    "Iran|https://www.iranintl.com/en/202611102727",
-    "AI|https://www.investing.com/news/earnings/cgi-earnings-on-deck-can-acquisitions-offset-revenue-decline-93CH-5016067",
-    "AI|https://www.investing.com/news/company-news/northern-trust-corp-stock-hits-52week-low-at-173-usd-93CH-5016069",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-ecorodovias-posts-steady-q3-2026-results-as-stock-rises-93CH-5016070",
-    "AI|https://www.investing.com/news/earnings/alcon-earnings-up-next-can-product-launches-sustain-momentum-93CH-5016071",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-keyera-posts-q3-2026-loss-as-revenue-misses-forecast-93CH-5016072",
-    "AI|https://www.investing.com/news/company-news/rubico-to-acquire-two-mr-tanker-newbuildings-for-145-million-93CH-5016079",
-    "AI|https://www.investing.com/news/company-news/honda-h1-fy2027-slides-adjusted-profit-surges-71-amid-ev-losses-93CH-5016080",
-    "AI|https://www.investing.com/news/transcripts/cantargia-at-stifel-2026-healthcare-conference-pipeline-gains-traction-93CH-5016081",
-    "AI|https://www.investing.com/news/transcripts/palvella-at-stifel-2026-healthcare-conference-launch-plans-take-shape-93CH-5016082",
-    "AI|https://www.investing.com/news/press-releases/avas-2026-summit-whitebit-highlights-ghanas-shift-toward-practical-digital-asset-applications-5016084",
-    "AI|https://www.investing.com/news/stock-market-news/wall-st-opens-lower-after-octobers-hot-inflation-print-5015986",
-    "AI|https://www.investing.com/news/stock-market-news/draftkings-hit-with-another-downgrade-as-predictions-shifts-the-investment-case-5015987",
-    "AI|https://www.investing.com/news/stock-market-news/microsoft-warns-proposed-chinese-transceiver-ban-threatens-us-ai-edge--reuters-5016023",
-    "AI|https://www.investing.com/news/stock-market-news/rentech-sidesteps-market-turmoil-with-6-october-gain-bloomberg-reports-5016047",
     "AI|https://www.investing.com/news/stock-market-news/why-is-sally-beauty-stock-climbing-today-93CH-5016057",
     "AI|https://www.investing.com/news/company-news/greystone-housing-q3-2026-slides-show-portfolio-shift-book-value-drop-93CH-5016042",
     "AI|https://www.investing.com/news/company-news/grupo-cibest-q3-2026-slides-nequi-spinoff-218-roe-highlight-93CH-5016043",
@@ -5000,78 +4983,95 @@
     "SG Banks|/companies-markets/transport-logistics/yangzijiang-shipbuildings-us7-billion-contract-wins-push-order-book-us26-3-billion",
     "Watchlist|00c264ce-4045-42ac-8bb6-990be923fc2a",
     "Watchlist|/companies-markets/capital-markets-currencies/european-stocks-rise-bank-tech-shares-gain-despite-nasdaq-100-futures-drop-amid-nvidia-probe",
-    "Watchlist|/companies-markets/transport-logistics/yangzijiang-shipbuildings-us7-billion-contract-wins-push-order-book-us26-3-billion"
+    "Watchlist|/companies-markets/transport-logistics/yangzijiang-shipbuildings-us7-billion-contract-wins-push-order-book-us26-3-billion",
+    "War|e9aed72a-fe8e-3abe-addd-01f200dc2088",
+    "AI|984c51b1-45db-3d8d-8fbe-d5b250a239c7",
+    "AI|4c0b6453-1cfa-3b49-8da6-c2eaf301bb70",
+    "Watchlist|984c51b1-45db-3d8d-8fbe-d5b250a239c7",
+    "War|03f20e2d-8643-3cbb-91de-4f6e3a795af2",
+    "Iran|https://www.iranintl.com/en/202611102727",
+    "Crypto|3e62be23-ec65-33c7-b796-2771cff025ac",
+    "Crypto|548ff2b1-2f1f-31a3-a204-b95a00761ee3",
+    "AI|9c1191a0-603f-3c1e-82fd-927a5843c731",
+    "AI|6ebaf32d-89c8-3f76-adcb-e9c51e769125",
+    "Watchlist|9c1191a0-603f-3c1e-82fd-927a5843c731",
+    "Watchlist|6ebaf32d-89c8-3f76-adcb-e9c51e769125",
+    "AI|ec9108ae-1d49-3a40-aa88-79ec63f500c8",
+    "AI|b2b54afe-1ff6-3009-9a91-fbde5c2d45c5",
+    "AI|cb9bd3b3-77a5-40d0-9f9d-5016e9806bbd",
+    "Watchlist|b2b54afe-1ff6-3009-9a91-fbde5c2d45c5",
+    "Watchlist|cb9bd3b3-77a5-40d0-9f9d-5016e9806bbd"
   ],
   "topic_error": "",
   "last_digest": "2026-11-11",
   "earnings": {
     "AMD": {
       "ts": 1801602000,
-      "fetched": 1794323934.1178634
+      "fetched": 1794410395.8644683
     },
     "NVDA": {
       "ts": 1794949200,
-      "fetched": 1794323934.1178634
+      "fetched": 1794410395.8644683
     },
     "CRWD": {
       "ts": 1796158800,
-      "fetched": 1794323934.1178634
+      "fetched": 1794410395.8644683
     },
     "MSFT": {
       "ts": 1801083600,
-      "fetched": 1794323934.1178634
+      "fetched": 1794410395.8644683
     },
     "INTU": {
       "ts": 1795122000,
-      "fetched": 1794323934.1178634
+      "fetched": 1794410395.8644683
     },
     "BRK-B": {
       "ts": 1794258000,
-      "fetched": 1794323934.1178634
+      "fetched": 1794410395.8644683
     },
     "AMZN": {
       "ts": 1793304000,
-      "fetched": 1794323934.1178634
+      "fetched": 1794410395.8644683
     },
     "GOOG": {
       "ts": 1793217600,
-      "fetched": 1794323934.1178634
+      "fetched": 1794410395.8644683
     },
     "ZTS": {
       "ts": 1793885400,
-      "fetched": 1794323934.1178634
+      "fetched": 1794410395.8644683
     },
     "LIN": {
       "ts": 1793277000,
-      "fetched": 1794323934.1178634
+      "fetched": 1794410395.8644683
     },
     "VLO": {
       "ts": 1801143000,
-      "fetched": 1794323934.1178634
+      "fetched": 1794410395.8644683
     },
     "D05.SI": {
       "ts": 1793869200,
-      "fetched": 1794323934.1178634
+      "fetched": 1794410395.8644683
     },
     "O39.SI": {
       "ts": 1793955600,
-      "fetched": 1794323934.1178634
+      "fetched": 1794410395.8644683
     },
     "U11.SI": {
       "ts": 1793782800,
-      "fetched": 1794323934.1178634
+      "fetched": 1794410395.8644683
     },
     "A17U.SI": {
       "ts": null,
-      "fetched": 1794323934.1178634
+      "fetched": 1794410395.8644683
     },
     "HMN.SI": {
       "ts": null,
-      "fetched": 1794323934.1178634
+      "fetched": 1794410395.8644683
     },
     "JYEU.SI": {
       "ts": null,
-      "fetched": 1794323934.1178634
+      "fetched": 1794410395.8644683
     }
   },
   "earnings_notified": [
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794410270.3304358,
+  "last_check": 1794411193.3354802,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-11"
