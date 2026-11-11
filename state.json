@@ -1,7 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|71097fa2-383f-3a75-8062-2d96f238bd2f",
     "AI|https://www.investing.com/news/analyst-ratings/jpmorgan-upgrades-orion-engineered-carbons-stock-rating-to-neutral-93CH-5014182",
     "AI|https://www.investing.com/news/analyst-ratings/jefferies-initiates-city-therapeutics-stock-with-buy-rating-93CH-5014183",
     "AI|https://www.investing.com/news/analyst-ratings/jefferies-cuts-peabody-energy-stock-rating-on-centurion-mine-delays-93CH-5014184",
@@ -5000,7 +4999,8 @@
     "Crypto|https://www.investing.com/news/cryptocurrency-news/eos-falls-12-in-selloff-5010329",
     "SG Banks|/companies-markets/banking-finance/ubs-cuts-about-200-london-jobs-credit-suisse-fusion-ends",
     "SG Banks|/esg/low-carbon-transition-face-stronger-headwinds-cop31-says-grace-fu",
-    "Watchlist|/esg/low-carbon-transition-face-stronger-headwinds-cop31-says-grace-fu"
+    "Watchlist|/esg/low-carbon-transition-face-stronger-headwinds-cop31-says-grace-fu",
+    "War|ef91cc5f-9714-393b-9c93-337e68d40282"
   ],
   "topic_error": "",
   "last_digest": "2026-11-11",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794373574.978263,
+  "last_check": 1794374502.3965404,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-10"
