@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-taketwo-interactive-stock-climbing-today-93CH-5014550",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-nvidia-stock-climbing-today-93CH-5014551",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/oil-prices-dip-amid-iran-peace-hopes-improving-supplies-5013753",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-lem-posts-strong-h1-2026-as-shares-rise-55-93CH-5014553",
     "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-adnoc-gas-beats-q3-2026-eps-forecast-lifts-guidance-93CH-5014540",
     "SG Banks|https://www.investing.com/news/company-news/tag-immobilien-9m-2026-slides-ffo-i-up-12-guidance-raised-93CH-5014542",
     "SG Banks|https://www.investing.com/news/earnings/on-holding-earnings-beat-by-chf016-revenue-topped-estimates-5014544",
@@ -5000,7 +4996,11 @@
     "AI|b0e4a22b-c1cd-346e-88e3-d33437300304",
     "AI|474dc4f5-f361-346a-b44c-b40be38e6b7c",
     "Watchlist|b0e4a22b-c1cd-346e-88e3-d33437300304",
-    "Watchlist|474dc4f5-f361-346a-b44c-b40be38e6b7c"
+    "Watchlist|474dc4f5-f361-346a-b44c-b40be38e6b7c",
+    "SG Banks|https://www.straitstimes.com/business/shopee-owner-sea-misses-earnings-estimate-as-ai-costs-climb",
+    "AI|19d906a4-6828-34f9-9104-09799e68e5fa",
+    "Watchlist|19d906a4-6828-34f9-9104-09799e68e5fa",
+    "Crypto|b18454fb-4626-3a9f-8b3c-7c2f70b2e451"
   ],
   "topic_error": "",
   "last_digest": "2026-11-11",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794390092.2301276,
+  "last_check": 1794391007.8669536,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-10"
