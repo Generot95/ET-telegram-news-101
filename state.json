@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/insider-trading-news/draftkings-cfo-alan-ellingson-buys-349987-in-company-stock-93CH-5014309",
-    "SG Banks|https://www.investing.com/news/company-news/fujiyama-q2-fy2027-slides-revenue-doubles-solar-cell-expansion-underway-93CH-5014312",
-    "SG Banks|https://www.investing.com/news/stock-market-news/watches-of-switzerland-lifts-outlook-floor-as-us-uk-demand-stays-strong-5014314",
     "Watchlist|https://www.investing.com/news/stock-market-news/jefferies-upgrades-renault-cuts-mercedesbenz-as-outlook-for-european-autos-diver-5014298",
     "Watchlist|https://www.investing.com/news/earnings/porsche-se-swings-to-28-billion-ninemonth-loss-on-volkswagen-impairment-5014299",
     "Watchlist|https://www.investing.com/news/earnings/henkel-lifts-2026-sales-forecast-after-q3-beat-narrows-profit-outlook-5014307",
@@ -5000,7 +4997,10 @@
     "Crypto|a2a3f7c8-5b9c-36df-a057-b2acc3a95087",
     "SG Banks|/companies-markets/banking-finance/singapore-accountancy-sector-salaries-rise-across-board-revenue-grows-5-1-s3-7-billion",
     "Watchlist|/companies-markets/banking-finance/singapore-accountancy-sector-salaries-rise-across-board-revenue-grows-5-1-s3-7-billion",
-    "War|b83173d5-8992-3eb4-90be-b829b552889c"
+    "War|b83173d5-8992-3eb4-90be-b829b552889c",
+    "SG Banks|https://www.channelnewsasia.com/business/tomb-raider-owner-embracer-reports-q2-core-earnings-above-estimates-6542121",
+    "Crypto|c59f8c09-076e-3f55-9dd8-2850f3ed9e4e",
+    "War|d858fab4-0252-3b30-a009-38eed00606aa"
   ],
   "topic_error": "",
   "last_digest": "2026-11-11",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794380903.0991483,
+  "last_check": 1794381829.5659778,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-10"
