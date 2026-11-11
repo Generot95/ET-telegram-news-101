@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|/companies-markets/transport-logistics/australias-qantas-axe-850-jobs-offshoring-deal-accenture",
-    "War|7609b9ae-8202-398e-8df8-51cbd6e19ae5",
-    "War|https://www.investing.com/news/commodities-news/oil-falls-as-trump-downplays-prospect-of-escalation-with-iran-5013892",
-    "AI|https://www.investing.com/news/insider-trading-news/karat-packaging-cfo-jian-guo-buys-6003-in-common-stock-93CH-5013888",
-    "AI|https://www.investing.com/news/insider-trading-news/macom-technology-solutions-cfo-kober-sells-456m-in-shares-93CH-5013889",
-    "AI|https://www.investing.com/news/stock-market-news/doj-sues-lyft-for-53m-over-alleged-disability-bias-93CH-5013890",
-    "AI|https://www.investing.com/news/commodities-news/oil-falls-as-trump-downplays-prospect-of-escalation-with-iran-5013892",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-life360-beats-on-q3-2026-eps-shares-jump-10-93CH-5013895",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/karat-packaging-cfo-jian-guo-buys-6003-in-common-stock-93CH-5013888",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/macom-technology-solutions-cfo-kober-sells-456m-in-shares-93CH-5013889",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/doj-sues-lyft-for-53m-over-alleged-disability-bias-93CH-5013890",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/trump-says-nvidia-ceo-told-him-he-did-not-know-the-woman-linked-to-him-was-a-spy-5013538",
     "Cybersecurity|https://www.investing.com/news/commodities-news/oil-falls-as-trump-downplays-prospect-of-escalation-with-iran-5013892",
     "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-life360-beats-on-q3-2026-eps-shares-jump-10-93CH-5013895",
@@ -5000,7 +4989,18 @@
     "SG Banks|/singapore/singapore-airlines-new-planes-and-seats-delayed-again-due-certification-issues",
     "SG Banks|/companies-markets/capital-markets-currencies/us-bonds-midterm-election-rally-skids-halt-after-strong-jobs-data",
     "Watchlist|/singapore/singapore-airlines-new-planes-and-seats-delayed-again-due-certification-issues",
-    "Watchlist|/companies-markets/capital-markets-currencies/us-bonds-midterm-election-rally-skids-halt-after-strong-jobs-data"
+    "Watchlist|/companies-markets/capital-markets-currencies/us-bonds-midterm-election-rally-skids-halt-after-strong-jobs-data",
+    "AI|07999f48-c678-35e5-a1ea-7d736e00ab16",
+    "AI|9bc85687-a21d-34fa-83b6-615f7286df15",
+    "Watchlist|9bc85687-a21d-34fa-83b6-615f7286df15",
+    "Watchlist|07999f48-c678-35e5-a1ea-7d736e00ab16",
+    "Watchlist|45a6ef3d-22d6-3a7c-8bea-9f58f3a42854",
+    "War|https://www.investing.com/news/commodities-news/oil-falls-as-trump-downplays-prospect-of-escalation-with-iran-5013892",
+    "SG Banks|https://www.straitstimes.com/business/openai-q3-revenue-soars-nearly-50-to-us10-billion",
+    "AI|8065cdd2-0a3a-34ae-a497-8419a7ed9c28",
+    "Watchlist|8065cdd2-0a3a-34ae-a497-8419a7ed9c28",
+    "SG Banks|/companies-markets/cdlht-launches-preferential-offering-231-million-units-s0-643-apiece",
+    "Watchlist|/companies-markets/cdlht-launches-preferential-offering-231-million-units-s0-643-apiece"
   ],
   "topic_error": "",
   "last_digest": "2026-11-11",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794358001.432391,
+  "last_check": 1794358902.5708447,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-10"
