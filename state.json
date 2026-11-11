@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/trump-says-fbi-investigating-nvidia-ceo-huang-over-chinese-scandal-5014009",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/progyny-ceo-peter-anevski-sells-618-million-in-company-stock-93CH-5014015",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/xrp-falls-10-in-selloff-5006654",
-    "AI|627957cf-c2f8-3af9-aea0-1f01f5416502",
     "Watchlist|627957cf-c2f8-3af9-aea0-1f01f5416502",
     "SG Banks|https://www.straitstimes.com/singapore/jobs/data-centre-building-doctor-he-keeps-power-cooling-systems-running",
     "AI|ace3858d-9cb7-3737-b4a7-15b58f757acd",
@@ -5000,7 +4996,11 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-softbank-group-stock-tumbling-today-93CH-5017528",
     "Watchlist|https://www.investing.com/news/insider-trading-news/better-home--finance-general-counsel-paula-tuffin-sells-12837-93CH-5017540",
     "AI|0735eb34-c7c8-3701-a8ab-9b437ad37585",
-    "Watchlist|0735eb34-c7c8-3701-a8ab-9b437ad37585"
+    "Watchlist|0735eb34-c7c8-3701-a8ab-9b437ad37585",
+    "War|45d1338f-d4e7-3aeb-944c-e3a65cf56d41",
+    "AI|c2667c5b-9c6e-3d57-ac49-666302d12022",
+    "Watchlist|c2667c5b-9c6e-3d57-ac49-666302d12022",
+    "SG Banks|https://www.straitstimes.com/business/accountancy-sector-adds-jobs-raises-pay-as-firms-prepare-workers-for-ai"
   ],
   "topic_error": "",
   "last_digest": "2026-11-11",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794365350.693937,
+  "last_check": 1794366250.164316,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-10"
