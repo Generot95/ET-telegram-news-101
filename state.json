@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/earnings/gossamer-bio-earnings-missed-by-357-revenue-topped-estimates-5017405",
-    "Watchlist|https://www.investing.com/news/earnings/bionano-genomics-earnings-missed-by-003-revenue-fell-short-of-estimates-5017406",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/netflix-coceo-gregory-peters-sells-174-million-of-stock-93CH-5017412",
     "Watchlist|https://www.investing.com/news/insider-trading-news/arthur-j-gallagher-chro-sells-424m-in-stock-after-option-exercise-93CH-5017414",
     "SG Banks|/companies-markets/banking-finance/hedge-funds-flag-growing-private-credit-risks-amid-rising-rates",
     "SG Banks|/companies-markets/capital-markets-currencies/wall-street-stocks-rally-after-heavy-ai-related-sell",
@@ -5000,7 +4997,10 @@
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-gujarat-alkalies-posts-strong-q2-fy-2027-gains-93CH-5020552",
     "Watchlist|https://www.investing.com/news/company-news/fasadgruppen-q3-2026-slides-margins-expand-amid-strategic-shift-93CH-5020555",
     "SG Banks|/companies-markets/keppel-infrastructure-trust-acquire-70-stake-power-plant-s111-6-million",
-    "Watchlist|/companies-markets/keppel-infrastructure-trust-acquire-70-stake-power-plant-s111-6-million"
+    "Watchlist|/companies-markets/keppel-infrastructure-trust-acquire-70-stake-power-plant-s111-6-million",
+    "AI|a9f7774c-647c-3b0c-9186-00ffaaa979ef",
+    "Watchlist|a9f7774c-647c-3b0c-9186-00ffaaa979ef",
+    "SG Banks|https://www.straitstimes.com/business/megaspeed-has-hired-us-law-firm-to-review-export-control-compliance-says-singaporean-director"
   ],
   "topic_error": "",
   "last_digest": "2026-11-12",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794470882.9830272,
+  "last_check": 1794471803.3208833,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-11"
