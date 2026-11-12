@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/grove-q3-2026-slides-profitability-milestone-amid-revenue-decline-93CH-5017237",
-    "Cybersecurity|https://www.investing.com/news/company-news/netlist-q3-2026-slides-146b-licensing-deals-transform-business-model-93CH-5017243",
-    "Cybersecurity|https://www.investing.com/news/company-news/electromed-q1-fy2027-slides-80-margins-offset-revenue-miss-93CH-5017245",
-    "Cybersecurity|https://www.investing.com/news/company-news/grove-collaborative-q3-2026-slides-profit-milestone-amid-revenue-pressures-93CH-5017247",
-    "Iran|https://www.iranintl.com/en/202611076051",
-    "AI|9eafc902-2ca7-3012-9f73-7c64ffd785b6",
-    "AI|6b430a38-252f-37b9-b1a1-126af3876580",
-    "SG Banks|/companies-markets/telcos-media-tech/ai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say",
     "Watchlist|9eafc902-2ca7-3012-9f73-7c64ffd785b6",
     "Watchlist|105aa821-d157-3b0f-a86e-56417fc3a9b9",
     "Watchlist|0e9891f3-88b2-3275-9632-d7962bb5c578",
@@ -5000,7 +4992,15 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-hankyu-hanshin-stock-rallying-today-93CH-5020417",
     "Watchlist|https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-279-5020418",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-yadea-stock-sliding-today-93CH-5020420",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-doubleugames-q3-2026-profit-rises-as-stock-falls-37-93CH-5020422"
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-doubleugames-q3-2026-profit-rises-as-stock-falls-37-93CH-5020422",
+    "Iran|https://www.iranintl.com/en/202611091472",
+    "War|e208032a-b28b-31bc-8aa2-aa8703b840a4",
+    "AI|e208032a-b28b-31bc-8aa2-aa8703b840a4",
+    "Crypto|13f993a6-acb2-37e3-b191-ddb45f2db106",
+    "Watchlist|e208032a-b28b-31bc-8aa2-aa8703b840a4",
+    "Watchlist|61f47427-4f4a-33e2-8391-eeddec1961cc",
+    "SG Banks|/companies-markets/nvidia-faces-more-risks-deal-pace-jensen-huang-exit-bloomberg-intelligence",
+    "Watchlist|/companies-markets/nvidia-faces-more-risks-deal-pace-jensen-huang-exit-bloomberg-intelligence"
   ],
   "topic_error": "",
   "last_digest": "2026-11-12",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794463550.9360423,
+  "last_check": 1794464448.0656867,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-11"
