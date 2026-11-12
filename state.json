@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/earnings/amprius-tech-earnings-missed-by-001-revenue-topped-estimates-5016990",
-    "SG Banks|https://www.investing.com/news/transcripts/cognex-at-baird-industrial-conference-growth-broadens-risks-remain-93CH-5016995",
-    "Watchlist|https://www.investing.com/news/company-news/evolution-petroleum-reports-q1-loss-maintains-dividend-streak-93CH-5016977",
-    "Watchlist|https://www.investing.com/news/transcripts/kailera-at-stifel-2026-healthcare-conference-obesity-push-broadens-93CH-5016979",
-    "Watchlist|https://www.investing.com/news/stock-market-news/five-us-states-join-ftc-suit-over-alleged-hims--hers-unlawful-practices-5016982",
-    "Watchlist|https://www.investing.com/news/earnings/nextnav-surges-on-third-quarter-earnings-beat-5016983",
-    "Watchlist|https://www.investing.com/news/sec-filings/nextnrg-to-be-suspended-from-nasdaq-plans-transition-to-otc-markets-93CH-5016984",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/stifel-cuts-brightstar-lottery-stock-price-target-on-guidance-cut-93CH-5016986",
-    "Watchlist|https://www.investing.com/news/earnings/national-cinemedia-earnings-beat-by-032-revenue-fell-short-of-estimates-5016988",
-    "Watchlist|https://www.investing.com/news/earnings/amprius-tech-earnings-missed-by-001-revenue-topped-estimates-5016990",
     "Watchlist|https://www.investing.com/news/transcripts/cognex-at-baird-industrial-conference-growth-broadens-risks-remain-93CH-5016995",
     "AI|WP-MKTW-0003973830",
     "AI|WP-MKTW-0003986044",
@@ -5000,7 +4990,17 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-samsung-life-stock-rallying-today-93CH-5020270",
     "Watchlist|https://www.investing.com/news/earnings/samsung-life-shares-rise-to-oneweek-high-after-quarterly-profit-increases-5020275",
     "AI|dc2343e6-cf66-3425-ab2f-2c2ad4d75e14",
-    "Watchlist|dc2343e6-cf66-3425-ab2f-2c2ad4d75e14"
+    "Watchlist|dc2343e6-cf66-3425-ab2f-2c2ad4d75e14",
+    "AI|1131968d-c54d-3dd9-b8c8-7c40fc79c1a2",
+    "Watchlist|1131968d-c54d-3dd9-b8c8-7c40fc79c1a2",
+    "SG Banks|/companies-markets/telcos-media-tech/nvidia-working-identify-ceo-candidates-replace-jensen-huang",
+    "Watchlist|/companies-markets/telcos-media-tech/nvidia-working-identify-ceo-candidates-replace-jensen-huang",
+    "AI|3cd2ed2c-77db-3778-b02c-d4d636d6d3f3",
+    "Watchlist|3cd2ed2c-77db-3778-b02c-d4d636d6d3f3",
+    "AI|ecf97730-3092-320a-8bd5-19b3a35cac09",
+    "Watchlist|ecf97730-3092-320a-8bd5-19b3a35cac09",
+    "AI|6aecd0ab-b42b-3957-a39f-4ff3bf86db73",
+    "Watchlist|6aecd0ab-b42b-3957-a39f-4ff3bf86db73"
   ],
   "topic_error": "",
   "last_digest": "2026-11-12",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794455291.252908,
+  "last_check": 1794456229.7717786,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-11"
