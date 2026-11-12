@@ -1,109 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/lava-security-and-owasp-take-aim-at-the-security-gaps-emerging-in-ai-infrastructure-5018681",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-neuronetics-stock-tumbling-today-93CH-5018682",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-hagerty-stock-sliding-today-93CH-5018683",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-direxion-daily-semiconductor-bull-3x-shares-etf-surging-today-93CH-5018686",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-new-wave-group-q3-2026-stock-rises-on-margin-strength-93CH-5018687",
-    "Cybersecurity|https://www.investing.com/news/company-news/gold-x2-mining-completes-acquisition-of-42-claims-in-ontario-93CH-5018591",
-    "Cybersecurity|https://www.investing.com/news/company-news/irving-resources-advances-drilling-at-yamagano-mining-right-93CH-5018592",
-    "Cybersecurity|https://www.investing.com/news/company-news/thomson-reuters-announces-500-million-share-buyback-program-93CH-5018593",
-    "Cybersecurity|https://www.investing.com/news/company-news/epr-properties-plans-500-million-convertible-notes-offering-93CH-5018594",
-    "Cybersecurity|https://www.investing.com/news/company-news/lemon-tree-hotels-q2-fy27-slides-record-quarter-drives-90-profit-surge-93CH-5018608",
-    "Cybersecurity|https://www.investing.com/news/company-news/great-eastern-shipping-q2-fy27-slides-record-profit-on-tanker-surge-93CH-5018647",
-    "SG Banks|https://www.investing.com/news/stock-market-news/jefferies-backs-two-european-oil-stocks-lifts-2027-brent-call-to-825-5018661",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/cantor-raises-newamsterdam-pharma-stock-price-target-to-61-93CH-5018673",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/needham-cuts-rigetti-computing-stock-price-target-on-delivery-timing-93CH-5018674",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/koil-energy-10-owner-intelligent-fanatics-buys-46700-in-shares-93CH-5018679",
-    "SG Banks|https://www.investing.com/news/company-news/lava-security-and-owasp-take-aim-at-the-security-gaps-emerging-in-ai-infrastructure-5018681",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-neuronetics-stock-tumbling-today-93CH-5018682",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-hagerty-stock-sliding-today-93CH-5018683",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-direxion-daily-semiconductor-bull-3x-shares-etf-surging-today-93CH-5018686",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-new-wave-group-q3-2026-stock-rises-on-margin-strength-93CH-5018687",
-    "Watchlist|https://www.investing.com/news/stock-market-news/jefferies-backs-two-european-oil-stocks-lifts-2027-brent-call-to-825-5018661",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/cantor-raises-newamsterdam-pharma-stock-price-target-to-61-93CH-5018673",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/needham-cuts-rigetti-computing-stock-price-target-on-delivery-timing-93CH-5018674",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/koil-energy-10-owner-intelligent-fanatics-buys-46700-in-shares-93CH-5018679",
-    "Watchlist|https://www.investing.com/news/company-news/lava-security-and-owasp-take-aim-at-the-security-gaps-emerging-in-ai-infrastructure-5018681",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-neuronetics-stock-tumbling-today-93CH-5018682",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-hagerty-stock-sliding-today-93CH-5018683",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-direxion-daily-semiconductor-bull-3x-shares-etf-surging-today-93CH-5018686",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-new-wave-group-q3-2026-stock-rises-on-margin-strength-93CH-5018687",
-    "AI|a5e3ff25-8980-38bd-9743-4204f40f0a7f",
-    "AI|e3386ffc-01c9-393e-9567-5c707953fa7c",
-    "Watchlist|a5e3ff25-8980-38bd-9743-4204f40f0a7f",
-    "Watchlist|e3386ffc-01c9-393e-9567-5c707953fa7c",
-    "War|fc4ed543-3f31-3897-8425-1420e0e38443",
-    "AI|ef108a95-0e15-3562-8eab-a3ffc06f974f",
-    "SG Banks|https://www.channelnewsasia.com/business/dollar-firms-hot-inflation-hawkish-fed-talk-lift-rate-hike-bets-6541161",
-    "AI|58d27b11-3975-3559-92b1-cc588d0c7d2a",
-    "SG Banks|/companies-markets/capital-markets-currencies/nasdaq-opens-higher-chips-pare-losses-rate-hike-fears-linger",
-    "Watchlist|58d27b11-3975-3559-92b1-cc588d0c7d2a",
-    "Watchlist|ef108a95-0e15-3562-8eab-a3ffc06f974f",
-    "Watchlist|13c82d66-60cb-3965-aaee-ddf2faeb970b",
-    "Watchlist|/companies-markets/capital-markets-currencies/nasdaq-opens-higher-chips-pare-losses-rate-hike-fears-linger",
-    "War|f66739e8-77db-3a81-9a5c-fbe400015a3c",
-    "Watchlist|32c6666a-f4cc-3cca-bbe5-e5d7e7d025ac",
-    "AI|32c6666a-f4cc-3cca-bbe5-e5d7e7d025ac",
-    "AI|https://www.investing.com/news/stock-market-news/jefferies-cuts-2-eu-specialty-chemical-distributors-as-inflation-tailwind-fades-5018684",
-    "AI|https://www.investing.com/news/company-news/teva-targets-67-billion-in-innovative-medicines-revenue-by-2030-93CH-5018693",
-    "AI|https://www.investing.com/news/stock-market-news/premarket-movers-coreweave-nvidia-rally-fossil-tandy-leather-jump-5018694",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-invesco-qqq-trust-etf-rallying-today-93CH-5018695",
-    "AI|https://www.investing.com/news/analyst-ratings/raymond-james-raises-sally-beauty-stock-price-target-on-growth-steps-93CH-5018696",
-    "AI|https://www.investing.com/news/analyst-ratings/jefferies-raises-sally-beauty-stock-price-target-on-q4-beat-93CH-5018697",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/jefferies-cuts-2-eu-specialty-chemical-distributors-as-inflation-tailwind-fades-5018684",
-    "Cybersecurity|https://www.investing.com/news/company-news/teva-targets-67-billion-in-innovative-medicines-revenue-by-2030-93CH-5018693",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/premarket-movers-coreweave-nvidia-rally-fossil-tandy-leather-jump-5018694",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-invesco-qqq-trust-etf-rallying-today-93CH-5018695",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/raymond-james-raises-sally-beauty-stock-price-target-on-growth-steps-93CH-5018696",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/jefferies-raises-sally-beauty-stock-price-target-on-q4-beat-93CH-5018697",
-    "SG Banks|https://www.investing.com/news/stock-market-news/jefferies-cuts-2-eu-specialty-chemical-distributors-as-inflation-tailwind-fades-5018684",
-    "SG Banks|https://www.investing.com/news/company-news/teva-targets-67-billion-in-innovative-medicines-revenue-by-2030-93CH-5018693",
-    "SG Banks|https://www.investing.com/news/stock-market-news/premarket-movers-coreweave-nvidia-rally-fossil-tandy-leather-jump-5018694",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-invesco-qqq-trust-etf-rallying-today-93CH-5018695",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/raymond-james-raises-sally-beauty-stock-price-target-on-growth-steps-93CH-5018696",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/jefferies-raises-sally-beauty-stock-price-target-on-q4-beat-93CH-5018697",
-    "Watchlist|https://www.investing.com/news/stock-market-news/jefferies-cuts-2-eu-specialty-chemical-distributors-as-inflation-tailwind-fades-5018684",
-    "Watchlist|https://www.investing.com/news/company-news/teva-targets-67-billion-in-innovative-medicines-revenue-by-2030-93CH-5018693",
-    "Watchlist|https://www.investing.com/news/stock-market-news/premarket-movers-coreweave-nvidia-rally-fossil-tandy-leather-jump-5018694",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-invesco-qqq-trust-etf-rallying-today-93CH-5018695",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/raymond-james-raises-sally-beauty-stock-price-target-on-growth-steps-93CH-5018696",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/jefferies-raises-sally-beauty-stock-price-target-on-q4-beat-93CH-5018697",
-    "AI|c69c2329-ac64-3118-bb32-55341b681b1e",
-    "Watchlist|c69c2329-ac64-3118-bb32-55341b681b1e",
-    "War|192e6109-0e0a-387f-87fa-2682d06403c5",
-    "AI|4d1fb3de-7b87-344c-bdbf-eb0bef41aa9c",
-    "Watchlist|4d1fb3de-7b87-344c-bdbf-eb0bef41aa9c",
-    "Watchlist|9dc31d61-bd48-31d3-9349-5a9442f32a65",
-    "Crypto|ff5d6875-1b5f-333b-ae26-7ad287338a5f",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-conduit-shares-fall-as-premium-growth-slows-in-q3-2026-93CH-5018727",
-    "AI|https://www.investing.com/news/analyst-ratings/stifel-raises-908-devices-stock-price-target-on-strong-execution-93CH-5018728",
-    "AI|https://www.investing.com/news/analyst-ratings/stifel-lowers-ameresco-stock-price-target-on-valuation-review-93CH-5018729",
-    "AI|https://www.investing.com/news/analyst-ratings/stifel-cuts-coreweave-stock-price-target-on-funding-concerns-93CH-5018730",
-    "AI|https://www.investing.com/news/analyst-ratings/stifel-cuts-ambiq-micro-stock-price-target-on-chip-sector-weakness-93CH-5018731",
-    "AI|https://www.investing.com/news/stock-market-news/server-cpu-strength-persists-as-amd-and-arm-gain-share-ubs-5018734",
-    "AI|https://www.investing.com/news/economy-news/iran-security-chief-rejects-transfer-of-nuclear-materials-out-of-the-country-5018735",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-ishares-semiconductor-etf-stock-surging-today-93CH-5018709",
-    "AI|https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-higher-at-close-of-trade-tadawul-all-share-up-138-5018716",
-    "AI|https://www.investing.com/news/stock-market-news/barclays-sees-thg-earnings-growth-as-whey-costs-ease-nutrition-margins-recover-5018726",
-    "AI|https://www.investing.com/news/company-news/gold-hart-copper-completes-acquisition-of-copioso-coppergold-mine-93CH-5018710",
-    "AI|https://www.investing.com/news/company-news/new-wave-q3-2026-slides-margins-expand-despite-organic-growth-lag-93CH-5018720",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-conduit-shares-fall-as-premium-growth-slows-in-q3-2026-93CH-5018727",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/stifel-raises-908-devices-stock-price-target-on-strong-execution-93CH-5018728",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/nvidia-stock-gets-a-rare-wall-street-downgrade-on-supply-issues-5018471",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/stifel-lowers-ameresco-stock-price-target-on-valuation-review-93CH-5018729",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/stifel-cuts-coreweave-stock-price-target-on-funding-concerns-93CH-5018730",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/stifel-cuts-ambiq-micro-stock-price-target-on-chip-sector-weakness-93CH-5018731",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/server-cpu-strength-persists-as-amd-and-arm-gain-share-ubs-5018734",
-    "Cybersecurity|https://www.investing.com/news/economy-news/iran-security-chief-rejects-transfer-of-nuclear-materials-out-of-the-country-5018735",
-    "Cybersecurity|https://www.investing.com/news/company-news/gold-hart-copper-completes-acquisition-of-copioso-coppergold-mine-93CH-5018710",
-    "Cybersecurity|https://www.investing.com/news/company-news/new-wave-q3-2026-slides-margins-expand-despite-organic-growth-lag-93CH-5018720",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-conduit-shares-fall-as-premium-growth-slows-in-q3-2026-93CH-5018727",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/stifel-raises-908-devices-stock-price-target-on-strong-execution-93CH-5018728",
-    "SG Banks|https://www.investing.com/news/stock-market-news/nvidia-stock-gets-a-rare-wall-street-downgrade-on-supply-issues-5018471",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/stifel-lowers-ameresco-stock-price-target-on-valuation-review-93CH-5018729",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/stifel-cuts-coreweave-stock-price-target-on-funding-concerns-93CH-5018730",
     "SG Banks|https://www.investing.com/news/analyst-ratings/stifel-cuts-ambiq-micro-stock-price-target-on-chip-sector-weakness-93CH-5018731",
     "SG Banks|https://www.investing.com/news/stock-market-news/server-cpu-strength-persists-as-amd-and-arm-gain-share-ubs-5018734",
     "SG Banks|https://www.investing.com/news/economy-news/iran-security-chief-rejects-transfer-of-nuclear-materials-out-of-the-country-5018735",
@@ -5000,78 +4897,181 @@
     "Watchlist|/companies-markets/nvidias-market-value-sinks-below-us4-trillion-after-ceo-jensen-huang-resigns",
     "Watchlist|23f7ea15-05e7-37a6-93ad-884eff0fc07a",
     "AI|https://www.investing.com/news/stock-market-news/fundamentals-first-here-is-how-hsbc-expects-global-markets-to-perform-in-2027-5022409",
-    "SG Banks|https://www.channelnewsasia.com/business/ai-stocks-nvidia-global-market-6546411"
+    "SG Banks|https://www.channelnewsasia.com/business/ai-stocks-nvidia-global-market-6546411",
+    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-taesa-posts-stronger-q3-2026-profit-as-expansion-continues-93CH-5022453",
+    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-alvotech-q3-2026-revenue-miss-weighs-on-shares-93CH-5022454",
+    "AI|https://www.investing.com/news/stock-market-news/webull-stock-may-move-7-on-nov-19-earnings-report-93CH-5022455",
+    "AI|https://www.investing.com/news/company-news/bae-systems-wins-138m-navy-contract-for-submarine-propulsors-93CH-5022456",
+    "AI|https://www.investing.com/news/company-news/cvc-corp-q3-2026-slides-bookings-rise-profitability-returns-93CH-5022457",
+    "AI|https://www.investing.com/news/sec-filings/bitwise-avalanche-etf-amends-trust-agreement-to-include-distribution-provisions-93CH-5022458",
+    "AI|https://www.investing.com/news/company-news/okeanis-q3-2026-slides-record-earnings-1bn-dividend-milestone-93CH-5022460",
+    "AI|https://www.investing.com/news/stock-market-news/globant-shares-may-move-12-on-nov-19-earnings-release-93CH-5022462",
+    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-samsonite-returns-to-growth-in-q3-2026-93CH-5022463",
+    "AI|https://www.investing.com/news/stock-market-news/bath--body-works-options-signal-10-move-on-earnings-day-93CH-5022465",
+    "AI|https://www.investing.com/news/stock-market-news/broadcom-amd-stock-outlook-after-huangs-exit-from-nvidia-93CH-5022420",
+    "AI|https://www.investing.com/news/stock-market-news/bitcoin-key-support-levels-to-watch-after-break-below-72000-93CH-5022436",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-melco-resorts--entertainment-stock-sliding-today-93CH-5022441",
+    "AI|https://www.investing.com/news/stock-market-news/who-is-nvidias-new-ceo-colette-kress-5022444",
+    "AI|https://www.investing.com/news/stock-market-news/nvidia-stock-support-levels-buy-zones-to-watch-after-huang-exit-hits-shares-93CH-5022447",
+    "AI|https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-032-5022449",
+    "AI|https://www.investing.com/news/stock-market-news/modern-mining-raises-40m-in-ipo-set-to-trade-on-nyse-american-432SI-5022414",
+    "AI|https://www.investing.com/news/company-news/ionis-reports-twoyear-data-for-hereditary-angioedema-drug-93CH-5022427",
+    "AI|https://www.investing.com/news/company-news/modern-mining-closes-40m-ipo-to-list-on-nyse-american-93CH-5022426",
+    "AI|https://www.investing.com/news/company-news/intellia-presents-lonvoz-data-at-allergy-conference-93CH-5022429",
+    "AI|https://www.investing.com/news/company-news/ionis-pharmaceuticals-stock-hits-52week-low-at-2771-93CH-5022434",
+    "AI|https://www.investing.com/news/company-news/david-kustoff-reports-sale-of-warner-bros-discovery-shares-93CH-5022440",
+    "AI|https://www.investing.com/news/company-news/codere-online-q3-2026-slides-gaming-win-surges-30-profitability-gains-93CH-5022443",
+    "AI|https://www.investing.com/news/company-news/national-vision-q3-2026-slides-margins-expand-amid-traffic-headwinds-93CH-5022452",
+    "Crypto|5eb639fb-a2eb-3be7-8e78-627547735e47",
+    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-taesa-posts-stronger-q3-2026-profit-as-expansion-continues-93CH-5022453",
+    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-alvotech-q3-2026-revenue-miss-weighs-on-shares-93CH-5022454",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/webull-stock-may-move-7-on-nov-19-earnings-report-93CH-5022455",
+    "Cybersecurity|https://www.investing.com/news/company-news/bae-systems-wins-138m-navy-contract-for-submarine-propulsors-93CH-5022456",
+    "Cybersecurity|https://www.investing.com/news/company-news/cvc-corp-q3-2026-slides-bookings-rise-profitability-returns-93CH-5022457",
+    "Cybersecurity|https://www.investing.com/news/sec-filings/bitwise-avalanche-etf-amends-trust-agreement-to-include-distribution-provisions-93CH-5022458",
+    "Cybersecurity|https://www.investing.com/news/company-news/okeanis-q3-2026-slides-record-earnings-1bn-dividend-milestone-93CH-5022460",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/globant-shares-may-move-12-on-nov-19-earnings-release-93CH-5022462",
+    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-samsonite-returns-to-growth-in-q3-2026-93CH-5022463",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/bath--body-works-options-signal-10-move-on-earnings-day-93CH-5022465",
+    "Cybersecurity|https://www.investing.com/news/company-news/ionis-reports-twoyear-data-for-hereditary-angioedema-drug-93CH-5022427",
+    "Cybersecurity|https://www.investing.com/news/company-news/modern-mining-closes-40m-ipo-to-list-on-nyse-american-93CH-5022426",
+    "Cybersecurity|https://www.investing.com/news/company-news/intellia-presents-lonvoz-data-at-allergy-conference-93CH-5022429",
+    "Cybersecurity|https://www.investing.com/news/company-news/ionis-pharmaceuticals-stock-hits-52week-low-at-2771-93CH-5022434",
+    "Cybersecurity|https://www.investing.com/news/company-news/david-kustoff-reports-sale-of-warner-bros-discovery-shares-93CH-5022440",
+    "Cybersecurity|https://www.investing.com/news/company-news/codere-online-q3-2026-slides-gaming-win-surges-30-profitability-gains-93CH-5022443",
+    "Cybersecurity|https://www.investing.com/news/company-news/national-vision-q3-2026-slides-margins-expand-amid-traffic-headwinds-93CH-5022452",
+    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-taesa-posts-stronger-q3-2026-profit-as-expansion-continues-93CH-5022453",
+    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-alvotech-q3-2026-revenue-miss-weighs-on-shares-93CH-5022454",
+    "SG Banks|https://www.investing.com/news/stock-market-news/webull-stock-may-move-7-on-nov-19-earnings-report-93CH-5022455",
+    "SG Banks|https://www.investing.com/news/company-news/bae-systems-wins-138m-navy-contract-for-submarine-propulsors-93CH-5022456",
+    "SG Banks|https://www.investing.com/news/company-news/cvc-corp-q3-2026-slides-bookings-rise-profitability-returns-93CH-5022457",
+    "SG Banks|https://www.investing.com/news/sec-filings/bitwise-avalanche-etf-amends-trust-agreement-to-include-distribution-provisions-93CH-5022458",
+    "SG Banks|https://www.investing.com/news/company-news/okeanis-q3-2026-slides-record-earnings-1bn-dividend-milestone-93CH-5022460",
+    "SG Banks|https://www.investing.com/news/stock-market-news/globant-shares-may-move-12-on-nov-19-earnings-release-93CH-5022462",
+    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-samsonite-returns-to-growth-in-q3-2026-93CH-5022463",
+    "SG Banks|https://www.investing.com/news/stock-market-news/bath--body-works-options-signal-10-move-on-earnings-day-93CH-5022465",
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-taesa-posts-stronger-q3-2026-profit-as-expansion-continues-93CH-5022453",
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-alvotech-q3-2026-revenue-miss-weighs-on-shares-93CH-5022454",
+    "Watchlist|https://www.investing.com/news/stock-market-news/webull-stock-may-move-7-on-nov-19-earnings-report-93CH-5022455",
+    "Watchlist|https://www.investing.com/news/company-news/bae-systems-wins-138m-navy-contract-for-submarine-propulsors-93CH-5022456",
+    "Watchlist|https://www.investing.com/news/company-news/cvc-corp-q3-2026-slides-bookings-rise-profitability-returns-93CH-5022457",
+    "Watchlist|https://www.investing.com/news/sec-filings/bitwise-avalanche-etf-amends-trust-agreement-to-include-distribution-provisions-93CH-5022458",
+    "Watchlist|https://www.investing.com/news/company-news/okeanis-q3-2026-slides-record-earnings-1bn-dividend-milestone-93CH-5022460",
+    "Watchlist|https://www.investing.com/news/stock-market-news/globant-shares-may-move-12-on-nov-19-earnings-release-93CH-5022462",
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-samsonite-returns-to-growth-in-q3-2026-93CH-5022463",
+    "Watchlist|https://www.investing.com/news/stock-market-news/bath--body-works-options-signal-10-move-on-earnings-day-93CH-5022465",
+    "War|9a6a6444-c0a6-3b12-8497-a29fa02eb90e",
+    "War|97aecbd7-e68a-326c-bdb0-2617b415472c",
+    "AI|d96baf89-5359-3470-a066-419f0f57408a",
+    "Watchlist|d96baf89-5359-3470-a066-419f0f57408a",
+    "AI|ed69fb88-0690-3385-ad17-2d964e41a0f5",
+    "AI|cc84b2d7-2bfc-3970-a0f2-30a79cf97425",
+    "Watchlist|4db3568c-24c1-3198-8d40-8a55307ba92f",
+    "AI|b5ea5fc7-62fc-3a23-9221-f7e7cd0503e7",
+    "AI|b69b3538-09b2-3378-b378-6d1541fb159e",
+    "SG Banks|/international/global/nvidia-ceo-jensen-huang-resigns-cfo-colette-kress-take-over-interim",
+    "Watchlist|6e7adc51-148e-39fe-8466-8ff98feea0b2",
+    "Watchlist|b69b3538-09b2-3378-b378-6d1541fb159e",
+    "Watchlist|b5ea5fc7-62fc-3a23-9221-f7e7cd0503e7",
+    "Watchlist|/international/global/nvidia-ceo-jensen-huang-resigns-cfo-colette-kress-take-over-interim",
+    "War|79b3ea88-e477-3304-b194-cfc134f6062f",
+    "AI|8beb9cbb-7a19-3dfd-b7a1-d47ecbadbc62",
+    "AI|5251e781-71ed-3546-a665-e29ad4f132c2",
+    "AI|6e7adc51-148e-39fe-8466-8ff98feea0b2",
+    "Crypto|b16fe13a-008b-302c-a22c-27fa5cddc208",
+    "Watchlist|8beb9cbb-7a19-3dfd-b7a1-d47ecbadbc62",
+    "Watchlist|5251e781-71ed-3546-a665-e29ad4f132c2",
+    "AI|4136a17f-6b0c-3f4e-8db4-56a224b09384",
+    "Cybersecurity|4136a17f-6b0c-3f4e-8db4-56a224b09384",
+    "Watchlist|4136a17f-6b0c-3f4e-8db4-56a224b09384",
+    "Watchlist|35ebbd1d-31e6-3084-8312-6b53d0e72e3d",
+    "AI|35ebbd1d-31e6-3084-8312-6b53d0e72e3d",
+    "AI|6e82a8d5-18b3-367a-a3fd-f6bf5ced3fb4",
+    "Watchlist|6e82a8d5-18b3-367a-a3fd-f6bf5ced3fb4",
+    "SG Banks|/international/global/global-ai-stocks-sink-nvidia-ceo-jensen-huangs-exit-deepens-sector-sell",
+    "Watchlist|/international/global/global-ai-stocks-sink-nvidia-ceo-jensen-huangs-exit-deepens-sector-sell",
+    "AI|7f52bf8c-e778-4432-9c65-e5c2b2027559",
+    "Cybersecurity|d37dcf8d-3ecf-3c52-8036-91b711e3b868",
+    "Watchlist|d37dcf8d-3ecf-3c52-8036-91b711e3b868",
+    "Watchlist|7f52bf8c-e778-4432-9c65-e5c2b2027559",
+    "War|WP-MKTW-0005344314",
+    "AI|eef317a8-da01-307f-b21b-7fbd1c809084",
+    "AI|WP-MKTW-0005344314",
+    "Cybersecurity|1b081e7f-36c5-376f-961f-4f88ee468a58",
+    "Cybersecurity|WP-MKTW-0005344314",
+    "Watchlist|eef317a8-da01-307f-b21b-7fbd1c809084",
+    "Watchlist|0011ef4c-5114-317f-b72d-249fd3b4e569"
   ],
   "topic_error": "",
   "last_digest": "2026-11-12",
   "earnings": {
     "AMD": {
       "ts": 1801602000,
-      "fetched": 1794410395.8644683
+      "fetched": 1794496842.0334995
     },
     "NVDA": {
       "ts": 1794949200,
-      "fetched": 1794410395.8644683
+      "fetched": 1794496842.0334995
     },
     "CRWD": {
       "ts": 1796158800,
-      "fetched": 1794410395.8644683
+      "fetched": 1794496842.0334995
     },
     "MSFT": {
       "ts": 1801083600,
-      "fetched": 1794410395.8644683
+      "fetched": 1794496842.0334995
     },
     "INTU": {
       "ts": 1795122000,
-      "fetched": 1794410395.8644683
+      "fetched": 1794496842.0334995
     },
     "BRK-B": {
       "ts": 1794258000,
-      "fetched": 1794410395.8644683
+      "fetched": 1794496842.0334995
     },
     "AMZN": {
       "ts": 1793304000,
-      "fetched": 1794410395.8644683
+      "fetched": 1794496842.0334995
     },
     "GOOG": {
       "ts": 1793217600,
-      "fetched": 1794410395.8644683
+      "fetched": 1794496842.0334995
     },
     "ZTS": {
       "ts": 1793885400,
-      "fetched": 1794410395.8644683
+      "fetched": 1794496842.0334995
     },
     "LIN": {
       "ts": 1793277000,
-      "fetched": 1794410395.8644683
+      "fetched": 1794496842.0334995
     },
     "VLO": {
       "ts": 1801143000,
-      "fetched": 1794410395.8644683
+      "fetched": 1794496842.0334995
     },
     "D05.SI": {
       "ts": 1793869200,
-      "fetched": 1794410395.8644683
+      "fetched": 1794496842.0334995
     },
     "O39.SI": {
       "ts": 1793955600,
-      "fetched": 1794410395.8644683
+      "fetched": 1794496842.0334995
     },
     "U11.SI": {
       "ts": 1793782800,
-      "fetched": 1794410395.8644683
+      "fetched": 1794496842.0334995
     },
     "A17U.SI": {
       "ts": null,
-      "fetched": 1794410395.8644683
+      "fetched": 1794496842.0334995
     },
     "HMN.SI": {
       "ts": null,
-      "fetched": 1794410395.8644683
+      "fetched": 1794496842.0334995
     },
     "JYEU.SI": {
       "ts": null,
-      "fetched": 1794410395.8644683
+      "fetched": 1794496842.0334995
     }
   },
   "earnings_notified": [
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794496523.8886003,
+  "last_check": 1794497446.0195117,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-12"
