@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-lightwave-logic-q3-2026-loss-widens-as-stock-sinks-93CH-5017139",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-suja-life-q3-2026-sales-beat-overshadowed-by-softer-outlook-93CH-5017138",
-    "AI|https://www.investing.com/news/sec-filings/our-bond-amends-leakout-agreement-with-preferred-stockholders-93CH-5017140",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-dolphin-entertainment-tops-revenue-forecast-in-q3-2026-93CH-5017141",
-    "AI|https://www.investing.com/news/stock-market-news/us-sec-seeks-to-close-musk-tesla-settlement-fund-5017075",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-petmed-express-stock-gaining-today-93CH-5017104",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-bg-foods-stock-surging-today-93CH-5017107",
-    "AI|https://www.investing.com/news/stock-market-news/albertsons-taps-outsider-andrew-murray-as-cfo-amid-business-review-5017108",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-fossil-stock-surging-today-93CH-5017109",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-satellogic-stock-surging-today-93CH-5017117",
-    "AI|https://www.investing.com/news/company-news/group-1-automotive-declares-055-quarterly-dividend-93CH-5017093",
-    "AI|https://www.investing.com/news/company-news/halliburton-declares-017-quarterly-dividend-93CH-5017116",
     "AI|https://www.investing.com/news/company-news/boise-cascade-completes-acquisition-of-two-california-facilities-93CH-5017118",
     "AI|https://www.investing.com/news/company-news/rallybio-announces-1for2-reverse-stock-split-effective-nov-20-93CH-5017119",
     "Cybersecurity|b0c95fc9-cf40-3e95-a2b1-ea6a83753491",
@@ -5000,7 +4988,19 @@
     "SG Banks|/companies-markets/energy-commodities/oil-prices-ease-two-month-lows-us-downplays-further-iran-strikes",
     "SG Banks|WP-MKTW-0003805099",
     "Watchlist|/international/trump-says-nvidia-ceo-told-him-he-did-not-know-woman-linked-him-was-spy",
-    "Watchlist|/companies-markets/energy-commodities/oil-prices-ease-two-month-lows-us-downplays-further-iran-strikes"
+    "Watchlist|/companies-markets/energy-commodities/oil-prices-ease-two-month-lows-us-downplays-further-iran-strikes",
+    "SG Banks|/companies-markets/starhub-q3-profit-falls-82-4-s3-9-million-amid-high-operating-leverage-depreciation",
+    "Watchlist|/companies-markets/starhub-q3-profit-falls-82-4-s3-9-million-amid-high-operating-leverage-depreciation",
+    "SG Banks|https://www.channelnewsasia.com/business/whos-next-ceo-nvidia-top-engineer-and-cfo-favored-candidates-6544986",
+    "AI|afd6ecf6-78bd-3e00-831a-07c22f06f7b7",
+    "AI|da9c9692-0528-3e02-b931-fd9576914aba",
+    "AI|4e7126b4-2fcf-3a71-9947-b8d08efb7c9f",
+    "Watchlist|c26c76d6-e2b6-359d-983e-11231def27a4",
+    "Watchlist|afd6ecf6-78bd-3e00-831a-07c22f06f7b7",
+    "Watchlist|da9c9692-0528-3e02-b931-fd9576914aba",
+    "AI|c26c76d6-e2b6-359d-983e-11231def27a4",
+    "SG Banks|https://www.straitstimes.com/business/indonesia-rupiah-drops-to-record-low-on-strong-us-dollar-msci-woes",
+    "SG Banks|https://www.channelnewsasia.com/business/who-would-be-next-ceo-nvidia-top-engineer-and-cfo-favored-candidates-6544986"
   ],
   "topic_error": "",
   "last_digest": "2026-11-12",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794458960.1329827,
+  "last_check": 1794459877.3346436,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-11"
