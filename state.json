@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/earnings/kura-oncology-inc-earnings-beat-by-003-revenue-fell-short-of-estimates-5016893",
-    "Cybersecurity|https://www.investing.com/news/transcripts/cigna-at-2026-ubs-global-healthcare-conference-growth-plan-in-focus-93CH-5016895",
-    "Cybersecurity|https://www.investing.com/news/transcripts/tarsus-at-guggenheim-conference-xdemvy-growth-pipeline-widen-93CH-5016910",
-    "Cybersecurity|https://www.investing.com/news/company-news/manpowergroup-declares-072-semiannual-dividend-93CH-5016898",
-    "Cybersecurity|https://www.investing.com/news/company-news/stubhub-names-michael-noonan-as-cfo-effective-january-4-93CH-5016897",
-    "Cybersecurity|https://www.investing.com/news/company-news/farmers-national-bank-names-new-operating-risk-officers-93CH-5016899",
-    "Cybersecurity|https://www.investing.com/news/company-news/kayne-anderson-energy-infrastructure-fund-secures-new-credit-line-93CH-5016901",
-    "Cybersecurity|https://www.investing.com/news/company-news/drw-energy-trading-closes-1-billion-credit-facility-93CH-5016904",
-    "Cybersecurity|https://www.investing.com/news/company-news/insteel-declares-003-regular-100-special-dividend-93CH-5016902",
-    "Cybersecurity|https://www.investing.com/news/company-news/air-industries-group-announces-1for5-reverse-stock-split-93CH-5016905",
     "Cybersecurity|https://www.investing.com/news/company-news/braemar-hotels-transitions-to-selfmanaged-reit-structure-93CH-5016906",
     "Cybersecurity|https://www.investing.com/news/company-news/core--main-posts-q3-sales-growth-cuts-ebitda-outlook-93CH-5016907",
     "Cybersecurity|https://www.investing.com/news/company-news/archrock-to-acquire-hivolt-energy-for-up-to-450-million-93CH-5016908",
@@ -5000,7 +4990,17 @@
     "Watchlist|https://www.investing.com/news/earnings/lakefront-bio-adr-earnings-beat-by-055-revenue-fell-short-of-estimates-5020219",
     "Watchlist|https://www.investing.com/news/earnings/bcp-investment-earnings-missed-by-004-revenue-fell-short-of-estimates-5020218",
     "Watchlist|https://www.investing.com/news/earnings/investcorp-credit-management-bdc-earnings-missed-by-017-revenue-fell-short-of-estimates-5020220",
-    "Watchlist|https://www.investing.com/news/company-news/samsung-fire-q3-2026-slides-167b-canopius-deal-drives-global-push-93CH-5020221"
+    "Watchlist|https://www.investing.com/news/company-news/samsung-fire-q3-2026-slides-167b-canopius-deal-drives-global-push-93CH-5020221",
+    "SG Banks|/companies-markets/energy-commodities/oil-down-more-us7-barrel-post-settlement-trade-trump-signals-restraint-iran",
+    "Watchlist|/companies-markets/energy-commodities/oil-down-more-us7-barrel-post-settlement-trade-trump-signals-restraint-iran",
+    "AI|64fcba6c-a98b-3234-b8f2-ea17f0e61410",
+    "Watchlist|64fcba6c-a98b-3234-b8f2-ea17f0e61410",
+    "AI|13eedc11-7edd-3542-8f0f-2218c1a239b9",
+    "Watchlist|13eedc11-7edd-3542-8f0f-2218c1a239b9",
+    "AI|4d1ce8ad-1d1a-38b8-859b-8d030f1bfc55",
+    "Watchlist|4d1ce8ad-1d1a-38b8-859b-8d030f1bfc55",
+    "SG Banks|/international/asean/indonesia-rupiah-drops-record-low-strong-dollar-msci-woes",
+    "Watchlist|/international/asean/indonesia-rupiah-drops-record-low-strong-dollar-msci-woes"
   ],
   "topic_error": "",
   "last_digest": "2026-11-12",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794451630.0691335,
+  "last_check": 1794452545.803771,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-11"
