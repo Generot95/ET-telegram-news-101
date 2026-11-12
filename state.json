@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/economy-news/coreweave-beats-quarterly-revenue-estimates-as-ai-demand-defies-growing-doubts-5016823",
-    "SG Banks|https://www.investing.com/news/transcripts/cullinan-therapeutics-at-stifel-2026-healthcare-conference-pipeline-gains-93CH-5017335",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-firefly-aerospace-q3-2026-loss-widens-as-stock-falls-93CH-5017336",
-    "SG Banks|https://www.investing.com/news/transcripts/paypal-at-kbw-fintech-ecosystem-conference-2026-focus-on-execution-93CH-5017337",
-    "SG Banks|https://www.investing.com/news/transcripts/ralliant-at-baird-2026-global-industrial-conference-focus-drives-growth-93CH-5017338",
-    "SG Banks|https://www.investing.com/news/transcripts/tonix-pharmaceuticals-at-guggenheim-conference-launch-gains-traction-93CH-5017339",
     "Watchlist|https://www.investing.com/news/insider-trading-news/ibex-chief-salesmarketing-officer-casteel-sells-592206-in-shares-93CH-5017329",
     "Watchlist|https://www.investing.com/news/transcripts/mineralys-at-guggenheim-healthcare-conference-launch-prep-in-focus-93CH-5017331",
     "Watchlist|https://www.investing.com/news/economy-news/ortegas-frail-return-to-public-revives-succession-debate-in-nicaragua-5017332",
@@ -5000,7 +4994,13 @@
     "Watchlist|WP-MKTW-0003509284",
     "Watchlist|WP-MKTW-0003805099",
     "Watchlist|WP-MKTW-0003805097",
-    "Watchlist|WP-MKTW-0003853114"
+    "Watchlist|WP-MKTW-0003853114",
+    "Crypto|c5cd7f9d-120c-385a-bd00-05d5f378a02e",
+    "Crypto|63ece22a-b8cd-3362-b615-cefdb4b5cf22",
+    "Watchlist|a1038b6d-0da3-3270-881c-6403407fe93c",
+    "Watchlist|8db9e85c-e4cb-30b3-b0c1-02cb21bb8aa6",
+    "AI|a1038b6d-0da3-3270-881c-6403407fe93c",
+    "AI|8db9e85c-e4cb-30b3-b0c1-02cb21bb8aa6"
   ],
   "topic_error": "",
   "last_digest": "2026-11-12",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794467212.2472334,
+  "last_check": 1794468128.6528313,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-11"
