@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/economy-news/asian-stocks-fragile-nvidia-plummets-as-board-to-decide-ceos-fate-5020170",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/miami-international-holdings-evp-sells-819188-in-stock-93CH-5020181",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/united-therapeutics-ceo-sells-476m-in-stock-after-option-exercise-93CH-5020182",
-    "Watchlist|https://www.investing.com/news/company-news/mirae-asset-q3-2026-slides-record-ytd-masked-by-investment-losses-93CH-5020183",
-    "SG Banks|/international/jensen-huang-said-have-had-relationship-nvidia-executive-who-reports-him",
-    "Watchlist|/international/jensen-huang-said-have-had-relationship-nvidia-executive-who-reports-him",
-    "SG Banks|https://www.channelnewsasia.com/business/japans-mimura-says-markets-shouldnt-forget-intervention-risks-yen-nears-160-6544366",
-    "AI|a64a1a10-8d90-3050-bb07-767cd97bb715",
-    "Watchlist|a64a1a10-8d90-3050-bb07-767cd97bb715",
-    "Watchlist|669db13e-8cfa-38af-ba79-1a82b7bac865",
-    "AI|5f8e7c8c-b4c9-30fe-bfac-c030321ae365",
-    "SG Banks|/companies-markets/capital-markets-currencies/european-shares-climb-banks-defence-stocks-lead-broad-based-rally",
     "AI|https://www.investing.com/news/economic-indicators/japan-ppi-inflation-surges-past-expectations-in-oct-5020186",
     "AI|https://www.investing.com/news/insider-trading-news/ciena-evp--chief-product-brodie-gage-sells-389832-in-common-stock-93CH-5020195",
     "Cybersecurity|https://www.investing.com/news/economic-indicators/japan-ppi-inflation-surges-past-expectations-in-oct-5020186",
@@ -5000,7 +4988,19 @@
     "AI|f07bd402-a0b9-305a-a0f7-674190007cd2",
     "Watchlist|62df29f6-00cf-3f1d-a070-491d2a62f4e2",
     "Watchlist|f07bd402-a0b9-305a-a0f7-674190007cd2",
-    "Watchlist|/companies-markets/energy-commodities/gold-falls-below-us4000-traders-assess-inflation-fed-remarks"
+    "Watchlist|/companies-markets/energy-commodities/gold-falls-below-us4000-traders-assess-inflation-fed-remarks",
+    "Cybersecurity|75bdb269-80b8-36ec-8f39-d022ad2c3c37",
+    "SG Banks|https://www.channelnewsasia.com/business/nscale-expects-14-fold-revenue-surge-in-amended-ipo-filing-6547716",
+    "AI|bec4b6b7-8727-3692-b95f-4278779e52b3",
+    "Watchlist|bec4b6b7-8727-3692-b95f-4278779e52b3",
+    "AI|cdc76f2c-1fc7-3a3d-a53c-2dd17e532e95",
+    "Watchlist|cdc76f2c-1fc7-3a3d-a53c-2dd17e532e95",
+    "SG Banks|/international/jensen-huang-said-have-had-relationship-nvidia-executive-who-reports-him",
+    "Watchlist|/international/jensen-huang-said-have-had-relationship-nvidia-executive-who-reports-him",
+    "Crypto|46e27a8f-ef79-378f-99b0-65dcdf51608a",
+    "SG Banks|/international/global/microsoft-says-its-working-fix-outlook-copilot-outage",
+    "Watchlist|/international/global/microsoft-says-its-working-fix-outlook-copilot-outage",
+    "SG Banks|https://www.straitstimes.com/business/binance-finishes-covering-us6-3-billion-of-stolen-customer-tokens"
   ],
   "topic_error": "",
   "last_digest": "2026-11-12",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794525637.9246638,
+  "last_check": 1794526546.7398574,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-12"
