@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|5fa78c4a-ab3a-3939-a5fe-d9b4aa5dd48d",
-    "Watchlist|8e0f5b64-196f-37fd-a191-81a57911f770",
-    "Watchlist|99c0d343-de95-347d-9716-417edd4ba2dd",
-    "Watchlist|5fa78c4a-ab3a-3939-a5fe-d9b4aa5dd48d",
-    "SG Banks|https://www.straitstimes.com/business/invest/why-there-is-money-in-making-faded-vintage-t-shirts",
-    "SG Banks|https://www.straitstimes.com/business/invest/trade-us-stocks-like-digital-tokens-soon",
-    "Iran|https://www.iranintl.com/en/202611110586",
-    "SG Banks|https://www.channelnewsasia.com/business/nvidia-pe-falls-14-year-low-ceo-exit-and-ai-worries-cloud-bargain-6547481",
-    "AI|d217631e-639b-3e03-b9f2-893f732491d9",
-    "AI|66fe6bb6-c64e-3912-96be-d0a8b5c5ed5d",
-    "War|94eb182e-600f-4f8f-8440-3ca082f2159c",
-    "Watchlist|d217631e-639b-3e03-b9f2-893f732491d9",
     "Watchlist|66fe6bb6-c64e-3912-96be-d0a8b5c5ed5d",
     "War|5bd0f5a2-6699-3bce-bb87-3b9942e79589",
     "AI|5bd0f5a2-6699-3bce-bb87-3b9942e79589",
@@ -5000,7 +4988,19 @@
     "Watchlist|https://www.investing.com/news/earnings/alithya-group-earnings-missed-by-017-revenue-fell-short-of-estimates-5026386",
     "Watchlist|https://www.investing.com/news/insider-trading-news/cnb-financial-president--ceo-michael-peduzzi-buys-17817-in-shares-93CH-5026389",
     "Watchlist|https://www.investing.com/news/sec-filings/sdr-drone-signs-dawson-james-as-placement-agent-for-proposed-private-offering-93CH-5026394",
-    "Watchlist|https://www.investing.com/news/stock-market-news/canadas-stelco-to-recall-175-laidoff-workers-restart-hamilton-plant-finishing-lines-5026395"
+    "Watchlist|https://www.investing.com/news/stock-market-news/canadas-stelco-to-recall-175-laidoff-workers-restart-hamilton-plant-finishing-lines-5026395",
+    "War|WP-MKTW-0005333258",
+    "AI|WP-MKTW-0005333258",
+    "Cybersecurity|WP-MKTW-0005333258",
+    "War|WP-MKTW-0005340191",
+    "AI|WP-MKTW-0005340191",
+    "Cybersecurity|WP-MKTW-0005340191",
+    "SG Banks|https://www.straitstimes.com/business/invest/trade-us-stocks-like-digital-tokens-soon",
+    "SG Banks|https://www.straitstimes.com/business/invest/why-there-is-money-in-making-faded-vintage-t-shirts",
+    "Iran|https://www.iranintl.com/en/202611110586",
+    "War|ee91620a-ac64-39a1-89bf-350a0097723a",
+    "Watchlist|8d5205ab-1c6b-3129-a5d3-c915be761e49",
+    "AI|8d5205ab-1c6b-3129-a5d3-c915be761e49"
   ],
   "topic_error": "",
   "last_digest": "2026-11-13",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794600017.2189245,
+  "last_check": 1794600939.9975324,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-13"
