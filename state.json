@@ -1,45 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|e2b87867-9c1c-3a38-8d5e-bc5b646becbe",
-    "Watchlist|efb62e65-7e22-37f1-be92-42706852245d",
-    "SG Banks|/companies-markets/us-dollar-steadies-fed-governor-calls-more-rate-hikes",
-    "SG Banks|/companies-markets/sats-q2-net-profit-rises-2-8-s81-1-million-higher-cargo-and-meal-volumes",
-    "SG Banks|https://www.straitstimes.com/business/cdl-flags-significantly-weaker-performance-for-h2-2026",
-    "SG Banks|https://www.channelnewsasia.com/business/imf-monitoring-ai-developments-too-early-say-if-ai-reassessment-underway-6547091",
-    "Watchlist|/companies-markets/us-dollar-steadies-fed-governor-calls-more-rate-hikes",
-    "Watchlist|/companies-markets/sats-q2-net-profit-rises-2-8-s81-1-million-higher-cargo-and-meal-volumes",
-    "AI|95015650-43db-38e5-85c3-a32e470b4651",
-    "AI|ca61586e-8a80-3496-9ee3-9f37515e2558",
-    "Watchlist|95015650-43db-38e5-85c3-a32e470b4651",
-    "Watchlist|ca61586e-8a80-3496-9ee3-9f37515e2558",
-    "Watchlist|bba30480-c019-31bf-93ca-7e4437f4aff2",
-    "AI|bba30480-c019-31bf-93ca-7e4437f4aff2",
-    "War|f3a8e650-a66d-4cdb-80a6-81630fe7cdf8",
-    "AI|8da4b275-a0e1-3f75-a3f3-f7a837468471",
-    "AI|073ba2c9-9737-36e5-ada3-b573d60eed3c",
-    "AI|9cfd1fa8-c110-41a8-81be-f8dc6f58d77b",
-    "Cybersecurity|8da4b275-a0e1-3f75-a3f3-f7a837468471",
-    "Watchlist|8da4b275-a0e1-3f75-a3f3-f7a837468471",
-    "Watchlist|073ba2c9-9737-36e5-ada3-b573d60eed3c",
-    "Watchlist|9cfd1fa8-c110-41a8-81be-f8dc6f58d77b",
-    "Watchlist|095eb27c-523c-3102-a72a-0166afab990e",
-    "AI|016f25e2-a5d3-3804-ad56-7c0c97c698d9",
-    "AI|095eb27c-523c-3102-a72a-0166afab990e",
-    "Watchlist|016f25e2-a5d3-3804-ad56-7c0c97c698d9",
-    "War|65cb9df7-1559-3964-aa77-bfcaff17430f",
-    "War|0c72e6d9-140d-3a74-957b-e30b1cb762a8",
-    "War|bc7db86e-cbb0-3375-abde-a5dcf4d3d109",
-    "AI|9a702492-895b-3f58-80ad-614539eabd98",
-    "AI|9362cfc9-659f-311a-b1ec-74c94d65e411",
-    "AI|118ce2cf-20ef-3dcf-bda6-7c0a93325b29",
-    "AI|8faa346a-479e-31a6-9ab4-d4e6c7f177de",
-    "AI|16759f49-47bb-3112-8670-2bd080a6d85c",
-    "AI|86bf834a-db42-3d19-95fc-c7b336518fdf",
-    "AI|686d288b-41ea-3b67-a3b7-1ade6e58286a",
-    "AI|92731f57-986d-3af9-b055-1a9cd3c11961",
-    "Watchlist|9362cfc9-659f-311a-b1ec-74c94d65e411",
-    "Watchlist|118ce2cf-20ef-3dcf-bda6-7c0a93325b29",
     "Watchlist|8faa346a-479e-31a6-9ab4-d4e6c7f177de",
     "Watchlist|16759f49-47bb-3112-8670-2bd080a6d85c",
     "Watchlist|86bf834a-db42-3d19-95fc-c7b336518fdf",
@@ -5000,78 +4961,117 @@
     "Crypto|0008907c-44ee-47cd-a702-c2c4961ac6d5",
     "Watchlist|1997d6c4-5168-4c5e-80e5-ad4342c55223",
     "Watchlist|eec104e1-9384-4314-b7e3-1b1848044bfc",
-    "Watchlist|0008907c-44ee-47cd-a702-c2c4961ac6d5"
+    "Watchlist|0008907c-44ee-47cd-a702-c2c4961ac6d5",
+    "War|a25bb5d1-1f18-3ad7-b84e-b97fa4136b9d",
+    "War|45ffb563-32ac-33aa-965b-46fb53da4a7a",
+    "War|WP-MKTW-0005344271",
+    "AI|91e81419-a0ee-3229-9c01-aaea11d13bb5",
+    "AI|c085d927-e6ab-35b8-9e3a-c7c62552f264",
+    "AI|WP-MKTW-0005344271",
+    "Cybersecurity|WP-MKTW-0005344271",
+    "AI|83b2ca7e-c188-3771-a7e5-193881c0937e",
+    "AI|2b309694-36af-3807-9420-96b7966bc661",
+    "AI|31dee5fb-0804-3ead-b0cf-6a24a65b8ed4",
+    "AI|7fcc2b7e-0d63-3d2c-8e81-ca154e1dcf51",
+    "Crypto|d9d8bc24-8e2d-3607-a193-2c89b0217c83",
+    "SG Banks|/companies-markets/sats-q2-net-profit-rises-2-8-s81-1-million-higher-cargo-and-meal-volumes",
+    "Watchlist|2b309694-36af-3807-9420-96b7966bc661",
+    "Watchlist|91e81419-a0ee-3229-9c01-aaea11d13bb5",
+    "Watchlist|c085d927-e6ab-35b8-9e3a-c7c62552f264",
+    "Watchlist|31dee5fb-0804-3ead-b0cf-6a24a65b8ed4",
+    "Watchlist|7fcc2b7e-0d63-3d2c-8e81-ca154e1dcf51",
+    "Watchlist|83b2ca7e-c188-3771-a7e5-193881c0937e",
+    "Watchlist|efb62e65-7e22-37f1-be92-42706852245d",
+    "Watchlist|/companies-markets/sats-q2-net-profit-rises-2-8-s81-1-million-higher-cargo-and-meal-volumes",
+    "AI|d6fa2b1c-352e-380c-91aa-6d1636a3df58",
+    "Watchlist|d6fa2b1c-352e-380c-91aa-6d1636a3df58",
+    "Watchlist|73f033ad-eea5-47c8-ab54-ec0ee5818732",
+    "Watchlist|b75016bc-a2bb-37e9-befe-0dcc23a9bd11",
+    "AI|99c0aaeb-17e4-31f2-85df-3cd1f66cc0e7",
+    "AI|d3e58a0e-7777-3638-a4c7-27905ad2c1d5",
+    "AI|ee242408-d790-4cdf-98dd-8db65b79bc31",
+    "Watchlist|99c0aaeb-17e4-31f2-85df-3cd1f66cc0e7",
+    "Watchlist|d3e58a0e-7777-3638-a4c7-27905ad2c1d5",
+    "Watchlist|ee242408-d790-4cdf-98dd-8db65b79bc31",
+    "War|164c27fa-d2d1-3635-aec6-53044557af76",
+    "War|1b5448d3-4b22-3e12-99c7-4b66ae878418",
+    "AI|9c2f9404-10b2-327f-9f7f-cd35e69dce65",
+    "Cybersecurity|97eadf76-8a41-3d7e-bbda-9a4b57e5836f",
+    "Watchlist|97eadf76-8a41-3d7e-bbda-9a4b57e5836f",
+    "Watchlist|9c2f9404-10b2-327f-9f7f-cd35e69dce65",
+    "AI|2cac241c-f78d-3638-8762-fdf6dce85f7d",
+    "Watchlist|2cac241c-f78d-3638-8762-fdf6dce85f7d"
   ],
   "topic_error": "",
   "last_digest": "2026-11-13",
   "earnings": {
     "AMD": {
       "ts": 1801602000,
-      "fetched": 1794496842.0334995
+      "fetched": 1794583253.2231345
     },
     "NVDA": {
       "ts": 1794949200,
-      "fetched": 1794496842.0334995
+      "fetched": 1794583253.2231345
     },
     "CRWD": {
       "ts": 1796158800,
-      "fetched": 1794496842.0334995
+      "fetched": 1794583253.2231345
     },
     "MSFT": {
       "ts": 1801083600,
-      "fetched": 1794496842.0334995
+      "fetched": 1794583253.2231345
     },
     "INTU": {
       "ts": 1795122000,
-      "fetched": 1794496842.0334995
+      "fetched": 1794583253.2231345
     },
     "BRK-B": {
       "ts": 1794258000,
-      "fetched": 1794496842.0334995
+      "fetched": 1794583253.2231345
     },
     "AMZN": {
       "ts": 1793304000,
-      "fetched": 1794496842.0334995
+      "fetched": 1794583253.2231345
     },
     "GOOG": {
       "ts": 1793217600,
-      "fetched": 1794496842.0334995
+      "fetched": 1794583253.2231345
     },
     "ZTS": {
       "ts": 1793885400,
-      "fetched": 1794496842.0334995
+      "fetched": 1794583253.2231345
     },
     "LIN": {
       "ts": 1793277000,
-      "fetched": 1794496842.0334995
+      "fetched": 1794583253.2231345
     },
     "VLO": {
       "ts": 1801143000,
-      "fetched": 1794496842.0334995
+      "fetched": 1794583253.2231345
     },
     "D05.SI": {
       "ts": 1793869200,
-      "fetched": 1794496842.0334995
+      "fetched": 1794583253.2231345
     },
     "O39.SI": {
       "ts": 1793955600,
-      "fetched": 1794496842.0334995
+      "fetched": 1794583253.2231345
     },
     "U11.SI": {
       "ts": 1793782800,
-      "fetched": 1794496842.0334995
+      "fetched": 1794583253.2231345
     },
     "A17U.SI": {
       "ts": null,
-      "fetched": 1794496842.0334995
+      "fetched": 1794583253.2231345
     },
     "HMN.SI": {
       "ts": null,
-      "fetched": 1794496842.0334995
+      "fetched": 1794583253.2231345
     },
     "JYEU.SI": {
       "ts": null,
-      "fetched": 1794496842.0334995
+      "fetched": 1794583253.2231345
     }
   },
   "earnings_notified": [
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794582524.6047611,
+  "last_check": 1794583433.009466,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-13"
