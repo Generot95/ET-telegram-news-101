@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|a289765e-931d-3c1c-8729-5e5dae5f43a2",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-salzgitters-9m-2026-results-show-stronger-cash-costs-93CH-5021036",
-    "AI|https://www.investing.com/news/company-news/stimcell-reports-positive-mitochondrial-function-study-results-93CH-5021037",
-    "AI|https://www.investing.com/news/company-news/hapaglloyd-q3-2026-slides-earnings-surge-on-freight-rate-strength-93CH-5021042",
-    "AI|https://www.investing.com/news/sec-filings/marinemax-shareholders-approve-merger-with-safe-harbor-marinas-affiliate-93CH-5021046",
-    "AI|https://www.investing.com/news/earnings/central-puerto-beats-q3-estimates-with-strong-fuel-margins-5021047",
     "AI|https://www.investing.com/news/stock-market-news/metro-bank-opens-sale-process-despite-no-buyer-approaches-5021048",
     "AI|https://www.investing.com/news/earnings/rockwell-medical-earnings-beat-by-011-revenue-topped-estimates-5021049",
     "AI|https://www.investing.com/news/company-news/nava-q2-fy27-slides-profit-doubles-on-strong-energy-performance-93CH-5021051",
@@ -5000,7 +4994,13 @@
     "Watchlist|https://www.investing.com/news/analyst-ratings/jefferies-upgrades-steris-stock-rating-on-valuation-easing-headwinds-93CH-5024412",
     "Watchlist|https://www.investing.com/news/analyst-ratings/morgan-stanley-resumes-fox-stock-coverage-citing-roku-deal-synergies-93CH-5024413",
     "Watchlist|https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-lower-as-iran-ukraine-uncertainty-weigh-5024404",
-    "SG Banks|https://www.channelnewsasia.com/business/japan-core-inflation-seen-above-boj-target-second-month-in-october-reuters-poll-6548931"
+    "SG Banks|https://www.channelnewsasia.com/business/japan-core-inflation-seen-above-boj-target-second-month-in-october-reuters-poll-6548931",
+    "Watchlist|2914daef-d398-3338-90bf-d8260bbf9573",
+    "Watchlist|b689dd38-fe30-3efb-b195-c716816e8665",
+    "Iran|https://www.iranintl.com/en/202611137770",
+    "SG Banks|/companies-markets/capital-markets-currencies/microsoft-outage-gums-markets-forces-traders-use-phones",
+    "Watchlist|/companies-markets/capital-markets-currencies/microsoft-outage-gums-markets-forces-traders-use-phones",
+    "AI|104d1543-99a5-3405-9cfe-78be41096b9a"
   ],
   "topic_error": "",
   "last_digest": "2026-11-13",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794558640.2606585,
+  "last_check": 1794559563.1700873,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-12"
