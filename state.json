@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/analyst-ratings/berenberg-reiterates-buy-on-swiss-life-stock-chf1125-target-93CH-5020506",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-general-oceans-q3-2026-profit-slips-as-defense-grows-93CH-5020507",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/berenberg-raises-rocket-lab-stock-price-target-on-launch-demand-93CH-5020508",
-    "SG Banks|https://www.investing.com/news/earnings/3i-group-firsthalf-return-halves-as-it-announces-a-new-750-million-buyback-5020510",
-    "Watchlist|https://www.investing.com/news/earnings/rollsroyce-accelerates-buyback-reaffirms-2026-guidance-5020497",
-    "Watchlist|https://www.investing.com/news/stock-market-news/volex-first-half-results-beat-forecasts-on-broad-growth-93CH-5020499",
-    "Watchlist|https://www.investing.com/news/stock-market-news/united-utilities-reports-revenue-rise-raises-capex-guidance-93CH-5020500",
-    "Watchlist|https://www.investing.com/news/company-news/united-utilities-h1-2027-slides-capex-jumps-75-asset-growth-hits-95-93CH-5020503",
     "Watchlist|https://www.investing.com/news/earnings/burberry-h1-adjusted-operating-profit-more-than-triples-to-62-million-5020505",
     "Watchlist|https://www.investing.com/news/analyst-ratings/berenberg-reiterates-buy-on-swiss-life-stock-chf1125-target-93CH-5020506",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-general-oceans-q3-2026-profit-slips-as-defense-grows-93CH-5020507",
@@ -5000,7 +4992,15 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/singapore-says-us-offered-limited-help-in-its-probe-of-ai-chip-deals-5024032",
     "Watchlist|https://www.investing.com/news/insider-trading-news/rush-street-interactive-ceo-richard-schwartz-sells-69003-in-shares-93CH-5024033",
     "Watchlist|https://www.investing.com/news/insider-trading-news/c3ai-ceo-thomas-siebel-sells-505-million-in-stock-93CH-5024034",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/larimar-therapeutics-chief-development-officer-buys-13549-in-stock-93CH-5024035"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/larimar-therapeutics-chief-development-officer-buys-13549-in-stock-93CH-5024035",
+    "AI|8fbef567-9c99-3fec-9269-7e7dd42033ca",
+    "Watchlist|8fbef567-9c99-3fec-9269-7e7dd42033ca",
+    "AI|2c53ae05-d6b0-36dc-84ef-4486d8ea6b0e",
+    "Watchlist|2c53ae05-d6b0-36dc-84ef-4486d8ea6b0e",
+    "SG Banks|https://www.channelnewsasia.com/world/australia-spy-agency-federal-police-microsoft-outage-6548446",
+    "AI|754961f5-ea56-3f9a-b030-5ccf7bbdee09",
+    "Watchlist|754961f5-ea56-3f9a-b030-5ccf7bbdee09",
+    "Watchlist|4cc58b4b-df64-3b50-b4c8-7a5c095af949"
   ],
   "topic_error": "",
   "last_digest": "2026-11-13",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794541220.0136793,
+  "last_check": 1794542152.834384,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-12"
