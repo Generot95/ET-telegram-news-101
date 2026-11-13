@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/analyst-ratings/keybanc-upgrades-maravai-lifesciences-stock-rating-on-cost-cuts-93CH-5020387",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/oppenheimer-downgrades-nvidia-stock-rating-on-ceo-departure-reports-93CH-5020390",
-    "Watchlist|https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-007-5020392",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/jpmorgan-initiates-agility-robotics-stock-at-neutral-on-execution-risk-93CH-5020402",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/jefferies-upgrades-pattern-group-stock-rating-on-growth-outlook-93CH-5020403",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/jpmorgan-downgrades-innoviz-stock-rating-on-auto-delays-93CH-5020404",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/morgan-stanley-cuts-teleperformance-stock-rating-on-automation-risks-93CH-5020405",
-    "Watchlist|https://www.investing.com/news/economy-news/exclusivechinese-ai-firms-rush-to-secure-nvidia-chip-capacity-as-spy-scandal-stirs-fear-of-us-curbs-5020406",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/rothmkm-downgrades-doubledown-stock-on-likely-tender-offer-93CH-5020410",
-    "Watchlist|https://www.investing.com/news/economy-news/morning-bid-jensen-hangs-on-as-nvidia-tumbles-5020411",
     "AI|465c315f-0075-3b87-a7e2-10cb28caa6b8",
     "Watchlist|465c315f-0075-3b87-a7e2-10cb28caa6b8",
     "AI|9d39f654-71bd-3131-989c-4f507ee60d34",
@@ -5000,7 +4990,17 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/enovis-director-angela-lalor-buys-50192-in-company-stock-93CH-5023884",
     "Watchlist|https://www.investing.com/news/insider-trading-news/vericel-cfo-joseph-mara-sells-146m-in-shares-93CH-5023885",
     "Watchlist|https://www.investing.com/news/insider-trading-news/procore-svp-william-fleming-sells-129-million-in-stock-93CH-5023894",
-    "Iran|https://www.iranintl.com/en/202611109169"
+    "Iran|https://www.iranintl.com/en/202611109169",
+    "SG Banks|/companies-markets/telcos-media-tech/alibaba-megaspeed-financing-link-traced-singapore-malaysia-units-amid-nvidia-chip-scrutiny",
+    "Watchlist|/companies-markets/telcos-media-tech/alibaba-megaspeed-financing-link-traced-singapore-malaysia-units-amid-nvidia-chip-scrutiny",
+    "AI|3738af65-f4ba-3190-b422-e75aafb937e3",
+    "Watchlist|3738af65-f4ba-3190-b422-e75aafb937e3",
+    "AI|1776fb1f-7472-3112-b00d-318e28c04ed4",
+    "Watchlist|1776fb1f-7472-3112-b00d-318e28c04ed4",
+    "War|5f2ab0e4-fb56-32b5-9776-a1a2d7bb5230",
+    "SG Banks|https://www.channelnewsasia.com/business/chinese-ai-satellite-maker-adaspace-slips-in-hong-kong-debut-6548141",
+    "War|53b6c46c-7f30-3619-8548-26656d63132a",
+    "SG Banks|https://www.straitstimes.com/business/genting-singapore-reports-lower-profits-as-high-rollers-play-less-resort-revamp-continues"
   ],
   "topic_error": "",
   "last_digest": "2026-11-13",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794533885.55202,
+  "last_check": 1794534824.1493409,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-12"
