@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/us-senate-banking-committee-chair-calls-on-jensen-huang-lutnick-to-testify-5023793",
-    "Watchlist|c7f275fa-89e5-3f9f-9d71-f53af3b899b9",
-    "Watchlist|https://www.investing.com/news/stock-market-news/trump-had-urged-jensen-huang-to-fight-for-his-job-new-york-times-reports-5023829",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-martinrea-posts-q3-2026-revenue-beat-shares-slip-93CH-5023830",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-rallying-today-93CH-5023832",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-modine-manufacturing-stock-surging-afterhours-today-93CH-5023833",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/innospec-director-leslie-j-parrette-buys-27493-in-iosp-shares-93CH-5023841",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/quest-diagnostics-svp-plewman-sells-301-million-in-stock-93CH-5023842",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/mediaalpha-director-eugene-nonko-sells-613564-in-stock-93CH-5023843",
     "Watchlist|https://www.investing.com/news/company-news/martinrea-q3-2026-slides-cash-flow-gains-amid-volume-pressure-93CH-5023845",
     "Watchlist|https://www.investing.com/news/stock-market-news/us-senate-banking-committee-chair-calls-on-jensen-huang-lutnick-to-testify-5023793",
     "SG Banks|/companies-markets/energy-commodities/oil-prices-ease-two-month-lows-us-downplays-further-iran-strikes",
@@ -5000,7 +4991,16 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/oruka-therapeutics-svp-sells-105m-in-shares-93CH-5026892",
     "Watchlist|https://www.investing.com/news/insider-trading-news/indie-semiconductor-director-aldrich-buys-299000-in-stock-93CH-5026893",
     "SG Banks|/international/global/ex-nvidia-ceo-misled-top-lawyer-affair-chinese-businesswoman-sources-say",
-    "Watchlist|/international/global/ex-nvidia-ceo-misled-top-lawyer-affair-chinese-businesswoman-sources-say"
+    "Watchlist|/international/global/ex-nvidia-ceo-misled-top-lawyer-affair-chinese-businesswoman-sources-say",
+    "AI|https://www.investing.com/news/insider-trading-news/mediaalpha-cto-kuanling-amy-yeh-sells-12000-shares-for-176235-93CH-5026908",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/mediaalpha-cto-kuanling-amy-yeh-sells-12000-shares-for-176235-93CH-5026908",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/mediaalpha-cto-kuanling-amy-yeh-sells-12000-shares-for-176235-93CH-5026908",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/mediaalpha-cto-kuanling-amy-yeh-sells-12000-shares-for-176235-93CH-5026908",
+    "War|878bb17c-a0d8-48f5-b7d2-a35c5cc03ac6",
+    "AI|e2923d42-f6be-3a5d-b303-048df11b24ba",
+    "Watchlist|e2923d42-f6be-3a5d-b303-048df11b24ba",
+    "AI|76fe313a-334a-3a71-bc2a-49906a0e7ad5",
+    "Watchlist|76fe313a-334a-3a71-bc2a-49906a0e7ad5"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794621358.6311097,
+  "last_check": 1794622268.2700632,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-13"
