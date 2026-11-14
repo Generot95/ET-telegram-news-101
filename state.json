@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/nlight-ceo-scott-keeney-sells-84m-in-stock-93CH-5024170",
-    "Cybersecurity|https://www.investing.com/news/economy-news/german-budget-committee-agrees-on-2027-budget-5024172",
-    "Cybersecurity|https://www.investing.com/news/economy-news/morning-bid-scandal-topples-the-ai-star-5024173",
-    "Cybersecurity|https://www.investing.com/news/earnings/smfg-raises-fullyear-profit-forecast-by-12-after-firsthalf-profit-surges-5024174",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/microsoft-says-still-attempting-to-fix-major-outage-hitting-teams-outlook-5024175",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/jindal-power-signs-470-mln-loan-for-botswana-power-project--report-93CH-5024176",
     "SG Banks|https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-071-5024165",
     "SG Banks|https://www.investing.com/news/insider-trading-news/nlight-ceo-scott-keeney-sells-84m-in-stock-93CH-5024170",
@@ -5000,7 +4995,12 @@
     "AI|95c5c675-cedd-3462-bf30-09df8dba2cbe",
     "AI|ec9d37fa-aec3-3ad3-9075-72e456b0e50c",
     "Watchlist|95c5c675-cedd-3462-bf30-09df8dba2cbe",
-    "Watchlist|ec9d37fa-aec3-3ad3-9075-72e456b0e50c"
+    "Watchlist|ec9d37fa-aec3-3ad3-9075-72e456b0e50c",
+    "AI|d48a0c21-32b5-3947-a0e4-e50ae84095bd",
+    "Watchlist|d48a0c21-32b5-3947-a0e4-e50ae84095bd",
+    "AI|2ea23cc3-a2d2-3bd6-b1c9-54bcd96b3312",
+    "Watchlist|2ea23cc3-a2d2-3bd6-b1c9-54bcd96b3312",
+    "Iran|https://www.iranintl.com/en/202611146434"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794659871.7831962,
+  "last_check": 1794660805.2587087,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
