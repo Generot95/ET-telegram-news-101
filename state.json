@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/jefferies-sees-107-upside-in-this-aifocused-semiconductor-stock-5023959",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/richard-campbell-south-plains-financial-director-sells-107m-in-stock-93CH-5023970",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/garrett-ferencz-trueblue-evp-sells-170010-in-company-stock-93CH-5023969",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/cryoport-director-daniel-hancock-sells-15m-of-stock-93CH-5023971",
-    "Watchlist|https://www.investing.com/news/company-news/keurig-dr-pepper-prices-2-billion-stock-offering-at-3450-93CH-5023957",
-    "Watchlist|https://www.investing.com/news/stock-market-news/250-striped-socks-keep-familymart-a-step-ahead-in-japans-conbini-wars-5023958",
-    "Watchlist|https://www.investing.com/news/stock-market-news/jefferies-sees-107-upside-in-this-aifocused-semiconductor-stock-5023959",
     "Watchlist|https://www.investing.com/news/insider-trading-news/richard-campbell-south-plains-financial-director-sells-107m-in-stock-93CH-5023970",
     "Watchlist|https://www.investing.com/news/insider-trading-news/garrett-ferencz-trueblue-evp-sells-170010-in-company-stock-93CH-5023969",
     "Watchlist|https://www.investing.com/news/insider-trading-news/cryoport-director-daniel-hancock-sells-15m-of-stock-93CH-5023971",
@@ -5000,7 +4993,14 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/mirum-pharmaceuticals-director-laura-brege-sells-133m-in-shares-93CH-5027091",
     "Crypto|https://www.investing.com/news/cryptocurrency-news/midchains-and-standard-chartered-establish-strategic-banking-partnership-5020443",
     "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-736k-strategy-drops-on-msci-index-removal-5020451",
-    "SG Banks|https://www.straitstimes.com/business/stocks-recover-from-nvidia-whiplash-dollar-climbs-with-us-yields"
+    "SG Banks|https://www.straitstimes.com/business/stocks-recover-from-nvidia-whiplash-dollar-climbs-with-us-yields",
+    "SG Banks|https://www.channelnewsasia.com/business/microsoft-says-consumer-products-services-recovered-still-monitoring-enterprise-services-6551386",
+    "SG Banks|/companies-markets/tiktok-shop-coming-shopees-e-commerce-crown",
+    "Watchlist|/companies-markets/tiktok-shop-coming-shopees-e-commerce-crown",
+    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-black-box-posts-record-q2-2027-revenue-as-data-center-demand-surges-93CH-5027096",
+    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-black-box-posts-record-q2-2027-revenue-as-data-center-demand-surges-93CH-5027096",
+    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-black-box-posts-record-q2-2027-revenue-as-data-center-demand-surges-93CH-5027096",
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-black-box-posts-record-q2-2027-revenue-as-data-center-demand-surges-93CH-5027096"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794635120.6743646,
+  "last_check": 1794636035.0094664,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-13"
