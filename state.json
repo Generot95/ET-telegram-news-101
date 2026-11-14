@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|7a84e243-fd3e-3765-9f23-cfe35dfd22fb",
-    "Crypto|dc67f82a-f944-360c-ad6d-d3092953646b",
-    "Watchlist|dc67f82a-f944-360c-ad6d-d3092953646b",
-    "Watchlist|a09b7c94-b644-3c21-bbb3-4d9953fd5c66",
-    "Watchlist|7a84e243-fd3e-3765-9f23-cfe35dfd22fb",
-    "AI|https://www.investing.com/news/insider-trading-news/ligand-pharmaceuticals-director-jason-aryeh-sells-960140-in-stock-93CH-5024247",
-    "AI|https://www.investing.com/news/insider-trading-news/xometry-cto-raghavan-vaidyanathan-sells-600000-in-shares-93CH-5024246",
-    "AI|https://www.investing.com/news/insider-trading-news/api-group-corp-director-james-lillie-sells-1486-million-in-shares-93CH-5024248",
     "AI|https://www.investing.com/news/insider-trading-news/schrodinger-evp-robert-abel-sells-802570-in-company-stock-93CH-5024249",
     "AI|https://www.investing.com/news/insider-trading-news/alarmcom-director-donald-clarke-sells-300282-in-stock-93CH-5024255",
     "AI|https://www.investing.com/news/insider-trading-news/grid-dynamics-director-eric-benhamou-sells-745581-in-shares-93CH-5024256",
@@ -5000,7 +4992,15 @@
     "Watchlist|/international/asean/malaysia-airlines-calls-level-playing-field-if-airasia-gets-aid",
     "War|WP-MKTW-0005349538",
     "AI|WP-MKTW-0005349538",
-    "Cybersecurity|WP-MKTW-0005349538"
+    "Cybersecurity|WP-MKTW-0005349538",
+    "Crypto|68dfe76e-63ba-3830-9c36-be61bd6f6c7f",
+    "AI|https://www.investing.com/news/stock-market-news/thousands-of-us-flights-canceled-delayed-as-air-travel-system-recovers-from-shutdown-5027394",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/thousands-of-us-flights-canceled-delayed-as-air-travel-system-recovers-from-shutdown-5027394",
+    "SG Banks|https://www.investing.com/news/stock-market-news/thousands-of-us-flights-canceled-delayed-as-air-travel-system-recovers-from-shutdown-5027394",
+    "Watchlist|https://www.investing.com/news/stock-market-news/thousands-of-us-flights-canceled-delayed-as-air-travel-system-recovers-from-shutdown-5027394",
+    "War|417008b9-0f85-343a-a7f6-de9588a84256",
+    "AI|7e107d7e-ba17-30af-8fb5-5a27d3a8d1e3",
+    "Watchlist|7e107d7e-ba17-30af-8fb5-5a27d3a8d1e3"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794672707.579912,
+  "last_check": 1794673627.5680609,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
