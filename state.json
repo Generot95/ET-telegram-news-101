@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/insider-trading-news/endeavor-blockchain-buys-68825-in-big-digital-energy-stock-93CH-5023952",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/hudson-pacific-properties-director-jon-bortz-acquires-680112-in-shares-93CH-5023938",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/hudson-pacific-ceo-victor-coleman-buys-182000-in-company-stock-93CH-5023939",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/trupanion-ceo-margaret-tooth-sells-72928-in-company-stock-93CH-5023940",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/new-world-development-weighs-32-bln-rights-issue-bloomberg-93CH-5023941",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/trumps-interactions-with-exnvidia-ceo-jensen-huang-in-the-spotlight-5023947",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/apple-svp-jennifer-newstead-sells-842912-in-stock-93CH-5023950",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/meta-platforms-coo-javier-olivan-sells-993872-in-stock-93CH-5023951",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/endeavor-blockchain-buys-68825-in-big-digital-energy-stock-93CH-5023952",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/hudson-pacific-properties-director-jon-bortz-acquires-680112-in-shares-93CH-5023938",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/hudson-pacific-ceo-victor-coleman-buys-182000-in-company-stock-93CH-5023939",
     "SG Banks|https://www.investing.com/news/insider-trading-news/trupanion-ceo-margaret-tooth-sells-72928-in-company-stock-93CH-5023940",
     "SG Banks|https://www.investing.com/news/stock-market-news/new-world-development-weighs-32-bln-rights-issue-bloomberg-93CH-5023941",
     "SG Banks|https://www.investing.com/news/stock-market-news/trumps-interactions-with-exnvidia-ceo-jensen-huang-in-the-spotlight-5023947",
@@ -5000,7 +4989,18 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/magnite-director-diane-yu-sells-583400-in-company-stock-93CH-5027062",
     "Crypto|36332a1a-72bd-313f-9032-dc410d381452",
     "Watchlist|/companies-markets/transport-logistics/special-dividend-sias-80th-anniversary-ceo-says-extra-payout-will-need-boards-nod",
-    "Watchlist|/companies-markets/capital-markets-currencies/asian-tech-stocks-rebound-after-nvidia-upheaval"
+    "Watchlist|/companies-markets/capital-markets-currencies/asian-tech-stocks-rebound-after-nvidia-upheaval",
+    "AI|e80e607b-2c40-3037-86ba-cb664e4dcb8f",
+    "Watchlist|e80e607b-2c40-3037-86ba-cb664e4dcb8f",
+    "War|7cd06085-bc4f-3351-99b0-85c81aeeca1d",
+    "AI|9d339a0a-c119-3a98-95e0-e9c95ba2b819",
+    "Crypto|33fa2dc0-8548-3069-920a-703f56ce75e9",
+    "Watchlist|9d339a0a-c119-3a98-95e0-e9c95ba2b819",
+    "War|2fe94577-11fb-3516-a1d5-48383e4f569f",
+    "AI|https://www.investing.com/news/stock-market-news/hourslong-halt-to-us-flights-leaves-travelers-frustrated-anxious-5027065",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/hourslong-halt-to-us-flights-leaves-travelers-frustrated-anxious-5027065",
+    "SG Banks|https://www.investing.com/news/stock-market-news/hourslong-halt-to-us-flights-leaves-travelers-frustrated-anxious-5027065",
+    "Watchlist|https://www.investing.com/news/stock-market-news/hourslong-halt-to-us-flights-leaves-travelers-frustrated-anxious-5027065"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794631445.6042104,
+  "last_check": 1794632357.332951,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-13"
