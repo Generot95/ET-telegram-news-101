@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|e4bcd14d-fca2-399b-92b2-cb4a7722eff9",
-    "AI|33c3a63f-0e21-3d5e-b3ea-36410608ed56",
-    "Watchlist|33c3a63f-0e21-3d5e-b3ea-36410608ed56",
-    "Watchlist|e4bcd14d-fca2-399b-92b2-cb4a7722eff9",
     "AI|9f23aee2-f96a-38e1-acc6-37fb82ea181b",
     "SG Banks|/companies-markets/banking-finance/feds-paulson-calls-gradual-rate-hikes-amid-ongoing-high-inflation",
     "SG Banks|/companies-markets/stocks-watch-yzj-shipbuilding-jmsea-kit-ums-cdlht-boustead-singapore",
@@ -5000,7 +4996,11 @@
     "Watchlist|962486c3-f050-3519-a604-5ec80d595ee6",
     "War|034a0b7f-76b8-33ea-bdee-44103cb93db7",
     "AI|f2e504e1-ffac-3bf9-a8e0-c175a607e08d",
-    "Watchlist|f2e504e1-ffac-3bf9-a8e0-c175a607e08d"
+    "Watchlist|f2e504e1-ffac-3bf9-a8e0-c175a607e08d",
+    "AI|cda1cdba-8b05-3d0a-9780-f2b533410af1",
+    "Watchlist|cda1cdba-8b05-3d0a-9780-f2b533410af1",
+    "AI|a8430587-8b09-405a-94fc-3a31281accb3",
+    "Watchlist|a8430587-8b09-405a-94fc-3a31281accb3"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,8 +5088,8 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794653460.4455378,
+  "last_check": 1794654359.9054427,
   "last_board": "2026-10-27",
   "commands_version": 9,
-  "last_report": "2026-11-13"
+  "last_report": "2026-11-14"
 }
