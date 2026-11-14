@@ -1,23 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|/companies-markets/samsung-talks-acquire-data-centre-cooling-firm-modine",
-    "War|2c8140e4-82f7-309c-82b7-7b1c8fe5de50",
-    "AI|c476d055-f0e3-33ed-a7bc-d97729fd4dd9",
-    "Watchlist|c476d055-f0e3-33ed-a7bc-d97729fd4dd9",
-    "SG Banks|https://www.channelnewsasia.com/business/smfg-raises-annual-earnings-forecast-flags-data-centre-slowdown-risk-6548706",
-    "AI|c9eb7d09-cb2b-39b6-98da-ab910c51b4c3",
-    "AI|https://www.investing.com/news/earnings/cellectis-adr-earnings-missed-by-042-revenue-fell-short-of-estimates-5024227",
-    "AI|https://www.investing.com/news/insider-trading-news/urenergy-vp-finance-jade-walle-acquires-109999-in-shares-93CH-5024233",
-    "AI|https://www.investing.com/news/insider-trading-news/boot-barn-cfo-james-watkins-buys-270740-in-company-stock-93CH-5024234",
-    "AI|https://www.investing.com/news/insider-trading-news/pinterest-director-benjamin-silbermann-sells-177-million-in-pins-stock-93CH-5024236",
-    "AI|https://www.investing.com/news/insider-trading-news/holley-cfo-jesse-weaver-buys-22770-in-company-shares-93CH-5024235",
-    "AI|https://www.investing.com/news/analyst-ratings/deutsche-bank-upgrades-installed-building-products-stock-rating-on-acquisition-93CH-5024242",
-    "AI|https://www.investing.com/news/earnings/ams-osram-sees-q4-revenue-below-forecasts-as-q3-profit-beats-estimates-5024243",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-power-mech-projects-posts-strong-q2-2026-growth-93CH-5024244",
-    "Cybersecurity|https://www.investing.com/news/earnings/cellectis-adr-earnings-missed-by-042-revenue-fell-short-of-estimates-5024227",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/urenergy-vp-finance-jade-walle-acquires-109999-in-shares-93CH-5024233",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/boot-barn-cfo-james-watkins-buys-270740-in-company-stock-93CH-5024234",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/pinterest-director-benjamin-silbermann-sells-177-million-in-pins-stock-93CH-5024236",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/holley-cfo-jesse-weaver-buys-22770-in-company-shares-93CH-5024235",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/deutsche-bank-upgrades-installed-building-products-stock-rating-on-acquisition-93CH-5024242",
@@ -5000,78 +4983,95 @@
     "SG Banks|/international/global/nvidia-prepares-oust-jensen-huang-after-news-second-affair-executive-reports",
     "Watchlist|/international/global/nvidia-prepares-oust-jensen-huang-after-news-second-affair-executive-reports",
     "Watchlist|ef105fe5-e544-3ab7-8569-87426f02cf00",
-    "SG Banks|/companies-markets/samsung-talks-acquire-data-centre-cooling-firm-modine"
+    "SG Banks|/companies-markets/samsung-talks-acquire-data-centre-cooling-firm-modine",
+    "AI|a0f3605b-6354-37a4-9273-f4f5d800505b",
+    "AI|https://www.investing.com/news/stock-market-news/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang-5027369",
+    "AI|https://www.investing.com/news/stock-market-news/italy-fines-meta-805-million-over-access-to-android-users-photos-5027370",
+    "AI|https://www.investing.com/news/insider-trading-news/chemed-corp-executive-vice-president-sells-547610-in-stock-93CH-5027371",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang-5027369",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/italy-fines-meta-805-million-over-access-to-android-users-photos-5027370",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/chemed-corp-executive-vice-president-sells-547610-in-stock-93CH-5027371",
+    "SG Banks|https://www.investing.com/news/stock-market-news/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang-5027369",
+    "SG Banks|https://www.investing.com/news/stock-market-news/italy-fines-meta-805-million-over-access-to-android-users-photos-5027370",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/chemed-corp-executive-vice-president-sells-547610-in-stock-93CH-5027371",
+    "Watchlist|a0f3605b-6354-37a4-9273-f4f5d800505b",
+    "Watchlist|https://www.investing.com/news/stock-market-news/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang-5027369",
+    "Watchlist|https://www.investing.com/news/stock-market-news/italy-fines-meta-805-million-over-access-to-android-users-photos-5027370",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/chemed-corp-executive-vice-president-sells-547610-in-stock-93CH-5027371",
+    "Watchlist|/companies-markets/samsung-talks-acquire-data-centre-cooling-firm-modine",
+    "AI|c4c662e0-45d4-3a47-bc39-2abc0ea505f5",
+    "Watchlist|c4c662e0-45d4-3a47-bc39-2abc0ea505f5"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
   "earnings": {
     "AMD": {
       "ts": 1801602000,
-      "fetched": 1794583253.2231345
+      "fetched": 1794669665.3424666
     },
     "NVDA": {
       "ts": 1794949200,
-      "fetched": 1794583253.2231345
+      "fetched": 1794669665.3424666
     },
     "CRWD": {
       "ts": 1796158800,
-      "fetched": 1794583253.2231345
+      "fetched": 1794669665.3424666
     },
     "MSFT": {
       "ts": 1801083600,
-      "fetched": 1794583253.2231345
+      "fetched": 1794669665.3424666
     },
     "INTU": {
       "ts": 1795122000,
-      "fetched": 1794583253.2231345
+      "fetched": 1794669665.3424666
     },
     "BRK-B": {
       "ts": 1794258000,
-      "fetched": 1794583253.2231345
+      "fetched": 1794669665.3424666
     },
     "AMZN": {
       "ts": 1793304000,
-      "fetched": 1794583253.2231345
+      "fetched": 1794669665.3424666
     },
     "GOOG": {
       "ts": 1793217600,
-      "fetched": 1794583253.2231345
+      "fetched": 1794669665.3424666
     },
     "ZTS": {
       "ts": 1793885400,
-      "fetched": 1794583253.2231345
+      "fetched": 1794669665.3424666
     },
     "LIN": {
       "ts": 1793277000,
-      "fetched": 1794583253.2231345
+      "fetched": 1794669665.3424666
     },
     "VLO": {
       "ts": 1801143000,
-      "fetched": 1794583253.2231345
+      "fetched": 1794669665.3424666
     },
     "D05.SI": {
       "ts": 1793869200,
-      "fetched": 1794583253.2231345
+      "fetched": 1794669665.3424666
     },
     "O39.SI": {
       "ts": 1793955600,
-      "fetched": 1794583253.2231345
+      "fetched": 1794669665.3424666
     },
     "U11.SI": {
       "ts": 1793782800,
-      "fetched": 1794583253.2231345
+      "fetched": 1794669665.3424666
     },
     "A17U.SI": {
       "ts": null,
-      "fetched": 1794583253.2231345
+      "fetched": 1794669665.3424666
     },
     "HMN.SI": {
       "ts": null,
-      "fetched": 1794583253.2231345
+      "fetched": 1794669665.3424666
     },
     "JYEU.SI": {
       "ts": null,
-      "fetched": 1794583253.2231345
+      "fetched": 1794669665.3424666
     }
   },
   "earnings_notified": [
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794669034.642414,
+  "last_check": 1794669968.2756906,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
