@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/indonesias-reluctant-vice-president-was-symbol-of-powerful-alliance-5024463",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-m-m-forgings-posts-strong-q2-2026-beat-shares-jump-93CH-5024464",
-    "Watchlist|https://www.investing.com/news/stock-market-news/exclusivehuang-exit-and-us-scrutiny-imperil-3-billion-in-chinese-ai-projects-reliant-on-nvidia-5024462",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/piper-sandler-cuts-hancock-whitney-stock-rating-on-acquisition-impact-93CH-5024465",
     "Watchlist|https://www.investing.com/news/stock-market-news/metsa-wood-starts-review-of-uk-operations-93CH-5024467",
     "Watchlist|https://www.investing.com/news/earnings/dfs-furniture-shares-tumble-on-softer-upholstery-demand-93CH-5024468",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-bechtle-raises-2026-outlook-after-record-q3-backlog-93CH-5024469",
@@ -5000,7 +4996,11 @@
     "AI|https://www.investing.com/news/insider-trading-news/riley-exploration-permian-cio-sells-143428-in-stock-93CH-5027535",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/riley-exploration-permian-cio-sells-143428-in-stock-93CH-5027535",
     "SG Banks|https://www.investing.com/news/insider-trading-news/riley-exploration-permian-cio-sells-143428-in-stock-93CH-5027535",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/riley-exploration-permian-cio-sells-143428-in-stock-93CH-5027535"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/riley-exploration-permian-cio-sells-143428-in-stock-93CH-5027535",
+    "Watchlist|6785eed1-5d44-30a4-9b59-d6d1ccafb938",
+    "AI|6785eed1-5d44-30a4-9b59-d6d1ccafb938",
+    "AI|42c6e460-df4b-3814-9feb-5417ae22c6e0",
+    "Watchlist|42c6e460-df4b-3814-9feb-5417ae22c6e0"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794694732.5350652,
+  "last_check": 1794695626.2928302,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
