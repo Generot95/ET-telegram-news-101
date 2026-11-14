@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/bechtle-q3-2026-slides-record-backlog-drives-outlook-upgrade-93CH-5024536",
-    "AI|https://www.investing.com/news/forex-news/euro-yields-hit-multiweek-highs-as-hawkish-fed-shatters-global-bond-rally-5024281",
-    "AI|https://www.investing.com/news/company-news/pierce-group-q3-2026-slides-revenue-grows-6-amid-transformation-costs-93CH-5024537",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-asmodee-q2-2026-sales-jump-37-as-margin-target-is-hit-93CH-5024538",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-juventus-football-club-stock-sliding-today-93CH-5024539",
-    "AI|https://www.investing.com/news/company-news/david-kustoff-sells-warner-bros-discovery-stock-93CH-5024547",
-    "AI|https://www.investing.com/news/company-news/b2prime-welcomes-malcolm-collins-as-head-of-market-development-5024548",
     "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-garo-shares-rise-after-q3-2026-profit-rebound-93CH-5024549",
     "AI|https://www.investing.com/news/economy-news/huang-ouster-fallout-cisco-applied-materials-outlooks--whats-moving-markets-5024550",
     "AI|https://www.investing.com/news/stock-market-news/clinical-laserthermia-shares-drop-4-on-ninemonth-revenue-decline-93CH-5024490",
@@ -5000,7 +4993,14 @@
     "Crypto|d2b6fdba-0a73-339c-87d1-fceb88bbd3be",
     "Watchlist|48bbaf17-9c25-39e8-9b29-6e092949a9e2",
     "SG Banks|/companies-markets/transport-logistics/cathay-pacific-orders-14-airbus-aircraft-expand-its-fleet",
-    "Watchlist|/companies-markets/transport-logistics/cathay-pacific-orders-14-airbus-aircraft-expand-its-fleet"
+    "Watchlist|/companies-markets/transport-logistics/cathay-pacific-orders-14-airbus-aircraft-expand-its-fleet",
+    "AI|6a579226-8a6c-32ae-ace3-ecf0f90027c1",
+    "Watchlist|6a579226-8a6c-32ae-ace3-ecf0f90027c1",
+    "War|https://www.investing.com/news/commodities-news/irans-navy-says-three-tankers-on-fire-after-hitting-mines-in-hormuz-5027556",
+    "AI|https://www.investing.com/news/commodities-news/irans-navy-says-three-tankers-on-fire-after-hitting-mines-in-hormuz-5027556",
+    "Cybersecurity|https://www.investing.com/news/commodities-news/irans-navy-says-three-tankers-on-fire-after-hitting-mines-in-hormuz-5027556",
+    "SG Banks|https://www.investing.com/news/commodities-news/irans-navy-says-three-tankers-on-fire-after-hitting-mines-in-hormuz-5027556",
+    "Watchlist|https://www.investing.com/news/commodities-news/irans-navy-says-three-tankers-on-fire-after-hitting-mines-in-hormuz-5027556"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794697479.8982065,
+  "last_check": 1794698398.555976,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
