@@ -1,7 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/insider-trading-news/trupanion-ceo-margaret-tooth-sells-72928-in-company-stock-93CH-5023940",
     "SG Banks|https://www.investing.com/news/stock-market-news/new-world-development-weighs-32-bln-rights-issue-bloomberg-93CH-5023941",
     "SG Banks|https://www.investing.com/news/stock-market-news/trumps-interactions-with-exnvidia-ceo-jensen-huang-in-the-spotlight-5023947",
     "SG Banks|https://www.investing.com/news/insider-trading-news/apple-svp-jennifer-newstead-sells-842912-in-stock-93CH-5023950",
@@ -5000,7 +4999,8 @@
     "AI|https://www.investing.com/news/stock-market-news/hourslong-halt-to-us-flights-leaves-travelers-frustrated-anxious-5027065",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/hourslong-halt-to-us-flights-leaves-travelers-frustrated-anxious-5027065",
     "SG Banks|https://www.investing.com/news/stock-market-news/hourslong-halt-to-us-flights-leaves-travelers-frustrated-anxious-5027065",
-    "Watchlist|https://www.investing.com/news/stock-market-news/hourslong-halt-to-us-flights-leaves-travelers-frustrated-anxious-5027065"
+    "Watchlist|https://www.investing.com/news/stock-market-news/hourslong-halt-to-us-flights-leaves-travelers-frustrated-anxious-5027065",
+    "Watchlist|c29d4ad2-7e81-38aa-9817-ad45ada5fc8c"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794632357.332951,
+  "last_check": 1794633265.270245,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-13"
