@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/new-world-development-weighs-32-bln-rights-issue-bloomberg-93CH-5023941",
-    "SG Banks|https://www.investing.com/news/stock-market-news/trumps-interactions-with-exnvidia-ceo-jensen-huang-in-the-spotlight-5023947",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/apple-svp-jennifer-newstead-sells-842912-in-stock-93CH-5023950",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/meta-platforms-coo-javier-olivan-sells-993872-in-stock-93CH-5023951",
     "SG Banks|https://www.investing.com/news/insider-trading-news/endeavor-blockchain-buys-68825-in-big-digital-energy-stock-93CH-5023952",
     "Watchlist|https://www.investing.com/news/insider-trading-news/hudson-pacific-properties-director-jon-bortz-acquires-680112-in-shares-93CH-5023938",
     "Watchlist|https://www.investing.com/news/insider-trading-news/hudson-pacific-ceo-victor-coleman-buys-182000-in-company-stock-93CH-5023939",
@@ -5000,7 +4996,11 @@
     "Cybersecurity|https://www.investing.com/news/stock-market-news/hourslong-halt-to-us-flights-leaves-travelers-frustrated-anxious-5027065",
     "SG Banks|https://www.investing.com/news/stock-market-news/hourslong-halt-to-us-flights-leaves-travelers-frustrated-anxious-5027065",
     "Watchlist|https://www.investing.com/news/stock-market-news/hourslong-halt-to-us-flights-leaves-travelers-frustrated-anxious-5027065",
-    "Watchlist|c29d4ad2-7e81-38aa-9817-ad45ada5fc8c"
+    "Watchlist|c29d4ad2-7e81-38aa-9817-ad45ada5fc8c",
+    "AI|https://www.investing.com/news/insider-trading-news/venture-global-senior-vp-fory-musser-sells-658m-in-stock-93CH-5027075",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/venture-global-senior-vp-fory-musser-sells-658m-in-stock-93CH-5027075",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/venture-global-senior-vp-fory-musser-sells-658m-in-stock-93CH-5027075",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/venture-global-senior-vp-fory-musser-sells-658m-in-stock-93CH-5027075"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794633265.270245,
+  "last_check": 1794634204.6759558,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-13"
