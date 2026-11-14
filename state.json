@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|b689dd38-fe30-3efb-b195-c716816e8665",
-    "Iran|https://www.iranintl.com/en/202611137770",
-    "SG Banks|/companies-markets/capital-markets-currencies/microsoft-outage-gums-markets-forces-traders-use-phones",
-    "Watchlist|/companies-markets/capital-markets-currencies/microsoft-outage-gums-markets-forces-traders-use-phones",
-    "AI|104d1543-99a5-3405-9cfe-78be41096b9a",
-    "AI|c69601bc-281b-33ce-8bc5-6885de9a39ab",
-    "Watchlist|104d1543-99a5-3405-9cfe-78be41096b9a",
-    "Watchlist|c69601bc-281b-33ce-8bc5-6885de9a39ab",
-    "AI|https://www.investing.com/news/stock-market-news/indonesias-reluctant-vice-president-was-symbol-of-powerful-alliance-5024463",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-m-m-forgings-posts-strong-q2-2026-beat-shares-jump-93CH-5024464",
-    "AI|https://www.investing.com/news/stock-market-news/exclusivehuang-exit-and-us-scrutiny-imperil-3-billion-in-chinese-ai-projects-reliant-on-nvidia-5024462",
     "AI|https://www.investing.com/news/analyst-ratings/piper-sandler-cuts-hancock-whitney-stock-rating-on-acquisition-impact-93CH-5024465",
     "AI|https://www.investing.com/news/stock-market-news/metsa-wood-starts-review-of-uk-operations-93CH-5024467",
     "AI|https://www.investing.com/news/earnings/dfs-furniture-shares-tumble-on-softer-upholstery-demand-93CH-5024468",
@@ -5000,7 +4989,18 @@
     "Watchlist|https://www.investing.com/news/cryptocurrency-news/eos-falls-13-in-rout-5027512",
     "Watchlist|https://www.investing.com/news/cryptocurrency-news/litecoin-falls-11-in-rout-5027513",
     "Watchlist|https://www.investing.com/news/analyst-ratings/gfl-environmental-stock-rated-outperform-by-william-blair-on-valuation-93CH-5027516",
-    "SG Banks|https://www.channelnewsasia.com/obsessions/richemont-cartier-van-cleef-arpels-luxury-downturn-6552176"
+    "SG Banks|https://www.channelnewsasia.com/obsessions/richemont-cartier-van-cleef-arpels-luxury-downturn-6552176",
+    "AI|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-5027517",
+    "AI|https://www.investing.com/news/insider-trading-news/humana-chief-legal-officer-joseph-ventura-sells-238m-in-shares-93CH-5027519",
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/xrp-falls-10-in-rout-5027520",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-5027517",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/humana-chief-legal-officer-joseph-ventura-sells-238m-in-shares-93CH-5027519",
+    "SG Banks|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-5027517",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/humana-chief-legal-officer-joseph-ventura-sells-238m-in-shares-93CH-5027519",
+    "Watchlist|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-5027517",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/humana-chief-legal-officer-joseph-ventura-sells-238m-in-shares-93CH-5027519",
+    "Iran|https://www.iranintl.com/en/202611137770",
+    "SG Banks|https://www.channelnewsasia.com/business/spacexs-starship-aces-first-return-texas-6552211"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794691963.320171,
+  "last_check": 1794692877.9975152,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
