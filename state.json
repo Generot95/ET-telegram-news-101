@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/metsa-wood-starts-review-of-uk-operations-93CH-5024467",
-    "Watchlist|https://www.investing.com/news/earnings/dfs-furniture-shares-tumble-on-softer-upholstery-demand-93CH-5024468",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-bechtle-raises-2026-outlook-after-record-q3-backlog-93CH-5024469",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-pierce-group-q3-2026-revenue-rises-6-as-shares-fall-93CH-5024470",
-    "AI|aa2498dd-ec1a-33b6-bd69-6a76752c6575",
-    "Cybersecurity|aa2498dd-ec1a-33b6-bd69-6a76752c6575",
-    "Watchlist|aa2498dd-ec1a-33b6-bd69-6a76752c6575",
     "AI|ed5249e5-eaea-3ec2-b26f-0bb9d35c1b6f",
     "Watchlist|ed5249e5-eaea-3ec2-b26f-0bb9d35c1b6f",
     "War|WP-MKTW-0005345454",
@@ -5000,7 +4993,14 @@
     "Watchlist|6785eed1-5d44-30a4-9b59-d6d1ccafb938",
     "AI|6785eed1-5d44-30a4-9b59-d6d1ccafb938",
     "AI|42c6e460-df4b-3814-9feb-5417ae22c6e0",
-    "Watchlist|42c6e460-df4b-3814-9feb-5417ae22c6e0"
+    "Watchlist|42c6e460-df4b-3814-9feb-5417ae22c6e0",
+    "SG Banks|https://www.channelnewsasia.com/world/spacexs-starship-aces-first-return-texas-6552211",
+    "AI|0644bce1-9509-34b3-a324-b83399dd96a7",
+    "AI|6cd30de6-add4-34cd-8696-553c94d0770e",
+    "SG Banks|https://www.channelnewsasia.com/world/spacex-starship-returns-landing-pad-orbit-acing-test-reusable-rockets-6552211",
+    "Watchlist|6cd30de6-add4-34cd-8696-553c94d0770e",
+    "AI|919d55a5-c986-3d25-ad0d-3b3896507d29",
+    "Watchlist|919d55a5-c986-3d25-ad0d-3b3896507d29"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794695626.2928302,
+  "last_check": 1794696564.1021886,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
