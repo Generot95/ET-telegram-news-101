@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/insider-trading-news/equipmentshare-director-w-bryan-hill-buys-554116-in-company-stock-93CH-5024195",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/blackrock-senior-managing-director-rachel-lord-sells-85-million-in-stock-93CH-5024196",
-    "SG Banks|https://www.investing.com/news/economy-news/andy-burnham-says-winwin-brexit-deal-possible-with-eu-93CH-5024197",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-automotive-axles-posts-record-q2-2027-revenue-shares-jump-93CH-5024198",
     "Watchlist|https://www.investing.com/news/insider-trading-news/sally-beauty-svp--president-sells-1-million-in-stock-93CH-5024184",
     "Watchlist|https://www.investing.com/news/insider-trading-news/snapon-ceo-pinchuk-sells-87m-in-company-stock-after-option-exercise-93CH-5024185",
     "Watchlist|https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-155-5024189",
@@ -5000,7 +4996,11 @@
     "AI|https://www.investing.com/news/stock-market-news/democrats-midterm-sweep-not-bad-at-all-for-spacex-analyst-says-5027337",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/democrats-midterm-sweep-not-bad-at-all-for-spacex-analyst-says-5027337",
     "SG Banks|https://www.investing.com/news/stock-market-news/democrats-midterm-sweep-not-bad-at-all-for-spacex-analyst-says-5027337",
-    "Watchlist|https://www.investing.com/news/stock-market-news/democrats-midterm-sweep-not-bad-at-all-for-spacex-analyst-says-5027337"
+    "Watchlist|https://www.investing.com/news/stock-market-news/democrats-midterm-sweep-not-bad-at-all-for-spacex-analyst-says-5027337",
+    "AI|9d2c3c0c-9912-362c-a2da-5014f4108340",
+    "Watchlist|9d2c3c0c-9912-362c-a2da-5014f4108340",
+    "AI|473aa1cc-a88b-3124-a1e3-18d68ac4047a",
+    "Watchlist|473aa1cc-a88b-3124-a1e3-18d68ac4047a"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794663550.042284,
+  "last_check": 1794664456.7901127,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
