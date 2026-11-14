@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/insider-trading-news/liberty-media-director-chase-carey-sells-621m-in-stock-93CH-5024047",
-    "AI|https://www.investing.com/news/insider-trading-news/alignment-healthcare-evp-sells-35496-in-stock-for-tax-obligations-93CH-5024048",
-    "AI|https://www.investing.com/news/insider-trading-news/ryan-specialty-holdings-ceo-rsum-sells-472m-in-stock-93CH-5024053",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-samsonite-stock-surging-today-93CH-5024039",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/larimar-therapeutics-cfo-celano-purchases-49991-in-stock-93CH-5024045",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/appfolio-principal-accounting-officer-sells-34558-in-shares-93CH-5024046",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/liberty-media-director-chase-carey-sells-621m-in-stock-93CH-5024047",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/alignment-healthcare-evp-sells-35496-in-stock-for-tax-obligations-93CH-5024048",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/ryan-specialty-holdings-ceo-rsum-sells-472m-in-stock-93CH-5024053",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-samsonite-stock-surging-today-93CH-5024039",
     "SG Banks|https://www.investing.com/news/insider-trading-news/larimar-therapeutics-cfo-celano-purchases-49991-in-stock-93CH-5024045",
     "SG Banks|https://www.investing.com/news/insider-trading-news/appfolio-principal-accounting-officer-sells-34558-in-shares-93CH-5024046",
     "SG Banks|https://www.investing.com/news/insider-trading-news/liberty-media-director-chase-carey-sells-621m-in-stock-93CH-5024047",
@@ -5000,7 +4990,17 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/talen-energy-svp-casulli-sells-126m-in-common-stock-93CH-5027196",
     "Watchlist|https://www.investing.com/news/insider-trading-news/texas-instruments-director-jean-hobby-sells-27m-in-stock-93CH-5027197",
     "AI|8da92f00-be86-32cb-b338-fbb927f9723d",
-    "Watchlist|8da92f00-be86-32cb-b338-fbb927f9723d"
+    "Watchlist|8da92f00-be86-32cb-b338-fbb927f9723d",
+    "Crypto|dc7a7a80-b952-3883-9ac9-30e367330e41",
+    "AI|https://www.investing.com/news/company-news/microsoft-consumer-services-recover-after-global-outage-enterprise-issues-persist-5027188",
+    "AI|https://www.investing.com/news/insider-trading-news/paylocity-director-steven-sarowitz-sells-72016-in-common-stock-93CH-5027202",
+    "Cybersecurity|https://www.investing.com/news/company-news/microsoft-consumer-services-recover-after-global-outage-enterprise-issues-persist-5027188",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/paylocity-director-steven-sarowitz-sells-72016-in-common-stock-93CH-5027202",
+    "SG Banks|https://www.investing.com/news/company-news/microsoft-consumer-services-recover-after-global-outage-enterprise-issues-persist-5027188",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/paylocity-director-steven-sarowitz-sells-72016-in-common-stock-93CH-5027202",
+    "Watchlist|https://www.investing.com/news/company-news/microsoft-consumer-services-recover-after-global-outage-enterprise-issues-persist-5027188",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/paylocity-director-steven-sarowitz-sells-72016-in-common-stock-93CH-5027202",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/singapore-based-billionaire-leo-koguan-vows-to-halt-nvidia-buys-after-jensen-huang-exit"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794642454.75527,
+  "last_check": 1794643368.2875087,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-13"
