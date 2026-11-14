@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|6f839aba-125a-3bba-87fd-ba1a24f62879",
-    "Watchlist|fad46bb7-ad62-3442-9528-d0b2d9e82f63",
-    "SG Banks|https://www.channelnewsasia.com/business/smfg-second-quarter-profit-falls-10-raises-annual-earnings-forecast-6548706",
-    "SG Banks|https://www.channelnewsasia.com/business/chinese-ai-server-maker-xfusion-clears-review-12-billion-shenzhen-ipo-6548701",
-    "Crypto|1c60aad6-8e60-334a-8654-7e710e3fc3dd",
-    "AI|69ae476d-0270-35c2-afe3-c56f835a82ae",
-    "Watchlist|69ae476d-0270-35c2-afe3-c56f835a82ae",
-    "SG Banks|/companies-markets/transport-logistics/malaysia-weighing-how-aid-airasia-without-risking-public-funds-ex-transport-minister",
-    "Watchlist|/companies-markets/transport-logistics/malaysia-weighing-how-aid-airasia-without-risking-public-funds-ex-transport-minister",
-    "AI|9d6ac1b4-6454-3d39-af43-53fc469fbb5f",
     "Watchlist|9d6ac1b4-6454-3d39-af43-53fc469fbb5f",
     "AI|https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-071-5024165",
     "AI|https://www.investing.com/news/insider-trading-news/nlight-ceo-scott-keeney-sells-84m-in-stock-93CH-5024170",
@@ -5000,7 +4990,17 @@
     "Crypto|cb79e9d1-1e24-3dc0-b193-d6fbcdc6ca89",
     "Watchlist|cb79e9d1-1e24-3dc0-b193-d6fbcdc6ca89",
     "Watchlist|c6979ecc-b1f0-3067-b4f1-6b0d25afbabd",
-    "Watchlist|c049f2a2-666f-3786-8f80-7144301349c8"
+    "Watchlist|c049f2a2-666f-3786-8f80-7144301349c8",
+    "AI|b2825e76-b5ed-3efe-804d-e5108e872832",
+    "Watchlist|b2825e76-b5ed-3efe-804d-e5108e872832",
+    "War|https://www.investing.com/news/commodities-news/goldman-sachs-just-slashed-its-2027-gold-forecast-here-are-the-new-numbers-5027310",
+    "AI|https://www.investing.com/news/commodities-news/goldman-sachs-just-slashed-its-2027-gold-forecast-here-are-the-new-numbers-5027310",
+    "Crypto|e76c9716-cda6-30e2-90c6-b8ddb2dd47dd",
+    "Cybersecurity|https://www.investing.com/news/commodities-news/goldman-sachs-just-slashed-its-2027-gold-forecast-here-are-the-new-numbers-5027310",
+    "SG Banks|https://www.investing.com/news/commodities-news/goldman-sachs-just-slashed-its-2027-gold-forecast-here-are-the-new-numbers-5027310",
+    "Watchlist|https://www.investing.com/news/commodities-news/goldman-sachs-just-slashed-its-2027-gold-forecast-here-are-the-new-numbers-5027310",
+    "SG Banks|/companies-markets/transport-logistics/malaysia-weighing-how-aid-airasia-without-risking-public-funds-ex-transport-minister",
+    "Watchlist|/companies-markets/transport-logistics/malaysia-weighing-how-aid-airasia-without-risking-public-funds-ex-transport-minister"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794658046.5904543,
+  "last_check": 1794658945.553029,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
