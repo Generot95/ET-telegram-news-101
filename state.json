@@ -1,7 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|2914daef-d398-3338-90bf-d8260bbf9573",
     "Watchlist|b689dd38-fe30-3efb-b195-c716816e8665",
     "Iran|https://www.iranintl.com/en/202611137770",
     "SG Banks|/companies-markets/capital-markets-currencies/microsoft-outage-gums-markets-forces-traders-use-phones",
@@ -5000,7 +4999,8 @@
     "Watchlist|0f6358af-74cb-3e7b-b9af-b676070a7b86",
     "Watchlist|https://www.investing.com/news/cryptocurrency-news/eos-falls-13-in-rout-5027512",
     "Watchlist|https://www.investing.com/news/cryptocurrency-news/litecoin-falls-11-in-rout-5027513",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/gfl-environmental-stock-rated-outperform-by-william-blair-on-valuation-93CH-5027516"
+    "Watchlist|https://www.investing.com/news/analyst-ratings/gfl-environmental-stock-rated-outperform-by-william-blair-on-valuation-93CH-5027516",
+    "SG Banks|https://www.channelnewsasia.com/obsessions/richemont-cartier-van-cleef-arpels-luxury-downturn-6552176"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794691063.7978733,
+  "last_check": 1794691963.320171,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
