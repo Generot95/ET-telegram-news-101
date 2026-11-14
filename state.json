@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-automotive-axles-posts-record-q2-2027-revenue-shares-jump-93CH-5024198",
-    "SG Banks|https://www.straitstimes.com/business/singapore-life-insurers-pay-out-more-than-15-billion-in-first-9-months-of-2026",
-    "War|e1f4a506-c5e9-3d8a-ab3f-599660672aa2",
-    "SG Banks|/companies-markets/tiktok-owner-bytedance-plans-us6-billion-buyback-us400-billion-valuation",
-    "Watchlist|/companies-markets/tiktok-owner-bytedance-plans-us6-billion-buyback-us400-billion-valuation",
-    "SG Banks|/companies-markets/telcos-media-tech/microsoft-presses-trump-scuttle-ban-chinese-data-centre-tech",
-    "Watchlist|/companies-markets/telcos-media-tech/microsoft-presses-trump-scuttle-ban-chinese-data-centre-tech",
-    "SG Banks|https://www.channelnewsasia.com/business/limited-us-role-in-japan-intervention-undermines-deterrent-yen-touches-160-6548181",
-    "SG Banks|https://www.channelnewsasia.com/obsessions/burberry-defies-luxury-downturn-trench-coats-and-scarves-power-revival-6548776",
-    "AI|https://www.investing.com/news/stock-market-news/china-ai-stocks-tumble-as-nvidia-fallout-fuels-fears-of-tighter-us-chip-curbs-5024205",
-    "AI|https://www.investing.com/news/earnings/anaptysbio-earnings-beat-by-075-revenue-topped-estimates-5024207",
     "AI|https://www.investing.com/news/insider-trading-news/pg-ceo-abd-el-hak-sells-379057-in-company-shares-93CH-5024218",
     "AI|https://www.investing.com/news/earnings/afya-earnings-beat-by-r011-revenue-fell-short-of-estimates-5024219",
     "AI|https://www.investing.com/news/analyst-ratings/canaccord-cuts-twist-bioscience-stock-price-target-on-lower-revenue-outlook-93CH-5024220",
@@ -5000,7 +4989,18 @@
     "AI|98fc4600-bb80-3e13-9dee-1a54262b7b75",
     "Watchlist|98fc4600-bb80-3e13-9dee-1a54262b7b75",
     "AI|0444904a-45d2-3f85-9f7f-d9dd414530a4",
-    "Watchlist|0444904a-45d2-3f85-9f7f-d9dd414530a4"
+    "Watchlist|0444904a-45d2-3f85-9f7f-d9dd414530a4",
+    "AI|f79f1e05-3bda-32f4-ae60-99947da3fd7c",
+    "Watchlist|f79f1e05-3bda-32f4-ae60-99947da3fd7c",
+    "AI|87cd2163-2e9b-3557-9965-4350b1bfd978",
+    "AI|https://www.investing.com/news/insider-trading-news/exlservice-holdings-evp-ajay-ayyappan-sells-224400-in-stock-93CH-5027353",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/exlservice-holdings-evp-ajay-ayyappan-sells-224400-in-stock-93CH-5027353",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/exlservice-holdings-evp-ajay-ayyappan-sells-224400-in-stock-93CH-5027353",
+    "Watchlist|87cd2163-2e9b-3557-9965-4350b1bfd978",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/exlservice-holdings-evp-ajay-ayyappan-sells-224400-in-stock-93CH-5027353",
+    "SG Banks|/companies-markets/tiktok-owner-bytedance-plans-us6-billion-buyback-us400-billion-valuation",
+    "Watchlist|/companies-markets/tiktok-owner-bytedance-plans-us6-billion-buyback-us400-billion-valuation",
+    "War|33d31d5c-5642-4214-be85-59ecb023f93c"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794665377.8496068,
+  "last_check": 1794666298.866109,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
