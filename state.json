@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/company-news/hyundai-insurance-q3-2026-slides-underwriting-gains-offset-by-losses-93CH-5024370",
-    "Watchlist|https://www.investing.com/news/economic-indicators/french-consumer-prices-rose-04-in-october-2026-93CH-5024371",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-precise-biometrics-posts-weak-q3-2026-amid-merger-costs-93CH-5024372",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/morgan-stanley-downgrades-netskope-stock-rating-on-valuation-concerns-93CH-5024375",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/ecolab-director-david-maclennan-buys-184875-in-company-stock-93CH-5024383",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/tutor-perini-director-reiss-sells-831012-in-company-stock-93CH-5024384",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/everpure-ceo-charles-giancarlo-sells-705m-in-stock-93CH-5024385",
     "Watchlist|https://www.investing.com/news/economic-indicators/german-wholesale-prices-climb-88-in-october-93CH-5024387",
     "Watchlist|https://www.investing.com/news/analyst-ratings/morgan-stanley-reiterates-overweight-on-cerebras-stock-amid-delays-93CH-5024388",
     "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-below-75k-as-regulatory-uncertainty-etf-outflows-persist-5014179",
@@ -5000,7 +4993,14 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/comstock-holding-director-david-hirsh-buys-23911-in-shares-93CH-5027483",
     "Crypto|a1f734c7-7e85-30f5-a79d-5977cff86e76",
     "AI|3fd1da29-6f20-3d24-ae34-e2fa25666619",
-    "Watchlist|3fd1da29-6f20-3d24-ae34-e2fa25666619"
+    "Watchlist|3fd1da29-6f20-3d24-ae34-e2fa25666619",
+    "Crypto|46c062e8-b84d-32af-9527-7aac6106146d",
+    "AI|a90a47c6-cce4-30df-b40b-03701c2266b0",
+    "Crypto|c90c0863-38cf-32f9-b73c-3fe5521468cf",
+    "AI|https://www.investing.com/news/stock-market-news/us-aviation-shutdown-blamed-on-l3-harris-installed-router-5027495",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/us-aviation-shutdown-blamed-on-l3-harris-installed-router-5027495",
+    "SG Banks|https://www.investing.com/news/stock-market-news/us-aviation-shutdown-blamed-on-l3-harris-installed-router-5027495",
+    "Watchlist|https://www.investing.com/news/stock-market-news/us-aviation-shutdown-blamed-on-l3-harris-installed-router-5027495"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794686469.8373072,
+  "last_check": 1794687397.1807775,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
