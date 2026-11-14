@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/carvana-president-taira-sells-423841-of-stock-93CH-5024130",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/illumina-director-keith-meister-sells-611m-in-shares-93CH-5024129",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/carvana-director-j-danforth-quayle-sells-over-2m-in-shares-93CH-5024131",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/evercommerce-director-simonson-sells-549854-in-common-stock-93CH-5024137",
-    "War|e4bcd14d-fca2-399b-92b2-cb4a7722eff9",
     "AI|e4bcd14d-fca2-399b-92b2-cb4a7722eff9",
     "AI|33c3a63f-0e21-3d5e-b3ea-36410608ed56",
     "Watchlist|33c3a63f-0e21-3d5e-b3ea-36410608ed56",
@@ -5000,7 +4995,12 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/live-nation-ceo-michael-rapino-sells-354m-in-stock-93CH-5027277",
     "Watchlist|https://www.investing.com/news/company-news/binance-aims-to-restore-all-withdrawals-next-week-after-63-billion-hack-5027266",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-patanjali-foods-posts-strong-q2-growth-as-shares-slip-23-93CH-5027273",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/live-nation-ceo-michael-rapino-sells-354m-in-stock-93CH-5027277"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/live-nation-ceo-michael-rapino-sells-354m-in-stock-93CH-5027277",
+    "AI|962486c3-f050-3519-a604-5ec80d595ee6",
+    "Watchlist|962486c3-f050-3519-a604-5ec80d595ee6",
+    "War|034a0b7f-76b8-33ea-bdee-44103cb93db7",
+    "AI|f2e504e1-ffac-3bf9-a8e0-c175a607e08d",
+    "Watchlist|f2e504e1-ffac-3bf9-a8e0-c175a607e08d"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794652539.1038628,
+  "last_check": 1794653460.4455378,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-13"
