@@ -1,7 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/forex-news/asia-fx-yen-intervention-in-focus-as-rate-hike-bets-put-dollar-near-19mth-high-5024024",
     "AI|https://www.investing.com/news/stock-market-news/singapore-says-us-offered-limited-help-in-its-probe-of-ai-chip-deals-5024032",
     "AI|https://www.investing.com/news/insider-trading-news/rush-street-interactive-ceo-richard-schwartz-sells-69003-in-shares-93CH-5024033",
     "AI|https://www.investing.com/news/insider-trading-news/c3ai-ceo-thomas-siebel-sells-505-million-in-stock-93CH-5024034",
@@ -5000,7 +4999,8 @@
     "SG Banks|99d1f039-a841-34a4-8249-f3c776661183",
     "Watchlist|WP-MKTW-0003853112",
     "Watchlist|WP-MKTW-0004179843",
-    "Watchlist|WP-MKTW-0004255367"
+    "Watchlist|WP-MKTW-0004255367",
+    "Iran|https://www.iranintl.com/en/202611121433"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794640629.7812376,
+  "last_check": 1794641530.7542698,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-13"
