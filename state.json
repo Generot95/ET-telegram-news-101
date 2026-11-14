@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/immunovant-director-atul-pande-sells-108000-in-stock-93CH-5024398",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/cytokinetics-director-b-lynne-parshall-sells-273634-in-shares-93CH-5024399",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/everpure-chief-visionary-officer-john-colgrove-sells-101m-in-stock-93CH-5024400",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/rpm-director-frederick-nance-sells-197125-in-company-stock-93CH-5024401",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/rothschild-downgrades-broadcom-stock-rating-on-ai-financing-concerns-93CH-5024402",
-    "Cybersecurity|https://www.investing.com/news/earnings/mufg-raises-annual-profit-target-announces-200-billion-yen-buyback-5024403",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/jefferies-upgrades-steris-stock-rating-on-valuation-easing-headwinds-93CH-5024412",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/morgan-stanley-resumes-fox-stock-coverage-citing-roku-deal-synergies-93CH-5024413",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-lower-as-iran-ukraine-uncertainty-weigh-5024404",
     "SG Banks|https://www.investing.com/news/stock-market-news/55-upside-these-3-undervalued-aipicked-stocks-just-delivered-standout-earnings-5024397",
     "SG Banks|https://www.investing.com/news/insider-trading-news/immunovant-director-atul-pande-sells-108000-in-stock-93CH-5024398",
     "SG Banks|https://www.investing.com/news/insider-trading-news/cytokinetics-director-b-lynne-parshall-sells-273634-in-shares-93CH-5024399",
@@ -5000,7 +4991,16 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/standard-motor-products-cco-dale-burks-sells-89162-in-smp-stock-93CH-5027505",
     "Crypto|cb1c71b9-3f36-31d3-9c18-f36805c26d68",
     "Watchlist|/companies-markets/mastercard-add-over-250-specialist-job-roles-singapore-end-2029",
-    "Watchlist|a2cdfd48-3a0b-361a-b02e-a64519e1553e"
+    "Watchlist|a2cdfd48-3a0b-361a-b02e-a64519e1553e",
+    "Iran|https://www.iranintl.com/en/202611142466",
+    "AI|https://www.investing.com/news/insider-trading-news/phio-pharmaceuticals-director-david-deming-buys-10066-in-stock-93CH-5027510",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/phio-pharmaceuticals-director-david-deming-buys-10066-in-stock-93CH-5027510",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/phio-pharmaceuticals-director-david-deming-buys-10066-in-stock-93CH-5027510",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/phio-pharmaceuticals-director-david-deming-buys-10066-in-stock-93CH-5027510",
+    "SG Banks|https://www.straitstimes.com/business/invest/is-his-money-mine-and-my-money-his-heres-how-my-husband-and-i-split-finances-without-tension",
+    "SG Banks|https://www.straitstimes.com/business/invest/from-tour-guide-to-hsbc-strategy-chief-how-a-dutch-student-found-his-future-in-asia",
+    "SG Banks|https://www.straitstimes.com/business/invest/costly-move-man-changed-his-name-and-now-cant-prove-he-is-entitled-to-huge-inheritance",
+    "War|https://www.investing.com/news/world-news/law-enforcement-searches-illinois-plant-after-credible-threat-of-explosive-device-5027509"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794689233.7654562,
+  "last_check": 1794690152.2606008,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
