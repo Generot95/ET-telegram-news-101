@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/insider-trading-news/pinterest-director-benjamin-silbermann-sells-177-million-in-pins-stock-93CH-5024236",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/holley-cfo-jesse-weaver-buys-22770-in-company-shares-93CH-5024235",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/deutsche-bank-upgrades-installed-building-products-stock-rating-on-acquisition-93CH-5024242",
-    "SG Banks|https://www.investing.com/news/earnings/ams-osram-sees-q4-revenue-below-forecasts-as-q3-profit-beats-estimates-5024243",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-power-mech-projects-posts-strong-q2-2026-growth-93CH-5024244",
-    "Watchlist|c9eb7d09-cb2b-39b6-98da-ab910c51b4c3",
-    "Watchlist|https://www.investing.com/news/earnings/cellectis-adr-earnings-missed-by-042-revenue-fell-short-of-estimates-5024227",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/urenergy-vp-finance-jade-walle-acquires-109999-in-shares-93CH-5024233",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/boot-barn-cfo-james-watkins-buys-270740-in-company-stock-93CH-5024234",
     "Watchlist|https://www.investing.com/news/insider-trading-news/pinterest-director-benjamin-silbermann-sells-177-million-in-pins-stock-93CH-5024236",
     "Watchlist|https://www.investing.com/news/insider-trading-news/holley-cfo-jesse-weaver-buys-22770-in-company-shares-93CH-5024235",
     "Watchlist|https://www.investing.com/news/analyst-ratings/deutsche-bank-upgrades-installed-building-products-stock-rating-on-acquisition-93CH-5024242",
@@ -5000,7 +4991,16 @@
     "War|e114f3fb-50e4-3ed7-9299-ebabb7e9eb50",
     "AI|61126d03-b21b-3033-bdb9-1560da42f59c",
     "Watchlist|8af27085-58a5-3790-a435-232b8bef5bb4",
-    "Watchlist|aec33984-26d0-3b57-bb07-58c935ca9ce8"
+    "Watchlist|aec33984-26d0-3b57-bb07-58c935ca9ce8",
+    "AI|cfb5e297-8a39-33f4-8122-e341308e402f",
+    "AI|ed3d7b38-2dcf-3d68-9cb7-0203476b9b6a",
+    "Watchlist|ed3d7b38-2dcf-3d68-9cb7-0203476b9b6a",
+    "AI|8b81f491-404e-3cc4-acc9-9fb0d76d5dce",
+    "Watchlist|8b81f491-404e-3cc4-acc9-9fb0d76d5dce",
+    "AI|https://www.investing.com/news/economy-news/feds-collins-says-gradual-rate-hikes-best-to-manage-economic-risks-5027385",
+    "Cybersecurity|https://www.investing.com/news/economy-news/feds-collins-says-gradual-rate-hikes-best-to-manage-economic-risks-5027385",
+    "SG Banks|https://www.investing.com/news/economy-news/feds-collins-says-gradual-rate-hikes-best-to-manage-economic-risks-5027385",
+    "Watchlist|https://www.investing.com/news/economy-news/feds-collins-says-gradual-rate-hikes-best-to-manage-economic-risks-5027385"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794670888.2504575,
+  "last_check": 1794671793.008606,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
