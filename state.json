@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|9d6ac1b4-6454-3d39-af43-53fc469fbb5f",
-    "AI|https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-071-5024165",
-    "AI|https://www.investing.com/news/insider-trading-news/nlight-ceo-scott-keeney-sells-84m-in-stock-93CH-5024170",
-    "AI|https://www.investing.com/news/economy-news/german-budget-committee-agrees-on-2027-budget-5024172",
-    "AI|https://www.investing.com/news/economy-news/morning-bid-scandal-topples-the-ai-star-5024173",
-    "AI|https://www.investing.com/news/earnings/smfg-raises-fullyear-profit-forecast-by-12-after-firsthalf-profit-surges-5024174",
-    "AI|https://www.investing.com/news/stock-market-news/microsoft-says-still-attempting-to-fix-major-outage-hitting-teams-outlook-5024175",
-    "AI|https://www.investing.com/news/stock-market-news/jindal-power-signs-470-mln-loan-for-botswana-power-project--report-93CH-5024176",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-071-5024165",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/nlight-ceo-scott-keeney-sells-84m-in-stock-93CH-5024170",
     "Cybersecurity|https://www.investing.com/news/economy-news/german-budget-committee-agrees-on-2027-budget-5024172",
     "Cybersecurity|https://www.investing.com/news/economy-news/morning-bid-scandal-topples-the-ai-star-5024173",
@@ -5000,7 +4991,16 @@
     "SG Banks|https://www.investing.com/news/commodities-news/goldman-sachs-just-slashed-its-2027-gold-forecast-here-are-the-new-numbers-5027310",
     "Watchlist|https://www.investing.com/news/commodities-news/goldman-sachs-just-slashed-its-2027-gold-forecast-here-are-the-new-numbers-5027310",
     "SG Banks|/companies-markets/transport-logistics/malaysia-weighing-how-aid-airasia-without-risking-public-funds-ex-transport-minister",
-    "Watchlist|/companies-markets/transport-logistics/malaysia-weighing-how-aid-airasia-without-risking-public-funds-ex-transport-minister"
+    "Watchlist|/companies-markets/transport-logistics/malaysia-weighing-how-aid-airasia-without-risking-public-funds-ex-transport-minister",
+    "War|9b00b018-6232-3c82-b63a-42c8e3b72bc3",
+    "AI|9b00b018-6232-3c82-b63a-42c8e3b72bc3",
+    "Watchlist|9b00b018-6232-3c82-b63a-42c8e3b72bc3",
+    "War|1ddf69d1-05be-3d9f-b1ec-c76fdd38f8b0",
+    "War|9914e546-3ae0-3188-9d9b-53ed00ae92b0",
+    "AI|95c5c675-cedd-3462-bf30-09df8dba2cbe",
+    "AI|ec9d37fa-aec3-3ad3-9075-72e456b0e50c",
+    "Watchlist|95c5c675-cedd-3462-bf30-09df8dba2cbe",
+    "Watchlist|ec9d37fa-aec3-3ad3-9075-72e456b0e50c"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794658945.553029,
+  "last_check": 1794659871.7831962,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
