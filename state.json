@@ -1,7 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|7d02cca7-d4b8-3aea-8aff-54e67e215109",
     "SG Banks|/companies-markets/us-firm-advent-makes-second-attempt-sell-singapore-tutor-chain-learning-lab-sources",
     "Watchlist|7d02cca7-d4b8-3aea-8aff-54e67e215109",
     "Watchlist|/companies-markets/us-firm-advent-makes-second-attempt-sell-singapore-tutor-chain-learning-lab-sources",
@@ -5000,7 +4999,8 @@
     "Iran|https://www.iranintl.com/en/202611104351",
     "SG Banks|0a35f149-0be6-3553-8404-630681b24684",
     "SG Banks|/international/global/chinese-ai-firms-rush-secure-nvidia-chip-capacity-spy-scandal-stirs-fear-us-curbs",
-    "Watchlist|/international/global/chinese-ai-firms-rush-secure-nvidia-chip-capacity-spy-scandal-stirs-fear-us-curbs"
+    "Watchlist|/international/global/chinese-ai-firms-rush-secure-nvidia-chip-capacity-spy-scandal-stirs-fear-us-curbs",
+    "War|c9099ad6-97da-35f7-8dc7-ed7aab52b2f3"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794644288.613638,
+  "last_check": 1794645185.2888966,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-13"
