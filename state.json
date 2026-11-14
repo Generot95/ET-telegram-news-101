@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/insider-trading-news/costco-executive-vice-president-teresa-jones-sells-975557-in-shares-93CH-5024149",
-    "AI|https://www.investing.com/news/insider-trading-news/disc-medicine-cmo-william-savage-sells-136m-in-stock-93CH-5024150",
-    "AI|https://www.investing.com/news/stock-market-news/vvardis-prices-ipo-at-18-per-share-on-nyse-under-ticker-vvvv-432SI-5024151",
-    "Cybersecurity|https://www.investing.com/news/economy-news/exclusivejapan-warns-arms-suppliers-of-deep-cuts-to-expected-orders-due-to-budget-squeeze-sources-say-5024139",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/south-korea-says-google-has-removed-korean-coordinates-from-maps-under-export-permit-5024140",
     "Cybersecurity|https://www.investing.com/news/commodities-news/irans-guards-say-they-targeted-a-us-earlywarning-radar-in-bahrain-5024146",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/costco-executive-vice-president-teresa-jones-sells-975557-in-shares-93CH-5024149",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/disc-medicine-cmo-william-savage-sells-136m-in-stock-93CH-5024150",
@@ -5000,7 +4995,12 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/cvs-says-glp1s-save-money-when-priced-below-350-per-month-5027293",
     "Watchlist|https://www.investing.com/news/investment-ideas/investingpros-fair-value-call-on-five-star-bancorp-delivers-68-return-93CH-5027296",
     "SG Banks|/companies-markets/energy-commodities/singapore-opens-applications-lng-floating-storage-unit-licences-strengthen-supply-resilience",
-    "Watchlist|/companies-markets/energy-commodities/singapore-opens-applications-lng-floating-storage-unit-licences-strengthen-supply-resilience"
+    "Watchlist|/companies-markets/energy-commodities/singapore-opens-applications-lng-floating-storage-unit-licences-strengthen-supply-resilience",
+    "AI|5af28b83-d20b-3837-87fa-b330b9a54755",
+    "Watchlist|5af28b83-d20b-3837-87fa-b330b9a54755",
+    "AI|476d8905-21ab-3ae1-9b8b-1058682fb2ca",
+    "Crypto|476d8905-21ab-3ae1-9b8b-1058682fb2ca",
+    "Watchlist|476d8905-21ab-3ae1-9b8b-1058682fb2ca"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794655282.3966856,
+  "last_check": 1794656195.5663433,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
