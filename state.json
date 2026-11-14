@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/jindal-power-signs-470-mln-loan-for-botswana-power-project--report-93CH-5024176",
-    "SG Banks|https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-071-5024165",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/nlight-ceo-scott-keeney-sells-84m-in-stock-93CH-5024170",
-    "SG Banks|https://www.investing.com/news/economy-news/german-budget-committee-agrees-on-2027-budget-5024172",
-    "SG Banks|https://www.investing.com/news/economy-news/morning-bid-scandal-topples-the-ai-star-5024173",
-    "SG Banks|https://www.investing.com/news/earnings/smfg-raises-fullyear-profit-forecast-by-12-after-firsthalf-profit-surges-5024174",
-    "SG Banks|https://www.investing.com/news/stock-market-news/microsoft-says-still-attempting-to-fix-major-outage-hitting-teams-outlook-5024175",
-    "SG Banks|https://www.investing.com/news/stock-market-news/jindal-power-signs-470-mln-loan-for-botswana-power-project--report-93CH-5024176",
-    "Watchlist|https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-071-5024165",
     "Watchlist|https://www.investing.com/news/insider-trading-news/nlight-ceo-scott-keeney-sells-84m-in-stock-93CH-5024170",
     "Watchlist|https://www.investing.com/news/economy-news/german-budget-committee-agrees-on-2027-budget-5024172",
     "Watchlist|https://www.investing.com/news/economy-news/morning-bid-scandal-topples-the-ai-star-5024173",
@@ -5000,7 +4991,16 @@
     "Watchlist|d48a0c21-32b5-3947-a0e4-e50ae84095bd",
     "AI|2ea23cc3-a2d2-3bd6-b1c9-54bcd96b3312",
     "Watchlist|2ea23cc3-a2d2-3bd6-b1c9-54bcd96b3312",
-    "Iran|https://www.iranintl.com/en/202611146434"
+    "Iran|https://www.iranintl.com/en/202611146434",
+    "AI|https://www.investing.com/news/insider-trading-news/ohio-valley-banc-director-michael-isaac-buys-2999-in-shares-93CH-5027321",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/ohio-valley-banc-director-michael-isaac-buys-2999-in-shares-93CH-5027321",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/ohio-valley-banc-director-michael-isaac-buys-2999-in-shares-93CH-5027321",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/ohio-valley-banc-director-michael-isaac-buys-2999-in-shares-93CH-5027321",
+    "AI|f54d5c89-9933-360a-a0ec-071ec33acfb6",
+    "War|WP-MKTW-0005347272",
+    "AI|WP-MKTW-0005347272",
+    "Cybersecurity|WP-MKTW-0005347272",
+    "Crypto|d4220192-ee0f-3975-9d63-94bdf7b8d395"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794660805.2587087,
+  "last_check": 1794661707.096891,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
