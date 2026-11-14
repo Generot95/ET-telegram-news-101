@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-pierce-group-q3-2026-revenue-rises-6-as-shares-fall-93CH-5024470",
-    "SG Banks|https://www.investing.com/news/stock-market-news/indonesias-reluctant-vice-president-was-symbol-of-powerful-alliance-5024463",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-m-m-forgings-posts-strong-q2-2026-beat-shares-jump-93CH-5024464",
-    "SG Banks|https://www.investing.com/news/stock-market-news/exclusivehuang-exit-and-us-scrutiny-imperil-3-billion-in-chinese-ai-projects-reliant-on-nvidia-5024462",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/piper-sandler-cuts-hancock-whitney-stock-rating-on-acquisition-impact-93CH-5024465",
-    "SG Banks|https://www.investing.com/news/stock-market-news/metsa-wood-starts-review-of-uk-operations-93CH-5024467",
-    "SG Banks|https://www.investing.com/news/earnings/dfs-furniture-shares-tumble-on-softer-upholstery-demand-93CH-5024468",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-bechtle-raises-2026-outlook-after-record-q3-backlog-93CH-5024469",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-pierce-group-q3-2026-revenue-rises-6-as-shares-fall-93CH-5024470",
     "Watchlist|https://www.investing.com/news/stock-market-news/indonesias-reluctant-vice-president-was-symbol-of-powerful-alliance-5024463",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-m-m-forgings-posts-strong-q2-2026-beat-shares-jump-93CH-5024464",
     "Watchlist|https://www.investing.com/news/stock-market-news/exclusivehuang-exit-and-us-scrutiny-imperil-3-billion-in-chinese-ai-projects-reliant-on-nvidia-5024462",
@@ -5000,7 +4991,16 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/investors-title-co-director-elton-parker-jr-buys-133000-in-shares-93CH-5027527",
     "Watchlist|https://www.investing.com/news/insider-trading-news/beta-technologies-ceo-kyle-clark-sells-563525-in-stock-93CH-5027528",
     "AI|ba65db48-28c1-32ee-9e58-e3ef1fc208cc",
-    "Watchlist|ba65db48-28c1-32ee-9e58-e3ef1fc208cc"
+    "Watchlist|ba65db48-28c1-32ee-9e58-e3ef1fc208cc",
+    "AI|1d98a4bd-2590-3a90-88ff-8a6968abf43c",
+    "AI|57d2de5c-5575-3091-a7b7-bc29cd1091b1",
+    "Crypto|5d052488-e909-3173-ad98-5501cabea0ef",
+    "Watchlist|1d98a4bd-2590-3a90-88ff-8a6968abf43c",
+    "Watchlist|57d2de5c-5575-3091-a7b7-bc29cd1091b1",
+    "AI|https://www.investing.com/news/insider-trading-news/riley-exploration-permian-cio-sells-143428-in-stock-93CH-5027535",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/riley-exploration-permian-cio-sells-143428-in-stock-93CH-5027535",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/riley-exploration-permian-cio-sells-143428-in-stock-93CH-5027535",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/riley-exploration-permian-cio-sells-143428-in-stock-93CH-5027535"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794693795.095262,
+  "last_check": 1794694732.5350652,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
