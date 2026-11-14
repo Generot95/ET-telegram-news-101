@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/ligand-pharmaceuticals-director-jason-aryeh-sells-960140-in-stock-93CH-5024247",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/xometry-cto-raghavan-vaidyanathan-sells-600000-in-shares-93CH-5024246",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/api-group-corp-director-james-lillie-sells-1486-million-in-shares-93CH-5024248",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/schrodinger-evp-robert-abel-sells-802570-in-company-stock-93CH-5024249",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/alarmcom-director-donald-clarke-sells-300282-in-stock-93CH-5024255",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/grid-dynamics-director-eric-benhamou-sells-745581-in-shares-93CH-5024256",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-oil-india-posts-record-halfyear-profit-in-q2-2026-93CH-5024257",
-    "Iran|https://www.iranintl.com/en/202611107816",
-    "SG Banks|/companies-markets/genting-singapore-q3-net-profit-falls-42-2-s54-7-million-softer-premium-gaming",
-    "Watchlist|/companies-markets/genting-singapore-q3-net-profit-falls-42-2-s54-7-million-softer-premium-gaming",
-    "AI|cb9457e2-6619-399f-95f7-f19a95ed9291",
     "Crypto|cb9457e2-6619-399f-95f7-f19a95ed9291",
     "Watchlist|cb9457e2-6619-399f-95f7-f19a95ed9291",
     "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-td-power-systems-posts-strong-h1-2027-growth-93CH-5024267",
@@ -5000,7 +4989,18 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/neostellar-capital-director-mazur-buys-30500-in-shares-93CH-5027409",
     "AI|9ac378bd-7b06-38ca-a514-d987cf976b8f",
     "Watchlist|9ac378bd-7b06-38ca-a514-d987cf976b8f",
-    "War|2afc753a-7204-30a3-a28b-baa369403762"
+    "War|2afc753a-7204-30a3-a28b-baa369403762",
+    "AI|15ec7480-3197-3b39-97ea-5e3171579573",
+    "Watchlist|15ec7480-3197-3b39-97ea-5e3171579573",
+    "AI|ce5eaf89-d619-3991-9b61-60b79ce3a006",
+    "Watchlist|ce5eaf89-d619-3991-9b61-60b79ce3a006",
+    "AI|e49d5336-977f-34d3-a1ca-5346ce8159cc",
+    "Watchlist|e49d5336-977f-34d3-a1ca-5346ce8159cc",
+    "Iran|https://www.iranintl.com/en/202611143750",
+    "AI|916ecf10-2d2d-3cd9-981c-953991a1bc80",
+    "Watchlist|916ecf10-2d2d-3cd9-981c-953991a1bc80",
+    "Iran|https://www.iranintl.com/en/202611107816",
+    "SG Banks|/companies-markets/genting-singapore-q3-net-profit-falls-42-2-s54-7-million-softer-premium-gaming"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794674559.0541823,
+  "last_check": 1794675464.4753647,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
