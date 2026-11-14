@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Crypto|cb9457e2-6619-399f-95f7-f19a95ed9291",
-    "Watchlist|cb9457e2-6619-399f-95f7-f19a95ed9291",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-td-power-systems-posts-strong-h1-2027-growth-93CH-5024267",
-    "AI|https://www.investing.com/news/stock-market-news/nvidia-ceo-jensen-huang-resigns-is-the-stock-now-a-50-bargain-5021520",
-    "AI|https://www.investing.com/news/insider-trading-news/fmc-director-luc-tack-buys-14078-in-common-stock-93CH-5024270",
-    "AI|https://www.investing.com/news/insider-trading-news/global-industrial-svp--chief-information-officer-shetty-sells-92600-in-shares-93CH-5024271",
-    "AI|https://www.investing.com/news/company-news/power-mech-q2-fy27-slides-30-revenue-growth-margin-recovery-93CH-5024272",
     "AI|https://www.investing.com/news/company-news/david-kustoff-sells-warner-bros-discovery-stock-93CH-5024273",
     "AI|https://www.investing.com/news/company-news/yamaha-to-acquire-disguise-technologies-for-live-events-push-93CH-5024275",
     "AI|https://www.investing.com/news/company-news/pasithea-reports-tumor-reductions-in-neurofibromatosis-trial-93CH-5024276",
@@ -5000,7 +4993,14 @@
     "AI|916ecf10-2d2d-3cd9-981c-953991a1bc80",
     "Watchlist|916ecf10-2d2d-3cd9-981c-953991a1bc80",
     "Iran|https://www.iranintl.com/en/202611107816",
-    "SG Banks|/companies-markets/genting-singapore-q3-net-profit-falls-42-2-s54-7-million-softer-premium-gaming"
+    "SG Banks|/companies-markets/genting-singapore-q3-net-profit-falls-42-2-s54-7-million-softer-premium-gaming",
+    "Watchlist|/companies-markets/genting-singapore-q3-net-profit-falls-42-2-s54-7-million-softer-premium-gaming",
+    "AI|a4417256-56df-3e95-b186-3b56e0b7a79c",
+    "Watchlist|a4417256-56df-3e95-b186-3b56e0b7a79c",
+    "Crypto|8a17e1e3-4ed9-3095-bb2a-361a90e25171",
+    "War|5bf81f4c-cecb-447d-9e50-306c6822e3fe",
+    "AI|049152e8-6e15-3b9b-8dc8-bd26a07265e9",
+    "Watchlist|049152e8-6e15-3b9b-8dc8-bd26a07265e9"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794675464.4753647,
+  "last_check": 1794676386.7441826,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
