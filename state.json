@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|/companies-markets/ill-be-buying-more-singapore-investors-pour-nvidia-shares-jensen-huangs-exit",
-    "AI|https://www.investing.com/news/company-news/hyundai-insurance-q3-2026-slides-underwriting-gains-offset-by-losses-93CH-5024370",
-    "AI|https://www.investing.com/news/economic-indicators/french-consumer-prices-rose-04-in-october-2026-93CH-5024371",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-precise-biometrics-posts-weak-q3-2026-amid-merger-costs-93CH-5024372",
-    "AI|https://www.investing.com/news/analyst-ratings/morgan-stanley-downgrades-netskope-stock-rating-on-valuation-concerns-93CH-5024375",
-    "AI|https://www.investing.com/news/insider-trading-news/ecolab-director-david-maclennan-buys-184875-in-company-stock-93CH-5024383",
-    "AI|https://www.investing.com/news/insider-trading-news/tutor-perini-director-reiss-sells-831012-in-company-stock-93CH-5024384",
-    "AI|https://www.investing.com/news/insider-trading-news/everpure-ceo-charles-giancarlo-sells-705m-in-stock-93CH-5024385",
-    "AI|https://www.investing.com/news/economic-indicators/german-wholesale-prices-climb-88-in-october-93CH-5024387",
-    "AI|https://www.investing.com/news/analyst-ratings/morgan-stanley-reiterates-overweight-on-cerebras-stock-amid-delays-93CH-5024388",
     "AI|https://www.investing.com/news/company-news/bondada-h1-fy27-slides-revenue-up-16-diversification-accelerates-93CH-5024357",
     "AI|https://www.investing.com/news/company-news/bw-lpg-sells-2015built-vessel-for-104-million-93CH-5024359",
     "AI|https://www.investing.com/news/company-news/bizlink-q3-2026-slides-margins-hit-records-as-hpc-surges-61-yoy-93CH-5024360",
@@ -5000,7 +4990,17 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/teledyne-technologies-senior-vp-sells-297-million-in-stock-93CH-5027466",
     "War|58b6decf-27c8-3405-997c-b2d34b10d72a",
     "AI|1fbfe63d-227f-364e-9d85-2d64d7db4323",
-    "Watchlist|1fbfe63d-227f-364e-9d85-2d64d7db4323"
+    "Watchlist|1fbfe63d-227f-364e-9d85-2d64d7db4323",
+    "SG Banks|/companies-markets/ill-be-buying-more-singapore-investors-pour-nvidia-shares-jensen-huangs-exit",
+    "Watchlist|/companies-markets/ill-be-buying-more-singapore-investors-pour-nvidia-shares-jensen-huangs-exit",
+    "AI|19ac17ae-209f-3780-84ec-bcee9868f9c7",
+    "AI|9761c307-e0e5-32b5-9cb9-0e91297d6938",
+    "AI|c2070779-d075-35a1-b563-f8ad7ab1c380",
+    "Crypto|261cac0d-97b4-3c64-b174-b093655de7b7",
+    "Watchlist|19ac17ae-209f-3780-84ec-bcee9868f9c7",
+    "Watchlist|9761c307-e0e5-32b5-9cb9-0e91297d6938",
+    "Watchlist|c2070779-d075-35a1-b563-f8ad7ab1c380",
+    "Iran|https://www.iranintl.com/en/202611141458"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794682810.394474,
+  "last_check": 1794683725.3281436,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
