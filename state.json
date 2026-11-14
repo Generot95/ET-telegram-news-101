@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/earnings/afya-earnings-beat-by-r011-revenue-fell-short-of-estimates-5024219",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/canaccord-cuts-twist-bioscience-stock-price-target-on-lower-revenue-outlook-93CH-5024220",
-    "SG Banks|https://www.investing.com/news/earnings/generali-9month-profit-tops-estimates-q3-operating-growth-loses-momentum-5024222",
-    "SG Banks|https://www.investing.com/news/earnings/sid-nacional-adr-earnings-missed-by-002-revenue-fell-short-of-estimates-5024223",
-    "SG Banks|https://www.investing.com/news/earnings/ecopetrol-adr-earnings-beat-by-18557-revenue-topped-estimates-5024224",
-    "Watchlist|https://www.investing.com/news/stock-market-news/china-ai-stocks-tumble-as-nvidia-fallout-fuels-fears-of-tighter-us-chip-curbs-5024205",
-    "Watchlist|https://www.investing.com/news/earnings/anaptysbio-earnings-beat-by-075-revenue-topped-estimates-5024207",
     "Watchlist|https://www.investing.com/news/insider-trading-news/pg-ceo-abd-el-hak-sells-379057-in-company-shares-93CH-5024218",
     "Watchlist|https://www.investing.com/news/earnings/afya-earnings-beat-by-r011-revenue-fell-short-of-estimates-5024219",
     "Watchlist|https://www.investing.com/news/analyst-ratings/canaccord-cuts-twist-bioscience-stock-price-target-on-lower-revenue-outlook-93CH-5024220",
@@ -5000,7 +4993,14 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/ebay-svp-chief-people-officer-sells-382m-in-stock-93CH-5027365",
     "Watchlist|https://www.investing.com/news/insider-trading-news/exlservice-president-bhalla-sells-465423-in-exls-shares-93CH-5027357",
     "Watchlist|https://www.investing.com/news/stock-market-news/msc-nears-deal-for-80-stake-in-german-shipbuilder-meyer-werft-spiegel-reports-5027358",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/ebay-svp-chief-people-officer-sells-382m-in-stock-93CH-5027365"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/ebay-svp-chief-people-officer-sells-382m-in-stock-93CH-5027365",
+    "AI|8c538e9c-8d03-398e-80eb-8d4c172ebc2e",
+    "Watchlist|8c538e9c-8d03-398e-80eb-8d4c172ebc2e",
+    "Watchlist|527366e3-0e21-3c63-9d8c-cba1e28a2f00",
+    "AI|6dace1fe-2675-3042-b7cc-ada01b7cbdf3",
+    "Watchlist|6dace1fe-2675-3042-b7cc-ada01b7cbdf3",
+    "AI|b23f681f-728d-3a0b-a706-dcba3d3256d6",
+    "Watchlist|b23f681f-728d-3a0b-a706-dcba3d3256d6"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794667211.4582767,
+  "last_check": 1794668128.971329,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
