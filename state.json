@@ -1,7 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/insider-trading-news/enovis-director-sharon-wienbar-buys-49831-in-company-stock-93CH-5023883",
     "AI|https://www.investing.com/news/insider-trading-news/enovis-director-angela-lalor-buys-50192-in-company-stock-93CH-5023884",
     "AI|https://www.investing.com/news/insider-trading-news/vericel-cfo-joseph-mara-sells-146m-in-shares-93CH-5023885",
     "AI|https://www.investing.com/news/insider-trading-news/procore-svp-william-fleming-sells-129-million-in-stock-93CH-5023894",
@@ -5000,7 +4999,8 @@
     "SG Banks|WP-MKTW-0003853112",
     "SG Banks|WP-MKTW-0004179843",
     "SG Banks|WP-MKTW-0004255367",
-    "Watchlist|/companies-markets/st-engineering-q3-revenue-rises-9-s3-4-billion-declares-interim-dividend-s0-05-share"
+    "Watchlist|/companies-markets/st-engineering-q3-revenue-rises-9-s3-4-billion-declares-interim-dividend-s0-05-share",
+    "SG Banks|https://www.straitstimes.com/business/no-love-for-lambo-luxury-car-dealer-eurosports-reports-losses-seeks-funding-to-support-business"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794625024.4603572,
+  "last_check": 1794625931.8811603,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-13"
