@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/economic-indicators/german-wholesale-prices-climb-88-in-october-93CH-5024387",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/morgan-stanley-reiterates-overweight-on-cerebras-stock-amid-delays-93CH-5024388",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-below-75k-as-regulatory-uncertainty-etf-outflows-persist-5014179",
-    "SG Banks|/companies-markets/mastercard-add-over-250-specialist-job-roles-singapore-end-2029",
-    "SG Banks|https://www.straitstimes.com/business/long-john-silvers-white-sands-outlet-to-shutter-on-nov-18",
-    "SG Banks|https://www.straitstimes.com/business/companies-markets/new-business-class-seats-air-india-plans-among-key-takeaways-from-sias-first-half-results-briefing",
     "Watchlist|/companies-markets/mastercard-add-over-250-specialist-job-roles-singapore-end-2029",
     "AI|a6a76316-f3ba-3488-9def-980e5f6e1c32",
     "Crypto|a6a76316-f3ba-3488-9def-980e5f6e1c32",
@@ -5000,7 +4994,13 @@
     "AI|https://www.investing.com/news/stock-market-news/us-aviation-shutdown-blamed-on-l3-harris-installed-router-5027495",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/us-aviation-shutdown-blamed-on-l3-harris-installed-router-5027495",
     "SG Banks|https://www.investing.com/news/stock-market-news/us-aviation-shutdown-blamed-on-l3-harris-installed-router-5027495",
-    "Watchlist|https://www.investing.com/news/stock-market-news/us-aviation-shutdown-blamed-on-l3-harris-installed-router-5027495"
+    "Watchlist|https://www.investing.com/news/stock-market-news/us-aviation-shutdown-blamed-on-l3-harris-installed-router-5027495",
+    "AI|cf435ca8-5ed8-33d1-b335-07dd93e16f14",
+    "Crypto|494c79fc-209c-3b43-ab26-eed908b38085",
+    "AI|bbb27113-34fa-3363-8094-21effec23d1d",
+    "Crypto|6eb9aacb-e8cd-3066-b61d-3f7820e1233d",
+    "Watchlist|bbb27113-34fa-3363-8094-21effec23d1d",
+    "SG Banks|/companies-markets/mastercard-add-over-250-specialist-job-roles-singapore-end-2029"
   ],
   "topic_error": "",
   "last_digest": "2026-11-14",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794687397.1807775,
+  "last_check": 1794688308.0011399,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
