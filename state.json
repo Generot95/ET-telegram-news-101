@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/company-news/bechtle-q3-2026-slides-record-backlog-drives-outlook-upgrade-93CH-5024536",
-    "Watchlist|https://www.investing.com/news/forex-news/euro-yields-hit-multiweek-highs-as-hawkish-fed-shatters-global-bond-rally-5024281",
-    "Watchlist|https://www.investing.com/news/company-news/pierce-group-q3-2026-slides-revenue-grows-6-amid-transformation-costs-93CH-5024537",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-asmodee-q2-2026-sales-jump-37-as-margin-target-is-hit-93CH-5024538",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-juventus-football-club-stock-sliding-today-93CH-5024539",
-    "Watchlist|https://www.investing.com/news/company-news/david-kustoff-sells-warner-bros-discovery-stock-93CH-5024547",
-    "Watchlist|https://www.investing.com/news/company-news/b2prime-welcomes-malcolm-collins-as-head-of-market-development-5024548",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-garo-shares-rise-after-q3-2026-profit-rebound-93CH-5024549",
-    "Watchlist|https://www.investing.com/news/economy-news/huang-ouster-fallout-cisco-applied-materials-outlooks--whats-moving-markets-5024550",
-    "Crypto|bca2ba3c-683e-32d2-9d83-3147ff441b76",
     "AI|0fd51270-779b-32ed-90de-3e2e89c1c14c",
     "Watchlist|beb46567-d715-3cab-88b7-1ad844c1d04d",
     "Watchlist|0fd51270-779b-32ed-90de-3e2e89c1c14c",
@@ -5000,7 +4990,17 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/sei-investments-director-william-doran-sells-882400-in-stock-93CH-5027580",
     "Watchlist|https://www.investing.com/news/insider-trading-news/sei-investments-director-william-doran-sells-882400-in-stock-93CH-5027580",
     "AI|5355a04f-12bd-3627-a80c-d74a78cf1cf2",
-    "Watchlist|5355a04f-12bd-3627-a80c-d74a78cf1cf2"
+    "Watchlist|5355a04f-12bd-3627-a80c-d74a78cf1cf2",
+    "AI|https://www.investing.com/news/insider-trading-news/intuitive-surgical-evp-sells-183260-in-company-stock-93CH-5027587",
+    "AI|https://www.investing.com/news/company-news/spacex-catches-starship-spacecraft-after-booster-failure-5027589",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/intuitive-surgical-evp-sells-183260-in-company-stock-93CH-5027587",
+    "Cybersecurity|https://www.investing.com/news/company-news/spacex-catches-starship-spacecraft-after-booster-failure-5027589",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/intuitive-surgical-evp-sells-183260-in-company-stock-93CH-5027587",
+    "SG Banks|https://www.investing.com/news/company-news/spacex-catches-starship-spacecraft-after-booster-failure-5027589",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/intuitive-surgical-evp-sells-183260-in-company-stock-93CH-5027587",
+    "Watchlist|https://www.investing.com/news/company-news/spacex-catches-starship-spacecraft-after-booster-failure-5027589",
+    "AI|1953aa86-f9a7-3137-ad22-976c5e43e974",
+    "Watchlist|1953aa86-f9a7-3137-ad22-976c5e43e974"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794701137.4552326,
+  "last_check": 1794702043.057375,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
