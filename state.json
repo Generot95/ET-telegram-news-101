@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/commodities-news/european-gas-logs-12-weekly-surge-as-usiran-diplomatic-hopes-collapse-5024311",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/universal-electronics-director-eric-singer-sells-580725-in-stock-93CH-5024627",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/peoples-financial-director-james-b-nicholas-sells-865230-in-stock-93CH-5024628",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/needham-cuts-nvidia-stock-price-target-on-ceo-transition-uncertainty-93CH-5024629",
-    "Watchlist|https://www.investing.com/news/company-news/sony-financial-q2-fy2026-slides-profit-surges-33-despite-sales-headwinds-93CH-5024618",
-    "Watchlist|https://www.investing.com/news/stock-market-news/keurig-dr-pepper-stock-slips-on-pricing-of-its-share-offering-93CH-5024619",
-    "Watchlist|https://www.investing.com/news/company-news/inpex-q3-2026-slides-record-profit-on-ichthys-strength-abadi-fid-eyed-93CH-5024620",
-    "Watchlist|https://www.investing.com/news/commodities-news/goldman-sees-copper-climbing-to-15600-per-ton-by-december-2027-93CH-5024621",
-    "Watchlist|https://www.investing.com/news/commodities-news/goldman-sees-gulf-lng-disruption-pushing-ttf-gas-prices-higher-93CH-5024622",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-astra-microwave-posts-q2-2026-beat-as-stock-falls-93CH-5024623",
     "Watchlist|https://www.investing.com/news/commodities-news/european-gas-logs-12-weekly-surge-as-usiran-diplomatic-hopes-collapse-5024311",
     "Watchlist|https://www.investing.com/news/insider-trading-news/universal-electronics-director-eric-singer-sells-580725-in-stock-93CH-5024627",
     "Watchlist|https://www.investing.com/news/insider-trading-news/peoples-financial-director-james-b-nicholas-sells-865230-in-stock-93CH-5024628",
@@ -5000,7 +4990,17 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/acnb-director-frank-elsner-iii-buys-250-in-stock-receives-compensation-93CH-5027655",
     "SG Banks|/companies-markets/no-better-time-now-yangzijiang-maritime-eyes-2027-2028-profit-surge-newbuild-deliveries",
     "Watchlist|/companies-markets/no-better-time-now-yangzijiang-maritime-eyes-2027-2028-profit-surge-newbuild-deliveries",
-    "Crypto|97d8ab7d-089b-35b0-8c41-85de9859672b"
+    "Crypto|97d8ab7d-089b-35b0-8c41-85de9859672b",
+    "AI|60537ad7-6ba3-344a-83e2-d2d7e49e61b7",
+    "AI|https://www.investing.com/news/earnings/greenland-tech-holding-earnings-beat-by-008-revenue-topped-estimates-5027660",
+    "AI|https://www.investing.com/news/economy-news/copa-airlines-ups-planes-collide-while-taxiing-at-miami-airport-5027661",
+    "Cybersecurity|https://www.investing.com/news/earnings/greenland-tech-holding-earnings-beat-by-008-revenue-topped-estimates-5027660",
+    "Cybersecurity|https://www.investing.com/news/economy-news/copa-airlines-ups-planes-collide-while-taxiing-at-miami-airport-5027661",
+    "SG Banks|https://www.investing.com/news/earnings/greenland-tech-holding-earnings-beat-by-008-revenue-topped-estimates-5027660",
+    "SG Banks|https://www.investing.com/news/economy-news/copa-airlines-ups-planes-collide-while-taxiing-at-miami-airport-5027661",
+    "Watchlist|https://www.investing.com/news/earnings/greenland-tech-holding-earnings-beat-by-008-revenue-topped-estimates-5027660",
+    "Watchlist|https://www.investing.com/news/economy-news/copa-airlines-ups-planes-collide-while-taxiing-at-miami-airport-5027661",
+    "Watchlist|60537ad7-6ba3-344a-83e2-d2d7e49e61b7"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794716747.724177,
+  "last_check": 1794717668.5057027,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
