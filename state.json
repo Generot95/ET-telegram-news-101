@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|88a56b2a-9440-36fe-bc34-5446f089ddc0",
-    "SG Banks|/companies-markets/deluge-posts-85-7-rise-net-profit-maiden-results-declares-interim-dividend",
-    "Watchlist|/companies-markets/deluge-posts-85-7-rise-net-profit-maiden-results-declares-interim-dividend",
-    "War|dd9bb60f-b504-4f37-a83a-80d0ddad3c82",
-    "AI|d09b60c4-ddc1-3985-8eba-d9bd89265527",
-    "Watchlist|d09b60c4-ddc1-3985-8eba-d9bd89265527",
-    "AI|4858b97e-9734-3246-8b79-8346e272547a",
-    "Watchlist|4858b97e-9734-3246-8b79-8346e272547a",
-    "AI|917ba990-c31f-377e-8e83-2eb514740d35",
-    "AI|3e4b408c-a187-33a8-83ad-933e45cdbd88",
-    "Watchlist|917ba990-c31f-377e-8e83-2eb514740d35",
     "Watchlist|3e4b408c-a187-33a8-83ad-933e45cdbd88",
     "Watchlist|e1fd9c82-86eb-3fca-84e2-74285a41e5a0",
     "AI|6ff286ca-07f4-3684-8ceb-142f6ae81ba1",
@@ -5000,7 +4989,18 @@
     "SG Banks|/companies-markets/transport-logistics/spacex-starship-returns-landing-pad-orbit-acing-test-reusable-rockets",
     "Watchlist|/companies-markets/transport-logistics/spacex-starship-returns-landing-pad-orbit-acing-test-reusable-rockets",
     "Iran|https://www.iranintl.com/en/202611129472",
-    "AI|754d15f3-dc2c-3a9d-a736-3392ef219c79"
+    "AI|754d15f3-dc2c-3a9d-a736-3392ef219c79",
+    "SG Banks|/international/global/spacex-starship-returns-landing-pad-orbit-acing-test-reusable-rockets",
+    "Watchlist|/international/global/spacex-starship-returns-landing-pad-orbit-acing-test-reusable-rockets",
+    "SG Banks|/companies-markets/deluge-posts-85-7-rise-net-profit-maiden-results-declares-interim-dividend",
+    "AI|99c93f09-8e24-3df2-b4e2-742c54231879",
+    "Watchlist|/companies-markets/deluge-posts-85-7-rise-net-profit-maiden-results-declares-interim-dividend",
+    "AI|5f147fcc-34a2-3c46-869e-15c41e058b77",
+    "Watchlist|5f147fcc-34a2-3c46-869e-15c41e058b77",
+    "AI|https://www.investing.com/news/economy-news/uk-to-expand-youth-job-guarantee-program-amid-rising-unemployment-5027632",
+    "Cybersecurity|https://www.investing.com/news/economy-news/uk-to-expand-youth-job-guarantee-program-amid-rising-unemployment-5027632",
+    "SG Banks|https://www.investing.com/news/economy-news/uk-to-expand-youth-job-guarantee-program-amid-rising-unemployment-5027632",
+    "Watchlist|https://www.investing.com/news/economy-news/uk-to-expand-youth-job-guarantee-program-amid-rising-unemployment-5027632"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794709407.316101,
+  "last_check": 1794710322.5165656,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
