@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|0fd51270-779b-32ed-90de-3e2e89c1c14c",
-    "Watchlist|beb46567-d715-3cab-88b7-1ad844c1d04d",
-    "Watchlist|0fd51270-779b-32ed-90de-3e2e89c1c14c",
-    "AI|beb46567-d715-3cab-88b7-1ad844c1d04d",
-    "AI|0d0f785e-60be-39c8-8512-9622f46f4c0d",
-    "AI|bfb97989-af54-3292-bed9-a117ce0e0288",
     "Watchlist|0d0f785e-60be-39c8-8512-9622f46f4c0d",
     "Watchlist|bfb97989-af54-3292-bed9-a117ce0e0288",
     "Iran|https://www.iranintl.com/en/202611123289",
@@ -5000,7 +4994,13 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/intuitive-surgical-evp-sells-183260-in-company-stock-93CH-5027587",
     "Watchlist|https://www.investing.com/news/company-news/spacex-catches-starship-spacecraft-after-booster-failure-5027589",
     "AI|1953aa86-f9a7-3137-ad22-976c5e43e974",
-    "Watchlist|1953aa86-f9a7-3137-ad22-976c5e43e974"
+    "Watchlist|1953aa86-f9a7-3137-ad22-976c5e43e974",
+    "AI|e0d26aef-2542-3d59-9f21-ca711cec9584",
+    "Watchlist|e0d26aef-2542-3d59-9f21-ca711cec9584",
+    "AI|https://www.investing.com/news/insider-trading-news/scotts-miraclegro-director-david-evans-sells-176345-in-shares-93CH-5027595",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/scotts-miraclegro-director-david-evans-sells-176345-in-shares-93CH-5027595",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/scotts-miraclegro-director-david-evans-sells-176345-in-shares-93CH-5027595",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/scotts-miraclegro-director-david-evans-sells-176345-in-shares-93CH-5027595"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794702043.057375,
+  "last_check": 1794702964.6714528,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
