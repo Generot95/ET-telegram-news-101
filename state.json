@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/goldman-sachs-just-downgraded-these-3-european-sectors-5024614",
-    "AI|https://www.investing.com/news/stock-market-news/barclays-backs-euronext-on-bond-growth-turns-cautious-on-deutsche-boerse-5024617",
-    "AI|https://www.investing.com/news/company-news/manorama-q2-fy27-slides-specialty-fats-revenue-surges-42-93CH-5024594",
-    "AI|https://www.investing.com/news/company-news/deutsche-euroshop-9m-2026-slides-revenue-rises-ffo-pressured-93CH-5024607",
-    "AI|https://www.investing.com/news/company-news/bridgestone-q3-2026-slides-record-profit-amid-rising-cost-pressures-93CH-5024616",
-    "Cybersecurity|https://www.investing.com/news/company-news/sony-financial-q2-fy2026-slides-profit-surges-33-despite-sales-headwinds-93CH-5024618",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/keurig-dr-pepper-stock-slips-on-pricing-of-its-share-offering-93CH-5024619",
-    "Cybersecurity|https://www.investing.com/news/company-news/inpex-q3-2026-slides-record-profit-on-ichthys-strength-abadi-fid-eyed-93CH-5024620",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/goldman-sees-copper-climbing-to-15600-per-ton-by-december-2027-93CH-5024621",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/goldman-sees-gulf-lng-disruption-pushing-ttf-gas-prices-higher-93CH-5024622",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-astra-microwave-posts-q2-2026-beat-as-stock-falls-93CH-5024623",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/european-gas-logs-12-weekly-surge-as-usiran-diplomatic-hopes-collapse-5024311",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/universal-electronics-director-eric-singer-sells-580725-in-stock-93CH-5024627",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/peoples-financial-director-james-b-nicholas-sells-865230-in-stock-93CH-5024628",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/needham-cuts-nvidia-stock-price-target-on-ceo-transition-uncertainty-93CH-5024629",
@@ -5000,7 +4988,19 @@
     "SG Banks|https://www.investing.com/news/commodities-news/saudiled-coalition-intercepts-missiles-towards-riyadh-drones-in-eastern-province-5027639",
     "Watchlist|https://www.investing.com/news/insider-trading-news/kdt-ibotta-holdings-10-owner-sells-117m-in-ibotta-stock-93CH-5027640",
     "Watchlist|https://www.investing.com/news/economy-news/us-diesel-prices-fall-below-6-a-gallon-to-twomonth-low-5027641",
-    "Watchlist|https://www.investing.com/news/commodities-news/saudiled-coalition-intercepts-missiles-towards-riyadh-drones-in-eastern-province-5027639"
+    "Watchlist|https://www.investing.com/news/commodities-news/saudiled-coalition-intercepts-missiles-towards-riyadh-drones-in-eastern-province-5027639",
+    "AI|11982756-971b-3384-a5d6-01337f94c244",
+    "Watchlist|11982756-971b-3384-a5d6-01337f94c244",
+    "AI|https://www.investing.com/news/insider-trading-news/neonc-technologies-ceo-amir-heshmatpour-buys-2945k-shares-93CH-5027643",
+    "AI|https://www.investing.com/news/insider-trading-news/saba-capital-sells-406836-in-pimco-dynamic-income-strategy-fund-93CH-5027647",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/neonc-technologies-ceo-amir-heshmatpour-buys-2945k-shares-93CH-5027643",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/saba-capital-sells-406836-in-pimco-dynamic-income-strategy-fund-93CH-5027647",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/neonc-technologies-ceo-amir-heshmatpour-buys-2945k-shares-93CH-5027643",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/saba-capital-sells-406836-in-pimco-dynamic-income-strategy-fund-93CH-5027647",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/neonc-technologies-ceo-amir-heshmatpour-buys-2945k-shares-93CH-5027643",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/saba-capital-sells-406836-in-pimco-dynamic-income-strategy-fund-93CH-5027647",
+    "AI|ed6cf308-6bb6-3700-8969-b1228eca7ad5",
+    "Watchlist|ed6cf308-6bb6-3700-8969-b1228eca7ad5"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794713070.6168666,
+  "last_check": 1794714013.1934197,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
