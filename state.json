@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/why-fed-rate-hike-fears-are-a-gold-mine-for-this-bond-monopoly-5024857",
-    "AI|https://www.investing.com/news/stock-market-news/after-nvidias-427b-wipeout-is-amds-117x-pe-rally-a-trap-5024879",
-    "AI|https://www.investing.com/news/stock-market-news/credo-technology-owns-93-of-its-ai-cable-nicheso-why-did-it-plunge-30-5024896",
-    "AI|https://www.investing.com/news/stock-market-news/why-a-legacy-fax-stock-doubled-while-ai-software-stocks-sank-5024924",
     "AI|https://www.investing.com/news/stock-market-news/why-is-neuropace-stock-plummeting-40-today-93CH-5025057",
     "AI|https://www.investing.com/news/company-news/zai-lab-reports-phase-1-trial-results-for-atopic-dermatitis-drug-93CH-5025002",
     "AI|https://www.investing.com/news/company-news/powercompute-reduces-secured-debt-by-94-mines-239-bitcoin-in-q3-93CH-5025004",
@@ -5000,7 +4996,11 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/redwood-trust-president-buys-251580-in-stock-93CH-5027990",
     "Watchlist|https://www.investing.com/news/insider-trading-news/redwood-trust-president-buys-251580-in-stock-93CH-5027990",
     "War|70b71c1c-407f-4287-860c-baf42b6c049f",
-    "Watchlist|3f75d6a4-ab1d-36f3-ad94-8dc9569e531c"
+    "Watchlist|3f75d6a4-ab1d-36f3-ad94-8dc9569e531c",
+    "AI|d2055cf6-50fb-3c40-8090-8f125971cde6",
+    "AI|2162a943-8f2f-37a5-81ba-9a14d96fde52",
+    "Watchlist|d2055cf6-50fb-3c40-8090-8f125971cde6",
+    "Watchlist|2162a943-8f2f-37a5-81ba-9a14d96fde52"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794757109.9163914,
+  "last_check": 1794758026.0614045,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-15"
