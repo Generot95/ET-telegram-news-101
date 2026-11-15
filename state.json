@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-usha-martin-posts-strong-q2-fy-2027-profit-growth-93CH-5025182",
-    "Watchlist|https://www.investing.com/news/stock-market-news/analysishow-us-tech-pain-is-european-stock-markets-gain-5025195",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-vir-biotechnology-stock-tumbling-today-93CH-5025209",
-    "Iran|https://www.iranintl.com/en/202611103208",
-    "Iran|https://www.iranintl.com/en/202611126783",
-    "SG Banks|https://www.straitstimes.com/business/global-ai-stocks-sink-as-nvidia-ceos-exit-deepens-sector-selloff",
-    "AI|f9dea072-39bd-3956-8696-7f7199b93a22",
-    "AI|390feff4-84c6-3646-9d24-6b8cfff50b7d",
-    "Watchlist|f9dea072-39bd-3956-8696-7f7199b93a22",
     "Watchlist|390feff4-84c6-3646-9d24-6b8cfff50b7d",
     "AI|2c66fcb1-ab8f-3661-8388-285fe669a79c",
     "AI|de3bd677-a42d-331d-a422-4f16cb0958e5",
@@ -5000,7 +4991,16 @@
     "Iran|https://www.iranintl.com/en/202611151817",
     "AI|16c138e1-c381-3be4-814f-08c05d80f4bc",
     "Crypto|7fa4b45a-1787-3ecd-9937-5879a17b6986",
-    "Watchlist|16c138e1-c381-3be4-814f-08c05d80f4bc"
+    "Watchlist|16c138e1-c381-3be4-814f-08c05d80f4bc",
+    "AI|6060554f-7e09-3989-9f7b-c39256621abd",
+    "AI|6b8d19a4-5fc4-3d6f-997a-754cf2c4e12c",
+    "Watchlist|6060554f-7e09-3989-9f7b-c39256621abd",
+    "Watchlist|6b8d19a4-5fc4-3d6f-997a-754cf2c4e12c",
+    "Watchlist|6c566bad-facc-3566-b47b-a13ebf219d31",
+    "Iran|https://www.iranintl.com/en/202611126783",
+    "AI|6c566bad-facc-3566-b47b-a13ebf219d31",
+    "AI|e3d34c3a-d495-32c4-b8db-47304d4d6b40",
+    "Watchlist|e3d34c3a-d495-32c4-b8db-47304d4d6b40"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794764464.337593,
+  "last_check": 1794765385.8013325,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-15"
