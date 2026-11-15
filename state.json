@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/sigma-lithium-q3-2026-slides-margins-hold-despite-production-shutdown-93CH-5025283",
-    "Cybersecurity|https://www.investing.com/news/company-news/amber-q2-fy27-slides-60-revenue-surge-masks-margin-pressure-93CH-5025284",
-    "Cybersecurity|https://www.investing.com/news/company-news/eicher-motors-q2-fy27-slides-record-quarter-20-revenue-growth-93CH-5025285",
-    "Cybersecurity|https://www.investing.com/news/company-news/sanepar-q3-2026-presentation-76-revenue-growth-legal-charges-weigh-93CH-5025292",
-    "Cybersecurity|https://www.investing.com/news/company-news/talabat-q3-2026-slides-growth-accelerates-amid-kuwait-regulation-93CH-5025293",
     "Cybersecurity|https://www.investing.com/news/company-news/inspiremd-prices-public-offering-at-13-per-share-93CH-5025362",
     "Cybersecurity|https://www.investing.com/news/company-news/natura-q3-2026-slides-cash-flow-surges-as-brazil-crisis-persists-93CH-5025444",
     "SG Banks|https://www.investing.com/news/analyst-ratings/candel-therapeutics-stock-price-target-cut-to-19-by-stifel-on-bla-delay-93CH-5025430",
@@ -5000,7 +4995,12 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/zedge-director-elliot-gibber-buys-649880-in-class-b-common-stock-93CH-5028087",
     "Watchlist|https://www.investing.com/news/stock-market-news/us-rocket-fails-after-launch-payload-of-amazon-internet-satellites-destroyed-5028094",
     "Watchlist|https://www.investing.com/news/insider-trading-news/cooper-companies-director-kurzius-buys-539150-in-stock-93CH-5028095",
-    "SG Banks|https://www.straitstimes.com/business/companies-markets/jensen-huang-discusses-comeback-as-nvidia-ceo-with-allies-ft-reports"
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/jensen-huang-discusses-comeback-as-nvidia-ceo-with-allies-ft-reports",
+    "SG Banks|https://www.channelnewsasia.com/business/rocket-boeing-lockheed-firm-fails-mid-flight-destroys-payload-amazon-satellites-6553386",
+    "AI|https://www.investing.com/news/stock-market-news/jensen-huang-may-return-as-nvidia-chief-executive--report-5028097",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/jensen-huang-may-return-as-nvidia-chief-executive--report-5028097",
+    "SG Banks|https://www.investing.com/news/stock-market-news/jensen-huang-may-return-as-nvidia-chief-executive--report-5028097",
+    "Watchlist|https://www.investing.com/news/stock-market-news/jensen-huang-may-return-as-nvidia-chief-executive--report-5028097"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794775479.3822105,
+  "last_check": 1794776385.9007943,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-15"
