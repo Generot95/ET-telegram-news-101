@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/wells-fargo-raises-cigna-stock-price-target-to-325-on-valuation-93CH-5024729",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/wells-fargo-lowers-cisco-stock-price-target-on-market-compression-93CH-5024728",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/wells-fargo-raises-ascendis-pharma-stock-price-target-on-growth-outlook-93CH-5024727",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/wells-fargo-reiterates-nvidia-stock-overweight-rating-amid-ceo-transition-93CH-5024726",
     "Cybersecurity|https://www.investing.com/news/company-news/travel-food-services-q2-fy27-slides-sales-rise-19-amid-traffic-drop-93CH-5024693",
@@ -5000,7 +4998,9 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/ecb-cannot-replace-sound-fiscal-policy-presidential-contender-knot-warns-5027752",
     "Watchlist|https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-nvidia-hit-with-downgrades-after-huangs-exit-5027576",
     "Watchlist|https://www.investing.com/news/press-releases/eagle-cash-buyers-releases-2026-cost-comparison-of-traditional-mls-and-direct-cash-home-sales-5027760",
-    "Watchlist|https://www.investing.com/news/stock-market-news/megaspeed-says-alice-huang-left-company-in-august-2025-5027761"
+    "Watchlist|https://www.investing.com/news/stock-market-news/megaspeed-says-alice-huang-left-company-in-august-2025-5027761",
+    "AI|e80a7f6a-0047-3677-9721-17669869aa67",
+    "Watchlist|e80a7f6a-0047-3677-9721-17669869aa67"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794734199.4317667,
+  "last_check": 1794735122.9589057,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
