@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|bf6fbffe-b775-41e3-a497-573632ad68bd",
-    "AI|https://www.investing.com/news/company-news/gh-research-names-vanina-popova-as-chief-development-officer-93CH-5025247",
-    "AI|https://www.investing.com/news/company-news/david-kustoff-sells-warner-bros-discovery-stock-93CH-5025248",
-    "AI|https://www.investing.com/news/earnings/milestone-scientific-earnings-matched-revenue-fell-short-of-estimates-5025249",
-    "AI|https://www.investing.com/news/cryptocurrency-news/eos-falls-15-in-selloff-5025250",
-    "AI|https://www.investing.com/news/sec-filings/sirius-xm-names-william-twomey-as-chief-accounting-officer-effective-december-93CH-5025267",
-    "AI|https://www.investing.com/news/company-news/acs-9m-2026-slides-operational-profit-surges-36-backlog-hits-record-93CH-5025266",
-    "AI|https://www.investing.com/news/economy-news/david-cameron-backs-uk-exit-from-european-convention-on-human-rights-93CH-5025268",
-    "AI|https://www.investing.com/news/stock-market-news/bank-of-englands-bailey-warns-on-private-credit-risks-93CH-5025233",
     "AI|https://www.investing.com/news/stock-market-news/nhs-reschedules-procedures-after-microsoft-outage-hits-systems--report-93CH-5025238",
     "AI|https://www.investing.com/news/company-news/ff-robotics-q3-2026-slides-record-october-sales-transformation-complete-93CH-5025212",
     "AI|https://www.investing.com/news/company-news/twenty-one-capital-reports-109b-q3-gain-on-bitcoin-holdings-93CH-5025216",
@@ -5000,7 +4991,16 @@
     "Watchlist|64581656-be62-34c9-9fc3-86298f533afe",
     "AI|260473e9-e9dc-38fe-b6a9-66a3a902dc17",
     "Watchlist|260473e9-e9dc-38fe-b6a9-66a3a902dc17",
-    "SG Banks|/companies-markets/transport-logistics/well-look-it-well-see-what-feasible-sia-ceo-new-business-class-seat-colours"
+    "SG Banks|/companies-markets/transport-logistics/well-look-it-well-see-what-feasible-sia-ceo-new-business-class-seat-colours",
+    "Watchlist|c3c1faf1-93dc-3ef9-824d-fabdc7ed07bf",
+    "AI|c3c1faf1-93dc-3ef9-824d-fabdc7ed07bf",
+    "AI|7bcb6a5b-5c50-38db-b02b-06a6b9694254",
+    "Watchlist|7bcb6a5b-5c50-38db-b02b-06a6b9694254",
+    "AI|https://www.investing.com/news/economy-news/fed-has-some-work-to-do-on-inflation-kc-fed-chief-says-5028048",
+    "Crypto|375c5b30-bdb0-3bc6-af7d-57f4d3519115",
+    "Cybersecurity|https://www.investing.com/news/economy-news/fed-has-some-work-to-do-on-inflation-kc-fed-chief-says-5028048",
+    "SG Banks|https://www.investing.com/news/economy-news/fed-has-some-work-to-do-on-inflation-kc-fed-chief-says-5028048",
+    "Watchlist|https://www.investing.com/news/economy-news/fed-has-some-work-to-do-on-inflation-kc-fed-chief-says-5028048"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794768131.1577666,
+  "last_check": 1794769060.5191746,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-15"
