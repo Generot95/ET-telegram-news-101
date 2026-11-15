@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "War|751c4ba2-62e0-3dda-84ee-42e83e25ec9e",
-    "War|84e9759d-6026-4ca9-b73d-aec5a99fb02d",
-    "AI|d59c4968-3969-309e-bc4e-34211cd16727",
-    "AI|751c4ba2-62e0-3dda-84ee-42e83e25ec9e",
-    "Watchlist|d59c4968-3969-309e-bc4e-34211cd16727",
-    "Watchlist|751c4ba2-62e0-3dda-84ee-42e83e25ec9e",
-    "AI|0db92f97-0671-3e0d-a62f-eaf4d279050d",
-    "SG Banks|https://www.channelnewsasia.com/business/dollar-set-best-week-in-two-months-weak-yen-captures-tokyos-attention-6548216",
-    "Watchlist|0db92f97-0671-3e0d-a62f-eaf4d279050d",
-    "SG Banks|/companies-markets/who-nvidia-interim-ceo-colette-kress",
-    "Watchlist|/companies-markets/who-nvidia-interim-ceo-colette-kress",
-    "AI|afcb39bf-7548-31f5-8ba1-d0e29fb6703e",
     "Watchlist|afcb39bf-7548-31f5-8ba1-d0e29fb6703e",
     "War|WP-MKTW-0005335198",
     "AI|cc5ee73c-532c-332d-8e1b-437a5116b8df",
@@ -5000,7 +4988,19 @@
     "AI|e92a9fdf-afad-37c9-a695-81c793cbb6ca",
     "AI|45f63920-0775-3190-a367-5845deeef81f",
     "Watchlist|45f63920-0775-3190-a367-5845deeef81f",
-    "Watchlist|e92a9fdf-afad-37c9-a695-81c793cbb6ca"
+    "Watchlist|e92a9fdf-afad-37c9-a695-81c793cbb6ca",
+    "AI|670fb258-c33e-3ee5-bdf2-2069eed8a636",
+    "Watchlist|670fb258-c33e-3ee5-bdf2-2069eed8a636",
+    "AI|2e00bdf9-727d-3a1b-a302-13f4d95b50c0",
+    "AI|79e568be-bbbc-3600-9f6e-1f31d5fa8124",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/us-bessent-says-nvidia-must-go-outside-the-company-to-find-new-ceo",
+    "Watchlist|79e568be-bbbc-3600-9f6e-1f31d5fa8124",
+    "Watchlist|2e00bdf9-727d-3a1b-a302-13f4d95b50c0",
+    "War|216ef3c0-9bf7-3f26-8135-279ebb378064",
+    "AI|972a7af6-c221-3f53-8a20-1159f28a506c",
+    "Watchlist|972a7af6-c221-3f53-8a20-1159f28a506c",
+    "SG Banks|/companies-markets/who-nvidia-interim-ceo-colette-kress",
+    "Watchlist|/companies-markets/who-nvidia-interim-ceo-colette-kress"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794766296.9323752,
+  "last_check": 1794767213.9715908,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-15"
