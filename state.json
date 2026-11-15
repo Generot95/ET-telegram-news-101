@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|0d0f785e-60be-39c8-8512-9622f46f4c0d",
-    "Watchlist|bfb97989-af54-3292-bed9-a117ce0e0288",
-    "Iran|https://www.iranintl.com/en/202611123289",
-    "Watchlist|570247c7-4d49-3260-b0b5-237eb130aad9",
     "AI|570247c7-4d49-3260-b0b5-237eb130aad9",
     "SG Banks|/companies-markets/banking-finance/singapore-accountancy-sector-salaries-rise-across-board-revenue-grows-5-1-s3-7-billion",
     "Watchlist|/companies-markets/banking-finance/singapore-accountancy-sector-salaries-rise-across-board-revenue-grows-5-1-s3-7-billion",
@@ -5000,7 +4996,11 @@
     "AI|https://www.investing.com/news/insider-trading-news/scotts-miraclegro-director-david-evans-sells-176345-in-shares-93CH-5027595",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/scotts-miraclegro-director-david-evans-sells-176345-in-shares-93CH-5027595",
     "SG Banks|https://www.investing.com/news/insider-trading-news/scotts-miraclegro-director-david-evans-sells-176345-in-shares-93CH-5027595",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/scotts-miraclegro-director-david-evans-sells-176345-in-shares-93CH-5027595"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/scotts-miraclegro-director-david-evans-sells-176345-in-shares-93CH-5027595",
+    "AI|eee3721e-0bd3-3a5d-9db8-a79e0bb35df0",
+    "Cybersecurity|eee3721e-0bd3-3a5d-9db8-a79e0bb35df0",
+    "Watchlist|eee3721e-0bd3-3a5d-9db8-a79e0bb35df0",
+    "Iran|https://www.iranintl.com/en/202611123289"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794702964.6714528,
+  "last_check": 1794703898.3725522,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
