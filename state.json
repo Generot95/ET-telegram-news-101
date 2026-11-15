@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|3e4b408c-a187-33a8-83ad-933e45cdbd88",
-    "Watchlist|e1fd9c82-86eb-3fca-84e2-74285a41e5a0",
-    "AI|6ff286ca-07f4-3684-8ceb-142f6ae81ba1",
-    "Watchlist|6ff286ca-07f4-3684-8ceb-142f6ae81ba1",
-    "AI|79bfaec8-2f37-3e5c-9f12-4353a76dce52",
-    "Watchlist|79bfaec8-2f37-3e5c-9f12-4353a76dce52",
-    "War|https://www.investing.com/news/commodities-news/goldman-sees-copper-climbing-to-15600-per-ton-by-december-2027-93CH-5024621",
-    "War|https://www.investing.com/news/commodities-news/goldman-sees-gulf-lng-disruption-pushing-ttf-gas-prices-higher-93CH-5024622",
-    "War|https://www.investing.com/news/commodities-news/european-gas-logs-12-weekly-surge-as-usiran-diplomatic-hopes-collapse-5024311",
-    "AI|https://www.investing.com/news/company-news/sony-financial-q2-fy2026-slides-profit-surges-33-despite-sales-headwinds-93CH-5024618",
-    "AI|https://www.investing.com/news/stock-market-news/keurig-dr-pepper-stock-slips-on-pricing-of-its-share-offering-93CH-5024619",
     "AI|https://www.investing.com/news/company-news/inpex-q3-2026-slides-record-profit-on-ichthys-strength-abadi-fid-eyed-93CH-5024620",
     "AI|https://www.investing.com/news/commodities-news/goldman-sees-copper-climbing-to-15600-per-ton-by-december-2027-93CH-5024621",
     "AI|https://www.investing.com/news/commodities-news/goldman-sees-gulf-lng-disruption-pushing-ttf-gas-prices-higher-93CH-5024622",
@@ -5000,7 +4989,18 @@
     "AI|https://www.investing.com/news/economy-news/uk-to-expand-youth-job-guarantee-program-amid-rising-unemployment-5027632",
     "Cybersecurity|https://www.investing.com/news/economy-news/uk-to-expand-youth-job-guarantee-program-amid-rising-unemployment-5027632",
     "SG Banks|https://www.investing.com/news/economy-news/uk-to-expand-youth-job-guarantee-program-amid-rising-unemployment-5027632",
-    "Watchlist|https://www.investing.com/news/economy-news/uk-to-expand-youth-job-guarantee-program-amid-rising-unemployment-5027632"
+    "Watchlist|https://www.investing.com/news/economy-news/uk-to-expand-youth-job-guarantee-program-amid-rising-unemployment-5027632",
+    "AI|https://www.investing.com/news/economy-news/us-judge-again-blocks-trumps-makeover-plan-for-dc-golf-course-5027633",
+    "AI|https://www.investing.com/news/insider-trading-news/san-juan-basin-royalty-trust-director-eric-oliver-buys-14m-in-units-93CH-5027635",
+    "Cybersecurity|https://www.investing.com/news/economy-news/us-judge-again-blocks-trumps-makeover-plan-for-dc-golf-course-5027633",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/san-juan-basin-royalty-trust-director-eric-oliver-buys-14m-in-units-93CH-5027635",
+    "SG Banks|https://www.investing.com/news/economy-news/us-judge-again-blocks-trumps-makeover-plan-for-dc-golf-course-5027633",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/san-juan-basin-royalty-trust-director-eric-oliver-buys-14m-in-units-93CH-5027635",
+    "Watchlist|https://www.investing.com/news/economy-news/us-judge-again-blocks-trumps-makeover-plan-for-dc-golf-course-5027633",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/san-juan-basin-royalty-trust-director-eric-oliver-buys-14m-in-units-93CH-5027635",
+    "Crypto|19895e60-05cb-36f4-b2c4-801ba90c9d6d",
+    "Crypto|53e50dc8-f137-3f6c-bfd6-912334fef9f1",
+    "Iran|https://www.iranintl.com/en/202611151752"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794711229.692532,
+  "last_check": 1794712155.3854442,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
