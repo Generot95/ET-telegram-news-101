@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|afcb39bf-7548-31f5-8ba1-d0e29fb6703e",
-    "War|WP-MKTW-0005335198",
-    "AI|cc5ee73c-532c-332d-8e1b-437a5116b8df",
-    "AI|WP-MKTW-0005335198",
-    "Cybersecurity|WP-MKTW-0005335198",
-    "SG Banks|/companies-markets/transport-logistics/well-look-it-well-see-what-feasible-sia-ceo-new-business-class-seat-colours",
-    "Watchlist|cc5ee73c-532c-332d-8e1b-437a5116b8df",
-    "AI|2e9767ac-0496-38dc-b31f-a87f95bbb7a9",
     "AI|bf6fbffe-b775-41e3-a497-573632ad68bd",
     "AI|https://www.investing.com/news/company-news/gh-research-names-vanina-popova-as-chief-development-officer-93CH-5025247",
     "AI|https://www.investing.com/news/company-news/david-kustoff-sells-warner-bros-discovery-stock-93CH-5025248",
@@ -5000,7 +4992,15 @@
     "AI|972a7af6-c221-3f53-8a20-1159f28a506c",
     "Watchlist|972a7af6-c221-3f53-8a20-1159f28a506c",
     "SG Banks|/companies-markets/who-nvidia-interim-ceo-colette-kress",
-    "Watchlist|/companies-markets/who-nvidia-interim-ceo-colette-kress"
+    "Watchlist|/companies-markets/who-nvidia-interim-ceo-colette-kress",
+    "AI|dc6dc3f0-cfab-3e6b-b22b-5a3ccef229e3",
+    "Watchlist|dc6dc3f0-cfab-3e6b-b22b-5a3ccef229e3",
+    "AI|64581656-be62-34c9-9fc3-86298f533afe",
+    "AI|731fa5a3-8e43-3f6e-8336-e93121709e88",
+    "Watchlist|64581656-be62-34c9-9fc3-86298f533afe",
+    "AI|260473e9-e9dc-38fe-b6a9-66a3a902dc17",
+    "Watchlist|260473e9-e9dc-38fe-b6a9-66a3a902dc17",
+    "SG Banks|/companies-markets/transport-logistics/well-look-it-well-see-what-feasible-sia-ceo-new-business-class-seat-colours"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794767213.9715908,
+  "last_check": 1794768131.1577666,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-15"
