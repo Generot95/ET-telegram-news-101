@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/earnings/kepco-adr-earnings-missed-by-036-revenue-topped-estimates-5024761",
-    "Watchlist|https://www.investing.com/news/company-news/spartacus-metals-sells-red-lake-claims-for-c250000-plus-royalty-93CH-5024763",
-    "Iran|https://www.iranintl.com/en/202611105926",
-    "Iran|https://www.iranintl.com/en/202611102549",
     "Iran|https://www.iranintl.com/en/202611107338",
     "AI|4f061d0e-8452-3ecc-a212-0329fe968dd1",
     "Watchlist|4f061d0e-8452-3ecc-a212-0329fe968dd1",
@@ -5000,7 +4996,11 @@
     "SG Banks|https://www.investing.com/news/investment-ideas/bumble-stock-soars-68-after-investingpro-fair-value-call-93CH-5027828",
     "Watchlist|https://www.investing.com/news/investment-ideas/how-investingpro-spotted-prestige-healthcares-46-decline-93CH-5027824",
     "Watchlist|https://www.investing.com/news/stock-market-news/analysistrumps-minerals-push-has-yet-to-loosen-chinas-grip-ahead-of-xi-talks-5027826",
-    "Watchlist|https://www.investing.com/news/investment-ideas/bumble-stock-soars-68-after-investingpro-fair-value-call-93CH-5027828"
+    "Watchlist|https://www.investing.com/news/investment-ideas/bumble-stock-soars-68-after-investingpro-fair-value-call-93CH-5027828",
+    "AI|eb8c1b59-8425-3e93-8fed-4a3817a75b37",
+    "Watchlist|eb8c1b59-8425-3e93-8fed-4a3817a75b37",
+    "AI|6700bb43-12ea-3b7d-a62b-9b445f5d9021",
+    "Watchlist|6700bb43-12ea-3b7d-a62b-9b445f5d9021"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794741523.8549535,
+  "last_check": 1794742430.6231213,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-15"
