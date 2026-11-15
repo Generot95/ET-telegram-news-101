@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/company-news/european-panel-backs-merck-rsv-drug-for-second-season-use-93CH-5024925",
-    "Watchlist|https://www.investing.com/news/earnings/sbc-medical-holdings-earnings-beat-by-003-revenue-topped-estimates-5024926",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-kpi-green-energy-q2-2027-profit-falls-as-growth-continues-93CH-5024927",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-romgaz-q3-2026-profit-falls-as-neptun-deep-advances-93CH-5024928",
-    "Watchlist|https://www.investing.com/news/stock-market-news/premarket-movers-modine-surges-cerebras-jumps-on-microsoft-deal-5024934",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-action-construction-equipment-posts-record-q2-2026-93CH-5024935",
-    "Iran|https://www.iranintl.com/en/202611109209",
-    "Iran|https://www.iranintl.com/en/202611112981",
-    "War|ffd27ee3-aeb7-33fa-8362-53035cd38dcc",
     "AI|8d0123bd-2501-33a7-962b-6904ec8a83f4",
     "AI|ffd27ee3-aeb7-33fa-8362-53035cd38dcc",
     "AI|95fb1e08-7710-3b35-9954-7ac424c3f27d",
@@ -5000,7 +4991,16 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/why-falling-ai-token-prices-arent-the-negative-for-ai-providers-one-might-assume-5027935",
     "Watchlist|c22f1b24-836a-3359-ab01-513f5a3caf3e",
     "AI|d0cdeab7-141d-4379-81d4-f7efdb09db80",
-    "Watchlist|d0cdeab7-141d-4379-81d4-f7efdb09db80"
+    "Watchlist|d0cdeab7-141d-4379-81d4-f7efdb09db80",
+    "AI|d2d9943b-f884-338e-afc5-5bbb07c9e575",
+    "Crypto|2e07310b-a2bf-3479-a9a7-64f5bae6e9d8",
+    "War|WP-MKTW-0005345605",
+    "AI|WP-MKTW-0005345605",
+    "Cybersecurity|WP-MKTW-0005345605",
+    "Crypto|52c1a657-2bd0-3b21-ae5a-4c4d5cac74ce",
+    "AI|f7e71874-66b0-3d87-93ba-719c3402740d",
+    "Watchlist|f7e71874-66b0-3d87-93ba-719c3402740d",
+    "Iran|https://www.iranintl.com/en/202611112981"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794748859.8678353,
+  "last_check": 1794749778.9385,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-15"
