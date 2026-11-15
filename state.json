@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "War|7eec8323-07f2-34b8-b3f6-6cf87790e1c5",
-    "SG Banks|https://www.straitstimes.com/business/nvidia-lost-its-founding-ceo-can-it-keep-its-momentum",
-    "War|2780c9ae-8447-3664-9530-234ed5d9752a",
     "AI|77124797-a9cd-4ec9-bd4a-117bca48e28d",
     "Watchlist|77124797-a9cd-4ec9-bd4a-117bca48e28d",
     "AI|9513fb54-03aa-31aa-9127-ece69a04b708",
@@ -5000,7 +4997,10 @@
     "Watchlist|/companies-markets/capital-markets-currencies/european-stocks-near-record-highs-us-dollar-gains-fed-rate-hike-bets",
     "Iran|https://www.iranintl.com/en/202611117115",
     "AI|f4d4838a-c1fd-33f4-a819-aeef9a92fb3b",
-    "Watchlist|f4d4838a-c1fd-33f4-a819-aeef9a92fb3b"
+    "Watchlist|f4d4838a-c1fd-33f4-a819-aeef9a92fb3b",
+    "AI|b12c7541-d62c-3061-bfdc-0d79d66538da",
+    "Watchlist|b12c7541-d62c-3061-bfdc-0d79d66538da",
+    "SG Banks|https://www.straitstimes.com/business/musk-uber-co-founder-join-call-for-jensen-huangs-return-to-nvidia"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794785551.3529637,
+  "last_check": 1794786495.3386116,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-15"
