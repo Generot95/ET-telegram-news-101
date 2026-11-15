@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Iran|https://www.iranintl.com/en/202611094619",
-    "Iran|https://www.iranintl.com/en/202611122230",
-    "SG Banks|/companies-markets/foreign-investors-pull-out-us50-billion-asian-equities-october-ai-cash-burn-woes",
-    "SG Banks|https://www.channelnewsasia.com/business/quantum-systems-says-grounded-german-military-drones-flying-again-after-cyberattack-6549106",
-    "Watchlist|/companies-markets/foreign-investors-pull-out-us50-billion-asian-equities-october-ai-cash-burn-woes",
-    "Iran|https://www.iranintl.com/en/202611137304",
-    "AI|b182e8e8-90e8-3f42-8648-321f13dca61e",
-    "SG Banks|https://www.channelnewsasia.com/east-asia/china-warns-against-new-export-controls-us-chips-after-nvidia-scandal-6549111",
     "Watchlist|b182e8e8-90e8-3f42-8648-321f13dca61e",
     "AI|d024bbc7-1484-3b56-9e84-fe7a4f543e0e",
     "AI|4c4d7653-5672-390e-84eb-757fbb2bc0c7",
@@ -5000,7 +4992,15 @@
     "AI|3dfc7191-377b-346b-9ce7-37aab054cbc0",
     "Watchlist|3dfc7191-377b-346b-9ce7-37aab054cbc0",
     "SG Banks|/companies-markets/capital-markets-currencies/ai-retreat-fuels-india-stock-comeback-great-rotation-trade",
-    "Watchlist|/companies-markets/capital-markets-currencies/ai-retreat-fuels-india-stock-comeback-great-rotation-trade"
+    "Watchlist|/companies-markets/capital-markets-currencies/ai-retreat-fuels-india-stock-comeback-great-rotation-trade",
+    "AI|https://www.investing.com/news/stock-market-news/faa-router-overload-in-arkansas-triggered-nationwide-flight-grounding--wsj-5027664",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/faa-router-overload-in-arkansas-triggered-nationwide-flight-grounding--wsj-5027664",
+    "SG Banks|https://www.investing.com/news/stock-market-news/faa-router-overload-in-arkansas-triggered-nationwide-flight-grounding--wsj-5027664",
+    "Watchlist|https://www.investing.com/news/stock-market-news/faa-router-overload-in-arkansas-triggered-nationwide-flight-grounding--wsj-5027664",
+    "Iran|https://www.iranintl.com/en/202611122230",
+    "SG Banks|/companies-markets/foreign-investors-pull-out-us50-billion-asian-equities-october-ai-cash-burn-woes",
+    "Iran|https://www.iranintl.com/en/202611137304",
+    "Watchlist|/companies-markets/foreign-investors-pull-out-us50-billion-asian-equities-october-ai-cash-burn-woes"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794719498.955352,
+  "last_check": 1794720428.6097686,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
