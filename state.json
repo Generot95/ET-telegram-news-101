@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|WP-MKTW-0005346530",
-    "War|531d1e69-b949-319e-980b-a3ea464044e6",
-    "Watchlist|46a1f57b-54ad-303b-9eb8-cdc58e688446",
     "AI|4ce30313-c7ac-3a45-b577-4d8acf799460",
     "AI|679e0055-90cd-364f-8938-efe96298df10",
     "AI|3a557365-88b3-3c8f-934e-b186adbe71dd",
@@ -5000,7 +4997,10 @@
     "Iran|https://www.iranintl.com/en/202611132513",
     "Watchlist|d026e181-efb6-3df4-a05f-967636dfeb6c",
     "Watchlist|8cef83a6-f4cb-350b-abaf-a876bb42c992",
-    "AI|8cef83a6-f4cb-350b-abaf-a876bb42c992"
+    "AI|8cef83a6-f4cb-350b-abaf-a876bb42c992",
+    "SG Banks|/international/global/jensen-huang-discusses-comeback-nvidia-ceo-allies-report",
+    "Watchlist|/international/global/jensen-huang-discusses-comeback-nvidia-ceo-allies-report",
+    "Crypto|4359a179-6597-33fe-8d18-efa1f51d1a5e"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794779121.8424234,
+  "last_check": 1794780053.5100029,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-15"
