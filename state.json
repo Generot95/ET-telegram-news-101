@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|7196e7e5-a42a-3cd5-9973-833ace4e21b2",
-    "AI|https://www.investing.com/news/analyst-ratings/keybanc-raises-wolverine-world-wide-stock-price-target-on-earnings-beat-93CH-5024747",
-    "AI|https://www.investing.com/news/company-news/tecnicas-reunidas-9m-2026-slides-backlog-soars-amid-diversification-93CH-5024750",
     "AI|https://www.investing.com/news/analyst-ratings/needham-reiterates-buy-on-hubspot-stock-after-leadership-change-93CH-5024752",
     "AI|https://www.investing.com/news/analyst-ratings/bofa-cuts-applied-materials-stock-price-target-on-valuation-93CH-5024753",
     "AI|https://www.investing.com/news/company-news/david-kustoff-sells-warner-bros-discovery-stock-93CH-5024756",
@@ -5000,7 +4997,10 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/datadog-cfo-david-obstler-sells-91m-in-shares-93CH-5027797",
     "Watchlist|https://www.investing.com/news/stock-market-news/street-calls-of-the-week-93CH-5027529",
     "Watchlist|https://www.investing.com/news/insider-trading-news/datadog-cfo-david-obstler-sells-546m-in-stock-93CH-5027796",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/datadog-cfo-david-obstler-sells-91m-in-shares-93CH-5027797"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/datadog-cfo-david-obstler-sells-91m-in-shares-93CH-5027797",
+    "AI|e69c8848-77df-398e-a0ac-13595462790c",
+    "AI|f5a287e6-9acf-3413-a2f2-2248cb1324b9",
+    "Watchlist|f5a287e6-9acf-3413-a2f2-2248cb1324b9"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794737850.5523345,
+  "last_check": 1794738770.9201264,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
