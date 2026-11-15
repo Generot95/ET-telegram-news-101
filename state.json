@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/inspiremd-prices-public-offering-at-13-per-share-93CH-5025362",
-    "Cybersecurity|https://www.investing.com/news/company-news/natura-q3-2026-slides-cash-flow-surges-as-brazil-crisis-persists-93CH-5025444",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/candel-therapeutics-stock-price-target-cut-to-19-by-stifel-on-bla-delay-93CH-5025430",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/stifel-cuts-yeti-stock-price-target-on-weaker-holiday-demand-93CH-5025429",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-sagimet-biosciences-stock-sell-rating-93CH-5025428",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/raymond-james-cuts-or-royalties-stock-price-target-on-stream-deals-93CH-5025431",
-    "SG Banks|https://www.investing.com/news/company-news/zetwerk-q2-fy27-slides-margins-expand-as-manufacturing-backlog-hits-record-93CH-5025432",
     "SG Banks|https://www.investing.com/news/economy-news/bank-of-england-to-wait-until-february-to-next-raise-rates-say-economists-reuters-poll-5025433",
     "SG Banks|https://www.investing.com/news/company-news/columbia-banking-system-raises-quarterly-dividend-3-93CH-5025434",
     "SG Banks|https://www.investing.com/news/earnings/biokey-shares-tumble-11-despite-revenue-miss-wider-loss-5025435",
@@ -5000,7 +4993,14 @@
     "AI|https://www.investing.com/news/stock-market-news/jensen-huang-may-return-as-nvidia-chief-executive--report-5028097",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/jensen-huang-may-return-as-nvidia-chief-executive--report-5028097",
     "SG Banks|https://www.investing.com/news/stock-market-news/jensen-huang-may-return-as-nvidia-chief-executive--report-5028097",
-    "Watchlist|https://www.investing.com/news/stock-market-news/jensen-huang-may-return-as-nvidia-chief-executive--report-5028097"
+    "Watchlist|https://www.investing.com/news/stock-market-news/jensen-huang-may-return-as-nvidia-chief-executive--report-5028097",
+    "SG Banks|https://www.straitstimes.com/singapore/jobs/askst-jobs-is-it-ok-to-ask-my-boss-if-more-retrenchments-are-coming",
+    "AI|92db780d-be7e-3bd2-8939-7dcf26f90b8e",
+    "AI|4bc68ccb-f334-3243-893f-c9b1ede41091",
+    "Watchlist|92db780d-be7e-3bd2-8939-7dcf26f90b8e",
+    "Watchlist|4bc68ccb-f334-3243-893f-c9b1ede41091",
+    "AI|2bf759ed-f3e5-3a91-9d98-6513a967fcb2",
+    "Watchlist|2bf759ed-f3e5-3a91-9d98-6513a967fcb2"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794776385.9007943,
+  "last_check": 1794777309.5296586,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-15"
