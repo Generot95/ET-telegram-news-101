@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|390feff4-84c6-3646-9d24-6b8cfff50b7d",
-    "AI|2c66fcb1-ab8f-3661-8388-285fe669a79c",
-    "AI|de3bd677-a42d-331d-a422-4f16cb0958e5",
-    "AI|426c2dfb-f430-3b9f-b292-1f59a713f1f2",
-    "Cybersecurity|de3bd677-a42d-331d-a422-4f16cb0958e5",
-    "Watchlist|2c66fcb1-ab8f-3661-8388-285fe669a79c",
-    "Watchlist|de3bd677-a42d-331d-a422-4f16cb0958e5",
-    "Watchlist|426c2dfb-f430-3b9f-b292-1f59a713f1f2",
     "War|751c4ba2-62e0-3dda-84ee-42e83e25ec9e",
     "War|84e9759d-6026-4ca9-b73d-aec5a99fb02d",
     "AI|d59c4968-3969-309e-bc4e-34211cd16727",
@@ -5000,7 +4992,15 @@
     "Iran|https://www.iranintl.com/en/202611126783",
     "AI|6c566bad-facc-3566-b47b-a13ebf219d31",
     "AI|e3d34c3a-d495-32c4-b8db-47304d4d6b40",
-    "Watchlist|e3d34c3a-d495-32c4-b8db-47304d4d6b40"
+    "Watchlist|e3d34c3a-d495-32c4-b8db-47304d4d6b40",
+    "AI|https://www.investing.com/news/insider-trading-news/vivos-president-brad-weeks-acquires-1231-of-common-stock-93CH-5028038",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/vivos-president-brad-weeks-acquires-1231-of-common-stock-93CH-5028038",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/vivos-president-brad-weeks-acquires-1231-of-common-stock-93CH-5028038",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/vivos-president-brad-weeks-acquires-1231-of-common-stock-93CH-5028038",
+    "AI|e92a9fdf-afad-37c9-a695-81c793cbb6ca",
+    "AI|45f63920-0775-3190-a367-5845deeef81f",
+    "Watchlist|45f63920-0775-3190-a367-5845deeef81f",
+    "Watchlist|e92a9fdf-afad-37c9-a695-81c793cbb6ca"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794765385.8013325,
+  "last_check": 1794766296.9323752,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-15"
