@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-sony-financial-group-tops-h1-2026-profit-shares-slip-93CH-5024589",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-ememory-q3-2026-misses-forecasts-as-stock-slips-93CH-5024590",
-    "SG Banks|https://www.investing.com/news/stock-market-news/european-shares-retreat-from-record-highs-ai-uncertainty-weighs-5024437",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/citizens-maintains-sagimet-stock-rating-on-acne-pivot-confidence-93CH-5024583",
     "Watchlist|https://www.investing.com/news/analyst-ratings/intellia-stock-price-target-maintained-at-30-by-citizens-on-hae-data-93CH-5024584",
     "Watchlist|https://www.investing.com/news/analyst-ratings/piper-sandler-initiates-innio-stock-with-overweight-rating-on-power-demand-93CH-5024585",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-cerebras-systems-stock-surging-today-93CH-5024586",
@@ -5000,7 +4996,11 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/orion-energy-systems-ceo-sally-washlow-buys-9906-in-common-stock-93CH-5027626",
     "Watchlist|https://www.investing.com/news/insider-trading-news/figs-inc-cfo-sarah-oughtred-sells-197m-in-stock-93CH-5027620",
     "Watchlist|https://www.investing.com/news/commodities-news/us-diesel-below-6-a-gallon-at-2month-low-on-easing-tensions-weaker-demand-5027622",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/orion-energy-systems-ceo-sally-washlow-buys-9906-in-common-stock-93CH-5027626"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/orion-energy-systems-ceo-sally-washlow-buys-9906-in-common-stock-93CH-5027626",
+    "AI|6db803e4-1e9f-364b-9e86-f1d55a2a7416",
+    "Watchlist|6db803e4-1e9f-364b-9e86-f1d55a2a7416",
+    "AI|027d7acc-6368-36f1-8dca-31a7febcf34c",
+    "Watchlist|027d7acc-6368-36f1-8dca-31a7febcf34c"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794706660.4543896,
+  "last_check": 1794707574.5103133,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
