@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/commodities-news/european-gas-logs-12-weekly-surge-as-usiran-diplomatic-hopes-collapse-5024311",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/universal-electronics-director-eric-singer-sells-580725-in-stock-93CH-5024627",
     "Watchlist|https://www.investing.com/news/insider-trading-news/peoples-financial-director-james-b-nicholas-sells-865230-in-stock-93CH-5024628",
     "Watchlist|https://www.investing.com/news/analyst-ratings/needham-cuts-nvidia-stock-price-target-on-ceo-transition-uncertainty-93CH-5024629",
     "Iran|https://www.iranintl.com/en/202611094619",
@@ -5000,7 +4998,9 @@
     "SG Banks|https://www.investing.com/news/economy-news/copa-airlines-ups-planes-collide-while-taxiing-at-miami-airport-5027661",
     "Watchlist|https://www.investing.com/news/earnings/greenland-tech-holding-earnings-beat-by-008-revenue-topped-estimates-5027660",
     "Watchlist|https://www.investing.com/news/economy-news/copa-airlines-ups-planes-collide-while-taxiing-at-miami-airport-5027661",
-    "Watchlist|60537ad7-6ba3-344a-83e2-d2d7e49e61b7"
+    "Watchlist|60537ad7-6ba3-344a-83e2-d2d7e49e61b7",
+    "AI|3dfc7191-377b-346b-9ce7-37aab054cbc0",
+    "Watchlist|3dfc7191-377b-346b-9ce7-37aab054cbc0"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794717668.5057027,
+  "last_check": 1794718587.556339,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
