@@ -1,7 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/universal-electronics-director-eric-singer-sells-580725-in-stock-93CH-5024627",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/peoples-financial-director-james-b-nicholas-sells-865230-in-stock-93CH-5024628",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/needham-cuts-nvidia-stock-price-target-on-ceo-transition-uncertainty-93CH-5024629",
     "Cybersecurity|https://www.investing.com/news/company-news/manorama-q2-fy27-slides-specialty-fats-revenue-surges-42-93CH-5024594",
@@ -5000,7 +4999,8 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/neonc-technologies-ceo-amir-heshmatpour-buys-2945k-shares-93CH-5027643",
     "Watchlist|https://www.investing.com/news/insider-trading-news/saba-capital-sells-406836-in-pimco-dynamic-income-strategy-fund-93CH-5027647",
     "AI|ed6cf308-6bb6-3700-8969-b1228eca7ad5",
-    "Watchlist|ed6cf308-6bb6-3700-8969-b1228eca7ad5"
+    "Watchlist|ed6cf308-6bb6-3700-8969-b1228eca7ad5",
+    "War|cf13486b-fe5a-3d38-8df4-4b68de1e4029"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794714013.1934197,
+  "last_check": 1794714925.109551,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
