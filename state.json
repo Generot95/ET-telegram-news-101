@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/nhs-reschedules-procedures-after-microsoft-outage-hits-systems--report-93CH-5025238",
-    "AI|https://www.investing.com/news/company-news/ff-robotics-q3-2026-slides-record-october-sales-transformation-complete-93CH-5025212",
-    "AI|https://www.investing.com/news/company-news/twenty-one-capital-reports-109b-q3-gain-on-bitcoin-holdings-93CH-5025216",
-    "AI|https://www.investing.com/news/company-news/usha-martin-q2-fy27-slides-margins-expand-net-cash-hits-rs-415-cr-93CH-5025222",
     "AI|https://www.investing.com/news/company-news/3e-network-closes-5-million-private-placement-93CH-5025237",
     "AI|https://www.investing.com/news/company-news/zaggle-q2-fy27-slides-34-revenue-growth-cash-flow-turns-positive-93CH-5025269",
     "AI|https://www.investing.com/news/company-news/surrozen-prices-60-million-public-offering-at-3167-per-share-93CH-5025272",
@@ -5000,7 +4996,11 @@
     "Crypto|375c5b30-bdb0-3bc6-af7d-57f4d3519115",
     "Cybersecurity|https://www.investing.com/news/economy-news/fed-has-some-work-to-do-on-inflation-kc-fed-chief-says-5028048",
     "SG Banks|https://www.investing.com/news/economy-news/fed-has-some-work-to-do-on-inflation-kc-fed-chief-says-5028048",
-    "Watchlist|https://www.investing.com/news/economy-news/fed-has-some-work-to-do-on-inflation-kc-fed-chief-says-5028048"
+    "Watchlist|https://www.investing.com/news/economy-news/fed-has-some-work-to-do-on-inflation-kc-fed-chief-says-5028048",
+    "AI|6c63b561-6e14-3f9f-9ca0-56121ed4eed5",
+    "Watchlist|6c63b561-6e14-3f9f-9ca0-56121ed4eed5",
+    "AI|71fd9c73-0433-3521-9cd5-6669697eafba",
+    "Watchlist|71fd9c73-0433-3521-9cd5-6669697eafba"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794769060.5191746,
+  "last_check": 1794769965.266099,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-15"
