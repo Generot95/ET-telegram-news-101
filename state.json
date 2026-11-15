@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|33d8021f-6ba0-356d-8d7a-464e8a0de977",
-    "AI|51a9c6b7-5ddc-3be8-aec8-d16f3ff31604",
-    "Watchlist|33d8021f-6ba0-356d-8d7a-464e8a0de977",
-    "Watchlist|51a9c6b7-5ddc-3be8-aec8-d16f3ff31604",
-    "AI|08d5b7f1-3699-3bc1-829c-a5c0862737b9",
-    "AI|168c9234-94da-3062-9957-0f83738b100d",
-    "Watchlist|168c9234-94da-3062-9957-0f83738b100d",
-    "Watchlist|08d5b7f1-3699-3bc1-829c-a5c0862737b9",
-    "War|9439e5c8-e6c9-33ea-a4c1-df44211e0e84",
-    "AI|https://www.investing.com/news/insider-trading-news/travel--leisure-co-director-michael-brown-sells-159-million-in-shares-93CH-5024681",
-    "AI|https://www.investing.com/news/analyst-ratings/evercore-isi-cuts-tractor-supply-stock-rating-on-weak-discretionary-outlook-93CH-5024683",
     "AI|https://www.investing.com/news/analyst-ratings/loop-capital-upgrades-autodesk-stock-rating-on-improving-fundamentals-93CH-5024682",
     "AI|https://www.investing.com/news/analyst-ratings/bofa-downgrades-alexandria-real-estate-stock-rating-on-earnings-concerns-93CH-5024684",
     "AI|https://www.investing.com/news/analyst-ratings/evercore-isi-cuts-floor--decor-stock-rating-on-weak-demand-outlook-93CH-5024686",
@@ -5000,7 +4989,18 @@
     "SG Banks|76536950-4de8-346a-9ba3-8c00b34de470",
     "SG Banks|/companies-markets/genting-singapore-shares-one-year-low-q3-profit-down-42-2",
     "Iran|https://www.iranintl.com/en/202611133720",
-    "Watchlist|/companies-markets/genting-singapore-shares-one-year-low-q3-profit-down-42-2"
+    "Watchlist|/companies-markets/genting-singapore-shares-one-year-low-q3-profit-down-42-2",
+    "AI|https://www.investing.com/news/economic-indicators/cape-verde-votes-for-president-with-emigration-in-focus-5027689",
+    "AI|https://www.investing.com/news/company-news/novelis-to-sell-two-china-subsidiaries-for-265-million-5027690",
+    "Cybersecurity|https://www.investing.com/news/economic-indicators/cape-verde-votes-for-president-with-emigration-in-focus-5027689",
+    "Cybersecurity|https://www.investing.com/news/company-news/novelis-to-sell-two-china-subsidiaries-for-265-million-5027690",
+    "SG Banks|https://www.investing.com/news/economic-indicators/cape-verde-votes-for-president-with-emigration-in-focus-5027689",
+    "SG Banks|https://www.investing.com/news/company-news/novelis-to-sell-two-china-subsidiaries-for-265-million-5027690",
+    "Watchlist|https://www.investing.com/news/economic-indicators/cape-verde-votes-for-president-with-emigration-in-focus-5027689",
+    "Watchlist|https://www.investing.com/news/company-news/novelis-to-sell-two-china-subsidiaries-for-265-million-5027690",
+    "Crypto|3de217a8-511e-3523-9c47-b57f95a69ac5",
+    "AI|2a36e1a8-5661-3399-ac2b-8e0ba9e8b390",
+    "Watchlist|2a36e1a8-5661-3399-ac2b-8e0ba9e8b390"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794726853.0396705,
+  "last_check": 1794727766.1318314,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
