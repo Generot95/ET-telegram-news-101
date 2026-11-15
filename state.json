@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/unipol-9m26-slides-net-profit-surges-13-on-strong-underwriting-93CH-5024977",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/rosenblatt-maintains-nebius-stock-rating-on-strong-q3-results-93CH-5024979",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/oppenheimer-lowers-cormedix-stock-price-target-to-13-on-valuation-93CH-5024978",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-spinneys-posts-steady-q3-2026-growth-cuts-revenue-outlook-93CH-5024983",
-    "Watchlist|https://www.investing.com/news/stock-market-news/goldman-sachs-sees-ai-impulse-peaking-in-2027-5024957",
-    "Watchlist|https://www.investing.com/news/company-news/ace-q2-fy27-slides-record-margins-amid-infrastructure-boom-93CH-5024958",
-    "Watchlist|https://www.investing.com/news/stock-market-news/cerebras-shares-surge-as-profit-surprise-forecast-raise-ease-ai-spending-worries-5024960",
     "Watchlist|https://www.investing.com/news/economy-news/us-bank-overdraft-fees-jump-9-to-fouryear-high-datashows-5024653",
     "Watchlist|https://www.investing.com/news/company-news/fort-technology-secures-up-to-20m-convertible-note-facility-93CH-5024962",
     "Watchlist|https://www.investing.com/news/company-news/unipol-9m26-slides-net-profit-surges-13-on-strong-underwriting-93CH-5024977",
@@ -5000,7 +4993,14 @@
     "Watchlist|https://www.investing.com/news/world-news/yemen-government-forces-withdraw-from-area-near-bab-elmandeb-strait-houthis-in-control-5027740",
     "Watchlist|https://www.investing.com/news/insider-trading-news/mt-bank-corp-ceo-rene-jones-sells-464-million-in-shares-93CH-5027966",
     "Watchlist|https://www.investing.com/news/insider-trading-news/verizon-evp-kyle-malady-sells-56309-in-company-stock-93CH-5027969",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/texas-pacific-land-10-owner-horizon-kinetics-buys-370-stock-93CH-5027970"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/texas-pacific-land-10-owner-horizon-kinetics-buys-370-stock-93CH-5027970",
+    "AI|9acb1037-8517-3570-b1a3-ccfc9ca7c1bf",
+    "Cybersecurity|6a8d4cf2-fed4-3f93-b7a7-98c29e894b29",
+    "Watchlist|9acb1037-8517-3570-b1a3-ccfc9ca7c1bf",
+    "AI|250ad39b-269f-3e88-83b0-2c8af1b6e0d7",
+    "Watchlist|250ad39b-269f-3e88-83b0-2c8af1b6e0d7",
+    "Iran|https://www.iranintl.com/en/202611139302",
+    "SG Banks|https://www.channelnewsasia.com/business/new-world-development-rights-issue-hong-kong-property-6553051"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794753460.140999,
+  "last_check": 1794754358.3826196,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-15"
