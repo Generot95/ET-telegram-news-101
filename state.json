@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/jpmorgan-names-top-engineering-stocks-amid-infrastructure-boom-5025282",
-    "AI|https://www.investing.com/news/stock-market-news/germany-to-propose-ecb-leadership-package-next-week-93CH-5025286",
-    "AI|https://www.investing.com/news/stock-market-news/keybanc-lifts-palo-alto-networks-rating-sees-security-budgets-accelerating-5025317",
-    "AI|https://www.investing.com/news/stock-market-news/tata-motors-cuts-jaguar-land-rover-profit-margin-guidance-93CH-5025328",
     "AI|https://www.investing.com/news/stock-market-news/why-is-hawkeye-360-stock-surging-today-93CH-5025393",
     "AI|https://www.investing.com/news/company-news/biokey-reports-q3-revenue-of-15m-narrows-net-loss-8-93CH-5025277",
     "AI|https://www.investing.com/news/company-news/sigma-lithium-q3-2026-slides-margins-hold-despite-production-shutdown-93CH-5025283",
@@ -5000,7 +4996,11 @@
     "Watchlist|f8d75492-d543-31f8-a9e4-525c6a832328",
     "AI|13a92d7b-cf49-3bfd-88d4-2f7067732a1f",
     "Crypto|4bb6e553-8eb1-34e8-a690-d0700b8c29e3",
-    "Watchlist|13a92d7b-cf49-3bfd-88d4-2f7067732a1f"
+    "Watchlist|13a92d7b-cf49-3bfd-88d4-2f7067732a1f",
+    "War|820f5801-a27c-3765-8467-b8375aa6bcc1",
+    "AI|c232adf4-fee4-3333-9ea0-525daa262b97",
+    "Watchlist|c232adf4-fee4-3333-9ea0-525daa262b97",
+    "Crypto|5fed1643-4fa2-3e97-b871-28dc7ae002e2"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794773627.0826735,
+  "last_check": 1794774541.1891444,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-15"
