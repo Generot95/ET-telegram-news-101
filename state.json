@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/peoples-financial-director-james-b-nicholas-sells-865230-in-stock-93CH-5024628",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/needham-cuts-nvidia-stock-price-target-on-ceo-transition-uncertainty-93CH-5024629",
-    "Cybersecurity|https://www.investing.com/news/company-news/manorama-q2-fy27-slides-specialty-fats-revenue-surges-42-93CH-5024594",
-    "Cybersecurity|https://www.investing.com/news/company-news/deutsche-euroshop-9m-2026-slides-revenue-rises-ffo-pressured-93CH-5024607",
-    "Cybersecurity|https://www.investing.com/news/company-news/bridgestone-q3-2026-slides-record-profit-amid-rising-cost-pressures-93CH-5024616",
-    "SG Banks|https://www.investing.com/news/company-news/sony-financial-q2-fy2026-slides-profit-surges-33-despite-sales-headwinds-93CH-5024618",
-    "SG Banks|https://www.investing.com/news/stock-market-news/keurig-dr-pepper-stock-slips-on-pricing-of-its-share-offering-93CH-5024619",
-    "SG Banks|https://www.investing.com/news/company-news/inpex-q3-2026-slides-record-profit-on-ichthys-strength-abadi-fid-eyed-93CH-5024620",
-    "SG Banks|https://www.investing.com/news/commodities-news/goldman-sees-copper-climbing-to-15600-per-ton-by-december-2027-93CH-5024621",
-    "SG Banks|https://www.investing.com/news/commodities-news/goldman-sees-gulf-lng-disruption-pushing-ttf-gas-prices-higher-93CH-5024622",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-astra-microwave-posts-q2-2026-beat-as-stock-falls-93CH-5024623",
     "SG Banks|https://www.investing.com/news/commodities-news/european-gas-logs-12-weekly-surge-as-usiran-diplomatic-hopes-collapse-5024311",
     "SG Banks|https://www.investing.com/news/insider-trading-news/universal-electronics-director-eric-singer-sells-580725-in-stock-93CH-5024627",
     "SG Banks|https://www.investing.com/news/insider-trading-news/peoples-financial-director-james-b-nicholas-sells-865230-in-stock-93CH-5024628",
@@ -5000,7 +4989,18 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/saba-capital-sells-406836-in-pimco-dynamic-income-strategy-fund-93CH-5027647",
     "AI|ed6cf308-6bb6-3700-8969-b1228eca7ad5",
     "Watchlist|ed6cf308-6bb6-3700-8969-b1228eca7ad5",
-    "War|cf13486b-fe5a-3d38-8df4-4b68de1e4029"
+    "War|cf13486b-fe5a-3d38-8df4-4b68de1e4029",
+    "AI|https://www.investing.com/news/stock-market-news/ing-sets-out-10-key-questions-for-chinas-economy-in-2027-5027649",
+    "AI|https://www.investing.com/news/insider-trading-news/acnb-director-frank-elsner-iii-buys-250-in-stock-receives-compensation-93CH-5027655",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/ing-sets-out-10-key-questions-for-chinas-economy-in-2027-5027649",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/acnb-director-frank-elsner-iii-buys-250-in-stock-receives-compensation-93CH-5027655",
+    "SG Banks|https://www.investing.com/news/stock-market-news/ing-sets-out-10-key-questions-for-chinas-economy-in-2027-5027649",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/acnb-director-frank-elsner-iii-buys-250-in-stock-receives-compensation-93CH-5027655",
+    "Watchlist|https://www.investing.com/news/stock-market-news/ing-sets-out-10-key-questions-for-chinas-economy-in-2027-5027649",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/acnb-director-frank-elsner-iii-buys-250-in-stock-receives-compensation-93CH-5027655",
+    "SG Banks|/companies-markets/no-better-time-now-yangzijiang-maritime-eyes-2027-2028-profit-surge-newbuild-deliveries",
+    "Watchlist|/companies-markets/no-better-time-now-yangzijiang-maritime-eyes-2027-2028-profit-surge-newbuild-deliveries",
+    "Crypto|97d8ab7d-089b-35b0-8c41-85de9859672b"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794714925.109551,
+  "last_check": 1794715840.691923,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
