@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/eos-falls-19-in-bearish-trade-5021397",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/ava-foundation-and-travala-unveil-ava-30-a-travalafirst-roadmap-5021415",
-    "Watchlist|c86cf053-ce02-343c-ba4d-07211fd1b481",
-    "Watchlist|c3d62707-c404-36eb-b820-525a5adbe300",
-    "AI|8f145d52-31ed-34ab-942d-21ee065f1f4a",
-    "Watchlist|8f145d52-31ed-34ab-942d-21ee065f1f4a",
-    "AI|https://www.investing.com/news/analyst-ratings/keybanc-cuts-neuropace-stock-price-target-on-lowered-estimates-93CH-5024715",
-    "AI|https://www.investing.com/news/analyst-ratings/keybanc-lowers-yeti-stock-price-target-to-49-on-guidance-cut-93CH-5024716",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-bonfiglioli-transmissions-jumps-on-strong-q3-2026-growth-93CH-5024717",
     "AI|https://www.investing.com/news/stock-market-news/nasdaq-futures-dip-as-nvidia-tumult-keeps-investors-on-edge-5024713",
     "AI|https://www.investing.com/news/analyst-ratings/wells-fargo-raises-cigna-stock-price-target-to-325-on-valuation-93CH-5024729",
     "AI|https://www.investing.com/news/analyst-ratings/wells-fargo-lowers-cisco-stock-price-target-on-market-compression-93CH-5024728",
@@ -5000,7 +4991,16 @@
     "AI|0cbec00b-d313-3700-b0bb-1b7e8135ad84",
     "Watchlist|0cbec00b-d313-3700-b0bb-1b7e8135ad84",
     "AI|a7a02601-8478-379d-9e37-762a92df7f12",
-    "Watchlist|a7a02601-8478-379d-9e37-762a92df7f12"
+    "Watchlist|a7a02601-8478-379d-9e37-762a92df7f12",
+    "War|3d2ffa3e-de94-34ff-bd33-b3701a2ec7aa",
+    "AI|https://www.investing.com/news/insider-trading-news/first-busey-director-michael-cassens-sells-43878-of-buse-stock-93CH-5027748",
+    "AI|https://www.investing.com/news/insider-trading-news/health-catalyst-ceo-simeon-kohl-acquires-105438-in-company-stock-93CH-5027749",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/first-busey-director-michael-cassens-sells-43878-of-buse-stock-93CH-5027748",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/health-catalyst-ceo-simeon-kohl-acquires-105438-in-company-stock-93CH-5027749",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/first-busey-director-michael-cassens-sells-43878-of-buse-stock-93CH-5027748",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/health-catalyst-ceo-simeon-kohl-acquires-105438-in-company-stock-93CH-5027749",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/first-busey-director-michael-cassens-sells-43878-of-buse-stock-93CH-5027748",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/health-catalyst-ceo-simeon-kohl-acquires-105438-in-company-stock-93CH-5027749"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794732361.4956615,
+  "last_check": 1794733277.0268931,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
