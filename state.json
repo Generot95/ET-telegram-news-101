@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/analyst-ratings/intellia-stock-price-target-maintained-at-30-by-citizens-on-hae-data-93CH-5024584",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/piper-sandler-initiates-innio-stock-with-overweight-rating-on-power-demand-93CH-5024585",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-cerebras-systems-stock-surging-today-93CH-5024586",
-    "Watchlist|https://www.investing.com/news/company-news/orsero-9m-2026-slides-profit-falls-as-commodity-pressure-hits-margins-93CH-5024587",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-deutsche-euroshop-lifts-2026-outlook-after-solid-q3-93CH-5024588",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-sony-financial-group-tops-h1-2026-profit-shares-slip-93CH-5024589",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-ememory-q3-2026-misses-forecasts-as-stock-slips-93CH-5024590",
-    "Watchlist|https://www.investing.com/news/stock-market-news/european-shares-retreat-from-record-highs-ai-uncertainty-weighs-5024437",
-    "War|daf5baab-ba94-3672-9366-b1aa4c2eb6a7",
     "Iran|https://www.iranintl.com/en/202611129472",
     "AI|a3916fee-402b-381f-a21f-9948f98892d1",
     "Watchlist|88a56b2a-9440-36fe-bc34-5446f089ddc0",
@@ -5000,7 +4991,16 @@
     "AI|6db803e4-1e9f-364b-9e86-f1d55a2a7416",
     "Watchlist|6db803e4-1e9f-364b-9e86-f1d55a2a7416",
     "AI|027d7acc-6368-36f1-8dca-31a7febcf34c",
-    "Watchlist|027d7acc-6368-36f1-8dca-31a7febcf34c"
+    "Watchlist|027d7acc-6368-36f1-8dca-31a7febcf34c",
+    "AI|https://www.investing.com/news/stock-market-news/evercore-explains-why-apple-has-the-right-assets-to-win-the-personal-agents-race-5027628",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/evercore-explains-why-apple-has-the-right-assets-to-win-the-personal-agents-race-5027628",
+    "SG Banks|https://www.investing.com/news/stock-market-news/evercore-explains-why-apple-has-the-right-assets-to-win-the-personal-agents-race-5027628",
+    "Watchlist|https://www.investing.com/news/stock-market-news/evercore-explains-why-apple-has-the-right-assets-to-win-the-personal-agents-race-5027628",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/jensen-huangs-ousting-sends-tech-stocks-tumbling-singtel-ceo-sells-shares-markets-this-week",
+    "AI|https://www.investing.com/news/world-news/spacexs-starship-aces-first-return-to-texas-5027522",
+    "Cybersecurity|https://www.investing.com/news/world-news/spacexs-starship-aces-first-return-to-texas-5027522",
+    "SG Banks|https://www.investing.com/news/world-news/spacexs-starship-aces-first-return-to-texas-5027522",
+    "Watchlist|https://www.investing.com/news/world-news/spacexs-starship-aces-first-return-to-texas-5027522"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794707574.5103133,
+  "last_check": 1794708492.9632976,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
