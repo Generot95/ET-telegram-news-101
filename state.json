@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/avalon-q2-fy27-slides-show-profitability-surge-europe-expansion-93CH-5024843",
-    "SG Banks|https://www.investing.com/news/company-news/rezolute-prices-100-million-stock-offering-at-387-per-share-93CH-5024845",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-techno-electric-posts-strong-q2-2027-growth-shares-fall-6-93CH-5024846",
-    "SG Banks|https://www.investing.com/news/stock-market-news/jp-morgan-says-skf-auto-spinoff-no-longer-weighs-on-shares-5024847",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/hc-wainwright-initiates-liquidia-stock-with-buy-rating-93CH-5024848",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-titagarh-rail-systems-q2-2026-revenue-beats-shares-rise-93CH-5024849",
-    "Watchlist|https://www.investing.com/news/company-news/ah-realty-trust-sells-12th-multifamily-property-for-debt-reduction-93CH-5024840",
     "Watchlist|https://www.investing.com/news/sec-filings/irhythm-holdings-board-adopts-deferred-compensation-plan-for-executives-and-directors-93CH-5024841",
     "Watchlist|https://www.investing.com/news/company-news/avalon-q2-fy27-slides-show-profitability-surge-europe-expansion-93CH-5024843",
     "Watchlist|https://www.investing.com/news/company-news/rezolute-prices-100-million-stock-offering-at-387-per-share-93CH-5024845",
@@ -5000,7 +4993,14 @@
     "SG Banks|https://www.investing.com/news/economy-news/labour-lawmakers-challenge-burnham-on-rosebank-oil-drilling--report-5027878",
     "Watchlist|b4f7abd0-f12c-3f1b-9cd9-e9289113a51e",
     "Watchlist|https://www.investing.com/news/insider-trading-news/dlh-holdings-10-owner-mink-brook-buys-6225-in-shares-93CH-5027876",
-    "Watchlist|https://www.investing.com/news/economy-news/labour-lawmakers-challenge-burnham-on-rosebank-oil-drilling--report-5027878"
+    "Watchlist|https://www.investing.com/news/economy-news/labour-lawmakers-challenge-burnham-on-rosebank-oil-drilling--report-5027878",
+    "AI|5357ba69-db01-3a60-a7b0-cd626b507fad",
+    "AI|038e4b17-6312-3704-ba48-24131f7b737f",
+    "Watchlist|5357ba69-db01-3a60-a7b0-cd626b507fad",
+    "Watchlist|038e4b17-6312-3704-ba48-24131f7b737f",
+    "War|WP-MKTW-0005347668",
+    "AI|WP-MKTW-0005347668",
+    "Cybersecurity|WP-MKTW-0005347668"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794745195.7387638,
+  "last_check": 1794746112.530867,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-15"
