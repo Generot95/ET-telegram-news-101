@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|/companies-markets/genting-singapore-hits-one-year-low-amid-broader-fall-singapore-stocks-sti-down-1",
-    "SG Banks|https://www.channelnewsasia.com/business/exclusive-amazons-plan-own-worlds-product-data-and-fight-ai-shopping-agents-6549286",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/keybanc-raises-wolverine-world-wide-stock-price-target-on-earnings-beat-93CH-5024747",
-    "SG Banks|https://www.investing.com/news/company-news/tecnicas-reunidas-9m-2026-slides-backlog-soars-amid-diversification-93CH-5024750",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/needham-reiterates-buy-on-hubspot-stock-after-leadership-change-93CH-5024752",
     "SG Banks|https://www.investing.com/news/analyst-ratings/bofa-cuts-applied-materials-stock-price-target-on-valuation-93CH-5024753",
     "SG Banks|https://www.investing.com/news/company-news/david-kustoff-sells-warner-bros-discovery-stock-93CH-5024756",
     "SG Banks|https://www.investing.com/news/investment-ideas/how-investingpro-spotted-chronoscales-49-decline-two-months-early-93CH-5024757",
@@ -5000,7 +4995,12 @@
     "AI|c9ced188-7678-3c61-bef4-996af4555df7",
     "Watchlist|f99bfbf6-d4ee-3c6c-9709-efd869819fb4",
     "Watchlist|f38cbc26-165e-3977-809a-9adac0bf4d28",
-    "Watchlist|c9ced188-7678-3c61-bef4-996af4555df7"
+    "Watchlist|c9ced188-7678-3c61-bef4-996af4555df7",
+    "War|b3cf8830-ecbc-3e25-b4e3-4aed2a065704",
+    "AI|f439bfcc-5547-4065-a969-330a37c73f06",
+    "AI|b01811be-45be-4259-8909-1feebcfd715c",
+    "Watchlist|b01811be-45be-4259-8909-1feebcfd715c",
+    "Watchlist|f439bfcc-5547-4065-a969-330a37c73f06"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5088,8 +5088,8 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794739697.5327308,
+  "last_check": 1794740614.746269,
   "last_board": "2026-10-27",
   "commands_version": 9,
-  "last_report": "2026-11-14"
+  "last_report": "2026-11-15"
 }
