@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/grasim-q2fy27-slides-record-revenue-growth-profit-hit-by-charges-93CH-5025075",
-    "AI|https://www.investing.com/news/analyst-ratings/stifel-reiterates-codexis-stock-rating-on-pharma-demand-strength-93CH-5025076",
-    "AI|https://www.investing.com/news/stock-market-news/germany-warns-of-security-flaws-in-danfoss-cooling-systems-93CH-5025100",
-    "AI|https://www.investing.com/news/economy-news/analysisurgent-climate-finance-pleas-at-cop31-face-a-nonurgent-response-5025059",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-sharda-motor-q2-2026-profit-rises-as-stock-jumps-8-93CH-5025102",
-    "AI|https://www.investing.com/news/stock-market-news/rosenblatt-defends-super-micro-amid-selloff-megaspeed-allegations-5025025",
-    "AI|https://www.investing.com/news/stock-market-news/ai-software-is-sinking-why-is-accenture-winning-845b-deals-5024844",
     "AI|https://www.investing.com/news/stock-market-news/why-fed-rate-hike-fears-are-a-gold-mine-for-this-bond-monopoly-5024857",
     "AI|https://www.investing.com/news/stock-market-news/after-nvidias-427b-wipeout-is-amds-117x-pe-rally-a-trap-5024879",
     "AI|https://www.investing.com/news/stock-market-news/credo-technology-owns-93-of-its-ai-cable-nicheso-why-did-it-plunge-30-5024896",
@@ -5000,7 +4993,14 @@
     "AI|3d9c458f-595e-3290-a1a4-2be2186e90c1",
     "AI|750bfade-6df1-3012-a447-c8ba4841e8fa",
     "Watchlist|3d9c458f-595e-3290-a1a4-2be2186e90c1",
-    "Watchlist|750bfade-6df1-3012-a447-c8ba4841e8fa"
+    "Watchlist|750bfade-6df1-3012-a447-c8ba4841e8fa",
+    "Iran|https://www.iranintl.com/en/202611157272",
+    "AI|https://www.investing.com/news/insider-trading-news/redwood-trust-president-buys-251580-in-stock-93CH-5027990",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/redwood-trust-president-buys-251580-in-stock-93CH-5027990",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/redwood-trust-president-buys-251580-in-stock-93CH-5027990",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/redwood-trust-president-buys-251580-in-stock-93CH-5027990",
+    "War|70b71c1c-407f-4287-860c-baf42b6c049f",
+    "Watchlist|3f75d6a4-ab1d-36f3-ad94-8dc9569e531c"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794756192.3873487,
+  "last_check": 1794757109.9163914,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-15"
