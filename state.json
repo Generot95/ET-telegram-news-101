@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/redburn-lowers-broadcom-to-neutral-on-limited-rerating-potential-5025162",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/stephens-resumes-lending-tree-stock-with-overweight-rating-44-target-93CH-5025177",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/needham-cuts-applied-materials-stock-price-target-on-valuation-93CH-5025178",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/stonex-cuts-hancock-whitney-stock-price-target-on-acquisition-impact-93CH-5025179",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-usha-martin-posts-strong-q2-fy-2027-profit-growth-93CH-5025182",
-    "SG Banks|https://www.investing.com/news/stock-market-news/analysishow-us-tech-pain-is-european-stock-markets-gain-5025195",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-vir-biotechnology-stock-tumbling-today-93CH-5025209",
-    "Watchlist|https://www.investing.com/news/company-news/sharda-motor-q2-fy27-slides-revenue-surges-54-on-lightweighting-push-93CH-5025161",
-    "Watchlist|https://www.investing.com/news/stock-market-news/redburn-lowers-broadcom-to-neutral-on-limited-rerating-potential-5025162",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/stephens-resumes-lending-tree-stock-with-overweight-rating-44-target-93CH-5025177",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/needham-cuts-applied-materials-stock-price-target-on-valuation-93CH-5025178",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/stonex-cuts-hancock-whitney-stock-price-target-on-acquisition-impact-93CH-5025179",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-usha-martin-posts-strong-q2-fy-2027-profit-growth-93CH-5025182",
     "Watchlist|https://www.investing.com/news/stock-market-news/analysishow-us-tech-pain-is-european-stock-markets-gain-5025195",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-vir-biotechnology-stock-tumbling-today-93CH-5025209",
@@ -5000,7 +4988,19 @@
     "Crypto|62fec2c2-a469-3361-b6c1-eb20b7551b68",
     "Watchlist|62fec2c2-a469-3361-b6c1-eb20b7551b68",
     "Watchlist|a3ad01c1-7ae3-32eb-aaf8-fe6eaf637e5d",
-    "AI|62fec2c2-a469-3361-b6c1-eb20b7551b68"
+    "AI|62fec2c2-a469-3361-b6c1-eb20b7551b68",
+    "AI|7d44e6cd-5bfe-3d2a-b5da-b2ca8e27a522",
+    "Watchlist|7d44e6cd-5bfe-3d2a-b5da-b2ca8e27a522",
+    "AI|362eec8b-1d25-3489-a8e6-3a03ccab6ff1",
+    "Watchlist|362eec8b-1d25-3489-a8e6-3a03ccab6ff1",
+    "AI|1366ace8-14a7-3e64-a193-03cc3eecc180",
+    "Watchlist|1366ace8-14a7-3e64-a193-03cc3eecc180",
+    "AI|8f4c4328-9438-359b-92c1-ef6dbbd630e2",
+    "Watchlist|8f4c4328-9438-359b-92c1-ef6dbbd630e2",
+    "Iran|https://www.iranintl.com/en/202611151817",
+    "AI|16c138e1-c381-3be4-814f-08c05d80f4bc",
+    "Crypto|7fa4b45a-1787-3ecd-9937-5879a17b6986",
+    "Watchlist|16c138e1-c381-3be4-814f-08c05d80f4bc"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794763547.4949245,
+  "last_check": 1794764464.337593,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-15"
