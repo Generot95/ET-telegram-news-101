@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/analyst-ratings/raymond-james-cuts-or-royalties-stock-price-target-on-stream-deals-93CH-5025431",
-    "AI|https://www.investing.com/news/company-news/zetwerk-q2-fy27-slides-margins-expand-as-manufacturing-backlog-hits-record-93CH-5025432",
-    "AI|https://www.investing.com/news/economy-news/bank-of-england-to-wait-until-february-to-next-raise-rates-say-economists-reuters-poll-5025433",
-    "AI|https://www.investing.com/news/company-news/columbia-banking-system-raises-quarterly-dividend-3-93CH-5025434",
-    "AI|https://www.investing.com/news/earnings/biokey-shares-tumble-11-despite-revenue-miss-wider-loss-5025435",
-    "AI|https://www.investing.com/news/earnings/biokey-earnings-missed-by-366-revenue-fell-short-of-estimates-5025436",
-    "AI|https://www.investing.com/news/economy-news/nvidia-fallout-throws-spotlight-on-southeast-asias-ai-boom-5025437",
     "AI|https://www.investing.com/news/stock-market-news/jpmorgan-names-top-engineering-stocks-amid-infrastructure-boom-5025282",
     "AI|https://www.investing.com/news/stock-market-news/germany-to-propose-ecb-leadership-package-next-week-93CH-5025286",
     "AI|https://www.investing.com/news/stock-market-news/keybanc-lifts-palo-alto-networks-rating-sees-security-budgets-accelerating-5025317",
@@ -5000,7 +4993,14 @@
     "AI|4c41f2e7-a361-3e29-8c51-c958ed7e7779",
     "AI|1b3bcebd-406c-32be-bc77-0d72dd611660",
     "Watchlist|4c41f2e7-a361-3e29-8c51-c958ed7e7779",
-    "Watchlist|1b3bcebd-406c-32be-bc77-0d72dd611660"
+    "Watchlist|1b3bcebd-406c-32be-bc77-0d72dd611660",
+    "AI|69ea8e50-3727-3caa-99b9-f5d3e7953f5d",
+    "AI|f8d75492-d543-31f8-a9e4-525c6a832328",
+    "Watchlist|69ea8e50-3727-3caa-99b9-f5d3e7953f5d",
+    "Watchlist|f8d75492-d543-31f8-a9e4-525c6a832328",
+    "AI|13a92d7b-cf49-3bfd-88d4-2f7067732a1f",
+    "Crypto|4bb6e553-8eb1-34e8-a690-d0700b8c29e3",
+    "Watchlist|13a92d7b-cf49-3bfd-88d4-2f7067732a1f"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794772708.454028,
+  "last_check": 1794773627.0826735,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-15"
