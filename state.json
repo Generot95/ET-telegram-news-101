@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/analyst-ratings/loop-capital-upgrades-autodesk-stock-rating-on-improving-fundamentals-93CH-5024682",
-    "AI|https://www.investing.com/news/analyst-ratings/bofa-downgrades-alexandria-real-estate-stock-rating-on-earnings-concerns-93CH-5024684",
-    "AI|https://www.investing.com/news/analyst-ratings/evercore-isi-cuts-floor--decor-stock-rating-on-weak-demand-outlook-93CH-5024686",
-    "AI|https://www.investing.com/news/analyst-ratings/wells-fargo-initiates-alector-stock-with-overweight-on-alzheimers-drug-potential-93CH-5024685",
-    "AI|https://www.investing.com/news/analyst-ratings/wells-fargo-initiates-denali-therapeutics-stock-with-overweight-rating-93CH-5024687",
-    "AI|https://www.investing.com/news/company-news/ams-osram-q3-2026-presentation-revenue-beats-stock-falls-6-93CH-5024690",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-landsec-posts-steady-h1-2026-results-as-stock-rises-93CH-5024691",
-    "AI|https://www.investing.com/news/stock-market-news/white-house-urges-congress-to-provide-301-billion-for-aviation-reform-5024655",
-    "AI|https://www.investing.com/news/stock-market-news/citi-cuts-sharp-stock-price-target-on-tough-home-electronics-market-93CH-5024657",
-    "AI|https://www.investing.com/news/stock-market-news/rheinmetall-stock-price-target-cut-to-1099-by-citi-on-guidance-concerns-93CH-5024661",
-    "AI|https://www.investing.com/news/stock-market-news/interactive-brokers-offers-european-clients-access-to-anthropic-ipo-432SI-5024646",
-    "AI|https://www.investing.com/news/stock-market-news/south-korea-says-nvidia-will-keep-gpu-pledges-after-huangs-resignation-5024668",
     "AI|https://www.investing.com/news/company-news/interactive-brokers-offers-access-to-anthropic-ipo-in-europe-93CH-5024651",
     "AI|https://www.investing.com/news/company-news/vodafone-idea-q2-fy27-slides-arpu-gains-offset-continued-losses-93CH-5024656",
     "AI|https://www.investing.com/news/company-news/richemont-h1-2027-slides-sales-jump-17-jewelry-leads-growth-93CH-5024680",
@@ -5000,7 +4988,19 @@
     "Watchlist|https://www.investing.com/news/company-news/novelis-to-sell-two-china-subsidiaries-for-265-million-5027690",
     "Crypto|3de217a8-511e-3523-9c47-b57f95a69ac5",
     "AI|2a36e1a8-5661-3399-ac2b-8e0ba9e8b390",
-    "Watchlist|2a36e1a8-5661-3399-ac2b-8e0ba9e8b390"
+    "Watchlist|2a36e1a8-5661-3399-ac2b-8e0ba9e8b390",
+    "AI|dae8bf4a-1245-3a79-b97b-31e8d16a496c",
+    "Watchlist|dae8bf4a-1245-3a79-b97b-31e8d16a496c",
+    "AI|5fcca3cc-e689-3eaa-b3d0-a421aba9e1b3",
+    "Watchlist|5fcca3cc-e689-3eaa-b3d0-a421aba9e1b3",
+    "AI|https://www.investing.com/news/insider-trading-news/marqeta-chief-administrative-officer-sumner-crystal-sells-20487-93CH-5027697",
+    "AI|https://www.investing.com/news/insider-trading-news/ibex-chief-people-officer-sells-100164-in-company-stock-93CH-5027707",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/marqeta-chief-administrative-officer-sumner-crystal-sells-20487-93CH-5027697",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/ibex-chief-people-officer-sells-100164-in-company-stock-93CH-5027707",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/marqeta-chief-administrative-officer-sumner-crystal-sells-20487-93CH-5027697",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/ibex-chief-people-officer-sells-100164-in-company-stock-93CH-5027707",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/marqeta-chief-administrative-officer-sumner-crystal-sells-20487-93CH-5027697",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/ibex-chief-people-officer-sells-100164-in-company-stock-93CH-5027707"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794727766.1318314,
+  "last_check": 1794728687.0056503,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
