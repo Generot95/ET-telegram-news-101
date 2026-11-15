@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/vertiv-launches-power-panel-for-highdensity-ai-data-centers-93CH-5025509",
-    "AI|https://www.investing.com/news/company-news/selectquote-approves-1for20-reverse-stock-split-93CH-5025514",
-    "AI|https://www.investing.com/news/company-news/patrick-industries-raises-quarterly-dividend-to-052-93CH-5025513",
-    "Cybersecurity|https://www.investing.com/news/company-news/inox-wind-q2-fy27-slides-revenue-jumps-58-strategic-shift-underway-93CH-5025447",
-    "Cybersecurity|https://www.investing.com/news/company-news/flowers-foods-q3-2026-slides-sales-fall-47-ebitda-down-33-93CH-5025449",
-    "Cybersecurity|https://www.investing.com/news/company-news/ocean-power-prices-3-million-public-offering-with-warrants-93CH-5025475",
-    "Cybersecurity|https://www.investing.com/news/company-news/cinemark-declares-009-quarterly-dividend-per-share-93CH-5025503",
-    "Cybersecurity|https://www.investing.com/news/company-news/yum-brands-declares-075-quarterly-dividend-per-share-93CH-5025504",
-    "Cybersecurity|https://www.investing.com/news/company-news/ionq-appoints-new-cfo-and-chief-accounting-officer-93CH-5025506",
-    "Cybersecurity|https://www.investing.com/news/company-news/aim-immunotech-completes-dosing-in-pancreatic-cancer-trial-93CH-5025511",
-    "Cybersecurity|https://www.investing.com/news/company-news/vertiv-launches-power-panel-for-highdensity-ai-data-centers-93CH-5025509",
     "Cybersecurity|https://www.investing.com/news/company-news/selectquote-approves-1for20-reverse-stock-split-93CH-5025514",
     "Cybersecurity|https://www.investing.com/news/company-news/patrick-industries-raises-quarterly-dividend-to-052-93CH-5025513",
     "AI|https://www.investing.com/news/stock-market-news/us-urges-owners-of-720000-bmw-vehicles-to-park-outside-over-fire-risks-5025521",
@@ -5000,7 +4989,18 @@
     "Watchlist|8795323f-692d-3c63-9382-73a3290d6cf8",
     "Watchlist|ec474d76-31ad-31e3-952a-6d3e8879dfde",
     "Watchlist|5b357f59-5299-3474-a8c9-a1def84ef43d",
-    "Watchlist|/companies-markets/banking-finance/federal-reserve-has-some-work-do-inflation-kansas-city-fed-chief-says"
+    "Watchlist|/companies-markets/banking-finance/federal-reserve-has-some-work-do-inflation-kansas-city-fed-chief-says",
+    "War|https://www.investing.com/news/commodities-news/ubs-sees-brent-hitting-110-as-tight-supply-buffers-leave-oil-vulnerable-5028142",
+    "War|WP-MKTW-0005343047",
+    "AI|https://www.investing.com/news/commodities-news/ubs-sees-brent-hitting-110-as-tight-supply-buffers-leave-oil-vulnerable-5028142",
+    "AI|WP-MKTW-0005343047",
+    "Cybersecurity|https://www.investing.com/news/commodities-news/ubs-sees-brent-hitting-110-as-tight-supply-buffers-leave-oil-vulnerable-5028142",
+    "Cybersecurity|WP-MKTW-0005343047",
+    "SG Banks|https://www.investing.com/news/commodities-news/ubs-sees-brent-hitting-110-as-tight-supply-buffers-leave-oil-vulnerable-5028142",
+    "Watchlist|https://www.investing.com/news/commodities-news/ubs-sees-brent-hitting-110-as-tight-supply-buffers-leave-oil-vulnerable-5028142",
+    "AI|e9b8586c-2c45-348b-9b0e-d6eca075127f",
+    "Watchlist|e9b8586c-2c45-348b-9b0e-d6eca075127f",
+    "Watchlist|35992550-69a3-3948-a87c-344d8537b6a5"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794780955.374756,
+  "last_check": 1794781891.2921534,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-15"
