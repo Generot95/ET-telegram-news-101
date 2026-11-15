@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|b182e8e8-90e8-3f42-8648-321f13dca61e",
-    "AI|d024bbc7-1484-3b56-9e84-fe7a4f543e0e",
-    "AI|4c4d7653-5672-390e-84eb-757fbb2bc0c7",
-    "Watchlist|d024bbc7-1484-3b56-9e84-fe7a4f543e0e",
-    "Watchlist|4c4d7653-5672-390e-84eb-757fbb2bc0c7",
-    "AI|49c4fb2e-f8e5-368c-9a1d-90090b5b1f7f",
-    "Watchlist|49c4fb2e-f8e5-368c-9a1d-90090b5b1f7f",
-    "SG Banks|https://www.channelnewsasia.com/business/dollar-set-best-week-in-two-months-yen-tests-160-6548216",
-    "AI|https://www.investing.com/news/company-news/astra-microwave-q2-fy27-slides-record-margins-amid-order-surge-93CH-5024637",
-    "AI|https://www.investing.com/news/earnings/rakuten-reports-11-revenue-growth-in-third-quarter-93CH-5024638",
-    "AI|https://www.investing.com/news/earnings/smc-raises-fullyear-guidance-announces-second-buyback-93CH-5024639",
     "AI|https://www.investing.com/news/economy-news/can-strong-uk-gdp-growth-turn-the-boe-more-hawkish-despite-2027-risks-5024640",
     "AI|https://www.investing.com/news/economy-news/nvidia-inches-higher-premarket-after-stock-slides-following-huang-resignation-5024641",
     "AI|https://www.investing.com/news/earnings/thk-raises-fullyear-operating-profit-guidance-to-52bn-93CH-5024647",
@@ -5000,7 +4989,18 @@
     "Iran|https://www.iranintl.com/en/202611122230",
     "SG Banks|/companies-markets/foreign-investors-pull-out-us50-billion-asian-equities-october-ai-cash-burn-woes",
     "Iran|https://www.iranintl.com/en/202611137304",
-    "Watchlist|/companies-markets/foreign-investors-pull-out-us50-billion-asian-equities-october-ai-cash-burn-woes"
+    "Watchlist|/companies-markets/foreign-investors-pull-out-us50-billion-asian-equities-october-ai-cash-burn-woes",
+    "AI|c0f04476-32ca-3b77-9c91-3856ca9000ca",
+    "Watchlist|c0f04476-32ca-3b77-9c91-3856ca9000ca",
+    "AI|https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-toward-60000-as-etf-outflows-and-liquidations-intensify-5027667",
+    "AI|https://www.investing.com/news/stock-market-news/kids-choice-awards-honor-chris-pratt-bts-5027668",
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-toward-60000-as-etf-outflows-and-liquidations-intensify-5027667",
+    "Cybersecurity|https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-toward-60000-as-etf-outflows-and-liquidations-intensify-5027667",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/kids-choice-awards-honor-chris-pratt-bts-5027668",
+    "SG Banks|https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-toward-60000-as-etf-outflows-and-liquidations-intensify-5027667",
+    "SG Banks|https://www.investing.com/news/stock-market-news/kids-choice-awards-honor-chris-pratt-bts-5027668",
+    "Watchlist|https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-toward-60000-as-etf-outflows-and-liquidations-intensify-5027667",
+    "Watchlist|https://www.investing.com/news/stock-market-news/kids-choice-awards-honor-chris-pratt-bts-5027668"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5088,7 +5088,7 @@
     "BRK-B|2026-11-08",
     "BRK-B|2026-11-10"
   ],
-  "last_check": 1794721345.2609904,
+  "last_check": 1794722257.4491215,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-14"
