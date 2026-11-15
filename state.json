@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/analyst-ratings/stifel-reiterates-gh-research-stock-rating-on-fda-alignment-93CH-5025522",
-    "SG Banks|https://www.investing.com/news/sec-filings/tandem-diabetes-care-receives-fda-clearance-for-tubeless-insulin-delivery-system-93CH-5025523",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/oppenheimer-downgrades-enovix-stock-rating-on-smartphone-exit-93CH-5025524",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/bmo-reiterates-dominos-pizza-stock-rating-on-franchisee-outlook-93CH-5025526",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/da-davidson-cuts-alta-equipment-stock-price-target-on-weak-quarter-93CH-5025525",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/da-davidson-raises-hirequest-stock-price-target-on-growth-momentum-93CH-5025527",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/prospect-capital-ceo-barry-buys-605m-in-stock-93CH-5025535",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-amrest-beats-q3-2026-estimates-as-stock-jumps-93CH-5025543",
-    "Watchlist|https://www.investing.com/news/stock-market-news/us-urges-owners-of-720000-bmw-vehicles-to-park-outside-over-fire-risks-5025521",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/stifel-reiterates-gh-research-stock-rating-on-fda-alignment-93CH-5025522",
-    "Watchlist|https://www.investing.com/news/sec-filings/tandem-diabetes-care-receives-fda-clearance-for-tubeless-insulin-delivery-system-93CH-5025523",
     "Watchlist|https://www.investing.com/news/analyst-ratings/oppenheimer-downgrades-enovix-stock-rating-on-smartphone-exit-93CH-5025524",
     "Watchlist|https://www.investing.com/news/analyst-ratings/bmo-reiterates-dominos-pizza-stock-rating-on-franchisee-outlook-93CH-5025526",
     "Watchlist|https://www.investing.com/news/analyst-ratings/da-davidson-cuts-alta-equipment-stock-price-target-on-weak-quarter-93CH-5025525",
@@ -5000,7 +4989,18 @@
     "SG Banks|/companies-markets/uncovering-the-singapore-bourse/primed-next-leap-growing-promise-singapores-fintechs",
     "SG Banks|/companies-markets/dubai-hedge-fund-numbers-hold-steady-2026-amid-middle-east-conflict-rivalry-singapore-and-hong-kong",
     "Watchlist|/companies-markets/uncovering-the-singapore-bourse/primed-next-leap-growing-promise-singapores-fintechs",
-    "Watchlist|/companies-markets/dubai-hedge-fund-numbers-hold-steady-2026-amid-middle-east-conflict-rivalry-singapore-and-hong-kong"
+    "Watchlist|/companies-markets/dubai-hedge-fund-numbers-hold-steady-2026-amid-middle-east-conflict-rivalry-singapore-and-hong-kong",
+    "SG Banks|/international/airlines-work-restore-flights-us-faa-probes-faulty-router",
+    "Watchlist|/international/airlines-work-restore-flights-us-faa-probes-faulty-router",
+    "SG Banks|https://www.channelnewsasia.com/business/intel-sued-shareholders-following-29-stock-plunge-6553566",
+    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-serko-lifts-h1-2027-revenue-guidance-on-strong-growth-93CH-5028170",
+    "AI|https://www.investing.com/news/stock-market-news/intel-sued-by-shareholders-following-29-stock-plunge-5028171",
+    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-serko-lifts-h1-2027-revenue-guidance-on-strong-growth-93CH-5028170",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/intel-sued-by-shareholders-following-29-stock-plunge-5028171",
+    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-serko-lifts-h1-2027-revenue-guidance-on-strong-growth-93CH-5028170",
+    "SG Banks|https://www.investing.com/news/stock-market-news/intel-sued-by-shareholders-following-29-stock-plunge-5028171",
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-serko-lifts-h1-2027-revenue-guidance-on-strong-growth-93CH-5028170",
+    "Watchlist|https://www.investing.com/news/stock-market-news/intel-sued-by-shareholders-following-29-stock-plunge-5028171"
   ],
   "topic_error": "",
   "last_digest": "2026-11-15",
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794783714.0290751,
+  "last_check": 1794784633.5723794,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-15"
