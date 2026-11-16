@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|7fcc2b7e-0d63-3d2c-8e81-ca154e1dcf51",
-    "Crypto|d9d8bc24-8e2d-3607-a193-2c89b0217c83",
-    "SG Banks|/companies-markets/sats-q2-net-profit-rises-2-8-s81-1-million-higher-cargo-and-meal-volumes",
-    "Watchlist|2b309694-36af-3807-9420-96b7966bc661",
-    "Watchlist|91e81419-a0ee-3229-9c01-aaea11d13bb5",
-    "Watchlist|c085d927-e6ab-35b8-9e3a-c7c62552f264",
-    "Watchlist|31dee5fb-0804-3ead-b0cf-6a24a65b8ed4",
-    "Watchlist|7fcc2b7e-0d63-3d2c-8e81-ca154e1dcf51",
-    "Watchlist|83b2ca7e-c188-3771-a7e5-193881c0937e",
     "Watchlist|efb62e65-7e22-37f1-be92-42706852245d",
     "Watchlist|/companies-markets/sats-q2-net-profit-rises-2-8-s81-1-million-higher-cargo-and-meal-volumes",
     "AI|d6fa2b1c-352e-380c-91aa-6d1636a3df58",
@@ -5000,7 +4991,16 @@
     "Watchlist|https://www.investing.com/news/earnings/sunshine-biopharma-earnings-missed-by-120-revenue-topped-estimates-5028350",
     "Watchlist|https://www.investing.com/news/earnings/ascent-solar-earnings-missed-by-012-revenue-fell-short-of-estimates-5028351",
     "Watchlist|https://www.investing.com/news/economy-news/bojs-takata-calls-for-swift-hike-in-rates-to-good-position-5028353",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/lattice-semiconductor-svp-pravin-desale-sells-228021-in-stock-93CH-5028354"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/lattice-semiconductor-svp-pravin-desale-sells-228021-in-stock-93CH-5028354",
+    "SG Banks|https://www.channelnewsasia.com/business/bojs-takata-calls-swift-hike-in-rates-good-position-6554261",
+    "Watchlist|21cc8041-2cc5-32a0-981e-8db0936b96f4",
+    "AI|3b01aec2-85b9-3da6-acf7-c60ac28e2885",
+    "Watchlist|3b01aec2-85b9-3da6-acf7-c60ac28e2885",
+    "War|https://www.investing.com/news/world-news/martine-moise-widow-of-haitis-slain-president-registers-as-presidential-candidate-5028288",
+    "AI|https://www.investing.com/news/stock-market-news/chinas-zai-minimax-tumble-as-nvidia-row-drives-fears-of-more-chip-restrictions-5028356",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/chinas-zai-minimax-tumble-as-nvidia-row-drives-fears-of-more-chip-restrictions-5028356",
+    "SG Banks|https://www.investing.com/news/stock-market-news/chinas-zai-minimax-tumble-as-nvidia-row-drives-fears-of-more-chip-restrictions-5028356",
+    "Watchlist|https://www.investing.com/news/stock-market-news/chinas-zai-minimax-tumble-as-nvidia-row-drives-fears-of-more-chip-restrictions-5028356"
   ],
   "topic_error": "",
   "last_digest": "2026-11-16",
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794803919.0528,
+  "last_check": 1794804834.822463,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-15"
