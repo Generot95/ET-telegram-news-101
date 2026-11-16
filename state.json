@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/greece-stocks-lower-at-close-of-trade-athens-general-composite-down-016-5026116",
-    "SG Banks|https://www.investing.com/news/stock-market-news/anthropic-ipo-shuts-out-chinese-investors-amid-uschina-tensions-5026117",
     "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-csn-misses-q3-2026-estimates-as-shares-fall-11-93CH-5026118",
     "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-suncrete-q3-2026-revenue-jumps-but-guidance-cut-hits-shares-93CH-5026119",
     "SG Banks|https://www.investing.com/news/company-news/choice-properties-q3-2026-slides-solid-growth-strong-occupancy-93CH-5026120",
@@ -5000,7 +4998,9 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/grove-collaborative-director-stuart-landesberg-buys-15799-in-stock-93CH-5028431",
     "Watchlist|https://www.investing.com/news/company-news/innova-captab-q2-fy27-slides-show-30-revenue-growth-shares-fall-93CH-5028432",
     "Watchlist|https://www.investing.com/news/company-news/bumrungrad-q3-2026-slides-record-margins-wellness-expansion-93CH-5028434",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-vikram-solar-q2-2027-profit-drops-as-stock-falls-54-93CH-5028437"
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-vikram-solar-q2-2027-profit-drops-as-stock-falls-54-93CH-5028437",
+    "AI|83d10f06-48c1-332f-b056-f484fdf5014d",
+    "Watchlist|83d10f06-48c1-332f-b056-f484fdf5014d"
   ],
   "topic_error": "",
   "last_digest": "2026-11-16",
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794811256.2830508,
+  "last_check": 1794812174.412588,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-15"
