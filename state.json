@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/soundhound-ai-stock-hits-52week-low-at-354-93CH-5026012",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-coreweave-stock-sliding-today-93CH-5026013",
-    "AI|https://www.investing.com/news/company-news/cyrela-q3-2026-slides-margins-hold-firm-as-sales-velocity-declines-93CH-5026014",
-    "AI|https://www.investing.com/news/company-news/luve-q3-2026-slides-record-backlog-17-ebitda-margin-achieved-93CH-5026015",
     "AI|https://www.investing.com/news/company-news/ams-osram-q3-2026-slides-led-leadership-advances-amid-transformation-93CH-5026016",
     "AI|https://www.investing.com/news/company-news/wolverine-world-wide-stock-hits-52week-high-at-2385-usd-93CH-5026017",
     "AI|https://www.investing.com/news/company-news/cms-energy-stock-hits-52week-low-at-1861-usd-93CH-5026018",
@@ -5000,7 +4996,11 @@
     "SG Banks|https://www.investing.com/news/economic-indicators/thailand-q3-gdp-grows-29-misses-expectations-5028332",
     "SG Banks|https://www.investing.com/news/insider-trading-news/bel-fuse-director-vincent-vellucci-sells-235150-in-stock-93CH-5028335",
     "Watchlist|https://www.investing.com/news/economic-indicators/thailand-q3-gdp-grows-29-misses-expectations-5028332",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/bel-fuse-director-vincent-vellucci-sells-235150-in-stock-93CH-5028335"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/bel-fuse-director-vincent-vellucci-sells-235150-in-stock-93CH-5028335",
+    "SG Banks|/companies-markets/energy-commodities/gold-holds-steady-investors-await-warsh-remarks-rate-signals",
+    "Watchlist|/companies-markets/energy-commodities/gold-holds-steady-investors-await-warsh-remarks-rate-signals",
+    "Watchlist|d7b25dde-8402-3340-ae1a-d64a0b308994",
+    "SG Banks|https://www.straitstimes.com/business/thai-gdp-growth-rebounds-as-ai-drives-investments-exports"
   ],
   "topic_error": "",
   "last_digest": "2026-11-16",
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794800268.570648,
+  "last_check": 1794801172.0199032,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-15"
