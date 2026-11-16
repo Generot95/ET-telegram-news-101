@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/redbird-launches-milan-sports-holding-company-names-brett-yormark-ceo-5025940",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-cemig-posts-q3-2026-profit-beat-revenue-miss-93CH-5025941",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/td-cowen-cuts-stubhub-stock-price-target-on-lower-estimates-93CH-5025942",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/td-cowen-cuts-forgent-power-solutions-stock-price-target-on-fy27-booking-93CH-5025943",
-    "Cybersecurity|https://www.investing.com/news/company-news/cocacola-stock-hits-alltime-high-at-984-usd-93CH-5025895",
-    "Cybersecurity|https://www.investing.com/news/company-news/cms-energy-stock-hits-52week-low-at-1941-usd-93CH-5025901",
-    "Cybersecurity|https://www.investing.com/news/company-news/tecnisa-q3-2026-slides-sales-drop-margins-rise-sequoia-launches-93CH-5025902",
-    "Cybersecurity|https://www.investing.com/news/company-news/republic-services-stock-hits-52week-high-at-25462-usd-93CH-5025905",
-    "Cybersecurity|https://www.investing.com/news/company-news/arcus-biosciences-stock-hits-52week-low-at-1743-93CH-5025907",
-    "Cybersecurity|https://www.investing.com/news/company-news/agt-foods-q3-2026-slides-show-cash-flow-surge-margin-gains-93CH-5025910",
     "Cybersecurity|https://www.investing.com/news/company-news/light-3q26-slides-ebitda-up-25-ytd-as-reorganization-closes-93CH-5025914",
     "Cybersecurity|https://www.investing.com/news/company-news/lument-finance-q3-2026-slides-credit-losses-drive-book-value-decline-93CH-5025920",
     "Cybersecurity|https://www.investing.com/news/company-news/mineralys-therapeutics-stock-hits-52week-low-at-1489-usd-93CH-5025921",
@@ -5000,7 +4990,17 @@
     "Watchlist|https://www.investing.com/news/economy-news/chinas-factory-output-retail-sales-growth-slow-in-october-5028313",
     "War|a8c3095e-13af-3660-af19-2a4c37a2aa78",
     "AI|f71c2b29-a7a5-3174-bbfa-534e1acf4a31",
-    "Watchlist|f71c2b29-a7a5-3174-bbfa-534e1acf4a31"
+    "Watchlist|f71c2b29-a7a5-3174-bbfa-534e1acf4a31",
+    "AI|d17f7466-18a7-37c1-a291-3984774b9d7f",
+    "SG Banks|/companies-markets/energy-commodities/oil-prices-fall-expectations-coming-supply-surplus",
+    "Watchlist|d17f7466-18a7-37c1-a291-3984774b9d7f",
+    "Watchlist|/companies-markets/energy-commodities/oil-prices-fall-expectations-coming-supply-surplus",
+    "SG Banks|https://www.straitstimes.com/business/hk-stock-exchange-launches-first-dim-sum-bond-index-to-boost-yuan-debt-market",
+    "War|83b8e179-f297-3613-95f5-fce837de196f",
+    "AI|8b0103d4-a204-3078-b2ac-23c2aab180b9",
+    "Crypto|b3440339-2137-317f-bfb9-f415f814c5e4",
+    "SG Banks|https://www.channelnewsasia.com/business/japan-economy-shrinks-inflation-households-living-costs-6553696",
+    "Watchlist|8b0103d4-a204-3078-b2ac-23c2aab180b9"
   ],
   "topic_error": "",
   "last_digest": "2026-11-16",
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794795669.2680676,
+  "last_check": 1794796595.50848,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-15"
