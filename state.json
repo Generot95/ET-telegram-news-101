@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/commodities-news/us-treasurys-bessent-says-he-is-optimistic-on-trade-deals-with-canada-mexico-5025718",
-    "Watchlist|https://www.investing.com/news/company-news/stantec-q3-2026-slides-margins-expand-to-202-on-broad-growth-93CH-5025790",
-    "Iran|https://www.iranintl.com/en/202611103150",
-    "Iran|https://www.iranintl.com/en/202611107939",
-    "AI|92710156-be28-3362-853c-5b42811c5aac",
-    "AI|4ff60528-4c59-3db9-a9bc-d5807cb88ba4",
-    "AI|c95c311e-3282-3ac0-9087-e15fda976c4a",
-    "AI|d5bc562b-92b8-31b9-8cf0-d89c8b8db1a1",
-    "Watchlist|4ff60528-4c59-3db9-a9bc-d5807cb88ba4",
-    "Watchlist|c95c311e-3282-3ac0-9087-e15fda976c4a",
     "Watchlist|d5bc562b-92b8-31b9-8cf0-d89c8b8db1a1",
     "AI|c43f9d2d-f528-3804-acb7-a3dbea7bd8da",
     "AI|9f6dcc06-af87-3feb-8a09-0b184eab875c",
@@ -5000,7 +4990,17 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/international-stem-cell-director-sells-10496-in-company-shares-93CH-5028289",
     "SG Banks|https://www.investing.com/news/company-news/trustfinance-announces-2026-community-choice-awards-winners-across-forex-crypto-and-financial-services-5028290",
     "Watchlist|https://www.investing.com/news/insider-trading-news/international-stem-cell-director-sells-10496-in-company-shares-93CH-5028289",
-    "Watchlist|https://www.investing.com/news/company-news/trustfinance-announces-2026-community-choice-awards-winners-across-forex-crypto-and-financial-services-5028290"
+    "Watchlist|https://www.investing.com/news/company-news/trustfinance-announces-2026-community-choice-awards-winners-across-forex-crypto-and-financial-services-5028290",
+    "AI|8bedb1ad-3163-3264-be2c-705f37b18e52",
+    "Watchlist|8bedb1ad-3163-3264-be2c-705f37b18e52",
+    "AI|ec45fb5e-7524-3a74-b4d8-4353b84e2308",
+    "Watchlist|ec45fb5e-7524-3a74-b4d8-4353b84e2308",
+    "SG Banks|https://www.straitstimes.com/business/japans-economy-unexpectedly-shrinks-as-inflation-squeezes-households",
+    "SG Banks|https://www.straitstimes.com/business/nvidia-shares-primed-for-bounce-as-investors-eye-report-on-jensen-huang-comeback",
+    "SG Banks|https://www.channelnewsasia.com/business/asian-shares-fall-nvidia-earnings-anthropic-ipo-test-tech-rally-6553841",
+    "AI|49777dab-a5de-33c8-a243-d421d53360d0",
+    "Crypto|49777dab-a5de-33c8-a243-d421d53360d0",
+    "Watchlist|49777dab-a5de-33c8-a243-d421d53360d0"
   ],
   "topic_error": "",
   "last_digest": "2026-11-16",
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794792930.0322764,
+  "last_check": 1794793834.059063,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-15"
