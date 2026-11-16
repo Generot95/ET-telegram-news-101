@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/thursdays-insider-activity-major-buys-and-sells-disclosed-93CH-5025609",
-    "Watchlist|5762c408-3134-3509-8e39-88392fb5a0a7",
-    "Watchlist|https://www.investing.com/news/economy-news/us-producer-prices-rise-further-in-october-5025549",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/truist-reiterates-andersen-group-stock-rating-on-strong-growth-93CH-5025598",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/truist-reiterates-medline-stock-buy-rating-after-facility-visit-93CH-5025599",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/truist-cuts-itg-stock-price-target-to-11-on-margin-outlook-93CH-5025600",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/rga-evp-jonathan-porter-sells-105m-of-common-stock-93CH-5025601",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/da-davidson-cuts-nebius-stock-price-target-on-data-center-delays-93CH-5025602",
     "Watchlist|https://www.investing.com/news/analyst-ratings/truist-cuts-cisco-stock-price-target-on-valuation-despite-growth-93CH-5025603",
     "Watchlist|https://www.investing.com/news/analyst-ratings/da-davidson-cuts-nvidia-stock-price-target-on-ceo-departure-93CH-5025605",
     "Watchlist|https://www.investing.com/news/insider-trading-news/perspective-therapeutics-cmo-markus-puhlmann-buys-34544-in-stock-93CH-5025607",
@@ -5000,7 +4992,15 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/sk-hynix-to-spend-1-billion-over-five-years-to-support-chip-suppliers-5028220",
     "Watchlist|https://www.investing.com/news/economy-news/uk-property-asking-prices-fall-more-than-usual-in-november-rightmove-says-5028221",
     "AI|bece947a-506f-3de9-9a61-ee2d97c4a3df",
-    "Watchlist|bece947a-506f-3de9-9a61-ee2d97c4a3df"
+    "Watchlist|bece947a-506f-3de9-9a61-ee2d97c4a3df",
+    "SG Banks|https://www.channelnewsasia.com/business/sk-hynix-spend-1-billion-over-five-years-support-chip-suppliers-6553691",
+    "SG Banks|https://www.channelnewsasia.com/business/japans-economy-unexpectedly-shrinks-in-july-september-consumption-falters-6553696",
+    "SG Banks|/companies-markets/centurion-acquire-kim-chuan-lane-industrial-property-s61-million-through-joint-venture",
+    "Watchlist|/companies-markets/centurion-acquire-kim-chuan-lane-industrial-property-s61-million-through-joint-venture",
+    "War|73b7e149-1855-3903-97dc-940e6b825767",
+    "AI|ae9bac6d-cb7a-3498-8b35-4203c75db6e6",
+    "Watchlist|ae9bac6d-cb7a-3498-8b35-4203c75db6e6",
+    "Watchlist|e609e8f0-690a-3626-af8b-4f931bfd6365"
   ],
   "topic_error": "",
   "last_digest": "2026-11-16",
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794788315.7741535,
+  "last_check": 1794789237.7725751,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-15"
