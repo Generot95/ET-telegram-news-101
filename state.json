@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/light-3q26-slides-ebitda-up-25-ytd-as-reorganization-closes-93CH-5025914",
-    "Cybersecurity|https://www.investing.com/news/company-news/lument-finance-q3-2026-slides-credit-losses-drive-book-value-decline-93CH-5025920",
-    "Cybersecurity|https://www.investing.com/news/company-news/mineralys-therapeutics-stock-hits-52week-low-at-1489-usd-93CH-5025921",
-    "SG Banks|https://www.investing.com/news/stock-market-news/wall-st-opens-higher-after-soft-producer-prices-data-5025935",
     "SG Banks|https://www.investing.com/news/company-news/national-health-investors-stock-hits-52week-low-at-6331-usd-93CH-5025936",
     "SG Banks|https://www.investing.com/news/analyst-ratings/td-cowen-raises-sally-beauty-stock-price-target-on-strategic-progress-93CH-5025937",
     "SG Banks|https://www.investing.com/news/analyst-ratings/rothmkm-raises-new-era-energy--digital-stock-price-target-on-lower-funding-needs-93CH-5025938",
@@ -5000,7 +4996,11 @@
     "AI|8b0103d4-a204-3078-b2ac-23c2aab180b9",
     "Crypto|b3440339-2137-317f-bfb9-f415f814c5e4",
     "SG Banks|https://www.channelnewsasia.com/business/japan-economy-shrinks-inflation-households-living-costs-6553696",
-    "Watchlist|8b0103d4-a204-3078-b2ac-23c2aab180b9"
+    "Watchlist|8b0103d4-a204-3078-b2ac-23c2aab180b9",
+    "AI|https://www.investing.com/news/economic-indicators/china-factory-output-retail-sales-miss-forecasts-in-oct-5028314",
+    "Cybersecurity|https://www.investing.com/news/economic-indicators/china-factory-output-retail-sales-miss-forecasts-in-oct-5028314",
+    "SG Banks|https://www.investing.com/news/economic-indicators/china-factory-output-retail-sales-miss-forecasts-in-oct-5028314",
+    "Watchlist|https://www.investing.com/news/economic-indicators/china-factory-output-retail-sales-miss-forecasts-in-oct-5028314"
   ],
   "topic_error": "",
   "last_digest": "2026-11-16",
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794796595.50848,
+  "last_check": 1794797506.0648158,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-15"
