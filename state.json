@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "War|WP-MKTW-0005337904",
-    "AI|7b32216a-3c85-3046-9937-4ebd618c6b8a",
-    "AI|8aa8c5e0-2d3a-3429-849a-804023b404b5",
-    "AI|WP-MKTW-0005337904",
-    "Crypto|a52acca5-6d10-3306-99e6-8cfd3e324631",
-    "Cybersecurity|8aa8c5e0-2d3a-3429-849a-804023b404b5",
-    "Cybersecurity|WP-MKTW-0005337904",
-    "Watchlist|7b32216a-3c85-3046-9937-4ebd618c6b8a",
-    "Watchlist|a5931f32-320c-3579-bd7f-c663b0fe4ab6",
     "Watchlist|8aa8c5e0-2d3a-3429-849a-804023b404b5",
     "AI|4245b58b-5672-3169-895a-3316395d1c07",
     "Watchlist|4245b58b-5672-3169-895a-3316395d1c07",
@@ -5000,7 +4991,16 @@
     "AI|d5a30e72-c6cf-3ad1-b525-e9dccc9e7337",
     "Watchlist|d5a30e72-c6cf-3ad1-b525-e9dccc9e7337",
     "SG Banks|https://www.straitstimes.com/business/sk-hynix-to-spend-1-35-billion-over-five-years-to-support-chip-suppliers",
-    "Crypto|3070024d-e674-3109-aeae-69a08e202c19"
+    "Crypto|3070024d-e674-3109-aeae-69a08e202c19",
+    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-new-hope-group-q1-2027-results-steady-as-stock-slips-93CH-5028248",
+    "AI|https://www.investing.com/news/stock-market-news/idp-education-rejects-blackstones-5645-million-takeover-bid-for-third-time-5028249",
+    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-new-hope-group-q1-2027-results-steady-as-stock-slips-93CH-5028248",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/idp-education-rejects-blackstones-5645-million-takeover-bid-for-third-time-5028249",
+    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-new-hope-group-q1-2027-results-steady-as-stock-slips-93CH-5028248",
+    "SG Banks|https://www.investing.com/news/stock-market-news/idp-education-rejects-blackstones-5645-million-takeover-bid-for-third-time-5028249",
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-new-hope-group-q1-2027-results-steady-as-stock-slips-93CH-5028248",
+    "Watchlist|https://www.investing.com/news/stock-market-news/idp-education-rejects-blackstones-5645-million-takeover-bid-for-third-time-5028249",
+    "SG Banks|https://www.channelnewsasia.com/business/japans-economy-unexpectedly-shrinks-inflation-squeezes-households-6553696"
   ],
   "topic_error": "",
   "last_digest": "2026-11-16",
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794790184.478548,
+  "last_check": 1794791079.6683211,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-15"
