@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|62fec2c2-a469-3361-b6c1-eb20b7551b68",
-    "Watchlist|a3ad01c1-7ae3-32eb-aaf8-fe6eaf637e5d",
-    "AI|62fec2c2-a469-3361-b6c1-eb20b7551b68",
-    "AI|7d44e6cd-5bfe-3d2a-b5da-b2ca8e27a522",
-    "Watchlist|7d44e6cd-5bfe-3d2a-b5da-b2ca8e27a522",
-    "AI|362eec8b-1d25-3489-a8e6-3a03ccab6ff1",
-    "Watchlist|362eec8b-1d25-3489-a8e6-3a03ccab6ff1",
-    "AI|1366ace8-14a7-3e64-a193-03cc3eecc180",
-    "Watchlist|1366ace8-14a7-3e64-a193-03cc3eecc180",
-    "AI|8f4c4328-9438-359b-92c1-ef6dbbd630e2",
-    "Watchlist|8f4c4328-9438-359b-92c1-ef6dbbd630e2",
     "Iran|https://www.iranintl.com/en/202611151817",
     "AI|16c138e1-c381-3be4-814f-08c05d80f4bc",
     "Crypto|7fa4b45a-1787-3ecd-9937-5879a17b6986",
@@ -5000,7 +4989,18 @@
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-xbp-global-q3-2026-revenue-falls-as-margins-improve-93CH-5031175",
     "Watchlist|https://www.investing.com/news/stock-market-news/united-airlines-troubleshoots-system-outage-disrupting-departing-flights-5031147",
     "Watchlist|https://www.investing.com/news/stock-market-news/exclusivedoordashinstacart-merger-to-be-reviewed-by-doj-sources-say-5031159",
-    "Watchlist|https://www.investing.com/news/earnings/hydrofarm-earnings-missed-by-036-revenue-fell-short-of-estimates-5031176"
+    "Watchlist|https://www.investing.com/news/earnings/hydrofarm-earnings-missed-by-036-revenue-fell-short-of-estimates-5031176",
+    "AI|cab3132b-514b-368a-9a0c-abc29edefb63",
+    "AI|a7e54339-9625-392f-8996-6148c7e60c32",
+    "AI|bce83d53-bfd8-3a2d-8a4f-b9044a74736a",
+    "Watchlist|cab3132b-514b-368a-9a0c-abc29edefb63",
+    "Watchlist|a7e54339-9625-392f-8996-6148c7e60c32",
+    "Watchlist|bce83d53-bfd8-3a2d-8a4f-b9044a74736a",
+    "War|a3833188-5902-41f0-8473-fe161a71d2c4",
+    "AI|7b6fad4b-3206-3882-9f34-52eaa2ba65c0",
+    "SG Banks|/companies-markets/banking-finance/jpmorgan-chase-bank-reports-software-bug-disrupting-transactions",
+    "Watchlist|/companies-markets/banking-finance/jpmorgan-chase-bank-reports-software-bug-disrupting-transactions",
+    "Cybersecurity|e13c5874-3eeb-3ec4-b263-c9fd9e71bc4b"
   ],
   "topic_error": "",
   "last_digest": "2026-11-16",
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794869259.2414055,
+  "last_check": 1794870178.6066,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-16"
