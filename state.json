@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/evergy-director-jonathan-rolph-buys-133610-in-common-stock-93CH-5028131",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/west-pharma-sr-vp--chief-hr-officer-sells-267m-in-stock-93CH-5028119",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/datadog-cro-sean-walters-sells-259m-in-stock-93CH-5028121",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/datadog-cpo-li-yanbing-sells-281-million-in-stock-93CH-5028120",
-    "SG Banks|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-5028123",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/evergy-director-jonathan-rolph-buys-133610-in-common-stock-93CH-5028131",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/west-pharma-sr-vp--chief-hr-officer-sells-267m-in-stock-93CH-5028119",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/datadog-cro-sean-walters-sells-259m-in-stock-93CH-5028121",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/datadog-cpo-li-yanbing-sells-281-million-in-stock-93CH-5028120",
-    "Watchlist|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-5028123",
     "Watchlist|https://www.investing.com/news/insider-trading-news/evergy-director-jonathan-rolph-buys-133610-in-common-stock-93CH-5028131",
     "Iran|https://www.iranintl.com/en/202611132513",
     "Watchlist|d026e181-efb6-3df4-a05f-967636dfeb6c",
@@ -5000,10 +4990,20 @@
     "Watchlist|5c294f8b-d991-340f-84a4-665acfffe175",
     "Watchlist|/opinion-features/south-east-asia-has-lost-nvidias-best-salesman",
     "Watchlist|/companies-markets/nvidias-market-value-sinks-below-us4-trillion-after-ceo-jensen-huang-resigns",
-    "Watchlist|/international/global/microsoft-outage-sends-traders-back-phones-and-fax"
+    "Watchlist|/international/global/microsoft-outage-sends-traders-back-phones-and-fax",
+    "War|41a252aa-87f2-35e0-9778-2bef72c46468",
+    "SG Banks|/international/us-curb-chinas-access-ai-chips-trump-heads-asia",
+    "Watchlist|/international/us-curb-chinas-access-ai-chips-trump-heads-asia",
+    "AI|ba819f18-9ea8-37b1-8c72-1a069aa9e462",
+    "Watchlist|ba819f18-9ea8-37b1-8c72-1a069aa9e462",
+    "AI|480d2192-a2d8-38cf-8fdb-f3c2ca200dd3",
+    "Watchlist|480d2192-a2d8-38cf-8fdb-f3c2ca200dd3",
+    "Crypto|72b79792-96f1-32aa-ab38-064ffdf079b3",
+    "Watchlist|72b79792-96f1-32aa-ab38-064ffdf079b3",
+    "AI|72b79792-96f1-32aa-ab38-064ffdf079b3"
   ],
   "topic_error": "",
-  "last_digest": "2026-11-16",
+  "last_digest": "2026-11-17",
   "earnings": {
     "AMD": {
       "ts": 1801602000,
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794872949.525148,
+  "last_check": 1794873845.2161858,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-16"
