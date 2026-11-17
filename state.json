@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/economic-indicators/drop-in-chinas-new-home-prices-narrows-to-11month-low-5028306",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-mizuho-financial-stock-surging-today-93CH-5028307",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-idp-education-stock-sliding-today-93CH-5028308",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/us-stock-futures-little-changed-as-investors-await-nvidia-earnings-5028292",
-    "Cybersecurity|https://www.investing.com/news/economy-news/asian-shares-fall-before-nvidia-earnings-anthropic-ipo-test-tech-rally-5028293",
-    "Cybersecurity|https://www.investing.com/news/economy-news/stocks-mostly-ease-with-tech-nvidia-concerns-airline-shares-fall-late-in-session-5028294",
-    "Cybersecurity|https://www.investing.com/news/economy-news/uschinarussia-trilateral-summit-to-take-place-in-shenzhen-on-nov-19-xinhua-5028295",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/gold-falls-below-3900-as-december-fed-hike-bets-build-warsh-in-focus-5028296",
     "Cybersecurity|https://www.investing.com/news/economic-indicators/drop-in-chinas-new-home-prices-narrows-to-11month-low-5028306",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-mizuho-financial-stock-surging-today-93CH-5028307",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-idp-education-stock-sliding-today-93CH-5028308",
@@ -5000,7 +4992,15 @@
     "War|5b2149cc-2fa0-3287-8369-119b1618e9be",
     "War|35b0b013-72a5-3ace-82b9-83c772461966",
     "AI|efbd2773-c71f-3a4e-8aec-5bf973a6ab9f",
-    "Watchlist|efbd2773-c71f-3a4e-8aec-5bf973a6ab9f"
+    "Watchlist|efbd2773-c71f-3a4e-8aec-5bf973a6ab9f",
+    "SG Banks|/international/trump-backs-huang-comeback-while-nvidias-board-pursues-new-ceo",
+    "Watchlist|/international/trump-backs-huang-comeback-while-nvidias-board-pursues-new-ceo",
+    "AI|2f0eeecd-9d45-3ff0-8804-e7ea89f50a78",
+    "SG Banks|https://www.channelnewsasia.com/business/japan-postpone-launch-new-floating-rate-government-bonds-sources-say-6557391",
+    "Watchlist|2f0eeecd-9d45-3ff0-8804-e7ea89f50a78",
+    "SG Banks|https://www.channelnewsasia.com/business/oil-slips-supply-surplus-outlook-despite-gulf-tensions-6557401",
+    "Iran|https://www.iranintl.com/en/202611171765",
+    "SG Banks|https://www.channelnewsasia.com/business/us-dollar-hits-19-month-peak-fed-hike-bets-aussie-dips-6557406"
   ],
   "topic_error": "",
   "last_digest": "2026-11-17",
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794879376.0786242,
+  "last_check": 1794880282.2156057,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-16"
