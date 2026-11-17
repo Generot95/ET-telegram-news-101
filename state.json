@@ -1,51 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/transcripts/eyepoint-at-jefferies-global-healthcare-conference-pivots-to-dme-93CH-5030433",
-    "SG Banks|https://www.investing.com/news/economic-indicators/spains-government-to-raise-minimum-wage-53-as-election-looms-5030423",
-    "SG Banks|https://www.investing.com/news/stock-market-news/us-chip-stocks-slide-as-traders-unwind-nvidia-rival-bets-before-earnings-5030435",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-elen-posts-strong-q3-2026-growth-shares-fall-93CH-5030436",
-    "SG Banks|https://www.investing.com/news/transcripts/eton-pharmaceuticals-at-jefferies-global-healthcare-conference-growth-quickens-93CH-5030437",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-ballard-power-systems-posts-q3-2026-revenue-miss-93CH-5030438",
-    "SG Banks|https://www.investing.com/news/company-news/palomar-holdings-stock-hits-52week-high-at-16238-usd-93CH-5030439",
-    "SG Banks|https://www.investing.com/news/stock-market-news/amentum-holdings-shares-may-move-86-on-nov-23-earnings-93CH-5030440",
-    "SG Banks|https://www.investing.com/news/stock-market-news/zoom-stock-may-move-83-on-nov-23-earnings-release-93CH-5030444",
-    "Watchlist|a701faa9-24ea-391e-b51b-6060da341584",
-    "Watchlist|a5eee298-5e72-3149-baf3-08019e5d53fa",
-    "Watchlist|https://www.investing.com/news/transcripts/eyepoint-at-jefferies-global-healthcare-conference-pivots-to-dme-93CH-5030433",
-    "Watchlist|https://www.investing.com/news/economic-indicators/spains-government-to-raise-minimum-wage-53-as-election-looms-5030423",
-    "Watchlist|https://www.investing.com/news/stock-market-news/us-chip-stocks-slide-as-traders-unwind-nvidia-rival-bets-before-earnings-5030435",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-elen-posts-strong-q3-2026-growth-shares-fall-93CH-5030436",
-    "Watchlist|https://www.investing.com/news/transcripts/eton-pharmaceuticals-at-jefferies-global-healthcare-conference-growth-quickens-93CH-5030437",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-ballard-power-systems-posts-q3-2026-revenue-miss-93CH-5030438",
-    "Watchlist|https://www.investing.com/news/company-news/palomar-holdings-stock-hits-52week-high-at-16238-usd-93CH-5030439",
-    "Watchlist|https://www.investing.com/news/stock-market-news/amentum-holdings-shares-may-move-86-on-nov-23-earnings-93CH-5030440",
-    "Watchlist|https://www.investing.com/news/stock-market-news/zoom-stock-may-move-83-on-nov-23-earnings-release-93CH-5030444",
-    "War|WP-MKTW-0005350380",
-    "Iran|https://www.iranintl.com/en/202611139474",
-    "AI|WP-MKTW-0005350380",
-    "Cybersecurity|WP-MKTW-0005350380",
-    "SG Banks|0a35f149-0be6-3553-8404-630681b24684",
-    "SG Banks|/international/global/nvidia-approaches-arm-ceo-rene-haas-employees-seek-huangs-return-reports-say",
-    "Watchlist|/international/global/nvidia-approaches-arm-ceo-rene-haas-employees-seek-huangs-return-reports-say",
-    "AI|be3e31fd-37e6-417b-a0e1-5e2d6eecdac4",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-below-70k-as-crypto-appetite-sours-5024070",
-    "SG Banks|/companies-markets/renewed-confidence-singtel-lifts-fy2027-guidance-underlying-profit-grows-10-net-profit-falls-55",
-    "Watchlist|be3e31fd-37e6-417b-a0e1-5e2d6eecdac4",
-    "Watchlist|/companies-markets/renewed-confidence-singtel-lifts-fy2027-guidance-underlying-profit-grows-10-net-profit-falls-55",
-    "SG Banks|/companies-markets/us-buyout-firm-advent-seeks-sell-singapore-tuition-chain-learning-lab-again-sources",
-    "War|cf6f4761-a964-32b7-a798-0d940f33785d",
-    "Crypto|5cb70f72-0cff-3f05-9f52-5d87af49bdce",
-    "AI|690fadff-df18-390c-8747-84b993c6260b",
-    "Watchlist|690fadff-df18-390c-8747-84b993c6260b",
-    "Watchlist|c8a24a3f-4975-3a4b-aca3-df925a947dd7",
-    "Crypto|12f07543-0484-3d4c-9872-7d49533b2d0e",
-    "AI|a7db0278-378f-4714-bd18-7dcc614b4a28",
-    "Watchlist|a7db0278-378f-4714-bd18-7dcc614b4a28",
-    "AI|de0cfdfc-53ed-335a-8bd3-0d120af98127",
-    "Watchlist|de0cfdfc-53ed-335a-8bd3-0d120af98127",
-    "AI|6b67e8c5-c4e1-3cfe-8d7b-66d3a36d3cdc",
-    "AI|7cc49576-486d-39aa-bd8a-6352701322df",
     "AI|28fb8d6a-4815-35be-a872-db8f447a2e89",
     "AI|dd2abb3d-f4f7-310a-96e9-5b165927317b",
     "AI|4d72df2e-10b6-3b07-85e8-06717452093b",
@@ -5000,78 +4955,123 @@
     "Watchlist|/international/wall-street-falls-nvidia-jitters-cloud-sentiment-ahead-results",
     "Watchlist|WP-MKTW-0003853112",
     "Watchlist|WP-MKTW-0004179843",
-    "Watchlist|WP-MKTW-0004255367"
+    "Watchlist|WP-MKTW-0004255367",
+    "AI|a6b3963b-2bae-309d-8bfe-c82b14ce0f37",
+    "AI|539788c2-c559-3c23-bedc-7918a7f5dfec",
+    "AI|3ec3aa77-032c-3edc-b83c-4ff4cbe9adc2",
+    "Watchlist|a6b3963b-2bae-309d-8bfe-c82b14ce0f37",
+    "Watchlist|3ec3aa77-032c-3edc-b83c-4ff4cbe9adc2",
+    "War|bb85f210-5968-3000-87c8-f6893a8ae63c",
+    "AI|02df0041-c87c-351c-8374-6603aa17266f",
+    "AI|336af46b-56ef-3472-b1ca-f8e3d27e47a9",
+    "Watchlist|02df0041-c87c-351c-8374-6603aa17266f",
+    "AI|https://www.investing.com/news/company-news/tatton-h1-fy27-slides-87-to-30bn-target-margins-hit-545-93CH-5033392",
+    "Cybersecurity|https://www.investing.com/news/company-news/tatton-h1-fy27-slides-87-to-30bn-target-margins-hit-545-93CH-5033392",
+    "AI|55c6d140-c0b0-3c41-b3f5-1be63c0cb626",
+    "AI|880d69ce-d433-4cc0-b479-d4965399e167",
+    "AI|79642128-a429-3207-b410-e87270f96270",
+    "Watchlist|9e1c76b0-df01-39ab-b9eb-7804053b0b74",
+    "Watchlist|8b401169-4a1e-3fc2-8afd-271bc01cfc30",
+    "Watchlist|880d69ce-d433-4cc0-b479-d4965399e167",
+    "Watchlist|55c6d140-c0b0-3c41-b3f5-1be63c0cb626",
+    "Watchlist|2b872208-5c12-349b-95b1-128052b3f4f3",
+    "AI|9e1c76b0-df01-39ab-b9eb-7804053b0b74",
+    "AI|c699e22c-56cd-3f03-94c5-1a8d2c21631a",
+    "SG Banks|/international/ai-agents-bond-market-arrive-stealthy-microsoft-trade",
+    "Iran|https://www.iranintl.com/en/202611139474",
+    "AI|5214d7b4-36e3-3fbc-8223-6d7568e560c0",
+    "AI|92a77325-399d-3f8e-b209-4163d4aac9ae",
+    "AI|b69722d7-7bfc-4ef4-8ac6-3e2462310653",
+    "Watchlist|5214d7b4-36e3-3fbc-8223-6d7568e560c0",
+    "Watchlist|92a77325-399d-3f8e-b209-4163d4aac9ae",
+    "Watchlist|b69722d7-7bfc-4ef4-8ac6-3e2462310653",
+    "Watchlist|/international/ai-agents-bond-market-arrive-stealthy-microsoft-trade",
+    "SG Banks|0a35f149-0be6-3553-8404-630681b24684",
+    "SG Banks|/international/global/nvidia-approaches-arm-ceo-rene-haas-employees-seek-huangs-return-reports-say",
+    "Watchlist|/international/global/nvidia-approaches-arm-ceo-rene-haas-employees-seek-huangs-return-reports-say",
+    "SG Banks|/companies-markets/us-buyout-firm-advent-seeks-sell-singapore-tuition-chain-learning-lab-again-sources",
+    "War|950d35e3-d117-32ad-a131-d5a52efb9795",
+    "War|093640be-860a-337b-8cb5-fce8ba462dfb",
+    "SG Banks|https://www.channelnewsasia.com/business/new-street-starts-anthropic-coverage-buy-rating-estimates-revenue-above-500-billion-2030-6559841",
+    "AI|da114a58-1d65-30de-a499-0050b86a4087",
+    "AI|14d78938-d281-3b19-957e-c6b4851079b3",
+    "AI|6979925d-d360-3514-9f88-254ec04e2199",
+    "Watchlist|14d78938-d281-3b19-957e-c6b4851079b3",
+    "Watchlist|6979925d-d360-3514-9f88-254ec04e2199",
+    "Watchlist|da114a58-1d65-30de-a499-0050b86a4087",
+    "AI|da76ce2f-a7bb-442e-a8c6-1cb26c64ce86",
+    "Watchlist|da76ce2f-a7bb-442e-a8c6-1cb26c64ce86"
   ],
   "topic_error": "",
   "last_digest": "2026-11-17",
   "earnings": {
     "AMD": {
       "ts": 1801602000,
-      "fetched": 1794842574.3969827
+      "fetched": 1794928986.8917003
     },
     "NVDA": {
       "ts": 1794949200,
-      "fetched": 1794842574.3969827
+      "fetched": 1794928986.8917003
     },
     "CRWD": {
       "ts": 1796158800,
-      "fetched": 1794842574.3969827
+      "fetched": 1794928986.8917003
     },
     "MSFT": {
       "ts": 1801083600,
-      "fetched": 1794842574.3969827
+      "fetched": 1794928986.8917003
     },
     "INTU": {
       "ts": 1795122000,
-      "fetched": 1794842574.3969827
+      "fetched": 1794928986.8917003
     },
     "BRK-B": {
       "ts": 1794258000,
-      "fetched": 1794842574.3969827
+      "fetched": 1794928986.8917003
     },
     "AMZN": {
       "ts": 1793304000,
-      "fetched": 1794842574.3969827
+      "fetched": 1794928986.8917003
     },
     "GOOG": {
       "ts": 1793217600,
-      "fetched": 1794842574.3969827
+      "fetched": 1794928986.8917003
     },
     "ZTS": {
       "ts": 1793885400,
-      "fetched": 1794842574.3969827
+      "fetched": 1794928986.8917003
     },
     "LIN": {
       "ts": 1793277000,
-      "fetched": 1794842574.3969827
+      "fetched": 1794928986.8917003
     },
     "VLO": {
       "ts": 1801143000,
-      "fetched": 1794842574.3969827
+      "fetched": 1794928986.8917003
     },
     "D05.SI": {
       "ts": 1793869200,
-      "fetched": 1794842574.3969827
+      "fetched": 1794928986.8917003
     },
     "O39.SI": {
       "ts": 1793955600,
-      "fetched": 1794842574.3969827
+      "fetched": 1794928986.8917003
     },
     "U11.SI": {
       "ts": 1793782800,
-      "fetched": 1794842574.3969827
+      "fetched": 1794928986.8917003
     },
     "A17U.SI": {
       "ts": null,
-      "fetched": 1794842574.3969827
+      "fetched": 1794928986.8917003
     },
     "HMN.SI": {
       "ts": null,
-      "fetched": 1794842574.3969827
+      "fetched": 1794928986.8917003
     },
     "JYEU.SI": {
       "ts": null,
-      "fetched": 1794842574.3969827
+      "fetched": 1794928986.8917003
     }
   },
   "earnings_notified": [
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794928129.1805716,
+  "last_check": 1794929047.8206265,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-17"
