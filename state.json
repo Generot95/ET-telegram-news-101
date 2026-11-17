@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/godawari-power-q2-fy27-slides-revenue-up-25-margins-pressured-93CH-5028583",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-elders-stock-surging-today-93CH-5028584",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/astrazeneca-gets-us-approval-for-two-drugs-93CH-5028527",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-godawari-power-and-ispat-q2-2026-revenue-rises-25-93CH-5028544",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/bunzl-starts-second-250m-tranche-of-buyback-program-93CH-5028546",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-adore-beauty-stock-collapsing-today-93CH-5028547",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-tata-motors-stock-sliding-today-93CH-5028548",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/thailands-economy-grows-29-in-third-quarter-on-exports-93CH-5028582",
     "Cybersecurity|https://www.investing.com/news/company-news/godawari-power-q2-fy27-slides-revenue-up-25-margins-pressured-93CH-5028583",
@@ -5000,7 +4994,13 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/wayfair-inc-ceo-niraj-shah-sells-1205m-of-class-a-common-stock-93CH-5031686",
     "Watchlist|https://www.investing.com/news/economy-news/uk-lost-more-than-it-gained-from-brexit-says-pm-burnham-93CH-5031687",
     "Watchlist|https://www.investing.com/news/commodities-news/oman-iran-foreign-ministers-discuss-safeguarding-maritime-corridors-5031688",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/goldman-sachs-initiates-sbm-offshore-stock-with-buy-on-fpso-demand-93CH-5031691"
+    "Watchlist|https://www.investing.com/news/analyst-ratings/goldman-sachs-initiates-sbm-offshore-stock-with-buy-on-fpso-demand-93CH-5031691",
+    "AI|1b357fb3-e902-3290-8728-7df40497631f",
+    "Watchlist|1b357fb3-e902-3290-8728-7df40497631f",
+    "War|c9bf4c1c-d66a-3328-b07b-b2954eea274e",
+    "SG Banks|https://www.channelnewsasia.com/business/us-megaspeed-probe-jensen-huang-nvidia-2024-6557971",
+    "AI|65a425cf-67f8-37c9-b913-1ebb48552b0f",
+    "Watchlist|65a425cf-67f8-37c9-b913-1ebb48552b0f"
   ],
   "topic_error": "",
   "last_digest": "2026-11-17",
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794895016.1653056,
+  "last_check": 1794895931.716792,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-16"
