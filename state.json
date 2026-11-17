@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|f9dc0a82-3bc2-3887-9584-bb2c7ecf5fa1",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-belrise-industries-q2-2027-profit-jumps-stock-rises-11-93CH-5028363",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-tvs-supply-chain-solutions-q2-2026-revenue-jumps-38-93CH-5028364",
-    "AI|https://www.investing.com/news/stock-market-news/us-plans-to-name-nvidia-among-ai-national-champions-wsj-reports-5028365",
-    "AI|https://www.investing.com/news/insider-trading-news/douglas-a-virtue-buys-18300-in-virco-mfg-shares-93CH-5028367",
-    "AI|https://www.investing.com/news/economic-indicators/uk-home-asking-prices-fall-more-than-seasonal-average-93CH-5028369",
-    "AI|https://www.investing.com/news/company-news/belrise-q2-fy27-slides-profit-jumps-25-aerospace-pivot-gains-momentum-93CH-5028370",
-    "AI|https://www.investing.com/news/company-news/tvs-supply-chain-q2-fy27-slides-38-revenue-surge-profits-double-93CH-5028371",
-    "AI|https://www.investing.com/news/economy-news/boj-hawk-takata-calls-for-quick-pace-of-rate-hikes-5028372",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-belrise-industries-q2-2027-profit-jumps-stock-rises-11-93CH-5028363",
     "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-tvs-supply-chain-solutions-q2-2026-revenue-jumps-38-93CH-5028364",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/us-plans-to-name-nvidia-among-ai-national-champions-wsj-reports-5028365",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/douglas-a-virtue-buys-18300-in-virco-mfg-shares-93CH-5028367",
@@ -5000,7 +4990,17 @@
     "SG Banks|/companies-markets/telcos-media-tech/nvidias-ceo-search-draws-fire-bessents-shakeup-call",
     "Watchlist|/companies-markets/telcos-media-tech/nvidias-ceo-search-draws-fire-bessents-shakeup-call",
     "SG Banks|/companies-markets/furniture-retailer-homestolife-shares-open-flat-s1-15-sgx-mainboard-debut",
-    "Watchlist|/companies-markets/furniture-retailer-homestolife-shares-open-flat-s1-15-sgx-mainboard-debut"
+    "Watchlist|/companies-markets/furniture-retailer-homestolife-shares-open-flat-s1-15-sgx-mainboard-debut",
+    "AI|ed990134-b429-359b-a324-f20fe9ca9c5f",
+    "Crypto|ed990134-b429-359b-a324-f20fe9ca9c5f",
+    "Watchlist|ed990134-b429-359b-a324-f20fe9ca9c5f",
+    "AI|https://www.investing.com/news/stock-market-news/jdcom-q3-earnings-preview-ecommerce-weakness-ai-growth-in-focus-93CH-5031505",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/jdcom-q3-earnings-preview-ecommerce-weakness-ai-growth-in-focus-93CH-5031505",
+    "SG Banks|https://www.investing.com/news/stock-market-news/jdcom-q3-earnings-preview-ecommerce-weakness-ai-growth-in-focus-93CH-5031505",
+    "Watchlist|https://www.investing.com/news/stock-market-news/jdcom-q3-earnings-preview-ecommerce-weakness-ai-growth-in-focus-93CH-5031505",
+    "AI|42bf0737-8108-3f33-9693-8751678aab7d",
+    "Watchlist|42bf0737-8108-3f33-9693-8751678aab7d",
+    "Watchlist|819535f6-98d8-3a07-9df5-037621b28b03"
   ],
   "topic_error": "",
   "last_digest": "2026-11-17",
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794884900.5408695,
+  "last_check": 1794885849.6492898,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-16"
