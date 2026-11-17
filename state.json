@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/douglas-a-virtue-buys-18300-in-virco-mfg-shares-93CH-5028367",
-    "Watchlist|https://www.investing.com/news/economic-indicators/uk-home-asking-prices-fall-more-than-seasonal-average-93CH-5028369",
-    "Watchlist|https://www.investing.com/news/company-news/belrise-q2-fy27-slides-profit-jumps-25-aerospace-pivot-gains-momentum-93CH-5028370",
-    "Watchlist|https://www.investing.com/news/company-news/tvs-supply-chain-q2-fy27-slides-38-revenue-surge-profits-double-93CH-5028371",
-    "Watchlist|https://www.investing.com/news/economy-news/boj-hawk-takata-calls-for-quick-pace-of-rate-hikes-5028372",
-    "SG Banks|https://www.straitstimes.com/business/goldman-sachs-predicts-sizeable-surplus-for-oil-market-in-2027",
-    "AI|78f5878c-493e-3ece-b858-5137392c81d2",
-    "Watchlist|78f5878c-493e-3ece-b858-5137392c81d2",
-    "War|a8b7c862-0a03-3159-a2e1-f27c43db5473",
-    "AI|fb11fc59-c30e-3550-bffe-08da0def4fbf",
-    "Watchlist|fb11fc59-c30e-3550-bffe-08da0def4fbf",
-    "AI|https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-041-5028375",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-041-5028375",
     "SG Banks|https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-041-5028375",
     "Watchlist|https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-041-5028375",
@@ -5000,7 +4988,19 @@
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-baidu-hk-stock-sliding-today-93CH-5031543",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-xpeng-hk-stock-rallying-today-93CH-5031544",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-baidu-hk-stock-sliding-today-93CH-5031543",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-xpeng-hk-stock-rallying-today-93CH-5031544"
+    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-xpeng-hk-stock-rallying-today-93CH-5031544",
+    "SG Banks|/international/global/chinas-top-ai-firms-limit-cyber-capabilities-latest-models",
+    "Watchlist|/international/global/chinas-top-ai-firms-limit-cyber-capabilities-latest-models",
+    "AI|2677e661-df7e-39fe-bd49-20d733c5bd3d",
+    "Watchlist|2677e661-df7e-39fe-bd49-20d733c5bd3d",
+    "SG Banks|/companies-markets/if-theres-price-be-paid-so-be-it-george-yeo-says-singapore-must-resist-external-pressure-when",
+    "Watchlist|/companies-markets/if-theres-price-be-paid-so-be-it-george-yeo-says-singapore-must-resist-external-pressure-when",
+    "SG Banks|https://www.straitstimes.com/business/goldman-sachs-predicts-sizeable-surplus-for-oil-market-in-2027",
+    "Crypto|2b6475b3-dfa1-34a0-b4f9-f50f0f389b35",
+    "Watchlist|c4ec445d-d9a9-3a43-97e7-446206651fe8",
+    "AI|c4ec445d-d9a9-3a43-97e7-446206651fe8",
+    "AI|7907096a-0644-3851-996c-f2bf7a906a14",
+    "Watchlist|7907096a-0644-3851-996c-f2bf7a906a14"
   ],
   "topic_error": "",
   "last_digest": "2026-11-17",
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794886740.5606418,
+  "last_check": 1794887682.8740656,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-16"
