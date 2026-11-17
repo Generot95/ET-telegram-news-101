@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/trump-administration-to-name-nvidia-other-ai-firms-as-us-national-champions-wsj-reports-5028349",
-    "AI|https://www.investing.com/news/earnings/sunshine-biopharma-earnings-missed-by-120-revenue-topped-estimates-5028350",
-    "AI|https://www.investing.com/news/earnings/ascent-solar-earnings-missed-by-012-revenue-fell-short-of-estimates-5028351",
-    "AI|https://www.investing.com/news/economy-news/bojs-takata-calls-for-swift-hike-in-rates-to-good-position-5028353",
-    "AI|https://www.investing.com/news/insider-trading-news/lattice-semiconductor-svp-pravin-desale-sells-228021-in-stock-93CH-5028354",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/trump-administration-to-name-nvidia-other-ai-firms-as-us-national-champions-wsj-reports-5028349",
-    "Cybersecurity|https://www.investing.com/news/earnings/sunshine-biopharma-earnings-missed-by-120-revenue-topped-estimates-5028350",
-    "Cybersecurity|https://www.investing.com/news/earnings/ascent-solar-earnings-missed-by-012-revenue-fell-short-of-estimates-5028351",
-    "Cybersecurity|https://www.investing.com/news/economy-news/bojs-takata-calls-for-swift-hike-in-rates-to-good-position-5028353",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/lattice-semiconductor-svp-pravin-desale-sells-228021-in-stock-93CH-5028354",
     "SG Banks|https://www.investing.com/news/stock-market-news/trump-administration-to-name-nvidia-other-ai-firms-as-us-national-champions-wsj-reports-5028349",
     "SG Banks|https://www.investing.com/news/earnings/sunshine-biopharma-earnings-missed-by-120-revenue-topped-estimates-5028350",
@@ -5000,7 +4991,16 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/glaukos-president--coo-joseph-gilliam-sells-111m-in-gkos-stock-93CH-5031493",
     "Watchlist|https://www.investing.com/news/insider-trading-news/adma-biologics-ceo-adam-grossman-sells-288120-in-shares-93CH-5031494",
     "Watchlist|https://www.investing.com/news/insider-trading-news/skydance-corp-director-cardinale-buys-1-million-in-shares-93CH-5031495",
-    "Watchlist|https://www.investing.com/news/transcripts/vitrafy-life-sciences-at-bell-potter-healthcare-conference-blood-push-gains-pace-93CH-5031496"
+    "Watchlist|https://www.investing.com/news/transcripts/vitrafy-life-sciences-at-bell-potter-healthcare-conference-blood-push-gains-pace-93CH-5031496",
+    "SG Banks|https://www.straitstimes.com/business/dbs-jpmorgan-launch-us-singapore-tokenised-deposit-service-for-institutions",
+    "AI|bdfa7257-634d-3c92-b1a0-9baeafdfe7e9",
+    "SG Banks|https://www.channelnewsasia.com/singapore/nodx-october-electronics-pharmaceuticals-us-china-6557476",
+    "Watchlist|bdfa7257-634d-3c92-b1a0-9baeafdfe7e9",
+    "AI|1cf65156-35b1-30c2-82e8-d39256201ddb",
+    "Watchlist|1cf65156-35b1-30c2-82e8-d39256201ddb",
+    "War|9cb381b7-c1b4-3735-a2f5-f43b59e8c73f",
+    "SG Banks|https://www.channelnewsasia.com/business/nvidia-earnings-test-ai-boom-after-huangs-exit-6557521",
+    "War|183c7f71-8861-3259-ad76-f9337de89fa2"
   ],
   "topic_error": "",
   "last_digest": "2026-11-17",
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794883036.632846,
+  "last_check": 1794883977.7449353,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-16"
