@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/tata-motors-shares-tumble-on-jlr-margin-cut-restructuring-costs-93CH-5028447",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/anna-locke-director-buys-18981-in-southern-first-bancshares-stock-93CH-5028449",
-    "Watchlist|https://www.investing.com/news/economic-indicators/indias-wholesale-prices-rise-1229-yearonyear-in-october-5028452",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/jefferies-downgrades-amrize-stock-rating-on-margin-concerns-93CH-5028454",
-    "Watchlist|https://www.investing.com/news/company-news/vikram-solar-q2-fy27-slides-transition-quarter-cell-plant-on-track-93CH-5028457",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-tata-motors-passenger-vehicles-stock-plunging-today-93CH-5028456",
-    "Watchlist|https://www.investing.com/news/economic-indicators/indias-wholesale-inflation-rises-to-1229-in-october-93CH-5028458",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-senco-gold-q2-2026-revenue-misses-as-shares-fall-85-93CH-5028465",
-    "AI|0de1556c-e35c-3f5a-8c94-4efe923b458f",
-    "SG Banks|/international/global/dubai-hedge-fund-numbers-hold-steady-2026-amid-middle-east-conflict-rivalry-singapore-and-hong-kong",
-    "Watchlist|0de1556c-e35c-3f5a-8c94-4efe923b458f",
-    "Watchlist|/international/global/dubai-hedge-fund-numbers-hold-steady-2026-amid-middle-east-conflict-rivalry-singapore-and-hong-kong",
     "SG Banks|/companies-markets/banking-finance/pboc-withdraws-medium-term-funds-warning-sign-easing-bets",
     "SG Banks|https://www.channelnewsasia.com/business/europe-hunts-palantir-alternatives-militaries-seek-limit-us-dependence-6554656",
     "Watchlist|/companies-markets/banking-finance/pboc-withdraws-medium-term-funds-warning-sign-easing-bets",
@@ -5000,7 +4988,19 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/tenable-coceo-stephen-vintz-sells-403-million-in-tenb-stock-93CH-5031628",
     "Watchlist|https://www.investing.com/news/insider-trading-news/tenable-holdings-director-arthur-coviello-jr-sells-487993-in-shares-93CH-5031629",
     "Watchlist|https://www.investing.com/news/economy-news/analysisindonesia-on-a-slippery-slope-as-political-tumult-adds-to-msciled-market-angst-5031630",
-    "Watchlist|https://www.investing.com/news/stock-market-news/us-commerce-dept-doj-say-they-investigated-nvidia-partner-megaspeed-in-2024-5031631"
+    "Watchlist|https://www.investing.com/news/stock-market-news/us-commerce-dept-doj-say-they-investigated-nvidia-partner-megaspeed-in-2024-5031631",
+    "Iran|https://www.iranintl.com/en/202611160295",
+    "AI|a33cc504-1fa7-3f0b-9764-2fd08785cefc",
+    "SG Banks|https://www.channelnewsasia.com/business/popular-websites-subverted-in-bid-steal-crypto-target-iphone-users-6557851",
+    "Watchlist|a33cc504-1fa7-3f0b-9764-2fd08785cefc",
+    "War|6d214a81-2d3c-31c6-8a16-660df6779a39",
+    "AI|f1b9aba0-73ba-3f52-a279-a5d8f99820e8",
+    "SG Banks|https://www.straitstimes.com/business/st-headstart-how-to-tell-if-youre-in-the-right-job",
+    "Watchlist|f1b9aba0-73ba-3f52-a279-a5d8f99820e8",
+    "War|81001771-69ba-3aae-ac33-48e83bc20492",
+    "AI|046ff205-c161-39f3-a852-0e135a1b371c",
+    "Crypto|8a748584-a5ae-388d-867b-c87f7480dfd2",
+    "Watchlist|046ff205-c161-39f3-a852-0e135a1b371c"
   ],
   "topic_error": "",
   "last_digest": "2026-11-17",
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794891337.3786201,
+  "last_check": 1794892249.9976883,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-16"
