@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/economy-news/morgan-stanley-raises-global-equities-to-maximum-overweight-on-cheap-valuations-earnings-strength-5029212",
-    "Watchlist|https://www.investing.com/news/company-news/uflex-q2-fy27-slides-margins-surge-on-overseas-strength-capex-ramps-93CH-5029213",
-    "Watchlist|https://www.investing.com/news/company-news/medline-shareholders-launch-60-million-share-offering-93CH-5029215",
-    "Watchlist|https://www.investing.com/news/sec-filings/bright-horizon-completes-acquisition-of-northwestern-energy-begins-trading-as-nysehzn-93CH-5029216",
-    "AI|d5296f98-dc70-315e-9d1e-ddaad5b070e1",
-    "AI|190eaea5-43fc-333c-8582-f41b6102a761",
-    "AI|838ef0dd-a643-3509-b5d9-aaa0f11bd0fe",
-    "AI|146d5193-a37d-38d0-a618-cb4b57243684",
-    "AI|ee45b55c-66da-39e8-9bf4-1c893ce70f3c",
-    "AI|5b20487e-00ee-3616-b01e-b7aa135041d2",
     "Watchlist|eb506aee-5176-332d-aff5-7869f7e0e16c",
     "Watchlist|190eaea5-43fc-333c-8582-f41b6102a761",
     "Watchlist|146d5193-a37d-38d0-a618-cb4b57243684",
@@ -5000,7 +4990,17 @@
     "Cybersecurity|WP-MKTW-0005352312",
     "SG Banks|https://www.channelnewsasia.com/business/eu-preliminarily-finds-temu-breaches-regulation-failing-tackle-illegal-good-sales-6558886",
     "SG Banks|https://www.channelnewsasia.com/business/analysisnvidia-turmoil-marks-end-easy-money-ai-trade-6558876",
-    "SG Banks|https://www.channelnewsasia.com/business/exclusive-gm-plans-20-boost-in-robotics-factory-costs-rise-6558871"
+    "SG Banks|https://www.channelnewsasia.com/business/exclusive-gm-plans-20-boost-in-robotics-factory-costs-rise-6558871",
+    "AI|b3657a19-296c-3d1a-82d8-5e89b512ba59",
+    "Watchlist|b3657a19-296c-3d1a-82d8-5e89b512ba59",
+    "War|2e25f35f-e3fd-38c8-b259-f3d159c0e88e",
+    "AI|2e25f35f-e3fd-38c8-b259-f3d159c0e88e",
+    "Watchlist|2e25f35f-e3fd-38c8-b259-f3d159c0e88e",
+    "AI|487ce087-c8f0-3591-83b0-bc8d4015cc29",
+    "Watchlist|487ce087-c8f0-3591-83b0-bc8d4015cc29",
+    "AI|c9266a55-37a1-39df-a40a-7bc7302eb3a9",
+    "Crypto|c9266a55-37a1-39df-a40a-7bc7302eb3a9",
+    "Watchlist|c9266a55-37a1-39df-a40a-7bc7302eb3a9"
   ],
   "topic_error": "",
   "last_digest": "2026-11-17",
@@ -5089,7 +5089,7 @@
     "BRK-B|2026-11-10",
     "NVDA|2026-11-18"
   ],
-  "last_check": 1794914328.644981,
+  "last_check": 1794915250.840539,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-17"
