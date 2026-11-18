@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Crypto|cde722a5-be71-311f-8b3d-ca6605e608b1",
-    "AI|1739c638-2405-3623-beca-9163a5b2c6a8",
-    "SG Banks|https://www.straitstimes.com/business/mary-chias-half-year-revenue-plunges-88-as-it-flags-uncertainty-over-ability-to-stay-afloat",
-    "Watchlist|1739c638-2405-3623-beca-9163a5b2c6a8",
-    "Crypto|aa484f1f-6100-3098-be14-6455f10489bc",
-    "War|8ee41715-b2af-4fb4-863a-25e1ed380469",
-    "AI|https://www.investing.com/news/company-news/andfjord-salmon-q3-2026-slides-biomass-doubles-capacity-hits-11000t-93CH-5032056",
-    "AI|https://www.investing.com/news/transcripts/vf-corp-at-global-luxury--brands-conference-turnaround-gains-pace-93CH-5032057",
-    "AI|https://www.investing.com/news/transcripts/stryker-at-jefferies-global-healthcare-conference-growth-recovery-and-scale-93CH-5032058",
     "AI|https://www.investing.com/news/transcripts/align-technology-at-jefferies-global-healthcare-conference-leadership-shift-cautious-outlook-93CH-5032059",
     "AI|https://www.investing.com/news/transcripts/intellia-at-jefferies-global-healthcare-conference-launch-and-pipeline-in-focus-93CH-5032060",
     "AI|https://www.investing.com/news/stock-market-news/why-is-red-cat-holdings-stock-plummeting-today-93CH-5032061",
@@ -5000,7 +4991,16 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/goldman-trades-at-13x-peso-why-did-these-ai-models-pass-on-it-5032836",
     "Watchlist|https://www.investing.com/news/stock-market-news/seagate-plunged-22-in-a-month-value-play-or-cyclical-trap-5032902",
     "Watchlist|https://www.investing.com/news/stock-market-news/medical-costs-are-crushing-insurersand-lifting-livanova-stock-5032950",
-    "Watchlist|https://www.investing.com/news/stock-market-news/vusion-targets-3bn-revenue-by-2030-with-digital-store-push-93CH-5034891"
+    "Watchlist|https://www.investing.com/news/stock-market-news/vusion-targets-3bn-revenue-by-2030-with-digital-store-push-93CH-5034891",
+    "Watchlist|2ad5cd22-590a-3307-93fd-41d44554b9fc",
+    "AI|2ad5cd22-590a-3307-93fd-41d44554b9fc",
+    "AI|46318c93-31a9-31e9-93e1-17ae465ea6cd",
+    "SG Banks|https://www.straitstimes.com/business/mary-chias-half-year-revenue-plunges-88-as-it-flags-uncertainty-over-ability-to-stay-afloat",
+    "Watchlist|46318c93-31a9-31e9-93e1-17ae465ea6cd",
+    "AI|490c6638-515c-3fce-aaf9-76d8cb94e5a9",
+    "Watchlist|490c6638-515c-3fce-aaf9-76d8cb94e5a9",
+    "SG Banks|https://www.straitstimes.com/business/dollar-holds-near-19-month-high-as-data-supports-case-for-us-rate-hikes",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/brief-rally-for-spore-tech-stocks-after-nvidias-strong-earnings-exceed-forecasts"
   ],
   "topic_error": "",
   "last_digest": "2026-11-18",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1794985069.9579394,
+  "last_check": 1794985982.2144985,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-17"
