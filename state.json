@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/analyst-ratings/stifel-initiates-kroger-stock-with-buy-rating-on-turnaround-plan-93CH-5031724",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/stifel-initiates-best-buy-stock-coverage-with-hold-rating-93CH-5031726",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/stifel-initiates-genuine-parts-stock-with-hold-rating-130-target-93CH-5031725",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/stifel-initiates-advance-auto-parts-stock-with-hold-rating-93CH-5031730",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/stifel-initiates-dollar-tree-stock-coverage-with-buy-rating-93CH-5031728",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/stifel-initiates-albertsons-stock-with-hold-rating-on-price-focus-93CH-5031727",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/stifel-initiates-caseys-general-stores-stock-with-buy-rating-93CH-5031731",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/stifel-initiates-costco-stock-with-buy-rating-on-membership-growth-93CH-5031722",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/stifel-initiates-carvana-stock-with-buy-rating-on-unit-growth-outlook-93CH-5031723",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/stifel-initiates-kroger-stock-with-buy-rating-on-turnaround-plan-93CH-5031724",
     "Watchlist|https://www.investing.com/news/analyst-ratings/stifel-initiates-best-buy-stock-coverage-with-hold-rating-93CH-5031726",
     "Watchlist|https://www.investing.com/news/analyst-ratings/stifel-initiates-genuine-parts-stock-with-hold-rating-130-target-93CH-5031725",
     "Watchlist|https://www.investing.com/news/analyst-ratings/stifel-initiates-advance-auto-parts-stock-with-hold-rating-93CH-5031730",
@@ -5000,7 +4990,17 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/ciena-corp-president--ceo-gary-smith-sells-770012-in-stock-93CH-5034625",
     "Watchlist|https://www.investing.com/news/insider-trading-news/coastlands-capital-buys-805944-pasithea-therapeutics-stock-93CH-5034626",
     "Watchlist|https://www.investing.com/news/transcripts/optiscan-imaging-at-bell-potter-healthcare-conference-digital-pathology-push-93CH-5034627",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/coastlands-capital-lp-buys-309921-of-bolt-biotherapeutics-stock-93CH-5034634"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/coastlands-capital-lp-buys-309921-of-bolt-biotherapeutics-stock-93CH-5034634",
+    "AI|ae9bc59a-91db-3ff1-a747-25e068787ad4",
+    "SG Banks|/companies-markets/energy-commodities/gold-slides-over-one-year-low-firm-dollar-us-rate-outlook",
+    "Watchlist|/companies-markets/energy-commodities/gold-slides-over-one-year-low-firm-dollar-us-rate-outlook",
+    "AI|c0f52f31-3313-344b-8608-ebe2676f501b",
+    "AI|c25edf73-56b9-354b-a03e-622e50524566",
+    "AI|eb1b99ea-7d95-37c3-8fc8-e82fac3fd046",
+    "Cybersecurity|c0f52f31-3313-344b-8608-ebe2676f501b",
+    "Watchlist|c0f52f31-3313-344b-8608-ebe2676f501b",
+    "Watchlist|c25edf73-56b9-354b-a03e-622e50524566",
+    "Watchlist|eb1b99ea-7d95-37c3-8fc8-e82fac3fd046"
   ],
   "topic_error": "",
   "last_digest": "2026-11-18",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1794973159.6129746,
+  "last_check": 1794974065.3146048,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-17"
