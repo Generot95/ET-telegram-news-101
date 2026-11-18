@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/china-chipmakers-rally-as-us-curbs-threaten-ai-developers-access-to-nvidia-5031619",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-3120-in-gabelli-healthcare--wellnessrx-trust-93CH-5031627",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/tenable-coceo-stephen-vintz-sells-403-million-in-tenb-stock-93CH-5031628",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/tenable-holdings-director-arthur-coviello-jr-sells-487993-in-shares-93CH-5031629",
-    "Watchlist|https://www.investing.com/news/economy-news/analysisindonesia-on-a-slippery-slope-as-political-tumult-adds-to-msciled-market-angst-5031630",
-    "Watchlist|https://www.investing.com/news/stock-market-news/us-commerce-dept-doj-say-they-investigated-nvidia-partner-megaspeed-in-2024-5031631",
-    "Iran|https://www.iranintl.com/en/202611160295",
-    "AI|a33cc504-1fa7-3f0b-9764-2fd08785cefc",
     "SG Banks|https://www.channelnewsasia.com/business/popular-websites-subverted-in-bid-steal-crypto-target-iphone-users-6557851",
     "Watchlist|a33cc504-1fa7-3f0b-9764-2fd08785cefc",
     "War|6d214a81-2d3c-31c6-8a16-660df6779a39",
@@ -5000,7 +4992,15 @@
     "Watchlist|/international/us-sees-worst-tech-related-outage-35-years-flight-cancellations-top-17000",
     "AI|9feda359-2ed3-3872-9e16-e1f93bbfb6bb",
     "Crypto|12e6a825-3684-3489-8cde-e0c597ab302e",
-    "Watchlist|9feda359-2ed3-3872-9e16-e1f93bbfb6bb"
+    "Watchlist|9feda359-2ed3-3872-9e16-e1f93bbfb6bb",
+    "SG Banks|/companies-markets/singapore-unveils-national-ai-missions-finance-amid-us-chip-restrictions",
+    "Watchlist|/companies-markets/singapore-unveils-national-ai-missions-finance-amid-us-chip-restrictions",
+    "AI|5ef42285-9f13-3aa5-a6f6-2375c7da4d82",
+    "Crypto|5ef42285-9f13-3aa5-a6f6-2375c7da4d82",
+    "Watchlist|5ef42285-9f13-3aa5-a6f6-2375c7da4d82",
+    "War|1a1e0a1f-b96a-3e36-857d-45db9d23fc48",
+    "SG Banks|/companies-markets/telcos-media-tech/banks-pause-us480-million-chip-loan-tied-chinas-bytedance",
+    "Watchlist|/companies-markets/telcos-media-tech/banks-pause-us480-million-chip-loan-tied-chinas-bytedance"
   ],
   "topic_error": "",
   "last_digest": "2026-11-18",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1794969510.73753,
+  "last_check": 1794970427.309076,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-17"
