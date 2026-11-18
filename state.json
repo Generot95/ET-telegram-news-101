@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/robyn-tannenbaum-sunrise-realty-president-buys-34250-in-stock-93CH-5031785",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/deutsche-bank-says-media-reports-focus-on-legacy-issues-dating-back-decades-93CH-5031786",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/top-cybersecurity-software-stocks-ahead-of-q3-earnings-truist-5031788",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/hsbc-upgrades-cisco-stock-rating-on-ai-networking-growth-outlook-93CH-5031789",
-    "SG Banks|https://www.investing.com/news/stock-market-news/smart-eye-posts-positive-ebit-as-royalty-revenue-jumps-93CH-5031774",
-    "SG Banks|https://www.investing.com/news/company-news/ppc-q3-2026-slides-net-income-surges-35-on-renewables-push-93CH-5031776",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/ring-energy-cfo-sundip-johl-buys-70086-in-company-stock-93CH-5031783",
     "SG Banks|https://www.investing.com/news/insider-trading-news/united-therapeutics-ceo-rothblatt-sells-56-million-in-shares-93CH-5031784",
     "SG Banks|https://www.investing.com/news/insider-trading-news/robyn-tannenbaum-sunrise-realty-president-buys-34250-in-stock-93CH-5031785",
     "SG Banks|https://www.investing.com/news/stock-market-news/deutsche-bank-says-media-reports-focus-on-legacy-issues-dating-back-decades-93CH-5031786",
@@ -5000,7 +4993,14 @@
     "Watchlist|https://www.investing.com/news/economic-indicators/malaysia-q3-gdp-grows-more-than-expected-on-ai-tourism-boost-5034675",
     "Watchlist|https://www.investing.com/news/stock-market-news/factboxjob-cuts-mount-across-corporate-australia-in-2026-5034677",
     "Watchlist|https://www.investing.com/news/company-news/ipayout-highlights-costeffective-global-payout-infrastructure-for-highvolume-lowvalue-payments-5034678",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-below-65k-amid-rate-hike-fears-strategy-buys-more-coins-5031772"
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-below-65k-amid-rate-hike-fears-strategy-buys-more-coins-5031772",
+    "AI|3b943120-3b4e-3deb-9ca6-85be6f3e64b8",
+    "Watchlist|3b943120-3b4e-3deb-9ca6-85be6f3e64b8",
+    "Cybersecurity|1404e2e7-99b9-3d2b-a507-d45ff52e24ef",
+    "SG Banks|https://www.straitstimes.com/business/malaysia-says-growth-stronger-than-expected-but-ai-risks-loom",
+    "SG Banks|https://www.channelnewsasia.com/asia/malaysias-economy-grows-55-in-q3-propelled-tech-boom-6561456",
+    "SG Banks|7031264d-ffd2-3e0d-81b3-997458c018b1",
+    "Watchlist|7031264d-ffd2-3e0d-81b3-997458c018b1"
   ],
   "topic_error": "",
   "last_digest": "2026-11-18",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1794976812.840926,
+  "last_check": 1794977731.18189,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-17"
