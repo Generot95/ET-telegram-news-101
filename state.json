@@ -1,80 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/earnings/boxlight-earnings-beat-by-1994-revenue-topped-estimates-5033574",
-    "Watchlist|https://www.investing.com/news/company-news/midera-q3-2026-slides-doubledigit-growth-410-bps-margin-expansion-93CH-5033575",
-    "AI|e79e078b-aaec-312c-a55a-75a20d7bbb59",
-    "AI|https://www.investing.com/news/transcripts/immunocore-at-ubs-global-biopharma-conference-2026-kimmtrak-drives-growth-93CH-5033568",
-    "Cybersecurity|https://www.investing.com/news/transcripts/immunocore-at-ubs-global-biopharma-conference-2026-kimmtrak-drives-growth-93CH-5033568",
-    "SG Banks|https://www.investing.com/news/transcripts/immunocore-at-ubs-global-biopharma-conference-2026-kimmtrak-drives-growth-93CH-5033568",
-    "Watchlist|https://www.investing.com/news/transcripts/immunocore-at-ubs-global-biopharma-conference-2026-kimmtrak-drives-growth-93CH-5033568",
-    "War|2ef96a92-01e7-3e75-afe2-875f7e5965cf",
-    "SG Banks|/companies-markets/tiktok-owner-bytedance-plans-us6-billion-buyback-us400-billion-valuation",
-    "Watchlist|/companies-markets/tiktok-owner-bytedance-plans-us6-billion-buyback-us400-billion-valuation",
-    "AI|c7e1db3e-ddf6-3d62-90fd-8ac320c24ef2",
-    "AI|90718e63-19a1-3a34-a69a-2007e643f561",
-    "AI|f0e4dabb-ab87-3043-89dc-e14b92f3a2a2",
-    "Crypto|82648457-359b-3ef6-8250-49abe029d268",
-    "Watchlist|0bc77fee-1c68-3a39-9628-84d0eb3345cf",
-    "Watchlist|c7e1db3e-ddf6-3d62-90fd-8ac320c24ef2",
-    "Watchlist|e79e078b-aaec-312c-a55a-75a20d7bbb59",
-    "Watchlist|90718e63-19a1-3a34-a69a-2007e643f561",
-    "Watchlist|f0e4dabb-ab87-3043-89dc-e14b92f3a2a2",
-    "AI|0bc77fee-1c68-3a39-9628-84d0eb3345cf",
-    "Crypto|e9f67741-34bf-386d-ad1a-f68cef075eba",
-    "AI|6165dd55-e24e-3986-9973-710ece741a73",
-    "AI|ea88eb23-b6af-36a9-8698-d726b3e80a31",
-    "AI|49572361-4bf5-36d8-a40a-98d57167ebc0",
-    "Watchlist|ea88eb23-b6af-36a9-8698-d726b3e80a31",
-    "Watchlist|49572361-4bf5-36d8-a40a-98d57167ebc0",
-    "Watchlist|6165dd55-e24e-3986-9973-710ece741a73",
-    "War|f5a7c381-8cc2-3252-8600-203e8bf76a2c",
-    "AI|fe870c90-306b-4656-aa01-42e538680191",
-    "AI|f5a7c381-8cc2-3252-8600-203e8bf76a2c",
-    "AI|c091b98e-ed01-3f91-b580-dabd36f1c391",
-    "Crypto|d68d806d-c2fd-3fc8-b9df-0cb61df24d2e",
-    "Watchlist|fe870c90-306b-4656-aa01-42e538680191",
-    "Watchlist|f5a7c381-8cc2-3252-8600-203e8bf76a2c",
-    "Watchlist|c091b98e-ed01-3f91-b580-dabd36f1c391",
-    "War|293fe33b-6a63-340d-bfc5-85fe9fc4477d",
-    "SG Banks|/companies-markets/samsung-talks-acquire-data-centre-cooling-firm-modine",
-    "Watchlist|9e18ad30-2c2b-3c5e-8125-af59041ef016",
-    "AI|5e296540-19dd-3477-ba63-c3e0bc298d53",
-    "AI|82a937f3-ab19-38e4-9b24-9c2d554423ae",
-    "AI|f833d6c5-137b-3990-8605-7e6c53c05b23",
-    "AI|90e7d708-49ee-4fa3-974f-8547a2c02b5d",
-    "Watchlist|f698335c-168d-33a7-bb8a-1492ed7d797d",
-    "Watchlist|82a937f3-ab19-38e4-9b24-9c2d554423ae",
-    "Watchlist|f833d6c5-137b-3990-8605-7e6c53c05b23",
-    "Watchlist|90e7d708-49ee-4fa3-974f-8547a2c02b5d",
-    "Watchlist|5e296540-19dd-3477-ba63-c3e0bc298d53",
-    "AI|f698335c-168d-33a7-bb8a-1492ed7d797d",
-    "AI|5d4c8ff4-57bc-3350-b217-681441a4f8b3",
-    "Watchlist|5d4c8ff4-57bc-3350-b217-681441a4f8b3",
-    "Watchlist|8c5a96b8-28c5-433a-91f6-2af8989b8fba",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-sharonai-holdings-stock-surging-today-93CH-5033591",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-prog-holdings-stock-sliding-today-93CH-5033592",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-aytu-biopharma-stock-surging-today-93CH-5033593",
-    "AI|https://www.investing.com/news/stock-market-news/denmark-stocks-lower-at-close-of-trade-omx-copenhagen-20-down-185-5033594",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-newmed-energy-posts-record-q3-2026-profit-93CH-5033597",
-    "AI|https://www.investing.com/news/transcripts/zillow-at-rbc-conference-model-shift-aims-to-lift-longterm-growth-93CH-5033598",
-    "AI|https://www.investing.com/news/transcripts/taboola-at-rbc-conference-ai-push-meets-openweb-shift-93CH-5033599",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-zimmer-biomet-stock-climbing-today-93CH-5033583",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-m-tron-industries-stock-rallying-today-93CH-5033584",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-united-natural-foods-stock-surging-today-93CH-5033585",
-    "AI|https://www.investing.com/news/company-news/green-brick-partners-stock-hits-52week-low-at-5869-usd-93CH-5033578",
-    "AI|https://www.investing.com/news/company-news/archer-aviation-stock-hits-52week-low-at-362-93CH-5033586",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-sharonai-holdings-stock-surging-today-93CH-5033591",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-prog-holdings-stock-sliding-today-93CH-5033592",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-aytu-biopharma-stock-surging-today-93CH-5033593",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/denmark-stocks-lower-at-close-of-trade-omx-copenhagen-20-down-185-5033594",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-newmed-energy-posts-record-q3-2026-profit-93CH-5033597",
-    "Cybersecurity|https://www.investing.com/news/transcripts/zillow-at-rbc-conference-model-shift-aims-to-lift-longterm-growth-93CH-5033598",
-    "Cybersecurity|https://www.investing.com/news/transcripts/taboola-at-rbc-conference-ai-push-meets-openweb-shift-93CH-5033599",
-    "Cybersecurity|https://www.investing.com/news/company-news/green-brick-partners-stock-hits-52week-low-at-5869-usd-93CH-5033578",
-    "Cybersecurity|https://www.investing.com/news/company-news/archer-aviation-stock-hits-52week-low-at-362-93CH-5033586",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-sharonai-holdings-stock-surging-today-93CH-5033591",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-prog-holdings-stock-sliding-today-93CH-5033592",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-aytu-biopharma-stock-surging-today-93CH-5033593",
     "SG Banks|https://www.investing.com/news/stock-market-news/denmark-stocks-lower-at-close-of-trade-omx-copenhagen-20-down-185-5033594",
     "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-newmed-energy-posts-record-q3-2026-profit-93CH-5033597",
@@ -5000,78 +4926,152 @@
     "AI|10c06099-f397-39ca-b4b8-a19f600cdbae",
     "Crypto|a8f9b5cc-c5df-3f52-8d97-8ec408de7963",
     "Cybersecurity|ce78a4f5-a02d-3fec-a62b-9efa325709ac",
-    "Watchlist|ce78a4f5-a02d-3fec-a62b-9efa325709ac"
+    "Watchlist|ce78a4f5-a02d-3fec-a62b-9efa325709ac",
+    "Watchlist|51e44d42-0cfe-39e7-9891-b930aa4ed1bd",
+    "War|d827e5dc-b932-30b8-adc7-2d7e44dd4661",
+    "War|https://www.investing.com/news/commodities-news/franceagrimer-raises-french-wheat-export-forecast-by-11-93CH-5036510",
+    "AI|https://www.investing.com/news/stock-market-news/microsoft-vs-amazon-as-ai-plays-why-msft-has-the-edge-today-93CH-5036542",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-cerebras-systems-stock-sliding-today-93CH-5036543",
+    "AI|https://www.investing.com/news/transcripts/zebra-technologies-at-stephens-conference-ai-push-and-pricing-power-93CH-5036544",
+    "AI|https://www.investing.com/news/analyst-ratings/bmo-reiterates-taketwo-stock-rating-on-strong-gta-vi-reviews-93CH-5036545",
+    "AI|https://www.investing.com/news/stock-market-news/huang-could-return-as-nvidia-ceo--by-friendly-means-or-via-a-boardroom-power-play-5036546",
+    "AI|https://www.investing.com/news/stock-market-news/nio-xpev-and-li-auto-compared-growth-margins-and-risk-93CH-5036547",
+    "AI|https://www.investing.com/news/transcripts/zeta-global-at-southwest-ideas-growth-ai-and-cash-flow-93CH-5036548",
+    "AI|https://www.investing.com/news/transcripts/atlas-energy-at-18th-annual-southwest-ideas-conference-power-pivot-93CH-5036549",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-space-exploration-technologies-stock-climbing-today-93CH-5036550",
+    "AI|https://www.investing.com/news/stock-market-news/deere-stock-may-move-61-on-nov-25-earnings-release-93CH-5036525",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-crowdstrike-stock-rallying-today-93CH-5036526",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-amazon-stock-climbing-today-93CH-5036532",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-arm-stock-gaining-today-93CH-5036537",
+    "AI|https://www.investing.com/news/company-news/arcos-dorados-stock-hits-52week-low-at-667-usd-93CH-5036506",
+    "AI|https://www.investing.com/news/company-news/ingredion-stock-hits-52week-low-at-8960-93CH-5036518",
+    "AI|https://www.investing.com/news/company-news/freenome-stock-hits-52week-low-at-965-usd-93CH-5036541",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/microsoft-vs-amazon-as-ai-plays-why-msft-has-the-edge-today-93CH-5036542",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-cerebras-systems-stock-sliding-today-93CH-5036543",
+    "Cybersecurity|https://www.investing.com/news/transcripts/zebra-technologies-at-stephens-conference-ai-push-and-pricing-power-93CH-5036544",
+    "Cybersecurity|https://www.investing.com/news/analyst-ratings/bmo-reiterates-taketwo-stock-rating-on-strong-gta-vi-reviews-93CH-5036545",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/huang-could-return-as-nvidia-ceo--by-friendly-means-or-via-a-boardroom-power-play-5036546",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/nio-xpev-and-li-auto-compared-growth-margins-and-risk-93CH-5036547",
+    "Cybersecurity|https://www.investing.com/news/transcripts/zeta-global-at-southwest-ideas-growth-ai-and-cash-flow-93CH-5036548",
+    "Cybersecurity|https://www.investing.com/news/transcripts/atlas-energy-at-18th-annual-southwest-ideas-conference-power-pivot-93CH-5036549",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-space-exploration-technologies-stock-climbing-today-93CH-5036550",
+    "Cybersecurity|https://www.investing.com/news/company-news/arcos-dorados-stock-hits-52week-low-at-667-usd-93CH-5036506",
+    "Cybersecurity|https://www.investing.com/news/company-news/ingredion-stock-hits-52week-low-at-8960-93CH-5036518",
+    "Cybersecurity|https://www.investing.com/news/company-news/freenome-stock-hits-52week-low-at-965-usd-93CH-5036541",
+    "SG Banks|https://www.investing.com/news/stock-market-news/microsoft-vs-amazon-as-ai-plays-why-msft-has-the-edge-today-93CH-5036542",
+    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-cerebras-systems-stock-sliding-today-93CH-5036543",
+    "SG Banks|https://www.investing.com/news/transcripts/zebra-technologies-at-stephens-conference-ai-push-and-pricing-power-93CH-5036544",
+    "SG Banks|https://www.investing.com/news/analyst-ratings/bmo-reiterates-taketwo-stock-rating-on-strong-gta-vi-reviews-93CH-5036545",
+    "SG Banks|https://www.investing.com/news/stock-market-news/huang-could-return-as-nvidia-ceo--by-friendly-means-or-via-a-boardroom-power-play-5036546",
+    "SG Banks|https://www.investing.com/news/stock-market-news/nio-xpev-and-li-auto-compared-growth-margins-and-risk-93CH-5036547",
+    "SG Banks|https://www.investing.com/news/transcripts/zeta-global-at-southwest-ideas-growth-ai-and-cash-flow-93CH-5036548",
+    "SG Banks|https://www.investing.com/news/transcripts/atlas-energy-at-18th-annual-southwest-ideas-conference-power-pivot-93CH-5036549",
+    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-space-exploration-technologies-stock-climbing-today-93CH-5036550",
+    "Watchlist|https://www.investing.com/news/stock-market-news/microsoft-vs-amazon-as-ai-plays-why-msft-has-the-edge-today-93CH-5036542",
+    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-cerebras-systems-stock-sliding-today-93CH-5036543",
+    "Watchlist|https://www.investing.com/news/transcripts/zebra-technologies-at-stephens-conference-ai-push-and-pricing-power-93CH-5036544",
+    "Watchlist|https://www.investing.com/news/analyst-ratings/bmo-reiterates-taketwo-stock-rating-on-strong-gta-vi-reviews-93CH-5036545",
+    "Watchlist|https://www.investing.com/news/stock-market-news/huang-could-return-as-nvidia-ceo--by-friendly-means-or-via-a-boardroom-power-play-5036546",
+    "Watchlist|https://www.investing.com/news/stock-market-news/nio-xpev-and-li-auto-compared-growth-margins-and-risk-93CH-5036547",
+    "Watchlist|https://www.investing.com/news/transcripts/zeta-global-at-southwest-ideas-growth-ai-and-cash-flow-93CH-5036548",
+    "Watchlist|https://www.investing.com/news/transcripts/atlas-energy-at-18th-annual-southwest-ideas-conference-power-pivot-93CH-5036549",
+    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-space-exploration-technologies-stock-climbing-today-93CH-5036550",
+    "War|0bb63886-032c-3543-8715-2124b6916bd3",
+    "AI|e3c9b9b3-ebf2-3515-8ac3-a251d50e5d7d",
+    "AI|532177e1-9e3a-34a9-9222-df4c6581086b",
+    "AI|a2363105-4b9a-3d03-b262-6559d5260daa",
+    "Watchlist|e3c9b9b3-ebf2-3515-8ac3-a251d50e5d7d",
+    "Watchlist|a2363105-4b9a-3d03-b262-6559d5260daa",
+    "AI|cb1ecc6b-4a9e-43c9-b12c-f3a77d0f5524",
+    "War|e2d1efcc-2f81-359c-8ffd-0a49fcd3adbf",
+    "Watchlist|cb1ecc6b-4a9e-43c9-b12c-f3a77d0f5524",
+    "Watchlist|374a75d8-a728-3c63-bab6-0f8cafd4c24c",
+    "Watchlist|9c48f391-f780-3967-a628-d11c838870cf",
+    "Crypto|56e7ab43-91e9-37c9-857d-27b0b3a44bb5",
+    "War|WP-MKTW-0005351393",
+    "AI|WP-MKTW-0005351393",
+    "Cybersecurity|WP-MKTW-0005351393",
+    "Watchlist|b6ca654f-c356-3ed4-aed5-38dccb6201c5",
+    "AI|42777012-f33f-363e-a363-70aa3d66c5a5",
+    "AI|af5d260d-2656-3c2c-8aba-98640ca8d1bd",
+    "Watchlist|1cd572f2-ae46-30e4-a89d-8d1f2270f251",
+    "War|3755593d-73a9-3828-ba39-eb26699d20ff",
+    "AI|3cca067e-597c-3c1b-a587-bcd6dcd9eea1",
+    "Watchlist|af5d260d-2656-3c2c-8aba-98640ca8d1bd",
+    "Watchlist|3cca067e-597c-3c1b-a587-bcd6dcd9eea1",
+    "AI|116f171a-fded-3ce2-b9e3-48625c30f9e6",
+    "Watchlist|116f171a-fded-3ce2-b9e3-48625c30f9e6"
   ],
   "topic_error": "",
   "last_digest": "2026-11-18",
   "earnings": {
     "AMD": {
       "ts": 1801602000,
-      "fetched": 1794928986.8917003
+      "fetched": 1795015438.9185715
     },
     "NVDA": {
       "ts": 1794949200,
-      "fetched": 1794928986.8917003
+      "fetched": 1795015438.9185715
     },
     "CRWD": {
       "ts": 1796158800,
-      "fetched": 1794928986.8917003
+      "fetched": 1795015438.9185715
     },
     "MSFT": {
       "ts": 1801083600,
-      "fetched": 1794928986.8917003
+      "fetched": 1795015438.9185715
     },
     "INTU": {
       "ts": 1795122000,
-      "fetched": 1794928986.8917003
+      "fetched": 1795015438.9185715
     },
     "BRK-B": {
       "ts": 1794258000,
-      "fetched": 1794928986.8917003
+      "fetched": 1795015438.9185715
     },
     "AMZN": {
       "ts": 1793304000,
-      "fetched": 1794928986.8917003
+      "fetched": 1795015438.9185715
     },
     "GOOG": {
       "ts": 1793217600,
-      "fetched": 1794928986.8917003
+      "fetched": 1795015438.9185715
     },
     "ZTS": {
       "ts": 1793885400,
-      "fetched": 1794928986.8917003
+      "fetched": 1795015438.9185715
     },
     "LIN": {
       "ts": 1793277000,
-      "fetched": 1794928986.8917003
+      "fetched": 1795015438.9185715
     },
     "VLO": {
       "ts": 1801143000,
-      "fetched": 1794928986.8917003
+      "fetched": 1795015438.9185715
     },
     "D05.SI": {
       "ts": 1793869200,
-      "fetched": 1794928986.8917003
+      "fetched": 1795015438.9185715
     },
     "O39.SI": {
       "ts": 1793955600,
-      "fetched": 1794928986.8917003
+      "fetched": 1795015438.9185715
     },
     "U11.SI": {
       "ts": 1793782800,
-      "fetched": 1794928986.8917003
+      "fetched": 1795015438.9185715
     },
     "A17U.SI": {
       "ts": null,
-      "fetched": 1794928986.8917003
+      "fetched": 1795015438.9185715
     },
     "HMN.SI": {
       "ts": null,
-      "fetched": 1794928986.8917003
+      "fetched": 1795015438.9185715
     },
     "JYEU.SI": {
       "ts": null,
-      "fetched": 1794928986.8917003
+      "fetched": 1795015438.9185715
     }
   },
   "earnings_notified": [
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795015378.9737055,
+  "last_check": 1795016292.5780785,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-18"
