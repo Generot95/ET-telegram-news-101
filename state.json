@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|/companies-markets/if-theres-price-be-paid-so-be-it-george-yeo-says-singapore-must-resist-external-pressure-when",
-    "Watchlist|/companies-markets/if-theres-price-be-paid-so-be-it-george-yeo-says-singapore-must-resist-external-pressure-when",
-    "SG Banks|https://www.straitstimes.com/business/goldman-sachs-predicts-sizeable-surplus-for-oil-market-in-2027",
-    "Crypto|2b6475b3-dfa1-34a0-b4f9-f50f0f389b35",
-    "Watchlist|c4ec445d-d9a9-3a43-97e7-446206651fe8",
-    "AI|c4ec445d-d9a9-3a43-97e7-446206651fe8",
-    "AI|7907096a-0644-3851-996c-f2bf7a906a14",
-    "Watchlist|7907096a-0644-3851-996c-f2bf7a906a14",
-    "AI|0e71bfbc-fd33-3f2e-911f-dcbdb3ca3a2e",
-    "Watchlist|0e71bfbc-fd33-3f2e-911f-dcbdb3ca3a2e",
-    "AI|https://www.investing.com/news/stock-market-news/novartis-wins-fda-approval-for-cosentyx-in-polymyalgia-rheumatica-5031556",
     "Crypto|31c24d2c-b739-36ef-8f17-c231d53a6f7f",
     "AI|https://www.investing.com/news/transcripts/cyclopharm-at-bell-potter-healthcare-conference-us-growth-accelerates-93CH-5031557",
     "AI|https://www.investing.com/news/economy-news/exclusivechina-taps-us-ai-models-to-train-homegrown-rivals-as-chip-curbs-bite-5031568",
@@ -5000,7 +4989,18 @@
     "SG Banks|/companies-markets/telcos-media-tech/nvidias-ceo-search-draws-fire-bessents-shakeup-call",
     "Watchlist|efb62e65-7e22-37f1-be92-42706852245d",
     "Watchlist|/companies-markets/singapore-firms-snap-cyber-insurance-coverage-gaps-persist-ai-threats-grow",
-    "Watchlist|/companies-markets/telcos-media-tech/nvidias-ceo-search-draws-fire-bessents-shakeup-call"
+    "Watchlist|/companies-markets/telcos-media-tech/nvidias-ceo-search-draws-fire-bessents-shakeup-call",
+    "SG Banks|/international/global/chinas-top-ai-firms-limit-cyber-capabilities-latest-models",
+    "Watchlist|/international/global/chinas-top-ai-firms-limit-cyber-capabilities-latest-models",
+    "AI|2b36dcdc-fd16-3a52-acb0-5fdfa401d3f9",
+    "Watchlist|2b36dcdc-fd16-3a52-acb0-5fdfa401d3f9",
+    "SG Banks|https://www.straitstimes.com/business/goldman-sachs-predicts-sizeable-surplus-for-oil-market-in-2027",
+    "SG Banks|https://www.channelnewsasia.com/business/dollar-holds-near-19-month-high-data-supports-case-us-rate-hikes-6560931",
+    "SG Banks|/international/popular-websites-compromised-bid-steal-crypto-target-iphone-users",
+    "Watchlist|/international/popular-websites-compromised-bid-steal-crypto-target-iphone-users",
+    "War|WP-MKTW-0005354752",
+    "AI|WP-MKTW-0005354752",
+    "Cybersecurity|WP-MKTW-0005354752"
   ],
   "topic_error": "",
   "last_digest": "2026-11-18",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1794965844.6611824,
+  "last_check": 1794966754.6654086,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-17"
