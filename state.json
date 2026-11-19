@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|a872ab54-9669-3195-b57b-e8758a9cf122",
-    "War|https://www.investing.com/news/commodities-news/tehran-denies-report-of-a-potential-iranian-plan-to-detonate-dirty-bomb-in-washington-5032621",
-    "AI|https://www.investing.com/news/analyst-ratings/briley-lowers-hyperfine-stock-price-target-on-valuation-adjustment-93CH-5035386",
-    "AI|https://www.investing.com/news/analyst-ratings/briley-cuts-opera-stock-price-target-to-27-on-europe-headwinds-93CH-5035385",
-    "AI|https://www.investing.com/news/analyst-ratings/btig-reiterates-nike-stock-rating-on-margin-recovery-potential-93CH-5035387",
-    "AI|https://www.investing.com/news/analyst-ratings/briley-cuts-cue-biopharma-stock-price-target-on-financing-concerns-93CH-5035388",
-    "AI|https://www.investing.com/news/analyst-ratings/vericel-stock-holds-at-neutral-as-btig-eyes-maci-growth-debate-93CH-5035389",
-    "AI|https://www.investing.com/news/company-news/sealsq-signs-letter-of-intent-to-acquire-quintessencelabs-93CH-5035390",
     "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-sse-h1-2026-profit-rises-as-revenue-misses-forecast-93CH-5035391",
     "AI|https://www.investing.com/news/analyst-ratings/needham-reiterates-buy-on-nvidia-stock-keeps-200-target-on-demand-93CH-5035392",
     "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-experian-posts-strong-h1-2027-growth-as-stock-slips-93CH-5035393",
@@ -5000,7 +4992,15 @@
     "SG Banks|bc0823de-f8ac-3710-8e60-ad9d0a7c19b7",
     "SG Banks|https://www.straitstimes.com/business/us-china-rivalry-is-a-structural-countries-must-invest-in-strategic-resilience-ex-us-treasury",
     "SG Banks|https://www.straitstimes.com/business/disney-beats-earnings-forecasts-plans-to-increase-content-spending",
-    "War|ace81779-4f5e-41a4-af1c-bdef0ee1c384"
+    "War|ace81779-4f5e-41a4-af1c-bdef0ee1c384",
+    "Crypto|057ed6be-2215-395c-bdca-efd9abdcbef7",
+    "War|98563bfd-436e-3e08-b4c1-e6501a4bdfd4",
+    "AI|https://www.investing.com/news/stock-market-news/european-gas-surges-on-reports-of-impending-us-military-action-against-iran-5037953",
+    "AI|ca90b658-46c6-39e7-b2c9-5992a6222d57",
+    "Watchlist|ca90b658-46c6-39e7-b2c9-5992a6222d57",
+    "War|WP-MKTW-0005348547",
+    "AI|WP-MKTW-0005348547",
+    "Cybersecurity|WP-MKTW-0005348547"
   ],
   "topic_error": "",
   "last_digest": "2026-11-19",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795081770.9046052,
+  "last_check": 1795082695.172737,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-18"
