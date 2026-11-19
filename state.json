@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-omda-q3-2026-shares-fall-as-integration-weighs-on-margin-93CH-5035129",
-    "SG Banks|/companies-markets/ikea-steps-strategy-shift-draw-more-customers",
-    "Watchlist|/companies-markets/ikea-steps-strategy-shift-draw-more-customers",
-    "AI|5f3b9812-1331-3a94-864e-654a05f2506f",
-    "Watchlist|5f3b9812-1331-3a94-864e-654a05f2506f",
-    "Crypto|f23fff06-de6b-3cf5-a49c-40d4c42b1830",
     "AI|60a1807a-3dcb-3ff7-b33e-76b593d428b6",
     "Crypto|e179d311-5d74-3c1d-8900-3dc97bce9258",
     "Watchlist|60a1807a-3dcb-3ff7-b33e-76b593d428b6",
@@ -5000,7 +4994,13 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/kap-ag-reports-revenue-decline-in-first-nine-months-of-2026-93CH-5037954",
     "Watchlist|https://www.investing.com/news/economy-news/china-expected-to-hold-benchmark-lending-rates-in-november-but-some-see-a-cut-coming-5037926",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-elliptic-labs-q3-2026-revenue-rises-but-shares-slip-93CH-5037957",
-    "Watchlist|https://www.investing.com/news/stock-market-news/exor-to-increase-stake-in-biomerieux-to-853-from-387-93CH-5037958"
+    "Watchlist|https://www.investing.com/news/stock-market-news/exor-to-increase-stake-in-biomerieux-to-853-from-387-93CH-5037958",
+    "SG Banks|/property/motoring-tycoon-peter-kwee-back-court-here-are-his-previous-legal-battles",
+    "Watchlist|/property/motoring-tycoon-peter-kwee-back-court-here-are-his-previous-legal-battles",
+    "AI|3d9d4b0e-d1f3-335c-991b-5b7ddbe5037a",
+    "SG Banks|/companies-markets/ikea-steps-strategy-shift-draw-more-customers",
+    "Watchlist|3d9d4b0e-d1f3-335c-991b-5b7ddbe5037a",
+    "Watchlist|/companies-markets/ikea-steps-strategy-shift-draw-more-customers"
   ],
   "topic_error": "",
   "last_digest": "2026-11-19",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795074425.946739,
+  "last_check": 1795075354.5708053,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-18"
