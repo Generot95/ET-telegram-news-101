@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/trump-withdraws-heidi-overtons-fda-nomination-axios-93CH-5034661",
-    "AI|https://www.investing.com/news/transcripts/cogstate-at-bell-potter-healthcare-conference-medidata-deal-lifts-outlook-93CH-5034664",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/brixmor-director-sandra-lawrence-sells-389258-of-common-stock-93CH-5034659",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/ceribell-director-josef-parvizi-sells-650500-in-shares-93CH-5034660",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/trump-withdraws-heidi-overtons-fda-nomination-axios-93CH-5034661",
     "Cybersecurity|https://www.investing.com/news/transcripts/cogstate-at-bell-potter-healthcare-conference-medidata-deal-lifts-outlook-93CH-5034664",
@@ -5000,7 +4997,10 @@
     "SG Banks|https://www.straitstimes.com/business/singapore-must-stand-firm-under-pressure-cannot-be-a-laundromat-for-contraband-george-yeo",
     "Watchlist|5c761c57-5fe7-35c8-95d5-f330268dd5ce",
     "Watchlist|/companies-markets/analysts-maintain-buy-calls-singtel-after-encouraging-h1-results",
-    "Watchlist|/companies-markets/energy-commodities/gold-slides-over-one-year-low-firm-dollar-us-rate-outlook"
+    "Watchlist|/companies-markets/energy-commodities/gold-slides-over-one-year-low-firm-dollar-us-rate-outlook",
+    "SG Banks|/companies-markets/mas-develop-know-your-agent-protocol-customer-agents-and-financial-institutions",
+    "Watchlist|/companies-markets/mas-develop-know-your-agent-protocol-customer-agents-and-financial-institutions",
+    "SG Banks|https://www.straitstimes.com/business/dont-give-ai-agents-your-financial-accounts-login-details-warns-mas-chief-chia-der-jiun"
   ],
   "topic_error": "",
   "last_digest": "2026-11-19",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795057782.819373,
+  "last_check": 1795058704.1279664,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-18"
