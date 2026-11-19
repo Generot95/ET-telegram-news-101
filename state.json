@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/lineage-cell-therapeutics-director-andrews-buys-20000-in-shares-93CH-5034785",
-    "Watchlist|https://www.investing.com/news/stock-market-news/dormakaba-targets-14-operating-margin-35-organic-growth-by-fy29-93CH-5034789",
-    "Watchlist|https://www.investing.com/news/company-news/zealand-pharma-starts-phase-2-obesity-drug-combination-trial-93CH-5034792",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/morgan-stanley-cuts-lend-lease-stock-rating-on-capital-concerns-93CH-5034796",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/howard-rubin-trupanion-director-sells-700700-in-stock-93CH-5034799",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-kinsus-interconnect-technology-stock-surging-today-93CH-5034806",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-lendlease-stock-collapsing-today-93CH-5034807",
     "Watchlist|https://www.investing.com/news/analyst-ratings/jpmorgan-downgrades-adnoc-drilling-stock-rating-on-flat-earnings-93CH-5034808",
     "Watchlist|https://www.investing.com/news/economy-news/south-koreas-chip-boom-bypasses-retail-investors-as-stock-rout-hits-spending-5034812",
     "AI|6c2e10e7-4b6b-305b-8ad5-661de0a64943",
@@ -5000,7 +4993,14 @@
     "Watchlist|4e338515-53fa-3454-b32f-9bdd2755bf75",
     "Watchlist|8e456e27-46eb-395c-85a4-34f00d442d68",
     "Watchlist|6e38f9c8-db22-3252-9055-342b9e0903ee",
-    "Watchlist|4a04f20d-4765-35d2-9f7d-2d4307591a3e"
+    "Watchlist|4a04f20d-4765-35d2-9f7d-2d4307591a3e",
+    "War|d3d94ff4-da27-330f-b582-34e5df3094cd",
+    "AI|406469d5-fae8-3699-970d-50834faaffe6",
+    "AI|bb981490-dc99-3ec0-9460-3ce95e110b14",
+    "Watchlist|406469d5-fae8-3699-970d-50834faaffe6",
+    "Watchlist|bb981490-dc99-3ec0-9460-3ce95e110b14",
+    "SG Banks|/companies-markets/banking-finance/boj-chief-plays-down-soft-consumption-data-signals-near-term-rate-hike",
+    "Watchlist|/companies-markets/banking-finance/boj-chief-plays-down-soft-consumption-data-signals-near-term-rate-hike"
   ],
   "topic_error": "",
   "last_digest": "2026-11-19",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795066184.069092,
+  "last_check": 1795067106.0619426,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-18"
