@@ -1,21 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/bhp-rio-tinto-executives-to-meet-china-leaders-as-iron-ore-pressure-builds-5034400",
-    "SG Banks|https://www.investing.com/news/stock-market-news/factboxmultiple-tech-systems-have-been-crashing-here-is-how-to-protect-yourself-5034376",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/bloom-energy-chief-commercial-officer-joshi-sells-919k-in-shares-93CH-5034385",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/stubhub-director-andrew-raab-buys-205-million-in-shares-93CH-5034387",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/amplitude-ceos-spouse-sells-265-in-class-a-common-stock-93CH-5034388",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/stubhub-director-sameer-bhargava-sells-15-million-in-shares-93CH-5034390",
-    "SG Banks|https://www.investing.com/news/stock-market-news/us-stock-futures-jump-as-nvidia-earnings-revive-ai-optimism-5034391",
-    "SG Banks|https://www.investing.com/news/company-news/shionogi-completes-intrabio-acquisition-for-2-billion-93CH-5034395",
-    "SG Banks|https://www.investing.com/news/transcripts/saluda-medical-at-bell-potter-healthcare-conference-growth-but-cash-burn-remains-93CH-5034397",
-    "SG Banks|https://www.investing.com/news/company-news/api-group-prices-500-million-senior-notes-due-2032-93CH-5034399",
-    "SG Banks|https://www.investing.com/news/stock-market-news/bhp-rio-tinto-executives-to-meet-china-leaders-as-iron-ore-pressure-builds-5034400",
-    "Watchlist|https://www.investing.com/news/stock-market-news/factboxmultiple-tech-systems-have-been-crashing-here-is-how-to-protect-yourself-5034376",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/bloom-energy-chief-commercial-officer-joshi-sells-919k-in-shares-93CH-5034385",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/stubhub-director-andrew-raab-buys-205-million-in-shares-93CH-5034387",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/amplitude-ceos-spouse-sells-265-in-class-a-common-stock-93CH-5034388",
     "Watchlist|https://www.investing.com/news/insider-trading-news/stubhub-director-sameer-bhargava-sells-15-million-in-shares-93CH-5034390",
     "Watchlist|https://www.investing.com/news/stock-market-news/us-stock-futures-jump-as-nvidia-earnings-revive-ai-optimism-5034391",
     "Watchlist|https://www.investing.com/news/company-news/shionogi-completes-intrabio-acquisition-for-2-billion-93CH-5034395",
@@ -5000,10 +4985,25 @@
     "SG Banks|https://www.straitstimes.com/business/banks-pause-us480-million-chip-loan-tied-to-chinas-bytedance",
     "SG Banks|https://www.straitstimes.com/business/citi-settles-sexual-harassment-claims-by-managing-director",
     "Watchlist|/international/trump-backs-huang-comeback-while-nvidias-board-pursues-new-ceo",
-    "Watchlist|/companies-markets/telcos-media-tech/jensen-huang-says-honoured-return-ceo-if-asked-nvidia-chairman-says-no-plans-do-so"
+    "Watchlist|/companies-markets/telcos-media-tech/jensen-huang-says-honoured-return-ceo-if-asked-nvidia-chairman-says-no-plans-do-so",
+    "Crypto|20f7c91b-6a51-3d3f-8234-a46fa6e45706",
+    "AI|4cdeb72c-1450-3b75-b0ec-43d1d1102499",
+    "Watchlist|4cdeb72c-1450-3b75-b0ec-43d1d1102499",
+    "AI|e97b8141-4a08-3a5b-8f0d-430eb06cdf8c",
+    "Watchlist|e97b8141-4a08-3a5b-8f0d-430eb06cdf8c",
+    "AI|3cea5804-6f41-334a-a67a-aaa13b161782",
+    "Watchlist|c7d136eb-6995-30a3-b15c-30d526037545",
+    "SG Banks|/companies-markets/telcos-media-tech/anthropic-clinches-biggest-ever-ipo-us81-billion-offering",
+    "Watchlist|/companies-markets/telcos-media-tech/anthropic-clinches-biggest-ever-ipo-us81-billion-offering",
+    "AI|6df2f932-f87d-37ad-a852-612b8a96c17a",
+    "AI|ed22ff70-8ff8-3e89-b1aa-560c6f09c5e4",
+    "Watchlist|6df2f932-f87d-37ad-a852-612b8a96c17a",
+    "Watchlist|ed22ff70-8ff8-3e89-b1aa-560c6f09c5e4",
+    "Watchlist|643a8f1b-f343-3fdc-ac43-ee143c661b3a",
+    "AI|e485f294-090e-328a-82d4-ee2759a36048"
   ],
   "topic_error": "",
-  "last_digest": "2026-11-18",
+  "last_digest": "2026-11-19",
   "earnings": {
     "AMD": {
       "ts": 1801602000,
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795045718.3500228,
+  "last_check": 1795046626.6231358,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-18"
