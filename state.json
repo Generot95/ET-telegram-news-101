@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/economy-news/indian-economicgrowth-seen-at-annual-76-in-julyseptember-quarter-reuters-poll-5034938",
-    "AI|https://www.investing.com/news/earnings/smiths-group-q1-revenue-rises-61-as-drc-acquisition-offsets-flat-organic-growth-5034940",
-    "AI|https://www.investing.com/news/earnings/sse-keeps-fy27-earnings-outlook-unchanged-as-h1-adjusted-profit-jumps-91-5034944",
     "AI|https://www.investing.com/news/analyst-ratings/jpmorgan-initiates-manhattan-associates-stock-at-overweight-on-cloud-growth-93CH-5034946",
     "AI|https://www.investing.com/news/analyst-ratings/jpmorgan-upgrades-millicom-stock-rating-on-valuation-opportunity-93CH-5034947",
     "AI|https://www.investing.com/news/stock-market-news/canadas-la-caisse-in-talks-for-stake-in-bains-bridge-data-centres-sources-say-5034948",
@@ -5000,7 +4997,10 @@
     "SG Banks|https://www.straitstimes.com/business/dollar-holds-near-19-month-high-as-data-supports-case-for-us-rate-hikes",
     "SG Banks|https://www.straitstimes.com/business/companies-markets/brief-rally-for-spore-tech-stocks-after-nvidias-strong-earnings-exceed-forecasts",
     "SG Banks|https://www.straitstimes.com/business/singlife-to-phase-out-singlife-account-insurance-savings-plan-by-end-2027",
-    "Watchlist|/companies-markets/capital-markets-currencies/south-koreas-chip-boom-bypasses-retail-investors-kospi-rout-hits-consumer-spending"
+    "Watchlist|/companies-markets/capital-markets-currencies/south-koreas-chip-boom-bypasses-retail-investors-kospi-rout-hits-consumer-spending",
+    "Cybersecurity|ecff912c-aee3-31b9-9ad3-98047747c627",
+    "AI|20e45758-92b3-3860-8fec-21c7858d4981",
+    "Watchlist|20e45758-92b3-3860-8fec-21c7858d4981"
   ],
   "topic_error": "",
   "last_digest": "2026-11-19",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795069867.3844478,
+  "last_check": 1795070758.1329322,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-18"
