@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|39b5c42b-b9d1-37a3-a3c4-5b8fd98d5c25",
-    "AI|3a83e9eb-0902-3e3a-acee-bf9b33e45373",
-    "AI|01eae31a-98ec-39fd-953c-80647014ebab",
-    "AI|WP-MKTW-0005354670",
-    "Cybersecurity|WP-MKTW-0005354670",
-    "Watchlist|39b5c42b-b9d1-37a3-a3c4-5b8fd98d5c25",
-    "Watchlist|3a83e9eb-0902-3e3a-acee-bf9b33e45373",
-    "Watchlist|01eae31a-98ec-39fd-953c-80647014ebab",
-    "War|8b8a35cb-78e8-47a2-8492-f13ff7513a99",
     "AI|https://www.investing.com/news/insider-trading-news/paysign-evp-joan-herman-sells-278886-in-common-stock-93CH-5034465",
     "AI|https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-447m-shares-in-planned-transactions-93CH-5034466",
     "AI|https://www.investing.com/news/insider-trading-news/archer-aviation-interim-cfo-sells-42384-in-shares-93CH-5034467",
@@ -5000,7 +4991,16 @@
     "War|https://www.investing.com/news/commodities-news/gold-falls-toward-3800-as-fed-hawks-reinforce-ratehike-outlook-5034463",
     "AI|4521179a-88e9-3fb3-be96-355a3344b4b4",
     "SG Banks|/international/huawei-says-us-put-sinister-spin-business-activities-failed-prove-charges-trial",
-    "Watchlist|4521179a-88e9-3fb3-be96-355a3344b4b4"
+    "Watchlist|4521179a-88e9-3fb3-be96-355a3344b4b4",
+    "AI|cb9c5c3b-b081-3de8-98de-318c490e3760",
+    "Watchlist|cb9c5c3b-b081-3de8-98de-318c490e3760",
+    "Watchlist|/international/huawei-says-us-put-sinister-spin-business-activities-failed-prove-charges-trial",
+    "War|2db35b31-7900-4305-b9cd-5ed5cd1c3625",
+    "AI|a01f20f5-ab3b-37ac-ae24-abcb66b8b5be",
+    "Watchlist|a01f20f5-ab3b-37ac-ae24-abcb66b8b5be",
+    "AI|692e0316-0042-359a-b258-4d5c2b8ade50",
+    "AI|d5c28f9b-f3c2-308f-858a-b6be91bfac5c",
+    "Watchlist|692e0316-0042-359a-b258-4d5c2b8ade50"
   ],
   "topic_error": "",
   "last_digest": "2026-11-19",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795049374.2568748,
+  "last_check": 1795050346.8156762,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-18"
