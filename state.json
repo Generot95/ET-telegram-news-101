@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/insider-trading-news/bloom-energy-chief-legal-officer-sells-549619-in-be-stock-93CH-5034752",
-    "AI|https://www.investing.com/news/transcripts/polynovo-at-bell-potter-healthcare-conference-growth-broadens-beyond-burns-93CH-5034753",
-    "AI|https://www.investing.com/news/stock-market-news/td-cowen-names-its-best-stock-pick-for-2027-5034755",
-    "Cybersecurity|https://www.investing.com/news/economy-news/iran-attacks-kuwait-bahrain-as-hormuz-standoff-persists-5034737",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/baidu-shares-hit-record-low-as-q3-earnings-ai-concerns-weigh-5034738",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/business-as-usual-nvidias-kress-passes-first-test-as-board-slams-door-on-huang-5034739",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-069-5034741",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/bloom-energy-chief-legal-officer-sells-549619-in-be-stock-93CH-5034752",
-    "Cybersecurity|https://www.investing.com/news/transcripts/polynovo-at-bell-potter-healthcare-conference-growth-broadens-beyond-burns-93CH-5034753",
-    "SG Banks|https://www.investing.com/news/economy-news/iran-attacks-kuwait-bahrain-as-hormuz-standoff-persists-5034737",
     "SG Banks|https://www.investing.com/news/stock-market-news/baidu-shares-hit-record-low-as-q3-earnings-ai-concerns-weigh-5034738",
     "SG Banks|https://www.investing.com/news/stock-market-news/business-as-usual-nvidias-kress-passes-first-test-as-board-slams-door-on-huang-5034739",
     "SG Banks|https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-069-5034741",
@@ -5000,7 +4990,17 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/battalion-oil-director-rogers-buys-18192-in-batl-stock-93CH-5037702",
     "Watchlist|https://www.investing.com/news/forex-news/dollar-hits-fresh-19mth-peak-on-hawkish-fed-aussie-slides-after-weak-jobs-data-5037703",
     "Watchlist|https://www.investing.com/news/insider-trading-news/edgewise-therapeutics-cmo-joanne-donovan-sells-38839-in-common-stock-93CH-5037704",
-    "Watchlist|https://www.investing.com/news/earnings/algorhythm-holdings-earnings-missed-by-052-revenue-fell-short-of-estimates-5037707"
+    "Watchlist|https://www.investing.com/news/earnings/algorhythm-holdings-earnings-missed-by-052-revenue-fell-short-of-estimates-5037707",
+    "War|b5369054-33d2-35b9-ab81-7194fdf78244",
+    "War|ec4b542c-3bb3-3ebe-ab42-5178b192cd29",
+    "AI|ed453488-4868-30a7-b261-7fde9425a633",
+    "Watchlist|ed453488-4868-30a7-b261-7fde9425a633",
+    "Watchlist|743a54b7-c932-3ecb-bf1f-76fb73c4c216",
+    "AI|743a54b7-c932-3ecb-bf1f-76fb73c4c216",
+    "AI|a20c4564-c583-3afa-b048-d676fd74aa51",
+    "SG Banks|/companies-markets/banking-finance/bank-japan-chief-plays-down-soft-consumption-data-signals-near-term-rate-hike",
+    "Watchlist|a20c4564-c583-3afa-b048-d676fd74aa51",
+    "Watchlist|/companies-markets/banking-finance/bank-japan-chief-plays-down-soft-consumption-data-signals-near-term-rate-hike"
   ],
   "topic_error": "",
   "last_digest": "2026-11-19",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795062483.488153,
+  "last_check": 1795063360.8182786,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-18"
