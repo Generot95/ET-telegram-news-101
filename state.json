@@ -1,98 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|357b7bbc-c571-31cb-9b64-8e26c7a4b9c4",
-    "AI|7059e5c4-a3be-3fa8-8f91-080b85db1092",
-    "Watchlist|610079dd-b133-3f59-bb92-4f687b164260",
-    "Watchlist|7059e5c4-a3be-3fa8-8f91-080b85db1092",
-    "Watchlist|1deaa3bf-7eb0-3191-9db2-d675168e865f",
-    "Watchlist|76bad217-84c3-3e06-80ff-80ce033c01c9",
-    "AI|19327d7f-c717-3b1f-bfc9-6fde82f9e288",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-j--j-snack-foods-beats-q4-2026-estimates-shares-rise-93CH-5036578",
-    "AI|https://www.investing.com/news/company-news/prologium-signs-nonbinding-term-sheets-for-85-million-investment-93CH-5036579",
-    "AI|https://www.investing.com/news/transcripts/crescent-biopharma-at-jefferies-pushing-fast-in-nextgen-oncology-93CH-5036580",
-    "AI|https://www.investing.com/news/transcripts/infinity-natural-resources-at-stephens-conference-growth-meets-liquidity-test-93CH-5036582",
-    "AI|https://www.investing.com/news/transcripts/stevanato-group-at-jefferies-conference-growth-reset-longterm-bets-93CH-5036584",
-    "AI|https://www.investing.com/news/analyst-ratings/guggenheim-reiterates-microsoft-stock-rating-on-ai-platform-shift-93CH-5036586",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-corporacion-america-airports-q3-2026-revenue-beats-eps-misses-93CH-5036587",
-    "AI|https://www.investing.com/news/transcripts/pegasystems-at-rbc-conference-ai-push-meets-sales-reset-93CH-5036588",
-    "AI|https://www.investing.com/news/insider-trading-news/church--dwight-evp-buchert-sells-981795-in-common-stock-93CH-5036590",
-    "AI|https://www.investing.com/news/stock-market-news/silicon-motion-the-undertheradar-memory-stock-with-ai-storage-exposure-93CH-5036552",
-    "AI|https://www.investing.com/news/stock-market-news/pubmatic-momentum-watch-up-nearly-110-near-52week-high-93CH-5036553",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-southern-copper-stock-sliding-today-93CH-5036554",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-freeportmcmoran-stock-sliding-today-93CH-5036555",
-    "AI|https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-157-5036556",
-    "AI|https://www.investing.com/news/stock-market-news/nvidia-rating-cut-by-summit-insights-on-posthuang-uncertainty-5036567",
-    "AI|https://www.investing.com/news/stock-market-news/mcdonalds-vs-yum-brands-value-and-income-versus-growth-and-momentum-93CH-5036569",
-    "AI|https://www.investing.com/news/stock-market-news/united-health-crowdstrike-among-market-cap-stock-movers-on-wednesday-93CH-5036573",
-    "AI|https://www.investing.com/news/stock-market-news/deutsche-bank-names-top-north-america-telecom-services-stock-5036574",
-    "AI|https://www.investing.com/news/company-news/sqm-q3-2026-slides-lithium-surge-drives-growth-despite-miss-93CH-5036591",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-j--j-snack-foods-beats-q4-2026-estimates-shares-rise-93CH-5036578",
-    "Cybersecurity|https://www.investing.com/news/company-news/prologium-signs-nonbinding-term-sheets-for-85-million-investment-93CH-5036579",
-    "Cybersecurity|https://www.investing.com/news/transcripts/crescent-biopharma-at-jefferies-pushing-fast-in-nextgen-oncology-93CH-5036580",
-    "Cybersecurity|https://www.investing.com/news/transcripts/infinity-natural-resources-at-stephens-conference-growth-meets-liquidity-test-93CH-5036582",
-    "Cybersecurity|https://www.investing.com/news/transcripts/stevanato-group-at-jefferies-conference-growth-reset-longterm-bets-93CH-5036584",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/guggenheim-reiterates-microsoft-stock-rating-on-ai-platform-shift-93CH-5036586",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-corporacion-america-airports-q3-2026-revenue-beats-eps-misses-93CH-5036587",
-    "Cybersecurity|https://www.investing.com/news/transcripts/pegasystems-at-rbc-conference-ai-push-meets-sales-reset-93CH-5036588",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/church--dwight-evp-buchert-sells-981795-in-common-stock-93CH-5036590",
-    "Cybersecurity|https://www.investing.com/news/company-news/sqm-q3-2026-slides-lithium-surge-drives-growth-despite-miss-93CH-5036591",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-j--j-snack-foods-beats-q4-2026-estimates-shares-rise-93CH-5036578",
-    "SG Banks|https://www.investing.com/news/company-news/prologium-signs-nonbinding-term-sheets-for-85-million-investment-93CH-5036579",
-    "SG Banks|https://www.investing.com/news/transcripts/crescent-biopharma-at-jefferies-pushing-fast-in-nextgen-oncology-93CH-5036580",
-    "SG Banks|https://www.investing.com/news/transcripts/infinity-natural-resources-at-stephens-conference-growth-meets-liquidity-test-93CH-5036582",
-    "SG Banks|https://www.investing.com/news/transcripts/stevanato-group-at-jefferies-conference-growth-reset-longterm-bets-93CH-5036584",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/guggenheim-reiterates-microsoft-stock-rating-on-ai-platform-shift-93CH-5036586",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-corporacion-america-airports-q3-2026-revenue-beats-eps-misses-93CH-5036587",
-    "SG Banks|https://www.investing.com/news/transcripts/pegasystems-at-rbc-conference-ai-push-meets-sales-reset-93CH-5036588",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/church--dwight-evp-buchert-sells-981795-in-common-stock-93CH-5036590",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-j--j-snack-foods-beats-q4-2026-estimates-shares-rise-93CH-5036578",
-    "Watchlist|https://www.investing.com/news/company-news/prologium-signs-nonbinding-term-sheets-for-85-million-investment-93CH-5036579",
-    "Watchlist|https://www.investing.com/news/transcripts/crescent-biopharma-at-jefferies-pushing-fast-in-nextgen-oncology-93CH-5036580",
-    "Watchlist|https://www.investing.com/news/transcripts/infinity-natural-resources-at-stephens-conference-growth-meets-liquidity-test-93CH-5036582",
-    "Watchlist|https://www.investing.com/news/transcripts/stevanato-group-at-jefferies-conference-growth-reset-longterm-bets-93CH-5036584",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/guggenheim-reiterates-microsoft-stock-rating-on-ai-platform-shift-93CH-5036586",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-corporacion-america-airports-q3-2026-revenue-beats-eps-misses-93CH-5036587",
-    "Watchlist|https://www.investing.com/news/transcripts/pegasystems-at-rbc-conference-ai-push-meets-sales-reset-93CH-5036588",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/church--dwight-evp-buchert-sells-981795-in-common-stock-93CH-5036590",
-    "Iran|https://www.iranintl.com/en/202611143750",
-    "Crypto|776990d3-715e-32ca-8a1f-caa5d73336a9",
-    "Watchlist|19327d7f-c717-3b1f-bfc9-6fde82f9e288",
-    "Watchlist|87971085-51e3-35d5-9eba-19d7b335ba87",
-    "Crypto|d72c1981-bbc9-3092-b5da-8f8da78d0541",
-    "Watchlist|e0d07289-5409-3d6e-8f9d-354c5703a1f0",
-    "AI|4e1ea025-7198-4a86-981b-b3488a27f698",
-    "Watchlist|4e1ea025-7198-4a86-981b-b3488a27f698",
-    "AI|ee0e1b1b-0ea9-3366-838a-68f02f8f4244",
-    "AI|4b0e83e0-74b5-3981-aa22-67aa9fee950f",
-    "AI|1dea6d4c-68bb-3ec0-a9e6-388d86eb9a9e",
-    "Watchlist|4b0e83e0-74b5-3981-aa22-67aa9fee950f",
-    "Watchlist|1dea6d4c-68bb-3ec0-a9e6-388d86eb9a9e",
-    "Watchlist|ee0e1b1b-0ea9-3366-838a-68f02f8f4244",
-    "War|41e82ca3-6c05-34b0-89b3-59ff28fa2f6b",
-    "AI|a2565c21-9375-3257-8476-4be630ac5823",
-    "AI|694da9dd-1eaf-3dc9-8da8-56b61864d5df",
-    "Cybersecurity|a2565c21-9375-3257-8476-4be630ac5823",
-    "Watchlist|a2565c21-9375-3257-8476-4be630ac5823",
-    "Watchlist|694da9dd-1eaf-3dc9-8da8-56b61864d5df",
-    "Watchlist|3a4e8e8a-5d10-3b72-87cf-6e793ed6ef13",
-    "AI|20737172-51ba-3f54-96c1-cfe02a0431e6",
-    "AI|c71e7214-48ca-34a9-a058-281c75af090f",
-    "AI|3a4e8e8a-5d10-3b72-87cf-6e793ed6ef13",
-    "AI|865a1bc8-c85f-3ed9-8f03-92dcad0bd559",
-    "AI|a1b66e23-f4b3-33e2-9bdb-654d07fea82a",
-    "AI|e185b8bd-e5cb-374c-b202-288b74cf5ccf",
-    "AI|2ed9e998-ab10-3f1c-b6ae-9fbda6f63577",
-    "Cybersecurity|fa4c5ccb-d569-337e-8af3-a5fa3bfd1ef9",
-    "Cybersecurity|2a4da19d-2ad1-32e6-ab47-6323c8d4ec80",
-    "Watchlist|20737172-51ba-3f54-96c1-cfe02a0431e6",
-    "Watchlist|a1b66e23-f4b3-33e2-9bdb-654d07fea82a",
-    "Watchlist|fa4c5ccb-d569-337e-8af3-a5fa3bfd1ef9",
-    "Watchlist|2ed9e998-ab10-3f1c-b6ae-9fbda6f63577",
-    "Watchlist|c71e7214-48ca-34a9-a058-281c75af090f",
-    "War|WP-MKTW-0005355462",
-    "AI|WP-MKTW-0005355462",
-    "Cybersecurity|WP-MKTW-0005355462",
     "Watchlist|3e341d2b-8f2b-3e95-b9d6-4293182d51eb",
     "Watchlist|865a1bc8-c85f-3ed9-8f03-92dcad0bd559",
     "AI|abc744aa-fed5-4760-855d-9c605fd47279",
@@ -5000,78 +4908,170 @@
     "AI|b531f6c2-1841-36b8-abba-3e4bfefead07",
     "Watchlist|09a62142-7903-34eb-b7ab-f6a96c57e2fd",
     "Watchlist|af43bd6a-9914-33e5-a109-2e48cf03a016",
-    "Watchlist|fffc0f88-ae85-30b5-9b48-6d1c0c64ddfa"
+    "Watchlist|fffc0f88-ae85-30b5-9b48-6d1c0c64ddfa",
+    "Cybersecurity|196bf007-7ce8-359e-9064-1d28d54c5ecd",
+    "AI|21a3dff9-2f03-38cc-8c61-d1a789bebd17",
+    "AI|9cc738a4-a9df-3ce0-9165-500403f28814",
+    "War|a709cbb5-f3f4-37f8-9dbe-b5ffc4b78364",
+    "AI|92ba2081-9a03-3d59-9bae-c35ad3e21cb8",
+    "AI|5a4ce047-e10f-3d47-9501-91e7f71bf6c7",
+    "AI|cce75e10-db94-32fd-8a66-c06e3fc8ceb6",
+    "AI|78e75440-af1e-3312-b5d5-8dfad1e1c887",
+    "AI|582128f5-2363-38d8-b47d-c4279b8b6fbd",
+    "Cybersecurity|5b276f13-fd88-3a30-8fa3-17de62ec2e38",
+    "Watchlist|21a3dff9-2f03-38cc-8c61-d1a789bebd17",
+    "Watchlist|92ba2081-9a03-3d59-9bae-c35ad3e21cb8",
+    "Watchlist|5b276f13-fd88-3a30-8fa3-17de62ec2e38",
+    "Watchlist|5a4ce047-e10f-3d47-9501-91e7f71bf6c7",
+    "Watchlist|9cc738a4-a9df-3ce0-9165-500403f28814",
+    "Watchlist|cce75e10-db94-32fd-8a66-c06e3fc8ceb6",
+    "Watchlist|78e75440-af1e-3312-b5d5-8dfad1e1c887",
+    "Watchlist|582128f5-2363-38d8-b47d-c4279b8b6fbd",
+    "AI|4afd3744-59a7-4a87-b921-afe20d1c44ba",
+    "Cybersecurity|c45b1acd-1330-31fd-8069-5a9e9b2f0e7e",
+    "Watchlist|4afd3744-59a7-4a87-b921-afe20d1c44ba",
+    "Watchlist|76bad217-84c3-3e06-80ff-80ce033c01c9",
+    "War|https://www.investing.com/news/commodities-news/is-the-copper-selloff-setting-up-a-longerterm-buying-opportunity-ubs-explains-5039410",
+    "AI|8251ae05-b4db-3e34-ba2f-38617e439ac8",
+    "AI|https://www.investing.com/news/analyst-ratings/td-cowen-raises-generac-stock-price-target-on-data-center-growth-93CH-5039417",
+    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-maximus-misses-q4-2026-estimates-as-shares-fall-93CH-5039419",
+    "AI|https://www.investing.com/news/analyst-ratings/td-cowen-reiterates-jfrog-stock-rating-on-aidriven-growth-momentum-93CH-5039418",
+    "AI|https://www.investing.com/news/analyst-ratings/td-cowen-raises-target-stock-price-target-to-175-on-turnaround-93CH-5039420",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-palantir-technologies-stock-surging-today-93CH-5039421",
+    "AI|https://www.investing.com/news/stock-market-news/italian-court-delays-ruling-in-meta-tiktok-social-media-case-pending-government-curbs-5039378",
+    "AI|https://www.investing.com/news/stock-market-news/volkswagen-demands-pay-freeze-flexible-hours-in-looming-showdown-with-union-5039367",
+    "AI|https://www.investing.com/news/company-news/constellation-3q26-slides-ebitda-doubles-uptime-hits-99-93CH-5039422",
+    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-borr-drilling-misses-q3-2026-estimates-as-ops-improve-93CH-5039423",
+    "AI|https://www.investing.com/news/company-news/evaxion-q3-2026-slides-oncology-pivot-backed-by-75-response-rate-93CH-5039424",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-cloudflare-stock-surging-today-93CH-5039408",
+    "AI|https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-051-5039409",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-williamssonoma-stock-sliding-today-93CH-5039412",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-valvoline-stock-surging-today-93CH-5039413",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-red-robin-gourmet-burgers-stock-plunging-today-93CH-5039414",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-novartis-stock-sliding-today-93CH-5039415",
+    "AI|https://www.investing.com/news/stock-market-news/insmed-shares-jump-more-than-6-on-report-sanofi-is-weighing-acquisition-5039411",
+    "AI|https://www.investing.com/news/company-news/ptc-expands-fedramp-offerings-with-windchill-and-onshape-93CH-5039379",
+    "AI|https://www.investing.com/news/company-news/oligo-security-achieves-fedramp-high-certification-93CH-5039393",
+    "AI|https://www.investing.com/news/company-news/franklin-templeton-names-nicolas-gomez-head-of-latin-america-93CH-5039394",
+    "AI|https://www.investing.com/news/company-news/phillips-66-expands-arkestro-procurement-platform-partnership-93CH-5039395",
+    "AI|https://www.investing.com/news/company-news/ottawa-bancorp-shareholders-approve-merger-with-pontiac-bancorp-93CH-5039416",
+    "Cybersecurity|https://www.investing.com/news/analyst-ratings/td-cowen-raises-generac-stock-price-target-on-data-center-growth-93CH-5039417",
+    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-maximus-misses-q4-2026-estimates-as-shares-fall-93CH-5039419",
+    "Cybersecurity|https://www.investing.com/news/analyst-ratings/td-cowen-reiterates-jfrog-stock-rating-on-aidriven-growth-momentum-93CH-5039418",
+    "Cybersecurity|https://www.investing.com/news/analyst-ratings/td-cowen-raises-target-stock-price-target-to-175-on-turnaround-93CH-5039420",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-palantir-technologies-stock-surging-today-93CH-5039421",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/italian-court-delays-ruling-in-meta-tiktok-social-media-case-pending-government-curbs-5039378",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/volkswagen-demands-pay-freeze-flexible-hours-in-looming-showdown-with-union-5039367",
+    "Cybersecurity|https://www.investing.com/news/company-news/constellation-3q26-slides-ebitda-doubles-uptime-hits-99-93CH-5039422",
+    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-borr-drilling-misses-q3-2026-estimates-as-ops-improve-93CH-5039423",
+    "Cybersecurity|https://www.investing.com/news/company-news/evaxion-q3-2026-slides-oncology-pivot-backed-by-75-response-rate-93CH-5039424",
+    "Cybersecurity|https://www.investing.com/news/company-news/ptc-expands-fedramp-offerings-with-windchill-and-onshape-93CH-5039379",
+    "Cybersecurity|https://www.investing.com/news/company-news/oligo-security-achieves-fedramp-high-certification-93CH-5039393",
+    "Cybersecurity|https://www.investing.com/news/company-news/franklin-templeton-names-nicolas-gomez-head-of-latin-america-93CH-5039394",
+    "Cybersecurity|https://www.investing.com/news/company-news/phillips-66-expands-arkestro-procurement-platform-partnership-93CH-5039395",
+    "Cybersecurity|https://www.investing.com/news/company-news/ottawa-bancorp-shareholders-approve-merger-with-pontiac-bancorp-93CH-5039416",
+    "SG Banks|https://www.investing.com/news/analyst-ratings/td-cowen-raises-generac-stock-price-target-on-data-center-growth-93CH-5039417",
+    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-maximus-misses-q4-2026-estimates-as-shares-fall-93CH-5039419",
+    "SG Banks|https://www.investing.com/news/analyst-ratings/td-cowen-reiterates-jfrog-stock-rating-on-aidriven-growth-momentum-93CH-5039418",
+    "SG Banks|https://www.investing.com/news/analyst-ratings/td-cowen-raises-target-stock-price-target-to-175-on-turnaround-93CH-5039420",
+    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-palantir-technologies-stock-surging-today-93CH-5039421",
+    "SG Banks|https://www.investing.com/news/stock-market-news/italian-court-delays-ruling-in-meta-tiktok-social-media-case-pending-government-curbs-5039378",
+    "SG Banks|https://www.investing.com/news/stock-market-news/volkswagen-demands-pay-freeze-flexible-hours-in-looming-showdown-with-union-5039367",
+    "SG Banks|https://www.investing.com/news/company-news/constellation-3q26-slides-ebitda-doubles-uptime-hits-99-93CH-5039422",
+    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-borr-drilling-misses-q3-2026-estimates-as-ops-improve-93CH-5039423",
+    "SG Banks|https://www.investing.com/news/company-news/evaxion-q3-2026-slides-oncology-pivot-backed-by-75-response-rate-93CH-5039424",
+    "Watchlist|https://www.investing.com/news/analyst-ratings/td-cowen-raises-generac-stock-price-target-on-data-center-growth-93CH-5039417",
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-maximus-misses-q4-2026-estimates-as-shares-fall-93CH-5039419",
+    "Watchlist|https://www.investing.com/news/analyst-ratings/td-cowen-reiterates-jfrog-stock-rating-on-aidriven-growth-momentum-93CH-5039418",
+    "Watchlist|https://www.investing.com/news/analyst-ratings/td-cowen-raises-target-stock-price-target-to-175-on-turnaround-93CH-5039420",
+    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-palantir-technologies-stock-surging-today-93CH-5039421",
+    "Watchlist|https://www.investing.com/news/stock-market-news/italian-court-delays-ruling-in-meta-tiktok-social-media-case-pending-government-curbs-5039378",
+    "Watchlist|https://www.investing.com/news/stock-market-news/volkswagen-demands-pay-freeze-flexible-hours-in-looming-showdown-with-union-5039367",
+    "Watchlist|https://www.investing.com/news/company-news/constellation-3q26-slides-ebitda-doubles-uptime-hits-99-93CH-5039422",
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-borr-drilling-misses-q3-2026-estimates-as-ops-improve-93CH-5039423",
+    "Watchlist|https://www.investing.com/news/company-news/evaxion-q3-2026-slides-oncology-pivot-backed-by-75-response-rate-93CH-5039424",
+    "Watchlist|8251ae05-b4db-3e34-ba2f-38617e439ac8",
+    "AI|60de4023-e8ac-307a-9bad-63ca761f4a8a",
+    "Watchlist|60de4023-e8ac-307a-9bad-63ca761f4a8a",
+    "SG Banks|https://www.channelnewsasia.com/business/nasa-confirms-voyager-1-probes-light-day-distance-milestone-6566581",
+    "SG Banks|https://www.channelnewsasia.com/business/palo-altos-raised-sales-forecast-powers-rally-in-cybersecurity-stocks-6566576",
+    "AI|94630ae8-8bcf-358f-bf16-8193bfab35bd",
+    "Watchlist|94630ae8-8bcf-358f-bf16-8193bfab35bd",
+    "War|79303b42-e4b8-3799-a861-1d0d01572168",
+    "AI|fb6b0ec5-2017-3f0c-bb18-6e8a0fd16699",
+    "Watchlist|fb6b0ec5-2017-3f0c-bb18-6e8a0fd16699",
+    "Crypto|f01794f2-c9a1-47b4-887c-144d48bad7c3"
   ],
   "topic_error": "",
   "last_digest": "2026-11-19",
   "earnings": {
     "AMD": {
       "ts": 1801602000,
-      "fetched": 1795015438.9185715
+      "fetched": 1795101874.9703035
     },
     "NVDA": {
       "ts": 1794949200,
-      "fetched": 1795015438.9185715
+      "fetched": 1795101874.9703035
     },
     "CRWD": {
       "ts": 1796158800,
-      "fetched": 1795015438.9185715
+      "fetched": 1795101874.9703035
     },
     "MSFT": {
       "ts": 1801083600,
-      "fetched": 1795015438.9185715
+      "fetched": 1795101874.9703035
     },
     "INTU": {
       "ts": 1795122000,
-      "fetched": 1795015438.9185715
+      "fetched": 1795101874.9703035
     },
     "BRK-B": {
       "ts": 1794258000,
-      "fetched": 1795015438.9185715
+      "fetched": 1795101874.9703035
     },
     "AMZN": {
       "ts": 1793304000,
-      "fetched": 1795015438.9185715
+      "fetched": 1795101874.9703035
     },
     "GOOG": {
       "ts": 1793217600,
-      "fetched": 1795015438.9185715
+      "fetched": 1795101874.9703035
     },
     "ZTS": {
       "ts": 1793885400,
-      "fetched": 1795015438.9185715
+      "fetched": 1795101874.9703035
     },
     "LIN": {
       "ts": 1793277000,
-      "fetched": 1795015438.9185715
+      "fetched": 1795101874.9703035
     },
     "VLO": {
       "ts": 1801143000,
-      "fetched": 1795015438.9185715
+      "fetched": 1795101874.9703035
     },
     "D05.SI": {
       "ts": 1793869200,
-      "fetched": 1795015438.9185715
+      "fetched": 1795101874.9703035
     },
     "O39.SI": {
       "ts": 1793955600,
-      "fetched": 1795015438.9185715
+      "fetched": 1795101874.9703035
     },
     "U11.SI": {
       "ts": 1793782800,
-      "fetched": 1795015438.9185715
+      "fetched": 1795101874.9703035
     },
     "A17U.SI": {
       "ts": null,
-      "fetched": 1795015438.9185715
+      "fetched": 1795101874.9703035
     },
     "HMN.SI": {
       "ts": null,
-      "fetched": 1795015438.9185715
+      "fetched": 1795101874.9703035
     },
     "JYEU.SI": {
       "ts": null,
-      "fetched": 1795015438.9185715
+      "fetched": 1795101874.9703035
     }
   },
   "earnings_notified": [
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795101029.7014377,
+  "last_check": 1795101934.912369,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-19"
