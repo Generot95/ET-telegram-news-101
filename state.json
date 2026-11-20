@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/battalion-oil-director-rogers-buys-18192-in-batl-stock-93CH-5037702",
-    "Cybersecurity|https://www.investing.com/news/forex-news/dollar-hits-fresh-19mth-peak-on-hawkish-fed-aussie-slides-after-weak-jobs-data-5037703",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/edgewise-therapeutics-cmo-joanne-donovan-sells-38839-in-common-stock-93CH-5037704",
-    "Cybersecurity|https://www.investing.com/news/earnings/algorhythm-holdings-earnings-missed-by-052-revenue-fell-short-of-estimates-5037707",
-    "SG Banks|https://www.channelnewsasia.com/east-asia/japan-gta-vi-sony-playstation-sales-6564531",
-    "SG Banks|https://www.investing.com/news/earnings/generation-earnings-missed-by-291-revenue-fell-short-of-estimates-5037691",
-    "SG Banks|https://www.investing.com/news/company-news/hysteryale-prices-135-million-convertible-notes-offering-93CH-5037692",
-    "SG Banks|https://www.investing.com/news/stock-market-news/wall-sts-500-bln-pledge-to-nvidia-yet-to-be-mobilized-wsj-reports-5037693",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/battalion-oil-director-rogers-buys-18192-in-batl-stock-93CH-5037702",
-    "SG Banks|https://www.investing.com/news/forex-news/dollar-hits-fresh-19mth-peak-on-hawkish-fed-aussie-slides-after-weak-jobs-data-5037703",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/edgewise-therapeutics-cmo-joanne-donovan-sells-38839-in-common-stock-93CH-5037704",
     "SG Banks|https://www.investing.com/news/earnings/algorhythm-holdings-earnings-missed-by-052-revenue-fell-short-of-estimates-5037707",
     "Watchlist|https://www.investing.com/news/earnings/generation-earnings-missed-by-291-revenue-fell-short-of-estimates-5037691",
     "Watchlist|https://www.investing.com/news/company-news/hysteryale-prices-135-million-convertible-notes-offering-93CH-5037692",
@@ -5000,7 +4989,18 @@
     "SG Banks|75e53212-6b0d-3b4c-aa56-c9fd9935b3c2",
     "SG Banks|/companies-markets/sti-opened-1-4-lower-friday-tracking-losses-across-wall-street",
     "SG Banks|https://www.channelnewsasia.com/business/oil-prices-edge-higher-houthi-attacks-riyadh-raise-supply-concerns-6568016",
-    "Watchlist|/companies-markets/sti-opened-1-4-lower-friday-tracking-losses-across-wall-street"
+    "Watchlist|/companies-markets/sti-opened-1-4-lower-friday-tracking-losses-across-wall-street",
+    "SG Banks|https://www.straitstimes.com/business/asian-stocks-fall-anthropic-slips-in-after-hours-markets-wrap",
+    "SG Banks|/companies-markets/nvidia-asked-sell-chips-companies-tied-chinese-military-and-megaspeed",
+    "Watchlist|/companies-markets/nvidia-asked-sell-chips-companies-tied-chinese-military-and-megaspeed",
+    "SG Banks|https://www.straitstimes.com/business/gold-set-for-worst-week-since-march-on-hawkish-fed-ai-selloff",
+    "AI|6d29a6cd-b990-30dc-83c1-f02bd26afd27",
+    "SG Banks|/companies-markets/sti-opens-1-4-lower-friday-tracking-losses-across-wall-street",
+    "Watchlist|6d29a6cd-b990-30dc-83c1-f02bd26afd27",
+    "Watchlist|/companies-markets/sti-opens-1-4-lower-friday-tracking-losses-across-wall-street",
+    "Crypto|6c282131-9f9e-3049-bedf-66b1a326a6ef",
+    "AI|bf63a3fc-8429-3adc-a3a1-1d0c5356c855",
+    "Watchlist|bf63a3fc-8429-3adc-a3a1-1d0c5356c855"
   ],
   "topic_error": "",
   "last_digest": "2026-11-20",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795140473.0360706,
+  "last_check": 1795141371.5775223,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-19"
