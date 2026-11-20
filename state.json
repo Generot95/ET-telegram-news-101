@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-soitec-stock-surging-today-93CH-5038074",
-    "Iran|https://www.iranintl.com/en/202611175408",
-    "Cybersecurity|b96f982e-8dec-3b3d-bafe-3851c428d940",
-    "SG Banks|/companies-markets/singapore-stocks-fall-even-exports-surge-sti-down-1-4",
-    "SG Banks|https://www.straitstimes.com/business/capitaland-far-east-sing-holdings-team-up-in-1-8-billion-bid-for-jurong-lake-district-site",
-    "Watchlist|/companies-markets/singapore-stocks-fall-even-exports-surge-sti-down-1-4",
-    "AI|eaeb0b64-30ae-39d2-a381-6ce1747c61fc",
-    "Watchlist|eaeb0b64-30ae-39d2-a381-6ce1747c61fc",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-johnson-matthey-stock-rallying-today-93CH-5038082",
-    "AI|https://www.investing.com/news/stock-market-news/adp-stock-surges-after-winning-regulatory-approval-for-contract-93CH-5038083",
     "AI|https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-174-5038084",
     "AI|https://www.investing.com/news/insider-trading-news/solus-alternative-asset-management-sells-96304-of-bristow-group-stock-93CH-5038097",
     "AI|https://www.investing.com/news/earnings/mcbride-shares-tumble-25-on-profit-warning-and-margin-delays-5038099",
@@ -5000,7 +4990,17 @@
     "Watchlist|https://www.investing.com/news/economy-news/uk-retail-sales-rise-07-in-october-beating-forecasts-5040801",
     "Watchlist|https://www.investing.com/news/analyst-ratings/jpmorgan-downgrades-eastman-chemical-stock-rating-on-valuation-93CH-5040816",
     "Watchlist|https://www.investing.com/news/analyst-ratings/jpmorgan-downgrades-valvoline-stock-rating-on-volume-concerns-93CH-5040817",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/my-wallet-introduces-11-crosschain-stablecoin-swaps-after-being-listed-first-on-walletconnect-5038054"
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/my-wallet-introduces-11-crosschain-stablecoin-swaps-after-being-listed-first-on-walletconnect-5038054",
+    "AI|58ec50c7-56c1-3d1b-9422-f9f2df46b676",
+    "SG Banks|https://www.straitstimes.com/business/us-chip-firm-kla-opens-expanded-site-in-singapore-with-plans-for-further-growth",
+    "Iran|https://www.iranintl.com/en/202611175408",
+    "SG Banks|/international/shareholders-sue-alibaba-over-concealment-ties-alice-huang-alleged-spy-nvidia-scandal",
+    "Watchlist|58ec50c7-56c1-3d1b-9422-f9f2df46b676",
+    "Watchlist|/international/shareholders-sue-alibaba-over-concealment-ties-alice-huang-alleged-spy-nvidia-scandal",
+    "SG Banks|/international/shareholders-sue-alibaba-allegedly-hiding-ties-alice-huang-suspected-spy-nvidia-scandal",
+    "Watchlist|/international/shareholders-sue-alibaba-allegedly-hiding-ties-alice-huang-suspected-spy-nvidia-scandal",
+    "AI|5094c18f-e937-3eda-8a08-8fa3f839945c",
+    "Watchlist|5094c18f-e937-3eda-8a08-8fa3f839945c"
   ],
   "topic_error": "",
   "last_digest": "2026-11-20",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795159751.1314237,
+  "last_check": 1795160667.1423516,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-19"
