@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/analyst-ratings/bernstein-downgrades-michelin-stock-rating-on-pricing-concerns-93CH-5037862",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-lenovo-stock-tumbling-today-93CH-5037866",
-    "Watchlist|https://www.investing.com/news/stock-market-news/unicredit-and-germany-reach-deal-on-commerzbank-takeover-terms--report-93CH-5037867",
-    "Watchlist|https://www.investing.com/news/stock-market-news/taiwan-stocks-plunge-46-as-ai-rout-deepens-chip-and-pcb-shares-hit-limitdown-5037869",
-    "Watchlist|https://www.investing.com/news/company-news/genus-power-nov-2026-slides-show-strong-growth-q2-softness-persists-93CH-5037870",
-    "Watchlist|https://www.investing.com/news/stock-market-news/husqvarna-files-antidumping-complaint-on-chinese-robotic-mowers-93CH-5037871",
-    "War|8a0ad589-e66e-3a11-a787-6bae01fe9584",
     "War|3d13218b-e6c8-3232-80b5-3a15d18eff76",
     "SG Banks|/companies-markets/capital-markets-currencies/could-singapore-equities-take-sour-turn-h1-2027-heres-what-analysts-say-and-why",
     "Watchlist|/companies-markets/capital-markets-currencies/could-singapore-equities-take-sour-turn-h1-2027-heres-what-analysts-say-and-why",
@@ -5000,7 +4993,14 @@
     "Watchlist|51afbf8b-8be4-3d0f-ad8d-e0ea7cea7875",
     "Watchlist|https://www.investing.com/news/insider-trading-news/enliven-therapeutics-cmo-helen-collins-sells-234203-in-stock-93CH-5040672",
     "Watchlist|https://www.investing.com/news/insider-trading-news/braze-cto-jonathan-hyman-sells-746566-in-shares-93CH-5040675",
-    "Watchlist|https://www.investing.com/news/stock-market-news/softbank-group-shares-slump-15-on-ai-rout-son-regrets-not-buying-into-anthropic-5040676"
+    "Watchlist|https://www.investing.com/news/stock-market-news/softbank-group-shares-slump-15-on-ai-rout-son-regrets-not-buying-into-anthropic-5040676",
+    "SG Banks|https://www.channelnewsasia.com/business/australias-nextdc-shareholders-deliver-second-pay-strike-stop-short-board-spill-6567376",
+    "AI|7fb71a79-4b15-34fd-bd1c-467d38edfd5c",
+    "Cybersecurity|f3a41d99-f709-3dff-b816-3e884fac1653",
+    "Watchlist|7fb71a79-4b15-34fd-bd1c-467d38edfd5c",
+    "Cybersecurity|c5e16d9e-a9e3-3809-8953-e91c8f80b304",
+    "Watchlist|dc1483c2-8b3b-3e1f-8a53-b447ea5c106c",
+    "Watchlist|c5e16d9e-a9e3-3809-8953-e91c8f80b304"
   ],
   "topic_error": "",
   "last_digest": "2026-11-20",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795152402.0001743,
+  "last_check": 1795153318.6463225,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-19"
