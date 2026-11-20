@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/transcripts/ceco-environmental-at-18th-annual-southwest-ideas-conference-growth-broadens-93CH-5039677",
-    "Watchlist|https://www.investing.com/news/company-news/colibri-resource-appoints-ashley-nadon-as-chief-financial-officer-93CH-5039678",
-    "Watchlist|https://www.investing.com/news/stock-market-news/exclusive-upstart-ceo-sees-path-to-high-growth-as-business-transforms-5039682",
-    "Watchlist|https://www.investing.com/news/commodities-news/exclusivetrump-official-floated-ceding-guyanese-territory-to-venezuela-sources-say-5038474",
-    "Watchlist|https://www.investing.com/news/stock-market-news/trumps-defamation-case-against-new-york-times-may-proceed-judge-rules-5039668",
-    "AI|4d450b3d-336a-3fbb-ad70-a0fd555d39fb",
-    "Crypto|71af73a1-4f97-4b0f-bd28-1729927268f6",
-    "Watchlist|4d450b3d-336a-3fbb-ad70-a0fd555d39fb",
     "Watchlist|866f19c7-b7ff-3436-bca6-861ba7da9c53",
     "Watchlist|e210a489-fbc9-3381-8f4d-65b6e1534907",
     "Watchlist|58b29168-0a1a-3255-90fe-5516aeb2b4b0",
@@ -5000,7 +4992,15 @@
     "Watchlist|https://www.investing.com/news/economy-news/exclusiveus-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-5042460",
     "Watchlist|https://www.investing.com/news/company-news/grand-theft-auto-vi-reaches-379-billion-in-day-one-sales-93CH-5042463",
     "Watchlist|https://www.investing.com/news/stock-market-news/tesla-opens-first-argentina-store-deepening-latin-america-push-5042465",
-    "Watchlist|https://www.investing.com/news/company-news/spx-technologies-stock-hits-52week-low-at-13786-usd-93CH-5042466"
+    "Watchlist|https://www.investing.com/news/company-news/spx-technologies-stock-hits-52week-low-at-13786-usd-93CH-5042466",
+    "SG Banks|https://www.channelnewsasia.com/business/youtube-nears-3-billion-settlement-us-school-districts-over-addiction-claims-bloomberg-news-reports-6570456",
+    "Crypto|fb8ecd92-0ffc-32ee-aa7a-4d0d22fdb0c2",
+    "War|0609ce20-a8d3-41b3-a1b1-ac4d39e8806f",
+    "War|f4944619-22fd-4ca2-8d10-5ffd924dce30",
+    "AI|f86a2c08-4820-30fe-b082-bd61dfed3515",
+    "Watchlist|f86a2c08-4820-30fe-b082-bd61dfed3515",
+    "Watchlist|6a62b298-caa1-4ac8-bd5b-5fd7a6219342",
+    "AI|6a62b298-caa1-4ac8-bd5b-5fd7a6219342"
   ],
   "topic_error": "",
   "last_digest": "2026-11-20",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795202935.1801405,
+  "last_check": 1795203840.0263548,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-20"
