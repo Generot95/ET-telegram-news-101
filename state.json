@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/insider-trading-news/peoples-bancorp-director-billy-l-price-buys-8284-in-stock-93CH-5037811",
-    "SG Banks|https://www.investing.com/news/earnings/porr-holds-2026-outlook-as-ninemonth-ebit-jumps-13-backlog-hits-10-bln-5037813",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/cormedix-director-myron-kaplan-buys-122000-in-shares-93CH-5037790",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/atara-biotherapeutics-ceo-anhco-nguyen-sells-39368-in-stock-93CH-5037791",
-    "Watchlist|https://www.investing.com/news/economy-news/uk-cyber-incidents-hit-nearrecord-high-in-october-93CH-5037793",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/ubs-upgrades-unum-group-stock-rating-on-mortality-improvement-outlook-93CH-5037794",
-    "Watchlist|https://www.investing.com/news/stock-market-news/lenovo-posts-48-revenue-jump-on-airelated-sales-beating-estimates-5037797",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/ubs-upgrades-reinsurance-group-of-america-stock-rating-on-mortality-trends-93CH-5037801",
-    "Watchlist|https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-460-5037803",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/peoples-bancorp-director-billy-l-price-buys-8284-in-stock-93CH-5037811",
     "Watchlist|https://www.investing.com/news/earnings/porr-holds-2026-outlook-as-ninemonth-ebit-jumps-13-backlog-hits-10-bln-5037813",
     "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-muted-below-65k-as-rate-tech-jitters-persist-fed-minutes-awaited-5034879",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-challenger-stock-falling-today-93CH-5037783",
@@ -5000,7 +4990,17 @@
     "Watchlist|https://www.investing.com/news/economy-news/china-home-prices-seen-falling-again-in-2027-reuters-poll-shows-5040631",
     "Watchlist|https://www.investing.com/news/insider-trading-news/sunrise-realty-trust-executive-chairman-buys-10694-in-shares-93CH-5040637",
     "Watchlist|https://www.investing.com/news/insider-trading-news/commvault-cfo-gary-merrill-sells-449175-in-cvlt-stock-93CH-5040638",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/commvaults-danielle-abrahamsen-sells-79595-in-common-stock-93CH-5040639"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/commvaults-danielle-abrahamsen-sells-79595-in-common-stock-93CH-5040639",
+    "Watchlist|572a9dd9-6536-30a1-984e-16fdf723e2fc",
+    "Watchlist|24562d26-1bb1-35cc-8d2c-0331df9d3a42",
+    "AI|99ed43e7-3154-34c3-a4b6-589169e9e1c6",
+    "Watchlist|99ed43e7-3154-34c3-a4b6-589169e9e1c6",
+    "SG Banks|/singapore/upping-capacity-harnessing-technology-upskilling-workers-are-priorities-singapores-new-maritime",
+    "Watchlist|/singapore/upping-capacity-harnessing-technology-upskilling-workers-are-priorities-singapores-new-maritime",
+    "SG Banks|/international/citi-underestimated-risky-assets-us35-billion-after-incorrectly-recording-trades-sources-say",
+    "Watchlist|56c322f3-4aee-3091-b8bc-033929758db9",
+    "Watchlist|/international/citi-underestimated-risky-assets-us35-billion-after-incorrectly-recording-trades-sources-say",
+    "AI|56c322f3-4aee-3091-b8bc-033929758db9"
   ],
   "topic_error": "",
   "last_digest": "2026-11-20",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795148729.8392334,
+  "last_check": 1795149658.7482371,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-19"
