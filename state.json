@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|WP-MKTW-0005348547",
-    "Cybersecurity|WP-MKTW-0005348547",
-    "War|WP-MKTW-0005358078",
-    "AI|WP-MKTW-0005358078",
-    "Cybersecurity|WP-MKTW-0005358078",
-    "AI|63e2cd14-2698-3235-8923-3073a9868d99",
-    "AI|69606fcd-bed7-3619-9061-84a04d867ff3",
-    "Watchlist|63e2cd14-2698-3235-8923-3073a9868d99",
-    "Watchlist|69606fcd-bed7-3619-9061-84a04d867ff3",
-    "AI|7ec9297c-bb7c-3e9a-be8b-c37cd6ac929e",
     "Watchlist|7ec9297c-bb7c-3e9a-be8b-c37cd6ac929e",
     "Cybersecurity|e06c3ad6-0c2c-4831-b972-528f3c69e09d",
     "War|WP-MKTW-0005357557",
@@ -5000,7 +4990,17 @@
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-jumpgate-games-posts-81-revenue-growth-in-q3-2026-93CH-5041039",
     "Iran|https://www.iranintl.com/en/202611180521",
     "Iran|https://www.iranintl.com/en/202611198601",
-    "SG Banks|bc0823de-f8ac-3710-8e60-ad9d0a7c19b7"
+    "SG Banks|bc0823de-f8ac-3710-8e60-ad9d0a7c19b7",
+    "SG Banks|/companies-markets/education-enrichment-firm-tafa-lodges-offer-document-catalist-ipo",
+    "Watchlist|/companies-markets/education-enrichment-firm-tafa-lodges-offer-document-catalist-ipo",
+    "War|b6012f2c-fbed-30a9-b610-dd361ceeb041",
+    "AI|8646e2ff-fc9c-3e25-b1ed-88a8897dc019",
+    "Watchlist|8646e2ff-fc9c-3e25-b1ed-88a8897dc019",
+    "SG Banks|/companies-markets/us-chip-equipment-maker-kla-opens-expanded-site-singapore-plans-further-growth",
+    "Watchlist|/companies-markets/us-chip-equipment-maker-kla-opens-expanded-site-singapore-plans-further-growth",
+    "AI|523a951b-8032-333d-8098-859b98391722",
+    "Watchlist|523a951b-8032-333d-8098-859b98391722",
+    "Watchlist|cdb4127a-646c-3196-982a-65a94a70fc8c"
   ],
   "topic_error": "",
   "last_digest": "2026-11-20",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795168020.7249444,
+  "last_check": 1795168937.220025,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-19"
