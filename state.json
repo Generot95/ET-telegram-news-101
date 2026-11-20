@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/global-gp-llc-general-partner-buys-311788-in-global-partners-lp-units-93CH-5037733",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/japan-equities-ubs-downgrades-to-neutral-amid-ai-spending-uncertainty-5037734",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-cspc-pharmaceutical-stock-rising-today-93CH-5037738",
     "SG Banks|https://www.investing.com/news/insider-trading-news/international-seaways-ceo-lois-zabrocky-sells-208340-of-common-stock-93CH-5037731",
     "SG Banks|https://www.investing.com/news/insider-trading-news/arthur-j-gallagher-cfo-douglas-howell-sells-144-million-in-shares-93CH-5037732",
     "SG Banks|https://www.investing.com/news/insider-trading-news/global-gp-llc-general-partner-buys-311788-in-global-partners-lp-units-93CH-5037733",
@@ -5000,7 +4997,10 @@
     "SG Banks|https://www.straitstimes.com/business/alibaba-defrauded-shareholders-by-concealing-ties-to-suspected-spy-in-nvidia-scandal-lawsuit-says",
     "AI|0260f063-d9bf-3475-857a-1c64b9123b08",
     "SG Banks|https://www.straitstimes.com/business/ipo-and-beyond-gic-to-stay-invested-in-anthropic-following-nasdaq-debut",
-    "Watchlist|0260f063-d9bf-3475-857a-1c64b9123b08"
+    "Watchlist|0260f063-d9bf-3475-857a-1c64b9123b08",
+    "War|469ea094-bd5c-3fc4-91b5-3a4c1813ba8a",
+    "SG Banks|https://www.channelnewsasia.com/world/anthropic-biggest-ipo-numbers-6567146",
+    "SG Banks|https://www.channelnewsasia.com/business/asian-stocks-nikkei-kospi-fall-anthropic-ipo-6568101"
   ],
   "topic_error": "",
   "last_digest": "2026-11-20",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795143202.4912393,
+  "last_check": 1795144128.2417371,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-19"
