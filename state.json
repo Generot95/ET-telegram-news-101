@@ -1,86 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|f60a99c4-72f2-30db-a202-482b2fda6353",
-    "Watchlist|09331cfe-189a-38d8-aab1-a7295c1a1074",
-    "Watchlist|4d989ee7-9f6e-405f-8d5c-cb59ac7bcb7d",
-    "AI|https://www.investing.com/news/company-news/quest-holdings-9m-2026-slides-continuing-ops-drive-26-eps-growth-93CH-5039342",
-    "AI|https://www.investing.com/news/earnings/ross-stores-earnings-in-focus-can-momentum-sustain-after-q2-beat-93CH-5039346",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-stonex-stock-crashing-today-93CH-5039347",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-everpure-stock-surging-today-93CH-5039348",
-    "AI|https://www.investing.com/news/company-news/evogene-q3-2026-slides-highlight-ai-drug-progress-amid-75-revenue-drop-93CH-5039349",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-woodward-stock-surging-today-93CH-5039350",
-    "AI|https://www.investing.com/news/company-news/vesalius-longevity-labs-appoints-longevity-entrepreneur-dr-peter-diamandis-to-its-board-of-directors-5039353",
-    "AI|https://www.investing.com/news/company-news/whirlpool-india-q2-fy27-slides-revenue-up-14-margins-squeezed-93CH-5039354",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-coherent-stock-surging-today-93CH-5039356",
-    "AI|https://www.investing.com/news/commodities-news/trump-urges-congress-to-pass-a-new-farm-bill-5039140",
-    "AI|https://www.investing.com/news/stock-market-news/nvidias-earnings-beat-fails-to-lift-chip-sector-as-macro-and-policy-risks-weigh-93CH-5039285",
-    "AI|https://www.investing.com/news/stock-market-news/cybersecurity-sector-outlook-setup-analysis-as-palo-alto-results-lift-peers-93CH-5039310",
-    "AI|https://www.investing.com/news/stock-market-news/anthropic-ipo-said-to-give-nothing-to-most-institutional-buyers--bloomberg-432SI-5039297",
-    "AI|https://www.investing.com/news/stock-market-news/us-gas-exporters-more-comfortable-signing-european-deals-after-eu-delays-methane-regulation-5039358",
-    "AI|https://www.investing.com/news/company-news/sprouts-farmers-market-stock-hits-52week-low-at-4726-93CH-5039305",
-    "AI|https://www.investing.com/news/company-news/pultegroup-raises-quarterly-dividend-by-4-to-027-93CH-5039324",
-    "AI|https://www.investing.com/news/company-news/midamerica-apartment-communities-stock-hits-52week-low-at-11394-93CH-5039336",
-    "AI|https://www.investing.com/news/company-news/trident-digital-tech-raises-15-million-in-private-placement-93CH-5039337",
-    "AI|https://www.investing.com/news/company-news/bath--body-works-q3-2026-slides-earnings-beat-amid-transformation-93CH-5039362",
-    "AI|https://www.investing.com/news/company-news/vienna-airport-q132026-slides-margins-expand-despite-traffic-headwinds-93CH-5039366",
-    "Cybersecurity|https://www.investing.com/news/company-news/quest-holdings-9m-2026-slides-continuing-ops-drive-26-eps-growth-93CH-5039342",
-    "Cybersecurity|https://www.investing.com/news/earnings/ross-stores-earnings-in-focus-can-momentum-sustain-after-q2-beat-93CH-5039346",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-stonex-stock-crashing-today-93CH-5039347",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-everpure-stock-surging-today-93CH-5039348",
-    "Cybersecurity|https://www.investing.com/news/company-news/evogene-q3-2026-slides-highlight-ai-drug-progress-amid-75-revenue-drop-93CH-5039349",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-woodward-stock-surging-today-93CH-5039350",
-    "Cybersecurity|https://www.investing.com/news/company-news/vesalius-longevity-labs-appoints-longevity-entrepreneur-dr-peter-diamandis-to-its-board-of-directors-5039353",
-    "Cybersecurity|https://www.investing.com/news/company-news/whirlpool-india-q2-fy27-slides-revenue-up-14-margins-squeezed-93CH-5039354",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-coherent-stock-surging-today-93CH-5039356",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/trump-urges-congress-to-pass-a-new-farm-bill-5039140",
-    "Cybersecurity|https://www.investing.com/news/company-news/sprouts-farmers-market-stock-hits-52week-low-at-4726-93CH-5039305",
-    "Cybersecurity|https://www.investing.com/news/company-news/pultegroup-raises-quarterly-dividend-by-4-to-027-93CH-5039324",
-    "Cybersecurity|https://www.investing.com/news/company-news/midamerica-apartment-communities-stock-hits-52week-low-at-11394-93CH-5039336",
-    "Cybersecurity|https://www.investing.com/news/company-news/trident-digital-tech-raises-15-million-in-private-placement-93CH-5039337",
-    "Cybersecurity|https://www.investing.com/news/company-news/bath--body-works-q3-2026-slides-earnings-beat-amid-transformation-93CH-5039362",
-    "Cybersecurity|https://www.investing.com/news/company-news/vienna-airport-q132026-slides-margins-expand-despite-traffic-headwinds-93CH-5039366",
-    "SG Banks|https://www.investing.com/news/company-news/quest-holdings-9m-2026-slides-continuing-ops-drive-26-eps-growth-93CH-5039342",
-    "SG Banks|https://www.investing.com/news/earnings/ross-stores-earnings-in-focus-can-momentum-sustain-after-q2-beat-93CH-5039346",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-stonex-stock-crashing-today-93CH-5039347",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-everpure-stock-surging-today-93CH-5039348",
-    "SG Banks|https://www.investing.com/news/company-news/evogene-q3-2026-slides-highlight-ai-drug-progress-amid-75-revenue-drop-93CH-5039349",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-woodward-stock-surging-today-93CH-5039350",
-    "SG Banks|https://www.investing.com/news/company-news/vesalius-longevity-labs-appoints-longevity-entrepreneur-dr-peter-diamandis-to-its-board-of-directors-5039353",
-    "SG Banks|https://www.investing.com/news/company-news/whirlpool-india-q2-fy27-slides-revenue-up-14-margins-squeezed-93CH-5039354",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-coherent-stock-surging-today-93CH-5039356",
-    "SG Banks|https://www.investing.com/news/commodities-news/trump-urges-congress-to-pass-a-new-farm-bill-5039140",
-    "Watchlist|https://www.investing.com/news/company-news/quest-holdings-9m-2026-slides-continuing-ops-drive-26-eps-growth-93CH-5039342",
-    "Watchlist|https://www.investing.com/news/earnings/ross-stores-earnings-in-focus-can-momentum-sustain-after-q2-beat-93CH-5039346",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-stonex-stock-crashing-today-93CH-5039347",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-everpure-stock-surging-today-93CH-5039348",
-    "Watchlist|https://www.investing.com/news/company-news/evogene-q3-2026-slides-highlight-ai-drug-progress-amid-75-revenue-drop-93CH-5039349",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-woodward-stock-surging-today-93CH-5039350",
-    "Watchlist|https://www.investing.com/news/company-news/vesalius-longevity-labs-appoints-longevity-entrepreneur-dr-peter-diamandis-to-its-board-of-directors-5039353",
-    "Watchlist|https://www.investing.com/news/company-news/whirlpool-india-q2-fy27-slides-revenue-up-14-margins-squeezed-93CH-5039354",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-coherent-stock-surging-today-93CH-5039356",
-    "Watchlist|https://www.investing.com/news/commodities-news/trump-urges-congress-to-pass-a-new-farm-bill-5039140",
-    "SG Banks|/international/nasdaq-rises-over-1-open-anthropic-ipo-pricing-bolsters-ai-trade",
-    "Watchlist|/international/nasdaq-rises-over-1-open-anthropic-ipo-pricing-bolsters-ai-trade",
-    "Cybersecurity|64ab60cb-0c6e-3813-9002-ed46c7371ccd",
-    "AI|38207501-5b6e-3738-b14d-dfa99be5f801",
-    "AI|4e2167f4-ec21-326d-b5a7-b67371e0c945",
-    "Cybersecurity|5fb5f181-fd09-30d0-94cb-64f00b05a111",
-    "Watchlist|4e2167f4-ec21-326d-b5a7-b67371e0c945",
-    "Watchlist|609a01f9-d2a5-31da-87d3-62b79ac0086d",
-    "SG Banks|https://www.channelnewsasia.com/business/anthropic-set-secure-18-trillion-valuation-in-strong-nasdaq-debut-6565741",
-    "Watchlist|22d22603-4d40-35e8-9840-8502929a1c21",
-    "Watchlist|10318bee-6b76-3f16-9816-360d7c506d07",
-    "AI|10318bee-6b76-3f16-9816-360d7c506d07",
-    "AI|3d02cc94-7736-3000-ad4a-cc0b92665757",
-    "AI|eb363556-9b36-4fb4-9f1f-8f5f7db216ba",
-    "AI|22d22603-4d40-35e8-9840-8502929a1c21",
-    "Watchlist|3d02cc94-7736-3000-ad4a-cc0b92665757",
-    "Watchlist|eb363556-9b36-4fb4-9f1f-8f5f7db216ba",
-    "AI|e9aa8e25-ff5e-3883-b078-5ca423f5fab1",
-    "Watchlist|e9aa8e25-ff5e-3883-b078-5ca423f5fab1",
-    "Watchlist|0194c49c-a889-3d4a-82c0-37a6e485cd11",
-    "War|9f2819cc-afda-430c-88de-a42ca3ef39dc",
     "AI|fed054b0-d0e6-45a7-b0f7-3bb6be2e0c0d",
     "AI|0194c49c-a889-3d4a-82c0-37a6e485cd11",
     "Watchlist|0b3ebf93-5e09-3ab9-8a8f-80dc40fc6433",
@@ -5000,78 +4920,158 @@
     "Crypto|1cf647f9-04bb-3545-80c4-64591f54a768",
     "Watchlist|68053cd9-0690-3592-b16a-c9e6315bdebb",
     "Watchlist|1cf647f9-04bb-3545-80c4-64591f54a768",
-    "Watchlist|574b5ac7-074e-3663-9d28-e88c6790779f"
+    "Watchlist|574b5ac7-074e-3663-9d28-e88c6790779f",
+    "War|WP-MKTW-0005358015",
+    "AI|WP-MKTW-0005358015",
+    "Cybersecurity|WP-MKTW-0005358015",
+    "AI|1700c8d3-5c9a-34a9-8549-b41ee2390171",
+    "AI|https://www.investing.com/news/company-news/galaxy-digital-stock-hits-52week-low-at-1177-usd-93CH-5042144",
+    "AI|https://www.investing.com/news/company-news/stonex-group-stock-hits-52week-low-at-3637-usd-93CH-5042145",
+    "AI|https://www.investing.com/news/company-news/twenty-one-capital-stock-hits-52week-low-at-414-usd-93CH-5042146",
+    "AI|https://www.investing.com/news/company-news/marathon-digital-stock-hits-52week-low-at-569-usd-93CH-5042150",
+    "AI|https://www.investing.com/news/company-news/mobileye-stock-hits-52week-low-at-489-93CH-5042153",
+    "Cybersecurity|https://www.investing.com/news/company-news/galaxy-digital-stock-hits-52week-low-at-1177-usd-93CH-5042144",
+    "Cybersecurity|https://www.investing.com/news/company-news/stonex-group-stock-hits-52week-low-at-3637-usd-93CH-5042145",
+    "Cybersecurity|https://www.investing.com/news/company-news/twenty-one-capital-stock-hits-52week-low-at-414-usd-93CH-5042146",
+    "Cybersecurity|https://www.investing.com/news/company-news/marathon-digital-stock-hits-52week-low-at-569-usd-93CH-5042150",
+    "Cybersecurity|https://www.investing.com/news/company-news/mobileye-stock-hits-52week-low-at-489-93CH-5042153",
+    "AI|17bbd7f4-ad23-328b-be81-58f9a3b95e8e",
+    "Watchlist|8baed744-fd66-35e2-8fc5-5ffc31590167",
+    "Watchlist|1700c8d3-5c9a-34a9-8549-b41ee2390171",
+    "AI|8b17ede5-8c12-3fd0-89e4-6f029a089875",
+    "Crypto|f9a60b61-bb26-3f6e-8b26-bb910f78b9b6",
+    "Watchlist|8b17ede5-8c12-3fd0-89e4-6f029a089875",
+    "Watchlist|06390235-497c-3775-a35c-c388283d6e08",
+    "War|WP-MKTW-0005360285",
+    "AI|WP-MKTW-0005360285",
+    "Cybersecurity|WP-MKTW-0005360285",
+    "AI|4e67d9d6-14d7-3be5-a04a-ce2869f33a45",
+    "AI|d0dc1fc4-bf72-3ffb-b9ba-68029b10833b",
+    "AI|d9623da8-e4ef-3dc2-bb71-1e7affcc46d8",
+    "Watchlist|4e67d9d6-14d7-3be5-a04a-ce2869f33a45",
+    "AI|a385390b-aed7-3a85-891d-023d663e1c83",
+    "Watchlist|a385390b-aed7-3a85-891d-023d663e1c83",
+    "AI|373df4e1-c2d5-3db8-8b05-c3cb98219b5f",
+    "Watchlist|373df4e1-c2d5-3db8-8b05-c3cb98219b5f",
+    "AI|https://www.investing.com/news/stock-market-news/nvidia-falls-below-alphabet-to-become-fourth-most-valuable-us-company-5042158",
+    "AI|https://www.investing.com/news/company-news/plug-power-stock-hits-52week-low-at-098-usd-93CH-5042159",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-coreweave-stock-sliding-today-93CH-5042160",
+    "AI|https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-236-5042161",
+    "AI|https://www.investing.com/news/company-news/medlife-9mo-2026-slides-margins-expand-to-167-digital-push-accelerates-93CH-5042165",
+    "AI|https://www.investing.com/news/insider-trading-news/clean-harbors-evp-weber-disposes-of-105-million-in-stock-93CH-5042169",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-western-digital-stock-sliding-today-93CH-5042170",
+    "AI|https://www.investing.com/news/company-news/mastec-inc-stock-hits-52week-low-at-14732-93CH-5042171",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-marvell-technology-stock-sliding-today-93CH-5042172",
+    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-the-buckle-tops-q3-2026-profit-view-shares-jump-93CH-5042175",
+    "AI|https://www.investing.com/news/stock-market-news/morgan-stanley-reiterated-this-media-company-as-a-top-pick-after-earnings-5042151",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-lumentum-stock-sliding-today-93CH-5042152",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-nebius-stock-sliding-today-93CH-5042154",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-micron-technology-stock-tumbling-today-93CH-5042155",
+    "AI|https://www.investing.com/news/stock-market-news/td-cowen-lifts-unitedhealth-humana-to-buy-on-improved-earnings-outlook-5042157",
+    "AI|https://www.investing.com/news/company-news/liberty-energy-stock-hits-52week-low-at-1123-usd-93CH-5042176",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/nvidia-falls-below-alphabet-to-become-fourth-most-valuable-us-company-5042158",
+    "Cybersecurity|https://www.investing.com/news/company-news/plug-power-stock-hits-52week-low-at-098-usd-93CH-5042159",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-coreweave-stock-sliding-today-93CH-5042160",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-236-5042161",
+    "Cybersecurity|https://www.investing.com/news/company-news/medlife-9mo-2026-slides-margins-expand-to-167-digital-push-accelerates-93CH-5042165",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/clean-harbors-evp-weber-disposes-of-105-million-in-stock-93CH-5042169",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-western-digital-stock-sliding-today-93CH-5042170",
+    "Cybersecurity|https://www.investing.com/news/company-news/mastec-inc-stock-hits-52week-low-at-14732-93CH-5042171",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-marvell-technology-stock-sliding-today-93CH-5042172",
+    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-the-buckle-tops-q3-2026-profit-view-shares-jump-93CH-5042175",
+    "Cybersecurity|https://www.investing.com/news/company-news/liberty-energy-stock-hits-52week-low-at-1123-usd-93CH-5042176",
+    "SG Banks|https://www.investing.com/news/stock-market-news/nvidia-falls-below-alphabet-to-become-fourth-most-valuable-us-company-5042158",
+    "SG Banks|https://www.investing.com/news/company-news/plug-power-stock-hits-52week-low-at-098-usd-93CH-5042159",
+    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-coreweave-stock-sliding-today-93CH-5042160",
+    "SG Banks|https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-236-5042161",
+    "SG Banks|https://www.investing.com/news/company-news/medlife-9mo-2026-slides-margins-expand-to-167-digital-push-accelerates-93CH-5042165",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/clean-harbors-evp-weber-disposes-of-105-million-in-stock-93CH-5042169",
+    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-western-digital-stock-sliding-today-93CH-5042170",
+    "SG Banks|https://www.investing.com/news/company-news/mastec-inc-stock-hits-52week-low-at-14732-93CH-5042171",
+    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-marvell-technology-stock-sliding-today-93CH-5042172",
+    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-the-buckle-tops-q3-2026-profit-view-shares-jump-93CH-5042175",
+    "Watchlist|https://www.investing.com/news/stock-market-news/nvidia-falls-below-alphabet-to-become-fourth-most-valuable-us-company-5042158",
+    "Watchlist|https://www.investing.com/news/company-news/plug-power-stock-hits-52week-low-at-098-usd-93CH-5042159",
+    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-coreweave-stock-sliding-today-93CH-5042160",
+    "Watchlist|https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-236-5042161",
+    "Watchlist|https://www.investing.com/news/company-news/medlife-9mo-2026-slides-margins-expand-to-167-digital-push-accelerates-93CH-5042165",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/clean-harbors-evp-weber-disposes-of-105-million-in-stock-93CH-5042169",
+    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-western-digital-stock-sliding-today-93CH-5042170",
+    "Watchlist|https://www.investing.com/news/company-news/mastec-inc-stock-hits-52week-low-at-14732-93CH-5042171",
+    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-marvell-technology-stock-sliding-today-93CH-5042172",
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-the-buckle-tops-q3-2026-profit-view-shares-jump-93CH-5042175",
+    "SG Banks|https://www.channelnewsasia.com/business/nvidias-share-slide-knocks-it-below-alphabet-in-valuation-6569991"
   ],
   "topic_error": "",
   "last_digest": "2026-11-20",
   "earnings": {
     "AMD": {
       "ts": 1801602000,
-      "fetched": 1795101874.9703035
+      "fetched": 1795188320.1303782
     },
     "NVDA": {
       "ts": 1794949200,
-      "fetched": 1795101874.9703035
+      "fetched": 1795188320.1303782
     },
     "CRWD": {
       "ts": 1796158800,
-      "fetched": 1795101874.9703035
+      "fetched": 1795188320.1303782
     },
     "MSFT": {
       "ts": 1801083600,
-      "fetched": 1795101874.9703035
+      "fetched": 1795188320.1303782
     },
     "INTU": {
       "ts": 1795122000,
-      "fetched": 1795101874.9703035
+      "fetched": 1795188320.1303782
     },
     "BRK-B": {
       "ts": 1794258000,
-      "fetched": 1795101874.9703035
+      "fetched": 1795188320.1303782
     },
     "AMZN": {
       "ts": 1793304000,
-      "fetched": 1795101874.9703035
+      "fetched": 1795188320.1303782
     },
     "GOOG": {
       "ts": 1793217600,
-      "fetched": 1795101874.9703035
+      "fetched": 1795188320.1303782
     },
     "ZTS": {
       "ts": 1793885400,
-      "fetched": 1795101874.9703035
+      "fetched": 1795188320.1303782
     },
     "LIN": {
       "ts": 1793277000,
-      "fetched": 1795101874.9703035
+      "fetched": 1795188320.1303782
     },
     "VLO": {
       "ts": 1801143000,
-      "fetched": 1795101874.9703035
+      "fetched": 1795188320.1303782
     },
     "D05.SI": {
       "ts": 1793869200,
-      "fetched": 1795101874.9703035
+      "fetched": 1795188320.1303782
     },
     "O39.SI": {
       "ts": 1793955600,
-      "fetched": 1795101874.9703035
+      "fetched": 1795188320.1303782
     },
     "U11.SI": {
       "ts": 1793782800,
-      "fetched": 1795101874.9703035
+      "fetched": 1795188320.1303782
     },
     "A17U.SI": {
       "ts": null,
-      "fetched": 1795101874.9703035
+      "fetched": 1795188320.1303782
     },
     "HMN.SI": {
       "ts": null,
-      "fetched": 1795101874.9703035
+      "fetched": 1795188320.1303782
     },
     "JYEU.SI": {
       "ts": null,
-      "fetched": 1795101874.9703035
+      "fetched": 1795188320.1303782
     }
   },
   "earnings_notified": [
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795188195.0031657,
+  "last_check": 1795189116.8374856,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-20"
