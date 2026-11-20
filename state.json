@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-lewis-group-posts-stronger-h1-2027-profit-growth-93CH-5038362",
-    "SG Banks|https://www.investing.com/news/transcripts/news-corp-at-morgan-stanley-conference-digital-shift-deepens-93CH-5038363",
-    "SG Banks|https://www.investing.com/news/stock-market-news/berenberg-sees-wacker-neuson-growth-slowing-as-machinery-demand-weakens-5038364",
-    "SG Banks|https://www.investing.com/news/company-news/nationwide-h1-2027-slides-profit-jumps-23-on-marketleading-growth-93CH-5038365",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/kulicke-and-soffa-stock-holds-at-neutral-as-demand-stays-resilient-93CH-5038349",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/briley-reiterates-buy-on-terra-innovatum-stock-8-target-93CH-5038352",
     "Watchlist|https://www.investing.com/news/analyst-ratings/raymond-james-maintains-everpure-stock-rating-on-strong-results-93CH-5038351",
     "Watchlist|https://www.investing.com/news/analyst-ratings/briley-reiterates-buy-on-sharonai-stock-cites-nvidia-financing-path-93CH-5038353",
     "Watchlist|https://www.investing.com/news/analyst-ratings/briley-cuts-universal-technical-institute-stock-price-target-on-guidance-93CH-5038354",
@@ -5000,7 +4994,13 @@
     "SG Banks|/companies-markets/mas-lays-groundwork-ai-agents-make-payments-manage-funds-proposed-safeguards",
     "SG Banks|/companies-markets/singtel-takes-lead-singapore-shares-rise-sti-0-5",
     "Watchlist|/companies-markets/mas-lays-groundwork-ai-agents-make-payments-manage-funds-proposed-safeguards",
-    "Watchlist|/companies-markets/singtel-takes-lead-singapore-shares-rise-sti-0-5"
+    "Watchlist|/companies-markets/singtel-takes-lead-singapore-shares-rise-sti-0-5",
+    "AI|a3d74bd0-6aae-3e88-835a-1ff07ed91bf9",
+    "Watchlist|a3d74bd0-6aae-3e88-835a-1ff07ed91bf9",
+    "AI|17ad8a2d-5f0d-360f-8532-5db55f7e2549",
+    "Watchlist|17ad8a2d-5f0d-360f-8532-5db55f7e2549",
+    "AI|6c59551b-ebdd-33a4-a487-ee91d3165c25",
+    "Watchlist|6c59551b-ebdd-33a4-a487-ee91d3165c25"
   ],
   "topic_error": "",
   "last_digest": "2026-11-20",
@@ -5090,8 +5090,8 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795171714.1841695,
+  "last_check": 1795172622.5725386,
   "last_board": "2026-10-27",
   "commands_version": 9,
-  "last_report": "2026-11-19"
+  "last_report": "2026-11-20"
 }
