@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/insider-trading-news/international-seaways-ceo-lois-zabrocky-sells-208340-of-common-stock-93CH-5037731",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/arthur-j-gallagher-cfo-douglas-howell-sells-144-million-in-shares-93CH-5037732",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/global-gp-llc-general-partner-buys-311788-in-global-partners-lp-units-93CH-5037733",
-    "SG Banks|https://www.investing.com/news/stock-market-news/japan-equities-ubs-downgrades-to-neutral-amid-ai-spending-uncertainty-5037734",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-cspc-pharmaceutical-stock-rising-today-93CH-5037738",
     "Watchlist|https://www.investing.com/news/insider-trading-news/international-seaways-ceo-lois-zabrocky-sells-208340-of-common-stock-93CH-5037731",
     "Watchlist|https://www.investing.com/news/insider-trading-news/arthur-j-gallagher-cfo-douglas-howell-sells-144-million-in-shares-93CH-5037732",
@@ -5000,7 +4996,11 @@
     "Watchlist|0260f063-d9bf-3475-857a-1c64b9123b08",
     "War|469ea094-bd5c-3fc4-91b5-3a4c1813ba8a",
     "SG Banks|https://www.channelnewsasia.com/world/anthropic-biggest-ipo-numbers-6567146",
-    "SG Banks|https://www.channelnewsasia.com/business/asian-stocks-nikkei-kospi-fall-anthropic-ipo-6568101"
+    "SG Banks|https://www.channelnewsasia.com/business/asian-stocks-nikkei-kospi-fall-anthropic-ipo-6568101",
+    "SG Banks|https://www.channelnewsasia.com/business/anthropic-biggest-ipo-numbers-6567146",
+    "AI|e30cfee2-ca72-3c33-ad71-a98cef2619e5",
+    "Watchlist|e30cfee2-ca72-3c33-ad71-a98cef2619e5",
+    "Crypto|77b52ef6-d3a3-389f-a4fe-56086040295a"
   ],
   "topic_error": "",
   "last_digest": "2026-11-20",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795144128.2417371,
+  "last_check": 1795145060.1431026,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-19"
