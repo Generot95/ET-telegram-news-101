@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/universal-electronics-director-eric-singer-sells-115m-in-stock-93CH-5038144",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/moderna-president-stephen-hoge-sells-169m-in-stock-93CH-5038145",
-    "Watchlist|https://www.investing.com/news/stock-market-news/toyota-recalls-314029-us-vehicles-over-takata-air-bag-risk-93CH-5038146",
-    "Watchlist|https://www.investing.com/news/stock-market-news/paypoint-shares-drop-15-after-profit-decline-93CH-5038147",
-    "War|WP-MKTW-0005355070",
-    "AI|WP-MKTW-0005355070",
     "Cybersecurity|WP-MKTW-0005355070",
     "SG Banks|f39db7c3-370f-3e9e-b364-e33631593dd0",
     "SG Banks|/companies-markets/nets-pilots-tap-qr-pay-new-app-features-make-payments-easier-tourists",
@@ -5000,7 +4994,13 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/venture-global-general-counsel-keith-larson-sells-96m-in-stock-93CH-5040917",
     "Watchlist|https://www.investing.com/news/earnings/benefit-systems-surges-75-on-strong-ninemonth-results-93CH-5040922",
     "Watchlist|https://www.investing.com/news/stock-market-news/nestle-teams-up-with-microsoft-and-boston-dynamics-to-expand-ai-use-93CH-5040930",
-    "Watchlist|https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-fall-on-tech-metals-rout-despite-uk-retail-beat-5040931"
+    "Watchlist|https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-fall-on-tech-metals-rout-despite-uk-retail-beat-5040931",
+    "Watchlist|f91b1206-86d0-3b76-8afa-ca18f3057408",
+    "SG Banks|https://www.channelnewsasia.com/business/japan-says-jt-dividend-cut-will-not-disrupt-governments-industrial-investment-6568061",
+    "AI|0c7392a6-95fa-37dc-990b-1b7910b5fc04",
+    "Watchlist|0c7392a6-95fa-37dc-990b-1b7910b5fc04",
+    "Watchlist|52a0ebfe-e5d8-33d4-8813-95407561bf80",
+    "SG Banks|https://www.channelnewsasia.com/business/equinor-says-cyberattack-against-company-has-been-stopped-6568811"
   ],
   "topic_error": "",
   "last_digest": "2026-11-20",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795163419.4967654,
+  "last_check": 1795164353.7785685,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-19"
