@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-gorilla-technology-beats-q3-2026-estimates-on-revenue-93CH-5040278",
-    "Watchlist|https://www.investing.com/news/company-news/corpay-to-invest-11b-in-bill-as-part-of-takeprivate-deal-93CH-5040279",
-    "Watchlist|https://www.investing.com/news/stock-market-news/bausch--lomb-stock-slips-as-eye-pain-drug-misses-endpoint-5040281",
-    "Watchlist|https://www.investing.com/news/company-news/kbr-subsidiary-prices-500m-notes-for-trinzic-spinoff-93CH-5040289",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/irhythm-holdings-director-abhijit-talwalkar-buys-763k-in-stock-93CH-5040290",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-clearsign-beats-q3-2026-eps-forecast-as-margin-jumps-93CH-5040291",
     "War|537607b8-7584-32d6-97b6-237c98f675d4",
     "AI|30e26159-cc09-33fa-82a9-1f7191c66e95",
     "Watchlist|/international/huawei-says-us-put-sinister-spin-business-activities-failed-prove-charges-trial",
@@ -5000,7 +4994,13 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/regency-centers-principal-accounting-officer-sells-109539-in-shares-93CH-5043094",
     "Watchlist|https://www.investing.com/news/insider-trading-news/thredup-ceo-james-reinhart-sells-84665-in-company-shares-93CH-5043095",
     "Watchlist|https://www.investing.com/news/insider-trading-news/fold-holdings-ceo-william-reeves-sells-4950-in-shares-93CH-5043096",
-    "SG Banks|https://www.straitstimes.com/business/alibaba-tops-revenue-estimates-on-ai-cloud-growth-profit-up-on-investment-gains"
+    "SG Banks|https://www.straitstimes.com/business/alibaba-tops-revenue-estimates-on-ai-cloud-growth-profit-up-on-investment-gains",
+    "Crypto|82a722a7-4c6a-3b35-ace5-7b475f5bf8db",
+    "SG Banks|/companies-markets/banking-finance/softbanks-son-explored-us1-trillion-buyout-sk-hynix-report",
+    "Watchlist|/companies-markets/banking-finance/softbanks-son-explored-us1-trillion-buyout-sk-hynix-report",
+    "War|WP-MKTW-0005358330",
+    "AI|WP-MKTW-0005358330",
+    "Cybersecurity|WP-MKTW-0005358330"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795230509.3305118,
+  "last_check": 1795231427.1490028,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-20"
