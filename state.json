@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|/companies-markets/telcos-media-tech/jensen-huang-says-honoured-return-ceo-if-asked-nvidia-chairman-says-no-plans-do-so",
-    "SG Banks|https://www.straitstimes.com/business/banks-pause-us480-million-chip-loan-tied-to-chinas-bytedance",
-    "SG Banks|https://www.straitstimes.com/business/citi-settles-sexual-harassment-claims-by-managing-director",
-    "SG Banks|https://www.channelnewsasia.com/business/stocks-fall-anthropic-debut-fails-ease-ai-concerns-dollar-rises-6564336",
-    "Watchlist|/international/trump-backs-huang-comeback-while-nvidias-board-pursues-new-ceo",
-    "Watchlist|/companies-markets/telcos-media-tech/jensen-huang-says-honoured-return-ceo-if-asked-nvidia-chairman-says-no-plans-do-so",
-    "War|WP-MKTW-0005360037",
-    "AI|WP-MKTW-0005360037",
     "Cybersecurity|WP-MKTW-0005360037",
     "Watchlist|926dddd7-49a7-30bd-bd97-b73674b9f990",
     "AI|c9328673-6887-35f6-833d-ffbbc39cbc76",
@@ -5000,7 +4992,15 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/glaukos-ceo-thomas-burns-sells-426-million-in-stock-93CH-5042964",
     "Watchlist|https://www.investing.com/news/insider-trading-news/ethos-technologies-president-wang-lingke-sells-38m-in-life-stock-93CH-5042970",
     "Watchlist|https://www.investing.com/news/insider-trading-news/ichor-holdings-ceo-philip-barros-sells-9209-in-shares-93CH-5042982",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/glaukos-cfo-alex-thurman-sells-355m-in-stock-exercises-options-93CH-5042983"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/glaukos-cfo-alex-thurman-sells-355m-in-stock-exercises-options-93CH-5042983",
+    "Iran|https://www.iranintl.com/en/202611171765",
+    "AI|5403a967-a5e9-3d02-a776-002974a814d7",
+    "Watchlist|5403a967-a5e9-3d02-a776-002974a814d7",
+    "AI|6cb9448a-a2fd-3c3e-a8e2-6cfec0c6da59",
+    "Watchlist|6cb9448a-a2fd-3c3e-a8e2-6cfec0c6da59",
+    "AI|047ea2a4-025e-34b6-ab59-979e2e791f56",
+    "AI|76233453-f258-3363-bd44-81d08fb11b06",
+    "Watchlist|047ea2a4-025e-34b6-ab59-979e2e791f56"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795223166.2877629,
+  "last_check": 1795224091.5316436,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-20"
