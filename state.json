@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/nexpoint-residential-cfo-paul-richards-buys-14740-in-company-stock-93CH-5040508",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/nexpoint-director-brian-mitts-sells-56750-in-company-stock-93CH-5040509",
-    "Watchlist|https://www.investing.com/news/economy-news/asian-shares-head-for-worst-week-since-2020-as-ai-trade-gloom-fails-to-abate-5040496",
-    "Iran|https://www.iranintl.com/en/202611183346",
     "SG Banks|75e53212-6b0d-3b4c-aa56-c9fd9935b3c2",
     "SG Banks|/companies-markets/sti-opened-1-4-lower-friday-tracking-losses-across-wall-street",
     "SG Banks|https://www.channelnewsasia.com/business/oil-prices-edge-higher-houthi-attacks-riyadh-raise-supply-concerns-6568016",
@@ -5000,7 +4996,11 @@
     "Watchlist|https://www.investing.com/news/press-releases/gentle-smile-dental-studio-announces-coordinated-smile-makeover-planning-initiative-5043399",
     "Watchlist|https://www.investing.com/news/economy-news/france-rejects-eu-budget-proposal-over-farm-funding-concerns-5043402",
     "AI|9794a825-50fa-3401-899b-a1b94dd75dc0",
-    "Watchlist|9794a825-50fa-3401-899b-a1b94dd75dc0"
+    "Watchlist|9794a825-50fa-3401-899b-a1b94dd75dc0",
+    "War|WP-MKTW-0005361385",
+    "AI|WP-MKTW-0005361385",
+    "Cybersecurity|WP-MKTW-0005361385",
+    "War|a6b78d5b-c7dc-339a-9a36-c6b91864c7b3"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795261757.0571363,
+  "last_check": 1795262670.1500258,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
