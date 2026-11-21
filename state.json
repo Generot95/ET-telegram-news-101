@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/td-cowen-names-top-software-stock-for-2027-5040716",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-663-5040720",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/ubs-downgrades-deutsche-boerse-stock-rating-to-sell-on-valuation-93CH-5040725",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/jpmorgan-initiates-bok-financial-stock-coverage-with-neutral-rating-93CH-5040726",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/jefferies-cuts-billcom-stock-rating-to-hold-on-tpg-acquisition-93CH-5040728",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/jpmorgan-initiates-msg-rangers-stock-at-overweight-on-valuation-93CH-5040727",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/oppenheimer-cuts-billcom-stock-rating-to-perform-on-tpg-acquisition-93CH-5040708",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/truist-upgrades-evolent-health-stock-rating-on-valuation-2027-outlook-93CH-5040709",
     "SG Banks|https://www.investing.com/news/analyst-ratings/canaccord-initiates-village-farms-stock-with-buy-on-europe-growth-93CH-5040711",
     "SG Banks|https://www.investing.com/news/analyst-ratings/briley-initiates-praxis-precision-medicines-stock-with-buy-rating-on-drug-approvals-93CH-5040710",
     "SG Banks|https://www.investing.com/news/stock-market-news/td-cowen-names-top-software-stock-for-2027-5040716",
@@ -5000,7 +4992,15 @@
     "AI|23e56ee2-5b76-3bb5-8349-ac4f868ca40a",
     "Watchlist|336209f2-5d71-3506-9f02-4d731efb43da",
     "Watchlist|23e56ee2-5b76-3bb5-8349-ac4f868ca40a",
-    "Watchlist|80a15749-2ac7-345c-8041-13f30f6f9740"
+    "Watchlist|80a15749-2ac7-345c-8041-13f30f6f9740",
+    "SG Banks|https://www.channelnewsasia.com/business/bitcoin-rises-after-falling-two-year-low-6571321",
+    "Crypto|febc7eb0-97ed-314e-9e59-f4e8c4812953",
+    "Watchlist|739a4c80-89da-3122-a571-a3f7a7b3fcfd",
+    "Watchlist|92aaf52f-f507-3239-b404-299afa7f9d15",
+    "AI|739a4c80-89da-3122-a571-a3f7a7b3fcfd",
+    "AI|92aaf52f-f507-3239-b404-299afa7f9d15",
+    "AI|8a9fa886-be3d-3ed2-b094-8d8b6accd454",
+    "Watchlist|8a9fa886-be3d-3ed2-b094-8d8b6accd454"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795281070.270143,
+  "last_check": 1795281977.0235462,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
