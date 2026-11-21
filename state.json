@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|99ed43e7-3154-34c3-a4b6-589169e9e1c6",
-    "Watchlist|99ed43e7-3154-34c3-a4b6-589169e9e1c6",
-    "SG Banks|/singapore/upping-capacity-harnessing-technology-upskilling-workers-are-priorities-singapores-new-maritime",
-    "Watchlist|/singapore/upping-capacity-harnessing-technology-upskilling-workers-are-priorities-singapores-new-maritime",
-    "SG Banks|/international/citi-underestimated-risky-assets-us35-billion-after-incorrectly-recording-trades-sources-say",
-    "Watchlist|56c322f3-4aee-3091-b8bc-033929758db9",
-    "Watchlist|/international/citi-underestimated-risky-assets-us35-billion-after-incorrectly-recording-trades-sources-say",
-    "AI|56c322f3-4aee-3091-b8bc-033929758db9",
-    "War|d9b258f9-b73b-3638-817b-eacd145aa136",
-    "AI|00276657-550f-3c68-b14c-d822b6dcc7aa",
     "Watchlist|00276657-550f-3c68-b14c-d822b6dcc7aa",
     "War|https://www.investing.com/news/commodities-news/gold-slides-to-14mth-low-set-for-weekly-drop-amid-fed-hike-bets-5040648",
     "AI|https://www.investing.com/news/stock-market-news/ai-selloff-these-sectors-held-firm-as-tech-slumped-in-oct-nov-93CH-5040636",
@@ -5000,7 +4990,17 @@
     "Crypto|88abc2d9-0786-35b2-8c48-3060c2c7fc21",
     "Cybersecurity|f0549ccc-33ae-366f-9ddd-84b45070fd48",
     "Watchlist|cb16af58-2733-33df-8cc8-3fa48f92793e",
-    "Watchlist|e32a678b-1cd8-3c8d-a257-0def452dee77"
+    "Watchlist|e32a678b-1cd8-3c8d-a257-0def452dee77",
+    "AI|5651f789-55dd-3a70-b154-66baa6e54292",
+    "AI|35864453-d3c5-3599-89cc-71ab004093a7",
+    "AI|8feea48b-ddf3-3d3d-a020-ee615d768b8a",
+    "Watchlist|5651f789-55dd-3a70-b154-66baa6e54292",
+    "Watchlist|35864453-d3c5-3599-89cc-71ab004093a7",
+    "Watchlist|8feea48b-ddf3-3d3d-a020-ee615d768b8a",
+    "SG Banks|/international/citi-underestimated-risky-assets-us35-billion-after-incorrectly-recording-trades-sources-say",
+    "Watchlist|/international/citi-underestimated-risky-assets-us35-billion-after-incorrectly-recording-trades-sources-say",
+    "AI|01992804-b90d-333b-81e0-6a39c57d0bf5",
+    "Watchlist|01992804-b90d-333b-81e0-6a39c57d0bf5"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795273698.037757,
+  "last_check": 1795274623.0945156,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
