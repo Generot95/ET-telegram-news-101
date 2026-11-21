@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/analyst-ratings/canaccord-initiates-village-farms-stock-with-buy-on-europe-growth-93CH-5040711",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/briley-initiates-praxis-precision-medicines-stock-with-buy-rating-on-drug-approvals-93CH-5040710",
-    "SG Banks|https://www.investing.com/news/stock-market-news/td-cowen-names-top-software-stock-for-2027-5040716",
-    "SG Banks|https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-663-5040720",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/ubs-downgrades-deutsche-boerse-stock-rating-to-sell-on-valuation-93CH-5040725",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/jpmorgan-initiates-bok-financial-stock-coverage-with-neutral-rating-93CH-5040726",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/jefferies-cuts-billcom-stock-rating-to-hold-on-tpg-acquisition-93CH-5040728",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/jpmorgan-initiates-msg-rangers-stock-at-overweight-on-valuation-93CH-5040727",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/oppenheimer-cuts-billcom-stock-rating-to-perform-on-tpg-acquisition-93CH-5040708",
     "Watchlist|https://www.investing.com/news/analyst-ratings/truist-upgrades-evolent-health-stock-rating-on-valuation-2027-outlook-93CH-5040709",
     "Watchlist|https://www.investing.com/news/analyst-ratings/canaccord-initiates-village-farms-stock-with-buy-on-europe-growth-93CH-5040711",
     "Watchlist|https://www.investing.com/news/analyst-ratings/briley-initiates-praxis-precision-medicines-stock-with-buy-rating-on-drug-approvals-93CH-5040710",
@@ -5000,7 +4991,16 @@
     "AI|739a4c80-89da-3122-a571-a3f7a7b3fcfd",
     "AI|92aaf52f-f507-3239-b404-299afa7f9d15",
     "AI|8a9fa886-be3d-3ed2-b094-8d8b6accd454",
-    "Watchlist|8a9fa886-be3d-3ed2-b094-8d8b6accd454"
+    "Watchlist|8a9fa886-be3d-3ed2-b094-8d8b6accd454",
+    "Watchlist|75a505ec-e363-39fc-8dfc-5610a6e02220",
+    "AI|75a505ec-e363-39fc-8dfc-5610a6e02220",
+    "War|291331d0-191e-32d2-8517-f6516ab6bf87",
+    "AI|e63c04de-a72c-3575-afab-1bcf428b7f1f",
+    "AI|f32ca12c-d14b-3962-9ac5-81d92c8266e4",
+    "Watchlist|e63c04de-a72c-3575-afab-1bcf428b7f1f",
+    "Watchlist|f32ca12c-d14b-3962-9ac5-81d92c8266e4",
+    "AI|6a7fed3d-ac9f-3f8b-80ab-e291b5047a93",
+    "Watchlist|6a7fed3d-ac9f-3f8b-80ab-e291b5047a93"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795281977.0235462,
+  "last_check": 1795282913.7261343,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
