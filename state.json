@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/insider-trading-news/energous-nasdaqwatt-director-roberson-buys-9540-in-stock-93CH-5040477",
-    "AI|https://www.investing.com/news/insider-trading-news/charles-r-schwab-cochairman-sells-659m-in-schwab-stock-93CH-5040478",
-    "AI|https://www.investing.com/news/insider-trading-news/virtuix-holdings-ceo-jan-goetgeluk-buys-40450-in-shares-93CH-5040479",
     "AI|https://www.investing.com/news/insider-trading-news/virtuix-cfo-mcginnis-buys-40420-in-company-stock-93CH-5040480",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/wheels-up-chief-legal-officer-matthew-knopf-sells-26235-in-stock-93CH-5040469",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/wheels-up-chief-people-officer-brian-kedzior-sells-14418-in-stock-93CH-5040470",
@@ -5000,7 +4997,10 @@
     "Iran|https://www.iranintl.com/en/202611201108",
     "AI|bf617637-ac6e-3cd5-a1bd-da736050b2fe",
     "Watchlist|c39f8fe8-0b1f-3eed-ac16-9abaa68d1003",
-    "Watchlist|bf617637-ac6e-3cd5-a1bd-da736050b2fe"
+    "Watchlist|bf617637-ac6e-3cd5-a1bd-da736050b2fe",
+    "AI|c39f8fe8-0b1f-3eed-ac16-9abaa68d1003",
+    "AI|d6ebdfc1-bb57-3fb3-84a4-357a93131948",
+    "Watchlist|d6ebdfc1-bb57-3fb3-84a4-357a93131948"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,8 +5090,8 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795258067.6649,
+  "last_check": 1795258994.4741797,
   "last_board": "2026-10-27",
   "commands_version": 9,
-  "last_report": "2026-11-20"
+  "last_report": "2026-11-21"
 }
