@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|/international/india-seeks-foreign-capital-revival-inflows-return-tax-reform-looms",
-    "SG Banks|/companies-markets/indonesias-png-supply-singapore-fully-restored-no-further-cuts-flagged-meti",
-    "Watchlist|/companies-markets/indonesias-png-supply-singapore-fully-restored-no-further-cuts-flagged-meti",
-    "Iran|https://www.iranintl.com/en/202611177466",
-    "AI|67b4ee2a-3ae3-3b04-a065-c3e2f9fa6c6a",
-    "Watchlist|67b4ee2a-3ae3-3b04-a065-c3e2f9fa6c6a",
-    "AI|https://www.investing.com/news/analyst-ratings/barclays-upgrades-telus-stock-rating-on-potential-deal-activity-93CH-5040852",
-    "AI|https://www.investing.com/news/stock-market-news/barclays-warns-of-further-equity-weakness-as-hawkish-fed-bets-build-5040863",
-    "AI|https://www.investing.com/news/company-news/hav-group-q3-2026-slides-delays-hit-profit-backlog-shrinks-93CH-5040879",
-    "AI|https://www.investing.com/news/economy-news/factboxglobal-investment-banks-see-chinese-yuans-gradual-appreciation-extending-into-2027-5040886",
     "AI|https://www.investing.com/news/analyst-ratings/macquarie-upgrades-pinduoduo-stock-rating-on-valuation-cost-discipline-93CH-5040887",
     "AI|https://www.investing.com/news/insider-trading-news/trisalus-director-gary-b-gordon-acquires-22000-in-common-stock-93CH-5040888",
     "AI|https://www.investing.com/news/insider-trading-news/acrivon-therapeutics-coo-eric-devroe-sells-910-in-stock-93CH-5040893",
@@ -5000,7 +4990,17 @@
     "AI|1d0d72e1-15bb-370b-86ae-d4b548c4b7b7",
     "Watchlist|1d0d72e1-15bb-370b-86ae-d4b548c4b7b7",
     "Crypto|12f92bef-55ad-3c58-8c92-5b00564a31ce",
-    "Watchlist|2588f1ed-6662-36ef-ab7b-75f566f44b99"
+    "Watchlist|2588f1ed-6662-36ef-ab7b-75f566f44b99",
+    "SG Banks|/international/india-seeks-foreign-capital-revival-inflows-return-tax-reform-looms",
+    "Watchlist|/international/india-seeks-foreign-capital-revival-inflows-return-tax-reform-looms",
+    "SG Banks|/companies-markets/indonesias-png-supply-singapore-fully-restored-no-further-cuts-flagged-meti",
+    "Watchlist|/companies-markets/indonesias-png-supply-singapore-fully-restored-no-further-cuts-flagged-meti",
+    "AI|https://www.investing.com/news/economy-news/uk-and-netherlands-leaders-discuss-security-and-ukraine-support-5043603",
+    "Cybersecurity|https://www.investing.com/news/economy-news/uk-and-netherlands-leaders-discuss-security-and-ukraine-support-5043603",
+    "SG Banks|https://www.investing.com/news/economy-news/uk-and-netherlands-leaders-discuss-security-and-ukraine-support-5043603",
+    "Watchlist|https://www.investing.com/news/economy-news/uk-and-netherlands-leaders-discuss-security-and-ukraine-support-5043603",
+    "AI|441e351f-db4b-3a76-8c0f-81a2c2810b3c",
+    "Watchlist|441e351f-db4b-3a76-8c0f-81a2c2810b3c"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795300364.7538474,
+  "last_check": 1795301260.8430195,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
