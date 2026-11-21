@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|b712d93e-98d6-3789-9379-e27af6d23f6b",
-    "Watchlist|b712d93e-98d6-3789-9379-e27af6d23f6b",
-    "AI|889b1eb1-081d-3b8c-9013-2c45ab818f77",
-    "AI|https://www.investing.com/news/insider-trading-news/northwest-natural-director-david-anderson-sells-77208-in-shares-93CH-5040425",
     "AI|https://www.investing.com/news/economy-news/analysisbojs-ambiguity-on-rate-hike-path-could-tempt-yen-bears-5040426",
     "AI|https://www.investing.com/news/insider-trading-news/meta-platforms-chief-legal-officer-sells-974375-in-stock-93CH-5040432",
     "AI|https://www.investing.com/news/insider-trading-news/meta-platforms-cto-andrew-bosworth-sells-49m-in-stock-93CH-5040431",
@@ -5000,7 +4996,11 @@
     "AI|https://www.investing.com/news/economy-news/iran-war-sees-tanker-hit-near-hormuz-as-saudi-arabia-intercepts-houthi-missiles-5043277",
     "Cybersecurity|https://www.investing.com/news/economy-news/iran-war-sees-tanker-hit-near-hormuz-as-saudi-arabia-intercepts-houthi-missiles-5043277",
     "SG Banks|https://www.investing.com/news/economy-news/iran-war-sees-tanker-hit-near-hormuz-as-saudi-arabia-intercepts-houthi-missiles-5043277",
-    "Watchlist|https://www.investing.com/news/economy-news/iran-war-sees-tanker-hit-near-hormuz-as-saudi-arabia-intercepts-houthi-missiles-5043277"
+    "Watchlist|https://www.investing.com/news/economy-news/iran-war-sees-tanker-hit-near-hormuz-as-saudi-arabia-intercepts-houthi-missiles-5043277",
+    "SG Banks|https://www.straitstimes.com/business/anthropic-ceo-amodei-vacations-at-italian-resort-after-public-listing",
+    "War|f5977bb9-0f00-3a8b-9898-f6f9f00f3568",
+    "AI|9d86b827-277c-33f4-8a85-859ba2316817",
+    "Watchlist|9d86b827-277c-33f4-8a85-859ba2316817"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795249821.3055909,
+  "last_check": 1795250721.3564472,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-20"
