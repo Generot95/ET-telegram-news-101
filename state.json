@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/company-news/elastic-q2-fy27-slides-record-margins-amid-ai-growth-stock-slides-on-concerns-93CH-5040324",
-    "Watchlist|https://www.investing.com/news/company-news/evergen-q3-2026-slides-rng-output-hits-record-despite-earnings-miss-93CH-5040325",
-    "AI|5b3470b5-0053-3b1d-84eb-bca4e1803d92",
-    "SG Banks|/companies-markets/if-theres-price-be-paid-so-be-it-george-yeo-says-singapore-must-safeguard-its-reputation",
-    "SG Banks|/international/popular-websites-compromised-bid-steal-crypto-target-iphone-users",
-    "SG Banks|/companies-markets/deepfake-attacks-asia-pacific-more-double-2026-report",
-    "Watchlist|5b3470b5-0053-3b1d-84eb-bca4e1803d92",
-    "Watchlist|ce543c50-4d9b-3018-a7a8-1c640df1ccb1",
-    "Watchlist|/companies-markets/if-theres-price-be-paid-so-be-it-george-yeo-says-singapore-must-safeguard-its-reputation",
-    "Watchlist|/international/popular-websites-compromised-bid-steal-crypto-target-iphone-users",
-    "Watchlist|/companies-markets/deepfake-attacks-asia-pacific-more-double-2026-report",
-    "SG Banks|https://www.channelnewsasia.com/business/analysisanthropic-listing-extends-nasdaqs-dominant-run-against-arch-rival-nyse-6567516",
     "Cybersecurity|ed6fc8a8-598a-3d91-be63-69dee0cb15a7",
     "Cybersecurity|2101a7d1-3d4e-387b-a6b3-4533f6949185",
     "Watchlist|2101a7d1-3d4e-387b-a6b3-4533f6949185",
@@ -5000,7 +4988,19 @@
     "AI|44720a88-224c-3fb4-a385-31d98f4e6e2c",
     "Watchlist|44720a88-224c-3fb4-a385-31d98f4e6e2c",
     "AI|f9f398e6-2f62-34a7-ac0b-e2926ce4203e",
-    "Watchlist|f9f398e6-2f62-34a7-ac0b-e2926ce4203e"
+    "Watchlist|f9f398e6-2f62-34a7-ac0b-e2926ce4203e",
+    "AI|f93688e0-5c36-372b-855e-b722a7cce11d",
+    "Watchlist|f93688e0-5c36-372b-855e-b722a7cce11d",
+    "War|https://www.investing.com/news/world-news/liberal-bastion-no-more-rights-groups-fret-over-swedish-crackdown-on-gang-crime-3720016",
+    "War|https://www.investing.com/news/world-news/italian-president-tells-musk-to-quit-meddling-in-italys-domestic-politics-3720069",
+    "War|https://www.investing.com/news/stock-market-news/us-opens-missile-base-in-poland-as-trump-presidency-looms-over-nato-3718740",
+    "War|https://www.investing.com/news/world-news/quinoa-ceviche-and-chinese-fusion-on-menu-as-peru-hosts-biden-xi-3720035",
+    "War|https://www.investing.com/news/world-news/lebanon-awaits-truce-proposals-after-us-envoy-expresses-hope-3719089",
+    "War|https://www.investing.com/news/world-news/israel-questions-icc-judges-impartiality-in-netanyahu-arrest-case-3720345",
+    "War|https://www.investing.com/news/world-news/us-senate-republicans-to-pick-new-leader-amid-pressure-from-trump-allies-3719272",
+    "War|https://www.investing.com/news/world-news/uk-southport-murder-suspect-due-to-go-on-trial-in-january-3720359",
+    "War|https://www.investing.com/news/world-news/argentina-appeals-court-confirms-guilty-verdict-for-former-president-cristina-kirchner-3720259",
+    "War|https://www.investing.com/news/world-news/israel-rejects-aid-groups-gaza-report-says-it-relies-on-partial-information-3720445"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795236023.1343477,
+  "last_check": 1795236939.5612366,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-20"
