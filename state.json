@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/trisalus-director-gary-b-gordon-acquires-22000-in-common-stock-93CH-5040888",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/acrivon-therapeutics-coo-eric-devroe-sells-910-in-stock-93CH-5040893",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/venture-global-cfo-jonathan-thayer-sells-27m-in-stock-93CH-5040894",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/european-shares-near-1month-lows-as-anthropics-debut-fails-to-halt-tech-rout-5040695",
     "SG Banks|https://www.investing.com/news/analyst-ratings/barclays-upgrades-telus-stock-rating-on-potential-deal-activity-93CH-5040852",
     "SG Banks|https://www.investing.com/news/stock-market-news/barclays-warns-of-further-equity-weakness-as-hawkish-fed-bets-build-5040863",
     "SG Banks|https://www.investing.com/news/company-news/hav-group-q3-2026-slides-delays-hit-profit-backlog-shrinks-93CH-5040879",
@@ -5000,7 +4996,11 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/ellington-financials-cocio-vranos-buys-207m-in-shares-93CH-5043606",
     "AI|03e489a1-9b35-3966-b458-e756529b19d2",
     "Crypto|03e489a1-9b35-3966-b458-e756529b19d2",
-    "Watchlist|03e489a1-9b35-3966-b458-e756529b19d2"
+    "Watchlist|03e489a1-9b35-3966-b458-e756529b19d2",
+    "AI|https://www.investing.com/news/stock-market-news/german-car-and-shipyard-workers-set-to-strike-as-ig-metall-union-extends-walkout-5043609",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/german-car-and-shipyard-workers-set-to-strike-as-ig-metall-union-extends-walkout-5043609",
+    "SG Banks|https://www.investing.com/news/stock-market-news/german-car-and-shipyard-workers-set-to-strike-as-ig-metall-union-extends-walkout-5043609",
+    "Watchlist|https://www.investing.com/news/stock-market-news/german-car-and-shipyard-workers-set-to-strike-as-ig-metall-union-extends-walkout-5043609"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795302195.5855243,
+  "last_check": 1795303101.8451393,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
