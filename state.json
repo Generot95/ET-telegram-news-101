@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/analyst-ratings/truist-upgrades-evolent-health-stock-rating-on-valuation-2027-outlook-93CH-5040709",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/canaccord-initiates-village-farms-stock-with-buy-on-europe-growth-93CH-5040711",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/briley-initiates-praxis-precision-medicines-stock-with-buy-rating-on-drug-approvals-93CH-5040710",
-    "Watchlist|https://www.investing.com/news/stock-market-news/td-cowen-names-top-software-stock-for-2027-5040716",
     "Watchlist|https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-663-5040720",
     "Watchlist|https://www.investing.com/news/analyst-ratings/ubs-downgrades-deutsche-boerse-stock-rating-to-sell-on-valuation-93CH-5040725",
     "Watchlist|https://www.investing.com/news/analyst-ratings/jpmorgan-initiates-bok-financial-stock-coverage-with-neutral-rating-93CH-5040726",
@@ -5000,7 +4996,11 @@
     "Watchlist|e63c04de-a72c-3575-afab-1bcf428b7f1f",
     "Watchlist|f32ca12c-d14b-3962-9ac5-81d92c8266e4",
     "AI|6a7fed3d-ac9f-3f8b-80ab-e291b5047a93",
-    "Watchlist|6a7fed3d-ac9f-3f8b-80ab-e291b5047a93"
+    "Watchlist|6a7fed3d-ac9f-3f8b-80ab-e291b5047a93",
+    "AI|0411ba51-cd06-3129-a125-e71cd5e034db",
+    "Watchlist|0411ba51-cd06-3129-a125-e71cd5e034db",
+    "AI|663d17fd-da0b-32ec-81cf-960f3b8c5444",
+    "Watchlist|663d17fd-da0b-32ec-81cf-960f3b8c5444"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795282913.7261343,
+  "last_check": 1795283846.702838,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
