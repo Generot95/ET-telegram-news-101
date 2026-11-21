@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/insider-trading-news/fortress-biotech-ceo-rosenwald-acquires-252583-in-company-stock-93CH-5040331",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-67493-in-highland-opportunities--income-fund-93CH-5040330",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/broadwood-partners-buys-6m-in-insight-molecular-diagnostics-93CH-5040332",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/broadwood-partners-lp-buys-770700-in-lineage-cell-therapeutics-stock-93CH-5040333",
     "SG Banks|https://www.investing.com/news/economy-news/feds-paulson-says-understanding-not-guidance-drives-effective-communication-5040341",
     "SG Banks|https://www.investing.com/news/stock-market-news/exclusivecitiincorrectly-booked-trades-underestimatedrisky-assets-by-35-billion-sources-say-5040342",
     "SG Banks|https://www.investing.com/news/economic-indicators/japan-oct-core-cpi-rises-22-yryr-5040343",
@@ -5000,7 +4996,11 @@
     "War|dc28802e-1a3c-3b11-9f06-e12386f13d17",
     "AI|f00040d8-5785-34fd-9862-6c6443cd100f",
     "Cybersecurity|9325e62a-cfc2-334b-b9ff-30bc12a8629c",
-    "Watchlist|f00040d8-5785-34fd-9862-6c6443cd100f"
+    "Watchlist|f00040d8-5785-34fd-9862-6c6443cd100f",
+    "SG Banks|https://www.channelnewsasia.com/business/south-koreas-lee-says-speed-vital-in-ai-race-data-centre-visit-6571286",
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/xrp-falls-10-in-selloff-5043190",
+    "SG Banks|/companies-markets/telcos-media-tech/anthropic-researcher-claims-solve-riemann-maths-problem-claude",
+    "Watchlist|/companies-markets/telcos-media-tech/anthropic-researcher-claims-solve-riemann-maths-problem-claude"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795239720.3219635,
+  "last_check": 1795240634.7728887,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-20"
