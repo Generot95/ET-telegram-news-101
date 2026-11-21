@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/fastly-ceo-charles-compton-sells-931k-in-stock-93CH-5040750",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/td-cowen-upgrades-humana-stock-rating-on-earnings-outlook-93CH-5040751",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/fastly-president-scott-lovett-sells-239517-in-stock-93CH-5040758",
-    "Watchlist|https://www.investing.com/news/stock-market-news/ubs-sees-deutsche-boerse-shares-overvalued-after-49-rally-5040759",
-    "SG Banks|c54d365f-5955-31f3-ab78-b391edcf9928",
-    "SG Banks|/property/motoring-tycoon-peter-kwee-back-court-here-are-his-previous-legal-battles",
-    "SG Banks|https://www.straitstimes.com/business/indonesia-central-bank-hikes-rates-to-support-rupiah",
-    "Watchlist|c54d365f-5955-31f3-ab78-b391edcf9928",
-    "Watchlist|/property/motoring-tycoon-peter-kwee-back-court-here-are-his-previous-legal-battles",
-    "AI|83182d22-4185-3463-8fd3-a0cccb737717",
     "AI|https://www.investing.com/news/stock-market-news/this-discount-retailer-is-among-td-cowens-best-ideas-for-2027-5040777",
     "AI|https://www.investing.com/news/earnings/vallourec-sees-q4-ebitda-below-expectations-as-middle-east-disruption-hits-margins-5040778",
     "AI|https://www.investing.com/news/analyst-ratings/td-cowen-upgrades-expeditors-stock-rating-on-productivity-gains-93CH-5040779",
@@ -5000,7 +4990,17 @@
     "Watchlist|977974cd-7ac0-38b9-93d5-9af6e6798db7",
     "Watchlist|https://www.investing.com/news/insider-trading-news/terrance-ford-first-community-corp-director-buys-20928-in-stock-93CH-5043565",
     "Crypto|84b3c448-54fb-3d25-a08a-7dc1c01056e1",
-    "Watchlist|966436b4-8df5-375c-bf97-dcce33c497a1"
+    "Watchlist|966436b4-8df5-375c-bf97-dcce33c497a1",
+    "Iran|https://www.iranintl.com/en/202611216643",
+    "AI|966436b4-8df5-375c-bf97-dcce33c497a1",
+    "Watchlist|2b1bfc09-5982-384c-9ea8-768636a50c66",
+    "AI|be0d2bef-c345-348e-b985-df64a1657f90",
+    "Watchlist|be0d2bef-c345-348e-b985-df64a1657f90",
+    "SG Banks|c54d365f-5955-31f3-ab78-b391edcf9928",
+    "SG Banks|/property/motoring-tycoon-peter-kwee-back-court-here-are-his-previous-legal-battles",
+    "War|f04d138c-5e62-31e4-882e-68a57b15b6a2",
+    "Watchlist|c54d365f-5955-31f3-ab78-b391edcf9928",
+    "Watchlist|/property/motoring-tycoon-peter-kwee-back-court-here-are-his-previous-legal-battles"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795290242.9176695,
+  "last_check": 1795291168.195144,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
