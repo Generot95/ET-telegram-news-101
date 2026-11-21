@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|/companies-markets/nvidia-stops-selling-ai-chips-china-despite-us-approval",
-    "Watchlist|/companies-markets/lenovo-posts-48-revenue-jump-ai-related-sales-beating-estimates",
-    "Crypto|cadaca9a-a009-3146-8950-b46f7f1e6f0f",
-    "AI|https://www.investing.com/news/economic-indicators/uk-consumer-confidence-rises-in-november-ahead-of-black-friday-93CH-5040730",
-    "AI|https://www.investing.com/news/stock-market-news/singapores-dayone-pauses-us-ipo-plans-amid-ai-market-volatility--bloomberg-5040732",
-    "AI|https://www.investing.com/news/economic-indicators/netherlands-consumer-confidence-rises-slightly-in-november-93CH-5040734",
-    "AI|https://www.investing.com/news/forex-news/global-bond-yields-plunge-as-ai-rout-triggers-flight-to-safety-5040733",
     "AI|https://www.investing.com/news/insider-trading-news/crane-director-james-tullis-sells-319490-in-company-stock-93CH-5040741",
     "AI|https://www.investing.com/news/insider-trading-news/fti-consulting-chief-strategy-officer-sells-517500-in-fcn-shares-93CH-5040742",
     "AI|https://www.investing.com/news/stock-market-news/sk-hynix-weighs-converting-kioxia-bonds-to-shares-report-says-5040745",
@@ -5000,7 +4993,14 @@
     "Watchlist|https://www.investing.com/news/commodities-news/ubs-flags-further-gold-weakness-before-fed-ratecut-expectations-return-5043537",
     "SG Banks|/companies-markets/nvidia-stops-selling-ai-chips-china-despite-us-approval",
     "Iran|https://www.iranintl.com/en/202611219386",
-    "SG Banks|/companies-markets/lenovo-posts-48-revenue-jump-ai-related-sales-beating-estimates"
+    "SG Banks|/companies-markets/lenovo-posts-48-revenue-jump-ai-related-sales-beating-estimates",
+    "AI|c4761d7b-938a-3ccd-a9b7-b7f408a67ec1",
+    "Watchlist|c4761d7b-938a-3ccd-a9b7-b7f408a67ec1",
+    "Watchlist|/companies-markets/nvidia-stops-selling-ai-chips-china-despite-us-approval",
+    "Watchlist|/companies-markets/lenovo-posts-48-revenue-jump-ai-related-sales-beating-estimates",
+    "AI|25784c39-4909-3925-9928-05dc713d9b73",
+    "Watchlist|25784c39-4909-3925-9928-05dc713d9b73",
+    "Crypto|2b590e01-272b-316d-af4c-d1251ad9adb4"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795284768.4479516,
+  "last_check": 1795285663.3886368,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
