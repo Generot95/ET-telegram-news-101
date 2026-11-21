@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/analyst-ratings/jpmorgan-downgrades-eastman-chemical-stock-rating-on-valuation-93CH-5040816",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/jpmorgan-downgrades-valvoline-stock-rating-on-volume-concerns-93CH-5040817",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/my-wallet-introduces-11-crosschain-stablecoin-swaps-after-being-listed-first-on-walletconnect-5038054",
-    "AI|58ec50c7-56c1-3d1b-9422-f9f2df46b676",
     "SG Banks|https://www.straitstimes.com/business/us-chip-firm-kla-opens-expanded-site-in-singapore-with-plans-for-further-growth",
     "Iran|https://www.iranintl.com/en/202611175408",
     "SG Banks|/international/shareholders-sue-alibaba-over-concealment-ties-alice-huang-alleged-spy-nvidia-scandal",
@@ -5000,7 +4996,11 @@
     "SG Banks|https://www.straitstimes.com/business/he-gave-up-the-iron-rice-bowl-and-sold-his-condo-to-chase-his-business-dreams",
     "Iran|https://www.iranintl.com/en/202611219295",
     "AI|7877532d-2aa0-305e-a233-cd5b989ef8c2",
-    "Watchlist|7877532d-2aa0-305e-a233-cd5b989ef8c2"
+    "Watchlist|7877532d-2aa0-305e-a233-cd5b989ef8c2",
+    "AI|210b58a6-6cdc-35b2-ad5e-41b402c50584",
+    "Watchlist|210b58a6-6cdc-35b2-ad5e-41b402c50584",
+    "AI|172c7f66-7445-3a34-860c-e24a1bcdf3ac",
+    "Watchlist|172c7f66-7445-3a34-860c-e24a1bcdf3ac"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795295768.5706375,
+  "last_check": 1795296682.5698526,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
