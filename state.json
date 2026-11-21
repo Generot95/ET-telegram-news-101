@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|75e53212-6b0d-3b4c-aa56-c9fd9935b3c2",
-    "SG Banks|/companies-markets/sti-opened-1-4-lower-friday-tracking-losses-across-wall-street",
-    "SG Banks|https://www.channelnewsasia.com/business/oil-prices-edge-higher-houthi-attacks-riyadh-raise-supply-concerns-6568016",
-    "Watchlist|/companies-markets/sti-opened-1-4-lower-friday-tracking-losses-across-wall-street",
-    "SG Banks|https://www.straitstimes.com/business/asian-stocks-fall-anthropic-slips-in-after-hours-markets-wrap",
-    "SG Banks|/companies-markets/nvidia-asked-sell-chips-companies-tied-chinese-military-and-megaspeed",
-    "Watchlist|/companies-markets/nvidia-asked-sell-chips-companies-tied-chinese-military-and-megaspeed",
-    "SG Banks|https://www.straitstimes.com/business/gold-set-for-worst-week-since-march-on-hawkish-fed-ai-selloff",
-    "AI|6d29a6cd-b990-30dc-83c1-f02bd26afd27",
-    "SG Banks|/companies-markets/sti-opens-1-4-lower-friday-tracking-losses-across-wall-street",
-    "Watchlist|6d29a6cd-b990-30dc-83c1-f02bd26afd27",
-    "Watchlist|/companies-markets/sti-opens-1-4-lower-friday-tracking-losses-across-wall-street",
     "Crypto|6c282131-9f9e-3049-bedf-66b1a326a6ef",
     "AI|bf63a3fc-8429-3adc-a3a1-1d0c5356c855",
     "Watchlist|bf63a3fc-8429-3adc-a3a1-1d0c5356c855",
@@ -5000,7 +4988,19 @@
     "War|WP-MKTW-0005361385",
     "AI|WP-MKTW-0005361385",
     "Cybersecurity|WP-MKTW-0005361385",
-    "War|a6b78d5b-c7dc-339a-9a36-c6b91864c7b3"
+    "War|a6b78d5b-c7dc-339a-9a36-c6b91864c7b3",
+    "Iran|https://www.iranintl.com/en/202611183346",
+    "AI|64e54926-c282-3605-a288-c1d75b79157e",
+    "AI|4d6df806-ebb2-3ddb-90c3-855872a1f658",
+    "Watchlist|64e54926-c282-3605-a288-c1d75b79157e",
+    "Watchlist|4d6df806-ebb2-3ddb-90c3-855872a1f658",
+    "SG Banks|75e53212-6b0d-3b4c-aa56-c9fd9935b3c2",
+    "SG Banks|https://www.straitstimes.com/business/asian-stocks-fall-anthropic-slips-in-after-hours-markets-wrap",
+    "SG Banks|/companies-markets/nvidia-asked-sell-chips-companies-tied-chinese-military-and-megaspeed",
+    "Watchlist|/companies-markets/nvidia-asked-sell-chips-companies-tied-chinese-military-and-megaspeed",
+    "SG Banks|https://www.straitstimes.com/business/gold-set-for-worst-week-since-march-on-hawkish-fed-ai-selloff",
+    "AI|825a19be-cd8f-36bb-81ba-cfa8427cd6fe",
+    "Watchlist|825a19be-cd8f-36bb-81ba-cfa8427cd6fe"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795262670.1500258,
+  "last_check": 1795263595.7078483,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
