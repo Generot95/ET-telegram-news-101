@@ -1,23 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|00276657-550f-3c68-b14c-d822b6dcc7aa",
-    "War|https://www.investing.com/news/commodities-news/gold-slides-to-14mth-low-set-for-weekly-drop-amid-fed-hike-bets-5040648",
-    "AI|https://www.investing.com/news/stock-market-news/ai-selloff-these-sectors-held-firm-as-tech-slumped-in-oct-nov-93CH-5040636",
-    "AI|https://www.investing.com/news/insider-trading-news/advanced-flower-capital-director-tannenbaum-buys-298408-in-afcg-shares-93CH-5040646",
-    "AI|https://www.investing.com/news/insider-trading-news/watts-water-ceo-robert-pagano-sells-506m-in-company-stock-93CH-5040647",
-    "AI|https://www.investing.com/news/commodities-news/gold-slides-to-14mth-low-set-for-weekly-drop-amid-fed-hike-bets-5040648",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-muted-below-65k-as-rate-tech-jitters-persist-fed-minutes-awaited-5034879",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/ai-selloff-these-sectors-held-firm-as-tech-slumped-in-oct-nov-93CH-5040636",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/advanced-flower-capital-director-tannenbaum-buys-298408-in-afcg-shares-93CH-5040646",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/watts-water-ceo-robert-pagano-sells-506m-in-company-stock-93CH-5040647",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/gold-slides-to-14mth-low-set-for-weekly-drop-amid-fed-hike-bets-5040648",
-    "SG Banks|https://www.investing.com/news/stock-market-news/ai-selloff-these-sectors-held-firm-as-tech-slumped-in-oct-nov-93CH-5040636",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/advanced-flower-capital-director-tannenbaum-buys-298408-in-afcg-shares-93CH-5040646",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/watts-water-ceo-robert-pagano-sells-506m-in-company-stock-93CH-5040647",
-    "SG Banks|https://www.investing.com/news/commodities-news/gold-slides-to-14mth-low-set-for-weekly-drop-amid-fed-hike-bets-5040648",
-    "Watchlist|https://www.investing.com/news/stock-market-news/ai-selloff-these-sectors-held-firm-as-tech-slumped-in-oct-nov-93CH-5040636",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/advanced-flower-capital-director-tannenbaum-buys-298408-in-afcg-shares-93CH-5040646",
     "Watchlist|https://www.investing.com/news/insider-trading-news/watts-water-ceo-robert-pagano-sells-506m-in-company-stock-93CH-5040647",
     "Watchlist|https://www.investing.com/news/commodities-news/gold-slides-to-14mth-low-set-for-weekly-drop-amid-fed-hike-bets-5040648",
     "SG Banks|https://www.straitstimes.com/business/singapore-unveils-three-ai-initiatives-for-financial-sector-plans-easier-qr-payments",
@@ -5000,78 +4983,95 @@
     "SG Banks|/international/citi-underestimated-risky-assets-us35-billion-after-incorrectly-recording-trades-sources-say",
     "Watchlist|/international/citi-underestimated-risky-assets-us35-billion-after-incorrectly-recording-trades-sources-say",
     "AI|01992804-b90d-333b-81e0-6a39c57d0bf5",
-    "Watchlist|01992804-b90d-333b-81e0-6a39c57d0bf5"
+    "Watchlist|01992804-b90d-333b-81e0-6a39c57d0bf5",
+    "AI|14649c66-af89-3cf2-9c92-40c2b2367818",
+    "Crypto|14649c66-af89-3cf2-9c92-40c2b2367818",
+    "War|https://www.investing.com/news/commodities-news/gold-slides-to-14mth-low-set-for-weekly-drop-amid-fed-hike-bets-5040648",
+    "AI|c5562eb5-5a62-3708-a061-0462a0a61222",
+    "Watchlist|14649c66-af89-3cf2-9c92-40c2b2367818",
+    "Watchlist|c5562eb5-5a62-3708-a061-0462a0a61222",
+    "War|https://www.investing.com/news/commodities-news/us-denies-iranian-account-that-missile-damaged-f16-over-gulf-5043494",
+    "AI|https://www.investing.com/news/commodities-news/us-denies-iranian-account-that-missile-damaged-f16-over-gulf-5043494",
+    "Cybersecurity|https://www.investing.com/news/commodities-news/us-denies-iranian-account-that-missile-damaged-f16-over-gulf-5043494",
+    "SG Banks|https://www.investing.com/news/commodities-news/us-denies-iranian-account-that-missile-damaged-f16-over-gulf-5043494",
+    "Watchlist|https://www.investing.com/news/commodities-news/us-denies-iranian-account-that-missile-damaged-f16-over-gulf-5043494",
+    "Watchlist|d7cb8f32-9404-34d4-a728-f08b86376c84",
+    "AI|d7cb8f32-9404-34d4-a728-f08b86376c84",
+    "AI|b44c5a47-937c-372a-9138-26c9b93e55aa",
+    "SG Banks|https://www.channelnewsasia.com/business/bitcoin-rises-over-2-more-60000-6571851",
+    "Watchlist|1a9faf12-cfed-392a-9690-86d603dd927b",
+    "Watchlist|49e6edf4-e75d-3c95-ae5f-a61a4379c461"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
   "earnings": {
     "AMD": {
       "ts": 1801602000,
-      "fetched": 1795188320.1303782
+      "fetched": 1795274765.1304166
     },
     "NVDA": {
       "ts": 1794949200,
-      "fetched": 1795188320.1303782
+      "fetched": 1795274765.1304166
     },
     "CRWD": {
       "ts": 1796158800,
-      "fetched": 1795188320.1303782
+      "fetched": 1795274765.1304166
     },
     "MSFT": {
       "ts": 1801083600,
-      "fetched": 1795188320.1303782
+      "fetched": 1795274765.1304166
     },
     "INTU": {
       "ts": 1795122000,
-      "fetched": 1795188320.1303782
+      "fetched": 1795274765.1304166
     },
     "BRK-B": {
       "ts": 1794258000,
-      "fetched": 1795188320.1303782
+      "fetched": 1795274765.1304166
     },
     "AMZN": {
       "ts": 1793304000,
-      "fetched": 1795188320.1303782
+      "fetched": 1795274765.1304166
     },
     "GOOG": {
       "ts": 1793217600,
-      "fetched": 1795188320.1303782
+      "fetched": 1795274765.1304166
     },
     "ZTS": {
       "ts": 1793885400,
-      "fetched": 1795188320.1303782
+      "fetched": 1795274765.1304166
     },
     "LIN": {
       "ts": 1793277000,
-      "fetched": 1795188320.1303782
+      "fetched": 1795274765.1304166
     },
     "VLO": {
       "ts": 1801143000,
-      "fetched": 1795188320.1303782
+      "fetched": 1795274765.1304166
     },
     "D05.SI": {
-      "ts": 1793869200,
-      "fetched": 1795188320.1303782
+      "ts": 1802682000,
+      "fetched": 1795274765.1304166
     },
     "O39.SI": {
       "ts": 1793955600,
-      "fetched": 1795188320.1303782
+      "fetched": 1795274765.1304166
     },
     "U11.SI": {
       "ts": 1793782800,
-      "fetched": 1795188320.1303782
+      "fetched": 1795274765.1304166
     },
     "A17U.SI": {
       "ts": null,
-      "fetched": 1795188320.1303782
+      "fetched": 1795274765.1304166
     },
     "HMN.SI": {
       "ts": null,
-      "fetched": 1795188320.1303782
+      "fetched": 1795274765.1304166
     },
     "JYEU.SI": {
       "ts": null,
-      "fetched": 1795188320.1303782
+      "fetched": 1795274765.1304166
     }
   },
   "earnings_notified": [
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795274623.0945156,
+  "last_check": 1795275557.8157392,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
