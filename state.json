@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-663-5040720",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/ubs-downgrades-deutsche-boerse-stock-rating-to-sell-on-valuation-93CH-5040725",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/jpmorgan-initiates-bok-financial-stock-coverage-with-neutral-rating-93CH-5040726",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/jefferies-cuts-billcom-stock-rating-to-hold-on-tpg-acquisition-93CH-5040728",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/jpmorgan-initiates-msg-rangers-stock-at-overweight-on-valuation-93CH-5040727",
-    "AI|cb4f7399-1189-359c-b959-beea898ced67",
-    "SG Banks|/companies-markets/nvidia-stops-selling-ai-chips-china-despite-us-approval",
-    "SG Banks|/companies-markets/lenovo-posts-48-revenue-jump-ai-related-sales-beating-estimates",
-    "SG Banks|https://www.straitstimes.com/business/canadas-la-caisse-in-talks-for-stake-in-bains-singapore-based-bridge-data-centres-sources-say",
-    "Watchlist|cb4f7399-1189-359c-b959-beea898ced67",
     "Watchlist|/companies-markets/nvidia-stops-selling-ai-chips-china-despite-us-approval",
     "Watchlist|/companies-markets/lenovo-posts-48-revenue-jump-ai-related-sales-beating-estimates",
     "Crypto|cadaca9a-a009-3146-8950-b46f7f1e6f0f",
@@ -5000,7 +4990,17 @@
     "AI|0411ba51-cd06-3129-a125-e71cd5e034db",
     "Watchlist|0411ba51-cd06-3129-a125-e71cd5e034db",
     "AI|663d17fd-da0b-32ec-81cf-960f3b8c5444",
-    "Watchlist|663d17fd-da0b-32ec-81cf-960f3b8c5444"
+    "Watchlist|663d17fd-da0b-32ec-81cf-960f3b8c5444",
+    "AI|e8ba43ea-bd9d-3650-9128-16130956297a",
+    "Watchlist|e8ba43ea-bd9d-3650-9128-16130956297a",
+    "War|https://www.investing.com/news/commodities-news/ubs-flags-further-gold-weakness-before-fed-ratecut-expectations-return-5043537",
+    "AI|https://www.investing.com/news/commodities-news/ubs-flags-further-gold-weakness-before-fed-ratecut-expectations-return-5043537",
+    "Cybersecurity|https://www.investing.com/news/commodities-news/ubs-flags-further-gold-weakness-before-fed-ratecut-expectations-return-5043537",
+    "SG Banks|https://www.investing.com/news/commodities-news/ubs-flags-further-gold-weakness-before-fed-ratecut-expectations-return-5043537",
+    "Watchlist|https://www.investing.com/news/commodities-news/ubs-flags-further-gold-weakness-before-fed-ratecut-expectations-return-5043537",
+    "SG Banks|/companies-markets/nvidia-stops-selling-ai-chips-china-despite-us-approval",
+    "Iran|https://www.iranintl.com/en/202611219386",
+    "SG Banks|/companies-markets/lenovo-posts-48-revenue-jump-ai-related-sales-beating-estimates"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795283846.702838,
+  "last_check": 1795284768.4479516,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
