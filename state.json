@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|48112986-d2ae-30b2-9611-d42caffef3a1",
-    "AI|2277ba3d-5628-38f2-bc9f-1031dd7b183f",
-    "Watchlist|48112986-d2ae-30b2-9611-d42caffef3a1",
-    "Watchlist|2277ba3d-5628-38f2-bc9f-1031dd7b183f",
-    "AI|a27dd7b7-69c1-3788-94dd-21ea02b499aa",
-    "Watchlist|a27dd7b7-69c1-3788-94dd-21ea02b499aa",
-    "War|641e674a-7f82-3108-9301-e1415a1d0042",
-    "AI|085d3c14-7ae6-3dc0-9813-2120148a2ccd",
-    "AI|218adf20-fceb-3955-ab5b-5c4bc9cf9107",
-    "AI|c4255d5c-5bd9-305f-b1be-770e273d435b",
     "Watchlist|085d3c14-7ae6-3dc0-9813-2120148a2ccd",
     "Watchlist|c4255d5c-5bd9-305f-b1be-770e273d435b",
     "Watchlist|641e674a-7f82-3108-9301-e1415a1d0042",
@@ -5000,7 +4990,17 @@
     "AI|91ca1260-a4e9-3c49-b24e-700075ea685e",
     "Watchlist|91ca1260-a4e9-3c49-b24e-700075ea685e",
     "SG Banks|https://www.straitstimes.com/business/japans-core-inflation-accelerates-in-october-cementing-rate-hike-expectations",
-    "War|309d0b27-82ac-37e4-921f-ec9a21207338"
+    "War|309d0b27-82ac-37e4-921f-ec9a21207338",
+    "AI|dfe7c0ae-2d11-36a6-850f-87ec1b29faf6",
+    "Watchlist|dfe7c0ae-2d11-36a6-850f-87ec1b29faf6",
+    "AI|https://www.investing.com/news/insider-trading-news/3d-systems-director-thomas-w-erickson-buys-163200-in-stock-93CH-5043316",
+    "AI|https://www.investing.com/news/insider-trading-news/casella-waste-systems-executive-vp-sells-700000-in-stock-93CH-5043317",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/3d-systems-director-thomas-w-erickson-buys-163200-in-stock-93CH-5043316",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/casella-waste-systems-executive-vp-sells-700000-in-stock-93CH-5043317",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/3d-systems-director-thomas-w-erickson-buys-163200-in-stock-93CH-5043316",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/casella-waste-systems-executive-vp-sells-700000-in-stock-93CH-5043317",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/3d-systems-director-thomas-w-erickson-buys-163200-in-stock-93CH-5043316",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/casella-waste-systems-executive-vp-sells-700000-in-stock-93CH-5043317"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795253487.0511005,
+  "last_check": 1795254397.9309864,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-20"
