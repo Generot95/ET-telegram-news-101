@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/economy-news/analysisbojs-ambiguity-on-rate-hike-path-could-tempt-yen-bears-5040426",
-    "AI|https://www.investing.com/news/insider-trading-news/meta-platforms-chief-legal-officer-sells-974375-in-stock-93CH-5040432",
-    "AI|https://www.investing.com/news/insider-trading-news/meta-platforms-cto-andrew-bosworth-sells-49m-in-stock-93CH-5040431",
-    "AI|https://www.investing.com/news/insider-trading-news/enphase-energy-director-rodgers-sells-2315m-in-stock-93CH-5040433",
-    "AI|https://www.investing.com/news/insider-trading-news/ciena-evp-marc-graff-sells-328600-of-cien-stock-93CH-5040435",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/northwest-natural-director-david-anderson-sells-77208-in-shares-93CH-5040425",
-    "Cybersecurity|https://www.investing.com/news/economy-news/analysisbojs-ambiguity-on-rate-hike-path-could-tempt-yen-bears-5040426",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/meta-platforms-chief-legal-officer-sells-974375-in-stock-93CH-5040432",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/meta-platforms-cto-andrew-bosworth-sells-49m-in-stock-93CH-5040431",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/enphase-energy-director-rodgers-sells-2315m-in-stock-93CH-5040433",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/ciena-evp-marc-graff-sells-328600-of-cien-stock-93CH-5040435",
-    "SG Banks|/companies-markets/apple-working-ai-agent-device-control-apps-browsing-and-coding",
     "SG Banks|https://www.investing.com/news/insider-trading-news/northwest-natural-director-david-anderson-sells-77208-in-shares-93CH-5040425",
     "SG Banks|https://www.investing.com/news/economy-news/analysisbojs-ambiguity-on-rate-hike-path-could-tempt-yen-bears-5040426",
     "SG Banks|https://www.investing.com/news/insider-trading-news/meta-platforms-chief-legal-officer-sells-974375-in-stock-93CH-5040432",
@@ -5000,7 +4988,19 @@
     "SG Banks|https://www.straitstimes.com/business/anthropic-ceo-amodei-vacations-at-italian-resort-after-public-listing",
     "War|f5977bb9-0f00-3a8b-9898-f6f9f00f3568",
     "AI|9d86b827-277c-33f4-8a85-859ba2316817",
-    "Watchlist|9d86b827-277c-33f4-8a85-859ba2316817"
+    "Watchlist|9d86b827-277c-33f4-8a85-859ba2316817",
+    "AI|https://www.investing.com/news/insider-trading-news/drilling-tools-director-ira-green-buys-7865-in-dti-stock-93CH-5043291",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/drilling-tools-director-ira-green-buys-7865-in-dti-stock-93CH-5043291",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/drilling-tools-director-ira-green-buys-7865-in-dti-stock-93CH-5043291",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/drilling-tools-director-ira-green-buys-7865-in-dti-stock-93CH-5043291",
+    "AI|https://www.investing.com/news/world-news/analysismyanmars-rohingya-win-landmark-genocide-ruling-but-return-home-remains-distant-5040983",
+    "AI|https://www.investing.com/news/world-news/states-agree-toun-talks-aiming-to-regulate-killer-robots-by-2028-5043189",
+    "Cybersecurity|https://www.investing.com/news/world-news/analysismyanmars-rohingya-win-landmark-genocide-ruling-but-return-home-remains-distant-5040983",
+    "Cybersecurity|https://www.investing.com/news/world-news/states-agree-toun-talks-aiming-to-regulate-killer-robots-by-2028-5043189",
+    "SG Banks|https://www.investing.com/news/world-news/analysismyanmars-rohingya-win-landmark-genocide-ruling-but-return-home-remains-distant-5040983",
+    "SG Banks|https://www.investing.com/news/world-news/states-agree-toun-talks-aiming-to-regulate-killer-robots-by-2028-5043189",
+    "Watchlist|https://www.investing.com/news/world-news/analysismyanmars-rohingya-win-landmark-genocide-ruling-but-return-home-remains-distant-5040983",
+    "Watchlist|https://www.investing.com/news/world-news/states-agree-toun-talks-aiming-to-regulate-killer-robots-by-2028-5043189"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795250721.3564472,
+  "last_check": 1795251664.5352635,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-20"
