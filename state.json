@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-hav-group-posts-weak-q3-2026-as-delays-hit-profit-93CH-5040839",
-    "SG Banks|https://www.investing.com/news/economic-indicators/denmarks-economy-grows-08-in-third-quarter-of-2026-93CH-5040840",
     "Watchlist|https://www.investing.com/news/analyst-ratings/jpmorgan-downgrades-billcom-stock-rating-on-acquisition-deal-93CH-5040821",
     "Watchlist|https://www.investing.com/news/economy-news/uk-borrowing-beats-forecasts-as-healeys-deficit-picture-improves-5040828",
     "Watchlist|https://www.investing.com/news/insider-trading-news/braze-chief-accounting-officer-sells-100322-in-stock-93CH-5040830",
@@ -5000,7 +4998,9 @@
     "Watchlist|937c9cc9-d019-347e-90a4-930523ed44ac",
     "Crypto|16a26420-3e99-3f0a-9a3c-3dea85f0178e",
     "AI|bf074347-e8f5-384d-973d-10634200b7ee",
-    "Watchlist|bf074347-e8f5-384d-973d-10634200b7ee"
+    "Watchlist|bf074347-e8f5-384d-973d-10634200b7ee",
+    "AI|2a3c39bf-1245-3ba6-90e9-29459c37dfd5",
+    "Watchlist|2a3c39bf-1245-3ba6-90e9-29459c37dfd5"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795298508.869886,
+  "last_check": 1795299433.709252,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
