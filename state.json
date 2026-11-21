@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/analyst-ratings/barclays-upgrades-telus-stock-rating-on-potential-deal-activity-93CH-5040852",
-    "SG Banks|https://www.investing.com/news/stock-market-news/barclays-warns-of-further-equity-weakness-as-hawkish-fed-bets-build-5040863",
     "SG Banks|https://www.investing.com/news/company-news/hav-group-q3-2026-slides-delays-hit-profit-backlog-shrinks-93CH-5040879",
     "SG Banks|https://www.investing.com/news/economy-news/factboxglobal-investment-banks-see-chinese-yuans-gradual-appreciation-extending-into-2027-5040886",
     "SG Banks|https://www.investing.com/news/analyst-ratings/macquarie-upgrades-pinduoduo-stock-rating-on-valuation-cost-discipline-93CH-5040887",
@@ -5000,7 +4998,9 @@
     "AI|https://www.investing.com/news/stock-market-news/german-car-and-shipyard-workers-set-to-strike-as-ig-metall-union-extends-walkout-5043609",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/german-car-and-shipyard-workers-set-to-strike-as-ig-metall-union-extends-walkout-5043609",
     "SG Banks|https://www.investing.com/news/stock-market-news/german-car-and-shipyard-workers-set-to-strike-as-ig-metall-union-extends-walkout-5043609",
-    "Watchlist|https://www.investing.com/news/stock-market-news/german-car-and-shipyard-workers-set-to-strike-as-ig-metall-union-extends-walkout-5043609"
+    "Watchlist|https://www.investing.com/news/stock-market-news/german-car-and-shipyard-workers-set-to-strike-as-ig-metall-union-extends-walkout-5043609",
+    "AI|0e197144-8fd0-3afc-9d5c-de15ff65fee9",
+    "Watchlist|0e197144-8fd0-3afc-9d5c-de15ff65fee9"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795303101.8451393,
+  "last_check": 1795304008.6402833,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
