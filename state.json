@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/technipfmc-wins-contracts-for-exxonmobil-guyana-project-93CH-5040065",
-    "Cybersecurity|https://www.investing.com/news/company-news/red-river-bancshares-declares-025-quarterly-dividend-93CH-5040101",
-    "Cybersecurity|https://www.investing.com/news/company-news/cvb-financial-director-obrien-to-retire-after-14-years-93CH-5040103",
-    "Cybersecurity|https://www.investing.com/news/company-news/bankunited-approves-150m-stock-buyback-authorization-93CH-5040102",
-    "Cybersecurity|https://www.investing.com/news/company-news/gitlab-releases-version-196-with-ai-security-features-93CH-5040106",
-    "Cybersecurity|https://www.investing.com/news/company-news/new-zealand-energy-plans-c3m-private-placement-at-c035share-93CH-5040105",
-    "Cybersecurity|https://www.investing.com/news/company-news/curtisswright-expands-2026-buyback-program-by-250-million-93CH-5040104",
-    "SG Banks|https://www.investing.com/news/company-news/avalanche-treasury-q3-2026-slides-profit-soars-as-adoption-grows-93CH-5040111",
-    "SG Banks|https://www.investing.com/news/sec-filings/bellring-brands-appoints-interim-chairperson-as-robert-vitale-takes-medical-leave-93CH-5040113",
     "SG Banks|https://www.investing.com/news/stock-market-news/anthropic-set-to-soar-in-debut-will-ai-peers-follow-5039533",
     "SG Banks|https://www.investing.com/news/earnings/globant-stock-gains-despite-weak-fourth-quarter-guidance-5040114",
     "SG Banks|https://www.investing.com/news/transcripts/conavi-medical-at-small-cap-growth-virtual-conference-launch-gains-traction-93CH-5040116",
@@ -5000,7 +4991,16 @@
     "Cybersecurity|6ad57889-68e7-393a-836e-1d70098a15da",
     "Watchlist|6ad57889-68e7-393a-836e-1d70098a15da",
     "AI|6ad57889-68e7-393a-836e-1d70098a15da",
-    "Watchlist|507c7941-c0c0-3cf3-8423-1a2c0205025f"
+    "Watchlist|507c7941-c0c0-3cf3-8423-1a2c0205025f",
+    "Cybersecurity|791d6f3f-082c-3dc3-bf67-91d022d35b75",
+    "AI|36e3247f-d7ff-31f9-98e3-d0b49074f848",
+    "Watchlist|36e3247f-d7ff-31f9-98e3-d0b49074f848",
+    "AI|f039df47-c8a8-3b18-8eaa-f5b1b37829f6",
+    "SG Banks|ce8b5c57-06af-3705-9c61-09d11c14e6c3",
+    "Watchlist|f039df47-c8a8-3b18-8eaa-f5b1b37829f6",
+    "AI|796eac3e-2a49-340b-8fc5-c1f999276b7c",
+    "Watchlist|796eac3e-2a49-340b-8fc5-c1f999276b7c",
+    "Iran|https://www.iranintl.com/en/202611208412"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795219483.136772,
+  "last_check": 1795220406.612463,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-20"
