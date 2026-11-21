@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/this-discount-retailer-is-among-td-cowens-best-ideas-for-2027-5040777",
-    "AI|https://www.investing.com/news/earnings/vallourec-sees-q4-ebitda-below-expectations-as-middle-east-disruption-hits-margins-5040778",
-    "AI|https://www.investing.com/news/analyst-ratings/td-cowen-upgrades-expeditors-stock-rating-on-productivity-gains-93CH-5040779",
-    "AI|https://www.investing.com/news/analyst-ratings/baird-downgrades-insulet-stock-rating-on-market-share-concerns-93CH-5040780",
-    "AI|https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-477-5040783",
     "AI|https://www.investing.com/news/insider-trading-news/nomad-power-solutions-director-buys-14270-in-shares-93CH-5040790",
     "AI|https://www.investing.com/news/insider-trading-news/akamai-technologies-evp-sells-264802-in-common-stock-93CH-5040791",
     "AI|https://www.investing.com/news/insider-trading-news/wex-director-lauren-taylor-wolfe-sells-29-million-in-stock-93CH-5040792",
@@ -5000,7 +4995,12 @@
     "SG Banks|/property/motoring-tycoon-peter-kwee-back-court-here-are-his-previous-legal-battles",
     "War|f04d138c-5e62-31e4-882e-68a57b15b6a2",
     "Watchlist|c54d365f-5955-31f3-ab78-b391edcf9928",
-    "Watchlist|/property/motoring-tycoon-peter-kwee-back-court-here-are-his-previous-legal-battles"
+    "Watchlist|/property/motoring-tycoon-peter-kwee-back-court-here-are-his-previous-legal-battles",
+    "AI|62d603ee-f3ad-31af-bb0c-404a31696c9c",
+    "AI|88599711-f77b-3118-8de7-e07570f9f113",
+    "Watchlist|88599711-f77b-3118-8de7-e07570f9f113",
+    "Watchlist|62d603ee-f3ad-31af-bb0c-404a31696c9c",
+    "Watchlist|cd6616a9-2687-39df-893f-6342a5ff3dca"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795291168.195144,
+  "last_check": 1795292089.8182957,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
