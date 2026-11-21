@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|91a024bc-98a2-3a19-9ee8-eee52e58dcfc",
-    "AI|57050db3-4d78-349a-90fe-337019698b82",
-    "Watchlist|57050db3-4d78-349a-90fe-337019698b82",
-    "AI|https://www.investing.com/news/insider-trading-news/seer-vp-financial-planning-analysis-sells-3578-in-stock-93CH-5040414",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/seer-vp-financial-planning-analysis-sells-3578-in-stock-93CH-5040414",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/uk-has-imposed-an-order-demanding-access-to-apple-data-uk-tribunal-says-5039030",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/seer-vp-financial-planning-analysis-sells-3578-in-stock-93CH-5040414",
-    "SG Banks|https://www.investing.com/news/stock-market-news/uk-has-imposed-an-order-demanding-access-to-apple-data-uk-tribunal-says-5039030",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/seer-vp-financial-planning-analysis-sells-3578-in-stock-93CH-5040414",
-    "Watchlist|https://www.investing.com/news/stock-market-news/uk-has-imposed-an-order-demanding-access-to-apple-data-uk-tribunal-says-5039030",
-    "War|https://www.investing.com/news/commodities-news/oil-prices-rise-as-report-says-trump-considering-more-iran-strikes-5037588",
     "War|e648a13e-0343-3583-9300-a384f2514867",
     "Watchlist|906b8bb1-ef2d-3da5-b7d5-4ee925d2801f",
     "War|cc8659fc-4bf6-3508-8076-a509b26ebded",
@@ -5000,7 +4989,18 @@
     "Cybersecurity|8398b5bd-c714-3682-8459-996f20ed410e",
     "Watchlist|8398b5bd-c714-3682-8459-996f20ed410e",
     "SG Banks|/companies-markets/stocks-watch-keppel-infrastructure-trust-elite-uk-reit-thakral-katrina",
-    "Watchlist|/companies-markets/stocks-watch-keppel-infrastructure-trust-elite-uk-reit-thakral-katrina"
+    "Watchlist|/companies-markets/stocks-watch-keppel-infrastructure-trust-elite-uk-reit-thakral-katrina",
+    "AI|https://www.investing.com/news/insider-trading-news/rigetti-computing-cfo-jeffrey-bertelsen-sells-30996-in-stock-93CH-5043265",
+    "AI|https://www.investing.com/news/stock-market-news/south-koreas-lee-urges-faster-ai-investment-during-52bn-data-center-visit-5043267",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/rigetti-computing-cfo-jeffrey-bertelsen-sells-30996-in-stock-93CH-5043265",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/south-koreas-lee-urges-faster-ai-investment-during-52bn-data-center-visit-5043267",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/rigetti-computing-cfo-jeffrey-bertelsen-sells-30996-in-stock-93CH-5043265",
+    "SG Banks|https://www.investing.com/news/stock-market-news/south-koreas-lee-urges-faster-ai-investment-during-52bn-data-center-visit-5043267",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/rigetti-computing-cfo-jeffrey-bertelsen-sells-30996-in-stock-93CH-5043265",
+    "Watchlist|https://www.investing.com/news/stock-market-news/south-koreas-lee-urges-faster-ai-investment-during-52bn-data-center-visit-5043267",
+    "SG Banks|https://www.straitstimes.com/business/bitcoin-falls-to-more-than-2-year-low-as-global-markets-sink",
+    "AI|1dd64c81-62c9-3847-bad9-28e62051712c",
+    "Watchlist|1dd64c81-62c9-3847-bad9-28e62051712c"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795247069.7104833,
+  "last_check": 1795247991.7937944,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-20"
