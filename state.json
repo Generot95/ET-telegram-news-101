@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/hav-group-q3-2026-slides-delays-hit-profit-backlog-shrinks-93CH-5040879",
-    "SG Banks|https://www.investing.com/news/economy-news/factboxglobal-investment-banks-see-chinese-yuans-gradual-appreciation-extending-into-2027-5040886",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/macquarie-upgrades-pinduoduo-stock-rating-on-valuation-cost-discipline-93CH-5040887",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/trisalus-director-gary-b-gordon-acquires-22000-in-common-stock-93CH-5040888",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/acrivon-therapeutics-coo-eric-devroe-sells-910-in-stock-93CH-5040893",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/venture-global-cfo-jonathan-thayer-sells-27m-in-stock-93CH-5040894",
-    "SG Banks|https://www.investing.com/news/stock-market-news/european-shares-near-1month-lows-as-anthropics-debut-fails-to-halt-tech-rout-5040695",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/barclays-upgrades-telus-stock-rating-on-potential-deal-activity-93CH-5040852",
-    "Watchlist|https://www.investing.com/news/stock-market-news/barclays-warns-of-further-equity-weakness-as-hawkish-fed-bets-build-5040863",
-    "Watchlist|https://www.investing.com/news/company-news/hav-group-q3-2026-slides-delays-hit-profit-backlog-shrinks-93CH-5040879",
-    "Watchlist|https://www.investing.com/news/economy-news/factboxglobal-investment-banks-see-chinese-yuans-gradual-appreciation-extending-into-2027-5040886",
     "Watchlist|https://www.investing.com/news/analyst-ratings/macquarie-upgrades-pinduoduo-stock-rating-on-valuation-cost-discipline-93CH-5040887",
     "Watchlist|https://www.investing.com/news/insider-trading-news/trisalus-director-gary-b-gordon-acquires-22000-in-common-stock-93CH-5040888",
     "Watchlist|https://www.investing.com/news/insider-trading-news/acrivon-therapeutics-coo-eric-devroe-sells-910-in-stock-93CH-5040893",
@@ -5000,7 +4989,18 @@
     "SG Banks|https://www.investing.com/news/stock-market-news/german-car-and-shipyard-workers-set-to-strike-as-ig-metall-union-extends-walkout-5043609",
     "Watchlist|https://www.investing.com/news/stock-market-news/german-car-and-shipyard-workers-set-to-strike-as-ig-metall-union-extends-walkout-5043609",
     "AI|0e197144-8fd0-3afc-9d5c-de15ff65fee9",
-    "Watchlist|0e197144-8fd0-3afc-9d5c-de15ff65fee9"
+    "Watchlist|0e197144-8fd0-3afc-9d5c-de15ff65fee9",
+    "AI|https://www.investing.com/news/insider-trading-news/cnb-financial-sevp-leanne-kassab-sells-44653-in-common-stock-93CH-5043615",
+    "AI|https://www.investing.com/news/insider-trading-news/starwood-property-trust-director-zelnick-buys-202-million-in-shares-93CH-5043616",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/cnb-financial-sevp-leanne-kassab-sells-44653-in-common-stock-93CH-5043615",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/starwood-property-trust-director-zelnick-buys-202-million-in-shares-93CH-5043616",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/cnb-financial-sevp-leanne-kassab-sells-44653-in-common-stock-93CH-5043615",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/starwood-property-trust-director-zelnick-buys-202-million-in-shares-93CH-5043616",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/cnb-financial-sevp-leanne-kassab-sells-44653-in-common-stock-93CH-5043615",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/starwood-property-trust-director-zelnick-buys-202-million-in-shares-93CH-5043616",
+    "Cybersecurity|7dd71dc6-0f75-3461-af1f-4c01dc2f0caf",
+    "AI|2c415088-48e4-307f-98e4-132d44e8d92d",
+    "Watchlist|2c415088-48e4-307f-98e4-132d44e8d92d"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795304008.6402833,
+  "last_check": 1795304938.024153,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
