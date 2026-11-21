@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/ubs-sees-deutsche-boerse-shares-overvalued-after-49-rally-5040759",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-hits-near-5mth-low-below-62k-as-ai-rout-batters-risk-appetite-5040746",
-    "Cybersecurity|https://www.investing.com/news/cryptocurrency-news/bitcoin-hits-near-5mth-low-below-62k-as-ai-rout-batters-risk-appetite-5040746",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/first-united-director-shawn-bender-buys-99999-in-company-stock-93CH-5040747",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/fastly-cfo-richard-wong-sells-875687-in-company-stock-93CH-5040748",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/fastly-cto-artur-bergman-sells-123-million-in-company-stock-93CH-5040749",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/fastly-ceo-charles-compton-sells-931k-in-stock-93CH-5040750",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/td-cowen-upgrades-humana-stock-rating-on-earnings-outlook-93CH-5040751",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/fastly-president-scott-lovett-sells-239517-in-stock-93CH-5040758",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/ubs-sees-deutsche-boerse-shares-overvalued-after-49-rally-5040759",
     "SG Banks|https://www.investing.com/news/cryptocurrency-news/bitcoin-hits-near-5mth-low-below-62k-as-ai-rout-batters-risk-appetite-5040746",
@@ -5000,7 +4992,15 @@
     "Watchlist|e3687c0f-e6a2-376b-bb34-9a202b8a3fcc",
     "Watchlist|d6b079b6-1db7-3392-b9d2-7cfb81740e6f",
     "War|1e4c4fe1-3441-3057-a492-d93365305794",
-    "AI|fca47b3c-ad2d-3ac3-8392-d87cb076c6f2"
+    "AI|fca47b3c-ad2d-3ac3-8392-d87cb076c6f2",
+    "AI|https://www.investing.com/news/economy-news/trump-orders-contractors-to-report-congress-inquiries-5043559",
+    "Cybersecurity|https://www.investing.com/news/economy-news/trump-orders-contractors-to-report-congress-inquiries-5043559",
+    "SG Banks|https://www.investing.com/news/economy-news/trump-orders-contractors-to-report-congress-inquiries-5043559",
+    "Watchlist|https://www.investing.com/news/economy-news/trump-orders-contractors-to-report-congress-inquiries-5043559",
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-hits-near-5mth-low-below-62k-as-ai-rout-batters-risk-appetite-5040746",
+    "War|WP-MKTW-0005350598",
+    "AI|WP-MKTW-0005350598",
+    "Cybersecurity|WP-MKTW-0005350598"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795288421.0634174,
+  "last_check": 1795289323.2986753,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
