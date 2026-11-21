@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/yesway-prices-secondary-offering-of-5-million-shares-at-19-93CH-5040580",
-    "AI|https://www.investing.com/news/commodities-news/us-senate-passes-bipartisan-bill-to-speed-energy-infrastructure-projects-5040581",
-    "AI|https://www.investing.com/news/insider-trading-news/appfolio-ceo-william-shane-trigg-sells-442942-in-stock-93CH-5040587",
-    "AI|https://www.investing.com/news/insider-trading-news/proficient-auto-logistics-director-col-buys-84300-in-stock-93CH-5040588",
-    "AI|https://www.investing.com/news/insider-trading-news/proficient-auto-logistics-director-john-schraudenbach-buys-78120-in-shares-93CH-5040589",
-    "AI|https://www.investing.com/news/stock-market-news/spacex-lenders-seek-safeguards-against-musk-sending-ai-chips-into-space--ft-5040555",
-    "AI|https://www.investing.com/news/stock-market-news/doj-closes-antitrust-probe-into-nexteras-668-bln-dominion-deal-5040556",
-    "AI|https://www.investing.com/news/stock-market-news/82-65-62-green-in-a-red-market-3-aipicked-stocks-still-climbing-5040557",
     "AI|https://www.investing.com/news/stock-market-news/asia-stocks-slide-to-7mth-low-with-skorea-taiwan-worst-hit-by-ai-rout-5040572",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/biomarin-evp-chief-rd-officer-sells-302710-in-company-stock-93CH-5040576",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/matson-svp-kuuhaku-park-sells-320835-in-shares-93CH-5040577",
@@ -5000,7 +4992,15 @@
     "SG Banks|https://www.investing.com/news/economy-news/goldman-upgrades-china-hshares-on-faster-earnings-growth-outlook-5043437",
     "SG Banks|https://www.investing.com/news/insider-trading-news/bank-of-america-buys-sells-nuveen-minnesota-shares-for-1953-1945-93CH-5043441",
     "Watchlist|https://www.investing.com/news/economy-news/goldman-upgrades-china-hshares-on-faster-earnings-growth-outlook-5043437",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/bank-of-america-buys-sells-nuveen-minnesota-shares-for-1953-1945-93CH-5043441"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/bank-of-america-buys-sells-nuveen-minnesota-shares-for-1953-1945-93CH-5043441",
+    "War|https://www.investing.com/news/commodities-news/us-senate-passes-bipartisan-bill-to-speed-energy-infrastructure-projects-5040581",
+    "AI|0cac4feb-1112-3235-8176-86313cc3668e",
+    "AI|a63c2b75-4de7-3c9d-a4a0-a4b4b0cb9731",
+    "Watchlist|0cac4feb-1112-3235-8176-86313cc3668e",
+    "Watchlist|a63c2b75-4de7-3c9d-a4a0-a4b4b0cb9731",
+    "AI|e175e7b0-4e65-3af8-abe8-162ca1fce0ee",
+    "Watchlist|e175e7b0-4e65-3af8-abe8-162ca1fce0ee",
+    "Crypto|ca60feaf-e349-37c4-9d9f-abec549e8b01"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795266366.197639,
+  "last_check": 1795267280.7809746,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
