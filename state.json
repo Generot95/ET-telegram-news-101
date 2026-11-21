@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "War|e648a13e-0343-3583-9300-a384f2514867",
-    "Watchlist|906b8bb1-ef2d-3da5-b7d5-4ee925d2801f",
-    "War|cc8659fc-4bf6-3508-8076-a509b26ebded",
-    "SG Banks|/international/alibaba-sued-allegedly-hiding-ties-suspected-spy-alice-huang-megaspeed",
-    "Watchlist|/international/alibaba-sued-allegedly-hiding-ties-suspected-spy-alice-huang-megaspeed",
-    "SG Banks|https://www.channelnewsasia.com/business/analysisbojs-ambiguity-rate-hike-path-could-tempt-yen-bears-6567736",
-    "AI|9de7b0f5-9f41-379a-b2ce-65ca31096c4b",
     "AI|b712d93e-98d6-3789-9379-e27af6d23f6b",
     "Watchlist|b712d93e-98d6-3789-9379-e27af6d23f6b",
     "AI|889b1eb1-081d-3b8c-9013-2c45ab818f77",
@@ -5000,7 +4993,14 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/south-koreas-lee-urges-faster-ai-investment-during-52bn-data-center-visit-5043267",
     "SG Banks|https://www.straitstimes.com/business/bitcoin-falls-to-more-than-2-year-low-as-global-markets-sink",
     "AI|1dd64c81-62c9-3847-bad9-28e62051712c",
-    "Watchlist|1dd64c81-62c9-3847-bad9-28e62051712c"
+    "Watchlist|1dd64c81-62c9-3847-bad9-28e62051712c",
+    "Watchlist|5840abaa-c9bd-316b-86d2-743598631600",
+    "AI|a4c2dc93-0ccb-31b1-939b-ed05970b8e06",
+    "Watchlist|a4c2dc93-0ccb-31b1-939b-ed05970b8e06",
+    "AI|https://www.investing.com/news/economy-news/iran-war-sees-tanker-hit-near-hormuz-as-saudi-arabia-intercepts-houthi-missiles-5043277",
+    "Cybersecurity|https://www.investing.com/news/economy-news/iran-war-sees-tanker-hit-near-hormuz-as-saudi-arabia-intercepts-houthi-missiles-5043277",
+    "SG Banks|https://www.investing.com/news/economy-news/iran-war-sees-tanker-hit-near-hormuz-as-saudi-arabia-intercepts-houthi-missiles-5043277",
+    "Watchlist|https://www.investing.com/news/economy-news/iran-war-sees-tanker-hit-near-hormuz-as-saudi-arabia-intercepts-houthi-missiles-5043277"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795248910.911286,
+  "last_check": 1795249821.3055909,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-20"
