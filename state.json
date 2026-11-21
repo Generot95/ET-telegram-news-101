@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|085d3c14-7ae6-3dc0-9813-2120148a2ccd",
-    "Watchlist|c4255d5c-5bd9-305f-b1be-770e273d435b",
-    "Watchlist|641e674a-7f82-3108-9301-e1415a1d0042",
-    "AI|https://www.investing.com/news/company-news/avnet-declares-037-quarterly-dividend-payable-in-december-93CH-5040436",
-    "AI|https://www.investing.com/news/insider-trading-news/meta-cfo-susan-li-sells-572-million-in-company-stock-93CH-5040442",
-    "AI|https://www.investing.com/news/insider-trading-news/tango-therapeutics-director-john-b-ketchum-sells-80258-in-shares-93CH-5040444",
     "AI|https://www.investing.com/news/insider-trading-news/apple-svp-jennifer-newstead-sells-845942-in-company-stock-93CH-5040445",
     "AI|https://www.investing.com/news/company-news/cathie-woods-ark-buys-anthropic-stock-sells-nvidia-and-adaptive-bio-93CH-5040446",
     "AI|https://www.investing.com/news/stock-market-news/wall-street-futures-fall-as-anthropic-debut-fails-to-revive-ai-trade-5040450",
@@ -5000,7 +4994,13 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/3d-systems-director-thomas-w-erickson-buys-163200-in-stock-93CH-5043316",
     "SG Banks|https://www.investing.com/news/insider-trading-news/casella-waste-systems-executive-vp-sells-700000-in-stock-93CH-5043317",
     "Watchlist|https://www.investing.com/news/insider-trading-news/3d-systems-director-thomas-w-erickson-buys-163200-in-stock-93CH-5043316",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/casella-waste-systems-executive-vp-sells-700000-in-stock-93CH-5043317"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/casella-waste-systems-executive-vp-sells-700000-in-stock-93CH-5043317",
+    "AI|7d98f306-742f-3210-95cc-782dd3b154d7",
+    "Watchlist|7d98f306-742f-3210-95cc-782dd3b154d7",
+    "AI|69087ea5-6a7b-3d3a-8e1b-1b6306af878e",
+    "Watchlist|69087ea5-6a7b-3d3a-8e1b-1b6306af878e",
+    "AI|4011fdb8-00af-3e61-b19a-2fae3f8eede2",
+    "Watchlist|4011fdb8-00af-3e61-b19a-2fae3f8eede2"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795254397.9309864,
+  "last_check": 1795255340.842331,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-20"
