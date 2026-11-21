@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/heartflow-chief-medical-officer-campbell-rogers-sells-over-42-million-in-shares-93CH-5040395",
-    "Watchlist|https://www.investing.com/news/company-news/guardforce-ai-completes-1for40-reverse-stock-split-93CH-5040400",
-    "Watchlist|https://www.investing.com/news/stock-market-news/trump-cyber-director-sean-cairncross-to-leave-post-axios-93CH-5040401",
-    "Watchlist|https://www.investing.com/news/stock-market-news/citigroup-misbooked-trades-at-european-unit-underestimated-risk-by-35-bln-reuters-reports-93CH-5040402",
-    "SG Banks|/companies-markets/banking-finance/chinas-central-bank-withdraws-medium-term-funds-warning-sign-easing-bets",
-    "Crypto|85602a71-4783-373d-b837-01e1c5d59b6c",
     "AI|874240b1-ebfb-3dbb-9ce3-886975f6fba8",
     "SG Banks|https://www.straitstimes.com/business/bank-of-japan-governor-says-central-bank-should-keep-raising-rates",
     "Watchlist|874240b1-ebfb-3dbb-9ce3-886975f6fba8",
@@ -5000,7 +4994,13 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/donegal-group-sr-vp-pandey-sells-17355-in-stock-93CH-5043254",
     "Watchlist|https://www.investing.com/news/insider-trading-news/rigetti-cto-andrew-bestwick-sells-219551-in-shares-93CH-5043253",
     "War|0f629b6e-269b-314a-82ee-02806b102cf4",
-    "Watchlist|/companies-markets/dbs-and-circle-expand-asia-institutional-access-usdc-stablecoins"
+    "Watchlist|/companies-markets/dbs-and-circle-expand-asia-institutional-access-usdc-stablecoins",
+    "AI|1845c770-6a92-3707-a1cb-c559c045171e",
+    "Watchlist|1845c770-6a92-3707-a1cb-c559c045171e",
+    "AI|d084afd2-564f-3bcd-b559-3c74657b1c0c",
+    "Watchlist|d084afd2-564f-3bcd-b559-3c74657b1c0c",
+    "Crypto|dc952d19-0692-30fe-889a-9e9fe6ec9bf2",
+    "SG Banks|/companies-markets/banking-finance/chinas-central-bank-withdraws-medium-term-funds-warning-sign-easing-bets"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795245217.3529856,
+  "last_check": 1795246140.9341304,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-20"
