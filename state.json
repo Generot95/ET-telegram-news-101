@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/analyst-ratings/jpmorgan-downgrades-eastman-chemical-stock-rating-on-valuation-93CH-5040816",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/jpmorgan-downgrades-valvoline-stock-rating-on-volume-concerns-93CH-5040817",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/baird-downgrades-grainger-stock-rating-on-valuation-concerns-93CH-5040798",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/ubs-downgrades-billcom-stock-rating-on-tpg-acquisition-agreement-93CH-5040799",
-    "Watchlist|https://www.investing.com/news/stock-market-news/as-tech-stocks-go-on-sale-dont-wait-for-black-friday-to-get-55-off-investingpro-5040802",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/td-cowen-downgrades-billcom-stock-rating-on-tpg-acquisition-deal-93CH-5040805",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/zomedica-director-johnny-powers-buys-14525-in-company-stock-93CH-5040810",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/braze-ceo-william-magnuson-sells-2195764-in-company-stock-93CH-5040811",
-    "Watchlist|https://www.investing.com/news/economy-news/uk-retail-sales-rise-07-in-october-beating-forecasts-5040801",
     "Watchlist|https://www.investing.com/news/analyst-ratings/jpmorgan-downgrades-eastman-chemical-stock-rating-on-valuation-93CH-5040816",
     "Watchlist|https://www.investing.com/news/analyst-ratings/jpmorgan-downgrades-valvoline-stock-rating-on-volume-concerns-93CH-5040817",
     "Crypto|https://www.investing.com/news/cryptocurrency-news/my-wallet-introduces-11-crosschain-stablecoin-swaps-after-being-listed-first-on-walletconnect-5038054",
@@ -5000,7 +4991,16 @@
     "AI|https://www.investing.com/news/insider-trading-news/origin-bancorp-director-michael-jones-buys-78660-in-shares-93CH-5043579",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/origin-bancorp-director-michael-jones-buys-78660-in-shares-93CH-5043579",
     "SG Banks|https://www.investing.com/news/insider-trading-news/origin-bancorp-director-michael-jones-buys-78660-in-shares-93CH-5043579",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/origin-bancorp-director-michael-jones-buys-78660-in-shares-93CH-5043579"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/origin-bancorp-director-michael-jones-buys-78660-in-shares-93CH-5043579",
+    "AI|c07471ca-8a5d-3692-9bc9-f3b6dd183b3f",
+    "AI|9cfe80ce-0147-361b-9652-7820b689093b",
+    "Watchlist|c07471ca-8a5d-3692-9bc9-f3b6dd183b3f",
+    "Watchlist|9cfe80ce-0147-361b-9652-7820b689093b",
+    "SG Banks|https://www.straitstimes.com/business/invest/when-a-woman-stops-her-brother-from-living-in-a-house-they-co-own",
+    "SG Banks|https://www.straitstimes.com/business/he-gave-up-the-iron-rice-bowl-and-sold-his-condo-to-chase-his-business-dreams",
+    "Iran|https://www.iranintl.com/en/202611219295",
+    "AI|7877532d-2aa0-305e-a233-cd5b989ef8c2",
+    "Watchlist|7877532d-2aa0-305e-a233-cd5b989ef8c2"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795294852.0386243,
+  "last_check": 1795295768.5706375,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
