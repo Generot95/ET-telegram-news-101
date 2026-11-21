@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Iran|https://www.iranintl.com/en/202611205946",
-    "AI|c82766e6-ccea-3da6-b9ff-50fba01eb1f6",
-    "Watchlist|c82766e6-ccea-3da6-b9ff-50fba01eb1f6",
-    "Watchlist|4acf713d-4cf5-3338-b4e9-532d94504dfd",
-    "SG Banks|/companies-markets/sti-drops-below-5000-points-regional-markets-also-track-losses-across-wall-street",
-    "Watchlist|/companies-markets/sti-drops-below-5000-points-regional-markets-also-track-losses-across-wall-street",
-    "AI|a16b639e-1a11-3508-932e-4edaee41fda5",
-    "Watchlist|a16b639e-1a11-3508-932e-4edaee41fda5",
-    "AI|7027d9af-209b-3e5d-b316-232469bd3cd9",
-    "Watchlist|7027d9af-209b-3e5d-b316-232469bd3cd9",
     "SG Banks|/companies-markets/energy-commodities/singapore-takes-prosper-thy-neighbour-approach-asean-energy-trade-tan-see-leng",
     "Watchlist|/companies-markets/energy-commodities/singapore-takes-prosper-thy-neighbour-approach-asean-energy-trade-tan-see-leng",
     "AI|https://www.investing.com/news/insider-trading-news/black-stone-minerals-executive-chairman-buys-337587-in-units-93CH-5040618",
@@ -5000,7 +4990,17 @@
     "Watchlist|b582565e-6bfe-3731-a2e0-7b4614593f4c",
     "Watchlist|c7b1bb75-4a9c-3fb7-b8e9-75bafa5a5eff",
     "Watchlist|https://www.investing.com/news/insider-trading-news/first-national-corp-director-boyce-brannock-buys-8691-in-stock-93CH-5043470",
-    "Watchlist|https://www.investing.com/news/economy-news/eu-budget-chief-proposes-40-bln-cut-and-digital-tax-plan-5043471"
+    "Watchlist|https://www.investing.com/news/economy-news/eu-budget-chief-proposes-40-bln-cut-and-digital-tax-plan-5043471",
+    "SG Banks|/companies-markets/banking-finance/boj-chief-plays-down-soft-consumption-data-signals-near-term-rate-hike",
+    "Watchlist|/companies-markets/banking-finance/boj-chief-plays-down-soft-consumption-data-signals-near-term-rate-hike",
+    "Iran|https://www.iranintl.com/en/202611205946",
+    "Watchlist|109dad5c-ecaa-3dbe-92ae-2808a39e72a8",
+    "AI|5b192ab7-3d64-3a9d-a367-23f82dacefa3",
+    "Watchlist|5b192ab7-3d64-3a9d-a367-23f82dacefa3",
+    "AI|1872a204-caa0-3c0c-aabd-d55545e8b64d",
+    "SG Banks|/companies-markets/sti-drops-below-5000-points-regional-markets-also-track-losses-across-wall-street",
+    "Watchlist|1872a204-caa0-3c0c-aabd-d55545e8b64d",
+    "Watchlist|/companies-markets/sti-drops-below-5000-points-regional-markets-also-track-losses-across-wall-street"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795270015.3973858,
+  "last_check": 1795270940.3116539,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
