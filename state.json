@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/trump-says-he-and-chinas-xi-want-moderate-ai-rules-5040256",
-    "AI|https://www.investing.com/news/sec-filings/stewards-inc-cancels-7-million-common-shares-issues-series-d-preferred-stock-93CH-5040258",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-globant-q3-2026-revenue-tops-guidance-as-ai-gains-93CH-5040261",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-intuit-tops-q1-2027-estimates-but-shares-fall-93CH-5040262",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-esco-technologies-tops-q4-2026-estimates-shares-rise-93CH-5040263",
-    "AI|https://www.investing.com/news/sec-filings/geovax-labs-announces-executive-changes-appoints-interim-cfo-and-ceo-93CH-5040264",
-    "AI|https://www.investing.com/news/company-news/turners-automotive-1h27-slides-finance-growth-offsets-retail-pressure-93CH-5040265",
-    "AI|https://www.investing.com/news/company-news/keysight-q4-fy2026-slides-record-year-with-49-order-growth-93CH-5040266",
-    "AI|https://www.investing.com/news/stock-market-news/us-treasury-yields-slip-on-safehaven-bid-10year-posts-fourday-losing-streak-5040235",
-    "AI|https://www.investing.com/news/stock-market-news/bassett-furniture-stock-falls-on-ceo-succession-announcement-5040236",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/trump-says-he-and-chinas-xi-want-moderate-ai-rules-5040256",
     "Cybersecurity|https://www.investing.com/news/sec-filings/stewards-inc-cancels-7-million-common-shares-issues-series-d-preferred-stock-93CH-5040258",
     "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-globant-q3-2026-revenue-tops-guidance-as-ai-gains-93CH-5040261",
@@ -5000,7 +4990,17 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/upstart-holdings-chief-accounting-officer-sells-9156-in-stock-93CH-5043028",
     "Watchlist|https://www.investing.com/news/stock-market-news/us-was-warned-of-telecom-security-risks-years-before-salt-typhoon-5043030",
     "Watchlist|https://www.investing.com/news/insider-trading-news/virtuix-holdings-ceo-buys-9740-in-company-stock-93CH-5043041",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/home-bancorp-chief-risk-officer-buys-315013-in-company-stock-93CH-5043042"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/home-bancorp-chief-risk-officer-buys-315013-in-company-stock-93CH-5043042",
+    "AI|6363eb88-a754-3774-9d11-c0fe55de36ff",
+    "SG Banks|7f2d0a30-a8f0-38c8-9b2b-8daaa8123ff8",
+    "SG Banks|b0cc1003-30a2-3bc3-9e3f-767a14ec0920",
+    "SG Banks|532c4a86-1f63-38dd-92d1-bcc03732902f",
+    "Watchlist|6363eb88-a754-3774-9d11-c0fe55de36ff",
+    "SG Banks|/companies-markets/transport-logistics/honda-toyota-recall-1-6-million-vehicles-over-takata-airbag-rupture-risk",
+    "Watchlist|/companies-markets/transport-logistics/honda-toyota-recall-1-6-million-vehicles-over-takata-airbag-rupture-risk",
+    "Watchlist|4cad4d7c-172c-359b-8f2e-bec26914e129",
+    "AI|adaaae70-60f8-38da-805d-cbbb5861b630",
+    "Watchlist|adaaae70-60f8-38da-805d-cbbb5861b630"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795226840.0875149,
+  "last_check": 1795227765.2990575,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-20"
