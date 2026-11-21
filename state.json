@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/economic-indicators/japan-cpi-inflation-rises-in-oct-core-print-slightly-ducks-estimates-5040353",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/magnite-director-paul-caine-sells-500853-in-shares-93CH-5040354",
     "SG Banks|https://www.investing.com/news/economy-news/japans-core-inflation-accelerates-in-october-cementing-rate-hike-expectations-5040357",
     "SG Banks|https://www.investing.com/news/transcripts/select-water-solutions-at-southwest-ideas-conference-shift-to-infrastructure-93CH-5040359",
     "SG Banks|https://www.investing.com/news/insider-trading-news/aeye-director-jonathon-husby-buys-25058-in-common-stock-93CH-5040367",
@@ -5000,7 +4998,9 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/avis-budget-group-evp-linnen-sells-925530-in-shares-93CH-5043222",
     "Watchlist|https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-10-in-rout-5043212",
     "Watchlist|https://www.investing.com/news/insider-trading-news/riskified-director-erez-shachar-sells-253781-in-shares-93CH-5043221",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/avis-budget-group-evp-linnen-sells-925530-in-shares-93CH-5043222"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/avis-budget-group-evp-linnen-sells-925530-in-shares-93CH-5043222",
+    "AI|499c3011-586c-3ffd-a3a4-140326c07163",
+    "Watchlist|499c3011-586c-3ffd-a3a4-140326c07163"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795242465.0760157,
+  "last_check": 1795243380.1782641,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-20"
