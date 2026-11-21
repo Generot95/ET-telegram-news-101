@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/insider-trading-news/broadwood-partners-buys-6m-in-insight-molecular-diagnostics-93CH-5040332",
-    "AI|https://www.investing.com/news/insider-trading-news/broadwood-partners-lp-buys-770700-in-lineage-cell-therapeutics-stock-93CH-5040333",
-    "AI|https://www.investing.com/news/economy-news/feds-paulson-says-understanding-not-guidance-drives-effective-communication-5040341",
-    "AI|https://www.investing.com/news/stock-market-news/exclusivecitiincorrectly-booked-trades-underestimatedrisky-assets-by-35-billion-sources-say-5040342",
-    "AI|https://www.investing.com/news/economic-indicators/japan-oct-core-cpi-rises-22-yryr-5040343",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/exclusivetrump-administration-weighs-forcing-us-firms-to-disclose-chinese-ai-use-5035455",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/fortress-biotech-ceo-rosenwald-acquires-252583-in-company-stock-93CH-5040331",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-67493-in-highland-opportunities--income-fund-93CH-5040330",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/broadwood-partners-buys-6m-in-insight-molecular-diagnostics-93CH-5040332",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/broadwood-partners-lp-buys-770700-in-lineage-cell-therapeutics-stock-93CH-5040333",
     "Cybersecurity|https://www.investing.com/news/economy-news/feds-paulson-says-understanding-not-guidance-drives-effective-communication-5040341",
@@ -5000,7 +4992,15 @@
     "Iran|https://www.iranintl.com/en/202611183106",
     "SG Banks|/companies-markets/stocks-watch-yangzijiang-shipbuilding-seatrium-frencken",
     "Watchlist|/companies-markets/stocks-watch-yangzijiang-shipbuilding-seatrium-frencken",
-    "War|dafe363c-86f6-3abe-abd7-d2913f2e3e61"
+    "War|dafe363c-86f6-3abe-abd7-d2913f2e3e61",
+    "AI|https://www.investing.com/news/insider-trading-news/aeon-biopharma-clo-purchases-17478-in-company-stock-93CH-5043177",
+    "AI|https://www.investing.com/news/insider-trading-news/morningstars-executive-chairman-joseph-d-mansueto-sells-17m-in-shares-93CH-5043178",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/aeon-biopharma-clo-purchases-17478-in-company-stock-93CH-5043177",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/morningstars-executive-chairman-joseph-d-mansueto-sells-17m-in-shares-93CH-5043178",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/aeon-biopharma-clo-purchases-17478-in-company-stock-93CH-5043177",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/morningstars-executive-chairman-joseph-d-mansueto-sells-17m-in-shares-93CH-5043178",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/aeon-biopharma-clo-purchases-17478-in-company-stock-93CH-5043177",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/morningstars-executive-chairman-joseph-d-mansueto-sells-17m-in-shares-93CH-5043178"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795237861.5309594,
+  "last_check": 1795238789.3950043,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-20"
