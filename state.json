@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/anthropics-15-trillion-debut-rewrites-venture-capitals-playbook-5040303",
-    "AI|https://www.investing.com/news/company-news/revolution-medicines-reports-updated-pancreatic-cancer-trial-data-93CH-5040297",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/joint-corp-director-charles-jobson-acquires-378870-in-shares-93CH-5040306",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/guardant-health-chief-people-officer-sells-547149-in-stock-93CH-5040309",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-10781-in-gabelli-healthcare-shares-93CH-5040308",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/nyc-lawmakers-weigh-compromise-on-amazon-delivery-worker-bill-bloomberg-reports-5040311",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/alibaba-defrauded-shareholders-by-concealing-ties-to-suspected-spy-in-nvidia-scandal-lawsuit-says-5040304",
-    "Cybersecurity|https://www.investing.com/news/company-news/gap-q3-fy26-slides-profit-beats-offset-by-flat-sales-mixed-brands-93CH-5040321",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/intuitive-machines-cao-steven-vontur-sells-25598-in-lunr-shares-93CH-5040322",
-    "Cybersecurity|https://www.investing.com/news/company-news/molson-coors-declares-048-quarterly-dividend-per-share-93CH-5040323",
-    "Cybersecurity|https://www.investing.com/news/company-news/elastic-q2-fy27-slides-record-margins-amid-ai-growth-stock-slides-on-concerns-93CH-5040324",
     "Cybersecurity|https://www.investing.com/news/company-news/evergen-q3-2026-slides-rng-output-hits-record-despite-earnings-miss-93CH-5040325",
     "Cybersecurity|https://www.investing.com/news/company-news/revolution-medicines-reports-updated-pancreatic-cancer-trial-data-93CH-5040297",
     "SG Banks|https://www.investing.com/news/insider-trading-news/joint-corp-director-charles-jobson-acquires-378870-in-shares-93CH-5040306",
@@ -5000,7 +4989,18 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/peloton-chief-accounting-officer-saqib-baig-sells-14582-in-stock-93CH-5043119",
     "Watchlist|https://www.investing.com/news/insider-trading-news/home-depot-chair-edward-decker-sells-655m-in-shares-93CH-5043120",
     "SG Banks|https://www.straitstimes.com/business/anthropic-pulled-off-the-biggest-ipo-ever-what-that-means-by-the-numbers",
-    "Watchlist|efb62e65-7e22-37f1-be92-42706852245d"
+    "Watchlist|efb62e65-7e22-37f1-be92-42706852245d",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/anthropic-pulls-off-mega-ipo-amid-ai-slump-gold-tumbles-markets-this-week",
+    "AI|https://www.investing.com/news/insider-trading-news/silgan-holdings-director-robert-lewis-sells-264-million-in-shares-93CH-5043128",
+    "AI|https://www.investing.com/news/insider-trading-news/lipocine-director-john-higuchi-buys-225225-in-company-stock-93CH-5043135",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/silgan-holdings-director-robert-lewis-sells-264-million-in-shares-93CH-5043128",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/lipocine-director-john-higuchi-buys-225225-in-company-stock-93CH-5043135",
+    "SG Banks|/companies-markets/telcos-media-tech/anthropic-slides-9-1-shrink-ipo-gain-ai-trade-unravels",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/silgan-holdings-director-robert-lewis-sells-264-million-in-shares-93CH-5043128",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/lipocine-director-john-higuchi-buys-225225-in-company-stock-93CH-5043135",
+    "Watchlist|/companies-markets/telcos-media-tech/anthropic-slides-9-1-shrink-ipo-gain-ai-trade-unravels",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/silgan-holdings-director-robert-lewis-sells-264-million-in-shares-93CH-5043128",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/lipocine-director-john-higuchi-buys-225225-in-company-stock-93CH-5043135"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795233260.7754333,
+  "last_check": 1795234203.5186136,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-20"
