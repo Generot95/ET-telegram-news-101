@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|874240b1-ebfb-3dbb-9ce3-886975f6fba8",
-    "SG Banks|https://www.straitstimes.com/business/bank-of-japan-governor-says-central-bank-should-keep-raising-rates",
-    "Watchlist|874240b1-ebfb-3dbb-9ce3-886975f6fba8",
-    "SG Banks|https://www.straitstimes.com/business/anthropics-ipo-will-singapore-investors-back-ais-promise-or-help-fuel-another-bubble",
-    "SG Banks|/companies-markets/stocks-watch-keppel-infrastructure-trust-elite-uk-reit-thakral-katrina",
-    "Watchlist|/companies-markets/stocks-watch-keppel-infrastructure-trust-elite-uk-reit-thakral-katrina",
-    "AI|91a024bc-98a2-3a19-9ee8-eee52e58dcfc",
     "Watchlist|91a024bc-98a2-3a19-9ee8-eee52e58dcfc",
     "AI|57050db3-4d78-349a-90fe-337019698b82",
     "Watchlist|57050db3-4d78-349a-90fe-337019698b82",
@@ -5000,7 +4993,14 @@
     "AI|d084afd2-564f-3bcd-b559-3c74657b1c0c",
     "Watchlist|d084afd2-564f-3bcd-b559-3c74657b1c0c",
     "Crypto|dc952d19-0692-30fe-889a-9e9fe6ec9bf2",
-    "SG Banks|/companies-markets/banking-finance/chinas-central-bank-withdraws-medium-term-funds-warning-sign-easing-bets"
+    "SG Banks|/companies-markets/banking-finance/chinas-central-bank-withdraws-medium-term-funds-warning-sign-easing-bets",
+    "AI|c0bcfbcd-9c6f-3440-837b-a30deec0bdb4",
+    "Watchlist|c0bcfbcd-9c6f-3440-837b-a30deec0bdb4",
+    "Crypto|45da3f02-408c-3c27-b888-87e477651860",
+    "Cybersecurity|8398b5bd-c714-3682-8459-996f20ed410e",
+    "Watchlist|8398b5bd-c714-3682-8459-996f20ed410e",
+    "SG Banks|/companies-markets/stocks-watch-keppel-infrastructure-trust-elite-uk-reit-thakral-katrina",
+    "Watchlist|/companies-markets/stocks-watch-keppel-infrastructure-trust-elite-uk-reit-thakral-katrina"
   ],
   "topic_error": "",
   "last_digest": "2026-11-21",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795246140.9341304,
+  "last_check": 1795247069.7104833,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-20"
