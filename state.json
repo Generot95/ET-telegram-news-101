@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/sec-filings/vanda-pharmaceuticals-settles-patent-litigation-with-msn-over-hetlioz-lq-generic-93CH-5041506",
-    "Watchlist|https://www.investing.com/news/company-news/paypal-appoints-former-goldman-sachs-risk-officer-to-board-93CH-5041507",
-    "Cybersecurity|WP-MKTW-0003509284",
-    "Watchlist|b398984c-20aa-3d9e-a901-9900814b33a2",
-    "Watchlist|56cebed5-02bb-38d0-94c4-8aa7ccbd1380",
-    "War|WP-MKTW-0005360490",
-    "AI|56cebed5-02bb-38d0-94c4-8aa7ccbd1380",
-    "AI|1300ddc4-2819-33ec-a6e8-70a362de0719",
     "AI|b398984c-20aa-3d9e-a901-9900814b33a2",
     "AI|6e6f9c49-9658-3615-8008-22c4188b1bd6",
     "AI|WP-MKTW-0005360490",
@@ -5000,7 +4992,15 @@
     "Watchlist|380b956b-78e2-326e-a01c-33560d325d6a",
     "Watchlist|22ea5674-69d8-325a-ac82-6b4a19011ef8",
     "AI|688d780c-8a9f-35b9-816d-2f2c7605e411",
-    "Watchlist|688d780c-8a9f-35b9-816d-2f2c7605e411"
+    "Watchlist|688d780c-8a9f-35b9-816d-2f2c7605e411",
+    "Crypto|fb1390db-6655-3d6f-9a19-ce7f8f2a6619",
+    "AI|8c2021de-df7e-35ed-9086-a71e35202534",
+    "Watchlist|8c2021de-df7e-35ed-9086-a71e35202534",
+    "Cybersecurity|WP-MKTW-0003509284",
+    "AI|https://www.investing.com/news/analyst-ratings/analyst-explains-why-spacex-is-roughly-ten-years-ahead-of-any-competitor-5044104",
+    "Cybersecurity|https://www.investing.com/news/analyst-ratings/analyst-explains-why-spacex-is-roughly-ten-years-ahead-of-any-competitor-5044104",
+    "SG Banks|https://www.investing.com/news/analyst-ratings/analyst-explains-why-spacex-is-roughly-ten-years-ahead-of-any-competitor-5044104",
+    "Watchlist|https://www.investing.com/news/analyst-ratings/analyst-explains-why-spacex-is-roughly-ten-years-ahead-of-any-competitor-5044104"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795377340.112917,
+  "last_check": 1795378247.3937497,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
