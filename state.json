@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/earnings/gdev-inc-earnings-matched-revenue-was-in-line-with-estimates-5041384",
-    "AI|https://www.investing.com/news/stock-market-news/scout24-shares-fall-6-as-jp-morgan-flags-ai-threat-to-property-portals-5041347",
-    "Cybersecurity|https://www.investing.com/news/earnings/tsakos-energy-earnings-beat-by-103-revenue-topped-estimates-5041352",
-    "Cybersecurity|https://www.investing.com/news/company-news/telo-genomics-announces-private-placement-of-up-to-1-million-93CH-5041353",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/oppenheimer-reiterates-salesforce-stock-rating-citing-valuation-93CH-5041354",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/hsbc-upgrades-tesla-more-than-doubles-target-on-spacex-merger-potential-5041374",
-    "Cybersecurity|https://www.investing.com/news/company-news/startrader-launches-anthropic-stock-cfds-following-nasdaq-debut-5041379",
-    "Cybersecurity|https://www.investing.com/news/sec-filings/westlake-corp-reaches-settlements-in-pvc-pipe-antitrust-litigation-93CH-5041380",
-    "Cybersecurity|https://www.investing.com/news/earnings/gdev-inc-earnings-matched-revenue-was-in-line-with-estimates-5041384",
     "SG Banks|https://www.investing.com/news/earnings/tsakos-energy-earnings-beat-by-103-revenue-topped-estimates-5041352",
     "SG Banks|https://www.investing.com/news/company-news/telo-genomics-announces-private-placement-of-up-to-1-million-93CH-5041353",
     "SG Banks|https://www.investing.com/news/analyst-ratings/oppenheimer-reiterates-salesforce-stock-rating-citing-valuation-93CH-5041354",
@@ -5000,78 +4991,87 @@
     "AI|https://www.investing.com/news/insider-trading-news/crimson-wine-group-director-joseph-steinberg-acquires-100680-in-shares-93CH-5044032",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/crimson-wine-group-director-joseph-steinberg-acquires-100680-in-shares-93CH-5044032",
     "SG Banks|https://www.investing.com/news/insider-trading-news/crimson-wine-group-director-joseph-steinberg-acquires-100680-in-shares-93CH-5044032",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/crimson-wine-group-director-joseph-steinberg-acquires-100680-in-shares-93CH-5044032"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/crimson-wine-group-director-joseph-steinberg-acquires-100680-in-shares-93CH-5044032",
+    "AI|30a74f8a-b019-3af1-9c56-848d946c2533",
+    "Watchlist|30a74f8a-b019-3af1-9c56-848d946c2533",
+    "AI|5985c35f-d881-36b3-9133-b02e482a1117",
+    "Crypto|4eb4c5b6-cf83-3df6-a854-9781f3221830",
+    "Watchlist|5985c35f-d881-36b3-9133-b02e482a1117",
+    "AI|https://www.investing.com/news/stock-market-news/asian-countries-take-steps-to-aid-stock-markets-after-ai-rout-5044034",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/asian-countries-take-steps-to-aid-stock-markets-after-ai-rout-5044034",
+    "SG Banks|https://www.investing.com/news/stock-market-news/asian-countries-take-steps-to-aid-stock-markets-after-ai-rout-5044034",
+    "Watchlist|https://www.investing.com/news/stock-market-news/asian-countries-take-steps-to-aid-stock-markets-after-ai-rout-5044034"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
   "earnings": {
     "AMD": {
       "ts": 1801602000,
-      "fetched": 1795274765.1304166
+      "fetched": 1795361214.8081067
     },
     "NVDA": {
       "ts": 1794949200,
-      "fetched": 1795274765.1304166
+      "fetched": 1795361214.8081067
     },
     "CRWD": {
       "ts": 1796158800,
-      "fetched": 1795274765.1304166
+      "fetched": 1795361214.8081067
     },
     "MSFT": {
       "ts": 1801083600,
-      "fetched": 1795274765.1304166
+      "fetched": 1795361214.8081067
     },
     "INTU": {
       "ts": 1795122000,
-      "fetched": 1795274765.1304166
+      "fetched": 1795361214.8081067
     },
     "BRK-B": {
       "ts": 1794258000,
-      "fetched": 1795274765.1304166
+      "fetched": 1795361214.8081067
     },
     "AMZN": {
       "ts": 1793304000,
-      "fetched": 1795274765.1304166
+      "fetched": 1795361214.8081067
     },
     "GOOG": {
       "ts": 1793217600,
-      "fetched": 1795274765.1304166
+      "fetched": 1795361214.8081067
     },
     "ZTS": {
       "ts": 1793885400,
-      "fetched": 1795274765.1304166
+      "fetched": 1795361214.8081067
     },
     "LIN": {
       "ts": 1793277000,
-      "fetched": 1795274765.1304166
+      "fetched": 1795361214.8081067
     },
     "VLO": {
       "ts": 1801143000,
-      "fetched": 1795274765.1304166
+      "fetched": 1795361214.8081067
     },
     "D05.SI": {
       "ts": 1802682000,
-      "fetched": 1795274765.1304166
+      "fetched": 1795361214.8081067
     },
     "O39.SI": {
       "ts": 1793955600,
-      "fetched": 1795274765.1304166
+      "fetched": 1795361214.8081067
     },
     "U11.SI": {
       "ts": 1793782800,
-      "fetched": 1795274765.1304166
+      "fetched": 1795361214.8081067
     },
     "A17U.SI": {
       "ts": null,
-      "fetched": 1795274765.1304166
+      "fetched": 1795361214.8081067
     },
     "HMN.SI": {
       "ts": null,
-      "fetched": 1795274765.1304166
+      "fetched": 1795361214.8081067
     },
     "JYEU.SI": {
       "ts": null,
-      "fetched": 1795274765.1304166
+      "fetched": 1795361214.8081067
     }
   },
   "earnings_notified": [
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795360851.1681292,
+  "last_check": 1795361764.773666,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
