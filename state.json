@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/democrats-open-probe-into-nvidia-influence-on-usmegaspeed-investigation-5041051",
-    "AI|https://www.investing.com/news/insider-trading-news/samsara-chief-accounting-officer-sells-31062-in-iot-shares-93CH-5041061",
     "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-elior-h2-2026-shares-fall-as-profit-weakens-93CH-5041077",
     "AI|https://www.investing.com/news/stock-market-news/why-is-deutz-stock-recovering-today-93CH-5041043",
     "AI|https://www.investing.com/news/company-news/petronor-q3-2026-slides-revenue-surges-but-production-faces-headwinds-93CH-5041045",
@@ -5000,7 +4998,9 @@
     "AI|https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-nvidia-downgrade-anthropic-seen-as-generational-company-5043652",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-nvidia-downgrade-anthropic-seen-as-generational-company-5043652",
     "SG Banks|https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-nvidia-downgrade-anthropic-seen-as-generational-company-5043652",
-    "Watchlist|https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-nvidia-downgrade-anthropic-seen-as-generational-company-5043652"
+    "Watchlist|https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-nvidia-downgrade-anthropic-seen-as-generational-company-5043652",
+    "Crypto|813de848-7e01-3c76-914f-74f494fee1c7",
+    "AI|2c519376-ae7a-35c3-9db1-85c1d1030748"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795334237.5948334,
+  "last_check": 1795335151.04514,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
