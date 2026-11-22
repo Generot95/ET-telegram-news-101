@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/tokio-marine-q2-2026-slides-profit-guidance-raised-on-strong-results-93CH-5041201",
-    "AI|https://www.investing.com/news/company-news/sompo-fy2026-h1-slides-record-profit-drives-forecast-raise-to-540bn-93CH-5041208",
-    "AI|https://www.investing.com/news/company-news/hyperscale-data-launches-exchange-offer-for-common-stock-93CH-5041246",
-    "Cybersecurity|https://www.investing.com/news/company-news/prospect-capital-exits-security-fire-systems-investment-93CH-5041247",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-altri-groups-q3-2026-profit-recovery-holds-as-dp-gains-93CH-5041250",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/oppenheimer-reiterates-plug-power-stock-rating-after-symposium-93CH-5041251",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/intapp-director-george-neble-sells-111226-in-stock-93CH-5041252",
-    "Cybersecurity|https://www.investing.com/news/economy-news/ukeu-trade-deals-delayed-up-to-six-months-as-tuition-fee-talks-stall-5041255",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/robinhood-faces-shareholder-challenge-as-sec-loosens-proxy-oversight-5041256",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/analysisscientists-are-learning-more-about-the-rare-ebola-virus-in-congo-outbreak-5041257",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/black-friday-brings-consumer-spending-into-focus-for-airocked-market-5041258",
     "Cybersecurity|https://www.investing.com/news/economy-news/congress-struggles-to-avert-us-shutdown-as-iran-war-divides-lawmakers-5041259",
@@ -5000,7 +4991,16 @@
     "Watchlist|1e35d416-b87f-3259-b75d-874ba02714cd",
     "Watchlist|2e4f4d59-55ba-3fff-adb1-f9473039d751",
     "Watchlist|04294e30-c290-38ce-9743-adee428dea64",
-    "Watchlist|1ec2f032-b6de-3183-b5e0-5d2f790f4d93"
+    "Watchlist|1ec2f032-b6de-3183-b5e0-5d2f790f4d93",
+    "AI|e82f9d4b-6092-3c4a-9092-9f82dc4594b0",
+    "Watchlist|e82f9d4b-6092-3c4a-9092-9f82dc4594b0",
+    "Watchlist|4df7ded5-a7ad-3b6a-b9eb-5ea255038738",
+    "AI|45b7e093-d79a-3d9e-b44b-5e787cbd75cc",
+    "Watchlist|45b7e093-d79a-3d9e-b44b-5e787cbd75cc",
+    "AI|https://www.investing.com/news/insider-trading-news/fortinet-cfo-ohlgart-sells-27223-in-company-stock-93CH-5043915",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/fortinet-cfo-ohlgart-sells-27223-in-company-stock-93CH-5043915",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/fortinet-cfo-ohlgart-sells-27223-in-company-stock-93CH-5043915",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/fortinet-cfo-ohlgart-sells-27223-in-company-stock-93CH-5043915"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795347103.6559386,
+  "last_check": 1795348011.5121713,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
