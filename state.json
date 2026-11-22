@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-buy-on-teva-pharma-stock-54-target-93CH-5041467",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/tsx-futures-edge-down-amid-ai-anxieties-gold-selloff-5041478",
-    "Cybersecurity|https://www.investing.com/news/sec-filings/granite-construction-appoints-stanley-g-bass-to-board-of-directors-93CH-5041479",
-    "Cybersecurity|https://www.investing.com/news/company-news/nouveau-monde-graphite-receives-nyse-noncompliance-notice-93CH-5041483",
-    "Cybersecurity|https://www.investing.com/news/company-news/wabtec-appoints-rich-freeland-to-board-of-directors-93CH-5041482",
-    "Cybersecurity|https://www.investing.com/news/company-news/bunker-hill-enters-talks-for-kenya-rare-earth-project-93CH-5041484",
-    "Cybersecurity|https://www.investing.com/news/company-news/erasca-reports-phase-1-trial-results-for-cancer-drugs-93CH-5041485",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/barclays-upgrades-freenet-as-better-telefonica-deal-lifts-outlook-shares-rise-5041486",
     "Cybersecurity|https://www.investing.com/news/company-news/granite-adds-former-vulcan-materials-executive-to-board-93CH-5041409",
     "Cybersecurity|https://www.investing.com/news/company-news/weride-q3-revenue-rises-88-gross-margin-reaches-43-93CH-5041457",
@@ -5000,7 +4993,14 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/air-products-group-president-sells-142584-in-shares-93CH-5044071",
     "Watchlist|https://www.investing.com/news/insider-trading-news/air-products-group-president-sells-142584-in-shares-93CH-5044071",
     "AI|fc7c8066-b4d7-3636-b1a0-72dea6ea3598",
-    "Watchlist|fc7c8066-b4d7-3636-b1a0-72dea6ea3598"
+    "Watchlist|fc7c8066-b4d7-3636-b1a0-72dea6ea3598",
+    "War|WP-MKTW-0005351579",
+    "AI|WP-MKTW-0005351579",
+    "Cybersecurity|WP-MKTW-0005351579",
+    "AI|4956fb0b-27b2-3c18-b101-2f54c1890ef2",
+    "AI|951902b5-214f-3031-86ca-cb89e42cc4d2",
+    "Watchlist|4956fb0b-27b2-3c18-b101-2f54c1890ef2",
+    "Watchlist|951902b5-214f-3031-86ca-cb89e42cc4d2"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795368184.847142,
+  "last_check": 1795369081.335125,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
