@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|1509cbac-e209-32a2-ae2c-cd4deea95964",
-    "Watchlist|734adb9f-65ab-36b0-8e4b-ca79ab995e9b",
-    "Watchlist|2370e015-ff68-3593-9a13-af7f21101240",
-    "Watchlist|6f81cb91-58d2-3566-92ff-54900fb7ae87",
-    "Watchlist|/companies-markets/capital-markets-currencies/well-wait-and-see-investors-wary-after-sti-sinks-below-5000-amid-global-ai-selldown",
-    "AI|88e67f74-0ac6-31e8-a132-c53cfae37dcc",
     "AI|a44db22d-0048-3cb1-bc0c-b65a2e659d29",
     "AI|09228227-8600-3010-ad20-ff84fda95d2b",
     "Cybersecurity|WP-MKTW-0003805099",
@@ -5000,7 +4994,13 @@
     "AI|4540b14d-e890-36ae-9aa2-ff7032191ed0",
     "Watchlist|4540b14d-e890-36ae-9aa2-ff7032191ed0",
     "AI|97e2f2c8-2d5b-3184-a2f6-6686458f3fdc",
-    "Watchlist|97e2f2c8-2d5b-3184-a2f6-6686458f3fdc"
+    "Watchlist|97e2f2c8-2d5b-3184-a2f6-6686458f3fdc",
+    "AI|766c5aab-8bdc-3a68-8614-9f1a6821d314",
+    "AI|https://www.investing.com/news/stock-market-news/how-exposed-is-sp-500-to-an-ai-trade-bust-5044112",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/how-exposed-is-sp-500-to-an-ai-trade-bust-5044112",
+    "SG Banks|https://www.investing.com/news/stock-market-news/how-exposed-is-sp-500-to-an-ai-trade-bust-5044112",
+    "Watchlist|766c5aab-8bdc-3a68-8614-9f1a6821d314",
+    "Watchlist|https://www.investing.com/news/stock-market-news/how-exposed-is-sp-500-to-an-ai-trade-bust-5044112"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795380091.4550369,
+  "last_check": 1795380999.1829941,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
