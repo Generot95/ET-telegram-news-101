@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/weride-q3-revenue-rises-88-gross-margin-reaches-43-93CH-5041457",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/erste-sees-bond-volatility-persisting-on-ai-concerns-until-2027-93CH-5041468",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-buy-on-teva-pharma-stock-54-target-93CH-5041467",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/tsx-futures-edge-down-amid-ai-anxieties-gold-selloff-5041478",
     "Cybersecurity|https://www.investing.com/news/sec-filings/granite-construction-appoints-stanley-g-bass-to-board-of-directors-93CH-5041479",
@@ -5000,7 +4998,9 @@
     "AI|https://www.investing.com/news/insider-trading-news/air-products-group-president-sells-142584-in-shares-93CH-5044071",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/air-products-group-president-sells-142584-in-shares-93CH-5044071",
     "SG Banks|https://www.investing.com/news/insider-trading-news/air-products-group-president-sells-142584-in-shares-93CH-5044071",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/air-products-group-president-sells-142584-in-shares-93CH-5044071"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/air-products-group-president-sells-142584-in-shares-93CH-5044071",
+    "AI|fc7c8066-b4d7-3636-b1a0-72dea6ea3598",
+    "Watchlist|fc7c8066-b4d7-3636-b1a0-72dea6ea3598"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795367262.0926976,
+  "last_check": 1795368184.847142,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
