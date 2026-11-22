@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/karman-wins-31m-navy-contract-for-submarine-components-93CH-5041647",
-    "Cybersecurity|https://www.investing.com/news/company-news/fda-agrees-to-annovis-bios-safety-data-pooling-plan-for-buntanetap-93CH-5041646",
-    "Cybersecurity|https://www.investing.com/news/company-news/inpost-completes-transition-to-private-ownership-93CH-5041649",
-    "Cybersecurity|https://www.investing.com/news/company-news/cytosorbents-raises-4m-restructures-debt-facility-93CH-5041650",
     "SG Banks|https://www.investing.com/news/insider-trading-news/tronox-holdings-director-stephen-jones-buys-38997-in-company-stock-93CH-5041625",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-invesco-qqq-trust-sliding-today-93CH-5041637",
     "SG Banks|https://www.investing.com/news/company-news/dine-brands-declares-019-quarterly-dividend-per-share-93CH-5041644",
@@ -5000,7 +4996,11 @@
     "SG Banks|https://www.investing.com/news/company-news/gentrack-fy26-slides-recurring-revenue-climbs-15-as-ai-boosts-efficiency-93CH-5044168",
     "Watchlist|https://www.investing.com/news/company-news/gentrack-fy26-slides-recurring-revenue-climbs-15-as-ai-boosts-efficiency-93CH-5044168",
     "Crypto|da99bf76-e319-3906-a399-1ba085e17eea",
-    "SG Banks|https://www.channelnewsasia.com/business/openai-scientist-proposes-industry-ai-limits-tied-model-intelligence-metric-6573461"
+    "SG Banks|https://www.channelnewsasia.com/business/openai-scientist-proposes-industry-ai-limits-tied-model-intelligence-metric-6573461",
+    "War|d80cc23d-6a03-32ee-9d8d-4a3ab98148af",
+    "AI|33ce7f2f-f480-3eca-a38c-e44bafedc2cd",
+    "Watchlist|33ce7f2f-f480-3eca-a38c-e44bafedc2cd",
+    "SG Banks|https://www.straitstimes.com/business/procter-gamble-to-increase-factory-shifts-without-humans-to-cut-costs"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795389665.8571959,
+  "last_check": 1795390582.4039214,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
