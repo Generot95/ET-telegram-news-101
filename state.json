@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/nucana-presents-preclinical-data-on-nuc7738-combination-therapy-93CH-5041645",
-    "Cybersecurity|https://www.investing.com/news/company-news/celscis-multikine-gets-saudi-fasttrack-designation-93CH-5041648",
     "Cybersecurity|https://www.investing.com/news/company-news/karman-wins-31m-navy-contract-for-submarine-components-93CH-5041647",
     "Cybersecurity|https://www.investing.com/news/company-news/fda-agrees-to-annovis-bios-safety-data-pooling-plan-for-buntanetap-93CH-5041646",
     "Cybersecurity|https://www.investing.com/news/company-news/inpost-completes-transition-to-private-ownership-93CH-5041649",
@@ -5000,7 +4998,9 @@
     "AI|https://www.investing.com/news/company-news/gentrack-fy26-slides-recurring-revenue-climbs-15-as-ai-boosts-efficiency-93CH-5044168",
     "Cybersecurity|https://www.investing.com/news/company-news/gentrack-fy26-slides-recurring-revenue-climbs-15-as-ai-boosts-efficiency-93CH-5044168",
     "SG Banks|https://www.investing.com/news/company-news/gentrack-fy26-slides-recurring-revenue-climbs-15-as-ai-boosts-efficiency-93CH-5044168",
-    "Watchlist|https://www.investing.com/news/company-news/gentrack-fy26-slides-recurring-revenue-climbs-15-as-ai-boosts-efficiency-93CH-5044168"
+    "Watchlist|https://www.investing.com/news/company-news/gentrack-fy26-slides-recurring-revenue-climbs-15-as-ai-boosts-efficiency-93CH-5044168",
+    "Crypto|da99bf76-e319-3906-a399-1ba085e17eea",
+    "SG Banks|https://www.channelnewsasia.com/business/openai-scientist-proposes-industry-ai-limits-tied-model-intelligence-metric-6573461"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795388732.0155747,
+  "last_check": 1795389665.8571959,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
