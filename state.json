@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/rayonier-svp-daniels-sells-18185-in-common-shares-93CH-5040939",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/chairperson--ceo-martine-rothblatt-sells-313m-united-therapeutics-stock-93CH-5040940",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/acrivon-therapeutics-chief-accounting-officer-sells-155-in-stock-93CH-5040941",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-mr-price-group-posts-h1-2026-beat-shares-rise-premarket-93CH-5040942",
-    "Watchlist|https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-076-5040946",
     "Watchlist|https://www.investing.com/news/company-news/startrader-heads-to-icons-of-porsche-as-official-partner-of-the-porsche-carrera-cup-middle-east-5040956",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-benefit-systems-stock-surging-today-93CH-5040967",
     "SG Banks|f39db7c3-370f-3e9e-b364-e33631593dd0",
@@ -5000,7 +4995,12 @@
     "AI|a33d4edb-93a3-3714-8670-617dec6b4453",
     "Watchlist|a33d4edb-93a3-3714-8670-617dec6b4453",
     "SG Banks|/companies-markets/capital-markets-currencies/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout",
-    "Watchlist|/companies-markets/capital-markets-currencies/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout"
+    "Watchlist|/companies-markets/capital-markets-currencies/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout",
+    "AI|53acb908-953b-30d8-a5e0-d69cc91a4907",
+    "Watchlist|53acb908-953b-30d8-a5e0-d69cc91a4907",
+    "War|b40d36fb-5209-3620-a4fc-9d429cd9c4a6",
+    "AI|83b62b09-397e-36ea-9f19-eb70d03755e6",
+    "Watchlist|83b62b09-397e-36ea-9f19-eb70d03755e6"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795310432.6111014,
+  "last_check": 1795311329.9950044,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
