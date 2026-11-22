@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/paypal-appoints-former-goldman-sachs-risk-officer-to-board-93CH-5041507",
-    "Crypto|WP-MKTW-0003957993",
-    "Crypto|WP-MKTW-0003968586",
-    "Crypto|WP-MKTW-0003973830",
-    "Crypto|WP-MKTW-0003986044",
-    "Crypto|WP-MKTW-0004302286",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/wedbush-cuts-elastic-stock-price-target-on-q3-guidance-miss-93CH-5041487",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/argus-raises-regeneron-stock-price-target-on-dupixent-strength-93CH-5041488",
-    "Cybersecurity|https://www.investing.com/news/company-news/avanti-feeds-q2-fy27-slides-revenue-rises-9-margins-hit-cycle-low-93CH-5041494",
-    "Cybersecurity|https://www.investing.com/news/sec-filings/erasca-reports-updated-phase-1-data-for-eras0015-and-eras4001-in-solid-tumors-93CH-5041496",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/needham-downgrades-billcom-stock-rating-to-hold-on-acquisition-93CH-5041497",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/anthropic-ipo-triggers-ai-selloff--washout-or-deeper-unwind-93CH-5041498",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-freenet-stock-rallying-today-93CH-5041504",
     "Cybersecurity|https://www.investing.com/news/sec-filings/vanda-pharmaceuticals-settles-patent-litigation-with-msn-over-hetlioz-lq-generic-93CH-5041506",
     "Cybersecurity|https://www.investing.com/news/company-news/paypal-appoints-former-goldman-sachs-risk-officer-to-board-93CH-5041507",
@@ -5000,7 +4988,19 @@
     "Crypto|WP-MKTW-0003828131",
     "Crypto|WP-MKTW-0003881979",
     "AI|ca8c1b5a-dfea-3850-b540-c4e51e5c8f5a",
-    "Watchlist|ca8c1b5a-dfea-3850-b540-c4e51e5c8f5a"
+    "Watchlist|ca8c1b5a-dfea-3850-b540-c4e51e5c8f5a",
+    "Iran|https://www.iranintl.com/en/202611221192",
+    "AI|https://www.investing.com/news/world-news/us-intelligence-chief-says-putin-is-not-americas-friend-in-ukraine-5044065",
+    "Cybersecurity|https://www.investing.com/news/world-news/us-intelligence-chief-says-putin-is-not-americas-friend-in-ukraine-5044065",
+    "SG Banks|https://www.investing.com/news/world-news/us-intelligence-chief-says-putin-is-not-americas-friend-in-ukraine-5044065",
+    "Watchlist|https://www.investing.com/news/world-news/us-intelligence-chief-says-putin-is-not-americas-friend-in-ukraine-5044065",
+    "Crypto|WP-MKTW-0003957993",
+    "Crypto|WP-MKTW-0003968586",
+    "Crypto|WP-MKTW-0003973830",
+    "Crypto|WP-MKTW-0003986044",
+    "Crypto|WP-MKTW-0004302286",
+    "AI|d7038a21-3714-365d-ba77-25628600f1d8",
+    "Watchlist|d7038a21-3714-365d-ba77-25628600f1d8"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795374590.6966481,
+  "last_check": 1795375520.801194,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
