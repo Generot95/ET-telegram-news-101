@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/arenit-q3-2026-slides-sales-jump-32-organic-growth-slows-93CH-5041037",
-    "AI|https://www.investing.com/news/economic-indicators/portugal-budget-sees-2027-growth-at-23-fiscal-surplus-93CH-5041038",
     "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-jumpgate-games-posts-81-revenue-growth-in-q3-2026-93CH-5041039",
     "AI|https://www.investing.com/news/stock-market-news/why-is-ross-stores-stock-sliding-today-93CH-5041017",
     "AI|https://www.investing.com/news/stock-market-news/why-is-gap-stock-rallying-today-93CH-5041018",
@@ -5000,7 +4998,9 @@
     "SG Banks|/companies-markets/singapore-shares-close-lower-wednesday-sti-down-1-1",
     "Watchlist|/companies-markets/singapore-shares-close-lower-wednesday-sti-down-1-1",
     "AI|2316a3bd-89e5-3451-818d-d1e1fa6d4a0f",
-    "Watchlist|2316a3bd-89e5-3451-818d-d1e1fa6d4a0f"
+    "Watchlist|2316a3bd-89e5-3451-818d-d1e1fa6d4a0f",
+    "AI|429cca3a-27cb-3bb8-a4ca-d5470ec6ab99",
+    "Watchlist|429cca3a-27cb-3bb8-a4ca-d5470ec6ab99"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795326011.374667,
+  "last_check": 1795326918.527206,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
