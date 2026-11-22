@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/why-is-intuit-stock-tumbling-today-93CH-5041016",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/baycom-corp-director-michael-perdue-buys-151000-in-shares-93CH-5041007",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/drilling-tools-international-vice-president-of-sales-buys-49965-stock-93CH-5041008",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/netscout-director-joseph-hadzima-jr-sells-118492-in-ntct-shares-93CH-5041009",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/jefferies-downgrades-fortis-stock-rating-on-arizona-regulatory-risk-93CH-5041010",
-    "Cybersecurity|https://www.investing.com/news/economy-news/ecb-to-make-euro-swaps-more-accessible-in-global-push-lagarde-says-5041011",
-    "Cybersecurity|https://www.investing.com/news/forex-news/sterling-today-pound-edges-up-on-uk-retail-beat-dollar-caps-gains-5041015",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-intuit-stock-tumbling-today-93CH-5041016",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/baycom-corp-director-michael-perdue-buys-151000-in-shares-93CH-5041007",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/drilling-tools-international-vice-president-of-sales-buys-49965-stock-93CH-5041008",
     "SG Banks|https://www.investing.com/news/insider-trading-news/netscout-director-joseph-hadzima-jr-sells-118492-in-ntct-shares-93CH-5041009",
     "SG Banks|https://www.investing.com/news/analyst-ratings/jefferies-downgrades-fortis-stock-rating-on-arizona-regulatory-risk-93CH-5041010",
     "SG Banks|https://www.investing.com/news/economy-news/ecb-to-make-euro-swaps-more-accessible-in-global-push-lagarde-says-5041011",
@@ -5000,7 +4990,17 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/german-american-bancorp-director-andrew-seger-buys-1200-in-stock-93CH-5043743",
     "Crypto|42aab7dd-a165-3cfb-af1e-3f4df3ce38b0",
     "AI|dd51da04-72c5-3a4d-8b9f-82233e48d991",
-    "Watchlist|dd51da04-72c5-3a4d-8b9f-82233e48d991"
+    "Watchlist|dd51da04-72c5-3a4d-8b9f-82233e48d991",
+    "SG Banks|/international/global/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout",
+    "Watchlist|/international/global/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout",
+    "SG Banks|/international/global/thailand-opens-door-us-pork-raising-risks-farmers",
+    "Watchlist|/international/global/thailand-opens-door-us-pork-raising-risks-farmers",
+    "AI|fb3298ee-a3fe-3204-9d66-fe0130e41a97",
+    "Watchlist|fb3298ee-a3fe-3204-9d66-fe0130e41a97",
+    "AI|https://www.investing.com/news/insider-trading-news/allspring-income-opportunities-fund-director-buys-1037-in-common-stock-93CH-5043750",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/allspring-income-opportunities-fund-director-buys-1037-in-common-stock-93CH-5043750",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/allspring-income-opportunities-fund-director-buys-1037-in-common-stock-93CH-5043750",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/allspring-income-opportunities-fund-director-buys-1037-in-common-stock-93CH-5043750"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795321423.445194,
+  "last_check": 1795322344.7470138,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
