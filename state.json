@@ -1,7 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|c17e0447-0534-3ae4-ad98-10732026d39c",
     "AI|6ea6df24-ddef-31a2-a551-518b92a3a0f9",
     "Cybersecurity|f672680b-2e2c-303f-a946-40afd7b1af23",
     "Watchlist|a239cf15-811a-3af3-ac50-f71631f1bc00",
@@ -5000,7 +4999,8 @@
     "AI|795f62dd-70eb-3f0b-8238-ed817d487411",
     "AI|05fcc671-bd4a-343d-868e-b3cf025a0f10",
     "Watchlist|795f62dd-70eb-3f0b-8238-ed817d487411",
-    "Watchlist|05fcc671-bd4a-343d-868e-b3cf025a0f10"
+    "Watchlist|05fcc671-bd4a-343d-868e-b3cf025a0f10",
+    "Iran|https://www.iranintl.com/en/202611222553"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795351697.421378,
+  "last_check": 1795352607.8071258,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
