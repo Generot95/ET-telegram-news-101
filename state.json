@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-jumpgate-games-posts-81-revenue-growth-in-q3-2026-93CH-5041039",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-ross-stores-stock-sliding-today-93CH-5041017",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-gap-stock-rallying-today-93CH-5041018",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/uob-kay-hian-cuts-netease-stock-rating-on-weak-revenue-earnings-93CH-5041031",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-deutsche-bank-stock-declining-today-93CH-5041032",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-petronor-flags-softer-q4-2026-on-workover-issues-93CH-5041033",
-    "Cybersecurity|https://www.investing.com/news/transcripts/citizens-financial-at-jp-morgan-conference-growth-tech-and-capital-discipline-93CH-5041034",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-prosafe-posts-steady-q3-2026-ebitda-as-stock-edges-up-93CH-5041035",
     "Cybersecurity|https://www.investing.com/news/earnings/intuit-beats-firstquarter-estimates-agrees-to-sell-mailchimp-for-368-billion-5040049",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/deutsche-bank-shares-fall-32-amid-compliance-crisis-fallout-93CH-5041036",
     "Cybersecurity|https://www.investing.com/news/company-news/arenit-q3-2026-slides-sales-jump-32-organic-growth-slows-93CH-5041037",
@@ -5000,7 +4992,15 @@
     "AI|2316a3bd-89e5-3451-818d-d1e1fa6d4a0f",
     "Watchlist|2316a3bd-89e5-3451-818d-d1e1fa6d4a0f",
     "AI|429cca3a-27cb-3bb8-a4ca-d5470ec6ab99",
-    "Watchlist|429cca3a-27cb-3bb8-a4ca-d5470ec6ab99"
+    "Watchlist|429cca3a-27cb-3bb8-a4ca-d5470ec6ab99",
+    "AI|63c89d23-98e3-3b5d-9060-c7b396ed6b87",
+    "Watchlist|63c89d23-98e3-3b5d-9060-c7b396ed6b87",
+    "Crypto|35534348-8c5c-3ce2-b52e-b3a7b886e912",
+    "AI|https://www.investing.com/news/stock-market-news/is-the-ai-boom-losing-its-grip-on-emerging-markets-jefferies-flags-risks-5043771",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/is-the-ai-boom-losing-its-grip-on-emerging-markets-jefferies-flags-risks-5043771",
+    "SG Banks|https://www.investing.com/news/stock-market-news/is-the-ai-boom-losing-its-grip-on-emerging-markets-jefferies-flags-risks-5043771",
+    "Watchlist|https://www.investing.com/news/stock-market-news/is-the-ai-boom-losing-its-grip-on-emerging-markets-jefferies-flags-risks-5043771",
+    "Crypto|26356cb2-88dc-3a27-9f3d-50ac29c4351f"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795327820.0689275,
+  "last_check": 1795328740.6038074,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
