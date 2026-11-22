@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/why-is-vallourec-stock-tumbling-today-93CH-5040977",
-    "AI|https://www.investing.com/news/stock-market-news/exclusivesignal-restricts-screenshots-to-block-ai-agents-from-reading-messages-5040998",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/exclusivebeijing-to-bar-young-redchip-firms-from-listing-outside-mainland-china-sources-say-5040979",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-pharos-energy-stock-sliding-today-93CH-5040982",
     "Cybersecurity|https://www.investing.com/news/commodities-news/european-gas-gains-on-fresh-middle-east-attacks-but-eyes-weekly-drop-5040776",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/deutsche-bank-upgrades-unicredit-stock-on-strong-earnings-outlook-93CH-5040984",
@@ -5000,7 +4997,10 @@
     "Watchlist|b8f34680-ff0a-30cf-a6c7-9e05b1f37842",
     "AI|30fa0758-1f25-37d0-ab66-bffe92ff75aa",
     "Watchlist|30fa0758-1f25-37d0-ab66-bffe92ff75aa",
-    "Watchlist|c56ce5a5-14c9-3db6-9da0-dc8abd8b9fd6"
+    "Watchlist|c56ce5a5-14c9-3db6-9da0-dc8abd8b9fd6",
+    "AI|e975d49c-baa6-3554-be12-826bb0b44af8",
+    "Watchlist|e975d49c-baa6-3554-be12-826bb0b44af8",
+    "Iran|https://www.iranintl.com/en/202611222534"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795315005.6893783,
+  "last_check": 1795315932.8735723,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
