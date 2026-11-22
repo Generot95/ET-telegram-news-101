@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|77424c8f-7d61-33f0-b82a-1ec8bb9e7367",
-    "War|WP-MKTW-0005360862",
-    "AI|WP-MKTW-0005360862",
-    "Cybersecurity|WP-MKTW-0005360862",
-    "Watchlist|a0c7955e-4e6e-3ac6-9752-8adb4eb8c11c",
     "AI|c9f2e1b0-e1be-3469-9e8b-5032ae2469e5",
     "AI|5bb41127-8aa7-33de-a98f-b7a5c4b2d341",
     "Crypto|5bb41127-8aa7-33de-a98f-b7a5c4b2d341",
@@ -5000,7 +4995,12 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/oklo-chief-product-officer-alexandra-renner-sells-12575-in-stock-93CH-5043820",
     "SG Banks|https://www.investing.com/news/stock-market-news/swiss-inflation-accelerates-as-snb-signals-concern-over-broader-price-pressures-5043822",
     "Watchlist|https://www.investing.com/news/insider-trading-news/oklo-chief-product-officer-alexandra-renner-sells-12575-in-stock-93CH-5043820",
-    "Watchlist|https://www.investing.com/news/stock-market-news/swiss-inflation-accelerates-as-snb-signals-concern-over-broader-price-pressures-5043822"
+    "Watchlist|https://www.investing.com/news/stock-market-news/swiss-inflation-accelerates-as-snb-signals-concern-over-broader-price-pressures-5043822",
+    "AI|8ddac365-0985-386f-8609-8dc8df9ec67f",
+    "Watchlist|8ddac365-0985-386f-8609-8dc8df9ec67f",
+    "War|33f622ac-5364-361e-b10c-9d565a6cf587",
+    "AI|af514f42-c450-3bb5-9df0-8f5a05e47293",
+    "Watchlist|af514f42-c450-3bb5-9df0-8f5a05e47293"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795337903.5144355,
+  "last_check": 1795338820.269186,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
