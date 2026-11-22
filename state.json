@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/da-davidson-downgrades-national-bank-holdings-stock-rating-on-credit-concerns-93CH-5041320",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/bofa-raises-best-buy-stock-price-target-to-83-on-comp-momentum-93CH-5041321",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/bofa-cuts-construction-partners-stock-price-target-on-margin-pressures-93CH-5041322",
-    "Cybersecurity|https://www.investing.com/news/economic-indicators/eus-hansen-says-us-trade-uncertainty-is-drawing-mexico-europe-closer-5041312",
-    "Cybersecurity|https://www.investing.com/news/economy-news/anthropics-postdebut-stumble-delivers-reality-check-for-ai-trade-5041125",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/big-pharma-with-eye-on-anthropic-says-ai-is-shrinking-drug-discovery-timelines-5041287",
-    "Cybersecurity|https://www.investing.com/news/company-news/altri-q3-2026-slides-margin-recovery-holds-despite-volume-decline-93CH-5041307",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/da-davidson-cuts-choiceone-financial-stock-rating-on-valuation-93CH-5041318",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-neutral-on-elastic-stock-cites-valuation-93CH-5041319",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/da-davidson-downgrades-national-bank-holdings-stock-rating-on-credit-concerns-93CH-5041320",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/bofa-raises-best-buy-stock-price-target-to-83-on-comp-momentum-93CH-5041321",
     "SG Banks|https://www.investing.com/news/analyst-ratings/bofa-cuts-construction-partners-stock-price-target-on-margin-pressures-93CH-5041322",
     "SG Banks|https://www.investing.com/news/economic-indicators/eus-hansen-says-us-trade-uncertainty-is-drawing-mexico-europe-closer-5041312",
     "SG Banks|https://www.investing.com/news/economy-news/anthropics-postdebut-stumble-delivers-reality-check-for-ai-trade-5041125",
@@ -5000,7 +4989,18 @@
     "AI|6bad77ac-f4b2-3f14-9e1e-b1d6b2ba31a4",
     "Watchlist|6bad77ac-f4b2-3f14-9e1e-b1d6b2ba31a4",
     "AI|a2d15aad-ecfc-3fc2-9c50-786a6cb48bca",
-    "Watchlist|a2d15aad-ecfc-3fc2-9c50-786a6cb48bca"
+    "Watchlist|a2d15aad-ecfc-3fc2-9c50-786a6cb48bca",
+    "Watchlist|e0ebfcae-5c87-3419-9c6f-4ec67871dcc3",
+    "Iran|https://www.iranintl.com/en/202611223193",
+    "Watchlist|a8fb3949-8a92-3a91-81f0-cfc27e709eb0",
+    "SG Banks|/companies-markets/chinese-exchanges-ease-margin-trading-requirements-aid-stock-markets",
+    "Watchlist|8d552100-1592-35ca-88eb-1fdc6f267cfd",
+    "Watchlist|/companies-markets/chinese-exchanges-ease-margin-trading-requirements-aid-stock-markets",
+    "AI|7e22a58c-dd42-35fe-8635-fd9568bc49b5",
+    "AI|d41a1f86-bc3f-396d-b7a6-4ebf212f5a97",
+    "AI|8d552100-1592-35ca-88eb-1fdc6f267cfd",
+    "Watchlist|7e22a58c-dd42-35fe-8635-fd9568bc49b5",
+    "Watchlist|d41a1f86-bc3f-396d-b7a6-4ebf212f5a97"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795354442.0322623,
+  "last_check": 1795355339.2134018,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
