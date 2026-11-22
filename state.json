@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|576c5a7c-470d-3649-b887-91c4b7810bd7",
-    "SG Banks|/companies-markets/frencken-posts-31-3-jump-q3-earnings-s13-million",
-    "SG Banks|/companies-markets/temasek-backed-65-equity-partners-invests-swedish-hypercar-maker-koenigsegg",
-    "Watchlist|f3f10f27-e4ae-3ed1-8b6c-5673257de3a2",
-    "Watchlist|f1132bfd-8a5b-388c-911c-133215de7d36",
-    "Watchlist|75a729aa-4c09-32ca-822b-89b83707afc4",
     "Watchlist|bea201e9-53a9-3c2c-a84a-6fd57872db60",
     "Watchlist|7a9d2660-3bba-3a5b-814e-a16e4fd98173",
     "Watchlist|/companies-markets/frencken-posts-31-3-jump-q3-earnings-s13-million",
@@ -5000,7 +4994,13 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/black-friday-brings-consumer-spending-into-focus-for-airocked-market-5044012",
     "AI|5010cbcf-867e-363b-845f-dd574a7d5fad",
     "Watchlist|5010cbcf-867e-363b-845f-dd574a7d5fad",
-    "Iran|https://www.iranintl.com/en/202611190630"
+    "Iran|https://www.iranintl.com/en/202611190630",
+    "AI|454885a9-a4d5-3bd0-9d0d-f3568a211002",
+    "Watchlist|454885a9-a4d5-3bd0-9d0d-f3568a211002",
+    "AI|be65142a-b729-3c0c-9674-c3bb2412da6b",
+    "SG Banks|/companies-markets/frencken-posts-31-3-jump-q3-earnings-s13-million",
+    "SG Banks|/companies-markets/temasek-backed-65-equity-partners-invests-swedish-hypercar-maker-koenigsegg",
+    "AI|c7f39e66-718c-3a28-9a0b-acda5f72e0d3"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795357191.8957255,
+  "last_check": 1795358103.5827203,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
