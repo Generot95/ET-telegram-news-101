@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|eb33d01a-29c3-359a-87d7-a9c9b80e8754",
-    "Watchlist|274b73fe-5e61-308c-b2bc-7ab2bd668aea",
-    "AI|a2bdbc71-4e99-34eb-8fda-2c0b5d0f4852",
-    "AI|4885dff1-282e-3f14-972b-1ee9e20a8131",
-    "AI|ac168800-4b55-34b9-b8a4-0f5ffe807463",
-    "AI|fe6776e5-dff5-3677-8fe9-103c195421b7",
-    "AI|20556111-4218-38c0-9182-c0687b581751",
-    "AI|f9a55f54-041c-3ee6-8a27-84be3770174e",
-    "AI|f672680b-2e2c-303f-a946-40afd7b1af23",
-    "AI|e33c2f0e-e8ca-3086-b830-6a6d1c33ed2f",
-    "AI|f1f44eec-c1cd-31d5-85ee-13f45c4d8a46",
     "AI|c17e0447-0534-3ae4-ad98-10732026d39c",
     "AI|6ea6df24-ddef-31a2-a551-518b92a3a0f9",
     "Cybersecurity|f672680b-2e2c-303f-a946-40afd7b1af23",
@@ -5000,7 +4989,18 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/analysiscorrection-or-deeper-reckoning-investors-seek-signs-us-stock-selling-will-abate-5043939",
     "War|WP-MKTW-0005363404",
     "AI|WP-MKTW-0005363404",
-    "Cybersecurity|WP-MKTW-0005363404"
+    "Cybersecurity|WP-MKTW-0005363404",
+    "AI|730db3f2-d0f5-4ac0-aa6b-690805888009",
+    "Watchlist|730db3f2-d0f5-4ac0-aa6b-690805888009",
+    "Iran|https://www.iranintl.com/en/202611206262",
+    "AI|https://www.investing.com/news/insider-trading-news/galaxy-digital-director-douglas-deason-acquires-200850-in-shares-93CH-5043959",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/galaxy-digital-director-douglas-deason-acquires-200850-in-shares-93CH-5043959",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/galaxy-digital-director-douglas-deason-acquires-200850-in-shares-93CH-5043959",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/galaxy-digital-director-douglas-deason-acquires-200850-in-shares-93CH-5043959",
+    "AI|795f62dd-70eb-3f0b-8238-ed817d487411",
+    "AI|05fcc671-bd4a-343d-868e-b3cf025a0f10",
+    "Watchlist|795f62dd-70eb-3f0b-8238-ed817d487411",
+    "Watchlist|05fcc671-bd4a-343d-868e-b3cf025a0f10"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795350766.541928,
+  "last_check": 1795351697.421378,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
