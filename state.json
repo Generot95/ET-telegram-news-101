@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/sec-filings/westlake-corp-reaches-settlements-in-pvc-pipe-antitrust-litigation-93CH-5041380",
-    "SG Banks|https://www.investing.com/news/earnings/gdev-inc-earnings-matched-revenue-was-in-line-with-estimates-5041384",
-    "Watchlist|https://www.investing.com/news/earnings/tsakos-energy-earnings-beat-by-103-revenue-topped-estimates-5041352",
-    "Watchlist|https://www.investing.com/news/company-news/telo-genomics-announces-private-placement-of-up-to-1-million-93CH-5041353",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/oppenheimer-reiterates-salesforce-stock-rating-citing-valuation-93CH-5041354",
-    "Watchlist|https://www.investing.com/news/stock-market-news/hsbc-upgrades-tesla-more-than-doubles-target-on-spacex-merger-potential-5041374",
-    "Watchlist|https://www.investing.com/news/company-news/startrader-launches-anthropic-stock-cfds-following-nasdaq-debut-5041379",
     "Watchlist|https://www.investing.com/news/sec-filings/westlake-corp-reaches-settlements-in-pvc-pipe-antitrust-litigation-93CH-5041380",
     "Watchlist|https://www.investing.com/news/earnings/gdev-inc-earnings-matched-revenue-was-in-line-with-estimates-5041384",
     "War|WP-MKTW-0005361074",
@@ -5000,7 +4993,14 @@
     "AI|260b18ec-2f06-370e-8933-585c8c53e33c",
     "Watchlist|0b2c82dd-947a-3162-a693-164ddec9080f",
     "Watchlist|260b18ec-2f06-370e-8933-585c8c53e33c",
-    "Watchlist|1c6fbb67-a3f3-3850-bc15-47b566fa651f"
+    "Watchlist|1c6fbb67-a3f3-3850-bc15-47b566fa651f",
+    "Watchlist|6787f038-a3c8-36fa-9690-d189d81ad395",
+    "AI|b96ac195-33ef-3dd7-9313-5aa7826a60ad",
+    "Watchlist|b96ac195-33ef-3dd7-9313-5aa7826a60ad",
+    "AI|https://www.investing.com/news/stock-market-news/what-do-the-us-midterms-mean-for-investors-5044046",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/what-do-the-us-midterms-mean-for-investors-5044046",
+    "SG Banks|https://www.investing.com/news/stock-market-news/what-do-the-us-midterms-mean-for-investors-5044046",
+    "Watchlist|https://www.investing.com/news/stock-market-news/what-do-the-us-midterms-mean-for-investors-5044046"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795362670.8750567,
+  "last_check": 1795363583.863791,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
