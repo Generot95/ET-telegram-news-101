@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/why-is-be-semiconductor-industries-stock-sliding-today-93CH-5041122",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-asml-stock-sliding-today-93CH-5041123",
-    "AI|https://www.investing.com/news/analyst-ratings/bmo-upgrades-everforth-stock-rating-on-valuation-refinancing-view-93CH-5041124",
-    "AI|https://www.investing.com/news/stock-market-news/house-democrats-investigate-nvidias-role-in-commerce-probe--report-93CH-5041100",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-anthropic-stock-sliding-today-93CH-5041101",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/goldman-sachs-initiates-stewart-information-stock-with-neutral-rating-93CH-5041114",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-asm-international-stock-sliding-today-93CH-5041116",
-    "Cybersecurity|https://www.investing.com/news/company-news/elior-fy-2026-slides-growth-hindered-by-italian-dispute-cash-flow-93CH-5041117",
     "Cybersecurity|https://www.investing.com/news/economic-indicators/ecb-to-expand-currency-swap-lines-lagarde-says-93CH-5041118",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-soitec-stock-sliding-today-93CH-5041121",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-be-semiconductor-industries-stock-sliding-today-93CH-5041122",
@@ -5000,7 +4992,15 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/serve-robotics-cfo-brian-read-sells-18430-in-serv-shares-93CH-5043831",
     "Iran|https://www.iranintl.com/en/202611200850",
     "SG Banks|/companies-markets/capital-markets-currencies/well-wait-and-see-investors-wary-after-sti-sinks-below-5000-amid-global-ai-sell-down",
-    "Watchlist|/companies-markets/capital-markets-currencies/well-wait-and-see-investors-wary-after-sti-sinks-below-5000-amid-global-ai-sell-down"
+    "Watchlist|/companies-markets/capital-markets-currencies/well-wait-and-see-investors-wary-after-sti-sinks-below-5000-amid-global-ai-sell-down",
+    "AI|8448285a-dafb-33f4-a450-78800dfb71a1",
+    "AI|d434543a-7b7f-3c9c-9121-62d9d2fc6ed1",
+    "AI|https://www.investing.com/news/stock-market-news/should-you-buy-coppers-dip-heres-why-ubs-favors-long-position-5043836",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/should-you-buy-coppers-dip-heres-why-ubs-favors-long-position-5043836",
+    "SG Banks|https://www.investing.com/news/stock-market-news/should-you-buy-coppers-dip-heres-why-ubs-favors-long-position-5043836",
+    "Watchlist|8448285a-dafb-33f4-a450-78800dfb71a1",
+    "Watchlist|d434543a-7b7f-3c9c-9121-62d9d2fc6ed1",
+    "Watchlist|https://www.investing.com/news/stock-market-news/should-you-buy-coppers-dip-heres-why-ubs-favors-long-position-5043836"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795339761.930822,
+  "last_check": 1795340667.1995628,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
