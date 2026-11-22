@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/netscout-director-joseph-hadzima-jr-sells-118492-in-ntct-shares-93CH-5041009",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/jefferies-downgrades-fortis-stock-rating-on-arizona-regulatory-risk-93CH-5041010",
-    "Watchlist|https://www.investing.com/news/economy-news/ecb-to-make-euro-swaps-more-accessible-in-global-push-lagarde-says-5041011",
-    "Watchlist|https://www.investing.com/news/forex-news/sterling-today-pound-edges-up-on-uk-retail-beat-dollar-caps-gains-5041015",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-intuit-stock-tumbling-today-93CH-5041016",
-    "War|baac9323-0583-3915-aeca-f4ac65e6a5a8",
-    "AI|044cd876-734d-4d57-9ba6-66176e44c87c",
-    "Watchlist|a2c79f9a-03d7-3803-b70d-5c2c62221d57",
-    "Watchlist|044cd876-734d-4d57-9ba6-66176e44c87c",
     "AI|0040d97b-d2c4-3ef9-8b0c-88908b31b361",
     "AI|116995c4-083d-3299-a172-c2d97d08cac0",
     "Watchlist|0040d97b-d2c4-3ef9-8b0c-88908b31b361",
@@ -5000,7 +4991,16 @@
     "War|https://www.investing.com/news/world-news/australia-criticises-us-congressional-budget-office-over-aukus-comments-5043662",
     "Crypto|9871aa71-3ab0-331e-9c8d-c3bbb39949e9",
     "Cybersecurity|b5e17c7c-3a81-33b0-8c6f-b6b56b9f531e",
-    "Watchlist|b5e17c7c-3a81-33b0-8c6f-b6b56b9f531e"
+    "Watchlist|b5e17c7c-3a81-33b0-8c6f-b6b56b9f531e",
+    "AI|https://www.investing.com/news/insider-trading-news/allspring-multisector-income-fund-director-cindy-miller-buys-1040-in-shares-93CH-5043754",
+    "AI|https://www.investing.com/news/insider-trading-news/allspring-global-dividend-fund-director-buys-1039-in-shares-93CH-5043755",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/allspring-multisector-income-fund-director-cindy-miller-buys-1040-in-shares-93CH-5043754",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/allspring-global-dividend-fund-director-buys-1039-in-shares-93CH-5043755",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/allspring-multisector-income-fund-director-cindy-miller-buys-1040-in-shares-93CH-5043754",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/allspring-global-dividend-fund-director-buys-1039-in-shares-93CH-5043755",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/allspring-multisector-income-fund-director-cindy-miller-buys-1040-in-shares-93CH-5043754",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/allspring-global-dividend-fund-director-buys-1039-in-shares-93CH-5043755",
+    "AI|966d5e63-551f-3d2e-85e2-0685bf616df4"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795324171.8390517,
+  "last_check": 1795325078.159707,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
