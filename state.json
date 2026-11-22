@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/deutsche-bank-upgrades-unicredit-stock-on-strong-earnings-outlook-93CH-5040984",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/deutz-shares-gain-after-company-responds-to-short-seller-93CH-5040986",
-    "Cybersecurity|https://www.investing.com/news/transcripts/ally-financial-at-jp-morgan-european-financials-conference-roe-gains-build-93CH-5040988",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/oklo-general-counsel-vivek-narayanadas-sells-4357-in-shares-93CH-5040994",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/oaknorth-becomes-first-foreign-digital-bank-to-get-us-charter-93CH-5040995",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-var-energi-stock-sliding-today-93CH-5040996",
-    "SG Banks|https://www.investing.com/news/stock-market-news/exclusivebeijing-to-bar-young-redchip-firms-from-listing-outside-mainland-china-sources-say-5040979",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-pharos-energy-stock-sliding-today-93CH-5040982",
-    "SG Banks|https://www.investing.com/news/commodities-news/european-gas-gains-on-fresh-middle-east-attacks-but-eyes-weekly-drop-5040776",
-    "SG Banks|https://www.investing.com/news/stock-market-news/deutsche-bank-upgrades-unicredit-stock-on-strong-earnings-outlook-93CH-5040984",
     "SG Banks|https://www.investing.com/news/stock-market-news/deutz-shares-gain-after-company-responds-to-short-seller-93CH-5040986",
     "SG Banks|https://www.investing.com/news/transcripts/ally-financial-at-jp-morgan-european-financials-conference-roe-gains-build-93CH-5040988",
     "SG Banks|https://www.investing.com/news/insider-trading-news/oklo-general-counsel-vivek-narayanadas-sells-4357-in-shares-93CH-5040994",
@@ -5000,7 +4990,17 @@
     "Watchlist|e975d49c-baa6-3554-be12-826bb0b44af8",
     "Iran|https://www.iranintl.com/en/202611222534",
     "AI|c3bd684f-7748-3a59-9994-df04df9f45d6",
-    "Watchlist|c3bd684f-7748-3a59-9994-df04df9f45d6"
+    "Watchlist|c3bd684f-7748-3a59-9994-df04df9f45d6",
+    "AI|be22dbe2-5fb3-3f75-9a34-fcb3921fae37",
+    "Watchlist|be22dbe2-5fb3-3f75-9a34-fcb3921fae37",
+    "AI|https://www.investing.com/news/insider-trading-news/reaves-utility-income-fund-officer-grimes-buys-240825-in-shares-93CH-5043726",
+    "AI|https://www.investing.com/news/insider-trading-news/freightcar-america-director-gil-benavides-buys-227790-in-stock-93CH-5043727",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/reaves-utility-income-fund-officer-grimes-buys-240825-in-shares-93CH-5043726",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/freightcar-america-director-gil-benavides-buys-227790-in-stock-93CH-5043727",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/reaves-utility-income-fund-officer-grimes-buys-240825-in-shares-93CH-5043726",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/freightcar-america-director-gil-benavides-buys-227790-in-stock-93CH-5043727",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/reaves-utility-income-fund-officer-grimes-buys-240825-in-shares-93CH-5043726",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/freightcar-america-director-gil-benavides-buys-227790-in-stock-93CH-5043727"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795316845.5791163,
+  "last_check": 1795317772.2028258,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
