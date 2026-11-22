@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/democrats-open-probe-into-nvidia-influence-on-usmegaspeed-investigation-5041051",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/samsara-chief-accounting-officer-sells-31062-in-iot-shares-93CH-5041061",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-elior-h2-2026-shares-fall-as-profit-weakens-93CH-5041077",
-    "AI|ce74e76a-2318-3077-8d36-0628f2ddb821",
-    "Watchlist|ce74e76a-2318-3077-8d36-0628f2ddb821",
-    "War|WP-MKTW-0005361004",
-    "AI|WP-MKTW-0005361004",
-    "Cybersecurity|WP-MKTW-0005361004",
-    "AI|77424c8f-7d61-33f0-b82a-1ec8bb9e7367",
     "Watchlist|77424c8f-7d61-33f0-b82a-1ec8bb9e7367",
     "War|WP-MKTW-0005360862",
     "AI|WP-MKTW-0005360862",
@@ -5000,7 +4991,16 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/liberty-all-star-growth-fund-secretary-buys-2299-in-stock-93CH-5043804",
     "Watchlist|https://www.investing.com/news/insider-trading-news/park-ohio-holdings-vp--cfo-fogarty-sells-85179-in-stock-93CH-5043805",
     "Watchlist|https://www.investing.com/news/economy-news/snb-closely-watching-for-secondround-inflation-effects-vicechairman-tells-paper-5043809",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/donegal-mutual-insurance-buys-263297-in-donegal-group-stock-93CH-5043810"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/donegal-mutual-insurance-buys-263297-in-donegal-group-stock-93CH-5043810",
+    "Crypto|8df7cf49-0033-34e7-bb0b-9a5b2ad824b8",
+    "AI|https://www.investing.com/news/insider-trading-news/oklo-chief-product-officer-alexandra-renner-sells-12575-in-stock-93CH-5043820",
+    "AI|https://www.investing.com/news/stock-market-news/swiss-inflation-accelerates-as-snb-signals-concern-over-broader-price-pressures-5043822",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/oklo-chief-product-officer-alexandra-renner-sells-12575-in-stock-93CH-5043820",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/swiss-inflation-accelerates-as-snb-signals-concern-over-broader-price-pressures-5043822",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/oklo-chief-product-officer-alexandra-renner-sells-12575-in-stock-93CH-5043820",
+    "SG Banks|https://www.investing.com/news/stock-market-news/swiss-inflation-accelerates-as-snb-signals-concern-over-broader-price-pressures-5043822",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/oklo-chief-product-officer-alexandra-renner-sells-12575-in-stock-93CH-5043820",
+    "Watchlist|https://www.investing.com/news/stock-market-news/swiss-inflation-accelerates-as-snb-signals-concern-over-broader-price-pressures-5043822"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795336986.161376,
+  "last_check": 1795337903.5144355,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
