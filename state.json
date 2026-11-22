@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-benefit-systems-stock-surging-today-93CH-5040967",
-    "SG Banks|https://www.investing.com/news/stock-market-news/european-shares-head-for-steepest-weekly-drop-since-march-5040936",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/acrivon-therapeutics-chief-legal-officer-mary-miller-sells-279-in-stock-93CH-5040938",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/rayonier-svp-daniels-sells-18185-in-common-shares-93CH-5040939",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/chairperson--ceo-martine-rothblatt-sells-313m-united-therapeutics-stock-93CH-5040940",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/acrivon-therapeutics-chief-accounting-officer-sells-155-in-stock-93CH-5040941",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-mr-price-group-posts-h1-2026-beat-shares-rise-premarket-93CH-5040942",
-    "SG Banks|https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-076-5040946",
-    "SG Banks|https://www.investing.com/news/company-news/startrader-heads-to-icons-of-porsche-as-official-partner-of-the-porsche-carrera-cup-middle-east-5040956",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-benefit-systems-stock-surging-today-93CH-5040967",
-    "Watchlist|https://www.investing.com/news/stock-market-news/european-shares-head-for-steepest-weekly-drop-since-march-5040936",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/acrivon-therapeutics-chief-legal-officer-mary-miller-sells-279-in-stock-93CH-5040938",
     "Watchlist|https://www.investing.com/news/insider-trading-news/rayonier-svp-daniels-sells-18185-in-common-shares-93CH-5040939",
     "Watchlist|https://www.investing.com/news/insider-trading-news/chairperson--ceo-martine-rothblatt-sells-313m-united-therapeutics-stock-93CH-5040940",
     "Watchlist|https://www.investing.com/news/insider-trading-news/acrivon-therapeutics-chief-accounting-officer-sells-155-in-stock-93CH-5040941",
@@ -5000,7 +4988,19 @@
     "AI|62a8ef9a-7ef4-3eb6-b278-b5d3faeb8a21",
     "Watchlist|62a8ef9a-7ef4-3eb6-b278-b5d3faeb8a21",
     "Watchlist|f867d9ed-48c3-32ec-9c2d-2869b179762a",
-    "AI|f867d9ed-48c3-32ec-9c2d-2869b179762a"
+    "AI|f867d9ed-48c3-32ec-9c2d-2869b179762a",
+    "AI|de068f8f-dcc5-37e1-a723-cd32eda11800",
+    "AI|72c56e8f-26f3-3a94-8e4e-01dbed0d3c7a",
+    "Watchlist|de068f8f-dcc5-37e1-a723-cd32eda11800",
+    "Watchlist|72c56e8f-26f3-3a94-8e4e-01dbed0d3c7a",
+    "AI|https://www.investing.com/news/stock-market-news/chinas-ai-stocks-lose-17-trillion-as-tech-selloff-deepens-5043672",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/chinas-ai-stocks-lose-17-trillion-as-tech-selloff-deepens-5043672",
+    "SG Banks|https://www.investing.com/news/stock-market-news/chinas-ai-stocks-lose-17-trillion-as-tech-selloff-deepens-5043672",
+    "Watchlist|https://www.investing.com/news/stock-market-news/chinas-ai-stocks-lose-17-trillion-as-tech-selloff-deepens-5043672",
+    "AI|a33d4edb-93a3-3714-8670-617dec6b4453",
+    "Watchlist|a33d4edb-93a3-3714-8670-617dec6b4453",
+    "SG Banks|/companies-markets/capital-markets-currencies/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout",
+    "Watchlist|/companies-markets/capital-markets-currencies/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795309509.3319077,
+  "last_check": 1795310432.6111014,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
