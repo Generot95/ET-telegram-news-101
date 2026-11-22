@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/analyst-ratings/bofa-cuts-construction-partners-stock-price-target-on-margin-pressures-93CH-5041322",
-    "SG Banks|https://www.investing.com/news/economic-indicators/eus-hansen-says-us-trade-uncertainty-is-drawing-mexico-europe-closer-5041312",
-    "SG Banks|https://www.investing.com/news/economy-news/anthropics-postdebut-stumble-delivers-reality-check-for-ai-trade-5041125",
-    "SG Banks|https://www.investing.com/news/stock-market-news/big-pharma-with-eye-on-anthropic-says-ai-is-shrinking-drug-discovery-timelines-5041287",
-    "Watchlist|d4156521-3258-32ad-a236-65762033bcb8",
-    "Watchlist|9eee6500-2501-31c6-a864-cb829ed7b840",
-    "Watchlist|a733e979-a591-3c3b-9dbb-9630fb0dc4b4",
-    "Watchlist|f49a7ceb-29ea-3a18-9fbf-bafed53735ef",
-    "Watchlist|a53daa72-e3e2-33ba-a049-fe1561d7f779",
-    "Watchlist|e150092a-8ba9-32a4-beb6-632ec4bd23af",
-    "Watchlist|0b73c99d-fbd1-3f8b-9769-0789f6adf4d4",
-    "Watchlist|d6e78a62-82fe-3521-bd8c-87cb8493cb73",
     "Watchlist|78e28c00-eae2-36a7-b158-6b47cc159544",
     "Watchlist|https://www.investing.com/news/analyst-ratings/da-davidson-cuts-choiceone-financial-stock-rating-on-valuation-93CH-5041318",
     "Watchlist|https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-neutral-on-elastic-stock-cites-valuation-93CH-5041319",
@@ -5000,7 +4988,19 @@
     "AI|d41a1f86-bc3f-396d-b7a6-4ebf212f5a97",
     "AI|8d552100-1592-35ca-88eb-1fdc6f267cfd",
     "Watchlist|7e22a58c-dd42-35fe-8635-fd9568bc49b5",
-    "Watchlist|d41a1f86-bc3f-396d-b7a6-4ebf212f5a97"
+    "Watchlist|d41a1f86-bc3f-396d-b7a6-4ebf212f5a97",
+    "Cybersecurity|8bdab8c1-e02a-3e42-8ada-41f10aebc57c",
+    "AI|19b65733-eb1a-351e-845d-fed32c942aa6",
+    "Watchlist|19b65733-eb1a-351e-845d-fed32c942aa6",
+    "War|WP-MKTW-0005362999",
+    "AI|WP-MKTW-0005362999",
+    "Cybersecurity|WP-MKTW-0005362999",
+    "AI|79ed652a-d443-35e2-b833-da0853704b22",
+    "AI|3cb77002-63c4-30af-97fe-c8210d667c49",
+    "AI|e98699a1-0017-3ddf-addd-73decb544e74",
+    "Watchlist|79ed652a-d443-35e2-b833-da0853704b22",
+    "Watchlist|3cb77002-63c4-30af-97fe-c8210d667c49",
+    "Watchlist|e98699a1-0017-3ddf-addd-73decb544e74"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795355339.2134018,
+  "last_check": 1795356268.9225864,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
