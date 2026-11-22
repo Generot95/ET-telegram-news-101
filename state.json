@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|b398984c-20aa-3d9e-a901-9900814b33a2",
-    "AI|6e6f9c49-9658-3615-8008-22c4188b1bd6",
     "AI|WP-MKTW-0005360490",
     "Cybersecurity|WP-MKTW-0005360490",
     "Watchlist|1300ddc4-2819-33ec-a6e8-70a362de0719",
@@ -5000,7 +4998,9 @@
     "AI|https://www.investing.com/news/analyst-ratings/analyst-explains-why-spacex-is-roughly-ten-years-ahead-of-any-competitor-5044104",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/analyst-explains-why-spacex-is-roughly-ten-years-ahead-of-any-competitor-5044104",
     "SG Banks|https://www.investing.com/news/analyst-ratings/analyst-explains-why-spacex-is-roughly-ten-years-ahead-of-any-competitor-5044104",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/analyst-explains-why-spacex-is-roughly-ten-years-ahead-of-any-competitor-5044104"
+    "Watchlist|https://www.investing.com/news/analyst-ratings/analyst-explains-why-spacex-is-roughly-ten-years-ahead-of-any-competitor-5044104",
+    "Watchlist|c635d415-b086-3c30-bf57-359bd288dde7",
+    "AI|c635d415-b086-3c30-bf57-359bd288dde7"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795378247.3937497,
+  "last_check": 1795379172.0266445,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
