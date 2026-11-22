@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/paypal-appoints-former-goldman-sachs-risk-officer-to-board-93CH-5041507",
-    "Watchlist|21ee7af3-3479-3cc1-ac1e-8d059d05f6d4",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/wedbush-cuts-elastic-stock-price-target-on-q3-guidance-miss-93CH-5041487",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/argus-raises-regeneron-stock-price-target-on-dupixent-strength-93CH-5041488",
-    "Watchlist|https://www.investing.com/news/company-news/avanti-feeds-q2-fy27-slides-revenue-rises-9-margins-hit-cycle-low-93CH-5041494",
-    "Watchlist|https://www.investing.com/news/sec-filings/erasca-reports-updated-phase-1-data-for-eras0015-and-eras4001-in-solid-tumors-93CH-5041496",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/needham-downgrades-billcom-stock-rating-to-hold-on-acquisition-93CH-5041497",
-    "Watchlist|https://www.investing.com/news/stock-market-news/anthropic-ipo-triggers-ai-selloff--washout-or-deeper-unwind-93CH-5041498",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-freenet-stock-rallying-today-93CH-5041504",
     "Watchlist|https://www.investing.com/news/sec-filings/vanda-pharmaceuticals-settles-patent-litigation-with-msn-over-hetlioz-lq-generic-93CH-5041506",
     "Watchlist|https://www.investing.com/news/company-news/paypal-appoints-former-goldman-sachs-risk-officer-to-board-93CH-5041507",
     "Cybersecurity|WP-MKTW-0003509284",
@@ -5000,7 +4991,16 @@
     "Cybersecurity|WP-MKTW-0003509216",
     "Watchlist|623e4c3c-c487-3865-9db5-869038d73aeb",
     "AI|7c0eabf4-4c7e-3fc6-81ec-03fbf3b3a845",
-    "Watchlist|7c0eabf4-4c7e-3fc6-81ec-03fbf3b3a845"
+    "Watchlist|7c0eabf4-4c7e-3fc6-81ec-03fbf3b3a845",
+    "AI|53627709-f961-3e28-8cae-c235dfc29e94",
+    "Watchlist|53627709-f961-3e28-8cae-c235dfc29e94",
+    "War|3d16d880-2113-310b-9f3c-46fa76774b42",
+    "Crypto|ca017645-0476-36dc-9d71-9c4483d894da",
+    "AI|380b956b-78e2-326e-a01c-33560d325d6a",
+    "Watchlist|380b956b-78e2-326e-a01c-33560d325d6a",
+    "Watchlist|22ea5674-69d8-325a-ac82-6b4a19011ef8",
+    "AI|688d780c-8a9f-35b9-816d-2f2c7605e411",
+    "Watchlist|688d780c-8a9f-35b9-816d-2f2c7605e411"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795376425.1508155,
+  "last_check": 1795377340.112917,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
