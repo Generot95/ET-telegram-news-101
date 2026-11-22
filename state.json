@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/sec-filings/granite-construction-appoints-stanley-g-bass-to-board-of-directors-93CH-5041479",
-    "AI|https://www.investing.com/news/company-news/nouveau-monde-graphite-receives-nyse-noncompliance-notice-93CH-5041483",
-    "AI|https://www.investing.com/news/company-news/wabtec-appoints-rich-freeland-to-board-of-directors-93CH-5041482",
-    "AI|https://www.investing.com/news/company-news/bunker-hill-enters-talks-for-kenya-rare-earth-project-93CH-5041484",
-    "AI|https://www.investing.com/news/company-news/erasca-reports-phase-1-trial-results-for-cancer-drugs-93CH-5041485",
-    "AI|https://www.investing.com/news/stock-market-news/barclays-upgrades-freenet-as-better-telefonica-deal-lifts-outlook-shares-rise-5041486",
-    "AI|https://www.investing.com/news/company-news/granite-adds-former-vulcan-materials-executive-to-board-93CH-5041409",
     "AI|https://www.investing.com/news/company-news/weride-q3-revenue-rises-88-gross-margin-reaches-43-93CH-5041457",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/erste-sees-bond-volatility-persisting-on-ai-concerns-until-2027-93CH-5041468",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-buy-on-teva-pharma-stock-54-target-93CH-5041467",
@@ -5000,7 +4993,14 @@
     "SG Banks|9364a9c7-6e6d-3c1b-ab1c-2251e2a388f8",
     "SG Banks|/companies-markets/prioritise-resilience-over-innovation-building-digital-payment-rails-central-bankers",
     "Watchlist|9364a9c7-6e6d-3c1b-ab1c-2251e2a388f8",
-    "Watchlist|/companies-markets/prioritise-resilience-over-innovation-building-digital-payment-rails-central-bankers"
+    "Watchlist|/companies-markets/prioritise-resilience-over-innovation-building-digital-payment-rails-central-bankers",
+    "Crypto|6f892ff4-592a-344f-ab6a-686bc3636442",
+    "AI|f2834eec-17f7-30ab-81ce-78afd9551f75",
+    "Watchlist|f2834eec-17f7-30ab-81ce-78afd9551f75",
+    "AI|https://www.investing.com/news/insider-trading-news/air-products-group-president-sells-142584-in-shares-93CH-5044071",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/air-products-group-president-sells-142584-in-shares-93CH-5044071",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/air-products-group-president-sells-142584-in-shares-93CH-5044071",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/air-products-group-president-sells-142584-in-shares-93CH-5044071"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795366357.3698223,
+  "last_check": 1795367262.0926976,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
