@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/forex-news/sterling-today-pound-edges-up-on-uk-retail-beat-dollar-caps-gains-5041015",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-intuit-stock-tumbling-today-93CH-5041016",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/baycom-corp-director-michael-perdue-buys-151000-in-shares-93CH-5041007",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/drilling-tools-international-vice-president-of-sales-buys-49965-stock-93CH-5041008",
     "Watchlist|https://www.investing.com/news/insider-trading-news/netscout-director-joseph-hadzima-jr-sells-118492-in-ntct-shares-93CH-5041009",
     "Watchlist|https://www.investing.com/news/analyst-ratings/jefferies-downgrades-fortis-stock-rating-on-arizona-regulatory-risk-93CH-5041010",
     "Watchlist|https://www.investing.com/news/economy-news/ecb-to-make-euro-swaps-more-accessible-in-global-push-lagarde-says-5041011",
@@ -5000,7 +4996,11 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/allspring-income-opportunities-fund-director-buys-1037-in-common-stock-93CH-5043750",
     "Iran|https://www.iranintl.com/en/202611218121",
     "AI|bcd44532-5c99-3ccd-b52f-ae4954b1cec5",
-    "Watchlist|bcd44532-5c99-3ccd-b52f-ae4954b1cec5"
+    "Watchlist|bcd44532-5c99-3ccd-b52f-ae4954b1cec5",
+    "War|https://www.investing.com/news/world-news/australia-criticises-us-congressional-budget-office-over-aukus-comments-5043662",
+    "Crypto|9871aa71-3ab0-331e-9c8d-c3bbb39949e9",
+    "Cybersecurity|b5e17c7c-3a81-33b0-8c6f-b6b56b9f531e",
+    "Watchlist|b5e17c7c-3a81-33b0-8c6f-b6b56b9f531e"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795323266.0944502,
+  "last_check": 1795324171.8390517,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
