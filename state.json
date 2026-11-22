@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Crypto|cb8342b8-c68e-3bbf-946c-462c1fd2f2cb",
-    "AI|6333fd3e-1d83-366d-a8a4-d5d0474fff64",
-    "AI|4e3f4299-f3da-3e63-843d-4fdb92664e19",
-    "Watchlist|6333fd3e-1d83-366d-a8a4-d5d0474fff64",
-    "Watchlist|4e3f4299-f3da-3e63-843d-4fdb92664e19",
-    "AI|https://www.investing.com/news/insider-trading-news/baycom-corp-director-michael-perdue-buys-151000-in-shares-93CH-5041007",
-    "AI|https://www.investing.com/news/insider-trading-news/drilling-tools-international-vice-president-of-sales-buys-49965-stock-93CH-5041008",
-    "AI|https://www.investing.com/news/insider-trading-news/netscout-director-joseph-hadzima-jr-sells-118492-in-ntct-shares-93CH-5041009",
-    "AI|https://www.investing.com/news/analyst-ratings/jefferies-downgrades-fortis-stock-rating-on-arizona-regulatory-risk-93CH-5041010",
-    "AI|https://www.investing.com/news/economy-news/ecb-to-make-euro-swaps-more-accessible-in-global-push-lagarde-says-5041011",
-    "AI|https://www.investing.com/news/forex-news/sterling-today-pound-edges-up-on-uk-retail-beat-dollar-caps-gains-5041015",
     "AI|https://www.investing.com/news/stock-market-news/why-is-intuit-stock-tumbling-today-93CH-5041016",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/baycom-corp-director-michael-perdue-buys-151000-in-shares-93CH-5041007",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/drilling-tools-international-vice-president-of-sales-buys-49965-stock-93CH-5041008",
@@ -5000,7 +4989,18 @@
     "Watchlist|f3837d82-64dc-39fd-a55c-d39806a009f0",
     "Watchlist|https://www.investing.com/news/insider-trading-news/richardson-electronics-director-halverson-sells-26608-in-stock-93CH-5043731",
     "Watchlist|https://www.investing.com/news/economy-news/ice-arrests-at-seattle-airport-spark-outrage-calls-for-congressional-scrutiny-5043736",
-    "Watchlist|2597c01a-e924-3e13-9668-b3a356ed5e68"
+    "Watchlist|2597c01a-e924-3e13-9668-b3a356ed5e68",
+    "AI|https://www.investing.com/news/stock-market-news/washington-governor-union-denounce-ice-arrests-of-travelers-at-seattle-airport-5043737",
+    "AI|https://www.investing.com/news/insider-trading-news/german-american-bancorp-director-andrew-seger-buys-1200-in-stock-93CH-5043743",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/washington-governor-union-denounce-ice-arrests-of-travelers-at-seattle-airport-5043737",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/german-american-bancorp-director-andrew-seger-buys-1200-in-stock-93CH-5043743",
+    "SG Banks|https://www.investing.com/news/stock-market-news/washington-governor-union-denounce-ice-arrests-of-travelers-at-seattle-airport-5043737",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/german-american-bancorp-director-andrew-seger-buys-1200-in-stock-93CH-5043743",
+    "Watchlist|https://www.investing.com/news/stock-market-news/washington-governor-union-denounce-ice-arrests-of-travelers-at-seattle-airport-5043737",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/german-american-bancorp-director-andrew-seger-buys-1200-in-stock-93CH-5043743",
+    "Crypto|42aab7dd-a165-3cfb-af1e-3f4df3ce38b0",
+    "AI|dd51da04-72c5-3a4d-8b9f-82233e48d991",
+    "Watchlist|dd51da04-72c5-3a4d-8b9f-82233e48d991"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795319582.0262542,
+  "last_check": 1795320507.988904,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
