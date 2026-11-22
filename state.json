@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/analysisscientists-are-learning-more-about-the-rare-ebola-virus-in-congo-outbreak-5041257",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/black-friday-brings-consumer-spending-into-focus-for-airocked-market-5041258",
-    "Cybersecurity|https://www.investing.com/news/economy-news/congress-struggles-to-avert-us-shutdown-as-iran-war-divides-lawmakers-5041259",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/analysistrump-touts-asia-trade-deal-wins-but-us-agricultural-exports-disappoint-5041260",
-    "Cybersecurity|https://www.investing.com/news/company-news/tokio-marine-q2-2026-slides-profit-guidance-raised-on-strong-results-93CH-5041201",
-    "Cybersecurity|https://www.investing.com/news/company-news/sompo-fy2026-h1-slides-record-profit-drives-forecast-raise-to-540bn-93CH-5041208",
-    "Cybersecurity|https://www.investing.com/news/company-news/hyperscale-data-launches-exchange-offer-for-common-stock-93CH-5041246",
-    "SG Banks|https://www.investing.com/news/company-news/prospect-capital-exits-security-fire-systems-investment-93CH-5041247",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-altri-groups-q3-2026-profit-recovery-holds-as-dp-gains-93CH-5041250",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/oppenheimer-reiterates-plug-power-stock-rating-after-symposium-93CH-5041251",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/intapp-director-george-neble-sells-111226-in-stock-93CH-5041252",
     "SG Banks|https://www.investing.com/news/economy-news/ukeu-trade-deals-delayed-up-to-six-months-as-tuition-fee-talks-stall-5041255",
     "SG Banks|https://www.investing.com/news/stock-market-news/robinhood-faces-shareholder-challenge-as-sec-loosens-proxy-oversight-5041256",
     "SG Banks|https://www.investing.com/news/stock-market-news/analysisscientists-are-learning-more-about-the-rare-ebola-virus-in-congo-outbreak-5041257",
@@ -5000,7 +4989,18 @@
     "AI|https://www.investing.com/news/insider-trading-news/fortinet-cfo-ohlgart-sells-27223-in-company-stock-93CH-5043915",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/fortinet-cfo-ohlgart-sells-27223-in-company-stock-93CH-5043915",
     "SG Banks|https://www.investing.com/news/insider-trading-news/fortinet-cfo-ohlgart-sells-27223-in-company-stock-93CH-5043915",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/fortinet-cfo-ohlgart-sells-27223-in-company-stock-93CH-5043915"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/fortinet-cfo-ohlgart-sells-27223-in-company-stock-93CH-5043915",
+    "AI|8bcdc66d-2672-3930-8549-a66d8beec74f",
+    "Watchlist|8bcdc66d-2672-3930-8549-a66d8beec74f",
+    "SG Banks|/international/spacex-anthropic-ran-unusual-ipo-process-chafing-some-bankers",
+    "Watchlist|25be384e-9075-350f-9e28-b0c4a88fe29a",
+    "Watchlist|/international/spacex-anthropic-ran-unusual-ipo-process-chafing-some-bankers",
+    "AI|93ced751-935b-3756-a430-1a9a3afb7b01",
+    "AI|18710d3a-b0cd-3635-942e-138525410a03",
+    "AI|f41b253c-1c05-3731-9c30-ec316cf458ce",
+    "Watchlist|25a8d0ac-c850-3ce0-809c-8ce724dd701c",
+    "Watchlist|f41b253c-1c05-3731-9c30-ec316cf458ce",
+    "Watchlist|93ced751-935b-3756-a430-1a9a3afb7b01"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795348011.5121713,
+  "last_check": 1795348921.906468,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
