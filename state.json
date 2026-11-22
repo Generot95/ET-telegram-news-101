@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|08742450-98a3-3dfd-9301-15032585c2d9",
-    "Watchlist|7d4e22ac-1852-39fb-9ddc-d8c9ccbcc77a",
-    "Watchlist|d0e4d148-7025-3727-aa84-9cda13b2c75c",
-    "AI|7d4e22ac-1852-39fb-9ddc-d8c9ccbcc77a",
-    "SG Banks|/international/asean/chilling-effect-us-chip-curbs-could-slow-asean-data-centre-growth-malaysia-thailand-more-risk",
-    "SG Banks|https://www.straitstimes.com/business/indonesia-revokes-riau-forestry-permits-of-april-group-unit-over-alleged-peatland-fires-violations",
-    "Watchlist|/international/asean/chilling-effect-us-chip-curbs-could-slow-asean-data-centre-growth-malaysia-thailand-more-risk",
-    "SG Banks|https://www.channelnewsasia.com/business/oil-prices-set-third-straight-weekly-decline-strong-middle-east-export-flows-6568016",
-    "Watchlist|9d8185fa-aee0-3591-8ea0-3f52639be788",
-    "Iran|https://www.iranintl.com/en/202611200129",
-    "AI|https://www.investing.com/news/earnings/tsakos-energy-earnings-beat-by-103-revenue-topped-estimates-5041352",
-    "AI|https://www.investing.com/news/company-news/telo-genomics-announces-private-placement-of-up-to-1-million-93CH-5041353",
     "AI|https://www.investing.com/news/analyst-ratings/oppenheimer-reiterates-salesforce-stock-rating-citing-valuation-93CH-5041354",
     "AI|https://www.investing.com/news/stock-market-news/hsbc-upgrades-tesla-more-than-doubles-target-on-spacex-merger-potential-5041374",
     "AI|https://www.investing.com/news/company-news/startrader-launches-anthropic-stock-cfds-following-nasdaq-debut-5041379",
@@ -5000,7 +4988,19 @@
     "SG Banks|https://www.investing.com/news/earnings/chipmos-earnings-up-next-can-packaging-specialist-sustain-growth-93CH-5044024",
     "SG Banks|https://www.investing.com/news/earnings/organon-earnings-on-deck-as-sun-pharma-deal-looms-93CH-5044025",
     "Watchlist|https://www.investing.com/news/earnings/chipmos-earnings-up-next-can-packaging-specialist-sustain-growth-93CH-5044024",
-    "Watchlist|https://www.investing.com/news/earnings/organon-earnings-on-deck-as-sun-pharma-deal-looms-93CH-5044025"
+    "Watchlist|https://www.investing.com/news/earnings/organon-earnings-on-deck-as-sun-pharma-deal-looms-93CH-5044025",
+    "AI|a0a8e9e6-89e0-34f2-81cf-ba15ab396c7d",
+    "Watchlist|a0a8e9e6-89e0-34f2-81cf-ba15ab396c7d",
+    "AI|990abfa6-fe5c-3255-88eb-a6431638a451",
+    "Watchlist|990abfa6-fe5c-3255-88eb-a6431638a451",
+    "AI|335b9e28-e882-3c6e-9218-244be4c27f0c",
+    "Watchlist|335b9e28-e882-3c6e-9218-244be4c27f0c",
+    "SG Banks|/international/asean/chilling-effect-us-chip-curbs-could-slow-asean-data-centre-growth-malaysia-thailand-more-risk",
+    "War|WP-MKTW-0005362871",
+    "AI|WP-MKTW-0005362871",
+    "Cybersecurity|WP-MKTW-0005362871",
+    "Watchlist|/international/asean/chilling-effect-us-chip-curbs-could-slow-asean-data-centre-growth-malaysia-thailand-more-risk",
+    "Iran|https://www.iranintl.com/en/202611200129"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795359006.6178727,
+  "last_check": 1795359934.3728404,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
