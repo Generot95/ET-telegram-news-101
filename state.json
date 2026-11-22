@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/earnings/tsakos-energy-earnings-beat-by-103-revenue-topped-estimates-5041352",
-    "SG Banks|https://www.investing.com/news/company-news/telo-genomics-announces-private-placement-of-up-to-1-million-93CH-5041353",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/oppenheimer-reiterates-salesforce-stock-rating-citing-valuation-93CH-5041354",
-    "SG Banks|https://www.investing.com/news/stock-market-news/hsbc-upgrades-tesla-more-than-doubles-target-on-spacex-merger-potential-5041374",
-    "SG Banks|https://www.investing.com/news/company-news/startrader-launches-anthropic-stock-cfds-following-nasdaq-debut-5041379",
     "SG Banks|https://www.investing.com/news/sec-filings/westlake-corp-reaches-settlements-in-pvc-pipe-antitrust-litigation-93CH-5041380",
     "SG Banks|https://www.investing.com/news/earnings/gdev-inc-earnings-matched-revenue-was-in-line-with-estimates-5041384",
     "Watchlist|https://www.investing.com/news/earnings/tsakos-energy-earnings-beat-by-103-revenue-topped-estimates-5041352",
@@ -5000,7 +4995,12 @@
     "AI|https://www.investing.com/news/stock-market-news/asian-countries-take-steps-to-aid-stock-markets-after-ai-rout-5044034",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/asian-countries-take-steps-to-aid-stock-markets-after-ai-rout-5044034",
     "SG Banks|https://www.investing.com/news/stock-market-news/asian-countries-take-steps-to-aid-stock-markets-after-ai-rout-5044034",
-    "Watchlist|https://www.investing.com/news/stock-market-news/asian-countries-take-steps-to-aid-stock-markets-after-ai-rout-5044034"
+    "Watchlist|https://www.investing.com/news/stock-market-news/asian-countries-take-steps-to-aid-stock-markets-after-ai-rout-5044034",
+    "AI|0b2c82dd-947a-3162-a693-164ddec9080f",
+    "AI|260b18ec-2f06-370e-8933-585c8c53e33c",
+    "Watchlist|0b2c82dd-947a-3162-a693-164ddec9080f",
+    "Watchlist|260b18ec-2f06-370e-8933-585c8c53e33c",
+    "Watchlist|1c6fbb67-a3f3-3850-bc15-47b566fa651f"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795361764.773666,
+  "last_check": 1795362670.8750567,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
