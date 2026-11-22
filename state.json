@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|7d8198bb-efda-3273-92bc-d2d7e8d9a4c3",
-    "Crypto|8e59c28b-4b76-3387-bc73-a324d392da34",
-    "Watchlist|af9d0b87-3a77-3597-97d3-8856b7018e13",
-    "Watchlist|9f6d23c8-6ade-33ad-a302-dfecacb06c42",
-    "Watchlist|7d8198bb-efda-3273-92bc-d2d7e8d9a4c3",
-    "SG Banks|https://www.channelnewsasia.com/business/thailand-must-keep-us-major-trade-partner-pm-says-6569201",
-    "War|20db69e0-1a92-3fef-a765-701eb89d5dce",
-    "AI|274b73fe-5e61-308c-b2bc-7ab2bd668aea",
-    "AI|eb33d01a-29c3-359a-87d7-a9c9b80e8754",
-    "Crypto|ea466999-b3a0-3537-a892-2aeadc29afa6",
     "Watchlist|eb33d01a-29c3-359a-87d7-a9c9b80e8754",
     "Watchlist|274b73fe-5e61-308c-b2bc-7ab2bd668aea",
     "AI|a2bdbc71-4e99-34eb-8fda-2c0b5d0f4852",
@@ -5000,7 +4990,17 @@
     "AI|1a5a8ab3-af98-3654-9bfc-ae0a1c4b3521",
     "Watchlist|1a5a8ab3-af98-3654-9bfc-ae0a1c4b3521",
     "AI|9dee34e7-379c-3bd6-bf20-a3b507771396",
-    "Watchlist|9dee34e7-379c-3bd6-bf20-a3b507771396"
+    "Watchlist|9dee34e7-379c-3bd6-bf20-a3b507771396",
+    "AI|09091a73-eb68-3537-b6bc-a7620d57706c",
+    "Watchlist|09091a73-eb68-3537-b6bc-a7620d57706c",
+    "Watchlist|8e0001fd-12b3-3675-b95a-86832b8c5944",
+    "AI|https://www.investing.com/news/stock-market-news/analysiscorrection-or-deeper-reckoning-investors-seek-signs-us-stock-selling-will-abate-5043939",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/analysiscorrection-or-deeper-reckoning-investors-seek-signs-us-stock-selling-will-abate-5043939",
+    "SG Banks|https://www.investing.com/news/stock-market-news/analysiscorrection-or-deeper-reckoning-investors-seek-signs-us-stock-selling-will-abate-5043939",
+    "Watchlist|https://www.investing.com/news/stock-market-news/analysiscorrection-or-deeper-reckoning-investors-seek-signs-us-stock-selling-will-abate-5043939",
+    "War|WP-MKTW-0005363404",
+    "AI|WP-MKTW-0005363404",
+    "Cybersecurity|WP-MKTW-0005363404"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795349843.089232,
+  "last_check": 1795350766.541928,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
