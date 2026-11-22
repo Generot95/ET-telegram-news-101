@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/european-shares-head-for-steepest-weekly-drop-since-march-5040936",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/acrivon-therapeutics-chief-legal-officer-mary-miller-sells-279-in-stock-93CH-5040938",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/rayonier-svp-daniels-sells-18185-in-common-shares-93CH-5040939",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/chairperson--ceo-martine-rothblatt-sells-313m-united-therapeutics-stock-93CH-5040940",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/acrivon-therapeutics-chief-accounting-officer-sells-155-in-stock-93CH-5040941",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-mr-price-group-posts-h1-2026-beat-shares-rise-premarket-93CH-5040942",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-076-5040946",
-    "Cybersecurity|https://www.investing.com/news/company-news/startrader-heads-to-icons-of-porsche-as-official-partner-of-the-porsche-carrera-cup-middle-east-5040956",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-benefit-systems-stock-surging-today-93CH-5040967",
     "SG Banks|https://www.investing.com/news/stock-market-news/european-shares-head-for-steepest-weekly-drop-since-march-5040936",
     "SG Banks|https://www.investing.com/news/insider-trading-news/acrivon-therapeutics-chief-legal-officer-mary-miller-sells-279-in-stock-93CH-5040938",
@@ -5000,7 +4992,15 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/park-ohio-holdings-vp--cfo-patrick-fogarty-sells-99213-in-stock-93CH-5043650",
     "Watchlist|https://www.investing.com/news/insider-trading-news/amphastar-cfo-william-peters-sells-329890-in-stock-93CH-5043651",
     "Watchlist|https://www.investing.com/news/insider-trading-news/texas-community-bancshares-coo-haskell-strange-sells-14911-in-stock-93CH-5043660",
-    "AI|fe46cb84-40bc-3e27-a0c4-af1e1aa7698d"
+    "AI|fe46cb84-40bc-3e27-a0c4-af1e1aa7698d",
+    "AI|https://www.investing.com/news/insider-trading-news/filana-therapeutics-ceo-barry-richard-buys-206896-in-company-stock-93CH-5043668",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/filana-therapeutics-ceo-barry-richard-buys-206896-in-company-stock-93CH-5043668",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/filana-therapeutics-ceo-barry-richard-buys-206896-in-company-stock-93CH-5043668",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/filana-therapeutics-ceo-barry-richard-buys-206896-in-company-stock-93CH-5043668",
+    "AI|62a8ef9a-7ef4-3eb6-b278-b5d3faeb8a21",
+    "Watchlist|62a8ef9a-7ef4-3eb6-b278-b5d3faeb8a21",
+    "Watchlist|f867d9ed-48c3-32ec-9c2d-2869b179762a",
+    "AI|f867d9ed-48c3-32ec-9c2d-2869b179762a"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795308605.3481984,
+  "last_check": 1795309509.3319077,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
