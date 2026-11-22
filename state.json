@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/company-news/nouveau-monde-graphite-receives-nyse-noncompliance-notice-93CH-5041483",
-    "Watchlist|https://www.investing.com/news/company-news/wabtec-appoints-rich-freeland-to-board-of-directors-93CH-5041482",
-    "Watchlist|https://www.investing.com/news/company-news/bunker-hill-enters-talks-for-kenya-rare-earth-project-93CH-5041484",
-    "Watchlist|https://www.investing.com/news/company-news/erasca-reports-phase-1-trial-results-for-cancer-drugs-93CH-5041485",
-    "Watchlist|https://www.investing.com/news/stock-market-news/barclays-upgrades-freenet-as-better-telefonica-deal-lifts-outlook-shares-rise-5041486",
-    "War|https://www.investing.com/news/world-news/bob-menendez-jury-was-mistakenly-shown-improper-evidence-prosecutors-say-3721212",
-    "War|https://www.investing.com/news/world-news/taiwan-has-no-arms-shopping-list-for-trump-but-keen-to-discuss-taiwan-security-officials-say-3722013",
     "War|https://www.investing.com/news/world-news/china-clears-memorial-to-mass-killing-victims-as-government-scrambles-to-respond-3718914",
     "War|https://www.investing.com/news/world-news/human-rights-watch-accuses-israel-of-war-crimes-over-gaza-displacements-3722151",
     "War|https://www.investing.com/news/world-news/brazils-top-court-evacuates-after-two-nearby-explosions-man-dead-3721910",
@@ -5000,7 +4993,14 @@
     "SG Banks|https://www.investing.com/news/stock-market-news/us-seeks-answers-on-nvidias-sale-of-chips-to-china-bessent-says-5044083",
     "SG Banks|https://www.investing.com/news/analyst-ratings/what-is-oracle-worth-if-you-dont-believe-in-the-ai-data-center-buildout-5044084",
     "Watchlist|https://www.investing.com/news/stock-market-news/us-seeks-answers-on-nvidias-sale-of-chips-to-china-bessent-says-5044083",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/what-is-oracle-worth-if-you-dont-believe-in-the-ai-data-center-buildout-5044084"
+    "Watchlist|https://www.investing.com/news/analyst-ratings/what-is-oracle-worth-if-you-dont-believe-in-the-ai-data-center-buildout-5044084",
+    "AI|5f987bc7-0376-3837-84d3-69df8414a4e9",
+    "Watchlist|5f987bc7-0376-3837-84d3-69df8414a4e9",
+    "Watchlist|294d076a-efea-3969-acca-3de45b5f2a88",
+    "SG Banks|https://www.channelnewsasia.com/business/us-intelligence-chief-predicts-more-tech-outages-systems-undergo-upgrades-6573221",
+    "AI|c44c91c6-2fe5-38d3-b8f2-1b5d5b5ee6d8",
+    "Watchlist|c44c91c6-2fe5-38d3-b8f2-1b5d5b5ee6d8",
+    "War|https://www.investing.com/news/world-news/bob-menendez-jury-was-mistakenly-shown-improper-evidence-prosecutors-say-3721212"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795370933.692708,
+  "last_check": 1795371830.316774,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
