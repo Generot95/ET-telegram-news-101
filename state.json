@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/commerzbank-ceo-raises-2026-profit-outlook-as-unicredit-takeover-nears-5041313",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-oklo-stock-lower-and-volatile-today-93CH-5041314",
-    "AI|https://www.investing.com/news/company-news/altri-q3-2026-slides-margin-recovery-holds-despite-volume-decline-93CH-5041307",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/da-davidson-cuts-choiceone-financial-stock-rating-on-valuation-93CH-5041318",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-neutral-on-elastic-stock-cites-valuation-93CH-5041319",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/da-davidson-downgrades-national-bank-holdings-stock-rating-on-credit-concerns-93CH-5041320",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/bofa-raises-best-buy-stock-price-target-to-83-on-comp-momentum-93CH-5041321",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/bofa-cuts-construction-partners-stock-price-target-on-margin-pressures-93CH-5041322",
@@ -5000,7 +4995,12 @@
     "Watchlist|30ccaf81-31d3-3e27-893e-4462c9144a40",
     "Watchlist|d9036eb4-6f50-35bf-9230-c911e69ad48f",
     "AI|0b58df0c-91fb-3420-b251-76bf363a624a",
-    "Watchlist|0b58df0c-91fb-3420-b251-76bf363a624a"
+    "Watchlist|0b58df0c-91fb-3420-b251-76bf363a624a",
+    "Cybersecurity|7839548a-17f1-3e08-bfda-1d4e92ad9a8e",
+    "AI|6bad77ac-f4b2-3f14-9e1e-b1d6b2ba31a4",
+    "Watchlist|6bad77ac-f4b2-3f14-9e1e-b1d6b2ba31a4",
+    "AI|a2d15aad-ecfc-3fc2-9c50-786a6cb48bca",
+    "Watchlist|a2d15aad-ecfc-3fc2-9c50-786a6cb48bca"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795353530.3440306,
+  "last_check": 1795354442.0322623,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
