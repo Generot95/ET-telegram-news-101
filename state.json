@@ -1,7 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-asml-stock-sliding-today-93CH-5041123",
     "Watchlist|https://www.investing.com/news/analyst-ratings/bmo-upgrades-everforth-stock-rating-on-valuation-refinancing-view-93CH-5041124",
     "SG Banks|https://www.channelnewsasia.com/business/anthropics-post-debut-stumble-delivers-reality-check-ai-trade-6569081",
     "Watchlist|22430662-435c-3cc5-b9c2-b32043b6e138",
@@ -5000,7 +4999,8 @@
     "AI|90e255a2-b976-34df-b016-bff3e751c147",
     "AI|f0fc0350-8f00-31a2-8385-77601d329391",
     "Watchlist|90e255a2-b976-34df-b016-bff3e751c147",
-    "Watchlist|f0fc0350-8f00-31a2-8385-77601d329391"
+    "Watchlist|f0fc0350-8f00-31a2-8385-77601d329391",
+    "Crypto|718dec13-281f-3025-9307-b64bd9c4b631"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795341595.6591153,
+  "last_check": 1795342499.6963131,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
