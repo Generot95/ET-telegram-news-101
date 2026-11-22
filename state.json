@@ -1,7 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.channelnewsasia.com/business/oil-prices-set-third-straight-weekly-decline-middle-east-export-flows-6568016",
     "Crypto|cb8342b8-c68e-3bbf-946c-462c1fd2f2cb",
     "AI|6333fd3e-1d83-366d-a8a4-d5d0474fff64",
     "AI|4e3f4299-f3da-3e63-843d-4fdb92664e19",
@@ -5000,7 +4999,8 @@
     "SG Banks|https://www.investing.com/news/economy-news/ice-arrests-at-seattle-airport-spark-outrage-calls-for-congressional-scrutiny-5043736",
     "Watchlist|f3837d82-64dc-39fd-a55c-d39806a009f0",
     "Watchlist|https://www.investing.com/news/insider-trading-news/richardson-electronics-director-halverson-sells-26608-in-stock-93CH-5043731",
-    "Watchlist|https://www.investing.com/news/economy-news/ice-arrests-at-seattle-airport-spark-outrage-calls-for-congressional-scrutiny-5043736"
+    "Watchlist|https://www.investing.com/news/economy-news/ice-arrests-at-seattle-airport-spark-outrage-calls-for-congressional-scrutiny-5043736",
+    "Watchlist|2597c01a-e924-3e13-9668-b3a356ed5e68"
   ],
   "topic_error": "",
   "last_digest": "2026-11-22",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795318675.7632825,
+  "last_check": 1795319582.0262542,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-21"
