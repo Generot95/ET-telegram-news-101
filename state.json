@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/earnings/rlx-technology-adr-earnings-missed-by-009-revenue-fell-short-of-estimates-5041723",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-bitfufu-tops-q3-2026-eps-forecast-as-revenue-misses-93CH-5041724",
-    "AI|https://www.investing.com/news/insider-trading-news/japan-post-holdings-aflac-10-owner-sells-188m-in-shares-93CH-5041735",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-worldline-stock-plunging-today-93CH-5041694",
-    "AI|https://www.investing.com/news/stock-market-news/2-questions-will-decide-risk-assets-heading-into-2027-bofas-hartnett-says-5041695",
     "AI|https://www.investing.com/news/stock-market-news/angola-to-pay-180m-for-10-stake-in-de-beers-93CH-5041697",
     "AI|https://www.investing.com/news/stock-market-news/why-is-revolution-medicines-stock-rallying-today-93CH-5041698",
     "AI|https://www.investing.com/news/stock-market-news/is-the-post-earnings-selloff-in-intuit-stock-a-buy-after-mailchimp-sale-93CH-5041708",
@@ -5000,7 +4995,12 @@
     "SG Banks|WP-MKTW-0004179843",
     "SG Banks|WP-MKTW-0004255367",
     "AI|3d680e73-7dde-378c-877e-2dd496609974",
-    "Watchlist|3d680e73-7dde-378c-877e-2dd496609974"
+    "Watchlist|3d680e73-7dde-378c-877e-2dd496609974",
+    "AI|a5440c81-9de7-3c1e-95a3-66731fbba76e",
+    "Watchlist|a5440c81-9de7-3c1e-95a3-66731fbba76e",
+    "AI|da292acc-9adf-306d-a2c3-8ea8ca1e43da",
+    "Watchlist|da292acc-9adf-306d-a2c3-8ea8ca1e43da",
+    "War|775db395-8975-3f44-8bc3-707d63e05dca"
   ],
   "topic_error": "",
   "last_digest": "2026-11-23",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795397910.146143,
+  "last_check": 1795398817.4389596,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
