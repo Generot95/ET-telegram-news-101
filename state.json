@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/angola-to-pay-180m-for-10-stake-in-de-beers-93CH-5041697",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-revolution-medicines-stock-rallying-today-93CH-5041698",
-    "AI|https://www.investing.com/news/stock-market-news/is-the-post-earnings-selloff-in-intuit-stock-a-buy-after-mailchimp-sale-93CH-5041708",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-yesway-stock-sliding-today-93CH-5041713",
-    "AI|https://www.investing.com/news/company-news/inve-technologies-completes-214m-stock-buyback-tender-offer-93CH-5041680",
-    "AI|https://www.investing.com/news/company-news/xactus-to-offer-fico-credit-scoring-options-to-mortgage-clients-93CH-5041682",
-    "AI|https://www.investing.com/news/company-news/toyota-unveils-2027-sienna-with-improved-fuel-economy-93CH-5041683",
-    "AI|https://www.investing.com/news/company-news/johnson--johnson-drug-shows-improvement-in-axial-psoriatic-arthritis-93CH-5041685",
-    "AI|https://www.investing.com/news/company-news/chevron-vessel-arrives-in-greece-to-start-oil-exploration-work-93CH-5041696",
-    "AI|https://www.investing.com/news/company-news/scansource-names-tracey-hayes-president-of-microage-unit-93CH-5041715",
-    "Cybersecurity|https://www.investing.com/news/company-news/mechanics-bancorp-declares-quarterly-cash-dividend-93CH-5041716",
     "Cybersecurity|https://www.investing.com/news/company-news/the-one-group-launches-benihana-express-licensing-program-93CH-5041717",
     "Cybersecurity|https://www.investing.com/news/company-news/zeo-energy-reports-solar-customers-seeing-50-savings-vs-utilities-93CH-5041718",
     "Cybersecurity|https://www.investing.com/news/company-news/fda-delays-decision-on-savaras-autoimmune-pap-treatment-93CH-5041720",
@@ -5000,7 +4989,18 @@
     "Watchlist|a5440c81-9de7-3c1e-95a3-66731fbba76e",
     "AI|da292acc-9adf-306d-a2c3-8ea8ca1e43da",
     "Watchlist|da292acc-9adf-306d-a2c3-8ea8ca1e43da",
-    "War|775db395-8975-3f44-8bc3-707d63e05dca"
+    "War|775db395-8975-3f44-8bc3-707d63e05dca",
+    "AI|https://www.investing.com/news/stock-market-news/clariant-cdr-in-talks-to-acquire-ashland-bloomberg-reports-5044227",
+    "AI|https://www.investing.com/news/insider-trading-news/gladstone-commercial-ceo-buys-99999-in-common-stock-93CH-5044228",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/clariant-cdr-in-talks-to-acquire-ashland-bloomberg-reports-5044227",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/gladstone-commercial-ceo-buys-99999-in-common-stock-93CH-5044228",
+    "SG Banks|https://www.investing.com/news/stock-market-news/clariant-cdr-in-talks-to-acquire-ashland-bloomberg-reports-5044227",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/gladstone-commercial-ceo-buys-99999-in-common-stock-93CH-5044228",
+    "Watchlist|https://www.investing.com/news/stock-market-news/clariant-cdr-in-talks-to-acquire-ashland-bloomberg-reports-5044227",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/gladstone-commercial-ceo-buys-99999-in-common-stock-93CH-5044228",
+    "AI|86652e74-a505-3b9e-8da7-1bc05755f651",
+    "Watchlist|86652e74-a505-3b9e-8da7-1bc05755f651",
+    "SG Banks|https://www.straitstimes.com/business/office-snakes-cliques-and-gossip-can-you-really-trust-your-colleagues"
   ],
   "topic_error": "",
   "last_digest": "2026-11-23",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795398817.4389596,
+  "last_check": 1795399746.1211543,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
