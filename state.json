@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|3032aad0-d3b6-3498-815b-6c3f8ac38bb6",
-    "Watchlist|6b68b7e6-a05d-3df3-af6e-0f7bed836386",
-    "Watchlist|484dac46-0e19-367b-9ece-69023fababd4",
-    "AI|c0924c20-b719-3041-9d5d-8a1a2c1d4cdc",
-    "AI|86c76a10-8a82-30e2-a757-75804aaef902",
-    "Watchlist|c0924c20-b719-3041-9d5d-8a1a2c1d4cdc",
-    "Watchlist|86c76a10-8a82-30e2-a757-75804aaef902",
     "SG Banks|https://www.channelnewsasia.com/business/chile-japan-boost-cooperation-critical-minerals-chiles-kast-says-6569756",
     "Watchlist|989f6cb9-72bc-3fb8-95fa-4e450fa05520",
     "War|fdf70d7a-df4a-30c2-aa3c-206c836ee66f",
@@ -5000,7 +4993,14 @@
     "Iran|https://www.iranintl.com/en/202611204873",
     "SG Banks|/international/trump-hosts-gala-meme-coin-investors-his-token-plunges-record-lows",
     "SG Banks|https://www.channelnewsasia.com/business/california-ag-bonta-filed-lawsuit-against-openai-over-model-security-public-safety-6574006",
-    "Watchlist|/international/trump-hosts-gala-meme-coin-investors-his-token-plunges-record-lows"
+    "Watchlist|/international/trump-hosts-gala-meme-coin-investors-his-token-plunges-record-lows",
+    "AI|d019b48a-cecc-3dc2-b67e-1e85adc487f4",
+    "Watchlist|d019b48a-cecc-3dc2-b67e-1e85adc487f4",
+    "War|WP-MKTW-0005362265",
+    "AI|WP-MKTW-0005362265",
+    "Cybersecurity|WP-MKTW-0005362265",
+    "SG Banks|https://www.straitstimes.com/business/economy/singapores-core-inflation-eases-to-1-5-in-october",
+    "SG Banks|https://www.channelnewsasia.com/business/analysiseuropes-cloud-sovereignty-push-gains-ground-us-hyperscalers-remain-dominant-6574046"
   ],
   "topic_error": "",
   "last_digest": "2026-11-23",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795409862.5393305,
+  "last_check": 1795410761.3882186,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
