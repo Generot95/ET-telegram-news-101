@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|4a374490-0776-37f0-8b8a-65836f1dc662",
-    "Cybersecurity|0219b1e3-d1a5-3fb5-bb60-21cabc0a356c",
-    "Watchlist|0219b1e3-d1a5-3fb5-bb60-21cabc0a356c",
-    "Watchlist|7b00de9f-3047-36f7-b716-3fd7a01fbae7",
-    "Cybersecurity|3a7ea432-5c85-3034-8a88-567c3ad46037",
-    "AI|04060b86-5cc1-3e37-8e3e-b938dc2a931b",
     "AI|d66ce2c8-2da8-3018-a57f-552f4c06a81d",
     "Watchlist|04060b86-5cc1-3e37-8e3e-b938dc2a931b",
     "Watchlist|d66ce2c8-2da8-3018-a57f-552f4c06a81d",
@@ -5000,7 +4994,13 @@
     "AI|7f7a2471-50f6-3c9f-8959-51162edd5fad",
     "Watchlist|7f7a2471-50f6-3c9f-8959-51162edd5fad",
     "SG Banks|/companies-markets/sk-hynix-become-top-kioxia-shareholder-after-bond-conversion",
-    "Watchlist|/companies-markets/sk-hynix-become-top-kioxia-shareholder-after-bond-conversion"
+    "Watchlist|/companies-markets/sk-hynix-become-top-kioxia-shareholder-after-bond-conversion",
+    "SG Banks|/international/trump-welcome-investors-gala-his-plunging-meme-coin",
+    "Watchlist|/international/trump-welcome-investors-gala-his-plunging-meme-coin",
+    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-als-h1-2027-profit-jumps-but-stock-falls-122-93CH-5044191",
+    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-als-h1-2027-profit-jumps-but-stock-falls-122-93CH-5044191",
+    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-als-h1-2027-profit-jumps-but-stock-falls-122-93CH-5044191",
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-als-h1-2027-profit-jumps-but-stock-falls-122-93CH-5044191"
   ],
   "topic_error": "",
   "last_digest": "2026-11-23",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795393322.5338328,
+  "last_check": 1795394226.2800357,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
