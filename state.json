@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|f85d8ab6-7f54-3aaf-ae03-f327149ddd7a",
-    "Crypto|f85d8ab6-7f54-3aaf-ae03-f327149ddd7a",
-    "Crypto|650cafc6-c950-45b3-b8e5-a3ee986876af",
-    "Watchlist|f85d8ab6-7f54-3aaf-ae03-f327149ddd7a",
-    "Watchlist|5f193a0b-905f-480e-b684-062981322f03",
-    "AI|10b9337f-82c6-3476-a1d0-f29f1826832d",
-    "Watchlist|10b9337f-82c6-3476-a1d0-f29f1826832d",
-    "Crypto|cfe793a3-27bd-30fc-b520-c35e31660d04",
     "AI|https://www.investing.com/news/company-news/first-solar-ceo-testifies-on-us-manufacturing-strategy-93CH-5042233",
     "AI|https://www.investing.com/news/sec-filings/provident-financial-holdings-shareholders-elect-directors-and-approve-auditor-at-annual-meeting-93CH-5042236",
     "AI|https://www.investing.com/news/company-news/novanta-inc-stock-hits-52week-low-at-4783-usd-93CH-5042237",
@@ -5000,7 +4992,15 @@
     "Watchlist|https://www.investing.com/news/economic-indicators/polands-industrial-output-rises-01-in-october-93CH-5044677",
     "Watchlist|https://www.investing.com/news/economic-indicators/polands-producer-prices-rise-80-in-october-beating-forecasts-93CH-5044678",
     "Watchlist|https://www.investing.com/news/economic-indicators/german-business-activity-growth-accelerates-in-november-pmi-shows-5044676",
-    "Watchlist|https://www.investing.com/news/company-news/netcare-fy2026-slides-digital-dividend-drives-17-earnings-growth-93CH-5044680"
+    "Watchlist|https://www.investing.com/news/company-news/netcare-fy2026-slides-digital-dividend-drives-17-earnings-growth-93CH-5044680",
+    "Watchlist|76bad217-84c3-3e06-80ff-80ce033c01c9",
+    "AI|098a9cd5-b073-3551-b11a-3ff6bc206e6e",
+    "Watchlist|098a9cd5-b073-3551-b11a-3ff6bc206e6e",
+    "SG Banks|/companies-markets/chinas-next-ai-deals-clouded-sell-after-anthropic-ipo",
+    "Watchlist|/companies-markets/chinas-next-ai-deals-clouded-sell-after-anthropic-ipo",
+    "Watchlist|5520a40d-e979-379e-8ee3-39387f8a0250",
+    "AI|83252fe3-b8a2-3a4f-8551-ba08fb18ab87",
+    "Watchlist|83252fe3-b8a2-3a4f-8551-ba08fb18ab87"
   ],
   "topic_error": "",
   "last_digest": "2026-11-23",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795423602.7152936,
+  "last_check": 1795424541.2353914,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
