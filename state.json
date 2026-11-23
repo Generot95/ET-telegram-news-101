@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|/companies-markets/sk-hynix-become-top-kioxia-shareholder-after-bond-conversion",
-    "Watchlist|8abdd613-ba4d-35cd-99a5-1a8b113d4534",
-    "Watchlist|/companies-markets/sk-hynix-become-top-kioxia-shareholder-after-bond-conversion",
-    "AI|7b00de9f-3047-36f7-b716-3fd7a01fbae7",
     "Cybersecurity|4a374490-0776-37f0-8b8a-65836f1dc662",
     "Cybersecurity|0219b1e3-d1a5-3fb5-bb60-21cabc0a356c",
     "Watchlist|0219b1e3-d1a5-3fb5-bb60-21cabc0a356c",
@@ -5000,7 +4996,11 @@
     "AI|https://www.investing.com/news/insider-trading-news/natural-gas-services-group-director-donald-tringali-buys-49365-93CH-5044188",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/natural-gas-services-group-director-donald-tringali-buys-49365-93CH-5044188",
     "SG Banks|https://www.investing.com/news/insider-trading-news/natural-gas-services-group-director-donald-tringali-buys-49365-93CH-5044188",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/natural-gas-services-group-director-donald-tringali-buys-49365-93CH-5044188"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/natural-gas-services-group-director-donald-tringali-buys-49365-93CH-5044188",
+    "AI|7f7a2471-50f6-3c9f-8959-51162edd5fad",
+    "Watchlist|7f7a2471-50f6-3c9f-8959-51162edd5fad",
+    "SG Banks|/companies-markets/sk-hynix-become-top-kioxia-shareholder-after-bond-conversion",
+    "Watchlist|/companies-markets/sk-hynix-become-top-kioxia-shareholder-after-bond-conversion"
   ],
   "topic_error": "",
   "last_digest": "2026-11-23",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795392411.5001507,
+  "last_check": 1795393322.5338328,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
