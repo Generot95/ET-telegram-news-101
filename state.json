@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|WP-MKTW-0005361226",
-    "Cybersecurity|WP-MKTW-0005361226",
-    "AI|70657b7f-6ef4-35c6-95a2-d2a5b9d0e59f",
-    "AI|aaffdaeb-3903-3c0e-9d46-673f9a79a60b",
-    "SG Banks|https://www.straitstimes.com/business/anthropics-post-debut-stumble-delivers-reality-check-for-ai-trade",
-    "Watchlist|70657b7f-6ef4-35c6-95a2-d2a5b9d0e59f",
     "Watchlist|aaffdaeb-3903-3c0e-9d46-673f9a79a60b",
     "Crypto|fdf2e83c-eece-3e7c-a38b-6e769b727248",
     "AI|7454ed7a-a553-3327-88c4-b765ac9760da",
@@ -5000,7 +4994,13 @@
     "Watchlist|/companies-markets/capital-markets-currencies/european-shares-track-steepest-weekly-drop-march",
     "SG Banks|/companies-markets/capital-markets-currencies/us-dollar-set-fourth-weekly-gain-supported-fed-tightening-expectations-ai-driven-haven-bid",
     "Watchlist|b2b33df3-482f-3caf-a66a-a6f1f53d24ee",
-    "Watchlist|/companies-markets/capital-markets-currencies/us-dollar-set-fourth-weekly-gain-supported-fed-tightening-expectations-ai-driven-haven-bid"
+    "Watchlist|/companies-markets/capital-markets-currencies/us-dollar-set-fourth-weekly-gain-supported-fed-tightening-expectations-ai-driven-haven-bid",
+    "AI|https://www.investing.com/news/company-news/als-h1-fy27-slides-minerals-margin-hits-decade-high-stock-falls-12-93CH-5044194",
+    "Cybersecurity|https://www.investing.com/news/company-news/als-h1-fy27-slides-minerals-margin-hits-decade-high-stock-falls-12-93CH-5044194",
+    "SG Banks|https://www.investing.com/news/company-news/als-h1-fy27-slides-minerals-margin-hits-decade-high-stock-falls-12-93CH-5044194",
+    "Watchlist|https://www.investing.com/news/company-news/als-h1-fy27-slides-minerals-margin-hits-decade-high-stock-falls-12-93CH-5044194",
+    "SG Banks|/companies-markets/energy-commodities/oil-edges-lower-ample-supply-outweighs-middle-east-tensions",
+    "Watchlist|/companies-markets/energy-commodities/oil-edges-lower-ample-supply-outweighs-middle-east-tensions"
   ],
   "topic_error": "",
   "last_digest": "2026-11-23",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795395178.5854797,
+  "last_check": 1795396073.7343607,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
