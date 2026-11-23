@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|4b546235-124e-3fa4-b951-41a067ff7bf2",
-    "SG Banks|/companies-markets/uob-establish-new-guangzhou-technology-innovation-centre",
-    "Watchlist|ca3ca304-3c18-390a-b39d-ddebc8a727e5",
     "Watchlist|4b546235-124e-3fa4-b951-41a067ff7bf2",
     "Watchlist|/companies-markets/uob-establish-new-guangzhou-technology-innovation-centre",
     "Cybersecurity|d8b4228d-130c-33c3-8d30-1b7d1361dfb8",
@@ -5000,7 +4997,10 @@
     "SG Banks|https://www.investing.com/news/commodities-news/gold-rebounds-from-14mth-low-as-tech-selloff-lifts-safehaven-demand-5044271",
     "SG Banks|https://www.investing.com/news/stock-market-news/downer-shares-jump-over-3-on-730-million-nsw-transmission-contract-5044278",
     "Watchlist|https://www.investing.com/news/commodities-news/gold-rebounds-from-14mth-low-as-tech-selloff-lifts-safehaven-demand-5044271",
-    "Watchlist|https://www.investing.com/news/stock-market-news/downer-shares-jump-over-3-on-730-million-nsw-transmission-contract-5044278"
+    "Watchlist|https://www.investing.com/news/stock-market-news/downer-shares-jump-over-3-on-730-million-nsw-transmission-contract-5044278",
+    "AI|8caee867-cfe5-3998-9874-46bf2f4cbf64",
+    "Watchlist|8caee867-cfe5-3998-9874-46bf2f4cbf64",
+    "SG Banks|/companies-markets/uob-establish-new-guangzhou-technology-innovation-centre"
   ],
   "topic_error": "",
   "last_digest": "2026-11-23",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795405246.1201193,
+  "last_check": 1795406166.7398567,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
