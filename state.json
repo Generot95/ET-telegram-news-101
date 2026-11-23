@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|49f1de57-1e66-36d0-9dbf-c04d445290e0",
-    "Watchlist|26dec60a-3158-399a-886a-75e9fa321f46",
-    "Watchlist|cb3a6921-f756-3809-bf1e-2a611cb530bd",
-    "Watchlist|/companies-markets/capital-markets-currencies/us-dollar-eases-after-7-session-rally-rates-and-equities-focus",
-    "Watchlist|/companies-markets/musk-pledges-higher-tesla-output-china-plant-chinese-state-media-says",
-    "AI|ce01b26a-5716-387c-a6a5-7150ed1db2c1",
-    "AI|74408b74-e37d-351c-958b-c6b1d176b4a6",
-    "AI|49f1de57-1e66-36d0-9dbf-c04d445290e0",
     "AI|aa6a69ef-36cb-381c-b2aa-05c840ff85bd",
     "Watchlist|db6fb393-6d67-34c3-8f25-979f676e0831",
     "Watchlist|/international/sp-500-nasdaq-open-higher-nvidia-forecast-eases-ai-jitters",
@@ -5000,7 +4992,15 @@
     "SG Banks|/companies-markets/capital-markets-currencies/us-dollar-eases-after-7-session-rally-rates-and-equities-focus",
     "AI|1094fc02-c0a2-3baa-9516-db561c45feaa",
     "SG Banks|/companies-markets/musk-pledges-higher-tesla-output-china-plant-chinese-state-media-says",
-    "Watchlist|1094fc02-c0a2-3baa-9516-db561c45feaa"
+    "Watchlist|1094fc02-c0a2-3baa-9516-db561c45feaa",
+    "War|5f382ec4-33c1-3a5d-abe7-a7f96a31e0e3",
+    "SG Banks|/companies-markets/banking-finance/national-australia-bank-speeds-layoff-talks-after-e-mail-blunder",
+    "Watchlist|/companies-markets/banking-finance/national-australia-bank-speeds-layoff-talks-after-e-mail-blunder",
+    "War|5f392d6c-d6e3-3368-996c-c2dd15be91a9",
+    "Watchlist|/companies-markets/capital-markets-currencies/us-dollar-eases-after-7-session-rally-rates-and-equities-focus",
+    "Watchlist|/companies-markets/musk-pledges-higher-tesla-output-china-plant-chinese-state-media-says",
+    "AI|ab17171c-4e5a-3c5c-a1fd-dc496dda4d93",
+    "Watchlist|ab17171c-4e5a-3c5c-a1fd-dc496dda4d93"
   ],
   "topic_error": "",
   "last_digest": "2026-11-23",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795415348.4455564,
+  "last_check": 1795416277.2819576,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
