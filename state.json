@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|aaffdaeb-3903-3c0e-9d46-673f9a79a60b",
-    "Crypto|fdf2e83c-eece-3e7c-a38b-6e769b727248",
-    "AI|7454ed7a-a553-3327-88c4-b765ac9760da",
-    "AI|34d65ae0-bc67-3e37-ba36-73e46dbcf473",
-    "Cybersecurity|54bfd142-a625-3f22-8434-4f86b145b3e0",
     "SG Banks|ccb41290-208b-3cb2-bb0f-2924d56944e6",
     "Watchlist|7454ed7a-a553-3327-88c4-b765ac9760da",
     "Watchlist|34d65ae0-bc67-3e37-ba36-73e46dbcf473",
@@ -5000,7 +4995,12 @@
     "SG Banks|https://www.investing.com/news/company-news/als-h1-fy27-slides-minerals-margin-hits-decade-high-stock-falls-12-93CH-5044194",
     "Watchlist|https://www.investing.com/news/company-news/als-h1-fy27-slides-minerals-margin-hits-decade-high-stock-falls-12-93CH-5044194",
     "SG Banks|/companies-markets/energy-commodities/oil-edges-lower-ample-supply-outweighs-middle-east-tensions",
-    "Watchlist|/companies-markets/energy-commodities/oil-edges-lower-ample-supply-outweighs-middle-east-tensions"
+    "Watchlist|/companies-markets/energy-commodities/oil-edges-lower-ample-supply-outweighs-middle-east-tensions",
+    "AI|https://www.investing.com/news/stock-market-news/australia-shares-set-to-slide-at-open-nz-falls-5044213",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/australia-shares-set-to-slide-at-open-nz-falls-5044213",
+    "SG Banks|https://www.straitstimes.com/business/gold-rebounds-as-traders-pare-bets-on-near-term-us-fed-rate-hikes",
+    "SG Banks|https://www.investing.com/news/stock-market-news/australia-shares-set-to-slide-at-open-nz-falls-5044213",
+    "Watchlist|https://www.investing.com/news/stock-market-news/australia-shares-set-to-slide-at-open-nz-falls-5044213"
   ],
   "topic_error": "",
   "last_digest": "2026-11-23",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795396073.7343607,
+  "last_check": 1795396994.9803848,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
