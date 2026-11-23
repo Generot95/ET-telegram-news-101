@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/company-news/mha-h1-fy27-slides-doubledigit-growth-baker-tilly-rebrand-93CH-5041974",
-    "Cybersecurity|https://www.investing.com/news/company-news/cemex-stock-hits-52week-low-at-92-usd-93CH-5042018",
-    "Cybersecurity|https://www.investing.com/news/company-news/navitas-semiconductor-stock-hits-52week-low-at-684-93CH-5042020",
-    "Cybersecurity|https://www.investing.com/news/company-news/pampa-energia-stock-hits-52week-low-at-6065-usd-93CH-5042022",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/jefferies-raises-globant-stock-price-target-on-ai-growth-93CH-5042003",
     "SG Banks|https://www.investing.com/news/analyst-ratings/mizuho-reiterates-walmart-stock-outperform-rating-at-135-target-93CH-5042002",
     "SG Banks|https://www.investing.com/news/analyst-ratings/corpay-stock-gets-outperform-rating-reiterated-by-raymond-james-93CH-5042001",
     "SG Banks|https://www.investing.com/news/stock-market-news/dealmaker-orcels-decadeslong-quest-to-shake-up-european-banking-5041959",
@@ -5000,7 +4995,12 @@
     "AI|55e35f12-2796-375f-b0c8-195d514f89db",
     "Watchlist|55e35f12-2796-375f-b0c8-195d514f89db",
     "AI|ea00ac58-7cc4-35b7-93e9-3021b978288c",
-    "Watchlist|ea00ac58-7cc4-35b7-93e9-3021b978288c"
+    "Watchlist|ea00ac58-7cc4-35b7-93e9-3021b978288c",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/around-two-thirds-of-singtel-sds-holders-choose-to-hold-their-shares-as-scheme-concludes",
+    "AI|1231ab58-5047-3c96-bda7-77b985b42088",
+    "AI|986a689c-2b08-3773-8469-4485f6e60900",
+    "Watchlist|1231ab58-5047-3c96-bda7-77b985b42088",
+    "Watchlist|986a689c-2b08-3773-8469-4485f6e60900"
   ],
   "topic_error": "",
   "last_digest": "2026-11-23",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795411668.9853404,
+  "last_check": 1795412621.161399,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
