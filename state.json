@@ -1,20 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/company-news/celscis-multikine-gets-saudi-fasttrack-designation-93CH-5041648",
-    "Watchlist|https://www.investing.com/news/company-news/karman-wins-31m-navy-contract-for-submarine-components-93CH-5041647",
-    "Watchlist|https://www.investing.com/news/company-news/fda-agrees-to-annovis-bios-safety-data-pooling-plan-for-buntanetap-93CH-5041646",
-    "Watchlist|https://www.investing.com/news/company-news/inpost-completes-transition-to-private-ownership-93CH-5041649",
-    "SG Banks|/international/global/anthropic-valued-us1-5-trillion-ipo-raises-record-us81-billion",
-    "Watchlist|/international/global/anthropic-valued-us1-5-trillion-ipo-raises-record-us81-billion",
-    "AI|8d4c10a9-f9dd-357e-86de-dc413a0db2a7",
-    "AI|76b48d2e-2d9d-3c2f-9f97-1bd6f67ffb01",
-    "Watchlist|76b48d2e-2d9d-3c2f-9f97-1bd6f67ffb01",
-    "Watchlist|7626ceec-603a-3a16-933b-5656c7557620",
-    "War|6c2c4d44-6a22-3054-8e84-196ed9b1a54f",
-    "SG Banks|7cd99aad-202b-32fc-8a40-67b56b698859",
-    "AI|8abdd613-ba4d-35cd-99a5-1a8b113d4534",
-    "Cybersecurity|954709e5-df2e-3474-a29c-603a7583d591",
     "SG Banks|/companies-markets/sk-hynix-become-top-kioxia-shareholder-after-bond-conversion",
     "Watchlist|8abdd613-ba4d-35cd-99a5-1a8b113d4534",
     "Watchlist|/companies-markets/sk-hynix-become-top-kioxia-shareholder-after-bond-conversion",
@@ -5000,10 +4986,24 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/beijing-to-bar-young-redchip-firms-from-listing-outside-mainland-china-sources-say-5044173",
     "Watchlist|https://www.investing.com/news/stock-market-news/openai-scientist-proposes-industry-ai-limits-tied-to-model-intelligence-metric-5044174",
     "AI|ad88b75a-086a-3a94-a592-a60571ca23c1",
-    "Watchlist|ad88b75a-086a-3a94-a592-a60571ca23c1"
+    "Watchlist|ad88b75a-086a-3a94-a592-a60571ca23c1",
+    "AI|https://www.investing.com/news/economy-news/us-futures-bounce-while-asia-markets-brace-for-ai-wipeout-5044181",
+    "AI|https://www.investing.com/news/economy-news/dollar-edges-off-19month-high-after-market-rout-yen-softens-5044182",
+    "Cybersecurity|https://www.investing.com/news/economy-news/us-futures-bounce-while-asia-markets-brace-for-ai-wipeout-5044181",
+    "Cybersecurity|https://www.investing.com/news/economy-news/dollar-edges-off-19month-high-after-market-rout-yen-softens-5044182",
+    "SG Banks|https://www.investing.com/news/economy-news/us-futures-bounce-while-asia-markets-brace-for-ai-wipeout-5044181",
+    "SG Banks|https://www.investing.com/news/economy-news/dollar-edges-off-19month-high-after-market-rout-yen-softens-5044182",
+    "Watchlist|https://www.investing.com/news/economy-news/us-futures-bounce-while-asia-markets-brace-for-ai-wipeout-5044181",
+    "Watchlist|https://www.investing.com/news/economy-news/dollar-edges-off-19month-high-after-market-rout-yen-softens-5044182",
+    "SG Banks|/international/global/anthropic-valued-us1-5-trillion-ipo-raises-record-us81-billion",
+    "Watchlist|/international/global/anthropic-valued-us1-5-trillion-ipo-raises-record-us81-billion",
+    "AI|https://www.investing.com/news/insider-trading-news/natural-gas-services-group-director-donald-tringali-buys-49365-93CH-5044188",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/natural-gas-services-group-director-donald-tringali-buys-49365-93CH-5044188",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/natural-gas-services-group-director-donald-tringali-buys-49365-93CH-5044188",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/natural-gas-services-group-director-donald-tringali-buys-49365-93CH-5044188"
   ],
   "topic_error": "",
-  "last_digest": "2026-11-22",
+  "last_digest": "2026-11-23",
   "earnings": {
     "AMD": {
       "ts": 1801602000,
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795391500.7945707,
+  "last_check": 1795392411.5001507,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
