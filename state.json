@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-coreweave-stock-sliding-today-93CH-5042160",
-    "SG Banks|https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-236-5042161",
-    "SG Banks|https://www.investing.com/news/company-news/medlife-9mo-2026-slides-margins-expand-to-167-digital-push-accelerates-93CH-5042165",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/clean-harbors-evp-weber-disposes-of-105-million-in-stock-93CH-5042169",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-western-digital-stock-sliding-today-93CH-5042170",
-    "SG Banks|https://www.investing.com/news/company-news/mastec-inc-stock-hits-52week-low-at-14732-93CH-5042171",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-marvell-technology-stock-sliding-today-93CH-5042172",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-the-buckle-tops-q3-2026-profit-view-shares-jump-93CH-5042175",
     "Watchlist|https://www.investing.com/news/stock-market-news/nvidia-falls-below-alphabet-to-become-fourth-most-valuable-us-company-5042158",
     "Watchlist|https://www.investing.com/news/company-news/plug-power-stock-hits-52week-low-at-098-usd-93CH-5042159",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-coreweave-stock-sliding-today-93CH-5042160",
@@ -5000,7 +4992,15 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/australian-bank-nab-apologises-after-staff-learn-of-layoffs-early-through-automated-email-5044556",
     "Watchlist|https://www.investing.com/news/stock-market-news/chinas-electric-truck-boom-lifts-demand-for-lithium-5044557",
     "Watchlist|https://www.investing.com/news/company-news/bioarctic-reports-phase-2a-trial-results-for-parkinsons-drug-93CH-5044558",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/mizuho-cuts-iovance-biotherapeutics-stock-rating-on-lung-data-concerns-93CH-5044559"
+    "Watchlist|https://www.investing.com/news/analyst-ratings/mizuho-cuts-iovance-biotherapeutics-stock-rating-on-lung-data-concerns-93CH-5044559",
+    "War|42e9080e-7dcf-3418-8165-27553cde0f75",
+    "Crypto|42e9080e-7dcf-3418-8165-27553cde0f75",
+    "AI|1758d00e-7fdb-3eaf-9a9a-c2343b1ec396",
+    "Watchlist|1758d00e-7fdb-3eaf-9a9a-c2343b1ec396",
+    "AI|97e3aced-ca17-3b4c-863c-335e79caf16a",
+    "Crypto|2d130bc3-ffe8-3994-a215-e81b7a9c23e2",
+    "Watchlist|97e3aced-ca17-3b4c-863c-335e79caf16a",
+    "Cybersecurity|8bf3a3f5-1649-3b2c-84e3-76ca95afbe01"
   ],
   "topic_error": "",
   "last_digest": "2026-11-23",
@@ -5090,7 +5090,7 @@
     "NVDA|2026-11-18",
     "INTU|2026-11-20"
   ],
-  "last_check": 1795419928.7012393,
+  "last_check": 1795420840.4158103,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-22"
