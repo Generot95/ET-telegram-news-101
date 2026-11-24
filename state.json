@@ -1,93 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|cbc025a1-9e1a-3916-b21c-f9a547500134",
-    "AI|7fe56fd9-ca98-3a0d-86c4-77a8e1bc9aba",
-    "AI|6d3a1fa9-1e53-3542-8720-f92ad0e0f173",
-    "Watchlist|bc04316a-4cb9-3da4-856e-706d424a30bd",
-    "Watchlist|6d3a1fa9-1e53-3542-8720-f92ad0e0f173",
-    "AI|d5d1451c-9735-3e36-a419-b6fc22391db8",
-    "AI|147f9872-4ba4-324f-a871-63c6108748bf",
-    "AI|b5f23719-4cb8-3146-bac2-079bed4444d8",
-    "AI|bc04316a-4cb9-3da4-856e-706d424a30bd",
-    "Cybersecurity|b5f23719-4cb8-3146-bac2-079bed4444d8",
-    "Watchlist|b5f23719-4cb8-3146-bac2-079bed4444d8",
-    "AI|51f93126-906d-3cde-b7bd-efdebd8c2193",
-    "Watchlist|51f93126-906d-3cde-b7bd-efdebd8c2193",
-    "Watchlist|75b2cff8-0e91-3a97-9d2b-c640d20b1041",
-    "War|88c93a82-434b-3ca3-872d-ff0fc9ae084a",
-    "Cybersecurity|60655fe0-9bb9-3360-8b0e-29a757d11f8b",
-    "AI|f442d8d5-64d2-33a6-ad39-ac83f0c96e00",
-    "AI|3838f008-8025-3efd-b259-aa0184964898",
-    "AI|99f490d8-a10a-3b8e-9af1-69c8d4bf876e",
-    "AI|4e845874-d514-4bf5-8e6b-50d853bcb0f1",
-    "Watchlist|3838f008-8025-3efd-b259-aa0184964898",
-    "Watchlist|99f490d8-a10a-3b8e-9af1-69c8d4bf876e",
-    "Watchlist|4e845874-d514-4bf5-8e6b-50d853bcb0f1",
-    "Watchlist|f442d8d5-64d2-33a6-ad39-ac83f0c96e00",
-    "AI|7ead14bf-b94b-46f0-a4b4-537939415563",
-    "Crypto|59c832e6-8da0-3f23-8ef2-93477befe225",
-    "Crypto|7ead14bf-b94b-46f0-a4b4-537939415563",
-    "Watchlist|7ead14bf-b94b-46f0-a4b4-537939415563",
-    "War|7e0dc37a-60b9-355a-9293-3f5d4046a3f0",
-    "AI|e63b18b4-b667-32ba-aea3-99a19a191e8f",
-    "AI|aa6d53e0-0987-332b-bc3c-6a9893a1e3b0",
-    "AI|65fef36e-2fd0-376a-9e84-ccc826dd6a6a",
-    "AI|9c9a3940-27bc-3015-b4bc-0e60855ea0f6",
-    "Watchlist|e63b18b4-b667-32ba-aea3-99a19a191e8f",
-    "Watchlist|aa6d53e0-0987-332b-bc3c-6a9893a1e3b0",
-    "Watchlist|9c9a3940-27bc-3015-b4bc-0e60855ea0f6",
-    "Watchlist|65fef36e-2fd0-376a-9e84-ccc826dd6a6a",
-    "AI|da8d8501-b0f4-3b58-928b-b2f872a51d58",
-    "AI|5cdef7cc-ee31-3250-8f8d-84eab21a784d",
-    "AI|208294ad-dc4a-355d-8e9e-0ba967e68cfb",
-    "SG Banks|https://www.channelnewsasia.com/business/anthropic-options-debut-brisk-volume-6575636",
-    "Watchlist|5cdef7cc-ee31-3250-8f8d-84eab21a784d",
-    "Crypto|74121a4b-04ef-4ba9-9f63-d94d07b30f70",
-    "Watchlist|da8d8501-b0f4-3b58-928b-b2f872a51d58",
-    "Watchlist|208294ad-dc4a-355d-8e9e-0ba967e68cfb",
-    "SG Banks|7f2d0a30-a8f0-38c8-9b2b-8daaa8123ff8",
-    "SG Banks|b0cc1003-30a2-3bc3-9e3f-767a14ec0920",
-    "SG Banks|532c4a86-1f63-38dd-92d1-bcc03732902f",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-klarna-stock-surging-today-93CH-5046069",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-eagle-nuclear-energy-stock-rallying-today-93CH-5046070",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-alibaba-adr-stock-surging-today-93CH-5046071",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-goldman-sachs-stock-rallying-today-93CH-5046072",
-    "AI|https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-134-5046073",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-amazon-stock-surging-today-93CH-5046076",
-    "AI|https://www.investing.com/news/economic-indicators/exclusivecanada-and-qatar-to-sign-investment-pact-on-tuesday-source-says-5046077",
-    "AI|https://www.investing.com/news/stock-market-news/anthropic-options-debut-with-brisk-volume-5046078",
-    "AI|https://www.investing.com/news/stock-market-news/musks-ai-push-faces-a-dilemma-as-rivals-become-major-customers-5046067",
-    "AI|https://www.investing.com/news/company-news/passage-bio-approves-1for6-reverse-stock-split-ahead-of-merger-93CH-5046049",
-    "AI|https://www.investing.com/news/company-news/alpha-modus-settles-patent-dispute-with-stratacache-93CH-5046063",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-klarna-stock-surging-today-93CH-5046069",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-eagle-nuclear-energy-stock-rallying-today-93CH-5046070",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-alibaba-adr-stock-surging-today-93CH-5046071",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-goldman-sachs-stock-rallying-today-93CH-5046072",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-134-5046073",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-amazon-stock-surging-today-93CH-5046076",
-    "Cybersecurity|https://www.investing.com/news/economic-indicators/exclusivecanada-and-qatar-to-sign-investment-pact-on-tuesday-source-says-5046077",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/amazon-to-buy-decarts-ai-chip-optimization-tech-in-latest-ai-talent-grab-5046000",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/anthropic-options-debut-with-brisk-volume-5046078",
-    "Cybersecurity|https://www.investing.com/news/company-news/passage-bio-approves-1for6-reverse-stock-split-ahead-of-merger-93CH-5046049",
-    "Cybersecurity|https://www.investing.com/news/company-news/alpha-modus-settles-patent-dispute-with-stratacache-93CH-5046063",
-    "SG Banks|/companies-markets/transport-logistics/honda-toyota-recall-1-6-million-vehicles-over-takata-airbag-rupture-risk",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-klarna-stock-surging-today-93CH-5046069",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-eagle-nuclear-energy-stock-rallying-today-93CH-5046070",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-alibaba-adr-stock-surging-today-93CH-5046071",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-goldman-sachs-stock-rallying-today-93CH-5046072",
-    "SG Banks|https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-134-5046073",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-amazon-stock-surging-today-93CH-5046076",
-    "SG Banks|https://www.investing.com/news/economic-indicators/exclusivecanada-and-qatar-to-sign-investment-pact-on-tuesday-source-says-5046077",
-    "SG Banks|https://www.investing.com/news/stock-market-news/amazon-to-buy-decarts-ai-chip-optimization-tech-in-latest-ai-talent-grab-5046000",
-    "SG Banks|https://www.investing.com/news/stock-market-news/anthropic-options-debut-with-brisk-volume-5046078",
-    "Watchlist|/companies-markets/transport-logistics/honda-toyota-recall-1-6-million-vehicles-over-takata-airbag-rupture-risk",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-klarna-stock-surging-today-93CH-5046069",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-eagle-nuclear-energy-stock-rallying-today-93CH-5046070",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-alibaba-adr-stock-surging-today-93CH-5046071",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-goldman-sachs-stock-rallying-today-93CH-5046072",
-    "Watchlist|https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-134-5046073",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-amazon-stock-surging-today-93CH-5046076",
     "Watchlist|https://www.investing.com/news/economic-indicators/exclusivecanada-and-qatar-to-sign-investment-pact-on-tuesday-source-says-5046077",
     "Watchlist|https://www.investing.com/news/stock-market-news/amazon-to-buy-decarts-ai-chip-optimization-tech-in-latest-ai-talent-grab-5046000",
     "Watchlist|https://www.investing.com/news/stock-market-news/anthropic-options-debut-with-brisk-volume-5046078",
@@ -5000,78 +4913,165 @@
     "AI|12fb7b16-3fb8-37fb-ab7c-eca41a27df9f",
     "AI|53f8d63e-3cad-396c-8f6c-67260c5a5ef8",
     "Watchlist|12fb7b16-3fb8-37fb-ab7c-eca41a27df9f",
-    "Watchlist|53f8d63e-3cad-396c-8f6c-67260c5a5ef8"
+    "Watchlist|53f8d63e-3cad-396c-8f6c-67260c5a5ef8",
+    "War|1136c0de-57b9-3c51-b40c-ed8e98062a50",
+    "War|27b44657-57aa-3cc9-bb19-81b8d6bed423",
+    "War|24f56dac-8bba-3273-b4ab-4ed67cebd8fd",
+    "War|cf6c4457-8ac7-47fe-b820-c84a37c66f83",
+    "AI|cd399afb-0c51-4458-9656-91e49f5eb241",
+    "Watchlist|cd399afb-0c51-4458-9656-91e49f5eb241",
+    "War|d526c9bb-40a8-4a28-9ab5-a2c61638f61d",
+    "AI|b87d8c73-6dce-3ea5-9f91-d811932e4c14",
+    "AI|7b506466-c011-3f1b-92cf-986abc8de17c",
+    "AI|e9efb5c0-05b8-30ac-94fc-6da7d3c57eff",
+    "AI|809e4e96-897b-41b2-ae7f-a11161ea61ae",
+    "AI|71e6776e-2e6b-3cc2-87db-e14424a54523",
+    "Cybersecurity|b87d8c73-6dce-3ea5-9f91-d811932e4c14",
+    "Watchlist|809e4e96-897b-41b2-ae7f-a11161ea61ae",
+    "Watchlist|71e6776e-2e6b-3cc2-87db-e14424a54523",
+    "Watchlist|b87d8c73-6dce-3ea5-9f91-d811932e4c14",
+    "Watchlist|7b506466-c011-3f1b-92cf-986abc8de17c",
+    "Watchlist|e9efb5c0-05b8-30ac-94fc-6da7d3c57eff",
+    "Watchlist|6c080fa4-f130-3994-8b63-9ce1aac8170a",
+    "AI|1cd9d7c4-78db-3ecd-9b51-74a0f3806a27",
+    "AI|e2789a60-7ef8-34fa-aeeb-8fd4a3061a51",
+    "AI|0aa19fc9-9c99-3d5a-877f-4248ea30f304",
+    "AI|bdc6bec6-9356-3406-be28-5c8418e15983",
+    "Watchlist|1cd9d7c4-78db-3ecd-9b51-74a0f3806a27",
+    "Watchlist|e2789a60-7ef8-34fa-aeeb-8fd4a3061a51",
+    "Watchlist|0aa19fc9-9c99-3d5a-877f-4248ea30f304",
+    "Watchlist|bdc6bec6-9356-3406-be28-5c8418e15983",
+    "AI|404a6ed7-e0ae-354e-b08f-499ca214a915",
+    "AI|https://www.investing.com/news/sec-filings/bloomia-holdings-coceos-to-defer-salaries-six-directors-elected-at-annual-meeting-93CH-5048648",
+    "AI|https://www.investing.com/news/stock-market-news/analyst-says-crowdstrikes-44b-zscaler-deal-makes-it-top-zero-trust-player-5048650",
+    "AI|https://www.investing.com/news/analyst-ratings/insmed-stock-rating-cut-by-william-blair-on-limited-upside-to-deal-price-93CH-5048651",
+    "AI|https://www.investing.com/news/company-news/quantum-computing-stock-hits-52week-low-at-437-93CH-5048654",
+    "AI|https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-125-5048655",
+    "AI|https://www.investing.com/news/economic-indicators/us-consumer-confidence-surges-to-highest-level-in-nearly-two-years-5048641",
+    "AI|https://www.investing.com/news/insider-trading-news/ctt-pharmaceutical-ceo-buys-375-in-company-stock-93CH-5048657",
+    "AI|https://www.investing.com/news/company-news/kohls-q3-2026-slides-return-to-growth-margins-expand-145-bps-93CH-5048659",
+    "AI|https://www.investing.com/news/economy-news/venezuela-unveils-longawaited-economic-framework-puts-debt-at-2375-billion-5048560",
+    "AI|https://www.investing.com/news/stock-market-news/us-banks-profits-dip-slightly-in-third-quarter-fdic-5048635",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-costco-wholesale-stock-climbing-today-93CH-5048636",
+    "AI|https://www.investing.com/news/stock-market-news/why-is-oracle-stock-sliding-today-93CH-5048639",
+    "AI|https://www.investing.com/news/stock-market-news/us-agency-expects-to-screen-176-million-air-travelers-over-thanksgiving-holiday-5048646",
+    "AI|https://www.investing.com/news/stock-market-news/dicks-sporting-goods-lifts-annual-profit-forecast-as-demand-stays-steady-5048647",
+    "AI|https://www.investing.com/news/company-news/energy-fuels-stock-hits-52week-low-at-491-93CH-5048630",
+    "AI|https://www.investing.com/news/company-news/nuscale-power-corp-stock-hits-52week-low-at-329-usd-93CH-5048642",
+    "AI|https://www.investing.com/news/company-news/american-healthcare-reit-stock-hits-alltime-high-at-5957-usd-93CH-5048643",
+    "Cybersecurity|404a6ed7-e0ae-354e-b08f-499ca214a915",
+    "Cybersecurity|https://www.investing.com/news/sec-filings/bloomia-holdings-coceos-to-defer-salaries-six-directors-elected-at-annual-meeting-93CH-5048648",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/analyst-says-crowdstrikes-44b-zscaler-deal-makes-it-top-zero-trust-player-5048650",
+    "Cybersecurity|https://www.investing.com/news/analyst-ratings/insmed-stock-rating-cut-by-william-blair-on-limited-upside-to-deal-price-93CH-5048651",
+    "Cybersecurity|https://www.investing.com/news/company-news/quantum-computing-stock-hits-52week-low-at-437-93CH-5048654",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-125-5048655",
+    "Cybersecurity|https://www.investing.com/news/economic-indicators/us-consumer-confidence-surges-to-highest-level-in-nearly-two-years-5048641",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/ctt-pharmaceutical-ceo-buys-375-in-company-stock-93CH-5048657",
+    "Cybersecurity|https://www.investing.com/news/company-news/kohls-q3-2026-slides-return-to-growth-margins-expand-145-bps-93CH-5048659",
+    "Cybersecurity|https://www.investing.com/news/economy-news/venezuela-unveils-longawaited-economic-framework-puts-debt-at-2375-billion-5048560",
+    "Cybersecurity|https://www.investing.com/news/company-news/energy-fuels-stock-hits-52week-low-at-491-93CH-5048630",
+    "Cybersecurity|https://www.investing.com/news/company-news/nuscale-power-corp-stock-hits-52week-low-at-329-usd-93CH-5048642",
+    "Cybersecurity|https://www.investing.com/news/company-news/american-healthcare-reit-stock-hits-alltime-high-at-5957-usd-93CH-5048643",
+    "SG Banks|https://www.investing.com/news/sec-filings/bloomia-holdings-coceos-to-defer-salaries-six-directors-elected-at-annual-meeting-93CH-5048648",
+    "SG Banks|https://www.investing.com/news/stock-market-news/analyst-says-crowdstrikes-44b-zscaler-deal-makes-it-top-zero-trust-player-5048650",
+    "SG Banks|https://www.investing.com/news/analyst-ratings/insmed-stock-rating-cut-by-william-blair-on-limited-upside-to-deal-price-93CH-5048651",
+    "SG Banks|https://www.investing.com/news/company-news/quantum-computing-stock-hits-52week-low-at-437-93CH-5048654",
+    "SG Banks|https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-125-5048655",
+    "SG Banks|https://www.investing.com/news/economic-indicators/us-consumer-confidence-surges-to-highest-level-in-nearly-two-years-5048641",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/ctt-pharmaceutical-ceo-buys-375-in-company-stock-93CH-5048657",
+    "SG Banks|https://www.investing.com/news/company-news/kohls-q3-2026-slides-return-to-growth-margins-expand-145-bps-93CH-5048659",
+    "SG Banks|https://www.investing.com/news/economy-news/venezuela-unveils-longawaited-economic-framework-puts-debt-at-2375-billion-5048560",
+    "Watchlist|404a6ed7-e0ae-354e-b08f-499ca214a915",
+    "Watchlist|https://www.investing.com/news/sec-filings/bloomia-holdings-coceos-to-defer-salaries-six-directors-elected-at-annual-meeting-93CH-5048648",
+    "Watchlist|https://www.investing.com/news/stock-market-news/analyst-says-crowdstrikes-44b-zscaler-deal-makes-it-top-zero-trust-player-5048650",
+    "Watchlist|https://www.investing.com/news/analyst-ratings/insmed-stock-rating-cut-by-william-blair-on-limited-upside-to-deal-price-93CH-5048651",
+    "Watchlist|https://www.investing.com/news/company-news/quantum-computing-stock-hits-52week-low-at-437-93CH-5048654",
+    "Watchlist|https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-125-5048655",
+    "Watchlist|https://www.investing.com/news/economic-indicators/us-consumer-confidence-surges-to-highest-level-in-nearly-two-years-5048641",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/ctt-pharmaceutical-ceo-buys-375-in-company-stock-93CH-5048657",
+    "Watchlist|https://www.investing.com/news/company-news/kohls-q3-2026-slides-return-to-growth-margins-expand-145-bps-93CH-5048659",
+    "Watchlist|https://www.investing.com/news/economy-news/venezuela-unveils-longawaited-economic-framework-puts-debt-at-2375-billion-5048560",
+    "SG Banks|7f2d0a30-a8f0-38c8-9b2b-8daaa8123ff8",
+    "SG Banks|b0cc1003-30a2-3bc3-9e3f-767a14ec0920",
+    "SG Banks|532c4a86-1f63-38dd-92d1-bcc03732902f",
+    "SG Banks|/companies-markets/transport-logistics/honda-toyota-recall-1-6-million-vehicles-over-takata-airbag-rupture-risk",
+    "War|6dd0cc7b-b92a-32a7-ba46-48f5a76be278",
+    "AI|ae96c620-dd27-3465-aa90-d7e3fd567ffd",
+    "AI|abf1fe09-87ac-3543-9c4d-c321e9863e9c",
+    "Watchlist|ae96c620-dd27-3465-aa90-d7e3fd567ffd",
+    "Watchlist|abf1fe09-87ac-3543-9c4d-c321e9863e9c",
+    "Watchlist|/companies-markets/transport-logistics/honda-toyota-recall-1-6-million-vehicles-over-takata-airbag-rupture-risk"
   ],
   "topic_error": "",
   "last_digest": "2026-11-24",
   "earnings": {
     "AMD": {
       "ts": 1801602000,
-      "fetched": 1795447658.3087714
+      "fetched": 1795534080.1067293
     },
     "NVDA": {
       "ts": 1794949200,
-      "fetched": 1795447658.3087714
+      "fetched": 1795534080.1067293
     },
     "CRWD": {
       "ts": 1795440600,
-      "fetched": 1795447658.3087714
+      "fetched": 1795534080.1067293
     },
     "MSFT": {
       "ts": 1801083600,
-      "fetched": 1795447658.3087714
+      "fetched": 1795534080.1067293
     },
     "INTU": {
       "ts": 1795122000,
-      "fetched": 1795447658.3087714
+      "fetched": 1795534080.1067293
     },
     "BRK-B": {
       "ts": 1794258000,
-      "fetched": 1795447658.3087714
+      "fetched": 1795534080.1067293
     },
     "AMZN": {
-      "ts": 1793304000,
-      "fetched": 1795447658.3087714
+      "ts": 1801774800,
+      "fetched": 1795534080.1067293
     },
     "GOOG": {
-      "ts": 1793217600,
-      "fetched": 1795447658.3087714
+      "ts": 1801688400,
+      "fetched": 1795534080.1067293
     },
     "ZTS": {
-      "ts": 1793885400,
-      "fetched": 1795447658.3087714
+      "ts": 1802352600,
+      "fetched": 1795534080.1067293
     },
     "LIN": {
-      "ts": 1793277000,
-      "fetched": 1795447658.3087714
+      "ts": 1801747800,
+      "fetched": 1795534080.1067293
     },
     "VLO": {
       "ts": 1801143000,
-      "fetched": 1795447658.3087714
+      "fetched": 1795534080.1067293
     },
     "D05.SI": {
       "ts": 1802682000,
-      "fetched": 1795447658.3087714
+      "fetched": 1795534080.1067293
     },
     "O39.SI": {
       "ts": 1793955600,
-      "fetched": 1795447658.3087714
+      "fetched": 1795534080.1067293
     },
     "U11.SI": {
-      "ts": 1793782800,
-      "fetched": 1795447658.3087714
+      "ts": 1803459600,
+      "fetched": 1795534080.1067293
     },
     "A17U.SI": {
-      "ts": null,
-      "fetched": 1795447658.3087714
+      "ts": 1801558800,
+      "fetched": 1795534080.1067293
     },
     "HMN.SI": {
       "ts": null,
-      "fetched": 1795447658.3087714
+      "fetched": 1795534080.1067293
     },
     "JYEU.SI": {
       "ts": null,
-      "fetched": 1795447658.3087714
+      "fetched": 1795534080.1067293
     }
   },
   "earnings_notified": [
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795533906.4093602,
+  "last_check": 1795534813.095063,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-24"
