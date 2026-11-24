@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-zf-commercial-vehicle-control-systems-india-q2-2026-beats-revenue-93CH-5044409",
-    "AI|https://www.investing.com/news/stock-market-news/julius-baer-reaffirms-2028-targets-as-profit-hits-record-chf-13-bln-93CH-5044415",
-    "AI|https://www.investing.com/news/insider-trading-news/moderna-chief-financial-officer-mock-sells-468m-in-shares-93CH-5044417",
-    "AI|https://www.investing.com/news/insider-trading-news/netscout-director-christopher-perretta-sells-266000-in-stock-93CH-5044416",
     "AI|https://www.investing.com/news/stock-market-news/jpmorgan-sees-potential-sharp-rebound-in-asian-equities-after-positioning-unwind-5044421",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/morgan-stanley-upgrades-red-rock-resorts-stock-rating-on-property-outlook-93CH-5044402",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/analysiscitis-35billion-uk-error-could-complicate-exit-from-us-regulatory-penalty-box-5044404",
@@ -5000,7 +4996,11 @@
     "SG Banks|/companies-markets/around-two-thirds-singtel-sds-holders-choose-hold-their-shares-scheme-concludes",
     "Watchlist|/companies-markets/around-two-thirds-singtel-sds-holders-choose-hold-their-shares-scheme-concludes",
     "AI|17aa4833-0652-3ea3-bb2d-af173ed57a46",
-    "Watchlist|17aa4833-0652-3ea3-bb2d-af173ed57a46"
+    "Watchlist|17aa4833-0652-3ea3-bb2d-af173ed57a46",
+    "SG Banks|https://www.channelnewsasia.com/world/jensen-huang-nvidia-affair-donald-trump-6577351",
+    "Crypto|1063b22b-2fcd-3f2b-b297-a0bf6ea00de2",
+    "SG Banks|/companies-markets/capital-markets-currencies/sgxs-first-glb-ipo-must-have-strong-presence-south-east-asia-not-just-us-prowess-deloitte",
+    "Watchlist|/companies-markets/capital-markets-currencies/sgxs-first-glb-ipo-must-have-strong-presence-south-east-asia-not-just-us-prowess-deloitte"
   ],
   "topic_error": "",
   "last_digest": "2026-11-24",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795499885.6287777,
+  "last_check": 1795500803.5145433,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-23"
