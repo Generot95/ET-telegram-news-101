@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|c7f39e66-718c-3a28-9a0b-acda5f72e0d3",
-    "AI|106479f8-5b09-3386-b6ee-4e5181f94cae",
-    "Watchlist|106479f8-5b09-3386-b6ee-4e5181f94cae",
-    "AI|f0a78624-f143-3a4a-bf5b-9aaecd4575c4",
-    "Watchlist|f0a78624-f143-3a4a-bf5b-9aaecd4575c4",
-    "Watchlist|/companies-markets/frencken-posts-31-3-jump-q3-earnings-s13-million",
-    "Watchlist|/companies-markets/temasek-backed-65-equity-partners-invests-swedish-hypercar-maker-koenigsegg",
-    "AI|https://www.investing.com/news/earnings/chipmos-earnings-up-next-can-packaging-specialist-sustain-growth-93CH-5044024",
-    "AI|https://www.investing.com/news/earnings/organon-earnings-on-deck-as-sun-pharma-deal-looms-93CH-5044025",
-    "Cybersecurity|https://www.investing.com/news/earnings/chipmos-earnings-up-next-can-packaging-specialist-sustain-growth-93CH-5044024",
-    "Cybersecurity|https://www.investing.com/news/earnings/organon-earnings-on-deck-as-sun-pharma-deal-looms-93CH-5044025",
     "SG Banks|https://www.investing.com/news/earnings/chipmos-earnings-up-next-can-packaging-specialist-sustain-growth-93CH-5044024",
     "SG Banks|https://www.investing.com/news/earnings/organon-earnings-on-deck-as-sun-pharma-deal-looms-93CH-5044025",
     "Watchlist|https://www.investing.com/news/earnings/chipmos-earnings-up-next-can-packaging-specialist-sustain-growth-93CH-5044024",
@@ -5000,7 +4989,18 @@
     "Watchlist|9f88220d-f1fb-3d18-b69f-1aab1237f51f",
     "Watchlist|e68ecd5b-631c-34cd-a0e4-1107b0539b59",
     "Watchlist|9810b6be-046e-3984-8480-393631c7f58f",
-    "Watchlist|ef202e17-bcae-38b4-a6c9-c40287c25248"
+    "Watchlist|ef202e17-bcae-38b4-a6c9-c40287c25248",
+    "AI|016acd67-c9d7-3842-a43f-a79f3eae6363",
+    "Cybersecurity|016acd67-c9d7-3842-a43f-a79f3eae6363",
+    "Watchlist|016acd67-c9d7-3842-a43f-a79f3eae6363",
+    "SG Banks|/companies-markets/starhub-merges-m1-s1-1-billion-acquires-circles-life-singapore",
+    "Watchlist|/companies-markets/starhub-merges-m1-s1-1-billion-acquires-circles-life-singapore",
+    "SG Banks|https://www.channelnewsasia.com/business/cftc-staff-advisory-says-crypto-can-count-toward-reserves-not-liquidity-rule-6576391",
+    "SG Banks|https://www.channelnewsasia.com/business/starhub-m1-merger-keppel-confirmed-telco-6576341",
+    "AI|ba974a6f-7802-34af-8d4d-f70bd7e9b430",
+    "Watchlist|ba974a6f-7802-34af-8d4d-f70bd7e9b430",
+    "SG Banks|/companies-markets/stocks-watch-ocbc-keppel-starhub-manulife-us-reit",
+    "Watchlist|/companies-markets/stocks-watch-ocbc-keppel-starhub-manulife-us-reit"
   ],
   "topic_error": "",
   "last_digest": "2026-11-24",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795479633.8081448,
+  "last_check": 1795480545.4034452,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-23"
