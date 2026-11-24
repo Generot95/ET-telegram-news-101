@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|380b956b-78e2-326e-a01c-33560d325d6a",
-    "Watchlist|22ea5674-69d8-325a-ac82-6b4a19011ef8",
-    "AI|688d780c-8a9f-35b9-816d-2f2c7605e411",
-    "Watchlist|688d780c-8a9f-35b9-816d-2f2c7605e411",
-    "Crypto|fb1390db-6655-3d6f-9a19-ce7f8f2a6619",
-    "AI|8c2021de-df7e-35ed-9086-a71e35202534",
-    "Watchlist|8c2021de-df7e-35ed-9086-a71e35202534",
-    "Cybersecurity|WP-MKTW-0003509284",
-    "AI|https://www.investing.com/news/analyst-ratings/analyst-explains-why-spacex-is-roughly-ten-years-ahead-of-any-competitor-5044104",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/analyst-explains-why-spacex-is-roughly-ten-years-ahead-of-any-competitor-5044104",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/analyst-explains-why-spacex-is-roughly-ten-years-ahead-of-any-competitor-5044104",
     "Watchlist|https://www.investing.com/news/analyst-ratings/analyst-explains-why-spacex-is-roughly-ten-years-ahead-of-any-competitor-5044104",
     "Watchlist|c635d415-b086-3c30-bf57-359bd288dde7",
     "AI|c635d415-b086-3c30-bf57-359bd288dde7",
@@ -5000,7 +4989,18 @@
     "SG Banks|https://www.channelnewsasia.com/business/asian-stocks-rally-jensen-huang-nvidia-return-revives-ai-trade-6576636",
     "AI|883daf95-f7ed-385c-bfbb-86e2b65b17dd",
     "SG Banks|https://www.straitstimes.com/business/asian-stocks-rally-as-jensen-huangs-nvidia-return-revives-ai-trade",
-    "Watchlist|883daf95-f7ed-385c-bfbb-86e2b65b17dd"
+    "Watchlist|883daf95-f7ed-385c-bfbb-86e2b65b17dd",
+    "AI|a2ab166b-b9a9-3de3-a2db-28f588306a05",
+    "AI|5a89094d-ca03-3720-a4b2-aaaab2ee6100",
+    "Watchlist|a2ab166b-b9a9-3de3-a2db-28f588306a05",
+    "Watchlist|5a89094d-ca03-3720-a4b2-aaaab2ee6100",
+    "AI|https://www.investing.com/news/insider-trading-news/procore-chief-legal-officer-benjamin-singer-sells-286087-in-shares-93CH-5046856",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/procore-chief-legal-officer-benjamin-singer-sells-286087-in-shares-93CH-5046856",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/procore-chief-legal-officer-benjamin-singer-sells-286087-in-shares-93CH-5046856",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/procore-chief-legal-officer-benjamin-singer-sells-286087-in-shares-93CH-5046856",
+    "Cybersecurity|WP-MKTW-0003509284",
+    "AI|95e944a4-ed12-3102-9248-e65a6b669773",
+    "Watchlist|95e944a4-ed12-3102-9248-e65a6b669773"
   ],
   "topic_error": "",
   "last_digest": "2026-11-24",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795486102.9399617,
+  "last_check": 1795487033.9543095,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-23"
