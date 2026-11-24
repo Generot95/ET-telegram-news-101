@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/economy-news/south-koreas-finance-minister-sees-solid-growth-next-year-flags-chip-volatility-risks-5044245",
-    "SG Banks|/companies-markets/telcos-media-tech/us-tracked-alice-huangs-contacts-china-spy-agency-during-nvidia-affair",
-    "Watchlist|/companies-markets/telcos-media-tech/us-tracked-alice-huangs-contacts-china-spy-agency-during-nvidia-affair",
-    "AI|eee691d4-e5d1-3ca7-b89a-50f23f10d914",
-    "AI|0659a1a8-725e-3180-9235-6f102aa17ade",
-    "Watchlist|eee691d4-e5d1-3ca7-b89a-50f23f10d914",
-    "Watchlist|0659a1a8-725e-3180-9235-6f102aa17ade",
-    "AI|https://www.investing.com/news/stock-market-news/alice-huang-in-touch-with-chinese-spy-agency-during-affair-with-nvidia-ceo-nyt-says-5044248",
-    "AI|https://www.investing.com/news/insider-trading-news/target-hospitality-cco-troy-schrenk-buys-250005-in-stock-93CH-5044252",
     "AI|https://www.investing.com/news/insider-trading-news/sonos-director-joseph-kennedy-buys-187m-in-sono-stock-93CH-5044253",
     "AI|https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-ai-rout-deepens-despite-rebound-in-us-futures-5044254",
     "AI|https://www.investing.com/news/stock-market-news/63-62-43-the-boring-stocks-beating-the-ai-crash-5044257",
@@ -5000,7 +4991,16 @@
     "AI|d8022f3d-60d9-3991-9b7f-a9caaec94bc8",
     "SG Banks|/companies-markets/telcos-media-tech/us-blacklists-alibaba-owned-company-setback-ai-ambitions",
     "Watchlist|d8022f3d-60d9-3991-9b7f-a9caaec94bc8",
-    "Watchlist|/companies-markets/telcos-media-tech/us-blacklists-alibaba-owned-company-setback-ai-ambitions"
+    "Watchlist|/companies-markets/telcos-media-tech/us-blacklists-alibaba-owned-company-setback-ai-ambitions",
+    "Iran|https://www.iranintl.com/en/202611245387",
+    "AI|5ac07fbe-f427-3561-9491-a4303c95795d",
+    "Cybersecurity|5ac07fbe-f427-3561-9491-a4303c95795d",
+    "Watchlist|5ac07fbe-f427-3561-9491-a4303c95795d",
+    "SG Banks|https://www.straitstimes.com/business/economy/megaspeed-on-us-blacklist-what-this-means-for-the-operations-of-the-spore-based-firm",
+    "AI|57b84d1d-82ef-3372-b13f-daddaa32b083",
+    "Cybersecurity|55734295-d5ed-3693-a7b0-18a798032617",
+    "Watchlist|55734295-d5ed-3693-a7b0-18a798032617",
+    "Watchlist|57b84d1d-82ef-3372-b13f-daddaa32b083"
   ],
   "topic_error": "",
   "last_digest": "2026-11-24",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795491622.4947054,
+  "last_check": 1795492549.2397332,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-23"
