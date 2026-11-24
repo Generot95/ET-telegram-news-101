@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/earnings/sig-maintains-full-year-profit-guidance-as-lfl-revenue-grows-13-5044526",
-    "SG Banks|https://www.investing.com/news/stock-market-news/capita-ceo-steps-down-as-firm-plans-190m-equity-raise-93CH-5044527",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/western-new-england-bancorp-svp-sells-47498-in-shares-93CH-5044541",
-    "SG Banks|https://www.investing.com/news/earnings/crest-nicholson-warns-of-deeper-loss-on-weak-housing-demand-new-writedowns-5044552",
-    "SG Banks|https://www.investing.com/news/stock-market-news/bayer-wins-approval-for-725-billion-roundup-settlement-5044553",
-    "SG Banks|https://www.investing.com/news/stock-market-news/australian-bank-nab-apologises-after-staff-learn-of-layoffs-early-through-automated-email-5044556",
-    "SG Banks|https://www.investing.com/news/stock-market-news/chinas-electric-truck-boom-lifts-demand-for-lithium-5044557",
-    "SG Banks|https://www.investing.com/news/company-news/bioarctic-reports-phase-2a-trial-results-for-parkinsons-drug-93CH-5044558",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/mizuho-cuts-iovance-biotherapeutics-stock-rating-on-lung-data-concerns-93CH-5044559",
     "Watchlist|https://www.investing.com/news/earnings/sig-maintains-full-year-profit-guidance-as-lfl-revenue-grows-13-5044526",
     "Watchlist|https://www.investing.com/news/stock-market-news/capita-ceo-steps-down-as-firm-plans-190m-equity-raise-93CH-5044527",
     "Watchlist|https://www.investing.com/news/insider-trading-news/western-new-england-bancorp-svp-sells-47498-in-shares-93CH-5044541",
@@ -5000,7 +4991,16 @@
     "Watchlist|https://www.investing.com/news/analyst-ratings/ubs-initiates-aspen-neuroscience-stock-with-buy-rating-on-parkinsons-therapy-potential-93CH-5047188",
     "Watchlist|https://www.investing.com/news/analyst-ratings/ubs-initiates-flex-stock-with-buy-rating-on-ai-infrastructure-growth-93CH-5047190",
     "Watchlist|https://www.investing.com/news/stock-market-news/ao-world-sees-softer-secondhalf-trading-as-halfyear-pretax-profit-rises-20-93CH-5047193",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/stifel-downgrades-zscaler-stock-rating-to-hold-on-crowdstrike-deal-93CH-5047194"
+    "Watchlist|https://www.investing.com/news/analyst-ratings/stifel-downgrades-zscaler-stock-rating-to-hold-on-crowdstrike-deal-93CH-5047194",
+    "SG Banks|510bcb4e-d99b-33a6-8e47-5116e465e3b0",
+    "SG Banks|https://www.straitstimes.com/business/worlds-largest-miner-unveils-us17-4b-plan-to-double-south-australian-copper-output-by-2040",
+    "Watchlist|574b5ac7-074e-3663-9d28-e88c6790779f",
+    "AI|81c37e46-58ed-3928-8bfc-28d89ef6bd9f",
+    "AI|b323c3aa-47a1-3a1d-9865-5ce4de9eae3e",
+    "AI|542102b5-c6bc-352b-8c28-eaa900d6c545",
+    "Watchlist|81c37e46-58ed-3928-8bfc-28d89ef6bd9f",
+    "Watchlist|b323c3aa-47a1-3a1d-9865-5ce4de9eae3e",
+    "Watchlist|542102b5-c6bc-352b-8c28-eaa900d6c545"
   ],
   "topic_error": "",
   "last_digest": "2026-11-24",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795504479.2364144,
+  "last_check": 1795505390.2655017,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-23"
