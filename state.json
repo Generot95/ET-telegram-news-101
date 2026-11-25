@@ -1,20 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/economy-news/south-koreas-central-bank-seen-raising-rates-on-thursday-once-more-next-quarter--reuters-poll-5046788",
-    "Watchlist|https://www.investing.com/news/economic-indicators/japans-factory-activity-expands-in-november-pmi-shows-5046775",
-    "Watchlist|https://www.investing.com/news/economic-indicators/japan-factory-activity-strengthens-in-nov-services-growth-slows-5046778",
-    "Watchlist|https://www.investing.com/news/stock-market-news/explainerwhat-are-the-various-us-federal-and-state-probes-faced-by-nvidia-and-jensen-huang-5046777",
-    "Watchlist|https://www.investing.com/news/economy-news/south-koreas-central-bank-seen-raising-rates-on-thursday-once-more-next-quarter--reuters-poll-5046788",
-    "SG Banks|9364a9c7-6e6d-3c1b-ab1c-2251e2a388f8",
-    "SG Banks|/companies-markets/prioritise-resilience-over-innovation-building-digital-payment-rails-central-bankers",
-    "Watchlist|9364a9c7-6e6d-3c1b-ab1c-2251e2a388f8",
-    "Watchlist|/companies-markets/prioritise-resilience-over-innovation-building-digital-payment-rails-central-bankers",
-    "SG Banks|https://www.straitstimes.com/business/starhub-to-merge-with-m1-acquire-circles-life-singapore",
-    "AI|a65e519d-6b0a-3669-a7f6-c5610a05b3f7",
-    "Watchlist|a65e519d-6b0a-3669-a7f6-c5610a05b3f7",
-    "AI|7904dff2-332e-3b24-9fdf-90d0b39138ae",
-    "Watchlist|7904dff2-332e-3b24-9fdf-90d0b39138ae",
     "SG Banks|https://www.straitstimes.com/business/apple-prepares-to-launch-red-homepod-mini-and-airpods-max",
     "Iran|https://www.iranintl.com/en/202611231583",
     "Watchlist|1ce9c8f5-f365-3912-a139-d996d48630d3",
@@ -5000,10 +4986,24 @@
     "AI|86daf549-e271-34af-b4a3-241a38a2d1c9",
     "Watchlist|94cb7f6a-c4b7-3c0f-8471-0fc6c67fc138",
     "Watchlist|86daf549-e271-34af-b4a3-241a38a2d1c9",
-    "SG Banks|https://www.straitstimes.com/business/shein-to-pay-100-million-to-settle-us-shipping-customer-service-claims"
+    "SG Banks|https://www.straitstimes.com/business/shein-to-pay-100-million-to-settle-us-shipping-customer-service-claims",
+    "AI|3beef024-a551-3a40-abe8-e8b97fb807b5",
+    "AI|bcfd4527-ff04-3d23-baa2-f6ff4e06b40b",
+    "Watchlist|bcfd4527-ff04-3d23-baa2-f6ff4e06b40b",
+    "Watchlist|3beef024-a551-3a40-abe8-e8b97fb807b5",
+    "War|49f7e7c5-811f-4dff-97d4-71bec056c156",
+    "SG Banks|/companies-markets/telcos-media-tech/dell-lifts-annual-forecasts-after-record-quarter-surging-ai-server-demand",
+    "Watchlist|/companies-markets/telcos-media-tech/dell-lifts-annual-forecasts-after-record-quarter-surging-ai-server-demand",
+    "Crypto|c23f0418-9f01-325c-9a33-723195c4a904",
+    "SG Banks|9364a9c7-6e6d-3c1b-ab1c-2251e2a388f8",
+    "SG Banks|/companies-markets/prioritise-resilience-over-innovation-building-digital-payment-rails-central-bankers",
+    "SG Banks|https://www.straitstimes.com/business/starhub-to-merge-with-m1-acquire-circles-life-singapore",
+    "Watchlist|9364a9c7-6e6d-3c1b-ab1c-2251e2a388f8",
+    "Crypto|d0a4d7ef-2f35-353d-a067-cda24d1a24c8",
+    "SG Banks|https://www.channelnewsasia.com/world/shein-100-million-settle-us-shipping-customer-service-claims-6579131"
   ],
   "topic_error": "",
-  "last_digest": "2026-11-24",
+  "last_digest": "2026-11-25",
   "earnings": {
     "AMD": {
       "ts": 1801602000,
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795564217.013186,
+  "last_check": 1795565114.4192646,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-24"
