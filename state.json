@@ -1,26 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|e7bdf781-39b2-3d8d-bec2-78d8fe3b0cb6",
-    "Watchlist|ff9ee1e4-66ac-3be0-b3ed-910492b34782",
-    "Watchlist|fb5c23f5-620c-3e13-bfb0-e25efb244ff6",
-    "War|daf8946c-95f7-3821-90fc-90d2fc2a3e59",
-    "Crypto|5ae3aadd-0002-3c80-8b01-a72c2266c669",
-    "AI|2d4b426b-a540-3c45-a14b-dba4e22a266c",
-    "AI|79eab797-a508-3b40-a69f-0f53fc7bae8e",
-    "AI|4a6affe6-6cfb-3605-bbfc-4b6b6b9f91db",
-    "AI|https://www.investing.com/news/company-news/agilent-technologies-stock-hits-alltime-high-at-18598-usd-93CH-5048497",
-    "AI|https://www.investing.com/news/company-news/dollar-tree-stock-hits-52week-high-at-14861-usd-93CH-5048498",
-    "AI|https://www.investing.com/news/company-news/target-stock-hits-52week-high-at-17227-93CH-5048499",
-    "AI|https://www.investing.com/news/company-news/natl-stock-reaches-alltime-high-at-486-usd-93CH-5048500",
-    "AI|https://www.investing.com/news/sec-filings/king-resources-global-appoints-two-independent-directors-to-board-93CH-5048501",
-    "AI|https://www.investing.com/news/company-news/wolverine-world-wide-stock-hits-52week-high-at-2599-usd-93CH-5048502",
-    "AI|https://www.investing.com/news/company-news/palomar-holdings-stock-hits-52week-high-at-16677-usd-93CH-5048503",
-    "AI|https://www.investing.com/news/company-news/chemours-co-stock-hits-52week-low-at-1078-usd-93CH-5048504",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-kraken-robotics-q3-2026-misses-estimates-shares-sink-93CH-5048505",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-applied-optoelectronics-stock-rallying-today-93CH-5048448",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-anthropic-stock-sliding-today-93CH-5048464",
-    "AI|https://www.investing.com/news/stock-market-news/bnp-paribas-cuts-micron-rating-on-risks-to-2028-hyperscaler-capacity-plans-5048466",
     "AI|https://www.investing.com/news/company-news/westlake-stock-hits-52week-low-at-5737-93CH-5048495",
     "AI|https://www.investing.com/news/company-news/pony-ai-stock-hits-52week-low-at-327-usd-93CH-5048496",
     "AI|https://www.investing.com/news/company-news/quantumscape-stock-hits-52week-low-at-277-93CH-5048511",
@@ -5000,78 +4980,98 @@
     "Crypto|44e63152-54b6-354d-9605-c4fb5b9356e3",
     "AI|39475b42-de2d-3455-a5b6-94e641302ef7",
     "AI|b1529586-f184-34bd-b067-912ca898aa73",
-    "Watchlist|b1529586-f184-34bd-b067-912ca898aa73"
+    "Watchlist|b1529586-f184-34bd-b067-912ca898aa73",
+    "War|766b5435-86c8-3988-b063-a6a8eb60017d",
+    "War|5ef8af9a-1bd8-3bc6-970a-29c00304eee9",
+    "AI|faa3159f-fc89-3636-a8e0-60c0984aecee",
+    "AI|7e6ef6c9-3d39-3276-96e2-d39b2e60484a",
+    "Watchlist|85570485-6030-3696-bb2c-3b61c60b7aea",
+    "Watchlist|7e6ef6c9-3d39-3276-96e2-d39b2e60484a",
+    "Watchlist|faa3159f-fc89-3636-a8e0-60c0984aecee",
+    "AI|85570485-6030-3696-bb2c-3b61c60b7aea",
+    "AI|3ab06dad-8d13-3a3d-82dd-7d3a26d7c74d",
+    "Watchlist|3ab06dad-8d13-3a3d-82dd-7d3a26d7c74d",
+    "War|6612aa1d-386b-30a9-afcb-ccf0ff7ddbe5",
+    "AI|8bd60529-4b7f-3c8a-95e6-06997664533d",
+    "Crypto|8bd60529-4b7f-3c8a-95e6-06997664533d",
+    "Watchlist|8bd60529-4b7f-3c8a-95e6-06997664533d",
+    "AI|494e5f02-984b-4ce4-852a-a7b86614d5d5",
+    "AI|80647024-1517-4178-932a-49585bcfa05a",
+    "Watchlist|494e5f02-984b-4ce4-852a-a7b86614d5d5",
+    "Watchlist|80647024-1517-4178-932a-49585bcfa05a",
+    "SG Banks|/companies-markets/sgx-regco-queries-heptamax-over-its-s500-million-reverse-takeover-plan-data-centre-company",
+    "Watchlist|/companies-markets/sgx-regco-queries-heptamax-over-its-s500-million-reverse-takeover-plan-data-centre-company"
   ],
   "topic_error": "",
   "last_digest": "2026-11-25",
   "earnings": {
     "AMD": {
       "ts": 1801602000,
-      "fetched": 1795534080.1067293
+      "fetched": 1795620516.8810961
     },
     "NVDA": {
       "ts": 1794949200,
-      "fetched": 1795534080.1067293
+      "fetched": 1795620516.8810961
     },
     "CRWD": {
       "ts": 1795440600,
-      "fetched": 1795534080.1067293
+      "fetched": 1795620516.8810961
     },
     "MSFT": {
       "ts": 1801083600,
-      "fetched": 1795534080.1067293
+      "fetched": 1795620516.8810961
     },
     "INTU": {
       "ts": 1795122000,
-      "fetched": 1795534080.1067293
+      "fetched": 1795620516.8810961
     },
     "BRK-B": {
       "ts": 1794258000,
-      "fetched": 1795534080.1067293
+      "fetched": 1795620516.8810961
     },
     "AMZN": {
       "ts": 1801774800,
-      "fetched": 1795534080.1067293
+      "fetched": 1795620516.8810961
     },
     "GOOG": {
       "ts": 1801688400,
-      "fetched": 1795534080.1067293
+      "fetched": 1795620516.8810961
     },
     "ZTS": {
       "ts": 1802352600,
-      "fetched": 1795534080.1067293
+      "fetched": 1795620516.8810961
     },
     "LIN": {
       "ts": 1801747800,
-      "fetched": 1795534080.1067293
+      "fetched": 1795620516.8810961
     },
     "VLO": {
       "ts": 1801143000,
-      "fetched": 1795534080.1067293
+      "fetched": 1795620516.8810961
     },
     "D05.SI": {
       "ts": 1802682000,
-      "fetched": 1795534080.1067293
+      "fetched": 1795620516.8810961
     },
     "O39.SI": {
       "ts": 1793955600,
-      "fetched": 1795534080.1067293
+      "fetched": 1795620516.8810961
     },
     "U11.SI": {
       "ts": 1803459600,
-      "fetched": 1795534080.1067293
+      "fetched": 1795620516.8810961
     },
     "A17U.SI": {
       "ts": 1801558800,
-      "fetched": 1795534080.1067293
+      "fetched": 1795620516.8810961
     },
     "HMN.SI": {
       "ts": null,
-      "fetched": 1795534080.1067293
+      "fetched": 1795620516.8810961
     },
     "JYEU.SI": {
       "ts": null,
-      "fetched": 1795534080.1067293
+      "fetched": 1795620516.8810961
     }
   },
   "earnings_notified": [
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795620265.457127,
+  "last_check": 1795621193.0895796,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-25"
