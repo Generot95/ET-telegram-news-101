@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/analyst-ratings/guggenheim-upgrades-crowdstrike-stock-rating-on-growth-outlook-93CH-5047189",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/ubs-initiates-aspen-neuroscience-stock-with-buy-rating-on-parkinsons-therapy-potential-93CH-5047188",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/ubs-initiates-flex-stock-with-buy-rating-on-ai-infrastructure-growth-93CH-5047190",
-    "SG Banks|https://www.investing.com/news/stock-market-news/ao-world-sees-softer-secondhalf-trading-as-halfyear-pretax-profit-rises-20-93CH-5047193",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/stifel-downgrades-zscaler-stock-rating-to-hold-on-crowdstrike-deal-93CH-5047194",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/stifel-initiates-aspen-neuroscience-stock-with-buy-on-parkinsons-therapy-93CH-5047186",
     "Watchlist|https://www.investing.com/news/analyst-ratings/td-cowen-initiates-agility-robotics-stock-with-buy-rating-on-order-strength-93CH-5047187",
     "Watchlist|https://www.investing.com/news/analyst-ratings/guggenheim-upgrades-crowdstrike-stock-rating-on-growth-outlook-93CH-5047189",
     "Watchlist|https://www.investing.com/news/analyst-ratings/ubs-initiates-aspen-neuroscience-stock-with-buy-rating-on-parkinsons-therapy-potential-93CH-5047188",
@@ -5000,7 +4994,13 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/joby-aviation-chief-policy-officer-sells-20783-in-common-stock-93CH-5049805",
     "Watchlist|https://www.investing.com/news/analyst-ratings/baird-reiterates-neutral-on-dicks-sporting-goods-stock-at-150-93CH-5049808",
     "Watchlist|https://www.investing.com/news/company-news/astral-foods-fy2026-slides-record-profit-as-feed-costs-fall-margins-double-93CH-5049810",
-    "Watchlist|https://www.investing.com/news/stock-market-news/cognizant-in-talks-to-take-over-parts-of-sp-globals-capital-iq-operations-sources-say-5049812"
+    "Watchlist|https://www.investing.com/news/stock-market-news/cognizant-in-talks-to-take-over-parts-of-sp-globals-capital-iq-operations-sources-say-5049812",
+    "SG Banks|/companies-markets/seatriums-slowing-order-book-weighs-sentiment-despite-improving-margins",
+    "SG Banks|https://www.channelnewsasia.com/business/cognizant-in-talks-take-over-parts-sp-globals-capital-iq-operations-sources-say-6580926",
+    "Watchlist|/companies-markets/seatriums-slowing-order-book-weighs-sentiment-despite-improving-margins",
+    "AI|fba8afd9-201a-3121-a863-5f8e273f652f",
+    "Crypto|fe5cc8b7-e0c9-3fd6-ab13-bd1a2e5c9670",
+    "Watchlist|fba8afd9-201a-3121-a863-5f8e273f652f"
   ],
   "topic_error": "",
   "last_digest": "2026-11-25",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795589036.5360503,
+  "last_check": 1795589947.0821054,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-24"
