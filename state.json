@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/forex-news/asia-fx-subdued-as-dollar-holds-near-20mth-high-on-ai-rally-5046950",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-689686-in-highland-opportunities-fund-93CH-5046954",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/itron-svp-john-marcolini-sells-26606-in-stock-93CH-5046955",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/empery-digital-director-tice-brown-sells-215m-in-shares-93CH-5046956",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/biglari-holdings-chairman-and-ceo-sardar-biglari-acquires-128m-in-shares-93CH-5046957",
-    "SG Banks|https://www.investing.com/news/stock-market-news/msci-says-no-decision-made-on-indonesia-market-downgrade-proposal-5046965",
-    "Watchlist|https://www.investing.com/news/stock-market-news/watch-these-chip-stocks-for-bargain-buys-after-nvidias-postreinstatement-rally-93CH-5046946",
-    "Watchlist|https://www.investing.com/news/forex-news/asia-fx-subdued-as-dollar-holds-near-20mth-high-on-ai-rally-5046950",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-689686-in-highland-opportunities-fund-93CH-5046954",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/itron-svp-john-marcolini-sells-26606-in-stock-93CH-5046955",
     "Watchlist|https://www.investing.com/news/insider-trading-news/empery-digital-director-tice-brown-sells-215m-in-shares-93CH-5046956",
     "Watchlist|https://www.investing.com/news/insider-trading-news/biglari-holdings-chairman-and-ceo-sardar-biglari-acquires-128m-in-shares-93CH-5046957",
     "Watchlist|https://www.investing.com/news/stock-market-news/msci-says-no-decision-made-on-indonesia-market-downgrade-proposal-5046965",
@@ -5000,7 +4990,17 @@
     "SG Banks|https://www.straitstimes.com/business/economy/megaspeed-on-us-blacklist-what-this-means-for-the-operations-of-the-spore-based-firm",
     "SG Banks|https://www.straitstimes.com/business/companies-markets/asian-stocks-tumble-as-ai-rally-fizzles-and-trump-tariff-fears-return",
     "Watchlist|/companies-markets/telcos-media-tech/us-blacklists-alibaba-owned-company-setback-ai-ambitions",
-    "Watchlist|/companies-markets/telcos-media-tech/nvidia-option-trader-scores-1984-gain-after-ceo-huangs-return"
+    "Watchlist|/companies-markets/telcos-media-tech/nvidia-option-trader-scores-1984-gain-after-ceo-huangs-return",
+    "AI|07dbfc37-b206-32ed-82e2-524ee9aa35e7",
+    "Watchlist|07dbfc37-b206-32ed-82e2-524ee9aa35e7",
+    "AI|da419832-faec-330f-b927-880395a1be24",
+    "AI|4b458498-fa87-35e8-8f5c-9f984851d91c",
+    "Crypto|08f01375-1be4-3429-84dd-b19107f087b2",
+    "SG Banks|/companies-markets/telcos-media-tech/nvidias-huang-hosts-all-hands-meeting-day-after-return",
+    "Watchlist|da419832-faec-330f-b927-880395a1be24",
+    "Watchlist|4b458498-fa87-35e8-8f5c-9f984851d91c",
+    "Watchlist|/companies-markets/telcos-media-tech/nvidias-huang-hosts-all-hands-meeting-day-after-return",
+    "SG Banks|https://www.straitstimes.com/business/australian-inflation-heats-up-in-october-core-hits-two-year-high"
   ],
   "topic_error": "",
   "last_digest": "2026-11-25",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795576171.3339243,
+  "last_check": 1795577106.154045,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-24"
