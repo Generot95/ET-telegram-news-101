@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|1d5a5e99-e196-3409-88e4-967ad2389ff4",
-    "Watchlist|95ca9afe-e88e-3d74-a455-54495d7dff3b",
-    "Watchlist|2c4ea1af-35aa-3990-87ac-0812b16aefb0",
-    "War|https://www.investing.com/news/commodities-news/oil-holds-near-threemonth-low-as-rising-supply-offsets-hormuz-threat-5046916",
-    "AI|4789cde8-f958-3e5f-bd15-3acc2cf1f0da",
-    "AI|8b16a63e-2132-3782-b830-174d2a0e29fa",
-    "AI|https://www.investing.com/news/commodities-news/oil-holds-near-threemonth-low-as-rising-supply-offsets-hormuz-threat-5046916",
-    "AI|https://www.investing.com/news/insider-trading-news/nextboat-director-john-brian-buys-5423-in-shares-93CH-5046917",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/oil-holds-near-threemonth-low-as-rising-supply-offsets-hormuz-threat-5046916",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/nextboat-director-john-brian-buys-5423-in-shares-93CH-5046917",
-    "SG Banks|https://www.investing.com/news/commodities-news/oil-holds-near-threemonth-low-as-rising-supply-offsets-hormuz-threat-5046916",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/nextboat-director-john-brian-buys-5423-in-shares-93CH-5046917",
     "Watchlist|https://www.investing.com/news/commodities-news/oil-holds-near-threemonth-low-as-rising-supply-offsets-hormuz-threat-5046916",
     "Watchlist|https://www.investing.com/news/insider-trading-news/nextboat-director-john-brian-buys-5423-in-shares-93CH-5046917",
     "Crypto|8b16a63e-2132-3782-b830-174d2a0e29fa",
@@ -5000,7 +4988,19 @@
     "SG Banks|WP-MKTW-0003805097",
     "SG Banks|WP-MKTW-0003853114",
     "Watchlist|/companies-markets/energy-commodities/oil-edges-lower-ample-supply-outweighs-middle-east-tensions",
-    "Watchlist|/companies-markets/energy-commodities/gold-deluge-keeps-chinas-us1-trillion-trade-surplus-check"
+    "Watchlist|/companies-markets/energy-commodities/gold-deluge-keeps-chinas-us1-trillion-trade-surplus-check",
+    "Crypto|c3106f30-2168-3863-b8ba-8996ccada853",
+    "SG Banks|WP-MKTW-0003853112",
+    "SG Banks|WP-MKTW-0004179843",
+    "SG Banks|WP-MKTW-0004255367",
+    "War|https://www.investing.com/news/commodities-news/oil-holds-near-threemonth-low-as-rising-supply-offsets-hormuz-threat-5046916",
+    "War|5385a2aa-b04a-33a1-840a-42e0a2a3ee94",
+    "AI|5385a2aa-b04a-33a1-840a-42e0a2a3ee94",
+    "Watchlist|5385a2aa-b04a-33a1-840a-42e0a2a3ee94",
+    "AI|3a4f5487-8c22-368a-a087-ff0783693769",
+    "Watchlist|3a4f5487-8c22-368a-a087-ff0783693769",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/seatrium-shares-sink-more-than-7-after-group-announces-job-cuts",
+    "SG Banks|https://www.straitstimes.com/business/japans-key-services-inflation-gauge-hits-36-year-high"
   ],
   "topic_error": "",
   "last_digest": "2026-11-25",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795572497.6758773,
+  "last_check": 1795573416.690685,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-24"
