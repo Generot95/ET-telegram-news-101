@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-105-5047328",
-    "SG Banks|https://www.investing.com/news/stock-market-news/europes-stoxx-600-subdued-after-aidriven-rally-5047331",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/oklo-inc-general-counsel-disposes-of-1974-in-company-stock-93CH-5047337",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/mirum-pharmaceuticals-ceo-christopher-peetz-sells-194-million-in-shares-93CH-5047338",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/itrons-christopher-ware-svp-gc--corp-secretary-sells-18907-stock-93CH-5047339",
-    "Watchlist|https://www.investing.com/news/economy-news/japan-cuts-view-on-consumer-spending-for-1st-time-since-2024-5047324",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-compass-stock-surging-today-93CH-5047325",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-cranswick-stock-sliding-today-93CH-5047326",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-kingfisher-stock-sliding-today-93CH-5047327",
-    "Watchlist|https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-105-5047328",
-    "Watchlist|https://www.investing.com/news/stock-market-news/europes-stoxx-600-subdued-after-aidriven-rally-5047331",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/oklo-inc-general-counsel-disposes-of-1974-in-company-stock-93CH-5047337",
     "Watchlist|https://www.investing.com/news/insider-trading-news/mirum-pharmaceuticals-ceo-christopher-peetz-sells-194-million-in-shares-93CH-5047338",
     "Watchlist|https://www.investing.com/news/insider-trading-news/itrons-christopher-ware-svp-gc--corp-secretary-sells-18907-stock-93CH-5047339",
     "AI|54668df9-2d47-3613-9686-0e4fc4b8b638",
@@ -5000,7 +4988,19 @@
     "SG Banks|/companies-markets/telcos-media-tech/us-blacklists-alibaba-subsidiary-and-megaspeed-linked-nvidia-scandal",
     "Watchlist|76bad217-84c3-3e06-80ff-80ce033c01c9",
     "Watchlist|/companies-markets/chinas-next-ai-deals-clouded-sell-after-anthropic-ipo",
-    "Watchlist|/companies-markets/telcos-media-tech/us-blacklists-alibaba-subsidiary-and-megaspeed-linked-nvidia-scandal"
+    "Watchlist|/companies-markets/telcos-media-tech/us-blacklists-alibaba-subsidiary-and-megaspeed-linked-nvidia-scandal",
+    "AI|fb34e28d-8803-312b-be6a-c4a0dbcee196",
+    "SG Banks|https://www.channelnewsasia.com/singapore/forrest-li-football-association-sea-shopee-6581086",
+    "Watchlist|fb34e28d-8803-312b-be6a-c4a0dbcee196",
+    "SG Banks|/companies-markets/shopee-turns-tiktok-style-video-shopping-house-deliveries-fend-rivals-seas-forrest-li",
+    "Watchlist|/companies-markets/shopee-turns-tiktok-style-video-shopping-house-deliveries-fend-rivals-seas-forrest-li",
+    "AI|a5135222-a646-3670-b035-21000671bfda",
+    "Crypto|a5135222-a646-3670-b035-21000671bfda",
+    "Watchlist|a5135222-a646-3670-b035-21000671bfda",
+    "AI|cc231e3c-60c7-3581-bfb1-cc2b4405cc13",
+    "AI|12098ce9-bc85-3895-b339-d845affd27d7",
+    "Watchlist|12098ce9-bc85-3895-b339-d845affd27d7",
+    "Watchlist|cc231e3c-60c7-3581-bfb1-cc2b4405cc13"
   ],
   "topic_error": "",
   "last_digest": "2026-11-25",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795595441.4259276,
+  "last_check": 1795596359.7080224,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-24"
