@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|8c68ad9b-640a-3c68-a19d-c120b333aee6",
-    "AI|78ef24d0-088f-31e2-af66-1b65c13394e4",
-    "AI|fd7d71a2-f4e0-395e-b8b5-2127de7e414b",
-    "Cybersecurity|70cbb12e-03c5-3b0d-b110-08388852e38e",
-    "Cybersecurity|fd7d71a2-f4e0-395e-b8b5-2127de7e414b",
     "Watchlist|d813d054-82c6-3511-b47f-cbae1221a5c8",
     "Watchlist|70cbb12e-03c5-3b0d-b110-08388852e38e",
     "Watchlist|6f4ec7b4-fe2c-347d-b8d9-1bb25f571ec1",
@@ -5000,7 +4995,12 @@
     "SG Banks|https://www.straitstimes.com/business/economy/singapores-core-inflation-eases-to-1-5-in-october",
     "SG Banks|https://www.investing.com/news/world-news/chinas-shenzhou24-space-flight-takes-off-with-pakistani-national-as-first-foreign-astronaut-5049441",
     "Watchlist|/international/asean/us-chip-curbs-wont-impact-malaysias-china-ties-pm-says",
-    "Watchlist|https://www.investing.com/news/world-news/chinas-shenzhou24-space-flight-takes-off-with-pakistani-national-as-first-foreign-astronaut-5049441"
+    "Watchlist|https://www.investing.com/news/world-news/chinas-shenzhou24-space-flight-takes-off-with-pakistani-national-as-first-foreign-astronaut-5049441",
+    "AI|edb87cdc-0571-3a00-8800-5054b91df729",
+    "SG Banks|https://www.straitstimes.com/business/starbucks-to-engage-banks-for-sale-of-japan-business",
+    "Watchlist|edb87cdc-0571-3a00-8800-5054b91df729",
+    "AI|1377bd04-7e3c-3f22-8726-d47772bc0f30",
+    "Watchlist|1377bd04-7e3c-3f22-8726-d47772bc0f30"
   ],
   "topic_error": "",
   "last_digest": "2026-11-25",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795580763.9087281,
+  "last_check": 1795581679.8017182,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-24"
