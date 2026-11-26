@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/commodities-news/oil-mixed-as-hormuz-attacks-mount-supply-surplus-and-weak-fuel-margins-weigh-5049487",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/cytosorbents-director-jiny-kim-buys-7495-in-company-stock-93CH-5049669",
     "SG Banks|https://www.investing.com/news/stock-market-news/blackrockled-consortium-mulls-lowering-stack-infrastructure-asia-offer-bloomberg-5049671",
     "SG Banks|https://www.investing.com/news/commodities-news/oil-mixed-as-hormuz-attacks-mount-supply-surplus-and-weak-fuel-margins-weigh-5049487",
     "Watchlist|https://www.investing.com/news/insider-trading-news/cytosorbents-director-jiny-kim-buys-7495-in-company-stock-93CH-5049669",
@@ -5000,7 +4998,9 @@
     "Watchlist|WP-MKTW-0004255367",
     "SG Banks|https://www.straitstimes.com/business/companies-linked-to-restaurant-chain-komalas-settle-20-cpf-charges-after-paying-dues",
     "SG Banks|https://www.channelnewsasia.com/business/binance-lifts-withdrawal-suspension-after-63-billion-crypto-heist-6585911",
-    "Watchlist|/companies-markets/consumer-healthcare/starbucks-said-engage-banks-sale-japan-business"
+    "Watchlist|/companies-markets/consumer-healthcare/starbucks-said-engage-banks-sale-japan-business",
+    "War|e69a3f1a-2a6b-32ee-9440-05d1c486a2d0",
+    "SG Banks|https://www.channelnewsasia.com/business/brent-settles-higher-mine-strikes-refinery-attack-stoke-middle-east-supply-concerns-6583906"
   ],
   "topic_error": "",
   "last_digest": "2026-11-26",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795720300.9321883,
+  "last_check": 1795721233.1306605,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-26"
