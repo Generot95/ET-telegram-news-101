@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-plunging-today-93CH-5049707",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-tumbling-today-93CH-5049708",
-    "Watchlist|https://www.investing.com/news/company-news/btcc-receives-excellence-in-crypto-exchange-trust--security-2026-at-the-trustfinance-performance-awards-5049709",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/comscore-ceo-acquires-141884-in-company-stock-93CH-5049719",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/vera-therapeutics-officer-sells-72967-in-common-stock-93CH-5049720",
-    "SG Banks|0a35f149-0be6-3553-8404-630681b24684",
     "SG Banks|/companies-markets/keppel-slides-starhub-climbs-news-m1-starhub-merger",
     "SG Banks|https://www.straitstimes.com/business/e-mail-blunder-sees-australian-bank-nab-speed-up-job-cut-talks",
     "Watchlist|/companies-markets/keppel-slides-starhub-climbs-news-m1-starhub-merger",
@@ -5000,7 +4994,13 @@
     "SG Banks|https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-097-5052723",
     "Watchlist|https://www.investing.com/news/stock-market-news/us-malls-make-a-holiday-comeback-as-shoppers-seek-more-than-deals-5052721",
     "Watchlist|https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-080-5052722",
-    "Watchlist|https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-097-5052723"
+    "Watchlist|https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-097-5052723",
+    "AI|03862f03-99cb-354b-8077-c7cf30dfcbc9",
+    "AI|c5c622a9-91da-382e-9f49-35dfe97a859c",
+    "Watchlist|03862f03-99cb-354b-8077-c7cf30dfcbc9",
+    "Watchlist|c5c622a9-91da-382e-9f49-35dfe97a859c",
+    "Watchlist|b0c318b9-07a1-38d5-9d99-fb8518e978a5",
+    "AI|b0c318b9-07a1-38d5-9d99-fb8518e978a5"
   ],
   "topic_error": "",
   "last_digest": "2026-11-26",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795728567.1224847,
+  "last_check": 1795729482.3415768,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-26"
