@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "War|https://www.investing.com/news/commodities-news/oil-prices-steady-after-logging-deep-losses-on-supply-glut-fears-5046712",
-    "War|WP-MKTW-0005368485",
-    "AI|https://www.investing.com/news/commodities-news/oil-prices-steady-after-logging-deep-losses-on-supply-glut-fears-5046712",
-    "AI|WP-MKTW-0005368485",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/oil-prices-steady-after-logging-deep-losses-on-supply-glut-fears-5046712",
-    "Cybersecurity|WP-MKTW-0005368485",
-    "SG Banks|/international/spacex-anthropic-ran-unusual-ipo-process-chafing-some-bankers",
-    "SG Banks|/international/global/why-jensen-huang-and-nvidia-matter-so-much-markets",
-    "SG Banks|https://www.straitstimes.com/business/companies-markets/why-jensen-huang-and-nvidia-matter-so-much-to-markets",
     "SG Banks|https://www.straitstimes.com/business/us-seeks-to-recover-more-than-us1-billion-from-binance-hack",
     "Watchlist|/international/spacex-anthropic-ran-unusual-ipo-process-chafing-some-bankers",
     "Watchlist|/international/global/why-jensen-huang-and-nvidia-matter-so-much-markets",
@@ -5000,7 +4991,16 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/exclusivestancharts-crypto-unit-zodia-custody-hit-by-security-breach-some-client-data-exposed-5052481",
     "Watchlist|https://www.investing.com/news/insider-trading-news/ziff-davis-ceo-vivek-shah-sells-131493-in-company-stock-93CH-5052482",
     "Watchlist|https://www.investing.com/news/cryptocurrency-news/bitrue-research-institute-publishes-review-of-five-ai-trading-bot-platforms-in-2026-5052486",
-    "Watchlist|https://www.investing.com/news/stock-market-news/couchetard-rules-out-sweeter-offer-for-zabka-says-bid-price-final-5052487"
+    "Watchlist|https://www.investing.com/news/stock-market-news/couchetard-rules-out-sweeter-offer-for-zabka-says-bid-price-final-5052487",
+    "SG Banks|https://www.channelnewsasia.com/singapore/us-tariffs-singapore-economy-trade-6584716",
+    "SG Banks|/companies-markets/banking-finance/bank-england-sees-growing-financial-risks-ai-borrowing-surges",
+    "Watchlist|/companies-markets/banking-finance/bank-england-sees-growing-financial-risks-ai-borrowing-surges",
+    "Watchlist|26984b89-8f02-30bf-9b51-3f05ccca82e6",
+    "AI|9816b657-1d32-4796-b187-b5a25c8e7fbe",
+    "AI|fb414c87-0be1-4360-b788-4b0409cdbbe3",
+    "Watchlist|9816b657-1d32-4796-b187-b5a25c8e7fbe",
+    "Watchlist|fb414c87-0be1-4360-b788-4b0409cdbbe3",
+    "SG Banks|/international/global/why-jensen-huang-and-nvidia-matter-so-much-markets"
   ],
   "topic_error": "",
   "last_digest": "2026-11-26",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795697349.9780917,
+  "last_check": 1795698299.354664,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-26"
