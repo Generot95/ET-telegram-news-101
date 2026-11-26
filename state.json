@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/commerce-bancshares-svp-sells-69049-in-company-stock-93CH-5049693",
-    "Watchlist|https://www.investing.com/news/economy-news/dollar-takes-breather-ahead-of-us-data-on-fed-path-aussie-jumps-on-cpi-5049486",
-    "Cybersecurity|968ceaad-afb0-32c3-84c6-b6ec3543beeb",
-    "SG Banks|https://www.straitstimes.com/business/companies-markets/around-two-thirds-of-singtel-sds-holders-choose-to-hold-their-shares-as-scheme-concludes",
-    "Watchlist|968ceaad-afb0-32c3-84c6-b6ec3543beeb",
     "AI|d65b278e-a335-3afb-b2e0-c9d390e731a9",
     "SG Banks|/companies-markets/capital-markets-currencies/asian-stocks-fall-ai-trade-falters",
     "Watchlist|d65b278e-a335-3afb-b2e0-c9d390e731a9",
@@ -5000,7 +4995,12 @@
     "AI|https://www.investing.com/news/company-news/sap-reportedly-weighs-at-least-10000-job-cuts-in-ai-restructuring-5052712",
     "Cybersecurity|https://www.investing.com/news/company-news/sap-reportedly-weighs-at-least-10000-job-cuts-in-ai-restructuring-5052712",
     "SG Banks|https://www.investing.com/news/company-news/sap-reportedly-weighs-at-least-10000-job-cuts-in-ai-restructuring-5052712",
-    "Watchlist|https://www.investing.com/news/company-news/sap-reportedly-weighs-at-least-10000-job-cuts-in-ai-restructuring-5052712"
+    "Watchlist|https://www.investing.com/news/company-news/sap-reportedly-weighs-at-least-10000-job-cuts-in-ai-restructuring-5052712",
+    "Iran|https://www.iranintl.com/en/202611267343",
+    "AI|9d956b47-ee33-309a-bbe5-98624ffbb207",
+    "Watchlist|9d956b47-ee33-309a-bbe5-98624ffbb207",
+    "AI|1b3be90d-f876-306f-bf3c-3de8bae36bac",
+    "Watchlist|1b3be90d-f876-306f-bf3c-3de8bae36bac"
   ],
   "topic_error": "",
   "last_digest": "2026-11-26",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795724901.589899,
+  "last_check": 1795725816.142706,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-26"
