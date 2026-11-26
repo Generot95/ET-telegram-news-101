@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/this-bank-stock-offers-23-upside-as-pc-financial-deal-boosts-its-growth-prospects-5048802",
-    "Cybersecurity|https://www.investing.com/news/economy-news/ukraine-needs-115-billion-in-external-support-for-2027-zelenskyy-says-93CH-5048804",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/elon-musk-asks-us-appeals-court-to-throw-out-twitter-fraud-verdict-5048808",
-    "Cybersecurity|https://www.investing.com/news/commodities-news/soybean-futures-rise-on-meal-demand-wheat-slips-on-crop-data-93CH-5048809",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/osi-systems-chief-accounting-officer-sells-96000-in-stock-93CH-5048810",
-    "Cybersecurity|https://www.investing.com/news/company-news/qnb-corp-declares-039-quarterly-cash-dividend-93CH-5048811",
-    "Cybersecurity|https://www.investing.com/news/company-news/chow-tai-fook-1h-2027-slides-profit-doubles-revenue-rises-135-93CH-5048812",
     "Cybersecurity|https://www.investing.com/news/company-news/porch-group-stock-hits-52week-high-at-2238-usd-93CH-5048792",
     "Cybersecurity|https://www.investing.com/news/company-news/msad-fy2026-2q-slides-profit-rises-fullyear-outlook-raised-to-950bn-93CH-5048799",
     "SG Banks|https://www.investing.com/news/stock-market-news/gold-producer-offers-86-upside-as-canadian-mine-deal-adds-value-for-its-investors-5048800",
@@ -5000,7 +4993,14 @@
     "Watchlist|https://www.investing.com/news/commodities-news/oil-steadies-as-hormuz-attacks-threaten-supply-recovery-inventory-build-weighs-5051937",
     "Watchlist|https://www.investing.com/news/insider-trading-news/fold-holdings-ceo-sells-2400-in-stock-to-cover-taxes-93CH-5051944",
     "Watchlist|https://www.investing.com/news/insider-trading-news/riskified-director-sells-over-127-million-in-company-stock-93CH-5051945",
-    "Iran|https://www.iranintl.com/en/202611215462"
+    "Iran|https://www.iranintl.com/en/202611215462",
+    "AI|c20c8e38-e78b-387b-93d8-77c5c7b155a6",
+    "Watchlist|c20c8e38-e78b-387b-93d8-77c5c7b155a6",
+    "AI|eba77af5-502e-3259-9817-ff90984584fb",
+    "Watchlist|eba77af5-502e-3259-9817-ff90984584fb",
+    "SG Banks|https://www.channelnewsasia.com/asia/asian-governments-push-back-seek-deals-after-trumps-new-tariff-salvo-6583496",
+    "AI|749d01f9-8d2e-398a-a24a-ed7f279010e5",
+    "Watchlist|749d01f9-8d2e-398a-a24a-ed7f279010e5"
   ],
   "topic_error": "",
   "last_digest": "2026-11-26",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795662445.7866108,
+  "last_check": 1795663351.7764761,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-25"
