@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/possible-tesla-merger-could-aid-spacexs-sp-500-entry-jp-morgan-says-5048726",
-    "SG Banks|4ee2455e-d90f-3c03-8608-099533d282b4",
-    "SG Banks|/companies-markets/singapore-unveils-national-ai-missions-finance-amid-us-chip-restrictions",
-    "AI|beae4fdd-5bf4-316c-9994-98c268eb39f1",
-    "Watchlist|beae4fdd-5bf4-316c-9994-98c268eb39f1",
-    "AI|61f56e4e-4f3f-3f53-b4a3-b81a47d29ae1",
-    "AI|570fb8a9-6f46-3400-b0fd-227469140104",
     "Watchlist|61f56e4e-4f3f-3f53-b4a3-b81a47d29ae1",
     "Watchlist|570fb8a9-6f46-3400-b0fd-227469140104",
     "AI|1807259d-9413-3972-9b07-68f3e513f18f",
@@ -5000,7 +4993,14 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-419m-in-company-stock-93CH-5051810",
     "Watchlist|https://www.investing.com/news/insider-trading-news/morningstar-executive-chairman-sells-516-million-in-stock-93CH-5051811",
     "Watchlist|https://www.investing.com/news/stock-market-news/judge-bars-us-fcc-from-taking-steps-to-threaten-abcs-broadcast-license-5051818",
-    "Watchlist|https://www.investing.com/news/stock-market-news/macys-thanksgiving-day-parade-postponed-due-to-storm-projections-us-media-reports-5051483"
+    "Watchlist|https://www.investing.com/news/stock-market-news/macys-thanksgiving-day-parade-postponed-due-to-storm-projections-us-media-reports-5051483",
+    "AI|83d674a8-8828-3366-9fff-d4631f309083",
+    "Watchlist|83d674a8-8828-3366-9fff-d4631f309083",
+    "SG Banks|4ee2455e-d90f-3c03-8608-099533d282b4",
+    "Iran|https://www.iranintl.com/en/202611262631",
+    "Watchlist|45761ee2-eafd-34c5-907f-8239fc1305d5",
+    "AI|45761ee2-eafd-34c5-907f-8239fc1305d5",
+    "SG Banks|https://www.channelnewsasia.com/business/bok-raises-base-rate-25-bps-325-expected-6583416"
   ],
   "topic_error": "",
   "last_digest": "2026-11-26",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795654166.3855033,
+  "last_check": 1795655089.1611643,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-25"
