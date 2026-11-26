@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|d86b57bd-e226-4a19-aa5f-d59c0105e8ea",
-    "Watchlist|d86b57bd-e226-4a19-aa5f-d59c0105e8ea",
-    "AI|0669d455-1e9f-34be-8c06-3d7bbca48c35",
-    "Watchlist|0669d455-1e9f-34be-8c06-3d7bbca48c35",
-    "War|WP-MKTW-0005367088",
-    "AI|https://www.investing.com/news/analyst-ratings/abercrombie--fitch-stock-price-target-raised-to-205-by-btig-on-q3-results-93CH-5048862",
-    "AI|https://www.investing.com/news/analyst-ratings/td-cowen-downgrades-insmed-stock-rating-to-hold-on-sanofi-acquisition-deal-93CH-5048861",
-    "AI|https://www.investing.com/news/transcripts/admicom-at-stora-aktiedagarna-2026-growth-plan-leans-on-ai-and-ma-93CH-5048863",
     "AI|WP-MKTW-0005367088",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/abercrombie--fitch-stock-price-target-raised-to-205-by-btig-on-q3-results-93CH-5048862",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/td-cowen-downgrades-insmed-stock-rating-to-hold-on-sanofi-acquisition-deal-93CH-5048861",
@@ -5000,7 +4992,15 @@
     "AI|https://www.investing.com/news/world-news/wife-of-japanese-journalist-detained-in-russia-pleads-for-his-release-5052039",
     "Cybersecurity|https://www.investing.com/news/world-news/wife-of-japanese-journalist-detained-in-russia-pleads-for-his-release-5052039",
     "SG Banks|https://www.investing.com/news/world-news/wife-of-japanese-journalist-detained-in-russia-pleads-for-his-release-5052039",
-    "Watchlist|https://www.investing.com/news/world-news/wife-of-japanese-journalist-detained-in-russia-pleads-for-his-release-5052039"
+    "Watchlist|https://www.investing.com/news/world-news/wife-of-japanese-journalist-detained-in-russia-pleads-for-his-release-5052039",
+    "SG Banks|/international/global/nvidia-halts-chip-shipments-4-countries-south-east-asia-including-singapore-ft",
+    "Watchlist|/international/global/nvidia-halts-chip-shipments-4-countries-south-east-asia-including-singapore-ft",
+    "War|612be253-6bc5-3a8a-b6ad-ef3bf6779ba5",
+    "War|0c673d4c-9ba4-3f96-821d-e0dbc2633ecb",
+    "AI|535e2705-a042-38b6-9a9a-e1e743df5f27",
+    "Watchlist|535e2705-a042-38b6-9a9a-e1e743df5f27",
+    "SG Banks|/international/japans-data-centre-boom-faces-growing-revolt-urban-residents",
+    "Watchlist|/international/japans-data-centre-boom-faces-growing-revolt-urban-residents"
   ],
   "topic_error": "",
   "last_digest": "2026-11-26",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795673467.85285,
+  "last_check": 1795674375.7062962,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-25"
