@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|d65b278e-a335-3afb-b2e0-c9d390e731a9",
-    "SG Banks|/companies-markets/capital-markets-currencies/asian-stocks-fall-ai-trade-falters",
-    "Watchlist|d65b278e-a335-3afb-b2e0-c9d390e731a9",
-    "Watchlist|/companies-markets/capital-markets-currencies/asian-stocks-fall-ai-trade-falters",
-    "War|3702e497-e7cd-3dae-9f8b-37d60ddcc3d1",
-    "Watchlist|f404d807-4008-31e1-a1d2-a86ecc6730bf",
-    "AI|f404d807-4008-31e1-a1d2-a86ecc6730bf",
-    "War|4b68c6ac-f16c-3cb5-959c-a4825c7f8e20",
     "War|d2a07ba8-ec78-372a-87b5-b81fdebe954c",
     "AI|https://www.investing.com/news/insider-trading-news/tyson-foods-officer-sells-over-13-million-in-company-stock-93CH-5049705",
     "AI|https://www.investing.com/news/stock-market-news/foxconn-india-unit-faces-vendor-payment-disputes-worth-millions-bloomberg-reports-93CH-5049706",
@@ -5000,7 +4992,15 @@
     "AI|9d956b47-ee33-309a-bbe5-98624ffbb207",
     "Watchlist|9d956b47-ee33-309a-bbe5-98624ffbb207",
     "AI|1b3be90d-f876-306f-bf3c-3de8bae36bac",
-    "Watchlist|1b3be90d-f876-306f-bf3c-3de8bae36bac"
+    "Watchlist|1b3be90d-f876-306f-bf3c-3de8bae36bac",
+    "AI|c166ae2c-51a6-3bb5-919c-50bb26f48565",
+    "AI|https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-430-5052714",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-430-5052714",
+    "SG Banks|https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-430-5052714",
+    "Watchlist|c166ae2c-51a6-3bb5-919c-50bb26f48565",
+    "Watchlist|https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-430-5052714",
+    "SG Banks|/companies-markets/capital-markets-currencies/asian-stocks-fall-ai-trade-falters",
+    "Watchlist|/companies-markets/capital-markets-currencies/asian-stocks-fall-ai-trade-falters"
   ],
   "topic_error": "",
   "last_digest": "2026-11-26",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795725816.142706,
+  "last_check": 1795726735.339868,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-26"
