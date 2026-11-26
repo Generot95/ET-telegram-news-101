@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/stock-market-news/blackrockled-consortium-mulls-lowering-stack-infrastructure-asia-offer-bloomberg-5049671",
-    "SG Banks|https://www.investing.com/news/commodities-news/oil-mixed-as-hormuz-attacks-mount-supply-surplus-and-weak-fuel-margins-weigh-5049487",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/cytosorbents-director-jiny-kim-buys-7495-in-company-stock-93CH-5049669",
-    "Watchlist|https://www.investing.com/news/stock-market-news/blackrockled-consortium-mulls-lowering-stack-infrastructure-asia-offer-bloomberg-5049671",
-    "Watchlist|https://www.investing.com/news/commodities-news/oil-mixed-as-hormuz-attacks-mount-supply-surplus-and-weak-fuel-margins-weigh-5049487",
-    "AI|https://www.investing.com/news/world-news/chinas-shenzhou24-space-flight-takes-off-with-pakistani-national-as-first-foreign-astronaut-5049441",
     "Cybersecurity|https://www.investing.com/news/world-news/chinas-shenzhou24-space-flight-takes-off-with-pakistani-national-as-first-foreign-astronaut-5049441",
     "SG Banks|/international/asean/us-chip-curbs-wont-impact-malaysias-china-ties-pm-says",
     "SG Banks|https://www.straitstimes.com/business/economy/singapores-core-inflation-eases-to-1-5-in-october",
@@ -5000,7 +4994,13 @@
     "SG Banks|https://www.channelnewsasia.com/business/binance-lifts-withdrawal-suspension-after-63-billion-crypto-heist-6585911",
     "Watchlist|/companies-markets/consumer-healthcare/starbucks-said-engage-banks-sale-japan-business",
     "War|e69a3f1a-2a6b-32ee-9440-05d1c486a2d0",
-    "SG Banks|https://www.channelnewsasia.com/business/brent-settles-higher-mine-strikes-refinery-attack-stoke-middle-east-supply-concerns-6583906"
+    "SG Banks|https://www.channelnewsasia.com/business/brent-settles-higher-mine-strikes-refinery-attack-stoke-middle-east-supply-concerns-6583906",
+    "War|c0cdbbf8-fc6d-3b71-a79a-446eb585471e",
+    "Watchlist|29d56334-e63f-39ae-ab0b-c0df1379d076",
+    "AI|d4cacb4b-5c25-3eee-9cb0-f61f1aaf0e40",
+    "AI|0e753fb9-2085-3dfb-a746-da1c32527d46",
+    "Watchlist|0e753fb9-2085-3dfb-a746-da1c32527d46",
+    "Watchlist|016038c0-fb71-37a0-8b47-37b5410dd739"
   ],
   "topic_error": "",
   "last_digest": "2026-11-26",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795721233.1306605,
+  "last_check": 1795722135.7751493,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-26"
