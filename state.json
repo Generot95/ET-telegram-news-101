@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|c4059445-9fdc-3112-aff9-a0800ed9f464",
-    "Watchlist|9da86da3-6ec8-34e5-9122-5dad052964fc",
-    "AI|67a93e74-45d5-3538-bf29-3e4118c468d8",
-    "AI|5ef2c8a4-d47c-313c-94a2-59361f4e5e80",
-    "Crypto|67a93e74-45d5-3538-bf29-3e4118c468d8",
-    "Watchlist|67a93e74-45d5-3538-bf29-3e4118c468d8",
-    "Watchlist|5ef2c8a4-d47c-313c-94a2-59361f4e5e80",
     "War|WP-MKTW-0005327650",
     "AI|WP-MKTW-0005327650",
     "Cybersecurity|WP-MKTW-0005327650",
@@ -5000,7 +4993,14 @@
     "Watchlist|https://www.investing.com/news/economy-news/china-japan-south-korea-and-asean-launch-talks-on-digital-payments-across-borders-5052024",
     "Watchlist|https://www.investing.com/news/insider-trading-news/patrick-industries-director-acquires-432941-in-company-stock-93CH-5052027",
     "Watchlist|https://www.investing.com/news/stock-market-news/apple-pulls-minimax-ai-chatbot-from-app-store-over-child-safety-concerns-5052028",
-    "Iran|https://www.iranintl.com/en/202611249287"
+    "Iran|https://www.iranintl.com/en/202611249287",
+    "AI|6cca1506-fc42-36a3-ab71-17a233ac27d2",
+    "Watchlist|6cca1506-fc42-36a3-ab71-17a233ac27d2",
+    "AI|85bcb77f-074f-3047-813e-85fb38df7ba5",
+    "Watchlist|85bcb77f-074f-3047-813e-85fb38df7ba5",
+    "Crypto|bccfb2c4-ca0c-3e22-a78e-12b8ef37f3de",
+    "AI|2ec82b9e-0561-3183-9861-2c0ffdf55cf2",
+    "Watchlist|2ec82b9e-0561-3183-9861-2c0ffdf55cf2"
   ],
   "topic_error": "",
   "last_digest": "2026-11-26",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795670720.742375,
+  "last_check": 1795671635.57075,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-25"
