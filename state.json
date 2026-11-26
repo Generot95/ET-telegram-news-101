@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-039-5049741",
-    "AI|https://www.investing.com/news/economy-news/morning-bid-whos-afraid-of-jamieson-greer-5049749",
-    "AI|https://www.investing.com/news/analyst-ratings/morgan-stanley-cuts-urban-outfitters-stock-rating-on-anthropologie-woes-93CH-5049751",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-039-5049741",
-    "Cybersecurity|https://www.investing.com/news/economy-news/morning-bid-whos-afraid-of-jamieson-greer-5049749",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/morgan-stanley-cuts-urban-outfitters-stock-rating-on-anthropologie-woes-93CH-5049751",
-    "SG Banks|https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-039-5049741",
-    "SG Banks|https://www.investing.com/news/economy-news/morning-bid-whos-afraid-of-jamieson-greer-5049749",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/morgan-stanley-cuts-urban-outfitters-stock-rating-on-anthropologie-woes-93CH-5049751",
-    "Watchlist|https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-039-5049741",
     "Watchlist|https://www.investing.com/news/economy-news/morning-bid-whos-afraid-of-jamieson-greer-5049749",
     "Watchlist|https://www.investing.com/news/analyst-ratings/morgan-stanley-cuts-urban-outfitters-stock-rating-on-anthropologie-woes-93CH-5049751",
     "SG Banks|https://www.channelnewsasia.com/business/malaysia-regulator-files-lawsuits-against-google-seeking-146-million-over-harmful-content-6580801",
@@ -5000,7 +4990,17 @@
     "Watchlist|da75dfce-6c21-32a8-a4e1-bce9d061221a",
     "Watchlist|/international/asean/indonesia-central-bank-expects-keep-benchmark-rate-6-2027-governor",
     "SG Banks|/companies-markets/high-costs-cautious-shoppers-dfi-food-empire-favour-sheng-siong-delfi-face-margin-squeeze",
-    "Watchlist|/companies-markets/high-costs-cautious-shoppers-dfi-food-empire-favour-sheng-siong-delfi-face-margin-squeeze"
+    "Watchlist|/companies-markets/high-costs-cautious-shoppers-dfi-food-empire-favour-sheng-siong-delfi-face-margin-squeeze",
+    "AI|e99a90eb-8f2b-3fc4-9edf-191b4af983a8",
+    "AI|9ca0d6cd-8f88-3f83-8f5b-3548ec3041da",
+    "Watchlist|e99a90eb-8f2b-3fc4-9edf-191b4af983a8",
+    "Watchlist|9ca0d6cd-8f88-3f83-8f5b-3548ec3041da",
+    "SG Banks|/companies-markets/banking-finance/european-leaders-dig-budget-disputes-talks-stall",
+    "Watchlist|/companies-markets/banking-finance/european-leaders-dig-budget-disputes-talks-stall",
+    "AI|9ba3fae0-6303-3af8-8165-cb0c1b48f559",
+    "Watchlist|9ba3fae0-6303-3af8-8165-cb0c1b48f559",
+    "AI|f5096f3d-43e9-3756-a2c0-f5c838d20403",
+    "Watchlist|f5096f3d-43e9-3756-a2c0-f5c838d20403"
   ],
   "topic_error": "",
   "last_digest": "2026-11-26",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795734069.3879044,
+  "last_check": 1795734980.8119428,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-26"
