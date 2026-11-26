@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|4d36d35f-f051-3f7d-bef3-96fa34bb9b88",
-    "SG Banks|/international/asean/indonesia-central-bank-expects-keep-benchmark-rate-6-2027-governor",
-    "Watchlist|4d36d35f-f051-3f7d-bef3-96fa34bb9b88",
-    "Watchlist|/international/asean/indonesia-central-bank-expects-keep-benchmark-rate-6-2027-governor",
-    "AI|6454b37a-1abe-3bf6-87b2-1db5dcc6b63c",
-    "AI|70141be9-0d93-30df-bea6-ec325f3267f2",
-    "Watchlist|6454b37a-1abe-3bf6-87b2-1db5dcc6b63c",
-    "Watchlist|3b30e80d-6470-39fe-9941-e9d096dfe2cb",
     "Watchlist|70141be9-0d93-30df-bea6-ec325f3267f2",
     "AI|3b30e80d-6470-39fe-9941-e9d096dfe2cb",
     "AI|https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-039-5049741",
@@ -5000,7 +4992,15 @@
     "SG Banks|https://www.investing.com/news/company-news/allegiance-resources-names-new-ceo-adds-board-member-93CH-5052731",
     "Watchlist|https://www.investing.com/news/company-news/allegiance-resources-names-new-ceo-adds-board-member-93CH-5052731",
     "AI|2ac6afea-6fb7-323b-9b16-8ed30c34268d",
-    "Watchlist|2ac6afea-6fb7-323b-9b16-8ed30c34268d"
+    "Watchlist|2ac6afea-6fb7-323b-9b16-8ed30c34268d",
+    "SG Banks|https://www.straitstimes.com/business/sap-weighs-cutting-at-least-10000-positions-in-ai-restructuring",
+    "AI|931059bd-b811-34e6-9aa1-6d0384a4d028",
+    "Watchlist|931059bd-b811-34e6-9aa1-6d0384a4d028",
+    "SG Banks|/international/asean/indonesia-central-bank-expects-keep-benchmark-rate-6-2027-governor",
+    "War|da75dfce-6c21-32a8-a4e1-bce9d061221a",
+    "AI|da75dfce-6c21-32a8-a4e1-bce9d061221a",
+    "Watchlist|da75dfce-6c21-32a8-a4e1-bce9d061221a",
+    "Watchlist|/international/asean/indonesia-central-bank-expects-keep-benchmark-rate-6-2027-governor"
   ],
   "topic_error": "",
   "last_digest": "2026-11-26",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795732245.1223834,
+  "last_check": 1795733148.5122237,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-26"
