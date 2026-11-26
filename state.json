@@ -1,40 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/insider-trading-news/mgm-resorts-officer-sells-685938-in-common-stock-93CH-5049473",
-    "AI|https://www.investing.com/news/insider-trading-news/palantir-cfo-sells-625m-in-stock-to-cover-tax-obligations-93CH-5049474",
-    "AI|https://www.investing.com/news/insider-trading-news/palantir-ceo-alexander-karp-sells-372-million-in-class-a-stock-93CH-5049475",
-    "AI|https://www.investing.com/news/insider-trading-news/palantir-accounting-chief-sells-over-539000-in-shares-93CH-5049476",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-noah-holdings-q3-2026-profit-falls-as-stock-slips-93CH-5049485",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/mgm-resorts-officer-sells-685938-in-common-stock-93CH-5049473",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/palantir-cfo-sells-625m-in-stock-to-cover-tax-obligations-93CH-5049474",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/palantir-ceo-alexander-karp-sells-372-million-in-class-a-stock-93CH-5049475",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/palantir-accounting-chief-sells-over-539000-in-shares-93CH-5049476",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-noah-holdings-q3-2026-profit-falls-as-stock-slips-93CH-5049485",
-    "SG Banks|https://www.channelnewsasia.com/business/dollar-takes-breather-ahead-us-data-fed-path-aussie-jumps-cpi-6580096",
-    "SG Banks|https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/mgm-resorts-officer-sells-685938-in-common-stock-93CH-5049473",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/palantir-cfo-sells-625m-in-stock-to-cover-tax-obligations-93CH-5049474",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/palantir-ceo-alexander-karp-sells-372-million-in-class-a-stock-93CH-5049475",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/palantir-accounting-chief-sells-over-539000-in-shares-93CH-5049476",
-    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-noah-holdings-q3-2026-profit-falls-as-stock-slips-93CH-5049485",
-    "Watchlist|https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/mgm-resorts-officer-sells-685938-in-common-stock-93CH-5049473",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/palantir-cfo-sells-625m-in-stock-to-cover-tax-obligations-93CH-5049474",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/palantir-ceo-alexander-karp-sells-372-million-in-class-a-stock-93CH-5049475",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/palantir-accounting-chief-sells-over-539000-in-shares-93CH-5049476",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-noah-holdings-q3-2026-profit-falls-as-stock-slips-93CH-5049485",
-    "Watchlist|/companies-markets/consumer-healthcare/procter-gamble-increase-factory-shifts-without-humans-cut-costs",
-    "Watchlist|/companies-markets/telcos-media-tech/us-seeks-answers-nvidias-sale-chips-china-bessent",
-    "Watchlist|/companies-markets/transport-logistics/delta-flights-faced-brief-delays-atlanta-airport-over-automated-system-issue",
-    "Watchlist|911d2691-563e-3681-9771-10f330472430",
-    "War|72acd600-e5de-3a67-8351-db8f118d5e25",
-    "AI|911d2691-563e-3681-9771-10f330472430",
-    "SG Banks|/companies-markets/shares-seatrium-fall-over-7-following-retrenchment-announcement",
-    "SG Banks|https://www.straitstimes.com/business/beyond-the-bottom-line-what-financial-results-reveal-and-conceal-about-true-value",
-    "Watchlist|/companies-markets/shares-seatrium-fall-over-7-following-retrenchment-announcement",
-    "AI|https://www.investing.com/news/company-news/cathie-woods-ark-sells-meta-stock-buys-alphabet-and-anthropic-93CH-5049488",
     "Cybersecurity|https://www.investing.com/news/company-news/cathie-woods-ark-sells-meta-stock-buys-alphabet-and-anthropic-93CH-5049488",
     "War|https://www.investing.com/news/commodities-news/oil-mixed-as-hormuz-attacks-mount-supply-surplus-and-weak-fuel-margins-weigh-5049487",
     "AI|https://www.investing.com/news/insider-trading-news/palantir-executive-shyam-sankar-sells-96-million-in-company-stock-93CH-5049494",
@@ -5000,78 +4966,112 @@
     "SG Banks|/companies-markets/capital-markets-currencies/asian-stocks-jump-huangs-return-lifts-ai-trade",
     "SG Banks|/companies-markets/brc-asias-h2-net-profit-rises-21-s63-1-million",
     "Watchlist|/companies-markets/capital-markets-currencies/asian-stocks-jump-huangs-return-lifts-ai-trade",
-    "Watchlist|/companies-markets/brc-asias-h2-net-profit-rises-21-s63-1-million"
+    "Watchlist|/companies-markets/brc-asias-h2-net-profit-rises-21-s63-1-million",
+    "Crypto|c53253ca-adb4-38af-8b72-e3e7e0a68b83",
+    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-transgaz-posts-mixed-q3-2026-results-as-stock-slips-93CH-5052571",
+    "AI|https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-090-5052572",
+    "AI|https://www.investing.com/news/insider-trading-news/cbl--associates-properties-director-buys-16240-in-common-stock-93CH-5052580",
+    "AI|https://www.investing.com/news/insider-trading-news/retractable-technologies-ceo-buys-common-stock-for-3-93CH-5052581",
+    "AI|https://www.investing.com/news/company-news/primexbt-celebrates-8-years-of-trading-innovation-with-50-deposit-bonus-5052582",
+    "AI|https://www.investing.com/news/company-news/transgaz-9m-2026-slides-budget-beat-masks-sharp-yearoveryear-profit-drop-93CH-5052583",
+    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-transgaz-posts-mixed-q3-2026-results-as-stock-slips-93CH-5052571",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-090-5052572",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/cbl--associates-properties-director-buys-16240-in-common-stock-93CH-5052580",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/retractable-technologies-ceo-buys-common-stock-for-3-93CH-5052581",
+    "Cybersecurity|https://www.investing.com/news/company-news/primexbt-celebrates-8-years-of-trading-innovation-with-50-deposit-bonus-5052582",
+    "Cybersecurity|https://www.investing.com/news/company-news/transgaz-9m-2026-slides-budget-beat-masks-sharp-yearoveryear-profit-drop-93CH-5052583",
+    "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-transgaz-posts-mixed-q3-2026-results-as-stock-slips-93CH-5052571",
+    "SG Banks|https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-090-5052572",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/cbl--associates-properties-director-buys-16240-in-common-stock-93CH-5052580",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/retractable-technologies-ceo-buys-common-stock-for-3-93CH-5052581",
+    "SG Banks|https://www.investing.com/news/company-news/primexbt-celebrates-8-years-of-trading-innovation-with-50-deposit-bonus-5052582",
+    "SG Banks|https://www.investing.com/news/company-news/transgaz-9m-2026-slides-budget-beat-masks-sharp-yearoveryear-profit-drop-93CH-5052583",
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-transgaz-posts-mixed-q3-2026-results-as-stock-slips-93CH-5052571",
+    "Watchlist|https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-090-5052572",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/cbl--associates-properties-director-buys-16240-in-common-stock-93CH-5052580",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/retractable-technologies-ceo-buys-common-stock-for-3-93CH-5052581",
+    "Watchlist|https://www.investing.com/news/company-news/primexbt-celebrates-8-years-of-trading-innovation-with-50-deposit-bonus-5052582",
+    "Watchlist|https://www.investing.com/news/company-news/transgaz-9m-2026-slides-budget-beat-masks-sharp-yearoveryear-profit-drop-93CH-5052583",
+    "Cybersecurity|59a0b406-6e66-3c35-96fc-998d454a181c",
+    "War|9dcf7842-240e-3b1e-adfe-a071f983953a",
+    "AI|5b1df1f9-fe14-3329-a992-baf8a5cd7f7e",
+    "AI|97e314a7-4e4f-38bd-978a-62944ef429bb",
+    "AI|973eea48-85d1-3ee0-8000-5e52e4d19a93",
+    "Watchlist|973eea48-85d1-3ee0-8000-5e52e4d19a93",
+    "Watchlist|97e314a7-4e4f-38bd-978a-62944ef429bb",
+    "SG Banks|https://www.straitstimes.com/business/beyond-the-bottom-line-what-financial-results-reveal-and-conceal-about-true-value",
+    "War|d31057af-511d-3bee-beeb-204419959365"
   ],
   "topic_error": "",
   "last_digest": "2026-11-26",
   "earnings": {
     "AMD": {
       "ts": 1801602000,
-      "fetched": 1795620516.8810961
+      "fetched": 1795706959.9619615
     },
     "NVDA": {
       "ts": 1794949200,
-      "fetched": 1795620516.8810961
+      "fetched": 1795706959.9619615
     },
     "CRWD": {
       "ts": 1795440600,
-      "fetched": 1795620516.8810961
+      "fetched": 1795706959.9619615
     },
     "MSFT": {
       "ts": 1801083600,
-      "fetched": 1795620516.8810961
+      "fetched": 1795706959.9619615
     },
     "INTU": {
       "ts": 1795122000,
-      "fetched": 1795620516.8810961
+      "fetched": 1795706959.9619615
     },
     "BRK-B": {
       "ts": 1794258000,
-      "fetched": 1795620516.8810961
+      "fetched": 1795706959.9619615
     },
     "AMZN": {
       "ts": 1801774800,
-      "fetched": 1795620516.8810961
+      "fetched": 1795706959.9619615
     },
     "GOOG": {
       "ts": 1801688400,
-      "fetched": 1795620516.8810961
+      "fetched": 1795706959.9619615
     },
     "ZTS": {
       "ts": 1802352600,
-      "fetched": 1795620516.8810961
+      "fetched": 1795706959.9619615
     },
     "LIN": {
       "ts": 1801747800,
-      "fetched": 1795620516.8810961
+      "fetched": 1795706959.9619615
     },
     "VLO": {
       "ts": 1801143000,
-      "fetched": 1795620516.8810961
+      "fetched": 1795706959.9619615
     },
     "D05.SI": {
       "ts": 1802682000,
-      "fetched": 1795620516.8810961
+      "fetched": 1795706959.9619615
     },
     "O39.SI": {
       "ts": 1793955600,
-      "fetched": 1795620516.8810961
+      "fetched": 1795706959.9619615
     },
     "U11.SI": {
       "ts": 1803459600,
-      "fetched": 1795620516.8810961
+      "fetched": 1795706959.9619615
     },
     "A17U.SI": {
       "ts": 1801558800,
-      "fetched": 1795620516.8810961
+      "fetched": 1795706959.9619615
     },
     "HMN.SI": {
       "ts": null,
-      "fetched": 1795620516.8810961
+      "fetched": 1795706959.9619615
     },
     "JYEU.SI": {
       "ts": null,
-      "fetched": 1795620516.8810961
+      "fetched": 1795706959.9619615
     }
   },
   "earnings_notified": [
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795706528.9413214,
+  "last_check": 1795707445.450683,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-26"
