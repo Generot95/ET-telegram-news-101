@@ -1,21 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/company-news/haoxin-holdings-plans-18for1-reverse-stock-split-93CH-5049051",
-    "Watchlist|https://www.investing.com/news/company-news/remix-therapeutics-begins-nasdaq-trading-after-merger-close-93CH-5049052",
-    "Watchlist|https://www.investing.com/news/company-news/finwise-bancorp-sells-326m-in-sba-loan-interests-via-securitization-93CH-5049053",
-    "Watchlist|https://www.investing.com/news/company-news/hp-posts-95-revenue-rise-in-fy26-raises-quarterly-dividend-93CH-5049058",
-    "Watchlist|https://www.investing.com/news/sec-filings/calcimedica-appoints-new-chief-accounting-officer-and-updates-executive-roles-93CH-5049065",
-    "Watchlist|https://www.investing.com/news/earnings/ambarella-beats-on-eps-but-misses-revenue-in-third-quarter-5049066",
-    "Watchlist|https://www.investing.com/news/earnings/cleanspark-stock-rises-on-q4-eps-beat-despite-revenue-miss-5049070",
-    "Watchlist|https://www.investing.com/news/stock-market-news/dell-lifts-annual-forecasts-after-record-quarter-on-surging-ai-server-demand-5049024",
-    "Watchlist|https://www.investing.com/news/company-news/chiron-real-estate-adds-philip-hawkins-to-its-board-93CH-5049073",
-    "AI|0e69d574-375b-379f-a898-e2af85fd5f49",
-    "Crypto|54ad57f9-178c-3883-9a80-85606498f342",
-    "SG Banks|/international/global/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout",
-    "SG Banks|/international/global/thailand-opens-door-us-pork-raising-risks-farmers",
-    "Watchlist|bf33d05c-132e-3e02-9cce-58eb57fe185e",
-    "Watchlist|/international/global/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout",
     "Watchlist|/international/global/thailand-opens-door-us-pork-raising-risks-farmers",
     "AI|196bae29-fc7a-32a1-94b1-40d2f56e89d6",
     "AI|ddacef6b-5fe7-3688-8d24-76563773d9a0",
@@ -5000,7 +4985,22 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-ams-osram-stock-surging-today-93CH-5052382",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-halfords-h1-2026-profit-surge-lifts-shares-14-93CH-5052383",
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-hicl-posts-h1-2026-gains-lifts-return-target-93CH-5052384",
-    "Watchlist|https://www.investing.com/news/economic-indicators/german-consumer-confidence-edges-up-but-stays-near-record-lows-93CH-5052385"
+    "Watchlist|https://www.investing.com/news/economic-indicators/german-consumer-confidence-edges-up-but-stays-near-record-lows-93CH-5052385",
+    "SG Banks|/companies-markets/mas-green-lights-retail-investor-access-wider-range-complex-funds-excludes-private-market-funds-now",
+    "SG Banks|https://www.channelnewsasia.com/business/thailands-bangchak-shuts-all-units-bangkok-refinery-after-fire-6584891",
+    "Watchlist|/companies-markets/mas-green-lights-retail-investor-access-wider-range-complex-funds-excludes-private-market-funds-now",
+    "Crypto|cfc155f3-106b-3bc0-87a1-77e11d3e80df",
+    "AI|dce92750-51b6-3790-bf61-618d54db6a2a",
+    "Cybersecurity|dce92750-51b6-3790-bf61-618d54db6a2a",
+    "SG Banks|/companies-markets/singapore-shares-rise-shaking-new-us-tariffs-sti-0-6",
+    "SG Banks|https://www.straitstimes.com/business/indonesia-plans-fee-of-0-5-of-export-value-of-palm-oil-association-says",
+    "Watchlist|dce92750-51b6-3790-bf61-618d54db6a2a",
+    "Watchlist|/companies-markets/singapore-shares-rise-shaking-new-us-tariffs-sti-0-6",
+    "Crypto|83db5279-040b-33e7-9a9d-94d89524d6a8",
+    "SG Banks|https://www.channelnewsasia.com/business/malaysian-convenience-retailer-kk-mart-launches-112-million-ipo-6584881",
+    "SG Banks|https://www.channelnewsasia.com/business/exclusive-stancharts-crypto-unit-zodia-custody-suffers-security-breach-client-data-exposed-6584906",
+    "AI|b6c366f1-8cf1-4fd6-bbf6-9d9e4b06958e",
+    "Watchlist|b6c366f1-8cf1-4fd6-bbf6-9d9e4b06958e"
   ],
   "topic_error": "",
   "last_digest": "2026-11-26",
@@ -5091,8 +5091,8 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795689976.500258,
+  "last_check": 1795690897.4907641,
   "last_board": "2026-10-27",
   "commands_version": 9,
-  "last_report": "2026-11-25"
+  "last_report": "2026-11-26"
 }
