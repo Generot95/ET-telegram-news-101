@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/stock-market-news/marvell-options-signal-83-move-ahead-of-dec-1-earnings-93CH-5048781",
-    "AI|https://www.investing.com/news/stock-market-news/mongodb-options-signal-14-move-ahead-of-dec-1-earnings-93CH-5048783",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-jetblue-airways-stock-climbing-today-93CH-5048784",
-    "AI|https://www.investing.com/news/stock-market-news/wendys-hit-with-us-class-action-overmenu-pricing-5048785",
-    "AI|https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-086-5048777",
-    "AI|https://www.investing.com/news/stock-market-news/gitlab-options-signal-13-stock-move-ahead-of-dec-1-earnings-93CH-5048778",
     "AI|https://www.investing.com/news/stock-market-news/why-is-skydance-stock-rallying-today-93CH-5048786",
     "Cybersecurity|9b17cf74-86aa-38b8-9c22-6c79fa1e5182",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-020-5048779",
@@ -5000,7 +4994,13 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/covenant-logistics-ceo-sells-155-million-in-company-stock-93CH-5051882",
     "Watchlist|https://www.investing.com/news/economy-news/dollar-steady-as-sliding-yields-temper-safehaven-bid-5051883",
     "Watchlist|https://www.investing.com/news/insider-trading-news/saba-capital-sells-7538-in-pimco-dynamic-income-strategy-fund-93CH-5051889",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/palladyne-ai-cto-sells-41491-in-stock-to-cover-tax-obligations-93CH-5051890"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/palladyne-ai-cto-sells-41491-in-stock-to-cover-tax-obligations-93CH-5051890",
+    "SG Banks|https://www.channelnewsasia.com/business/chinese-firms-pose-growing-competitive-threat-japanese-firms-jetro-survey-shows-6583696",
+    "Iran|https://www.iranintl.com/en/202611252812",
+    "AI|8b804086-b42e-3fa0-9c1c-a56c5b70f367",
+    "Crypto|bebd9eea-a283-3f46-9234-ce5c6ffcf7d2",
+    "Watchlist|8b804086-b42e-3fa0-9c1c-a56c5b70f367",
+    "Watchlist|a1a170ad-280b-3ec6-8691-3a839c7fb9c6"
   ],
   "topic_error": "",
   "last_digest": "2026-11-26",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795658785.9892893,
+  "last_check": 1795659683.4622185,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-25"
