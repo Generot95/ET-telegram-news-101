@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "War|d2a07ba8-ec78-372a-87b5-b81fdebe954c",
-    "AI|https://www.investing.com/news/insider-trading-news/tyson-foods-officer-sells-over-13-million-in-company-stock-93CH-5049705",
-    "AI|https://www.investing.com/news/stock-market-news/foxconn-india-unit-faces-vendor-payment-disputes-worth-millions-bloomberg-reports-93CH-5049706",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-plunging-today-93CH-5049707",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-tumbling-today-93CH-5049708",
-    "AI|https://www.investing.com/news/company-news/btcc-receives-excellence-in-crypto-exchange-trust--security-2026-at-the-trustfinance-performance-awards-5049709",
-    "AI|https://www.investing.com/news/insider-trading-news/comscore-ceo-acquires-141884-in-company-stock-93CH-5049719",
-    "AI|https://www.investing.com/news/insider-trading-news/vera-therapeutics-officer-sells-72967-in-common-stock-93CH-5049720",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/tyson-foods-officer-sells-over-13-million-in-company-stock-93CH-5049705",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/foxconn-india-unit-faces-vendor-payment-disputes-worth-millions-bloomberg-reports-93CH-5049706",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-plunging-today-93CH-5049707",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-tumbling-today-93CH-5049708",
     "Cybersecurity|https://www.investing.com/news/company-news/btcc-receives-excellence-in-crypto-exchange-trust--security-2026-at-the-trustfinance-performance-awards-5049709",
@@ -5000,7 +4990,17 @@
     "Watchlist|c166ae2c-51a6-3bb5-919c-50bb26f48565",
     "Watchlist|https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-430-5052714",
     "SG Banks|/companies-markets/capital-markets-currencies/asian-stocks-fall-ai-trade-falters",
-    "Watchlist|/companies-markets/capital-markets-currencies/asian-stocks-fall-ai-trade-falters"
+    "Watchlist|/companies-markets/capital-markets-currencies/asian-stocks-fall-ai-trade-falters",
+    "AI|2edf9775-2594-34bf-8921-173aad0abd51",
+    "Crypto|cd8d499f-50dc-3590-ac97-837257353ba5",
+    "Watchlist|2edf9775-2594-34bf-8921-173aad0abd51",
+    "SG Banks|https://www.straitstimes.com/business/invest/what-to-consider-before-investing-in-anthropic",
+    "AI|https://www.investing.com/news/insider-trading-news/kennametal-director-joseph-alvarado-buys-45700-in-stock-93CH-5052719",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/kennametal-director-joseph-alvarado-buys-45700-in-stock-93CH-5052719",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/kennametal-director-joseph-alvarado-buys-45700-in-stock-93CH-5052719",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/kennametal-director-joseph-alvarado-buys-45700-in-stock-93CH-5052719",
+    "Crypto|fd92b725-e60c-30cf-bd9b-4a4e6ab8d1b1",
+    "Watchlist|0230c505-d509-331f-84c2-84b2051dae90"
   ],
   "topic_error": "",
   "last_digest": "2026-11-26",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795726735.339868,
+  "last_check": 1795727658.7179139,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-26"
