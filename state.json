@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-taiwan-weighted-stock-plunging-today-93CH-5049730",
-    "Watchlist|https://www.investing.com/news/stock-market-news/why-is-harvey-norman-stock-sliding-today-93CH-5049731",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/ies-holdings-ceo-matthew-simmes-reports-624-million-stock-transaction-93CH-5049738",
-    "AI|ee335c08-90af-3bc9-ab85-ec1affa24ef2",
-    "SG Banks|/companies-markets/around-two-thirds-singtel-sds-holders-choose-hold-their-shares-scheme-concludes",
-    "Watchlist|ee335c08-90af-3bc9-ab85-ec1affa24ef2",
-    "Watchlist|/companies-markets/around-two-thirds-singtel-sds-holders-choose-hold-their-shares-scheme-concludes",
-    "Watchlist|ac138994-68fd-3a32-9194-34909fe11852",
-    "AI|ac138994-68fd-3a32-9194-34909fe11852",
-    "AI|09872689-4404-3c74-b8b7-816257971f20",
-    "Cybersecurity|09872689-4404-3c74-b8b7-816257971f20",
-    "Watchlist|09872689-4404-3c74-b8b7-816257971f20",
     "AI|4d36d35f-f051-3f7d-bef3-96fa34bb9b88",
     "SG Banks|/international/asean/indonesia-central-bank-expects-keep-benchmark-rate-6-2027-governor",
     "Watchlist|4d36d35f-f051-3f7d-bef3-96fa34bb9b88",
@@ -5000,7 +4988,19 @@
     "Watchlist|68008638-5416-324c-aef1-5501d70149df",
     "Watchlist|https://www.investing.com/news/forex-news/loonie-weakens-amid-thanksgiving-holiday-lull-canadian-labor-market-data-5052729",
     "SG Banks|/companies-markets/telcos-media-tech/sap-weighs-cutting-least-10000-positions-ai-restructuring",
-    "Watchlist|/companies-markets/telcos-media-tech/sap-weighs-cutting-least-10000-positions-ai-restructuring"
+    "Watchlist|/companies-markets/telcos-media-tech/sap-weighs-cutting-least-10000-positions-ai-restructuring",
+    "AI|b1753379-aba0-3373-8f36-0d475bb8ad8f",
+    "Watchlist|b1753379-aba0-3373-8f36-0d475bb8ad8f",
+    "War|6574f4de-4291-341c-ac21-844b5a639453",
+    "AI|d9eb27cc-7224-336e-a39e-9f5bb41173ea",
+    "Watchlist|d9eb27cc-7224-336e-a39e-9f5bb41173ea",
+    "SG Banks|https://www.channelnewsasia.com/business/japans-jera-enters-talks-anthropic-meta-build-data-centres-nikkei-reports-6586021",
+    "SG Banks|/international/thanksgiving-storm-knocks-out-power-disrupts-flights-us-east-coast",
+    "Watchlist|/international/thanksgiving-storm-knocks-out-power-disrupts-flights-us-east-coast",
+    "SG Banks|https://www.investing.com/news/company-news/allegiance-resources-names-new-ceo-adds-board-member-93CH-5052731",
+    "Watchlist|https://www.investing.com/news/company-news/allegiance-resources-names-new-ceo-adds-board-member-93CH-5052731",
+    "AI|2ac6afea-6fb7-323b-9b16-8ed30c34268d",
+    "Watchlist|2ac6afea-6fb7-323b-9b16-8ed30c34268d"
   ],
   "topic_error": "",
   "last_digest": "2026-11-26",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795731309.1373477,
+  "last_check": 1795732245.1223834,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-26"
