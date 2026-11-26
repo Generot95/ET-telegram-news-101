@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/insider-trading-news/spire-global-cfo-sells-32690-in-stock-to-cover-taxes-93CH-5049632",
-    "SG Banks|https://www.investing.com/news/stock-market-news/starbucks-to-engage-banks-for-sale-of-japan-business-bloomberg-news-reports-5049633",
-    "SG Banks|https://www.investing.com/news/stock-market-news/starbucks-weighs-sale-of-japan-business-worth-several-billion-dollars--bloomberg-5049634",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/eric-oliver-buys-374573-in-san-juan-basin-royalty-trust-units-93CH-5049621",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/10x-genomics-director-sarah-teichmann-sells-336668-in-stock-93CH-5049622",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/coreweave-cfo-nitin-agrawal-sells-446089-in-common-stock-93CH-5049623",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/aws-ceo-matthew-garman-sells-37-million-in-amazon-stock-93CH-5049624",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/spire-global-executive-chairman-sells-38895-in-stock-93CH-5049627",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/spire-global-ceo-sells-171632-in-class-a-stock-93CH-5049629",
-    "Watchlist|https://www.investing.com/news/stock-market-news/asian-stocks-slide-as-ai-selloff-deepens-us-tariff-threats-weigh-on-sentiment-5049630",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/spire-global-cfo-sells-32690-in-stock-to-cover-taxes-93CH-5049632",
     "Watchlist|https://www.investing.com/news/stock-market-news/starbucks-to-engage-banks-for-sale-of-japan-business-bloomberg-news-reports-5049633",
     "Watchlist|https://www.investing.com/news/stock-market-news/starbucks-weighs-sale-of-japan-business-worth-several-billion-dollars--bloomberg-5049634",
     "SG Banks|/international/global/us-tracked-alice-huangs-contacts-china-spy-agency-during-nvidia-affair",
@@ -5000,7 +4989,18 @@
     "Watchlist|47b3c8cc-cbce-3830-b0d7-925bf89ce513",
     "War|93af9bc8-d4f1-3fe0-be3a-9cce30d50e8f",
     "AI|2baa554b-bcde-355c-9757-c736152ec3ae",
-    "Watchlist|57379a44-8750-3e92-9105-2cd22e9550ed"
+    "Watchlist|57379a44-8750-3e92-9105-2cd22e9550ed",
+    "AI|a65c7d7e-728b-3609-92d2-b5f063833a92",
+    "Watchlist|a65c7d7e-728b-3609-92d2-b5f063833a92",
+    "AI|08f36522-e155-32e8-a0f6-76e929c4df63",
+    "Watchlist|07d7f353-0a8b-3900-a9d9-c9f07203288a",
+    "Watchlist|08f36522-e155-32e8-a0f6-76e929c4df63",
+    "AI|eaac61c3-28b9-3c64-8a41-a7ff4ab76b00",
+    "Cybersecurity|b86155af-1ecb-3359-85be-8d021a2b7941",
+    "Watchlist|eaac61c3-28b9-3c64-8a41-a7ff4ab76b00",
+    "Crypto|1d498b9b-8124-3ae7-a592-7c4c457b661b",
+    "AI|5c246a83-47de-3247-a51a-d31f8ced0cb4",
+    "Watchlist|5c246a83-47de-3247-a51a-d31f8ced0cb4"
   ],
   "topic_error": "",
   "last_digest": "2026-11-26",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795716617.467666,
+  "last_check": 1795717541.1693406,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-26"
