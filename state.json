@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.channelnewsasia.com/business/us-cia-odni-suffer-cybersecurity-breach-some-unclassified-information-nyt-reports-6579426",
-    "War|https://www.investing.com/news/commodities-news/putin-says-ukraine-hits-russian-oil-plants-despite-trumps-requests-promises-retaliation-5048918",
-    "AI|https://www.investing.com/news/economy-news/us-arrears-leave-chemical-weapons-watchdog-facing-budget-crisis-5048914",
-    "AI|https://www.investing.com/news/stock-market-news/bmo-highlights-top-interactive-entertainment-pick-5048917",
-    "AI|https://www.investing.com/news/commodities-news/putin-says-ukraine-hits-russian-oil-plants-despite-trumps-requests-promises-retaliation-5048918",
-    "AI|https://www.investing.com/news/stock-market-news/us-proposes-to-give-automakers-until-2031-to-install-automatic-emergency-braking-5048923",
-    "AI|https://www.investing.com/news/economy-news/cibc-flags-december-rate-hike-as-macklem-doubles-down-on-inflation-concerns-5048927",
-    "AI|https://www.investing.com/news/sec-filings/bunge-global-reduces-share-capital-following-share-repurchase-program-93CH-5048928",
-    "AI|https://www.investing.com/news/stock-market-news/nvidias-jensen-huang-apologizes-to-employees-says-he-is-in-therapy-5048912",
-    "Cybersecurity|https://www.investing.com/news/economy-news/us-arrears-leave-chemical-weapons-watchdog-facing-budget-crisis-5048914",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/bmo-highlights-top-interactive-entertainment-pick-5048917",
     "Cybersecurity|https://www.investing.com/news/commodities-news/putin-says-ukraine-hits-russian-oil-plants-despite-trumps-requests-promises-retaliation-5048918",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/us-proposes-to-give-automakers-until-2031-to-install-automatic-emergency-braking-5048923",
     "Cybersecurity|https://www.investing.com/news/economy-news/cibc-flags-december-rate-hike-as-macklem-doubles-down-on-inflation-concerns-5048927",
@@ -5000,7 +4989,18 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/therealreal-tech-officer-luke-friang-sells-223793-in-stock-93CH-5052201",
     "Watchlist|https://www.investing.com/news/insider-trading-news/i3-verticals-executive-sells-80355-in-company-stock-93CH-5052202",
     "Watchlist|https://www.investing.com/news/insider-trading-news/epam-systems-officer-sells-452342-in-company-stock-93CH-5052203",
-    "Watchlist|https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-tech-rebound-offsets-tariff-worries-5052207"
+    "Watchlist|https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-tech-rebound-offsets-tariff-worries-5052207",
+    "War|3637cea4-8e05-3de7-8153-97dbc155e320",
+    "Iran|https://www.iranintl.com/en/202611216643",
+    "AI|0cc30cca-8589-3301-9e7d-a69ad885f21d",
+    "Cybersecurity|dd543ffb-dc0c-3402-8454-0eeb31cce545",
+    "SG Banks|c54d365f-5955-31f3-ab78-b391edcf9928",
+    "SG Banks|https://www.channelnewsasia.com/east-asia/china-threaten-measures-after-new-us-tariffs-6584526",
+    "Watchlist|c54d365f-5955-31f3-ab78-b391edcf9928",
+    "Watchlist|005b9848-61de-3848-a5a2-bac92b7e2792",
+    "SG Banks|/companies-markets/hsbc-eyes-asean-stocks-new-eqdp-fund-it-scales-its-singapore-asset-management-business",
+    "Watchlist|/companies-markets/hsbc-eyes-asean-stocks-new-eqdp-fund-it-scales-its-singapore-asset-management-business",
+    "SG Banks|https://www.channelnewsasia.com/asia/vietnam-us-trade-deal-tariffs-clothing-footwear-exports-6584591"
   ],
   "topic_error": "",
   "last_digest": "2026-11-26",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795681706.143413,
+  "last_check": 1795682634.604213,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-25"
