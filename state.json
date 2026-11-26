@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/insider-trading-news/ringcentral-accounting-chief-sells-75292-in-common-stock-93CH-5049692",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/commerce-bancshares-svp-sells-69049-in-company-stock-93CH-5049693",
-    "SG Banks|https://www.investing.com/news/economy-news/dollar-takes-breather-ahead-of-us-data-on-fed-path-aussie-jumps-on-cpi-5049486",
-    "Watchlist|https://www.investing.com/news/stock-market-news/xiaomi-shares-jump-over-8-as-premium-phone-sales-cushion-rising-chip-costs-5049681",
-    "Watchlist|https://www.investing.com/news/stock-market-news/68-52-34-the-us-midcap-winners-are-in-our-aipicked-list-this-year-5049682",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/ringcentral-accounting-chief-sells-75292-in-common-stock-93CH-5049692",
     "Watchlist|https://www.investing.com/news/insider-trading-news/commerce-bancshares-svp-sells-69049-in-company-stock-93CH-5049693",
     "Watchlist|https://www.investing.com/news/economy-news/dollar-takes-breather-ahead-of-us-data-on-fed-path-aussie-jumps-on-cpi-5049486",
     "Cybersecurity|968ceaad-afb0-32c3-84c6-b6ec3543beeb",
@@ -5000,7 +4994,13 @@
     "Watchlist|https://www.investing.com/news/commodities-news/thanksgiving-storm-knocks-out-power-disrupts-flights-on-us-east-coast-5052706",
     "Watchlist|https://www.investing.com/news/insider-trading-news/auburn-national-bancorporation-director-buys-5050-in-stock-93CH-5052707",
     "Watchlist|https://www.investing.com/news/insider-trading-news/california-water-service-director-sells-29-in-stock-93CH-5052708",
-    "War|3e97ba01-0f65-3d0a-ae04-ffe8da938e00"
+    "War|3e97ba01-0f65-3d0a-ae04-ffe8da938e00",
+    "Watchlist|63c493f1-1862-34ea-99a9-4a2021724b25",
+    "AI|63c493f1-1862-34ea-99a9-4a2021724b25",
+    "AI|https://www.investing.com/news/company-news/sap-reportedly-weighs-at-least-10000-job-cuts-in-ai-restructuring-5052712",
+    "Cybersecurity|https://www.investing.com/news/company-news/sap-reportedly-weighs-at-least-10000-job-cuts-in-ai-restructuring-5052712",
+    "SG Banks|https://www.investing.com/news/company-news/sap-reportedly-weighs-at-least-10000-job-cuts-in-ai-restructuring-5052712",
+    "Watchlist|https://www.investing.com/news/company-news/sap-reportedly-weighs-at-least-10000-job-cuts-in-ai-restructuring-5052712"
   ],
   "topic_error": "",
   "last_digest": "2026-11-26",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795723979.5200136,
+  "last_check": 1795724901.589899,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-26"
