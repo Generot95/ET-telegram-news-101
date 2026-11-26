@@ -1,7 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|1876eff9-d99f-39a0-b4a5-f7bb1f516474",
     "AI|https://www.investing.com/news/company-news/union-pacific-norfolk-southern-ceos-discuss-merger-benefits-93CH-5046041",
     "AI|https://www.investing.com/news/company-news/ford-invests-in-revolution-space-to-scale-spacecraft-production-93CH-5046040",
     "AI|https://www.investing.com/news/company-news/passage-bio-approves-1for6-reverse-stock-split-ahead-of-merger-93CH-5046049",
@@ -5000,7 +4999,8 @@
     "SG Banks|https://www.investing.com/news/world-news/russian-forces-hit-kyiv-with-ballistic-missiles-mayor-says-5051511",
     "Watchlist|https://www.investing.com/news/earnings/olb-group-earnings-beat-by-002-revenue-fell-short-of-estimates-5052007",
     "Watchlist|https://www.investing.com/news/world-news/trump-and-nato-chief-urge-russia-to-avoid-actions-that-widen-ukraine-war-5052008",
-    "Watchlist|https://www.investing.com/news/world-news/russian-forces-hit-kyiv-with-ballistic-missiles-mayor-says-5051511"
+    "Watchlist|https://www.investing.com/news/world-news/russian-forces-hit-kyiv-with-ballistic-missiles-mayor-says-5051511",
+    "Crypto|64ba45d0-7140-3a9c-8697-d79606623efc"
   ],
   "topic_error": "",
   "last_digest": "2026-11-26",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795667977.0826504,
+  "last_check": 1795668869.6752522,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-25"
