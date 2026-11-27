@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Crypto|fe5cc8b7-e0c9-3fd6-ab13-bd1a2e5c9670",
-    "Watchlist|fba8afd9-201a-3121-a863-5f8e273f652f",
-    "AI|5517fe9d-809f-316e-a489-1a66df85cc19",
-    "AI|7fd8e2e9-f112-39a9-a348-7cf1ee81ce7d",
-    "Crypto|7fd8e2e9-f112-39a9-a348-7cf1ee81ce7d",
-    "Watchlist|5517fe9d-809f-316e-a489-1a66df85cc19",
-    "Watchlist|7fd8e2e9-f112-39a9-a348-7cf1ee81ce7d",
     "AI|https://www.investing.com/news/earnings/remy-cointreau-h1-operating-profit-beats-forecasts-lifts-margin-outlook-5049823",
     "AI|https://www.investing.com/news/stock-market-news/australian-regulator-finds-more-suspected-audit-misconduct-at-big-four-firms-5049824",
     "AI|https://www.investing.com/news/stock-market-news/black-friday-is-live-the-lowest-price-of-the-year-is-in-with-60-off-investingpro-5048983",
@@ -5000,7 +4993,14 @@
     "Cybersecurity|https://www.investing.com/news/commodities-news/gold-steadies-near-15month-low-as-fed-hike-bets-offset-techled-rally-5052805",
     "SG Banks|https://www.investing.com/news/commodities-news/gold-steadies-near-15month-low-as-fed-hike-bets-offset-techled-rally-5052805",
     "Watchlist|https://www.investing.com/news/commodities-news/gold-steadies-near-15month-low-as-fed-hike-bets-offset-techled-rally-5052805",
-    "SG Banks|https://www.straitstimes.com/business/asean-must-counter-economic-nationalism-with-deeper-integration-wider-partnerships-dpm-gan"
+    "SG Banks|https://www.straitstimes.com/business/asean-must-counter-economic-nationalism-with-deeper-integration-wider-partnerships-dpm-gan",
+    "SG Banks|https://www.channelnewsasia.com/business/boj-calls-safeguards-against-digital-money-ai-risks-6586491",
+    "War|99137dea-7de9-3cc0-b2ae-977e57d07000",
+    "SG Banks|/international/trump-says-huang-excited-about-his-second-term-nvidia",
+    "Watchlist|/international/trump-says-huang-excited-about-his-second-term-nvidia",
+    "Iran|https://www.iranintl.com/en/202611270476",
+    "War|8dcba0c4-56d3-3cdc-9c6c-5ae0e0d7c641",
+    "SG Banks|https://www.straitstimes.com/business/is-your-job-the-right-fit-for-you-and-top-things-to-know-about-investing"
   ],
   "topic_error": "",
   "last_digest": "2026-11-27",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795744143.956789,
+  "last_check": 1795745053.4743326,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-26"
