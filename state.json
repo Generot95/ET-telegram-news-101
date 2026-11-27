@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|32bcaff5-219a-3c2d-89cd-f2d45d9cd4a8",
-    "Watchlist|7031264d-ffd2-3e0d-81b3-997458c018b1",
-    "AI|1aa9d20c-7303-3783-90bc-65b50d50897d",
-    "Watchlist|1aa9d20c-7303-3783-90bc-65b50d50897d",
-    "SG Banks|https://www.channelnewsasia.com/business/boj-policymaker-signals-chance-faster-pace-interest-rate-hikes-6583511",
-    "War|https://www.investing.com/news/commodities-news/oil-steadies-as-hormuz-attacks-threaten-supply-recovery-inventory-build-weighs-5051937",
-    "AI|https://www.investing.com/news/stock-market-news/us-judge-blocks-fcc-from-revoking-disneys-abc-tv-licenses-5051928",
     "AI|https://www.investing.com/news/stock-market-news/trump-admin-weighed-using-cold-war-law-to-reinstate-nvidia-ceo-huang-wapo-reports-5051938",
     "AI|https://www.investing.com/news/commodities-news/oil-steadies-as-hormuz-attacks-threaten-supply-recovery-inventory-build-weighs-5051937",
     "AI|https://www.investing.com/news/insider-trading-news/fold-holdings-ceo-sells-2400-in-stock-to-cover-taxes-93CH-5051944",
@@ -5000,7 +4993,14 @@
     "War|https://www.investing.com/news/world-news/uk-southport-murder-suspect-due-to-go-on-trial-in-january-3720359",
     "War|https://www.investing.com/news/world-news/argentina-appeals-court-confirms-guilty-verdict-for-former-president-cristina-kirchner-3720259",
     "War|https://www.investing.com/news/world-news/israel-rejects-aid-groups-gaza-report-says-it-relies-on-partial-information-3720445",
-    "SG Banks|https://www.straitstimes.com/business/air-india-chief-seeks-to-cut-838-million-in-costs-in-2026"
+    "SG Banks|https://www.straitstimes.com/business/air-india-chief-seeks-to-cut-838-million-in-costs-in-2026",
+    "SG Banks|https://www.straitstimes.com/business/invest/when-a-mother-wanted-80k-monthly-child-support-for-two-young-kids-including-first-class-air-tickets",
+    "Iran|https://www.iranintl.com/en/202611277333",
+    "Watchlist|7031264d-ffd2-3e0d-81b3-997458c018b1",
+    "AI|https://www.investing.com/news/company-news/wilton-resources-plans-500k-private-placement-at-014unit-93CH-5053850",
+    "Cybersecurity|https://www.investing.com/news/company-news/wilton-resources-plans-500k-private-placement-at-014unit-93CH-5053850",
+    "SG Banks|https://www.investing.com/news/company-news/wilton-resources-plans-500k-private-placement-at-014unit-93CH-5053850",
+    "Watchlist|https://www.investing.com/news/company-news/wilton-resources-plans-500k-private-placement-at-014unit-93CH-5053850"
   ],
   "topic_error": "",
   "last_digest": "2026-11-27",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795813043.5779178,
+  "last_check": 1795813975.034601,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-27"
