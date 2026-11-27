@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/black-stone-minerals-director-acquires-295259-in-common-units-93CH-5051917",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/asian-tech-stocks-jump-as-bargain-buyers-boost-battered-ai-trade-5051918",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/air-cargo-demand-from-ai-data-centres-shows-no-sign-of-slowing-sats-ceo-says-5051923",
-    "Cybersecurity|https://www.investing.com/news/economy-news/data-centre-rush-drives-biggest-rise-in-australian-business-investment-since-mining-boom-5051924",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/nvidia-chips-reach-chineseowned-us-firms-despite-export-curbs-cbs-reports-5051925",
     "SG Banks|https://www.investing.com/news/economy-news/south-koreas-central-bank-raises-rates-upgrades-2027-growth-outlook-5051906",
     "SG Banks|https://www.investing.com/news/insider-trading-news/adma-biologics-coo-sells-416100-in-company-shares-93CH-5051914",
@@ -5000,7 +4996,11 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/market-swings-spooked-retail-tradersand-lifted-cme-group-up-18-5053438",
     "Watchlist|https://www.investing.com/news/stock-market-news/millions-of-americans-are-retiringlifting-this-wealth-stock-13-5053441",
     "Watchlist|https://www.investing.com/news/sec-filings/ai-financial-corp-cfo-transitions-to-subsidiary-as-company-changes-fiscal-year-93CH-5053830",
-    "Iran|https://www.iranintl.com/en/202611233671"
+    "Iran|https://www.iranintl.com/en/202611233671",
+    "AI|13f992d5-a781-34ec-a74c-03b9a267ebf3",
+    "Watchlist|efdbcdec-3a1a-3cb5-a2a7-17a89a7eb7b0",
+    "AI|bcbf3566-18e4-37ed-9a4c-4e85153fcd15",
+    "AI|d79d40d5-a78a-3356-ae08-4623d02109ba"
   ],
   "topic_error": "",
   "last_digest": "2026-11-27",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795811217.3048348,
+  "last_check": 1795812135.5946066,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-27"
