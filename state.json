@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/sec-filings/blackstone-infrastructure-strategies-reports-405-million-in-unregistered-unit-sales-93CH-5051715",
-    "Watchlist|https://www.investing.com/news/economy-news/new-york-court-upholds-mayor-mamdanis-rent-freeze-5051716",
-    "Watchlist|https://www.investing.com/news/sec-filings/blackstone-private-equity-strategies-fund-reports-573-million-in-unregistered-unit-sales-93CH-5051721",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/symbotic-cto-james-kuffner-sells-134152-in-stock-93CH-5051723",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/maverick-capital-sells-177-million-in-infleqtion-stock-93CH-5051724",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/saba-capital-buys-70219-in-ellsworth-growth--income-fund-93CH-5051725",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/battalion-oil-director-buys-18587-in-common-stock-93CH-5051728",
-    "Watchlist|https://www.investing.com/news/sec-filings/blackstone-private-equity-strategies-fund-reports-573-million-in-unregistered-unit-sales-93CH-5051729",
-    "War|WP-MKTW-0005364119",
-    "AI|WP-MKTW-0005364119",
-    "Cybersecurity|WP-MKTW-0005364119",
     "Cybersecurity|4ceccbf6-d780-3bf7-8fec-d08ccc2a04e7",
     "SG Banks|/international/global/nvidia-risk-rating-cut-sp-over-governance-concerns",
     "Watchlist|/international/global/nvidia-risk-rating-cut-sp-over-governance-concerns",
@@ -5000,7 +4989,18 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/sweden-stocks-higher-at-close-of-trade-omx-stockholm-30-up-142-5053731",
     "Watchlist|https://www.investing.com/news/sec-filings/datameds-ai-coceo-purchases-5000-company-shares-on-nasdaq-93CH-5053733",
     "AI|a66ec251-a231-315f-a2a4-5a46c8dfd78a",
-    "Watchlist|a66ec251-a231-315f-a2a4-5a46c8dfd78a"
+    "Watchlist|a66ec251-a231-315f-a2a4-5a46c8dfd78a",
+    "AI|2d519bf4-428d-3ce0-a0eb-816dd2cd0468",
+    "AI|f9ab484e-562b-366a-9cf4-64c8fd4167f0",
+    "Watchlist|2d519bf4-428d-3ce0-a0eb-816dd2cd0468",
+    "Watchlist|f9ab484e-562b-366a-9cf4-64c8fd4167f0",
+    "Crypto|7fdd5fda-2ac1-3813-807a-5d160068f186",
+    "AI|e6faf8c6-505e-366f-8862-4887eb44044a",
+    "Crypto|0d3d74df-264c-338d-bde2-00243880962f",
+    "Watchlist|e6faf8c6-505e-366f-8862-4887eb44044a",
+    "Watchlist|813c73c9-0a13-3738-a8e9-8362a1f78e12",
+    "War|WP-MKTW-0005364119",
+    "AI|WP-MKTW-0005364119"
   ],
   "topic_error": "",
   "last_digest": "2026-11-27",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795799283.2251825,
+  "last_check": 1795800208.0830495,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-27"
