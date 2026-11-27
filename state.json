@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/company-news/kioxia-hd-to-receive-22trn-dividend-from-subsidiary-93CH-5050173",
-    "AI|https://www.investing.com/news/company-news/remy-cointreau-h1-202627-slides-margins-recover-guidance-upgraded-93CH-5050174",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/bybit-hosts-wsot-2026s-final-livestream-on-ai-trading-battle-5047498",
-    "Cybersecurity|https://www.investing.com/news/company-news/kioxia-hd-to-receive-22trn-dividend-from-subsidiary-93CH-5050173",
-    "Cybersecurity|https://www.investing.com/news/company-news/remy-cointreau-h1-202627-slides-margins-recover-guidance-upgraded-93CH-5050174",
     "Watchlist|854d9f81-5f00-340c-9bc9-ebc647d79dcd",
     "AI|https://www.investing.com/news/stock-market-news/shein-q3-revenue-falls-59-as-europe-price-hikes-weigh-on-demand-93CH-5050196",
     "AI|https://www.investing.com/news/company-news/pge-q3-2026-slides-oneoffs-lift-ebitda-as-coal-rebounds-supply-slips-93CH-5050248",
@@ -5000,7 +4995,12 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/entains-australia-unit-to-pay-123m-to-settle-aml-case-93CH-5053075",
     "Watchlist|https://www.investing.com/news/stock-market-news/goldman-sachs-initiates-andritz-at-buy-sees-25-upside-on-hydro-growth-5053076",
     "Watchlist|https://www.investing.com/news/stock-market-news/vietnamese-partners-of-trump-organization-plan-trump-tower-in-hanoi-sources-say-5053107",
-    "Watchlist|https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-miners-lead-on-metals-rebound-5053108"
+    "Watchlist|https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-miners-lead-on-metals-rebound-5053108",
+    "SG Banks|https://www.channelnewsasia.com/business/china-stocks-rally-beijing-stronger-market-support-6586971",
+    "SG Banks|/property/gic-talks-lease-bulk-88000-sq-ft-capitasky-space-be-vacated-allianz",
+    "Watchlist|/property/gic-talks-lease-bulk-88000-sq-ft-capitasky-space-be-vacated-allianz",
+    "SG Banks|/international/global/japan-hong-kong-banks-set-improve-2027-while-australia-deteriorates-fitch",
+    "Watchlist|/international/global/japan-hong-kong-banks-set-improve-2027-while-australia-deteriorates-fitch"
   ],
   "topic_error": "",
   "last_digest": "2026-11-27",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795768024.9713736,
+  "last_check": 1795768922.0045319,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-26"
