@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|7911b182-6377-3135-af5a-b143c42df271",
-    "War|https://www.investing.com/news/commodities-news/african-insurgents-take-war-to-the-skies-with-offtheshelf-drones-5049785",
-    "AI|https://www.investing.com/news/commodities-news/african-insurgents-take-war-to-the-skies-with-offtheshelf-drones-5049785",
-    "AI|https://www.investing.com/news/economy-news/us-drops-business-deal-plan-as-russia-shows-little-interest--report-5049786",
-    "AI|https://www.investing.com/news/stock-market-news/bilibili-hk-shares-jump-over-7-as-q3-beat-snap-10session-losing-streak-5049787",
     "AI|https://www.investing.com/news/stock-market-news/amazon-autos-to-launch-in-the-uk-in-early-2027-with-hyundai-93CH-5049791",
     "AI|https://www.investing.com/news/stock-market-news/exclusivealice-huanglinked-firms-listed-270-million-in-ai-servers-in-china-records-show-5049792",
     "AI|https://www.investing.com/news/stock-market-news/amazon-to-launch-amazon-autos-in-uk-in-early-2027-in-first-expansion-beyond-us-5049784",
@@ -5000,7 +4995,12 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/eva-live-ceo-david-boulette-buys-52k-in-company-stock-93CH-5052766",
     "Watchlist|https://www.investing.com/news/economic-indicators/core-inflation-in-japans-capital-accelerates-in-november-5052767",
     "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-hovers-around-60k-amid-little-relief-from-rate-regulatory-jitters-5047126",
-    "SG Banks|/companies-markets/banking-finance/national-australia-bank-speeds-layoff-talks-after-e-mail-blunder"
+    "SG Banks|/companies-markets/banking-finance/national-australia-bank-speeds-layoff-talks-after-e-mail-blunder",
+    "AI|https://www.investing.com/news/stock-market-news/us-stock-futures-rise-in-holidaythinned-trade-tech-rebound-in-focus-5052775",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/us-stock-futures-rise-in-holidaythinned-trade-tech-rebound-in-focus-5052775",
+    "SG Banks|9d08abf7-c7dd-3235-a5a5-92e9729eadcc",
+    "SG Banks|https://www.investing.com/news/stock-market-news/us-stock-futures-rise-in-holidaythinned-trade-tech-rebound-in-focus-5052775",
+    "Watchlist|https://www.investing.com/news/stock-market-news/us-stock-futures-rise-in-holidaythinned-trade-tech-rebound-in-focus-5052775"
   ],
   "topic_error": "",
   "last_digest": "2026-11-27",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795737722.988401,
+  "last_check": 1795738634.947687,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-26"
