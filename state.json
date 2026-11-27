@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|d5beb9d2-4fbd-3419-be05-3d0e9602450d",
-    "War|a1548458-170b-3b95-81bd-5e59552173b2",
-    "Watchlist|d31292f5-eec5-3735-89be-0617591debbb",
-    "AI|d31292f5-eec5-3735-89be-0617591debbb",
     "SG Banks|https://www.channelnewsasia.com/business/meta-delegation-meets-congress-in-new-delhi-protests-intensify-over-content-curbs-sources-say-6581021",
     "SG Banks|https://www.straitstimes.com/business/indonesia-central-bank-expects-to-keep-benchmark-rate-at-6-in-2027-governor-says",
     "SG Banks|https://www.straitstimes.com/business/australian-regulator-finds-more-suspected-audit-misconduct-at-big-four-firms",
@@ -5000,7 +4996,11 @@
     "SG Banks|/international/trump-rewrites-lame-duck-rules-flex-nvidia-ceo",
     "SG Banks|https://www.straitstimes.com/business/real-incomes-in-spore-rise-but-at-slower-pace-in-2026-with-smaller-gains-for-lower-wage-workers",
     "SG Banks|https://www.straitstimes.com/business/fewer-people-in-spore-changed-jobs-in-2026-but-most-who-do-earn-more-mom",
-    "Watchlist|/international/trump-rewrites-lame-duck-rules-flex-nvidia-ceo"
+    "Watchlist|/international/trump-rewrites-lame-duck-rules-flex-nvidia-ceo",
+    "AI|https://www.investing.com/news/insider-trading-news/friedman-industries-ceo-buys-168730-in-company-stock-93CH-5052828",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/friedman-industries-ceo-buys-168730-in-company-stock-93CH-5052828",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/friedman-industries-ceo-buys-168730-in-company-stock-93CH-5052828",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/friedman-industries-ceo-buys-168730-in-company-stock-93CH-5052828"
   ],
   "topic_error": "",
   "last_digest": "2026-11-27",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795748735.497918,
+  "last_check": 1795749639.0953748,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-26"
