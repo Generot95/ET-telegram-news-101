@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/hydro-cuts-2026-capex-outlook-by-nok-1-bln-targets-nok-3-bln-in-savings-93CH-5049799",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/joby-aviation-chief-policy-officer-sells-20783-in-common-stock-93CH-5049805",
-    "Watchlist|https://www.investing.com/news/analyst-ratings/baird-reiterates-neutral-on-dicks-sporting-goods-stock-at-150-93CH-5049808",
-    "Watchlist|https://www.investing.com/news/company-news/astral-foods-fy2026-slides-record-profit-as-feed-costs-fall-margins-double-93CH-5049810",
-    "Watchlist|https://www.investing.com/news/stock-market-news/cognizant-in-talks-to-take-over-parts-of-sp-globals-capital-iq-operations-sources-say-5049812",
-    "SG Banks|/companies-markets/seatriums-slowing-order-book-weighs-sentiment-despite-improving-margins",
-    "SG Banks|https://www.channelnewsasia.com/business/cognizant-in-talks-take-over-parts-sp-globals-capital-iq-operations-sources-say-6580926",
-    "Watchlist|/companies-markets/seatriums-slowing-order-book-weighs-sentiment-despite-improving-margins",
-    "AI|fba8afd9-201a-3121-a863-5f8e273f652f",
     "Crypto|fe5cc8b7-e0c9-3fd6-ab13-bd1a2e5c9670",
     "Watchlist|fba8afd9-201a-3121-a863-5f8e273f652f",
     "AI|5517fe9d-809f-316e-a489-1a66df85cc19",
@@ -5000,7 +4991,16 @@
     "AI|https://www.investing.com/news/economy-news/dollar-lingers-near-22month-peak-as-ai-worries-simmer-5052803",
     "Cybersecurity|https://www.investing.com/news/economy-news/dollar-lingers-near-22month-peak-as-ai-worries-simmer-5052803",
     "SG Banks|https://www.investing.com/news/economy-news/dollar-lingers-near-22month-peak-as-ai-worries-simmer-5052803",
-    "Watchlist|https://www.investing.com/news/economy-news/dollar-lingers-near-22month-peak-as-ai-worries-simmer-5052803"
+    "Watchlist|https://www.investing.com/news/economy-news/dollar-lingers-near-22month-peak-as-ai-worries-simmer-5052803",
+    "SG Banks|/international/cautious-consumers-gear-black-friday-inflation-woes-bite",
+    "Watchlist|/international/cautious-consumers-gear-black-friday-inflation-woes-bite",
+    "SG Banks|https://www.channelnewsasia.com/business/chinese-industrial-profit-rises-16-in-january-october-6586431",
+    "War|https://www.investing.com/news/commodities-news/gold-steadies-near-15month-low-as-fed-hike-bets-offset-techled-rally-5052805",
+    "AI|https://www.investing.com/news/commodities-news/gold-steadies-near-15month-low-as-fed-hike-bets-offset-techled-rally-5052805",
+    "Cybersecurity|https://www.investing.com/news/commodities-news/gold-steadies-near-15month-low-as-fed-hike-bets-offset-techled-rally-5052805",
+    "SG Banks|https://www.investing.com/news/commodities-news/gold-steadies-near-15month-low-as-fed-hike-bets-offset-techled-rally-5052805",
+    "Watchlist|https://www.investing.com/news/commodities-news/gold-steadies-near-15month-low-as-fed-hike-bets-offset-techled-rally-5052805",
+    "SG Banks|https://www.straitstimes.com/business/asean-must-counter-economic-nationalism-with-deeper-integration-wider-partnerships-dpm-gan"
   ],
   "topic_error": "",
   "last_digest": "2026-11-27",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795743224.68492,
+  "last_check": 1795744143.956789,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-26"
