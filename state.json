@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|98c9e5d8-592d-3f63-822b-3d1f3da7fe16",
-    "AI|https://www.investing.com/news/cryptocurrency-news/simpleswap-bringing-prediction-markets-to-its-platform-5049798",
-    "AI|https://www.investing.com/news/stock-market-news/hydro-cuts-2026-capex-outlook-by-nok-1-bln-targets-nok-3-bln-in-savings-93CH-5049799",
-    "AI|https://www.investing.com/news/insider-trading-news/joby-aviation-chief-policy-officer-sells-20783-in-common-stock-93CH-5049805",
-    "AI|https://www.investing.com/news/analyst-ratings/baird-reiterates-neutral-on-dicks-sporting-goods-stock-at-150-93CH-5049808",
     "AI|https://www.investing.com/news/company-news/astral-foods-fy2026-slides-record-profit-as-feed-costs-fall-margins-double-93CH-5049810",
     "AI|https://www.investing.com/news/stock-market-news/cognizant-in-talks-to-take-over-parts-of-sp-globals-capital-iq-operations-sources-say-5049812",
     "AI|https://www.investing.com/news/stock-market-news/houthis-threaten-saudi-ports-amid-yemen-conflict-escalation-93CH-5049796",
@@ -5000,7 +4995,12 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/trump-says-wednesdays-market-had-him-briefly-concerned-before-stocks-recovered-5052789",
     "Watchlist|https://www.investing.com/news/stock-market-news/wisetech-shares-jump-167-to-nearly-10month-high-as-fy27-outlook-holds-5052790",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-wisetech-global-stock-surging-today-93CH-5052791",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-whitefield-h1-2026-profit-rises-as-buyback-supports-shares-93CH-5052792"
+    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-whitefield-h1-2026-profit-rises-as-buyback-supports-shares-93CH-5052792",
+    "SG Banks|1d6598f9-60a9-3843-a77f-89db24e2c99d",
+    "SG Banks|https://www.straitstimes.com/business/bitcoin-funds-head-for-worst-month-as-outflows-near-us5-billion",
+    "SG Banks|https://www.channelnewsasia.com/business/japan-tobacco-up-2-imperial-brands-takeover-talk-6586256",
+    "Watchlist|1d6598f9-60a9-3843-a77f-89db24e2c99d",
+    "Watchlist|/companies-markets/maybank-reviews-portfolio-chip-curbs-hit-data-centres"
   ],
   "topic_error": "",
   "last_digest": "2026-11-27",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795740482.2704139,
+  "last_check": 1795741386.059606,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-26"
