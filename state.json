@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-polestar-q3-2026-revenue-miss-weighs-on-shares-93CH-5050823",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/seastar-medical-ceo-buys-1900-in-company-shares-93CH-5050824",
-    "Crypto|0828c5d1-34e2-3aa8-bd7c-cbdeb66b228e",
-    "AI|c4d840c2-0889-396b-9e33-c8799e83ad5f",
-    "AI|69d14a74-a676-3f36-abdd-7cc411615607",
-    "AI|498222de-53a2-35bc-abb6-fe135c7901c1",
-    "AI|06bc07fd-ec34-3176-990b-9e1db6589b3c",
-    "Watchlist|c4d840c2-0889-396b-9e33-c8799e83ad5f",
-    "Watchlist|69d14a74-a676-3f36-abdd-7cc411615607",
-    "Watchlist|498222de-53a2-35bc-abb6-fe135c7901c1",
-    "Watchlist|06bc07fd-ec34-3176-990b-9e1db6589b3c",
     "Watchlist|4ac52d88-73e0-3afd-88f3-50692bcc45e2",
     "War|653b2c44-005a-319f-a394-5deebe552d26",
     "War|84fe641a-37d4-47a1-8be8-fbe4ef742d0f",
@@ -5000,7 +4989,18 @@
     "Watchlist|https://www.investing.com/news/analyst-ratings/mongodb-stock-gets-buy-reiteration-from-rosenblatt-ahead-of-q3-results-93CH-5053447",
     "Watchlist|https://www.investing.com/news/company-news/tele-columbus-q3-2026-slides-recapitalization-anchors-mixed-results-93CH-5053449",
     "Watchlist|https://www.investing.com/news/press-releases/tcl-highlights-three-nxtpaper-display-modes-and-november-promotional-pricing-for-tcl-nxtpaper-70-pro-smartphon-5053452",
-    "Watchlist|https://www.investing.com/news/press-releases/tcl-announces-november-promotional-pricing-for-the-tcl-tab-a1-plus-nxtpaper-122inch-display-tablet-5053451"
+    "Watchlist|https://www.investing.com/news/press-releases/tcl-announces-november-promotional-pricing-for-the-tcl-tab-a1-plus-nxtpaper-122inch-display-tablet-5053451",
+    "Iran|https://www.iranintl.com/en/202611270083",
+    "AI|03ec35cb-63c4-33e0-8f5b-6d0ad55caee0",
+    "AI|a4c34f29-4316-332f-9659-92590da6bf8f",
+    "AI|35a53881-36ae-3b98-9e29-e30be558881d",
+    "Watchlist|03ec35cb-63c4-33e0-8f5b-6d0ad55caee0",
+    "Watchlist|a4c34f29-4316-332f-9659-92590da6bf8f",
+    "Watchlist|35a53881-36ae-3b98-9e29-e30be558881d",
+    "AI|1b256abc-a246-496c-89e3-bc23a8f065b5",
+    "Watchlist|1b256abc-a246-496c-89e3-bc23a8f065b5",
+    "AI|7e15e5c0-b031-32ee-ad26-18e3177bfd8f",
+    "Watchlist|7e15e5c0-b031-32ee-ad26-18e3177bfd8f"
   ],
   "topic_error": "",
   "last_digest": "2026-11-27",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795783659.1031096,
+  "last_check": 1795784578.9161787,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-27"
