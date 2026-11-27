@@ -1,7 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "War|https://www.investing.com/news/commodities-news/gold-eases-as-us-inflation-data-reinforces-fed-ratehike-bets-5051964",
     "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-ike-gps-h1-2026-loss-narrows-focus-as-subscriptions-grow-93CH-5051948",
     "AI|https://www.investing.com/news/commodities-news/oil-rises-on-supply-concerns-as-iran-claims-mine-strikes-on-ships-5051949",
     "AI|https://www.investing.com/news/insider-trading-news/zimmer-biomet-executive-sells-11m-in-company-stock-93CH-5051955",
@@ -5000,7 +4999,8 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-129-5053864",
     "Watchlist|https://www.investing.com/news/sec-filings/lantern-pharma-enters-2-million-settlement-agreement-with-former-consultant-93CH-5053876",
     "Watchlist|https://www.investing.com/news/company-news/puig-to-buy-75-stake-in-parfums-de-marly-owner-for-12b-93CH-5053877",
-    "Watchlist|https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-153-5053878"
+    "Watchlist|https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-153-5053878",
+    "AI|71edbab8-b0fa-3c3c-ac4e-742374644bee"
   ],
   "topic_error": "",
   "last_digest": "2026-11-27",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795814883.082302,
+  "last_check": 1795815796.5731435,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-27"
