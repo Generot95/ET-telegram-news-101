@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-workday-stock-tumbling-today-93CH-5050099",
-    "Cybersecurity|https://www.investing.com/news/economic-indicators/germanys-gdp-grows-01-in-q3-2026-revised-down-slightly-93CH-5050100",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/stellantis-cuts-sochaux-night-shift-amid-weak-demand-93CH-5050101",
-    "Cybersecurity|https://www.investing.com/news/company-news/bioarctic-q3-2026-slides-royalties-surge-subcutaneous-leqembi-approved-globally-93CH-5050102",
-    "SG Banks|https://www.investing.com/news/company-news/prosus-h1-fy27-slides-revenue-scales-to-57b-buyback-drives-eps-93CH-5050090",
-    "SG Banks|https://www.investing.com/news/cryptocurrency-news/cregis-and-centroid-solutions-partner-to-expand-digital-asset-payment-capabilities-for-financial-institutions-5050091",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-autodesk-stock-sliding-today-93CH-5050097",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-workday-stock-tumbling-today-93CH-5050098",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-workday-stock-tumbling-today-93CH-5050099",
@@ -5000,7 +4994,13 @@
     "Watchlist|https://www.investing.com/news/company-news/veradata-projects-36-revenue-growth-in-2026-driven-by-aipowered-donor-science-a-5053003",
     "Crypto|https://www.investing.com/news/cryptocurrency-news/cregis-and-centroid-solutions-partner-to-expand-digital-asset-payment-capabilities-for-financial-institutions-5050091",
     "SG Banks|/companies-markets/jensen-huang-returns-nvidia-vows-be-better-ceo",
-    "Watchlist|/companies-markets/jensen-huang-returns-nvidia-vows-be-better-ceo"
+    "Watchlist|/companies-markets/jensen-huang-returns-nvidia-vows-be-better-ceo",
+    "Crypto|7e05b998-f470-3f17-a5f7-d7a6a1ff5e65",
+    "SG Banks|https://www.channelnewsasia.com/business/airasia-delays-staff-salary-payments-end-month-internal-email-shows-6586976",
+    "War|d69d66d3-e5f3-3f1d-89fc-6d720a50c9fc",
+    "SG Banks|https://www.channelnewsasia.com/business/sap-flags-security-incident-says-no-evidence-unauthorized-access-customer-data-6586986",
+    "SG Banks|/companies-markets/banking-finance/jpmorgan-blackrock-endowus-bid-scheme-lift-returns-s700-billion-cpf-savings",
+    "Watchlist|/companies-markets/banking-finance/jpmorgan-blackrock-endowus-bid-scheme-lift-returns-s700-billion-cpf-savings"
   ],
   "topic_error": "",
   "last_digest": "2026-11-27",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795760668.1179214,
+  "last_check": 1795761581.1186645,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-26"
