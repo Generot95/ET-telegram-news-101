@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/analyst-ratings/insmed-stock-rating-cut-to-market-perform-by-raymond-james-on-sanofi-deal-93CH-5049980",
-    "SG Banks|https://www.investing.com/news/stock-market-news/norse-atlantic-shares-plunge-62-amid-critical-cash-crisis-93CH-5049981",
     "Watchlist|https://www.investing.com/news/stock-market-news/akzonobel-offers-remedy-to-uk-watchdog-over-axalta-merger-93CH-5049975",
     "Watchlist|https://www.investing.com/news/stock-market-news/ams-osram-jumps-24-on-samsung-display-microled-deal-210-mln-investment-5049976",
     "Watchlist|https://www.investing.com/news/stock-market-news/bureau-veritas-hits-record-high-after-report-advent-weighs-takeover-bid-5049977",
@@ -5000,7 +4998,9 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/edward-smolyansky-sells-319m-in-lifeway-foods-stock-93CH-5052886",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-tianqi-lithium-stock-climbing-today-93CH-5052887",
     "Iran|https://www.iranintl.com/en/202611238916",
-    "Watchlist|76bad217-84c3-3e06-80ff-80ce033c01c9"
+    "Watchlist|76bad217-84c3-3e06-80ff-80ce033c01c9",
+    "AI|3a93e79b-4576-3c38-804d-a480ae227ae0",
+    "Watchlist|3a93e79b-4576-3c38-804d-a480ae227ae0"
   ],
   "topic_error": "",
   "last_digest": "2026-11-27",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795756055.7557337,
+  "last_check": 1795756961.7122488,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-26"
