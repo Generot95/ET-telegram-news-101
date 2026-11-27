@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/forge-nano-executive-buys-250647-in-company-stock-93CH-5051968",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/verisign-ceo-d-james-bidzos-sells-104-million-in-stock-93CH-5051969",
     "SG Banks|https://www.investing.com/news/insider-trading-news/forge-nano-executive-buys-250647-in-company-stock-93CH-5051968",
     "SG Banks|https://www.investing.com/news/insider-trading-news/verisign-ceo-d-james-bidzos-sells-104-million-in-stock-93CH-5051969",
     "Watchlist|https://www.investing.com/news/insider-trading-news/forge-nano-executive-buys-250647-in-company-stock-93CH-5051968",
@@ -5000,7 +4998,9 @@
     "Watchlist|/companies-markets/ocbc-opens-100-tonne-gold-vaulting-facility-meet-growing-institutional-demand",
     "AI|e1ef65ea-b97c-35fe-9b1d-b4826edf6fb2",
     "AI|247876ff-8d90-3486-815a-2df813c93315",
-    "Watchlist|e1ef65ea-b97c-35fe-9b1d-b4826edf6fb2"
+    "Watchlist|e1ef65ea-b97c-35fe-9b1d-b4826edf6fb2",
+    "Iran|https://www.iranintl.com/en/202611273349",
+    "SG Banks|https://www.channelnewsasia.com/commentary/nvidia-reinstate-jensen-huang-ceo-great-man-theory-flawed-6587156"
   ],
   "topic_error": "",
   "last_digest": "2026-11-27",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795816723.8779352,
+  "last_check": 1795817638.557129,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-27"
