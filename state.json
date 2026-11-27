@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/insider-trading-news/clearwater-paper-director-buys-125688-in-company-stock-93CH-5051852",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/adaptive-biotechnologies-ceo-sells-199m-in-company-stock-93CH-5051853",
-    "SG Banks|https://www.investing.com/news/economy-news/bojs-tamura-signals-chance-of-fasterpace-interest-rate-hikes-5051855",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/ptc-therapeutics-director-jerome-b-zeldis-sells-711360-in-stock-93CH-5051841",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/stellus-capital-director-bruce-r-bilger-buys-199k-in-stock-93CH-5051843",
-    "Watchlist|https://www.investing.com/news/economy-news/bank-of-korea-hikes-interest-rates-to-2yr-high-5051846",
-    "Watchlist|https://www.investing.com/news/company-news/cathie-woods-ark-adds-to-anthropics-stock-trims-netflix-93CH-5051847",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/stark-novus-director-acquires-39676-in-stock-93CH-5051851",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/clearwater-paper-director-buys-125688-in-company-stock-93CH-5051852",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/adaptive-biotechnologies-ceo-sells-199m-in-company-stock-93CH-5051853",
-    "Watchlist|https://www.investing.com/news/economy-news/bojs-tamura-signals-chance-of-fasterpace-interest-rate-hikes-5051855",
-    "Crypto|https://www.investing.com/news/cryptocurrency-news/bybit-introduces-tradfi-earn-unifying-access-to-global-etfs-and-rwa-5048738",
     "SG Banks|https://www.channelnewsasia.com/asia/asian-economies-respond-trump-new-tariffs-6583496",
     "AI|https://www.investing.com/news/insider-trading-news/ceribell-senior-vp-david-foehr-sells-78317-in-company-stock-93CH-5051862",
     "AI|https://www.investing.com/news/insider-trading-news/ceribell-cfo-scott-blumberg-sells-57860-in-company-stock-93CH-5051861",
@@ -5000,7 +4988,19 @@
     "Watchlist|eb4118ab-24ea-3d0e-b0b0-7f7174f939b1",
     "Watchlist|2dee05d9-c6b4-3cb9-9de0-0629e62463e4",
     "Watchlist|b309ed38-c407-38d7-9f88-4a68a33a4592",
-    "Watchlist|562294b1-0820-3dad-bc66-06443abc510e"
+    "Watchlist|562294b1-0820-3dad-bc66-06443abc510e",
+    "SG Banks|https://www.channelnewsasia.com/business/openai-countersues-apple-stealing-trade-secrets-6588456",
+    "AI|428d2083-a112-3dd0-a359-f5e5ca6d31d4",
+    "Watchlist|428d2083-a112-3dd0-a359-f5e5ca6d31d4",
+    "AI|bec7473c-dd3b-438b-b0b5-5716eff36729",
+    "AI|https://www.investing.com/news/insider-trading-news/major-owner-buys-54000-in-outset-medical-stock-93CH-5053807",
+    "AI|https://www.investing.com/news/stock-market-news/arista-networks-intel-among-market-cap-stock-movers-on-friday-93CH-5053810",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/major-owner-buys-54000-in-outset-medical-stock-93CH-5053807",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/arista-networks-intel-among-market-cap-stock-movers-on-friday-93CH-5053810",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/major-owner-buys-54000-in-outset-medical-stock-93CH-5053807",
+    "SG Banks|https://www.investing.com/news/stock-market-news/arista-networks-intel-among-market-cap-stock-movers-on-friday-93CH-5053810",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/major-owner-buys-54000-in-outset-medical-stock-93CH-5053807",
+    "Watchlist|https://www.investing.com/news/stock-market-news/arista-networks-intel-among-market-cap-stock-movers-on-friday-93CH-5053810"
   ],
   "topic_error": "",
   "last_digest": "2026-11-27",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795806641.3720763,
+  "last_check": 1795807572.1985095,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-27"
