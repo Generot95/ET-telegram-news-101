@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/insider-trading-news/plexus-regional-president-frank-zycinski-sells-164k-in-stock-93CH-5049930",
-    "AI|https://www.investing.com/news/earnings/prosus-adjusted-earnings-rise-as-fooddelivery-spending-weighs-on-profit-5049922",
-    "AI|https://www.investing.com/news/company-news/mpc-container-ships-q3-2026-slides-22b-backlog-guidance-reaffirmed-93CH-5049932",
-    "AI|https://www.investing.com/news/analyst-ratings/brookfield-infrastructure-stock-coverage-resumed-at-rbc-with-outperform-93CH-5049933",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/we-told-you-first-this-smallcap-health-pick-soared-41-yesterday-on-q3-earnings-5049919",
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/rothschild-upgrades-icon-stock-rating-on-growth-outlook-93CH-5049923",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/plexus-regional-president-frank-zycinski-sells-164k-in-stock-93CH-5049930",
     "Cybersecurity|https://www.investing.com/news/earnings/prosus-adjusted-earnings-rise-as-fooddelivery-spending-weighs-on-profit-5049922",
     "Cybersecurity|https://www.investing.com/news/company-news/mpc-container-ships-q3-2026-slides-22b-backlog-guidance-reaffirmed-93CH-5049932",
@@ -5000,7 +4994,13 @@
     "AI|https://www.investing.com/news/stock-market-news/singapore-yet-to-confirm-if-nvidia-has-halted-advanced-chip-shipments-deputy-pm-5052834",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/singapore-yet-to-confirm-if-nvidia-has-halted-advanced-chip-shipments-deputy-pm-5052834",
     "SG Banks|https://www.investing.com/news/stock-market-news/singapore-yet-to-confirm-if-nvidia-has-halted-advanced-chip-shipments-deputy-pm-5052834",
-    "Watchlist|https://www.investing.com/news/stock-market-news/singapore-yet-to-confirm-if-nvidia-has-halted-advanced-chip-shipments-deputy-pm-5052834"
+    "Watchlist|https://www.investing.com/news/stock-market-news/singapore-yet-to-confirm-if-nvidia-has-halted-advanced-chip-shipments-deputy-pm-5052834",
+    "SG Banks|/companies-markets/banking-finance/jpmorgan-blackrock-endowus-frontrunners-scheme-lift-returns-s700-million-cpf-savings",
+    "Watchlist|/companies-markets/banking-finance/jpmorgan-blackrock-endowus-frontrunners-scheme-lift-returns-s700-million-cpf-savings",
+    "AI|e3793ec5-4adf-37fb-9a33-8705e8e9ef36",
+    "SG Banks|/companies-markets/banking-finance/jpmorgan-blackrock-endowus-frontrunners-scheme-lift-returns-s700-billion-cpf-savings",
+    "Watchlist|f02dfe78-c9b0-34f3-aada-e2b06bb8e87a",
+    "Watchlist|/companies-markets/banking-finance/jpmorgan-blackrock-endowus-frontrunners-scheme-lift-returns-s700-billion-cpf-savings"
   ],
   "topic_error": "",
   "last_digest": "2026-11-27",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795751479.5386202,
+  "last_check": 1795752401.4085658,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-26"
