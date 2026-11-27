@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.channelnewsasia.com/business/oil-rises-after-alleged-houthi-attack-saudi-refinery-6580261",
-    "SG Banks|https://www.investing.com/news/analyst-ratings/dicks-sporting-goods-stock-buy-rating-reiterated-by-da-davidson-on-q3-beat-93CH-5050644",
-    "SG Banks|https://www.investing.com/news/stock-market-news/europe-stocks-climb-as-autos-luxury-rally-eyes-on-us-pce-fed-hike-bets-5049961",
-    "SG Banks|https://www.investing.com/news/company-news/best-buy-declares-096-quarterly-dividend-payable-january-2027-93CH-5050648",
-    "SG Banks|https://www.investing.com/news/company-news/mingteng-international-announces-1for5-reverse-stock-split-93CH-5050650",
-    "SG Banks|https://www.investing.com/news/company-news/verde-resources-signs-biochar-manufacturing-deal-with-lignetics-93CH-5050649",
-    "SG Banks|https://www.investing.com/news/company-news/oio-group-signs-loi-with-w-group-for-luxury-autofintech-deal-93CH-5050652",
-    "SG Banks|https://www.investing.com/news/company-news/rosemont-launches-270share-tender-offer-for-aytu-biopharma-93CH-5050651",
-    "SG Banks|https://www.investing.com/news/company-news/iperionx-signs-deed-to-redomicile-from-australia-to-the-us-93CH-5050653",
     "SG Banks|https://www.investing.com/news/company-news/golden-heaven-to-execute-80for1-reverse-stock-split-nov-30-93CH-5050654",
     "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-li-auto-beats-q3-2026-estimates-as-margins-improve-93CH-5050656",
     "Watchlist|https://www.investing.com/news/analyst-ratings/dicks-sporting-goods-stock-buy-rating-reiterated-by-da-davidson-on-q3-beat-93CH-5050644",
@@ -5000,7 +4991,16 @@
     "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-purcari-wineries-q3-2026-revenue-slips-as-margin-holds-93CH-5053347",
     "Watchlist|https://www.investing.com/news/stock-market-news/citi-flags-solar-storage-and-sst-sector-updates-ahead-of-key-policy-moves-93CH-5053348",
     "Watchlist|https://www.investing.com/news/analyst-ratings/hc-wainwright-resumes-widepoint-stock-coverage-with-buy-rating-21-target-93CH-5053349",
-    "Watchlist|https://www.investing.com/news/stock-market-news/exclusivehackers-breach-us-air-force-flagship-cloud-one-computing-platform-5053314"
+    "Watchlist|https://www.investing.com/news/stock-market-news/exclusivehackers-breach-us-air-force-flagship-cloud-one-computing-platform-5053314",
+    "Iran|https://www.iranintl.com/en/202611277112",
+    "War|ba13dc5b-f1a1-3bae-a135-c474b8a29ebc",
+    "Crypto|1b382349-65c5-336e-8aaa-ab4a1f83873c",
+    "AI|1fe43596-40a2-3751-b348-69ca7c8f403a",
+    "SG Banks|/companies-markets/capital-markets-currencies/european-shares-rise-tech-miners-strength-head-weekly-gains-despite-us-tariff-proposals",
+    "Watchlist|1fe43596-40a2-3751-b348-69ca7c8f403a",
+    "Watchlist|/companies-markets/capital-markets-currencies/european-shares-rise-tech-miners-strength-head-weekly-gains-despite-us-tariff-proposals",
+    "AI|d8e0d517-86be-32c9-9172-3b93c350cbef",
+    "Watchlist|d8e0d517-86be-32c9-9172-3b93c350cbef"
   ],
   "topic_error": "",
   "last_digest": "2026-11-27",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795779962.4034567,
+  "last_check": 1795780887.3214288,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-27"
