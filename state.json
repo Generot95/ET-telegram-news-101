@@ -1,7 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/48-36-32-the-ai-healthcare-picks-beating-their-sector-in-2026-5052005",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/musk-says-every-child-in-the-us-will-get-two-spacex-shares-5052006",
     "SG Banks|https://www.investing.com/news/insider-trading-news/avepoint-chief-legal-officer-sells-587650-in-company-stock-93CH-5051996",
     "SG Banks|https://www.investing.com/news/insider-trading-news/verisign-director-courtney-armstrong-buys-5686-in-stock-93CH-5051997",
@@ -5000,7 +4999,8 @@
     "Watchlist|https://www.investing.com/news/stock-market-news/glass-lewis-backs-vail-resorts-board-in-proxy-fight-with-activist-oasis-5053937",
     "Watchlist|https://www.investing.com/news/sec-filings/60-degrees-pharmaceuticals-receives-nasdaq-notice-for-equity-listing-deficiency-93CH-5053938",
     "SG Banks|https://www.straitstimes.com/business/banking/ocbc-expands-physical-gold-business-with-new-100-tonne-vault-in-singapore",
-    "SG Banks|https://www.straitstimes.com/business/microdramas-rake-in-us20-billion-as-world-gloms-on-to-quick-hits"
+    "SG Banks|https://www.straitstimes.com/business/microdramas-rake-in-us20-billion-as-world-gloms-on-to-quick-hits",
+    "Watchlist|39d55064-b6dc-397d-814c-dec6896156fb"
   ],
   "topic_error": "",
   "last_digest": "2026-11-27",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795818557.8922071,
+  "last_check": 1795819476.628781,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-27"
