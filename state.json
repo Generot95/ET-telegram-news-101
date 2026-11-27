@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|/international/trump-rewrites-lame-duck-rules-flex-nvidia-ceo",
-    "SG Banks|https://www.straitstimes.com/business/companies-markets/volkswagen-confronts-union-over-costs-in-face-of-strike-threat",
-    "Watchlist|/international/trump-rewrites-lame-duck-rules-flex-nvidia-ceo",
-    "AI|8db4ed56-c230-3a85-b657-58a0d81db283",
-    "AI|d5beb9d2-4fbd-3419-be05-3d0e9602450d",
     "Watchlist|d5beb9d2-4fbd-3419-be05-3d0e9602450d",
     "War|a1548458-170b-3b95-81bd-5e59552173b2",
     "Watchlist|d31292f5-eec5-3735-89be-0617591debbb",
@@ -5000,7 +4995,12 @@
     "Watchlist|https://www.investing.com/news/economic-indicators/chinas-industrial-firms-post-faster-profit-growth-as-recovery-remains-uneven-5052818",
     "Watchlist|https://www.investing.com/news/stock-market-news/us-ai-chip-curbs-stall-billions-in-asia-data-center-deals-bloomberg-reports-5052819",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-japan-tobacco-stock-surging-today-93CH-5052820",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/granite-ridge-resources-cfo-buys-27450-in-company-stock-93CH-5052824"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/granite-ridge-resources-cfo-buys-27450-in-company-stock-93CH-5052824",
+    "SG Banks|https://www.straitstimes.com/business/japan-central-bank-calls-for-safeguards-against-digital-money-ai-risks",
+    "SG Banks|/international/trump-rewrites-lame-duck-rules-flex-nvidia-ceo",
+    "SG Banks|https://www.straitstimes.com/business/real-incomes-in-spore-rise-but-at-slower-pace-in-2026-with-smaller-gains-for-lower-wage-workers",
+    "SG Banks|https://www.straitstimes.com/business/fewer-people-in-spore-changed-jobs-in-2026-but-most-who-do-earn-more-mom",
+    "Watchlist|/international/trump-rewrites-lame-duck-rules-flex-nvidia-ceo"
   ],
   "topic_error": "",
   "last_digest": "2026-11-27",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795747821.138373,
+  "last_check": 1795748735.497918,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-26"
