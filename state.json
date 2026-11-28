@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-life-healthcare-posts-stronger-margins-in-h2-2026-93CH-5052242",
-    "AI|https://www.investing.com/news/stock-market-news/tullow-oil-shares-jump-7-on-output-beat-and-ghana-tax-deal-5052244",
-    "AI|https://www.investing.com/news/company-news/jinhui-shipping-q3-2026-slides-profit-surges-despite-revenue-dip-93CH-5052245",
-    "AI|https://www.investing.com/news/stock-market-news/bachem-shares-drop-12-after-new-growth-targets-unveiled-5052265",
     "AI|https://www.investing.com/news/company-news/life-healthcare-fy2026-slides-ebitda-up-67-dividend-jumps-14-93CH-5052280",
     "AI|https://www.investing.com/news/forex-news/global-bond-rally-eases-as-sticky-pce-locks-in-december-fed-hike-5052104",
     "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-premier-energy-cuts-2026-outlook-as-supply-margins-tighten-in-q3-2026-93CH-5052282",
@@ -5000,7 +4996,11 @@
     "Iran|https://www.iranintl.com/en/202611281061",
     "AI|5ad3564b-a0f0-3286-a366-939576534594",
     "Crypto|0467862f-ac37-38e2-97fd-8da64d69cead",
-    "Watchlist|5ad3564b-a0f0-3286-a366-939576534594"
+    "Watchlist|5ad3564b-a0f0-3286-a366-939576534594",
+    "AI|dbc27b06-7a6a-3ede-95fd-7d23a0df3e3d",
+    "AI|df4b2671-77a5-361e-a629-1b7c6792371a",
+    "Watchlist|dbc27b06-7a6a-3ede-95fd-7d23a0df3e3d",
+    "Watchlist|df4b2671-77a5-361e-a629-1b7c6792371a"
   ],
   "topic_error": "",
   "last_digest": "2026-11-28",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795858064.8443346,
+  "last_check": 1795858985.4998405,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-27"
