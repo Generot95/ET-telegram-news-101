@@ -1,7 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/economy-news/analysistrumps-new-tariffs-aim-to-prise-global-trade-from-chinas-grip-5052139",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/hill--smith-sees-2026-profit-above-forecasts-as-us-demand-lifts-sales-93CH-5052140",
     "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-k33-posts-q3-profit-as-revenue-rises-35-in-2026-93CH-5052141",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/integra-lifesciences-officer-sells-27040-in-common-stock-93CH-5052144",
@@ -5000,7 +4999,8 @@
     "AI|https://www.investing.com/news/stock-market-news/ai-stocks-rebound-catch-the-next-move-with-ai-picks-at-60-off-black-friday-only-5054103",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/ai-stocks-rebound-catch-the-next-move-with-ai-picks-at-60-off-black-friday-only-5054103",
     "SG Banks|https://www.investing.com/news/stock-market-news/ai-stocks-rebound-catch-the-next-move-with-ai-picks-at-60-off-black-friday-only-5054103",
-    "Watchlist|https://www.investing.com/news/stock-market-news/ai-stocks-rebound-catch-the-next-move-with-ai-picks-at-60-off-black-friday-only-5054103"
+    "Watchlist|https://www.investing.com/news/stock-market-news/ai-stocks-rebound-catch-the-next-move-with-ai-picks-at-60-off-black-friday-only-5054103",
+    "Watchlist|429d0d30-9010-330d-ad51-caf4b3a08d77"
   ],
   "topic_error": "",
   "last_digest": "2026-11-28",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795835144.1865973,
+  "last_check": 1795836048.9315174,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-27"
