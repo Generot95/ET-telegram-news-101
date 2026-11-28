@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/economy-news/exclusivedata-from-chinese-ai-firm-minimax-accessed-by-unidentified-parties-researcher-says-5052087",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/endeavor-blockchain-and-insiders-buy-87345-of-big-digital-energy-93CH-5052086",
     "SG Banks|https://www.investing.com/news/economy-news/exclusivedata-from-chinese-ai-firm-minimax-accessed-by-unidentified-parties-researcher-says-5052087",
     "Watchlist|https://www.investing.com/news/insider-trading-news/endeavor-blockchain-and-insiders-buy-87345-of-big-digital-energy-93CH-5052086",
     "Watchlist|https://www.investing.com/news/economy-news/exclusivedata-from-chinese-ai-firm-minimax-accessed-by-unidentified-parties-researcher-says-5052087",
@@ -5000,7 +4998,9 @@
     "SG Banks|/international/global/nvidia-halts-chip-shipments-4-countries-south-east-asia-including-singapore-ft",
     "SG Banks|/international/japans-data-centre-boom-faces-growing-revolt-urban-residents",
     "Watchlist|/international/global/nvidia-halts-chip-shipments-4-countries-south-east-asia-including-singapore-ft",
-    "Watchlist|/international/japans-data-centre-boom-faces-growing-revolt-urban-residents"
+    "Watchlist|/international/japans-data-centre-boom-faces-growing-revolt-urban-residents",
+    "AI|79a66208-cf33-3056-8469-1ab0541fab1f",
+    "Watchlist|79a66208-cf33-3056-8469-1ab0541fab1f"
   ],
   "topic_error": "",
   "last_digest": "2026-11-28",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795826850.992339,
+  "last_check": 1795827778.5651774,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-27"
