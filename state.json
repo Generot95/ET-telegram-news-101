@@ -1,12 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/insider-trading-news/therealreal-chief-legal-officer-sells-178444-in-stock-93CH-5052218",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-babcock-international-stock-rallying-today-93CH-5052219",
-    "SG Banks|https://www.investing.com/news/company-news/tokenized-security-linked-to-freedom-holding-corp-shares-listed-on-binance-expanding-investor-access-5052220",
-    "SG Banks|https://www.investing.com/news/stock-market-news/norse-atlantic-shares-fall-18-as-flight-halt-raises-bankruptcy-risk-5052227",
-    "SG Banks|https://www.investing.com/news/economy-news/european-stocks-rally-as-tech-and-banks-rebound-tariff-fears-ease-5052228",
-    "SG Banks|https://www.investing.com/news/stock-market-news/babcock-signs-record-87-billion-uk-submarine-support-agreement-5052230",
     "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-jinhui-shipping-posts-q3-2026-profit-rebound-93CH-5052231",
     "Watchlist|https://www.investing.com/news/insider-trading-news/therealreal-cfo-sells-392376-in-common-stock-93CH-5052214",
     "Watchlist|https://www.investing.com/news/stock-market-news/why-is-halfords-stock-surging-today-93CH-5052216",
@@ -5000,7 +4994,13 @@
     "AI|https://www.investing.com/news/company-news/united-fidelity-shut-by-regulators-in-biggest-us-bank-failure-in-two-years-5054218",
     "Cybersecurity|https://www.investing.com/news/company-news/united-fidelity-shut-by-regulators-in-biggest-us-bank-failure-in-two-years-5054218",
     "SG Banks|https://www.investing.com/news/company-news/united-fidelity-shut-by-regulators-in-biggest-us-bank-failure-in-two-years-5054218",
-    "Watchlist|https://www.investing.com/news/company-news/united-fidelity-shut-by-regulators-in-biggest-us-bank-failure-in-two-years-5054218"
+    "Watchlist|https://www.investing.com/news/company-news/united-fidelity-shut-by-regulators-in-biggest-us-bank-failure-in-two-years-5054218",
+    "AI|021d00c3-8fd1-3117-950c-c75a22eb96ea",
+    "AI|abad1200-a961-31db-9c88-201e7c7e4809",
+    "Watchlist|021d00c3-8fd1-3117-950c-c75a22eb96ea",
+    "Watchlist|abad1200-a961-31db-9c88-201e7c7e4809",
+    "AI|1811a72c-514d-3561-9538-b7f3b0ab3a6a",
+    "Watchlist|1811a72c-514d-3561-9538-b7f3b0ab3a6a"
   ],
   "topic_error": "",
   "last_digest": "2026-11-28",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795854402.0339396,
+  "last_check": 1795855309.585321,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-27"
