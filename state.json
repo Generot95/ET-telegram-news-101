@@ -1,13 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/insider-trading-news/i3-verticals-executive-sells-80355-in-company-stock-93CH-5052202",
-    "AI|https://www.investing.com/news/insider-trading-news/epam-systems-officer-sells-452342-in-company-stock-93CH-5052203",
-    "AI|https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-tech-rebound-offsets-tariff-worries-5052207",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/european-shares-as-benign-us-tariffs-and-thanksgiving-lull-offer-relief-5052089",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/berenberg-upgrades-bayer-to-buy-as-litigation-risks-ease-pharma-outlook-improves-5052194",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/therealreal-tech-officer-luke-friang-sells-223793-in-stock-93CH-5052201",
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/i3-verticals-executive-sells-80355-in-company-stock-93CH-5052202",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/epam-systems-officer-sells-452342-in-company-stock-93CH-5052203",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-tech-rebound-offsets-tariff-worries-5052207",
     "SG Banks|https://www.investing.com/news/stock-market-news/european-shares-as-benign-us-tariffs-and-thanksgiving-lull-offer-relief-5052089",
@@ -5000,7 +4993,14 @@
     "Watchlist|https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-falls-below-60k-as-whales-buy-dip-etf-outflows-mount-5054180",
     "SG Banks|/companies-markets/transport-logistics/musk-pledges-two-spacex-shares-every-american-child",
     "SG Banks|https://www.straitstimes.com/business/investment-linked-insurance-v-participating-plans-what-drives-demand-and-which-suits-you-better",
-    "Watchlist|/companies-markets/transport-logistics/musk-pledges-two-spacex-shares-every-american-child"
+    "Watchlist|/companies-markets/transport-logistics/musk-pledges-two-spacex-shares-every-american-child",
+    "AI|4fe2d5c0-77f9-3c64-a087-6a0d5e710e6b",
+    "Watchlist|4fe2d5c0-77f9-3c64-a087-6a0d5e710e6b",
+    "AI|7900fc03-ad0d-3e5d-89d8-394425429dcc",
+    "Watchlist|7900fc03-ad0d-3e5d-89d8-394425429dcc",
+    "Crypto|c1412a5e-c982-336d-8a96-897d97686c81",
+    "SG Banks|/companies-markets/banks-facing-bond-price-fixing-trial-agree-pay-over-us400-million",
+    "Watchlist|/companies-markets/banks-facing-bond-price-fixing-trial-agree-pay-over-us400-million"
   ],
   "topic_error": "",
   "last_digest": "2026-11-28",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795847075.617842,
+  "last_check": 1795847985.5754383,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-27"
