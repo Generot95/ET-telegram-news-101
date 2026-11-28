@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/economic-indicators/german-consumer-sentiment-edges-up-into-december-survey-finds-5052183",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/acrivon-therapeutics-coo-sells-5949-in-stock-for-taxes-93CH-5052190",
     "SG Banks|https://www.investing.com/news/insider-trading-news/therealreal-chief-accounting-officer-sells-135295-in-stock-93CH-5052191",
     "Watchlist|https://www.investing.com/news/stock-market-news/vienna-insurance-group-ninemonth-profit-tops-1-billion-93CH-5052167",
     "Watchlist|https://www.investing.com/news/insider-trading-news/root-ceo-alexander-timm-sells-198114-in-company-stock-93CH-5052168",
@@ -5000,7 +4998,9 @@
     "AI|https://www.investing.com/news/insider-trading-news/arista-networks-ceo-jayshree-ullal-sells-218m-in-company-stock-93CH-5054170",
     "Cybersecurity|https://www.investing.com/news/insider-trading-news/arista-networks-ceo-jayshree-ullal-sells-218m-in-company-stock-93CH-5054170",
     "SG Banks|https://www.investing.com/news/insider-trading-news/arista-networks-ceo-jayshree-ullal-sells-218m-in-company-stock-93CH-5054170",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/arista-networks-ceo-jayshree-ullal-sells-218m-in-company-stock-93CH-5054170"
+    "Watchlist|https://www.investing.com/news/insider-trading-news/arista-networks-ceo-jayshree-ullal-sells-218m-in-company-stock-93CH-5054170",
+    "AI|d4714e79-89fd-3112-913f-7126f80a0ad9",
+    "Watchlist|d4714e79-89fd-3112-913f-7126f80a0ad9"
   ],
   "topic_error": "",
   "last_digest": "2026-11-28",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795842480.44158,
+  "last_check": 1795843414.712549,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-27"
