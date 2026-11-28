@@ -1,14 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/company-news/k33-q3-2026-slides-revenue-up-35-profit-driven-by-bitcoin-revaluation-93CH-5052153",
-    "SG Banks|https://www.investing.com/news/stock-market-news/exclusiveus-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-sources-say-5052154",
-    "Watchlist|https://www.investing.com/news/economy-news/analysistrumps-new-tariffs-aim-to-prise-global-trade-from-chinas-grip-5052139",
-    "Watchlist|https://www.investing.com/news/stock-market-news/hill--smith-sees-2026-profit-above-forecasts-as-us-demand-lifts-sales-93CH-5052140",
-    "Watchlist|https://www.investing.com/news/transcripts/earnings-call-transcript-k33-posts-q3-profit-as-revenue-rises-35-in-2026-93CH-5052141",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/integra-lifesciences-officer-sells-27040-in-common-stock-93CH-5052144",
-    "Watchlist|https://www.investing.com/news/stock-market-news/mitchells--butlers-flags-95-million-cost-hit-as-sales-slow-in-fiscal-2026-93CH-5052149",
-    "Watchlist|https://www.investing.com/news/stock-market-news/ubs-names-its-top-european-luxury-stock-picks-for-2027-5052152",
     "Watchlist|https://www.investing.com/news/company-news/k33-q3-2026-slides-revenue-up-35-profit-driven-by-bitcoin-revaluation-93CH-5052153",
     "Watchlist|https://www.investing.com/news/stock-market-news/exclusiveus-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-sources-say-5052154",
     "AI|3a0dbbae-2697-378e-9a5b-ce5474810f3e",
@@ -5000,7 +4992,15 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/eversource-energy-cfo-sells-196k-in-company-shares-93CH-5054122",
     "AI|d5ab15cb-9c94-317e-a416-d9cc96a89989",
     "Watchlist|d5ab15cb-9c94-317e-a416-d9cc96a89989",
-    "War|2d7cc2b0-f8d2-38b5-8944-dca0183c2354"
+    "War|2d7cc2b0-f8d2-38b5-8944-dca0183c2354",
+    "War|424971f0-9ef9-366a-b7c4-82b48065cd8a",
+    "AI|https://www.investing.com/news/economy-news/us-bars-internet-bandwidth-provider-retn-over-national-security-risks-5054129",
+    "Cybersecurity|https://www.investing.com/news/economy-news/us-bars-internet-bandwidth-provider-retn-over-national-security-risks-5054129",
+    "SG Banks|https://www.investing.com/news/economy-news/us-bars-internet-bandwidth-provider-retn-over-national-security-risks-5054129",
+    "Watchlist|https://www.investing.com/news/economy-news/us-bars-internet-bandwidth-provider-retn-over-national-security-risks-5054129",
+    "Watchlist|1f4f6b1a-8996-3042-b35f-6c0efd26b216",
+    "AI|1f4f6b1a-8996-3042-b35f-6c0efd26b216",
+    "Cybersecurity|1f4f6b1a-8996-3042-b35f-6c0efd26b216"
   ],
   "topic_error": "",
   "last_digest": "2026-11-28",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795836973.2531815,
+  "last_check": 1795837883.5155027,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-27"
