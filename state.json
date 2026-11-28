@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Iran|https://www.iranintl.com/en/202611234991",
-    "AI|adb12ee6-ae33-374d-88a6-e7acfc4ddd0d",
     "SG Banks|https://www.channelnewsasia.com/business/bojs-net-income-shrinks-interest-payments-excess-reserves-grow-6584556",
     "Watchlist|adb12ee6-ae33-374d-88a6-e7acfc4ddd0d",
     "War|caa7381d-08b7-3321-a2cf-a1a7443202c8",
@@ -5000,7 +4998,9 @@
     "AI|6b550dbb-a400-327c-b152-7539ef0f055c",
     "Watchlist|6b550dbb-a400-327c-b152-7539ef0f055c",
     "AI|2d265dc4-6368-3fd9-ac1d-43f31586f758",
-    "Watchlist|2d265dc4-6368-3fd9-ac1d-43f31586f758"
+    "Watchlist|2d265dc4-6368-3fd9-ac1d-43f31586f758",
+    "War|dacaca73-c722-332e-a609-bdcffcf8bf88",
+    "Iran|https://www.iranintl.com/en/202611234991"
   ],
   "topic_error": "",
   "last_digest": "2026-11-28",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795844327.4785829,
+  "last_check": 1795845227.452183,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-27"
