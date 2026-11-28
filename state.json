@@ -1,9 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/insider-trading-news/therealreal-tech-officer-luke-friang-sells-223793-in-stock-93CH-5052201",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/i3-verticals-executive-sells-80355-in-company-stock-93CH-5052202",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/epam-systems-officer-sells-452342-in-company-stock-93CH-5052203",
     "Watchlist|https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-tech-rebound-offsets-tariff-worries-5052207",
     "War|3637cea4-8e05-3de7-8153-97dbc155e320",
     "Iran|https://www.iranintl.com/en/202611216643",
@@ -5000,7 +4997,10 @@
     "Watchlist|https://www.investing.com/news/economy-news/iran-war-intensifies-maritime-risks-as-opec-prepares-for-oil-supply-talks-5054196",
     "Watchlist|https://www.investing.com/news/insider-trading-news/natural-gas-services-group-ceo-buys-8250-in-company-stock-93CH-5054198",
     "SG Banks|/lifestyle/chinas-premium-puffer-jacket-push-meets-consumer-resistance",
-    "Watchlist|/lifestyle/chinas-premium-puffer-jacket-push-meets-consumer-resistance"
+    "Watchlist|/lifestyle/chinas-premium-puffer-jacket-push-meets-consumer-resistance",
+    "Crypto|c4aa64b4-1b73-3481-9580-2fffb5c4de58",
+    "AI|4449edd5-80ff-38d4-8408-02f85a87b47c",
+    "Watchlist|4449edd5-80ff-38d4-8408-02f85a87b47c"
   ],
   "topic_error": "",
   "last_digest": "2026-11-28",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795849821.8157418,
+  "last_check": 1795850734.6087294,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-27"
