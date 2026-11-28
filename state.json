@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/insider-trading-news/integra-lifesciences-officer-sells-27040-in-common-stock-93CH-5052144",
-    "AI|https://www.investing.com/news/stock-market-news/mitchells--butlers-flags-95-million-cost-hit-as-sales-slow-in-fiscal-2026-93CH-5052149",
-    "AI|https://www.investing.com/news/stock-market-news/ubs-names-its-top-european-luxury-stock-picks-for-2027-5052152",
-    "AI|https://www.investing.com/news/company-news/k33-q3-2026-slides-revenue-up-35-profit-driven-by-bitcoin-revaluation-93CH-5052153",
-    "AI|https://www.investing.com/news/stock-market-news/exclusiveus-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-sources-say-5052154",
     "Cybersecurity|https://www.investing.com/news/economy-news/analysistrumps-new-tariffs-aim-to-prise-global-trade-from-chinas-grip-5052139",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/hill--smith-sees-2026-profit-above-forecasts-as-us-demand-lifts-sales-93CH-5052140",
     "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-k33-posts-q3-profit-as-revenue-rises-35-in-2026-93CH-5052141",
@@ -5000,7 +4995,12 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/enovis-officer-laura-lee-singleton-sells-9666-in-stock-93CH-5054099",
     "Watchlist|https://www.investing.com/news/insider-trading-news/entergy-executive-daniel-falstad-sells-499535-in-company-stock-93CH-5054100",
     "SG Banks|/companies-markets/banking-finance/dubai-seals-deal-form-us159-billion-islamic-banking-giant",
-    "Watchlist|/companies-markets/banking-finance/dubai-seals-deal-form-us159-billion-islamic-banking-giant"
+    "Watchlist|/companies-markets/banking-finance/dubai-seals-deal-form-us159-billion-islamic-banking-giant",
+    "Iran|https://www.iranintl.com/en/202611280241",
+    "AI|https://www.investing.com/news/stock-market-news/ai-stocks-rebound-catch-the-next-move-with-ai-picks-at-60-off-black-friday-only-5054103",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/ai-stocks-rebound-catch-the-next-move-with-ai-picks-at-60-off-black-friday-only-5054103",
+    "SG Banks|https://www.investing.com/news/stock-market-news/ai-stocks-rebound-catch-the-next-move-with-ai-picks-at-60-off-black-friday-only-5054103",
+    "Watchlist|https://www.investing.com/news/stock-market-news/ai-stocks-rebound-catch-the-next-move-with-ai-picks-at-60-off-black-friday-only-5054103"
   ],
   "topic_error": "",
   "last_digest": "2026-11-28",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795834211.9307814,
+  "last_check": 1795835144.1865973,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-27"
