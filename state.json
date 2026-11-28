@@ -1,10 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/insider-trading-news/therealreal-ceo-sells-909k-in-stock-for-tax-withholding-93CH-5052169",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/lb-foster-ceo-john-f-kasel-sells-199711-in-company-stock-93CH-5052170",
-    "SG Banks|https://www.investing.com/news/economic-indicators/french-industrial-producer-prices-rise-96-yearonyear-in-october-93CH-5052175",
-    "SG Banks|https://www.investing.com/news/stock-market-news/norse-atlantic-suspends-flights-amid-bankruptcy-risk-93CH-5052182",
     "SG Banks|https://www.investing.com/news/economic-indicators/german-consumer-sentiment-edges-up-into-december-survey-finds-5052183",
     "SG Banks|https://www.investing.com/news/insider-trading-news/acrivon-therapeutics-coo-sells-5949-in-stock-for-taxes-93CH-5052190",
     "SG Banks|https://www.investing.com/news/insider-trading-news/therealreal-chief-accounting-officer-sells-135295-in-stock-93CH-5052191",
@@ -5000,7 +4996,11 @@
     "Watchlist|/companies-markets/chinese-home-builder-vanke-seeks-bond-delay-again-distress-deepens",
     "Watchlist|/companies-markets/transport-logistics/chinese-carmakers-double-sales-europe-hybrid-demand",
     "AI|b26d24c4-8d1c-3e8d-8a68-1e39a6d04e01",
-    "Watchlist|b26d24c4-8d1c-3e8d-8a68-1e39a6d04e01"
+    "Watchlist|b26d24c4-8d1c-3e8d-8a68-1e39a6d04e01",
+    "AI|https://www.investing.com/news/insider-trading-news/arista-networks-ceo-jayshree-ullal-sells-218m-in-company-stock-93CH-5054170",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/arista-networks-ceo-jayshree-ullal-sells-218m-in-company-stock-93CH-5054170",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/arista-networks-ceo-jayshree-ullal-sells-218m-in-company-stock-93CH-5054170",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/arista-networks-ceo-jayshree-ullal-sells-218m-in-company-stock-93CH-5054170"
   ],
   "topic_error": "",
   "last_digest": "2026-11-28",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795841566.0305102,
+  "last_check": 1795842480.44158,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-27"
