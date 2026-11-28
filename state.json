@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/forex-news/global-bond-rally-eases-as-sticky-pce-locks-in-december-fed-hike-5052104",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-premier-energy-cuts-2026-outlook-as-supply-margins-tighten-in-q3-2026-93CH-5052282",
     "SG Banks|https://www.investing.com/news/transcripts/earnings-call-transcript-life-healthcare-posts-stronger-margins-in-h2-2026-93CH-5052242",
     "SG Banks|https://www.investing.com/news/stock-market-news/tullow-oil-shares-jump-7-on-output-beat-and-ghana-tax-deal-5052244",
     "SG Banks|https://www.investing.com/news/company-news/jinhui-shipping-q3-2026-slides-profit-surges-despite-revenue-dip-93CH-5052245",
@@ -5000,7 +4998,9 @@
     "SG Banks|https://www.investing.com/news/company-news/musk-says-google-interested-in-renting-more-computing-capacity-from-spacex-5054245",
     "Watchlist|https://www.investing.com/news/stock-market-news/musk-says-google-is-interested-in-renting-more-computing-capacity-from-spacex-5054241",
     "Watchlist|https://www.investing.com/news/company-news/musk-says-google-interested-in-renting-more-computing-capacity-from-spacex-5054245",
-    "AI|3e68b425-70b9-3cdb-9f1d-4bdcd965dd0a"
+    "AI|3e68b425-70b9-3cdb-9f1d-4bdcd965dd0a",
+    "AI|1103edfe-8edc-33ce-bb30-164941e11477",
+    "Watchlist|1103edfe-8edc-33ce-bb30-164941e11477"
   ],
   "topic_error": "",
   "last_digest": "2026-11-28",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795860811.8247268,
+  "last_check": 1795861728.2054245,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-27"
