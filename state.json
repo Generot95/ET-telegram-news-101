@@ -1,19 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|f02a4def-bfbb-36a1-8641-2d9d68fa9f45",
-    "AI|04e628d8-fc57-397a-acec-53292496c500",
-    "AI|1453cc18-0764-3bee-877b-0482bde31aea",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-hill--smith-stock-rallying-today-93CH-5052283",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-tcm-group-beats-q3-2026-estimates-but-outlook-stays-weak-93CH-5052294",
-    "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-cmc-markets-posts-record-h1-2027-profit-as-growth-broadens-93CH-5052296",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-tullow-oil-stock-rallying-today-93CH-5052298",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-bachem-stock-tumbling-today-93CH-5052299",
-    "AI|https://www.investing.com/news/stock-market-news/why-is-safestore-stock-climbing-today-93CH-5052300",
-    "AI|https://www.investing.com/news/company-news/tcm-group-q3-2026-slides-revenue-jumps-14-guidance-cut-on-weak-demand-93CH-5052301",
-    "AI|https://www.investing.com/news/company-news/cmc-markets-hy-2027-slides-profit-doubles-as-platform-strategy-pays-off-93CH-5052302",
-    "Crypto|e2efadd0-d3ed-3579-b44e-702fcf61cddf",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-hill--smith-stock-rallying-today-93CH-5052283",
     "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-tcm-group-beats-q3-2026-estimates-but-outlook-stays-weak-93CH-5052294",
     "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-cmc-markets-posts-record-h1-2027-profit-as-growth-broadens-93CH-5052296",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-tullow-oil-stock-rallying-today-93CH-5052298",
@@ -5000,7 +4987,20 @@
     "Watchlist|/companies-markets/banking-finance/investors-see-rising-risk-softbank-default-pressure-grows-ai-bets",
     "War|https://www.investing.com/news/world-news/israeli-strike-killed-two-staff-outside-gaza-clinic-msf-says-5054212",
     "War|https://www.investing.com/news/world-news/first-soil-water-tests-after-iowa-leadazide-blast-show-negligible-contamination-epa-says-5054259",
-    "War|https://www.investing.com/news/world-news/conservatives-set-to-win-government-in-australias-secondmost-populous-state-5054273"
+    "War|https://www.investing.com/news/world-news/conservatives-set-to-win-government-in-australias-secondmost-populous-state-5054273",
+    "AI|https://www.investing.com/news/company-news/norways-wealth-fund-to-vote-against-musks-tesla-pay-package-again-5054280",
+    "AI|https://www.investing.com/news/investment-ideas/investingpros-vmet-overvalued-call-nailed-a-48-decline-93CH-5054284",
+    "Cybersecurity|https://www.investing.com/news/company-news/norways-wealth-fund-to-vote-against-musks-tesla-pay-package-again-5054280",
+    "Cybersecurity|https://www.investing.com/news/investment-ideas/investingpros-vmet-overvalued-call-nailed-a-48-decline-93CH-5054284",
+    "SG Banks|https://www.investing.com/news/company-news/norways-wealth-fund-to-vote-against-musks-tesla-pay-package-again-5054280",
+    "SG Banks|https://www.investing.com/news/investment-ideas/investingpros-vmet-overvalued-call-nailed-a-48-decline-93CH-5054284",
+    "Watchlist|https://www.investing.com/news/company-news/norways-wealth-fund-to-vote-against-musks-tesla-pay-package-again-5054280",
+    "Watchlist|https://www.investing.com/news/investment-ideas/investingpros-vmet-overvalued-call-nailed-a-48-decline-93CH-5054284",
+    "AI|21ca1571-1e0b-3db6-9d18-66d6acea6df8",
+    "AI|d3abbe1e-ad1e-3134-ba33-ee9406cf3959",
+    "Watchlist|21ca1571-1e0b-3db6-9d18-66d6acea6df8",
+    "Watchlist|d3abbe1e-ad1e-3134-ba33-ee9406cf3959",
+    "AI|92b35954-f1e5-33eb-828b-edb48b4a0fc6"
   ],
   "topic_error": "",
   "last_digest": "2026-11-28",
@@ -5091,8 +5091,8 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795863556.1063862,
+  "last_check": 1795864463.0904677,
   "last_board": "2026-10-27",
   "commands_version": 9,
-  "last_report": "2026-11-27"
+  "last_report": "2026-11-28"
 }
