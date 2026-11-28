@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-tech-rebound-offsets-tariff-worries-5052207",
-    "War|3637cea4-8e05-3de7-8153-97dbc155e320",
-    "Iran|https://www.iranintl.com/en/202611216643",
-    "AI|0cc30cca-8589-3301-9e7d-a69ad885f21d",
-    "Cybersecurity|dd543ffb-dc0c-3402-8454-0eeb31cce545",
     "SG Banks|c54d365f-5955-31f3-ab78-b391edcf9928",
     "SG Banks|https://www.channelnewsasia.com/east-asia/china-threaten-measures-after-new-us-tariffs-6584526",
     "Watchlist|c54d365f-5955-31f3-ab78-b391edcf9928",
@@ -5000,7 +4995,12 @@
     "Watchlist|/lifestyle/chinas-premium-puffer-jacket-push-meets-consumer-resistance",
     "Crypto|c4aa64b4-1b73-3481-9580-2fffb5c4de58",
     "AI|4449edd5-80ff-38d4-8408-02f85a87b47c",
-    "Watchlist|4449edd5-80ff-38d4-8408-02f85a87b47c"
+    "Watchlist|4449edd5-80ff-38d4-8408-02f85a87b47c",
+    "SG Banks|https://www.channelnewsasia.com/business/binance-gets-preliminary-approval-establish-asia-hub-in-bhutan-6589246",
+    "AI|32963235-ea12-39fe-8337-e72654b0c21c",
+    "Watchlist|32963235-ea12-39fe-8337-e72654b0c21c",
+    "AI|550a4ebf-c9ae-3cd4-8126-50abe13eec84",
+    "Watchlist|550a4ebf-c9ae-3cd4-8126-50abe13eec84"
   ],
   "topic_error": "",
   "last_digest": "2026-11-28",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795850734.6087294,
+  "last_check": 1795851636.3236835,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-27"
