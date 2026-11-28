@@ -1,8 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/analyst-ratings/macquarie-cuts-zscaler-stock-rating-to-neutral-on-revised-outlook-93CH-5052118",
-    "Cybersecurity|https://www.investing.com/news/economy-news/analysisjapan-property-draws-global-money-but-easy-gains-fade-as-rates-rise-5052119",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/smart-eye-cfo-benjaminsson-to-leave-in-december-interim-named-93CH-5052122",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/hp-stock-rating-downgraded-by-hsbc-on-weak-fy27-guidance-tariff-concerns-93CH-5052123",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-084-5052126",
@@ -5000,7 +4998,9 @@
     "AI|72d1c51a-936d-389e-a813-79e971f9dee1",
     "Watchlist|72d1c51a-936d-389e-a813-79e971f9dee1",
     "Iran|https://www.iranintl.com/en/202611270661",
-    "AI|b4db0f28-92da-3c3f-aa6d-08f4c2941a6a"
+    "AI|b4db0f28-92da-3c3f-aa6d-08f4c2941a6a",
+    "SG Banks|https://www.straitstimes.com/business/chinas-premium-puffer-jacket-push-meets-consumer-resistance",
+    "SG Banks|https://www.straitstimes.com/business/real-madrid-and-barcelona-suffer-defeat-off-the-pitch-in-singapore-trademark-fight-against-la-liga"
   ],
   "topic_error": "",
   "last_digest": "2026-11-28",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795830526.4218943,
+  "last_check": 1795831454.813386,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-27"
