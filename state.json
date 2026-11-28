@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/insider-trading-news/therealreal-chief-accounting-officer-sells-135295-in-stock-93CH-5052191",
-    "Watchlist|https://www.investing.com/news/stock-market-news/vienna-insurance-group-ninemonth-profit-tops-1-billion-93CH-5052167",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/root-ceo-alexander-timm-sells-198114-in-company-stock-93CH-5052168",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/therealreal-ceo-sells-909k-in-stock-for-tax-withholding-93CH-5052169",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/lb-foster-ceo-john-f-kasel-sells-199711-in-company-stock-93CH-5052170",
-    "Watchlist|https://www.investing.com/news/economic-indicators/french-industrial-producer-prices-rise-96-yearonyear-in-october-93CH-5052175",
-    "Watchlist|https://www.investing.com/news/stock-market-news/norse-atlantic-suspends-flights-amid-bankruptcy-risk-93CH-5052182",
-    "Watchlist|https://www.investing.com/news/economic-indicators/german-consumer-sentiment-edges-up-into-december-survey-finds-5052183",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/acrivon-therapeutics-coo-sells-5949-in-stock-for-taxes-93CH-5052190",
-    "Watchlist|https://www.investing.com/news/insider-trading-news/therealreal-chief-accounting-officer-sells-135295-in-stock-93CH-5052191",
     "Iran|https://www.iranintl.com/en/202611234991",
     "AI|adb12ee6-ae33-374d-88a6-e7acfc4ddd0d",
     "SG Banks|https://www.channelnewsasia.com/business/bojs-net-income-shrinks-interest-payments-excess-reserves-grow-6584556",
@@ -5000,7 +4990,17 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/arista-networks-ceo-jayshree-ullal-sells-218m-in-company-stock-93CH-5054170",
     "Watchlist|https://www.investing.com/news/insider-trading-news/arista-networks-ceo-jayshree-ullal-sells-218m-in-company-stock-93CH-5054170",
     "AI|d4714e79-89fd-3112-913f-7126f80a0ad9",
-    "Watchlist|d4714e79-89fd-3112-913f-7126f80a0ad9"
+    "Watchlist|d4714e79-89fd-3112-913f-7126f80a0ad9",
+    "AI|https://www.investing.com/news/economy-news/chinas-import-logistics-demand-falls-06-in-januaryoctober-5054171",
+    "Crypto|f8e1277d-0f49-3b8f-be0f-969aa902eef6",
+    "Cybersecurity|https://www.investing.com/news/economy-news/chinas-import-logistics-demand-falls-06-in-januaryoctober-5054171",
+    "SG Banks|https://www.investing.com/news/economy-news/chinas-import-logistics-demand-falls-06-in-januaryoctober-5054171",
+    "Watchlist|https://www.investing.com/news/economy-news/chinas-import-logistics-demand-falls-06-in-januaryoctober-5054171",
+    "War|73285a44-a269-3153-97b6-86a00de15f39",
+    "AI|6b550dbb-a400-327c-b152-7539ef0f055c",
+    "Watchlist|6b550dbb-a400-327c-b152-7539ef0f055c",
+    "AI|2d265dc4-6368-3fd9-ac1d-43f31586f758",
+    "Watchlist|2d265dc4-6368-3fd9-ac1d-43f31586f758"
   ],
   "topic_error": "",
   "last_digest": "2026-11-28",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795843414.712549,
+  "last_check": 1795844327.4785829,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-27"
