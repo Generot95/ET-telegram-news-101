@@ -1,17 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Watchlist|https://www.investing.com/news/company-news/k33-q3-2026-slides-revenue-up-35-profit-driven-by-bitcoin-revaluation-93CH-5052153",
-    "Watchlist|https://www.investing.com/news/stock-market-news/exclusiveus-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-sources-say-5052154",
-    "AI|3a0dbbae-2697-378e-9a5b-ce5474810f3e",
-    "Watchlist|3a0dbbae-2697-378e-9a5b-ce5474810f3e",
-    "SG Banks|https://www.straitstimes.com/business/mas-greenlights-retail-investor-access-to-wider-range-of-complex-funds-but-excludes-private-market",
-    "War|efe78e91-c4ba-3dfe-8b6f-9c63a05ca36c",
-    "SG Banks|/international/chinese-ecommerce-giants-rush-take-uk-warehouse-space",
-    "Watchlist|/international/chinese-ecommerce-giants-rush-take-uk-warehouse-space",
-    "AI|a205527d-9025-3c16-9498-614c9a016f58",
-    "AI|45f2f5fa-fc70-332f-a9b7-60e638c48a0c",
-    "AI|https://www.investing.com/news/stock-market-news/safestore-expects-fullyear-earnings-in-line-as-new-stores-offset-weaker-trading-5052155",
     "AI|https://www.investing.com/news/company-news/k33-q3-2026-slides-revenue-jumps-35-profit-led-by-bitcoin-gains-93CH-5052156",
     "AI|https://www.investing.com/news/earnings/halfords-raises-fy-profit-outlook-to-up-to-65-mln-as-hot-summer-lifts-h1-earnings-5052157",
     "AI|https://www.investing.com/news/stock-market-news/unicredit-clears-final-hurdles-for-commerzbank-takeover-5052161",
@@ -5000,7 +4989,18 @@
     "Watchlist|https://www.investing.com/news/economy-news/us-bars-internet-bandwidth-provider-retn-over-national-security-risks-5054129",
     "Watchlist|1f4f6b1a-8996-3042-b35f-6c0efd26b216",
     "AI|1f4f6b1a-8996-3042-b35f-6c0efd26b216",
-    "Cybersecurity|1f4f6b1a-8996-3042-b35f-6c0efd26b216"
+    "Cybersecurity|1f4f6b1a-8996-3042-b35f-6c0efd26b216",
+    "AI|https://www.investing.com/news/world-news/costa-rica-bars-un-rapporteur-on-palestinian-territory-drawing-concern-from-rights-chief-5053769",
+    "Cybersecurity|https://www.investing.com/news/world-news/costa-rica-bars-un-rapporteur-on-palestinian-territory-drawing-concern-from-rights-chief-5053769",
+    "SG Banks|https://www.investing.com/news/world-news/costa-rica-bars-un-rapporteur-on-palestinian-territory-drawing-concern-from-rights-chief-5053769",
+    "Watchlist|https://www.investing.com/news/world-news/costa-rica-bars-un-rapporteur-on-palestinian-territory-drawing-concern-from-rights-chief-5053769",
+    "SG Banks|https://www.straitstimes.com/business/companies-markets/tech-rebounds-seatrium-retrenches-over-200-staff-starhub-m1-to-merge-markets-this-week",
+    "SG Banks|https://www.straitstimes.com/business/mas-greenlights-retail-investor-access-to-wider-range-of-complex-funds-but-excludes-private-market",
+    "Iran|https://www.iranintl.com/en/202611271353",
+    "Watchlist|5c1ae346-2fd6-3dab-8d83-357ab4f51edc",
+    "SG Banks|/international/chinese-ecommerce-giants-rush-take-uk-warehouse-space",
+    "Watchlist|/international/chinese-ecommerce-giants-rush-take-uk-warehouse-space",
+    "Crypto|6e351d31-7bb0-3ec6-9787-9a6deda91eb9"
   ],
   "topic_error": "",
   "last_digest": "2026-11-28",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795837883.5155027,
+  "last_check": 1795838793.9732125,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-27"
