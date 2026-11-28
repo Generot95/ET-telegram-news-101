@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|https://www.investing.com/news/analyst-ratings/hp-stock-rating-downgraded-by-hsbc-on-weak-fy27-guidance-tariff-concerns-93CH-5052123",
-    "AI|https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-084-5052126",
-    "AI|https://www.investing.com/news/insider-trading-news/rocket-lab-cfo-adam-spice-sells-472787-in-common-stock-93CH-5052129",
-    "AI|https://www.investing.com/news/company-news/startrader-recognised-by-porsche-carrera-cup-middle-east-at-icons-of-porsche-2026-5052130",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/skanska-wins-275-mln-data-center-contract-in-georgia-usa-93CH-5052117",
     "Cybersecurity|https://www.investing.com/news/analyst-ratings/macquarie-cuts-zscaler-stock-rating-to-neutral-on-revised-outlook-93CH-5052118",
     "Cybersecurity|https://www.investing.com/news/economy-news/analysisjapan-property-draws-global-money-but-easy-gains-fade-as-rates-rise-5052119",
     "Cybersecurity|https://www.investing.com/news/stock-market-news/smart-eye-cfo-benjaminsson-to-leave-in-december-interim-named-93CH-5052122",
@@ -5000,7 +4995,12 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/stubhub-officer-mark-streams-sells-60000-in-company-stock-93CH-5054076",
     "Watchlist|https://www.investing.com/news/insider-trading-news/tyler-technologies-executive-sells-13-million-in-stock-93CH-5054078",
     "Watchlist|https://www.investing.com/news/company-news/cathie-woods-ark-buys-spcx-stock-trims-shop-and-ilmn-93CH-5054079",
-    "Watchlist|https://www.investing.com/news/stock-market-news/chinas-premium-puffer-jacketpush-meets-consumer-resistance-5054071"
+    "Watchlist|https://www.investing.com/news/stock-market-news/chinas-premium-puffer-jacketpush-meets-consumer-resistance-5054071",
+    "Watchlist|/companies-markets/banking-finance/south-koreas-central-bank-raises-rates-3-25-upgrades-2027-growth-outlook",
+    "AI|72d1c51a-936d-389e-a813-79e971f9dee1",
+    "Watchlist|72d1c51a-936d-389e-a813-79e971f9dee1",
+    "Iran|https://www.iranintl.com/en/202611270661",
+    "AI|b4db0f28-92da-3c3f-aa6d-08f4c2941a6a"
   ],
   "topic_error": "",
   "last_digest": "2026-11-28",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795829603.779207,
+  "last_check": 1795830526.4218943,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-27"
