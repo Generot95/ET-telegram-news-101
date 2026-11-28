@@ -1,16 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/insider-trading-news/epam-systems-officer-sells-452342-in-company-stock-93CH-5052203",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-tech-rebound-offsets-tariff-worries-5052207",
-    "SG Banks|https://www.investing.com/news/stock-market-news/european-shares-as-benign-us-tariffs-and-thanksgiving-lull-offer-relief-5052089",
-    "SG Banks|https://www.investing.com/news/stock-market-news/berenberg-upgrades-bayer-to-buy-as-litigation-risks-ease-pharma-outlook-improves-5052194",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/therealreal-tech-officer-luke-friang-sells-223793-in-stock-93CH-5052201",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/i3-verticals-executive-sells-80355-in-company-stock-93CH-5052202",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/epam-systems-officer-sells-452342-in-company-stock-93CH-5052203",
-    "SG Banks|https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-tech-rebound-offsets-tariff-worries-5052207",
-    "Watchlist|https://www.investing.com/news/stock-market-news/european-shares-as-benign-us-tariffs-and-thanksgiving-lull-offer-relief-5052089",
-    "Watchlist|https://www.investing.com/news/stock-market-news/berenberg-upgrades-bayer-to-buy-as-litigation-risks-ease-pharma-outlook-improves-5052194",
     "Watchlist|https://www.investing.com/news/insider-trading-news/therealreal-tech-officer-luke-friang-sells-223793-in-stock-93CH-5052201",
     "Watchlist|https://www.investing.com/news/insider-trading-news/i3-verticals-executive-sells-80355-in-company-stock-93CH-5052202",
     "Watchlist|https://www.investing.com/news/insider-trading-news/epam-systems-officer-sells-452342-in-company-stock-93CH-5052203",
@@ -5000,7 +4990,17 @@
     "Watchlist|7900fc03-ad0d-3e5d-89d8-394425429dcc",
     "Crypto|c1412a5e-c982-336d-8a96-897d97686c81",
     "SG Banks|/companies-markets/banks-facing-bond-price-fixing-trial-agree-pay-over-us400-million",
-    "Watchlist|/companies-markets/banks-facing-bond-price-fixing-trial-agree-pay-over-us400-million"
+    "Watchlist|/companies-markets/banks-facing-bond-price-fixing-trial-agree-pay-over-us400-million",
+    "AI|https://www.investing.com/news/economy-news/iran-war-intensifies-maritime-risks-as-opec-prepares-for-oil-supply-talks-5054196",
+    "AI|https://www.investing.com/news/insider-trading-news/natural-gas-services-group-ceo-buys-8250-in-company-stock-93CH-5054198",
+    "Cybersecurity|https://www.investing.com/news/economy-news/iran-war-intensifies-maritime-risks-as-opec-prepares-for-oil-supply-talks-5054196",
+    "Cybersecurity|https://www.investing.com/news/insider-trading-news/natural-gas-services-group-ceo-buys-8250-in-company-stock-93CH-5054198",
+    "SG Banks|https://www.investing.com/news/economy-news/iran-war-intensifies-maritime-risks-as-opec-prepares-for-oil-supply-talks-5054196",
+    "SG Banks|https://www.investing.com/news/insider-trading-news/natural-gas-services-group-ceo-buys-8250-in-company-stock-93CH-5054198",
+    "Watchlist|https://www.investing.com/news/economy-news/iran-war-intensifies-maritime-risks-as-opec-prepares-for-oil-supply-talks-5054196",
+    "Watchlist|https://www.investing.com/news/insider-trading-news/natural-gas-services-group-ceo-buys-8250-in-company-stock-93CH-5054198",
+    "SG Banks|/lifestyle/chinas-premium-puffer-jacket-push-meets-consumer-resistance",
+    "Watchlist|/lifestyle/chinas-premium-puffer-jacket-push-meets-consumer-resistance"
   ],
   "topic_error": "",
   "last_digest": "2026-11-28",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795848895.6484869,
+  "last_check": 1795849821.8157418,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-27"
