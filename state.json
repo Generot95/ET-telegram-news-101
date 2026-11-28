@@ -1,15 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/why-is-babcock-international-stock-rallying-today-93CH-5052219",
-    "Cybersecurity|https://www.investing.com/news/company-news/tokenized-security-linked-to-freedom-holding-corp-shares-listed-on-binance-expanding-investor-access-5052220",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/norse-atlantic-shares-fall-18-as-flight-halt-raises-bankruptcy-risk-5052227",
-    "Cybersecurity|https://www.investing.com/news/economy-news/european-stocks-rally-as-tech-and-banks-rebound-tariff-fears-ease-5052228",
-    "Cybersecurity|https://www.investing.com/news/stock-market-news/babcock-signs-record-87-billion-uk-submarine-support-agreement-5052230",
-    "Cybersecurity|https://www.investing.com/news/transcripts/earnings-call-transcript-jinhui-shipping-posts-q3-2026-profit-rebound-93CH-5052231",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/therealreal-cfo-sells-392376-in-common-stock-93CH-5052214",
-    "SG Banks|https://www.investing.com/news/stock-market-news/why-is-halfords-stock-surging-today-93CH-5052216",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/acrivon-therapeutics-cfo-sells-4138-in-common-stock-93CH-5052217",
     "SG Banks|https://www.investing.com/news/insider-trading-news/therealreal-chief-legal-officer-sells-178444-in-stock-93CH-5052218",
     "SG Banks|https://www.investing.com/news/stock-market-news/why-is-babcock-international-stock-rallying-today-93CH-5052219",
     "SG Banks|https://www.investing.com/news/company-news/tokenized-security-linked-to-freedom-holding-corp-shares-listed-on-binance-expanding-investor-access-5052220",
@@ -5000,7 +4991,16 @@
     "Watchlist|https://www.investing.com/news/insider-trading-news/bv-financial-director-sells-16754-in-company-stock-93CH-5054206",
     "Watchlist|https://www.investing.com/news/economy-news/is-the-us-tariff-wall-here-to-stay-ing-weighs-in-5054207",
     "SG Banks|https://www.straitstimes.com/business/binance-gets-preliminary-approval-to-establish-asia-hub-in-bhutan",
-    "Crypto|d5c8afcf-6996-3a2e-882d-faed034b8c94"
+    "Crypto|d5c8afcf-6996-3a2e-882d-faed034b8c94",
+    "SG Banks|/companies-markets/binance-gets-preliminary-approval-establish-asia-hub-bhutan",
+    "Watchlist|/companies-markets/binance-gets-preliminary-approval-establish-asia-hub-bhutan",
+    "War|https://www.investing.com/news/world-news/taiwan-votes-in-key-local-elections-as-china-looks-on-5054030",
+    "War|https://www.investing.com/news/world-news/irans-flogging-of-singer-was-warning-from-anxious-hardliners-insiders-say-5054201",
+    "War|https://www.investing.com/news/world-news/russia-says-it-downed-1246-ukrainian-drones-overnight-5054202",
+    "AI|https://www.investing.com/news/company-news/united-fidelity-shut-by-regulators-in-biggest-us-bank-failure-in-two-years-5054218",
+    "Cybersecurity|https://www.investing.com/news/company-news/united-fidelity-shut-by-regulators-in-biggest-us-bank-failure-in-two-years-5054218",
+    "SG Banks|https://www.investing.com/news/company-news/united-fidelity-shut-by-regulators-in-biggest-us-bank-failure-in-two-years-5054218",
+    "Watchlist|https://www.investing.com/news/company-news/united-fidelity-shut-by-regulators-in-biggest-us-bank-failure-in-two-years-5054218"
   ],
   "topic_error": "",
   "last_digest": "2026-11-28",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795853477.1155784,
+  "last_check": 1795854402.0339396,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-27"
