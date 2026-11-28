@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.investing.com/news/analyst-ratings/hp-stock-rating-downgraded-by-hsbc-on-weak-fy27-guidance-tariff-concerns-93CH-5052123",
-    "SG Banks|https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-084-5052126",
-    "SG Banks|https://www.investing.com/news/insider-trading-news/rocket-lab-cfo-adam-spice-sells-472787-in-common-stock-93CH-5052129",
-    "SG Banks|https://www.investing.com/news/company-news/startrader-recognised-by-porsche-carrera-cup-middle-east-at-icons-of-porsche-2026-5052130",
-    "Watchlist|https://www.investing.com/news/stock-market-news/skanska-wins-275-mln-data-center-contract-in-georgia-usa-93CH-5052117",
     "Watchlist|https://www.investing.com/news/analyst-ratings/macquarie-cuts-zscaler-stock-rating-to-neutral-on-revised-outlook-93CH-5052118",
     "Watchlist|https://www.investing.com/news/economy-news/analysisjapan-property-draws-global-money-but-easy-gains-fade-as-rates-rise-5052119",
     "Watchlist|https://www.investing.com/news/stock-market-news/smart-eye-cfo-benjaminsson-to-leave-in-december-interim-named-93CH-5052122",
@@ -5000,7 +4995,12 @@
     "SG Banks|https://www.investing.com/news/insider-trading-news/ies-holdings-director-david-b-gendell-buys-653000-in-stock-93CH-5054090",
     "Watchlist|https://www.investing.com/news/stock-market-news/ecb-officials-signal-further-rate-hikes-as-inflation-remains-elevated-5054086",
     "Watchlist|https://www.investing.com/news/insider-trading-news/ies-holdings-director-david-b-gendell-buys-653000-in-stock-93CH-5054090",
-    "Watchlist|71142997-f169-3e5e-9ce7-e60602db8ef4"
+    "Watchlist|71142997-f169-3e5e-9ce7-e60602db8ef4",
+    "AI|d7d8a78e-7923-3afe-88c2-e7e3c8638244",
+    "Watchlist|d7d8a78e-7923-3afe-88c2-e7e3c8638244",
+    "War|36dd6b20-f802-3bd2-aa49-89244356a345",
+    "AI|77ca7c9b-4e31-3811-bd7a-6be9853629e3",
+    "Watchlist|00074472-d777-3361-9fb0-b98aae89affb"
   ],
   "topic_error": "",
   "last_digest": "2026-11-28",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795832383.021671,
+  "last_check": 1795833294.7518685,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-27"
