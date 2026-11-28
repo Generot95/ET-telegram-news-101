@@ -1,18 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "SG Banks|https://www.channelnewsasia.com/business/bojs-net-income-shrinks-interest-payments-excess-reserves-grow-6584556",
-    "Watchlist|adb12ee6-ae33-374d-88a6-e7acfc4ddd0d",
-    "War|caa7381d-08b7-3321-a2cf-a1a7443202c8",
-    "SG Banks|https://www.straitstimes.com/business/investment-linked-insurance-v-participating-plans-what-drives-demand-and-which-suits-you-better",
-    "Watchlist|2c8e47a8-fa93-3b64-a876-82075ea2ec0f",
-    "AI|2c8e47a8-fa93-3b64-a876-82075ea2ec0f",
-    "Crypto|532bd13f-fa16-3edb-b72b-663a222bdb26",
-    "SG Banks|/companies-markets/transport-logistics/musk-pledges-two-spacex-shares-every-american-child",
-    "Watchlist|/companies-markets/transport-logistics/musk-pledges-two-spacex-shares-every-american-child",
-    "AI|https://www.investing.com/news/stock-market-news/european-shares-as-benign-us-tariffs-and-thanksgiving-lull-offer-relief-5052089",
-    "AI|https://www.investing.com/news/stock-market-news/berenberg-upgrades-bayer-to-buy-as-litigation-risks-ease-pharma-outlook-improves-5052194",
-    "AI|https://www.investing.com/news/insider-trading-news/therealreal-tech-officer-luke-friang-sells-223793-in-stock-93CH-5052201",
     "AI|https://www.investing.com/news/insider-trading-news/i3-verticals-executive-sells-80355-in-company-stock-93CH-5052202",
     "AI|https://www.investing.com/news/insider-trading-news/epam-systems-officer-sells-452342-in-company-stock-93CH-5052203",
     "AI|https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-tech-rebound-offsets-tariff-worries-5052207",
@@ -5000,7 +4988,19 @@
     "AI|2d265dc4-6368-3fd9-ac1d-43f31586f758",
     "Watchlist|2d265dc4-6368-3fd9-ac1d-43f31586f758",
     "War|dacaca73-c722-332e-a609-bdcffcf8bf88",
-    "Iran|https://www.iranintl.com/en/202611234991"
+    "Iran|https://www.iranintl.com/en/202611234991",
+    "AI|https://www.investing.com/news/stock-market-news/missed-black-friday-heres-one-final-chance-to-lock-in-investingpro-for-60-off-5053598",
+    "AI|https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-falls-below-60k-as-whales-buy-dip-etf-outflows-mount-5054180",
+    "Crypto|https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-falls-below-60k-as-whales-buy-dip-etf-outflows-mount-5054180",
+    "Cybersecurity|https://www.investing.com/news/stock-market-news/missed-black-friday-heres-one-final-chance-to-lock-in-investingpro-for-60-off-5053598",
+    "Cybersecurity|https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-falls-below-60k-as-whales-buy-dip-etf-outflows-mount-5054180",
+    "SG Banks|https://www.investing.com/news/stock-market-news/missed-black-friday-heres-one-final-chance-to-lock-in-investingpro-for-60-off-5053598",
+    "SG Banks|https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-falls-below-60k-as-whales-buy-dip-etf-outflows-mount-5054180",
+    "Watchlist|https://www.investing.com/news/stock-market-news/missed-black-friday-heres-one-final-chance-to-lock-in-investingpro-for-60-off-5053598",
+    "Watchlist|https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-falls-below-60k-as-whales-buy-dip-etf-outflows-mount-5054180",
+    "SG Banks|/companies-markets/transport-logistics/musk-pledges-two-spacex-shares-every-american-child",
+    "SG Banks|https://www.straitstimes.com/business/investment-linked-insurance-v-participating-plans-what-drives-demand-and-which-suits-you-better",
+    "Watchlist|/companies-markets/transport-logistics/musk-pledges-two-spacex-shares-every-american-child"
   ],
   "topic_error": "",
   "last_digest": "2026-11-28",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795845227.452183,
+  "last_check": 1795846160.5086749,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-27"
