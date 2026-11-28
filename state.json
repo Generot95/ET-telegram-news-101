@@ -1,11 +1,6 @@
 {
   "offset": 424373871,
   "seen": [
-    "AI|92934841-2dcd-36cc-a176-7ea187ba5c52",
-    "Watchlist|92934841-2dcd-36cc-a176-7ea187ba5c52",
-    "War|44fb12db-86b3-3ea6-aa95-fab556524e64",
-    "Crypto|df9acd48-e9b3-379c-8852-a2d750937404",
-    "AI|9fd6ee40-e829-36d8-b4e8-fe53ba5f3635",
     "AI|https://www.investing.com/news/transcripts/earnings-call-transcript-life-healthcare-posts-stronger-margins-in-h2-2026-93CH-5052242",
     "AI|https://www.investing.com/news/stock-market-news/tullow-oil-shares-jump-7-on-output-beat-and-ghana-tax-deal-5052244",
     "AI|https://www.investing.com/news/company-news/jinhui-shipping-q3-2026-slides-profit-surges-despite-revenue-dip-93CH-5052245",
@@ -5000,7 +4995,12 @@
     "Watchlist|https://www.investing.com/news/economy-news/us-military-repelled-drones-at-uk-airbase-iran-suspected-of-involvement--ft-5054231",
     "Watchlist|3065cb22-2e93-3f81-aae5-0da5a27b786a",
     "AI|8e02593d-8b32-3691-9b57-8165200b5422",
-    "Watchlist|8e02593d-8b32-3691-9b57-8165200b5422"
+    "Watchlist|8e02593d-8b32-3691-9b57-8165200b5422",
+    "SG Banks|https://www.channelnewsasia.com/business/musk-says-google-interested-in-renting-more-computing-capacity-spacex-6589306",
+    "Iran|https://www.iranintl.com/en/202611281061",
+    "AI|5ad3564b-a0f0-3286-a366-939576534594",
+    "Crypto|0467862f-ac37-38e2-97fd-8da64d69cead",
+    "Watchlist|5ad3564b-a0f0-3286-a366-939576534594"
   ],
   "topic_error": "",
   "last_digest": "2026-11-28",
@@ -5091,7 +5091,7 @@
     "INTU|2026-11-20",
     "CRWD|2026-11-23"
   ],
-  "last_check": 1795857152.9229383,
+  "last_check": 1795858064.8443346,
   "last_board": "2026-10-27",
   "commands_version": 9,
   "last_report": "2026-11-27"
